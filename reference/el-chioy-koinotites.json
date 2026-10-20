@@ -1,0 +1,471 @@
+{
+  "id": "el-chioy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Χιου (60)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Χιου (60)",
+  "description": "Οι 60 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Χιου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 60,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "540701",
+      "name": "Οινουσσων",
+      "municipality": "Οινουσσων",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540101",
+      "name": "Θυμιανων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540102",
+      "name": "Νεοχωριου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540201",
+      "name": "Αγιου Γαλακτος",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540202",
+      "name": "Βολισσου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540203",
+      "name": "Διευχων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540204",
+      "name": "Κεραμου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540205",
+      "name": "Κουρουνιων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540206",
+      "name": "Λεπτοποδων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540207",
+      "name": "Μελανιου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540208",
+      "name": "Νεας Ποταμιας(Ποταμιας)",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540209",
+      "name": "Νενητουριων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540210",
+      "name": "Παρπαριας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540211",
+      "name": "Πιραμας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540212",
+      "name": "Πισπιλουντος",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540213",
+      "name": "Τρυπων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540214",
+      "name": "Φυτων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540215",
+      "name": "Χαλανδρων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540304",
+      "name": "Καλλιμασιας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540309",
+      "name": "Νενητων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540301",
+      "name": "Βουνου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540302",
+      "name": "Εξω Διδυμας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540303",
+      "name": "Θολοποταμιου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540305",
+      "name": "Καταρρακτου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540306",
+      "name": "Κοινη",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540307",
+      "name": "Μεσα Διδυμας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540308",
+      "name": "Μυρμηγκιου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540310",
+      "name": "Παγιδος",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540311",
+      "name": "Φλατσιων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540401",
+      "name": "Αγιου Γεωργιου Συκουση",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540402",
+      "name": "Βαβιλων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540403",
+      "name": "Βασιλεωνοικου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540404",
+      "name": "Βερβερατου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540405",
+      "name": "Δαφνωνος",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540406",
+      "name": "Ζυφια",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540407",
+      "name": "Χαλκειου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540504",
+      "name": "Καρδαμυλων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540501",
+      "name": "Αμαδων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540502",
+      "name": "Βικιου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540503",
+      "name": "Καμπιων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540505",
+      "name": "Πιτυουντος",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540506",
+      "name": "Σπαρτουντος",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540609",
+      "name": "Πυργιου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540601",
+      "name": "Αρμολιων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540602",
+      "name": "Βεσσης",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540603",
+      "name": "Ελατας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540604",
+      "name": "Καλαμωτης",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540605",
+      "name": "Λιθιου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540606",
+      "name": "Μεστων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540607",
+      "name": "Ολυμπων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540608",
+      "name": "Πατρικων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540803",
+      "name": "Βρονταδου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540805",
+      "name": "Λαγκαδας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540801",
+      "name": "Αναβατου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540802",
+      "name": "Αυγωνυμων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540804",
+      "name": "Καρυων",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540806",
+      "name": "Σιδηρουντος",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540807",
+      "name": "Συκιαδας",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "540901",
+      "name": "Χιου",
+      "municipality": "Χιου",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "541001",
+      "name": "Ψαρων",
+      "municipality": "Ψαρων",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Χιου (60) - Δωρεάν λήψη",
+    "description": "Οι 60 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Χιου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 60 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Χιου (60) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Χιου (60) — 60 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 60 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "id": "el-ko-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Κω (9)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Κω (9)",
+  "description": "Οι 9 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Κω (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "120601",
+      "name": "Ασφενδιου",
+      "municipality": "Κω",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120602",
+      "name": "Πυλιου",
+      "municipality": "Κω",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120701",
+      "name": "Αντιμαχειας",
+      "municipality": "Κω",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120702",
+      "name": "Καρδαμαινης",
+      "municipality": "Κω",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120703",
+      "name": "Κεφαλου",
+      "municipality": "Κω",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121401",
+      "name": "Κω",
+      "municipality": "Κω",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121901",
+      "name": "Εμπορειου",
+      "municipality": "Νισυρου",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121902",
+      "name": "Μανδρακιου",
+      "municipality": "Νισυρου",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121903",
+      "name": "Νικιων",
+      "municipality": "Νισυρου",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Κω (9) - Δωρεάν λήψη",
+    "description": "Οι 9 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Κω (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 9 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Κω (9) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Κω (9) — 9 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 9 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

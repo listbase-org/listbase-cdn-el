@@ -1,0 +1,135 @@
+{
+  "id": "el-dytikis-makedonias-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Δυτικής Μακεδονίας",
+  "title": "Αεροδρόμια — Περιφέρεια Δυτικής Μακεδονίας",
+  "description": "Αεροδρόμια στην «Περιφέρεια Δυτικής Μακεδονίας» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (West Macedonia Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LGKA",
+      "iata": "KSO",
+      "name": "Kastoria National Airport",
+      "name_slug": "kastoria-national-airport",
+      "city": "Kastoria",
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "perifereia_source": "West-Macedonia",
+      "perifereia_slug": "dytikis-makedonias",
+      "perifereia_en": "West Macedonia Region",
+      "country": "GR",
+      "elevation_ft": 2167,
+      "lat": 40.4463005066,
+      "lon": 21.2821998596,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKZ",
+      "iata": "KZI",
+      "name": "Filippos Airport",
+      "name_slug": "filippos-airport",
+      "city": "Kozani",
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "perifereia_source": "West-Macedonia",
+      "perifereia_slug": "dytikis-makedonias",
+      "perifereia_en": "West Macedonia Region",
+      "country": "GR",
+      "elevation_ft": 2059,
+      "lat": 40.2860984802,
+      "lon": 21.8407993317,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Δυτικής Μακεδονίας - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Δυτικής Μακεδονίας» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (West Macedonia Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 2 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Δυτικής Μακεδονίας | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Δυτικής Μακεδονίας — 2 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 2 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

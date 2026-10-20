@@ -1,0 +1,292 @@
+{
+  "id": "el-proedroi-tis-dimokratias",
+  "name": "Πρόεδροι της Ελληνικής Δημοκρατίας",
+  "title": "Πρόεδροι της Ελληνικής Δημοκρατίας",
+  "description": "Διαχρονικός κατάλογος των προέδρων της Ελληνικής Δημοκρατίας (Q3409203 στο Wikidata): ονοματεπώνυμο, ημερομηνίες γέννησης/θανάτου και θητείας, σύνδεσμος Wikidata και εικόνα όπου είναι διαθέσιμη.",
+  "category": "politics",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "birth_date",
+      "label": "Birth Date",
+      "type": "date"
+    },
+    {
+      "key": "death_date",
+      "label": "Death Date",
+      "type": "date"
+    },
+    {
+      "key": "term_start",
+      "label": "Term Start",
+      "type": "date"
+    },
+    {
+      "key": "term_end",
+      "label": "Term End",
+      "type": "date"
+    },
+    {
+      "key": "image_url",
+      "label": "Image Url",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    },
+    {
+      "key": "ordinal",
+      "label": "Ordinal",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "wikidata_id": "Q374655",
+      "name_el": "Παύλος Κουντουριώτης",
+      "name_en": "Pavlos Kountouriotis",
+      "birth_date": "1854-01-01",
+      "death_date": "1935-08-22",
+      "term_start": "1920-10-28",
+      "term_end": "1920-11-18",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavlos%20Coundouriotis.png",
+      "wikidata_url": "http://www.wikidata.org/entity/Q374655",
+      "ordinal": 1
+    },
+    {
+      "wikidata_id": "Q374655",
+      "name_el": "Παύλος Κουντουριώτης",
+      "name_en": "Pavlos Kountouriotis",
+      "birth_date": "1854-01-01",
+      "death_date": "1935-08-22",
+      "term_start": "1923-12-19",
+      "term_end": "1926-08-22",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavlos%20Coundouriotis.png",
+      "wikidata_url": "http://www.wikidata.org/entity/Q374655",
+      "ordinal": 2
+    },
+    {
+      "wikidata_id": "Q515693",
+      "name_el": "Θεόδωρος Δ. Πάγκαλος",
+      "name_en": "Theodoros Pangalos",
+      "birth_date": "1878-01-11",
+      "death_date": "1952-02-27",
+      "term_start": "1926-07-19",
+      "term_end": "1926-08-22",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Major%20General%20Theodoros%20Pangalos%2C%201920.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q515693",
+      "ordinal": 3
+    },
+    {
+      "wikidata_id": "Q374655",
+      "name_el": "Παύλος Κουντουριώτης",
+      "name_en": "Pavlos Kountouriotis",
+      "birth_date": "1854-01-01",
+      "death_date": "1935-08-22",
+      "term_start": "1926-08-22",
+      "term_end": "1929-12-10",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Pavlos%20Coundouriotis.png",
+      "wikidata_url": "http://www.wikidata.org/entity/Q374655",
+      "ordinal": 4
+    },
+    {
+      "wikidata_id": "Q332096",
+      "name_el": "Αλέξανδρος Ζαΐμης",
+      "name_en": "Alexandros Zaimis",
+      "birth_date": "1855-11-21",
+      "death_date": "1936-09-15",
+      "term_start": "1929-01-01",
+      "term_end": "1935-01-01",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Alexandros%20Zaimis%2002.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q332096",
+      "ordinal": 5
+    },
+    {
+      "wikidata_id": "Q156505",
+      "name_el": "Γεώργιος Παπαδόπουλος",
+      "name_en": "Georgios Papadopoulos",
+      "birth_date": "1919-05-05",
+      "death_date": "1999-06-27",
+      "term_start": "1973-06-01",
+      "term_end": "1973-11-25",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Georgios%20Papadopoulos%20speaking.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q156505",
+      "ordinal": 6
+    },
+    {
+      "wikidata_id": "Q365196",
+      "name_el": "Φαίδων Γκιζίκης",
+      "name_en": "Phedon Gizikis",
+      "birth_date": "1917-06-16",
+      "death_date": "1999-07-26",
+      "term_start": "1973-11-25",
+      "term_end": "1974-12-17",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1973%20Press%20Photo%20New%20Greek%20President%20Lt.%20Gen.%20Phaedon%20Gizikis%20shown%20in%20Athens.png",
+      "wikidata_url": "http://www.wikidata.org/entity/Q365196",
+      "ordinal": 7
+    },
+    {
+      "wikidata_id": "Q373532",
+      "name_el": "Μιχαήλ Στασινόπουλος",
+      "name_en": "Michael Stasinopoulos",
+      "birth_date": "1903-08-09",
+      "death_date": "2002-10-31",
+      "term_start": "1974-12-18",
+      "term_end": "1975-07-19",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/1974%20Press%20Photo%20Michael%20Stasinopoulos%20sworn%20in%20at%20President%20of%20Greek%20Republic%20%28cropped%29.png",
+      "wikidata_url": "http://www.wikidata.org/entity/Q373532",
+      "ordinal": 8
+    },
+    {
+      "wikidata_id": "Q365209",
+      "name_el": "Κωνσταντίνος Τσάτσος",
+      "name_en": "Konstantinos Tsatsos",
+      "birth_date": "1899-07-13",
+      "death_date": "1987-10-08",
+      "term_start": "1975-06-20",
+      "term_end": "1980-05-15",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Greek%20President%20Konstantinos%20Tsatsos%20circa%201978.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q365209",
+      "ordinal": 9
+    },
+    {
+      "wikidata_id": "Q365209",
+      "name_el": "Κωνσταντίνος Τσάτσος",
+      "name_en": "Konstantinos Tsatsos",
+      "birth_date": "1899-07-13",
+      "death_date": "1987-10-08",
+      "term_start": "1975-07-19",
+      "term_end": "1980-05-10",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Portrait%20of%20Greek%20President%20Konstantinos%20Tsatsos%20circa%201978.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q365209",
+      "ordinal": 10
+    },
+    {
+      "wikidata_id": "Q156806",
+      "name_el": "Κωνσταντίνος Καραμανλής",
+      "name_en": "Konstantinos Karamanlis",
+      "birth_date": "1907-03-08",
+      "death_date": "1998-04-23",
+      "term_start": "1980-05-10",
+      "term_end": "1985-03-10",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bezoek%20premier%20Karamanlis%20van%20Griekenland%20Van%20Agt%20in%20gesprek%20met%20Karamanlis%2C%20Bestanddeelnr%20929-6548%20%28cropped%29.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q156806",
+      "ordinal": 11
+    },
+    {
+      "wikidata_id": "Q344729",
+      "name_el": "Χρήστος Σαρτζετάκης",
+      "name_en": "Christos Sartzetakis",
+      "birth_date": "1929-04-06",
+      "death_date": "2022-02-03",
+      "term_start": "1985-03-29",
+      "term_end": "1990-05-05",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Press%20Photo%201985%20Christos%20Sartzetakis%20Greece%27s%20new%20President%20Athens%20Greece%20%28cropped%29.png",
+      "wikidata_url": "http://www.wikidata.org/entity/Q344729",
+      "ordinal": 12
+    },
+    {
+      "wikidata_id": "Q156806",
+      "name_el": "Κωνσταντίνος Καραμανλής",
+      "name_en": "Konstantinos Karamanlis",
+      "birth_date": "1907-03-08",
+      "death_date": "1998-04-23",
+      "term_start": "1990-05-05",
+      "term_end": "1995-03-10",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Bezoek%20premier%20Karamanlis%20van%20Griekenland%20Van%20Agt%20in%20gesprek%20met%20Karamanlis%2C%20Bestanddeelnr%20929-6548%20%28cropped%29.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q156806",
+      "ordinal": 13
+    },
+    {
+      "wikidata_id": "Q206421",
+      "name_el": "Κωστής Στεφανόπουλος",
+      "name_en": "Konstantinos Stephanopoulos",
+      "birth_date": "1926-08-15",
+      "death_date": "2016-11-20",
+      "term_start": "1995-03-10",
+      "term_end": "2005-03-12",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Kostis%20stephanopoulos.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q206421",
+      "ordinal": 14
+    },
+    {
+      "wikidata_id": "Q57303",
+      "name_el": "Κάρολος Παπούλιας",
+      "name_en": "Karolos Papoulias",
+      "birth_date": "1929-06-04",
+      "death_date": "2021-12-26",
+      "term_start": "2005-03-21",
+      "term_end": "2015-03-13",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Karolos%20Papoulias.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q57303",
+      "ordinal": 15
+    },
+    {
+      "wikidata_id": "Q3407316",
+      "name_el": "Προκόπης Παυλόπουλος",
+      "name_en": "Prokopis Pavlopoulos",
+      "birth_date": "1950-07-10",
+      "death_date": "",
+      "term_start": "2015-03-13",
+      "term_end": "2020-03-13",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Prokopis%20Pavlopoulos%202016-01-15.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q3407316",
+      "ordinal": 16
+    },
+    {
+      "wikidata_id": "Q57415743",
+      "name_el": "Κατερίνα Σακελλαροπούλου",
+      "name_en": "Katerina Sakellaropoulou",
+      "birth_date": "1956-05-30",
+      "death_date": "",
+      "term_start": "2020-03-13",
+      "term_end": "2025-03-13",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/Katerina%20Sakellaropoulou%2C%20October%202022%20%28cropped%29.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q57415743",
+      "ordinal": 17
+    },
+    {
+      "wikidata_id": "Q20995518",
+      "name_el": "Κωνσταντίνος Τασούλας",
+      "name_en": "Konstantinos Tasoulas",
+      "birth_date": "1959-07-17",
+      "death_date": "",
+      "term_start": "2025-03-13",
+      "term_end": "",
+      "image_url": "http://commons.wikimedia.org/wiki/Special:FilePath/KonstantinosTasoulas.jpg",
+      "wikidata_url": "http://www.wikidata.org/entity/Q20995518",
+      "ordinal": 18
+    }
+  ],
+  "meta": {
+    "title": "Πρόεδροι της Ελληνικής Δημοκρατίας - Δωρεάν λήψη",
+    "description": "Διαχρονικός κατάλογος των προέδρων της Ελληνικής Δημοκρατίας (Q3409203 στο Wikidata): ονοματεπώνυμο, ημερομηνίες γέννησης/θανάτου και θητείας, σύνδεσμος Wikidata και εικόνα όπου είναι διαθέσιμη. Περιέχει 18 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πρόεδροι της Ελληνικής Δημοκρατίας | ListBase",
+    "seo_description": "Λήψη Πρόεδροι της Ελληνικής Δημοκρατίας — 18 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 18 εγγραφές / 10 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

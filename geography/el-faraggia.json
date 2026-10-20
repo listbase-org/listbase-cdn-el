@@ -1,0 +1,577 @@
+{
+  "id": "el-faraggia",
+  "name": "Φαράγγια της Ελλάδας",
+  "title": "Φαράγγια της Ελλάδας",
+  "description": "Gorges and canyons in Greece from Wikidata (P31=Q150784 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q134547347",
+      "name_el": "",
+      "name_en": "Abbas Canyon",
+      "admin_area_el": "Δήμος Αρχανών - Αστερουσίων",
+      "admin_area_en": "Archanes-Asterousia Municipality",
+      "latitude": 34.961090408,
+      "longitude": 25.133199691,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134547347"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q110969321",
+      "name_el": "",
+      "name_en": "Apsalos Gorge",
+      "admin_area_el": "Δήμος Έδεσσας",
+      "admin_area_en": "Edessa Municipality",
+      "latitude": 40.841801,
+      "longitude": 22.114363,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110969321"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q25162415",
+      "name_el": "",
+      "name_en": "Arvis Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.00599,
+      "longitude": 25.45725,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25162415"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q60755141",
+      "name_el": "",
+      "name_en": "Astrakiano Gorge",
+      "admin_area_el": "Δήμος Αρχανών - Αστερουσίων",
+      "admin_area_en": "Archanes-Asterousia Municipality",
+      "latitude": 35.23670139,
+      "longitude": 25.2252,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60755141"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q108868807",
+      "name_el": "",
+      "name_en": "Dimosari Gorge",
+      "admin_area_el": "Δήμος Καρύστου",
+      "admin_area_en": "Karystos Municipality",
+      "latitude": 38.08991,
+      "longitude": 24.46912,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q108868807"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q25162403",
+      "name_el": "",
+      "name_en": "Gorge Keralimeniotissas",
+      "admin_area_el": "Κρήτη",
+      "admin_area_en": "Crete",
+      "latitude": 35.00937,
+      "longitude": 25.49583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25162403"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q110896964",
+      "name_el": "",
+      "name_en": "Koromilia Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 40.566638888,
+      "longitude": 21.188861111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110896964"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q3827259",
+      "name_el": "",
+      "name_en": "Kritsa Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.196,
+      "longitude": 25.5532,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3827259"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q126182732",
+      "name_el": "",
+      "name_en": "Lafista Gorge",
+      "admin_area_el": "Δήμος Βελβεντού",
+      "admin_area_en": "Velventos Municipality",
+      "latitude": 40.266265,
+      "longitude": 22.117624,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126182732"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q126064888",
+      "name_el": "",
+      "name_en": "Palea Vrontou Gorge",
+      "admin_area_el": "Δήμος Δίου - Ολύμπου",
+      "admin_area_en": "Dion-Olympos Municipality",
+      "latitude": 40.147777777,
+      "longitude": 22.380555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126064888"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q124676323",
+      "name_el": "",
+      "name_en": "Panta Vrechei Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.757688129,
+      "longitude": 21.746567158,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124676323"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q126073819",
+      "name_el": "",
+      "name_en": "Pozar Gorge",
+      "admin_area_el": "Δήμος Αλμωπίας",
+      "admin_area_en": "Almopia Municipality",
+      "latitude": 40.980514,
+      "longitude": 21.893392,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126073819"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q134542770",
+      "name_el": "",
+      "name_en": "Profitis Ilias Gorge",
+      "admin_area_el": "Δήμος Ηρακλείου",
+      "admin_area_en": "Heraklion Municipality",
+      "latitude": 35.210906794,
+      "longitude": 25.082551004,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134542770"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q126182124",
+      "name_el": "",
+      "name_en": "Pyrgoi Gorge",
+      "admin_area_el": "Δήμος Προσοτσάνης",
+      "admin_area_en": "Prosotsani Municipality",
+      "latitude": 41.265904,
+      "longitude": 24.057226,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126182124"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q135268026",
+      "name_el": "",
+      "name_en": "Roza Gorge",
+      "admin_area_el": "Δήμος Χερσονήσου",
+      "admin_area_en": "Hersonissos Municipality",
+      "latitude": 35.222196406,
+      "longitude": 25.445425986,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135268026"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q18480314",
+      "name_el": "",
+      "name_en": "Smyliano gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.20361,
+      "longitude": 24.64833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18480314"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q106300170",
+      "name_el": "",
+      "name_en": "Çingene Derbent",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 41.0635,
+      "longitude": 22.530388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106300170"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q111974546",
+      "name_el": "Μαύρη Σπηλιά",
+      "name_en": "Black Cave canyon",
+      "admin_area_el": "Δήμος Καρπενησίου",
+      "admin_area_en": "Karpenisi Municipality",
+      "latitude": 38.73261,
+      "longitude": 21.64973,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111974546"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q25164001",
+      "name_el": "Τοπολιανό Φαράγγι",
+      "name_en": "Topolia Gorge",
+      "admin_area_el": "Δήμος Κισσάμου",
+      "admin_area_en": "Kissamos Municipality",
+      "latitude": 35.41945,
+      "longitude": 23.68839,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25164001"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q24888231",
+      "name_el": "Τσιχιανό Φαράγγι",
+      "name_en": "Tsichiano Canyon",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.43432,
+      "longitude": 23.64761,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24888231"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q1415745",
+      "name_el": "Φαράγγι Ίμπρου",
+      "name_en": "Imbros Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.246667,
+      "longitude": 24.168056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1415745"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q138856478",
+      "name_el": "Φαράγγι Αγίας Βαρβάρας, Κεφαλονιά",
+      "name_en": "Agia Varvara Gorge, Kefalonia",
+      "admin_area_el": "Δήμος Αργοστολίου",
+      "admin_area_en": "Argostoli Municipality",
+      "latitude": 38.180550969,
+      "longitude": 20.502129793,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138856478"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q110824711",
+      "name_el": "Φαράγγι Ενιπέα",
+      "name_en": "Enipeas Gorge",
+      "admin_area_el": "Δήμος Δίου - Ολύμπου",
+      "admin_area_en": "Dion-Olympos Municipality",
+      "latitude": 40.088333333,
+      "longitude": 22.434722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110824711"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q136423437",
+      "name_el": "Φαράγγι Θερίσου",
+      "name_en": "Theriso Gorge",
+      "admin_area_el": "Δήμος Χανίων",
+      "admin_area_en": "Chania Municipality",
+      "latitude": 35.446388888,
+      "longitude": 23.996666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136423437"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q1785442",
+      "name_el": "Φαράγγι Κοτσυφού",
+      "name_en": "Kotsifos Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.22083333,
+      "longitude": 24.40083333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1785442"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q66299263",
+      "name_el": "Φαράγγι Λεπίδας",
+      "name_en": "Lepida Gorge",
+      "admin_area_el": "Δήμος Βόρειας Κυνουρίας",
+      "admin_area_en": "North Kynouria Municipality",
+      "latitude": 37.342375,
+      "longitude": 22.627031,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66299263"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q4479719",
+      "name_el": "Φαράγγι Μέσωνα",
+      "name_en": "Mesona Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.1092,
+      "longitude": 25.8736,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4479719"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q25163999",
+      "name_el": "Φαράγγι Μεσαβλιών",
+      "name_en": "Mesavlion Canyon",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.4284,
+      "longitude": 23.73185,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25163999"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q3557538",
+      "name_el": "Φαράγγι Μυλωνά",
+      "name_en": "Milona Gorge",
+      "admin_area_el": "Δήμος Ιεράπετρας",
+      "admin_area_en": "Ierapetra Municipality",
+      "latitude": 35.03554722,
+      "longitude": 25.8499,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3557538"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q135234264",
+      "name_el": "Φαράγγι Ξερόκαμπου",
+      "name_en": "Xerokampos Gorge",
+      "admin_area_el": "Δήμος Σητείας",
+      "admin_area_en": "Sitia Municipality",
+      "latitude": 35.043348972,
+      "longitude": 26.205868721,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135234264"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q3557483",
+      "name_el": "Φαράγγι Ορεινού",
+      "name_en": "Orino Gorge",
+      "admin_area_el": "Δήμος Ιεράπετρας",
+      "admin_area_en": "Ierapetra Municipality",
+      "latitude": 35.065555555,
+      "longitude": 25.916666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3557483"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q18480317",
+      "name_el": "Φαράγγι Πατσού",
+      "name_en": "Patsos Gorge",
+      "admin_area_el": "Δήμος Αμαρίου",
+      "admin_area_en": "Amari Municipality",
+      "latitude": 35.25957,
+      "longitude": 24.571164,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18480317"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q25163854",
+      "name_el": "Φαράγγι Περιβολακίων",
+      "name_en": "Perivolakia gorge",
+      "admin_area_el": "Δήμος Σητείας",
+      "admin_area_en": "Sitia Municipality",
+      "latitude": 35.026388888,
+      "longitude": 26.049722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25163854"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q138856152",
+      "name_el": "Φαράγγι Πόρου",
+      "name_en": "Poros Gorge",
+      "admin_area_el": "Δήμος Αργοστολίου",
+      "admin_area_en": "Argostoli Municipality",
+      "latitude": 38.150436863,
+      "longitude": 20.770854949,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138856152"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q3558586",
+      "name_el": "Φαράγγι Σαρακίνας",
+      "name_en": "Sarakina Gorge",
+      "admin_area_el": "Δήμος Ιεράπετρας",
+      "admin_area_en": "Ierapetra Municipality",
+      "latitude": 35.050789,
+      "longitude": 25.574833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3558586"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q2898403",
+      "name_el": "Φαράγγι Τρυπητής",
+      "name_en": "Tripiti Canyon",
+      "admin_area_el": "Περιφέρεια Κρήτης",
+      "admin_area_en": "Crete Region",
+      "latitude": 35.255,
+      "longitude": 23.881944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2898403"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q5683900",
+      "name_el": "Φαράγγι Χαυγά",
+      "name_en": "Havga Gorge",
+      "admin_area_el": "Δήμος Οροπεδίου Λασιθίου",
+      "admin_area_en": "Orοpedio Lasithi Municipality",
+      "latitude": 35.159699,
+      "longitude": 25.527135,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5683900"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q2131255",
+      "name_el": "Φαράγγι της Αγίας Ειρήνης",
+      "name_en": "Agia Eirini Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.2995,
+      "longitude": 23.8346,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2131255"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q12885724",
+      "name_el": "Φαράγγι της Ελυγιάς",
+      "name_en": "Elygias Gorge",
+      "admin_area_el": "Δήμος Σφακίων",
+      "admin_area_en": "Sfakia Municipality",
+      "latitude": 35.24619444,
+      "longitude": 23.98974444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12885724"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q1128366",
+      "name_el": "Φαράγγι της Σαμαριάς",
+      "name_en": "Samariá Gorge National Park",
+      "admin_area_el": "Δήμος Σφακίων",
+      "admin_area_en": "Sfakia Municipality",
+      "latitude": 35.271111111,
+      "longitude": 23.961388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1128366"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q15061872",
+      "name_el": "Φαράγγι του Βίκου",
+      "name_en": "Vikos Gorge",
+      "admin_area_el": "Περιφέρεια Ηπείρου",
+      "admin_area_en": "Epirus Region",
+      "latitude": 39.928888888,
+      "longitude": 20.740833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15061872"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q16332028",
+      "name_el": "Φαράγγι του Βουραϊκού",
+      "name_en": "Vouraikos Gorge",
+      "admin_area_el": "Δήμος Αιγιαλείας",
+      "admin_area_en": "Aigialeia Municipality",
+      "latitude": 38.126635,
+      "longitude": 22.167012,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16332028"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q7943971",
+      "name_el": "Φαράγγι του Βυρού",
+      "name_en": "Vyros Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 36.9255,
+      "longitude": 22.2966,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7943971"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q1058142",
+      "name_el": "Φαράγγι του Χα",
+      "name_en": "Ha Gorge",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.085,
+      "longitude": 25.835,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1058142"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q3562866",
+      "name_el": "δημοτική ενότητα Ρούβα Ηρακλείου",
+      "name_en": "Rouvas Municipal Unit",
+      "admin_area_el": "Δήμος Γόρτυνας",
+      "admin_area_en": "Gortyn Municipality",
+      "latitude": 35.13333333,
+      "longitude": 24.93333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3562866"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q16330461",
+      "name_el": "φαράγγι Κλεισούρας",
+      "name_en": "Kleisoura gorge",
+      "admin_area_el": "Δήμος Ιεράς Πόλεως Μεσολογγίου",
+      "admin_area_en": "Missolonghi Municipality",
+      "latitude": 38.50405,
+      "longitude": 21.37768,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16330461"
+    }
+  ],
+  "meta": {
+    "title": "Φαράγγια της Ελλάδας - Δωρεάν λήψη",
+    "description": "Gorges and canyons in Greece from Wikidata (P31=Q150784 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 46 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Φαράγγια της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Φαράγγια της Ελλάδας — 46 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 46 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

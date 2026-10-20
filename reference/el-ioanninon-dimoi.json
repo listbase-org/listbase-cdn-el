@@ -1,0 +1,107 @@
+{
+  "id": "el-ioanninon-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Ιωαννινων (8)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Ιωαννινων (8)",
+  "description": "Οι 8 δήμοι της Περιφερειακής Ενότητας Ιωαννινων (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9080",
+      "name": "Βορειων Τζουμερκων",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9081",
+      "name": "Δωδωνης",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9082",
+      "name": "Ζαγοριου",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9083",
+      "name": "Ζιτσας",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9084",
+      "name": "Ιωαννιτων",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9085",
+      "name": "Κονιτσας",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9086",
+      "name": "Μετσοβου",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9087",
+      "name": "Πωγωνιου",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Ιωαννινων (8) - Δωρεάν λήψη",
+    "description": "Οι 8 δήμοι της Περιφερειακής Ενότητας Ιωαννινων (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη. Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Ιωαννινων (8) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Ιωαννινων (8) — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

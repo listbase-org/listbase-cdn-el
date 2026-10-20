@@ -1,0 +1,340 @@
+{
+  "id": "el-athina-stathmoi-metro-grammi-4",
+  "name": "Σταθμοί Μετρό Αθήνας — Γραμμή 4 (υπό κατασκευή)",
+  "title": "Σταθμοί Μετρό Αθήνας — Γραμμή 4 (υπό κατασκευή)",
+  "description": "Οι προγραμματισμένοι σταθμοί της υπό κατασκευή γραμμής 4 του Μετρό της Αθήνας με ελληνική και αγγλική ονομασία, φάση κατασκευής (A–E) και συντεταγμένες WGS84. Πηγές: OSM, ΣΤΑΣΥ, Ελληνικό Μετρό μέσω Athens GIS Repository (snapshot 2025-08-27). (Planned stations of the under-construction Athens Metro line 4, with construction phase A–E.)",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "line",
+      "label": "Line",
+      "type": "number"
+    },
+    {
+      "key": "phase",
+      "label": "Phase",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 1,
+      "name": "ΠΕΥΚΗ",
+      "name_en": "PEFKI",
+      "line": 4,
+      "phase": "E",
+      "latitude": 38.0586351,
+      "longitude": 23.7923851
+    },
+    {
+      "source_id": 2,
+      "name": "ΛΥΚΟΒΡΥΣΗ",
+      "name_en": "LYKOVRYSI",
+      "line": 4,
+      "phase": "E",
+      "latitude": 38.0688182,
+      "longitude": 23.7824464
+    },
+    {
+      "source_id": 3,
+      "name": "ΕΘΝΙΚΗ ΟΔΟΣ",
+      "name_en": "ETHNIKI ODOS",
+      "line": 4,
+      "phase": "E",
+      "latitude": 38.0790135,
+      "longitude": 23.7809474
+    },
+    {
+      "source_id": 4,
+      "name": "ΝΕΑ ΙΩΝΙΑ",
+      "name_en": "NEA IONIA",
+      "line": 4,
+      "phase": "D",
+      "latitude": 38.032051,
+      "longitude": 23.7576738
+    },
+    {
+      "source_id": 5,
+      "name": "ΠΕΡΙΣΣΟΣ",
+      "name_en": "PERISSOS",
+      "line": 4,
+      "phase": "D",
+      "latitude": 38.0327739,
+      "longitude": 23.7444217
+    },
+    {
+      "source_id": 6,
+      "name": "ΠΑΓΚΡΑΤΙ",
+      "name_en": "PAGRATI",
+      "line": 4,
+      "phase": "C",
+      "latitude": 37.9687222,
+      "longitude": 23.7491569
+    },
+    {
+      "source_id": 7,
+      "name": "ΒΥΡΩΝΑΣ",
+      "name_en": "VYRONAS",
+      "line": 4,
+      "phase": "C",
+      "latitude": 37.9596741,
+      "longitude": 23.7527242
+    },
+    {
+      "source_id": 8,
+      "name": "ΑΝΩ ΗΛΙΟΥΠΟΛΗ",
+      "name_en": "ANO ILIOUPOLI",
+      "line": 4,
+      "phase": "C",
+      "latitude": 37.9463004,
+      "longitude": 23.7550046
+    },
+    {
+      "source_id": 9,
+      "name": "ΦΙΛΟΘΕΗ",
+      "name_en": "FILOTHEI",
+      "line": 4,
+      "phase": "B",
+      "latitude": 38.0172375,
+      "longitude": 23.7859907
+    },
+    {
+      "source_id": 10,
+      "name": "ΦΑΡΟΣ",
+      "name_en": "FAROS",
+      "line": 4,
+      "phase": "B",
+      "latitude": 38.0047899,
+      "longitude": 23.7758623
+    },
+    {
+      "source_id": 11,
+      "name": "ΣΙΔΕΡΑ",
+      "name_en": "SIDERA",
+      "line": 4,
+      "phase": "B",
+      "latitude": 38.0284026,
+      "longitude": 23.7900343
+    },
+    {
+      "source_id": 12,
+      "name": "ΟΛΥΜΠΙΑΚΟ ΣΤΑΔΙ",
+      "name_en": "OLYMPIAKO STADIO",
+      "line": 4,
+      "phase": "B",
+      "latitude": 38.034815,
+      "longitude": 23.7949695
+    },
+    {
+      "source_id": 13,
+      "name": "ΠΑΡΑΔΕΙΣΟΣ",
+      "name_en": "PARADISSOS",
+      "line": 4,
+      "phase": "B",
+      "latitude": 38.0411615,
+      "longitude": 23.8036106
+    },
+    {
+      "source_id": 14,
+      "name": "ΟΤΕ",
+      "name_en": "OTE",
+      "line": 4,
+      "phase": "B",
+      "latitude": 38.0492424,
+      "longitude": 23.8055395
+    },
+    {
+      "source_id": 15,
+      "name": "ΜΑΡΟΥΣΙ",
+      "name_en": "MAROUSSI",
+      "line": 4,
+      "phase": "B",
+      "latitude": 38.0561345,
+      "longitude": 23.805033
+    },
+    {
+      "source_id": 17,
+      "name": "ΙΛΙΣΙΑ",
+      "name_en": "ILISSIA",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9731868,
+      "longitude": 23.7687359
+    },
+    {
+      "source_id": 18,
+      "name": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟ",
+      "name_en": "PANEPISTIMIOUPOLI",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9688734,
+      "longitude": 23.7648352
+    },
+    {
+      "source_id": 19,
+      "name": "ΖΩΓΡΑΦΟΥ",
+      "name_en": "ZOGRAFOU",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9774739,
+      "longitude": 23.7712752
+    },
+    {
+      "source_id": 20,
+      "name": "ΓΟΥΔΗ",
+      "name_en": "GOUDI",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9821516,
+      "longitude": 23.7699657
+    },
+    {
+      "source_id": 21,
+      "name": "ΚΑΙΣΑΡΙΑΝΗ",
+      "name_en": "KESSARIANI",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9691664,
+      "longitude": 23.7548632
+    },
+    {
+      "source_id": 22,
+      "name": "ΕΥΑΓΓΕΛΙΣΜΟΣ",
+      "name_en": "EVANGELISMOS",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9753478,
+      "longitude": 23.7465379
+    },
+    {
+      "source_id": 23,
+      "name": "ΕΛΙΚΩΝΟΣ",
+      "name_en": "ELIKONOS",
+      "line": 4,
+      "phase": "A",
+      "latitude": 38.0088887,
+      "longitude": 23.7454769
+    },
+    {
+      "source_id": 24,
+      "name": "ΚΥΨΕΛΗ",
+      "name_en": "KYPSELI",
+      "line": 4,
+      "phase": "A",
+      "latitude": 38.0024626,
+      "longitude": 23.7416851
+    },
+    {
+      "source_id": 25,
+      "name": "ΓΑΛΑΤΣΙ",
+      "name_en": "GALATSI",
+      "line": 4,
+      "phase": "A",
+      "latitude": 38.0128661,
+      "longitude": 23.7532066
+    },
+    {
+      "source_id": 26,
+      "name": "ΑΛΣΟΣ ΒΕΪΚΟΥ",
+      "name_en": "ALSOS VEIKOU",
+      "line": 4,
+      "phase": "A",
+      "latitude": 38.0191606,
+      "longitude": 23.7559389
+    },
+    {
+      "source_id": 27,
+      "name": "ΔΙΚΑΣΤΗΡΙΑ",
+      "name_en": "DIKASTIRIA",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9958982,
+      "longitude": 23.7410497
+    },
+    {
+      "source_id": 28,
+      "name": "ΑΛΕΞΑΝΔΡΑΣ",
+      "name_en": "ALEXANDRAS",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9903514,
+      "longitude": 23.7403232
+    },
+    {
+      "source_id": 29,
+      "name": "ΕΞΑΡΧΕΙΑ",
+      "name_en": "EXARHIA",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9866124,
+      "longitude": 23.7348662
+    },
+    {
+      "source_id": 30,
+      "name": "ΑΚΑΔΗΜΙΑ",
+      "name_en": "AKADEMIA",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9807744,
+      "longitude": 23.7349333
+    },
+    {
+      "source_id": 31,
+      "name": "ΚΟΛΩΝΑΚΙ",
+      "name_en": "KOLONAKI",
+      "line": 4,
+      "phase": "A",
+      "latitude": 37.9769342,
+      "longitude": 23.7409348
+    },
+    {
+      "source_id": 32,
+      "name": "ΚΑΤΕΧΑΚΗ",
+      "name_en": "KATEXAKI",
+      "line": 4,
+      "phase": "B",
+      "latitude": 37.9937031,
+      "longitude": 23.7767813
+    }
+  ],
+  "meta": {
+    "title": "Σταθμοί Μετρό Αθήνας — Γραμμή 4 (υπό κατασκευή) - Δωρεάν λήψη",
+    "description": "Οι προγραμματισμένοι σταθμοί της υπό κατασκευή γραμμής 4 του Μετρό της Αθήνας με ελληνική και αγγλική ονομασία, φάση κατασκευής (A–E) και συντεταγμένες WGS84. Πηγές: OSM, ΣΤΑΣΥ, Ελληνικό Μετρό μέσω Athens GIS Repository (snapshot 2025-08-27). (Planned stations of the under-construction Athens Metro line 4, with construction phase A–E.) Περιέχει 31 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Σταθμοί Μετρό Αθήνας — Γραμμή 4 (υπό κατασκευή) | ListBase",
+    "seo_description": "Λήψη Σταθμοί Μετρό Αθήνας — Γραμμή 4 (υπό κατασκευή) — 31 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 31 εγγραφές / 7 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

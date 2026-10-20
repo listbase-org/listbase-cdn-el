@@ -1,0 +1,169 @@
+{
+  "id": "el-thessalias-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Θεσσαλίας",
+  "title": "Αεροδρόμια — Περιφέρεια Θεσσαλίας",
+  "description": "Αεροδρόμια στην «Περιφέρεια Θεσσαλίας» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Thessaly Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LGBL",
+      "iata": "VOL",
+      "name": "Nea Anchialos Airport",
+      "name_slug": "nea-anchialos-airport",
+      "city": "Nea Anchialos",
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "perifereia_source": "Thessaly",
+      "perifereia_slug": "thessalias",
+      "perifereia_en": "Thessaly Region",
+      "country": "GR",
+      "elevation_ft": 83,
+      "lat": 39.2196006775,
+      "lon": 22.7943000793,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGLR",
+      "iata": "LRA",
+      "name": "Larisa Airport",
+      "name_slug": "larisa-airport",
+      "city": "Larisa",
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "perifereia_source": "Thessaly",
+      "perifereia_slug": "thessalias",
+      "perifereia_en": "Thessaly Region",
+      "country": "GR",
+      "elevation_ft": 241,
+      "lat": 39.6562825886,
+      "lon": 22.3400008678,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGSK",
+      "iata": "JSI",
+      "name": "Skiathos Island National Airport",
+      "name_slug": "skiathos-island-national-airport",
+      "city": "Skiathos",
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "perifereia_source": "Thessaly",
+      "perifereia_slug": "thessalias",
+      "perifereia_en": "Thessaly Region",
+      "country": "GR",
+      "elevation_ft": 54,
+      "lat": 39.1771011353,
+      "lon": 23.5037002563,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGSV",
+      "iata": "",
+      "name": "Stefanovikion Airport",
+      "name_slug": "stefanovikion-airport",
+      "city": "Stefanovilion",
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "perifereia_source": "Thessaly",
+      "perifereia_slug": "thessalias",
+      "perifereia_en": "Thessaly Region",
+      "country": "GR",
+      "elevation_ft": 146,
+      "lat": 39.4799995422,
+      "lon": 22.76720047,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Θεσσαλίας - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Θεσσαλίας» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Thessaly Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 4 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Θεσσαλίας | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Θεσσαλίας — 4 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 4 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

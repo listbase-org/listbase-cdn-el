@@ -1,0 +1,926 @@
+{
+  "id": "el-attikis-pyrkagies-2015-2025",
+  "name": "Δασικές πυρκαγιές στην Αττική 2015–2025",
+  "title": "Δασικές πυρκαγιές στην Αττική 2015–2025",
+  "description": "Καταγεγραμμένες δασικές πυρκαγιές στην Αττική 2015–2025 με έτος, ημερομηνίες έναρξης/λήξης, τομέα Αττικής και αντιπροσωπευτικό σημείο WGS84. Πηγή: European Forest Fire Information System (EFFIS), μέσω Athens GIS Repository (uploaded 2025-09-22 per info note). (Wildfire burn scars in Attica. latitude/longitude are DERIVED bounding-box centers of source polygons; shape_area kept verbatim — units not documented by source.)",
+  "category": "environment",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "initial_date",
+      "label": "Initial Date",
+      "type": "string"
+    },
+    {
+      "key": "final_date",
+      "label": "Final Date",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "shape_area",
+      "label": "Shape Area",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 1,
+      "year": 2015,
+      "initial_date": "2015/07/21 00:00:00.000",
+      "final_date": "2015/07/21 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 1.240940632031504,
+      "latitude": 38.1402867,
+      "longitude": 23.8863562
+    },
+    {
+      "source_id": 2,
+      "year": 2015,
+      "initial_date": "2015/06/13 00:00:00.000",
+      "final_date": "2015/06/13 00:00:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.3381309716182452,
+      "latitude": 38.1623426,
+      "longitude": 23.3858981
+    },
+    {
+      "source_id": 3,
+      "year": 2015,
+      "initial_date": "2015/07/17 00:00:00.000",
+      "final_date": "2015/07/17 00:00:00.000",
+      "section": "Κεντρικός Τομέας Αθηνών",
+      "shape_area": 11.204855236207676,
+      "latitude": 37.9240923,
+      "longitude": 23.7789555
+    },
+    {
+      "source_id": 4,
+      "year": 2016,
+      "initial_date": "2016/06/25 00:00:00.000",
+      "final_date": "2016/06/28 00:00:00.000",
+      "section": "Βοιωτία",
+      "shape_area": 13.138141262963439,
+      "latitude": 38.1598458,
+      "longitude": 23.5358263
+    },
+    {
+      "source_id": 5,
+      "year": 2016,
+      "initial_date": "2016/06/20 00:00:00.000",
+      "final_date": "2016/06/20 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.43798901708425575,
+      "latitude": 38.2281132,
+      "longitude": 23.9501155
+    },
+    {
+      "source_id": 6,
+      "year": 2016,
+      "initial_date": "2016/07/28 00:00:00.000",
+      "final_date": "2016/07/28 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.40147614700388873,
+      "latitude": 37.7548757,
+      "longitude": 24.0378846
+    },
+    {
+      "source_id": 7,
+      "year": 2016,
+      "initial_date": "2016/06/13 00:00:00.000",
+      "final_date": "2016/06/13 00:00:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 3.8656070126952744,
+      "latitude": 38.0801785,
+      "longitude": 23.340385
+    },
+    {
+      "source_id": 8,
+      "year": 2017,
+      "initial_date": "2017/08/04 00:00:00.000",
+      "final_date": "2017/08/08 00:00:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 29.630412785970286,
+      "latitude": 36.2281336,
+      "longitude": 22.9474334
+    },
+    {
+      "source_id": 9,
+      "year": 2017,
+      "initial_date": "2017/07/31 00:00:00.000",
+      "final_date": "2017/07/31 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 4.7334379626352385,
+      "latitude": 37.7686936,
+      "longitude": 23.9233921
+    },
+    {
+      "source_id": 10,
+      "year": 2017,
+      "initial_date": "2017/08/13 00:00:00.000",
+      "final_date": "2017/08/16 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 28.39034596491274,
+      "latitude": 38.2651458,
+      "longitude": 23.9044554
+    },
+    {
+      "source_id": 11,
+      "year": 2017,
+      "initial_date": "2017/08/01 00:00:00.000",
+      "final_date": "2017/08/01 00:00:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 1.161023502250102,
+      "latitude": 37.2439161,
+      "longitude": 23.1313848
+    },
+    {
+      "source_id": 12,
+      "year": 2018,
+      "initial_date": "2018/07/23 00:00:00.000",
+      "final_date": "2018/07/25 00:00:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 55.683333238934566,
+      "latitude": 37.9881666,
+      "longitude": 23.1911697
+    },
+    {
+      "source_id": 13,
+      "year": 2018,
+      "initial_date": "2018/07/23 00:00:00.000",
+      "final_date": "2018/07/24 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 13.624515755627913,
+      "latitude": 38.0404675,
+      "longitude": 23.9773504
+    },
+    {
+      "source_id": 14,
+      "year": 2019,
+      "initial_date": "2019/09/04 00:00:00.000",
+      "final_date": "2019/09/05 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.3318214492708529,
+      "latitude": 38.0652321,
+      "longitude": 23.9599901
+    },
+    {
+      "source_id": 15,
+      "year": 2019,
+      "initial_date": "2019/08/12 00:00:00.000",
+      "final_date": "2019/08/12 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 1.7976213187263101,
+      "latitude": 37.9596991,
+      "longitude": 23.8265336
+    },
+    {
+      "source_id": 16,
+      "year": 2020,
+      "initial_date": "2020/07/16 10:30:00.000",
+      "final_date": "2020/07/16 12:06:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.5943207226775203,
+      "latitude": 37.6957624,
+      "longitude": 24.0224054
+    },
+    {
+      "source_id": 17,
+      "year": 2020,
+      "initial_date": "2020/06/12 10:30:00.000",
+      "final_date": "2020/06/12 11:54:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.5810956090416879,
+      "latitude": 38.1215119,
+      "longitude": 23.5802508
+    },
+    {
+      "source_id": 18,
+      "year": 2020,
+      "initial_date": "2020/07/24 11:35:00.000",
+      "final_date": "2020/07/24 12:06:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.5733062737195281,
+      "latitude": 37.5749995,
+      "longitude": 23.3790953
+    },
+    {
+      "source_id": 19,
+      "year": 2020,
+      "initial_date": "2020/08/04 00:00:00.000",
+      "final_date": "2020/08/04 00:00:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.1960773496700254,
+      "latitude": 37.702438,
+      "longitude": 23.4773501
+    },
+    {
+      "source_id": 20,
+      "year": 2020,
+      "initial_date": "2020/08/03 12:18:00.000",
+      "final_date": "2020/08/03 12:18:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.2099941865950211,
+      "latitude": 37.6938957,
+      "longitude": 23.4786436
+    },
+    {
+      "source_id": 21,
+      "year": 2020,
+      "initial_date": "2020/09/09 09:15:00.000",
+      "final_date": "2020/09/09 12:24:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 10.38063618321572,
+      "latitude": 37.7650469,
+      "longitude": 23.9597928
+    },
+    {
+      "source_id": 22,
+      "year": 2020,
+      "initial_date": "2020/09/09 09:15:00.000",
+      "final_date": "2020/09/09 11:36:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.31409107394610475,
+      "latitude": 38.0865483,
+      "longitude": 23.9371215
+    },
+    {
+      "source_id": 23,
+      "year": 2021,
+      "initial_date": "2021/05/19 20:40:00.000",
+      "final_date": "2021/05/23 01:06:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 70.05362160011028,
+      "latitude": 38.034521,
+      "longitude": 23.1621627
+    },
+    {
+      "source_id": 24,
+      "year": 2021,
+      "initial_date": "2021/06/02 11:51:00.000",
+      "final_date": "2021/06/02 11:51:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.16461204734983806,
+      "latitude": 38.0726102,
+      "longitude": 23.3168328
+    },
+    {
+      "source_id": 25,
+      "year": 2021,
+      "initial_date": "2021/08/16 09:35:00.000",
+      "final_date": "2021/08/23 09:35:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 101.74552656571325,
+      "latitude": 38.1238443,
+      "longitude": 23.3494096
+    },
+    {
+      "source_id": 26,
+      "year": 2021,
+      "initial_date": "2021/08/03 10:49:00.000",
+      "final_date": "2021/08/07 12:06:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 84.53800068395874,
+      "latitude": 38.1603836,
+      "longitude": 23.8236482
+    },
+    {
+      "source_id": 27,
+      "year": 2021,
+      "initial_date": "2021/06/20 20:40:00.000",
+      "final_date": "2021/06/22 00:05:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.12530720347614596,
+      "latitude": 37.3565542,
+      "longitude": 23.4911545
+    },
+    {
+      "source_id": 28,
+      "year": 2021,
+      "initial_date": "2021/06/27 12:23:00.000",
+      "final_date": "2021/06/27 12:23:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.01421167225680072,
+      "latitude": 37.9211728,
+      "longitude": 23.984386
+    },
+    {
+      "source_id": 29,
+      "year": 2021,
+      "initial_date": "2021/08/12 23:09:00.000",
+      "final_date": "2021/08/15 00:43:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.5481886736412124,
+      "latitude": 37.3537076,
+      "longitude": 23.498044
+    },
+    {
+      "source_id": 30,
+      "year": 2021,
+      "initial_date": "2021/08/11 00:00:00.000",
+      "final_date": "2021/08/11 00:00:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.053376835244918715,
+      "latitude": 37.3527891,
+      "longitude": 23.4911442
+    },
+    {
+      "source_id": 31,
+      "year": 2021,
+      "initial_date": "2021/07/27 10:32:00.000",
+      "final_date": "2021/07/27 12:12:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.4838686661867319,
+      "latitude": 38.1163791,
+      "longitude": 23.8805045
+    },
+    {
+      "source_id": 32,
+      "year": 2021,
+      "initial_date": "2021/07/25 11:08:00.000",
+      "final_date": "2021/07/25 11:08:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.11400211389313207,
+      "latitude": 37.9642117,
+      "longitude": 23.4836627
+    },
+    {
+      "source_id": 33,
+      "year": 2021,
+      "initial_date": "2021/08/06 12:23:00.000",
+      "final_date": "2021/08/06 19:55:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 1.0310386539669378,
+      "latitude": 38.0606168,
+      "longitude": 23.6686001
+    },
+    {
+      "source_id": 34,
+      "year": 2021,
+      "initial_date": "2021/08/16 09:30:00.000",
+      "final_date": "2021/08/16 11:47:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 5.456702916725312,
+      "latitude": 37.7387088,
+      "longitude": 24.0116513
+    },
+    {
+      "source_id": 35,
+      "year": 2021,
+      "initial_date": "2021/08/12 00:01:00.000",
+      "final_date": "2021/08/12 00:50:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 1.0230994884373699,
+      "latitude": 38.0929798,
+      "longitude": 23.6323633
+    },
+    {
+      "source_id": 36,
+      "year": 2021,
+      "initial_date": "2021/09/21 23:39:00.000",
+      "final_date": "2021/09/22 01:22:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.0908134411114623,
+      "latitude": 38.0584974,
+      "longitude": 23.6322337
+    },
+    {
+      "source_id": 37,
+      "year": 2021,
+      "initial_date": "2021/11/04 10:56:00.000",
+      "final_date": "2021/11/04 11:47:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.1905632549364181,
+      "latitude": 36.2721239,
+      "longitude": 22.9922162
+    },
+    {
+      "source_id": 38,
+      "year": 2022,
+      "initial_date": "2022/06/01 11:25:00.000",
+      "final_date": "2022/06/01 11:45:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.14558693856263463,
+      "latitude": 37.9961834,
+      "longitude": 23.636702
+    },
+    {
+      "source_id": 39,
+      "year": 2022,
+      "initial_date": "2022/08/05 09:09:00.000",
+      "final_date": "2022/08/05 10:17:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.854742529373512,
+      "latitude": 38.0332783,
+      "longitude": 23.4585332
+    },
+    {
+      "source_id": 40,
+      "year": 2022,
+      "initial_date": "2022/06/04 10:30:00.000",
+      "final_date": "2022/06/04 12:17:00.000",
+      "section": "Νότιος Τομέας Αθηνών",
+      "shape_area": 4.385448368624839,
+      "latitude": 37.8604716,
+      "longitude": 23.7909418
+    },
+    {
+      "source_id": 41,
+      "year": 2022,
+      "initial_date": "2022/07/20 11:57:00.000",
+      "final_date": "2022/07/22 11:21:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 2.4401571062201883,
+      "latitude": 38.065047,
+      "longitude": 23.2380603
+    },
+    {
+      "source_id": 42,
+      "year": 2022,
+      "initial_date": "2022/06/26 10:17:00.000",
+      "final_date": "2022/06/26 11:08:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.09971729480099384,
+      "latitude": 37.3406775,
+      "longitude": 23.4729688
+    },
+    {
+      "source_id": 43,
+      "year": 2022,
+      "initial_date": "2022/06/29 11:51:00.000",
+      "final_date": "2022/06/29 11:51:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.030562787708779574,
+      "latitude": 37.990919,
+      "longitude": 23.6339339
+    },
+    {
+      "source_id": 44,
+      "year": 2022,
+      "initial_date": "2022/07/05 09:52:00.000",
+      "final_date": "2022/07/05 12:29:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 1.5558519994044937,
+      "latitude": 38.1385729,
+      "longitude": 23.2382394
+    },
+    {
+      "source_id": 45,
+      "year": 2022,
+      "initial_date": "2022/08/24 11:51:00.000",
+      "final_date": "2022/08/24 11:51:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.013244094981978911,
+      "latitude": 36.3301103,
+      "longitude": 22.907715
+    },
+    {
+      "source_id": 46,
+      "year": 2022,
+      "initial_date": "2022/07/15 08:52:00.000",
+      "final_date": "2022/07/15 11:51:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.4570432500412066,
+      "latitude": 37.7621798,
+      "longitude": 23.9579133
+    },
+    {
+      "source_id": 47,
+      "year": 2022,
+      "initial_date": "2022/07/19 19:30:00.000",
+      "final_date": "2022/07/20 01:28:00.000",
+      "section": "Βόρειος Τομέας Αθηνών",
+      "shape_area": 28.35887196558627,
+      "latitude": 38.0355338,
+      "longitude": 23.8952921
+    },
+    {
+      "source_id": 48,
+      "year": 2022,
+      "initial_date": "2022/09/06 09:09:00.000",
+      "final_date": "2022/09/07 00:18:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.9329549053559287,
+      "latitude": 36.3213784,
+      "longitude": 22.9636676
+    },
+    {
+      "source_id": 49,
+      "year": 2022,
+      "initial_date": "2022/09/02 12:25:00.000",
+      "final_date": "2022/09/02 12:25:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.05233724011138519,
+      "latitude": 38.1983553,
+      "longitude": 24.0066492
+    },
+    {
+      "source_id": 50,
+      "year": 2022,
+      "initial_date": "2022/10/22 00:26:00.000",
+      "final_date": "2022/10/22 01:13:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.12583978116421307,
+      "latitude": 37.3522151,
+      "longitude": 23.4935396
+    },
+    {
+      "source_id": 51,
+      "year": 2023,
+      "initial_date": "2023/07/06 10:38:00.000",
+      "final_date": "2023/07/06 12:17:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.11934198705846372,
+      "latitude": 38.2527163,
+      "longitude": 23.8358366
+    },
+    {
+      "source_id": 52,
+      "year": 2023,
+      "initial_date": "2023/04/27 10:49:00.000",
+      "final_date": "2023/04/27 12:32:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.3133641957536126,
+      "latitude": 37.6012247,
+      "longitude": 23.3455657
+    },
+    {
+      "source_id": 53,
+      "year": 2023,
+      "initial_date": "2023/07/18 11:02:00.000",
+      "final_date": "2023/07/18 11:02:00.000",
+      "section": "Δυτικός Τομέας Αθηνών",
+      "shape_area": 0.016008869079538836,
+      "latitude": 38.0201171,
+      "longitude": 23.6269853
+    },
+    {
+      "source_id": 54,
+      "year": 2023,
+      "initial_date": "2023/07/17 10:32:00.000",
+      "final_date": "2023/07/18 11:02:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 39.307423882944256,
+      "latitude": 37.7907579,
+      "longitude": 23.9433779
+    },
+    {
+      "source_id": 55,
+      "year": 2023,
+      "initial_date": "2023/07/17 20:08:00.000",
+      "final_date": "2023/07/23 08:18:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 116.6211402357377,
+      "latitude": 38.11137,
+      "longitude": 23.4833005
+    },
+    {
+      "source_id": 56,
+      "year": 2023,
+      "initial_date": "2023/08/13 00:43:00.000",
+      "final_date": "2023/08/13 00:43:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.2686615557343095,
+      "latitude": 38.0337175,
+      "longitude": 23.4772459
+    },
+    {
+      "source_id": 57,
+      "year": 2023,
+      "initial_date": "2023/08/22 09:05:00.000",
+      "final_date": "2023/08/27 01:22:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 60.5666601527872,
+      "latitude": 38.1143317,
+      "longitude": 23.6548439
+    },
+    {
+      "source_id": 58,
+      "year": 2023,
+      "initial_date": "2023/08/06 00:26:00.000",
+      "final_date": "2023/08/06 01:15:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.2469815883982091,
+      "latitude": 38.1233886,
+      "longitude": 23.5795348
+    },
+    {
+      "source_id": 59,
+      "year": 2023,
+      "initial_date": "2023/10/12 20:25:00.000",
+      "final_date": "2023/10/13 00:01:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.574145548155511,
+      "latitude": 38.1531895,
+      "longitude": 24.021587
+    },
+    {
+      "source_id": 60,
+      "year": 2024,
+      "initial_date": "2024/06/28 00:18:00.000",
+      "final_date": "2024/06/29 00:01:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.00941631162147365,
+      "latitude": 37.3549754,
+      "longitude": 23.4928111
+    },
+    {
+      "source_id": 61,
+      "year": 2024,
+      "initial_date": "2024/06/19 11:08:00.000",
+      "final_date": "2024/06/19 12:23:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.8887290893821598,
+      "latitude": 37.8601852,
+      "longitude": 23.8506114
+    },
+    {
+      "source_id": 62,
+      "year": 2024,
+      "initial_date": "2024/06/22 00:05:00.000",
+      "final_date": "2024/06/22 00:30:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.1666484210252472,
+      "latitude": 37.2984986,
+      "longitude": 23.3788803
+    },
+    {
+      "source_id": 63,
+      "year": 2024,
+      "initial_date": "2024/07/02 10:57:16.145",
+      "final_date": "2024/07/02 10:57:16.145",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.12293293821052725,
+      "latitude": 37.7755273,
+      "longitude": 23.9614071
+    },
+    {
+      "source_id": 64,
+      "year": 2024,
+      "initial_date": "2024/06/05 00:00:00.000",
+      "final_date": "2024/06/05 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.13321141582808935,
+      "latitude": 38.1535302,
+      "longitude": 23.8357662
+    },
+    {
+      "source_id": 65,
+      "year": 2024,
+      "initial_date": "2024/06/29 12:06:00.000",
+      "final_date": "2024/06/29 12:06:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.5677702608853314,
+      "latitude": 38.1769324,
+      "longitude": 23.7855147
+    },
+    {
+      "source_id": 66,
+      "year": 2024,
+      "initial_date": "2024/06/30 10:38:00.000",
+      "final_date": "2024/06/30 12:46:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 4.550851309866907,
+      "latitude": 37.7465557,
+      "longitude": 24.0173876
+    },
+    {
+      "source_id": 67,
+      "year": 2024,
+      "initial_date": "2024/07/01 00:37:00.000",
+      "final_date": "2024/07/01 00:37:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 1.3854570117193346,
+      "latitude": 38.1272547,
+      "longitude": 23.8903856
+    },
+    {
+      "source_id": 68,
+      "year": 2024,
+      "initial_date": "2024/07/19 10:56:00.000",
+      "final_date": "2024/07/19 11:47:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.23859029133174822,
+      "latitude": 38.1902271,
+      "longitude": 23.3076621
+    },
+    {
+      "source_id": 69,
+      "year": 2024,
+      "initial_date": "2024/08/01 10:11:00.000",
+      "final_date": "2024/08/01 11:02:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.2592756329961371,
+      "latitude": 37.825241,
+      "longitude": 23.8727569
+    },
+    {
+      "source_id": 70,
+      "year": 2024,
+      "initial_date": "2024/08/11 12:06:00.000",
+      "final_date": "2024/08/11 12:32:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.13079240477460088,
+      "latitude": 38.0575382,
+      "longitude": 23.1546036
+    },
+    {
+      "source_id": 71,
+      "year": 2024,
+      "initial_date": "2024/08/11 12:06:00.000",
+      "final_date": "2024/08/18 12:06:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 109.71133304629603,
+      "latitude": 38.1351145,
+      "longitude": 23.9073588
+    },
+    {
+      "source_id": 72,
+      "year": 2024,
+      "initial_date": "2024/09/20 00:00:00.000",
+      "final_date": "2024/09/21 00:00:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.1259720436784126,
+      "latitude": 36.1891329,
+      "longitude": 22.9376301
+    },
+    {
+      "source_id": 73,
+      "year": 2025,
+      "initial_date": "2025/05/20 11:04:00.000",
+      "final_date": "2025/05/20 12:19:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 0.05654926494080768,
+      "latitude": 37.6278083,
+      "longitude": 23.3923478
+    },
+    {
+      "source_id": 74,
+      "year": 2025,
+      "initial_date": "2025/06/08 11:21:00.000",
+      "final_date": "2025/06/08 11:21:00.000",
+      "section": "Δυτική Αττική",
+      "shape_area": 0.0003879822464754769,
+      "latitude": 38.1727608,
+      "longitude": 23.2670141
+    },
+    {
+      "source_id": 75,
+      "year": 2025,
+      "initial_date": "2025/04/29 00:00:00.000",
+      "final_date": "2025/04/29 00:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.18480924230795873,
+      "latitude": 37.7859993,
+      "longitude": 24.0457525
+    },
+    {
+      "source_id": 76,
+      "year": 2025,
+      "initial_date": "2025/07/09 20:02:00.000",
+      "final_date": "2025/07/10 00:50:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 2.467251974695919,
+      "latitude": 38.2763707,
+      "longitude": 23.7349757
+    },
+    {
+      "source_id": 77,
+      "year": 2025,
+      "initial_date": "2025/07/04 10:41:00.000",
+      "final_date": "2025/07/04 12:00:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.2796695436681623,
+      "latitude": 37.8083687,
+      "longitude": 23.8632488
+    },
+    {
+      "source_id": 78,
+      "year": 2025,
+      "initial_date": "2025/06/16 10:32:00.000",
+      "final_date": "2025/06/16 12:27:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.23006124755089377,
+      "latitude": 38.1728512,
+      "longitude": 23.9804786
+    },
+    {
+      "source_id": 79,
+      "year": 2025,
+      "initial_date": "2025/06/26 10:43:00.000",
+      "final_date": "2025/06/26 12:23:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 2.7834943685963416,
+      "latitude": 37.6842734,
+      "longitude": 23.9483617
+    },
+    {
+      "source_id": 80,
+      "year": 2025,
+      "initial_date": "2025/07/26 19:45:00.000",
+      "final_date": "2025/07/27 00:30:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 2.7508721642121574,
+      "latitude": 38.1519842,
+      "longitude": 23.8393619
+    },
+    {
+      "source_id": 81,
+      "year": 2025,
+      "initial_date": "2025/07/03 12:19:00.000",
+      "final_date": "2025/07/03 12:19:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 1.1438539551447298,
+      "latitude": 37.9994921,
+      "longitude": 23.9612084
+    },
+    {
+      "source_id": 82,
+      "year": 2025,
+      "initial_date": "2025/07/28 11:34:00.000",
+      "final_date": "2025/07/28 12:23:00.000",
+      "section": "Κεντρικός Τομέας Αθηνών",
+      "shape_area": 0.09981487395036906,
+      "latitude": 37.9715189,
+      "longitude": 23.7898944
+    },
+    {
+      "source_id": 83,
+      "year": 2025,
+      "initial_date": "2025/08/08 11:25:00.000",
+      "final_date": "2025/08/08 12:19:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 2.938866699774652,
+      "latitude": 37.7583853,
+      "longitude": 23.9894094
+    },
+    {
+      "source_id": 84,
+      "year": 2025,
+      "initial_date": "2025/07/18 12:12:00.000",
+      "final_date": "2025/07/18 12:12:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.01020969929234557,
+      "latitude": 38.1513119,
+      "longitude": 23.8767135
+    },
+    {
+      "source_id": 85,
+      "year": 2025,
+      "initial_date": "2025/07/29 12:32:00.000",
+      "final_date": "2025/07/29 12:32:00.000",
+      "section": "Ανατολική Αττική",
+      "shape_area": 0.14409161578551694,
+      "latitude": 37.8600974,
+      "longitude": 23.833078
+    },
+    {
+      "source_id": 86,
+      "year": 2025,
+      "initial_date": "2025/07/26 08:41:00.000",
+      "final_date": "2025/07/28 01:30:00.000",
+      "section": "Πειραιάς, Νήσοι",
+      "shape_area": 32.33662212224145,
+      "latitude": 36.2218866,
+      "longitude": 22.9500942
+    }
+  ],
+  "meta": {
+    "title": "Δασικές πυρκαγιές στην Αττική 2015–2025 - Δωρεάν λήψη",
+    "description": "Καταγεγραμμένες δασικές πυρκαγιές στην Αττική 2015–2025 με έτος, ημερομηνίες έναρξης/λήξης, τομέα Αττικής και αντιπροσωπευτικό σημείο WGS84. Πηγή: European Forest Fire Information System (EFFIS), μέσω Athens GIS Repository (uploaded 2025-09-22 per info note). (Wildfire burn scars in Attica. latitude/longitude are DERIVED bounding-box centers of source polygons; shape_area kept verbatim — units not documented by source.) Περιέχει 86 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δασικές πυρκαγιές στην Αττική 2015–2025 | ListBase",
+    "seo_description": "Λήψη Δασικές πυρκαγιές στην Αττική 2015–2025 — 86 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 86 εγγραφές / 8 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

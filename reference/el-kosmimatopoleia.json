@@ -1,0 +1,5676 @@
+{
+  "id": "el-kosmimatopoleia",
+  "name": "Κοσμηματοπωλεία Ελλάδας",
+  "title": "Κοσμηματοπωλεία Ελλάδας",
+  "description": "Κοσμηματοπωλεία σε όλη την Ελλάδα από το OpenStreetMap. Jewelry shops across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1127,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Χρυσό- Ώρα\"",
+      "latitude": 41.259778,
+      "longitude": 23.000202
+    },
+    {
+      "name": "24 karati",
+      "latitude": 39.361046,
+      "longitude": 22.945844
+    },
+    {
+      "name": "4 Queens",
+      "latitude": 37.978653,
+      "longitude": 23.729751
+    },
+    {
+      "name": "4you",
+      "latitude": 39.625376,
+      "longitude": 19.919665
+    },
+    {
+      "name": "7 seas",
+      "latitude": 37.981723,
+      "longitude": 23.726073
+    },
+    {
+      "name": "A. Leondarakis",
+      "latitude": 37.974421,
+      "longitude": 23.73252
+    },
+    {
+      "name": "A.K Jewellers",
+      "latitude": 35.52167,
+      "longitude": 23.850125
+    },
+    {
+      "name": "actipis",
+      "latitude": 37.977025,
+      "longitude": 23.731962
+    },
+    {
+      "name": "Actus",
+      "latitude": 38.020893,
+      "longitude": 23.801931
+    },
+    {
+      "name": "Adonis",
+      "latitude": 38.478538,
+      "longitude": 22.494386
+    },
+    {
+      "name": "Adriana Christodoulia",
+      "latitude": 38.014684,
+      "longitude": 23.735513
+    },
+    {
+      "name": "Aeolos Art",
+      "latitude": 36.418125,
+      "longitude": 25.431498
+    },
+    {
+      "name": "Aerides",
+      "latitude": 36.147765,
+      "longitude": 22.989737
+    },
+    {
+      "name": "Afrodite's",
+      "latitude": 38.084119,
+      "longitude": 23.706333
+    },
+    {
+      "name": "Agapi's Art Design",
+      "latitude": 38.000839,
+      "longitude": 23.727053
+    },
+    {
+      "name": "Aggela Piaki",
+      "latitude": 38.02123,
+      "longitude": 23.802851
+    },
+    {
+      "name": "Agora Silver Market Mara Mari",
+      "latitude": 35.248523,
+      "longitude": 25.730622
+    },
+    {
+      "name": "Akmonas",
+      "latitude": 35.334711,
+      "longitude": 25.352086
+    },
+    {
+      "name": "Akritidis",
+      "latitude": 40.629995,
+      "longitude": 22.945811
+    },
+    {
+      "name": "Albatros",
+      "latitude": 35.514932,
+      "longitude": 24.018306
+    },
+    {
+      "name": "alchemy",
+      "latitude": 37.98466,
+      "longitude": 23.760609
+    },
+    {
+      "name": "Alex Gold",
+      "latitude": 36.348377,
+      "longitude": 28.203439
+    },
+    {
+      "name": "Alexander",
+      "latitude": 36.796985,
+      "longitude": 21.957659
+    },
+    {
+      "name": "Alexandros",
+      "latitude": 35.368094,
+      "longitude": 24.474582
+    },
+    {
+      "name": "Alexandros",
+      "latitude": 36.417528,
+      "longitude": 25.431555
+    },
+    {
+      "name": "Alexia",
+      "latitude": 35.515038,
+      "longitude": 24.019069
+    },
+    {
+      "name": "Alexopoulos",
+      "latitude": 37.9766,
+      "longitude": 23.734034
+    },
+    {
+      "name": "Alfred Martin",
+      "latitude": 37.976414,
+      "longitude": 23.733802
+    },
+    {
+      "name": "Alibi",
+      "latitude": 37.97621,
+      "longitude": 23.730448
+    },
+    {
+      "name": "Alkyone",
+      "latitude": 38.039519,
+      "longitude": 23.755775
+    },
+    {
+      "name": "allegra",
+      "latitude": 37.941375,
+      "longitude": 23.649564
+    },
+    {
+      "name": "Alloe",
+      "latitude": 37.946405,
+      "longitude": 23.758723
+    },
+    {
+      "name": "AMADORA JEWELLERY",
+      "latitude": 36.421852,
+      "longitude": 28.146917
+    },
+    {
+      "name": "Amalia jewels",
+      "latitude": 36.44866,
+      "longitude": 28.22246
+    },
+    {
+      "name": "Ammos",
+      "latitude": 35.230753,
+      "longitude": 23.680583
+    },
+    {
+      "name": "Amna Maria Mazaraki",
+      "latitude": 37.860613,
+      "longitude": 23.754251
+    },
+    {
+      "name": "Anastasopoulos",
+      "latitude": 38.370096,
+      "longitude": 26.136383
+    },
+    {
+      "name": "Anatol",
+      "latitude": 38.073086,
+      "longitude": 23.816026
+    },
+    {
+      "name": "Angel's",
+      "latitude": 37.039976,
+      "longitude": 25.082116
+    },
+    {
+      "name": "Angelo di Spirito",
+      "latitude": 38.07308,
+      "longitude": 23.813169
+    },
+    {
+      "name": "Angelova handmade",
+      "latitude": 39.875747,
+      "longitude": 25.060043
+    },
+    {
+      "name": "Anna Jewellery",
+      "latitude": 35.315016,
+      "longitude": 25.394164
+    },
+    {
+      "name": "Anna Maria Mazaraki",
+      "latitude": 37.447333,
+      "longitude": 25.329374
+    },
+    {
+      "name": "Anna Maria Mazaraki",
+      "latitude": 37.946377,
+      "longitude": 23.71182
+    },
+    {
+      "name": "Anna Maria Mazaraki",
+      "latitude": 37.985111,
+      "longitude": 23.91247
+    },
+    {
+      "name": "Anna Maria Mazaraki",
+      "latitude": 38.022253,
+      "longitude": 23.800654
+    },
+    {
+      "name": "Anna Maria Mazaraki",
+      "latitude": 38.044467,
+      "longitude": 23.789692
+    },
+    {
+      "name": "Anna Maria Mazaraki",
+      "latitude": 38.072753,
+      "longitude": 23.815479
+    },
+    {
+      "name": "Anna's Gold Silver",
+      "latitude": 35.33347,
+      "longitude": 25.30549
+    },
+    {
+      "name": "Anne",
+      "latitude": 37.940534,
+      "longitude": 23.648787
+    },
+    {
+      "name": "Anno Nuovo",
+      "latitude": 37.976755,
+      "longitude": 23.734988
+    },
+    {
+      "name": "Anomio",
+      "latitude": 38.014918,
+      "longitude": 23.753799
+    },
+    {
+      "name": "Anthony jewellery",
+      "latitude": 35.514677,
+      "longitude": 24.018125
+    },
+    {
+      "name": "Antica Murrina",
+      "latitude": 39.625237,
+      "longitude": 19.922568
+    },
+    {
+      "name": "Antoniou Jewelry & Wine",
+      "latitude": 36.418738,
+      "longitude": 25.430872
+    },
+    {
+      "name": "Antonis Jewels",
+      "latitude": 37.927793,
+      "longitude": 23.693224
+    },
+    {
+      "name": "aperiton",
+      "latitude": 36.892993,
+      "longitude": 27.287957
+    },
+    {
+      "name": "Apollo Jewelry",
+      "latitude": 36.419882,
+      "longitude": 25.431366
+    },
+    {
+      "name": "Apollon Gold & Silver",
+      "latitude": 36.253028,
+      "longitude": 28.165378
+    },
+    {
+      "name": "Apriati",
+      "latitude": 37.97663,
+      "longitude": 23.734282
+    },
+    {
+      "name": "Arapinis",
+      "latitude": 38.050573,
+      "longitude": 23.764933
+    },
+    {
+      "name": "Aretis",
+      "latitude": 38.021674,
+      "longitude": 23.735967
+    },
+    {
+      "name": "Argento",
+      "latitude": 37.976222,
+      "longitude": 23.732342
+    },
+    {
+      "name": "Argentum",
+      "latitude": 37.975504,
+      "longitude": 23.727838
+    },
+    {
+      "name": "Argentum",
+      "latitude": 38.02141,
+      "longitude": 23.802792
+    },
+    {
+      "name": "Argiropoulos",
+      "latitude": 40.791159,
+      "longitude": 22.411321
+    },
+    {
+      "name": "Armando",
+      "latitude": 36.420401,
+      "longitude": 25.431074
+    },
+    {
+      "name": "Armanidis",
+      "latitude": 40.239875,
+      "longitude": 23.28454
+    },
+    {
+      "name": "Armaos",
+      "latitude": 38.073178,
+      "longitude": 23.813628
+    },
+    {
+      "name": "Art Art",
+      "latitude": 37.987166,
+      "longitude": 23.751655
+    },
+    {
+      "name": "Art Bazaar",
+      "latitude": 40.094504,
+      "longitude": 23.784529
+    },
+    {
+      "name": "Art Deco",
+      "latitude": 35.362812,
+      "longitude": 24.260144
+    },
+    {
+      "name": "Artesano",
+      "latitude": 37.946075,
+      "longitude": 23.713405
+    },
+    {
+      "name": "Artin",
+      "latitude": 37.973583,
+      "longitude": 23.733674
+    },
+    {
+      "name": "Artin",
+      "latitude": 37.975339,
+      "longitude": 23.732333
+    },
+    {
+      "name": "Ashanti",
+      "latitude": 40.631811,
+      "longitude": 22.947058
+    },
+    {
+      "name": "Aspasia",
+      "latitude": 35.319736,
+      "longitude": 25.391835
+    },
+    {
+      "name": "Atelier Liza",
+      "latitude": 38.834976,
+      "longitude": 20.70942
+    },
+    {
+      "name": "Athena",
+      "latitude": 37.975781,
+      "longitude": 23.727328
+    },
+    {
+      "name": "Athena Gold",
+      "latitude": 37.975604,
+      "longitude": 23.727795
+    },
+    {
+      "name": "Athens Prostasis",
+      "latitude": 39.623991,
+      "longitude": 19.923535
+    },
+    {
+      "name": "Athens Protasis",
+      "latitude": 35.370093,
+      "longitude": 24.475746
+    },
+    {
+      "name": "Athens Protasis",
+      "latitude": 35.51445,
+      "longitude": 24.017601
+    },
+    {
+      "name": "Athens Protasis Santorini",
+      "latitude": 35.3411,
+      "longitude": 25.13414
+    },
+    {
+      "name": "Athens Protasis Santorini",
+      "latitude": 36.417797,
+      "longitude": 25.432204
+    },
+    {
+      "name": "Athens Protasis Santorini",
+      "latitude": 36.418547,
+      "longitude": 25.431466
+    },
+    {
+      "name": "Athina",
+      "latitude": 35.317123,
+      "longitude": 25.391355
+    },
+    {
+      "name": "Athina",
+      "latitude": 36.33996,
+      "longitude": 28.203011
+    },
+    {
+      "name": "Athina Gallery",
+      "latitude": 36.418264,
+      "longitude": 25.431449
+    },
+    {
+      "name": "Atlantis",
+      "latitude": 36.41834,
+      "longitude": 25.431499
+    },
+    {
+      "name": "Aurora",
+      "latitude": 39.108624,
+      "longitude": 26.557506
+    },
+    {
+      "name": "Aurum",
+      "latitude": 35.096395,
+      "longitude": 24.687575
+    },
+    {
+      "name": "Aurum",
+      "latitude": 37.985032,
+      "longitude": 23.761195
+    },
+    {
+      "name": "Axaopoulou Jewelry",
+      "latitude": 37.443859,
+      "longitude": 24.943298
+    },
+    {
+      "name": "Babel",
+      "latitude": 37.943624,
+      "longitude": 23.650258
+    },
+    {
+      "name": "Babylonia",
+      "latitude": 39.106023,
+      "longitude": 26.555445
+    },
+    {
+      "name": "Bantouvani Ioanna",
+      "latitude": 38.012685,
+      "longitude": 23.69282
+    },
+    {
+      "name": "Barbara Perrakis",
+      "latitude": 37.943302,
+      "longitude": 23.646542
+    },
+    {
+      "name": "Barbarossa",
+      "latitude": 36.341542,
+      "longitude": 28.200484
+    },
+    {
+      "name": "Baron",
+      "latitude": 37.943737,
+      "longitude": 23.647109
+    },
+    {
+      "name": "Batsi Gold",
+      "latitude": 37.857989,
+      "longitude": 24.78587
+    },
+    {
+      "name": "beauty box",
+      "latitude": 37.97816,
+      "longitude": 23.729328
+    },
+    {
+      "name": "bejewel",
+      "latitude": 40.62964,
+      "longitude": 22.94675
+    },
+    {
+      "name": "Belibasakis",
+      "latitude": 35.338769,
+      "longitude": 25.134078
+    },
+    {
+      "name": "Belija",
+      "latitude": 37.984375,
+      "longitude": 23.730622
+    },
+    {
+      "name": "Bellafo",
+      "latitude": 37.944285,
+      "longitude": 23.645932
+    },
+    {
+      "name": "Belle epoque",
+      "latitude": 38.027606,
+      "longitude": 23.720534
+    },
+    {
+      "name": "Belo Gold",
+      "latitude": 37.978495,
+      "longitude": 23.736675
+    },
+    {
+      "name": "Betini Gold & Silver Jewellery",
+      "latitude": 36.419301,
+      "longitude": 25.431567
+    },
+    {
+      "name": "Bettas",
+      "latitude": 37.97858,
+      "longitude": 23.730024
+    },
+    {
+      "name": "Bijou Box",
+      "latitude": 40.523867,
+      "longitude": 22.204227
+    },
+    {
+      "name": "Birtas",
+      "latitude": 37.944313,
+      "longitude": 23.651313
+    },
+    {
+      "name": "Bizermani",
+      "latitude": 38.021091,
+      "longitude": 23.80139
+    },
+    {
+      "name": "Bizermani",
+      "latitude": 38.044282,
+      "longitude": 23.755191
+    },
+    {
+      "name": "Bizermani",
+      "latitude": 38.070539,
+      "longitude": 23.81289
+    },
+    {
+      "name": "Bizermani Silver",
+      "latitude": 36.418494,
+      "longitude": 25.431152
+    },
+    {
+      "name": "Black hole",
+      "latitude": 40.631218,
+      "longitude": 22.95069
+    },
+    {
+      "name": "Blitz",
+      "latitude": 37.939833,
+      "longitude": 22.931927
+    },
+    {
+      "name": "Blue Topaz",
+      "latitude": 36.418694,
+      "longitude": 25.430887
+    },
+    {
+      "name": "Bohomi",
+      "latitude": 38.020505,
+      "longitude": 23.800931
+    },
+    {
+      "name": "Bomb Jewellery",
+      "latitude": 40.602461,
+      "longitude": 22.968369
+    },
+    {
+      "name": "Boutique Alexandra",
+      "latitude": 39.743882,
+      "longitude": 19.651107
+    },
+    {
+      "name": "Brilliant",
+      "latitude": 37.976255,
+      "longitude": 23.731903
+    },
+    {
+      "name": "by Platirachos",
+      "latitude": 38.005247,
+      "longitude": 23.776194
+    },
+    {
+      "name": "C'est la vie",
+      "latitude": 38.00184,
+      "longitude": 23.73398
+    },
+    {
+      "name": "C. Alexandrou",
+      "latitude": 35.290702,
+      "longitude": 25.444702
+    },
+    {
+      "name": "C.hope l'or",
+      "latitude": 38.854072,
+      "longitude": 23.045546
+    },
+    {
+      "name": "CABAL ATHENS",
+      "latitude": 37.977682,
+      "longitude": 23.730723
+    },
+    {
+      "name": "Caldera Fine Jewellery",
+      "latitude": 36.418572,
+      "longitude": 25.431392
+    },
+    {
+      "name": "Calliope Gallery",
+      "latitude": 35.333351,
+      "longitude": 25.305765
+    },
+    {
+      "name": "Carat",
+      "latitude": 36.443606,
+      "longitude": 28.228023
+    },
+    {
+      "name": "Carati",
+      "latitude": 38.370203,
+      "longitude": 26.136333
+    },
+    {
+      "name": "Catfish",
+      "latitude": 37.94423,
+      "longitude": 23.647947
+    },
+    {
+      "name": "Cavello",
+      "latitude": 37.977113,
+      "longitude": 23.738456
+    },
+    {
+      "name": "Celine",
+      "latitude": 35.096583,
+      "longitude": 24.687934
+    },
+    {
+      "name": "Celine",
+      "latitude": 35.36771,
+      "longitude": 24.477006
+    },
+    {
+      "name": "Celine",
+      "latitude": 35.368019,
+      "longitude": 24.474687
+    },
+    {
+      "name": "Centaur jewellery",
+      "latitude": 37.446554,
+      "longitude": 25.326357
+    },
+    {
+      "name": "Champagne Sparkling Jewels & More",
+      "latitude": 36.416213,
+      "longitude": 25.432735
+    },
+    {
+      "name": "Charisma Collection",
+      "latitude": 35.417788,
+      "longitude": 24.68585
+    },
+    {
+      "name": "Chevalier",
+      "latitude": 35.363319,
+      "longitude": 24.260093
+    },
+    {
+      "name": "Chopard",
+      "latitude": 36.41827,
+      "longitude": 25.431508
+    },
+    {
+      "name": "Chopard",
+      "latitude": 37.976498,
+      "longitude": 23.73458
+    },
+    {
+      "name": "Chrissi Galerou",
+      "latitude": 35.369859,
+      "longitude": 24.475874
+    },
+    {
+      "name": "Chrissilato Jewellery",
+      "latitude": 36.419234,
+      "longitude": 25.431586
+    },
+    {
+      "name": "Christine & Georgia",
+      "latitude": 36.444236,
+      "longitude": 28.226034
+    },
+    {
+      "name": "Christos Imanoglou",
+      "latitude": 37.976351,
+      "longitude": 23.733038
+    },
+    {
+      "name": "Christos Imanoglou",
+      "latitude": 37.976819,
+      "longitude": 23.734092
+    },
+    {
+      "name": "chrysostomos",
+      "latitude": 35.33933,
+      "longitude": 25.133373
+    },
+    {
+      "name": "Chrysostomos",
+      "latitude": 35.513917,
+      "longitude": 24.019169
+    },
+    {
+      "name": "Chrysostomos",
+      "latitude": 37.932394,
+      "longitude": 22.874243
+    },
+    {
+      "name": "Circles",
+      "latitude": 39.638424,
+      "longitude": 22.421329
+    },
+    {
+      "name": "Cobbi",
+      "latitude": 37.978451,
+      "longitude": 23.729877
+    },
+    {
+      "name": "Cobbi",
+      "latitude": 37.978589,
+      "longitude": 23.728546
+    },
+    {
+      "name": "CONNECTION",
+      "latitude": 37.976919,
+      "longitude": 23.730871
+    },
+    {
+      "name": "Constant...",
+      "latitude": 37.975905,
+      "longitude": 23.733133
+    },
+    {
+      "name": "Constantin",
+      "latitude": 36.4437,
+      "longitude": 28.227622
+    },
+    {
+      "name": "Constantine",
+      "latitude": 40.632782,
+      "longitude": 22.939368
+    },
+    {
+      "name": "Cosmos Jewels",
+      "latitude": 35.314221,
+      "longitude": 25.394755
+    },
+    {
+      "name": "Crafts 40",
+      "latitude": 38.019869,
+      "longitude": 23.745054
+    },
+    {
+      "name": "Crepa's world",
+      "latitude": 37.985569,
+      "longitude": 23.761767
+    },
+    {
+      "name": "Croesus",
+      "latitude": 35.248519,
+      "longitude": 25.730392
+    },
+    {
+      "name": "Croesus",
+      "latitude": 35.338584,
+      "longitude": 25.13515
+    },
+    {
+      "name": "Cross",
+      "latitude": 37.955496,
+      "longitude": 23.702253
+    },
+    {
+      "name": "Cube Jewels",
+      "latitude": 37.968942,
+      "longitude": 23.729904
+    },
+    {
+      "name": "CYBA GIOELLI",
+      "latitude": 37.976292,
+      "longitude": 23.730226
+    },
+    {
+      "name": "Da Luca",
+      "latitude": 36.054469,
+      "longitude": 27.970666
+    },
+    {
+      "name": "Daiaalos",
+      "latitude": 35.28214,
+      "longitude": 25.463027
+    },
+    {
+      "name": "Dala's",
+      "latitude": 39.79095,
+      "longitude": 19.814242
+    },
+    {
+      "name": "Daniela's Treasures",
+      "latitude": 39.625529,
+      "longitude": 19.919587
+    },
+    {
+      "name": "Dazz",
+      "latitude": 35.370205,
+      "longitude": 24.475806
+    },
+    {
+      "name": "De coral",
+      "latitude": 37.996589,
+      "longitude": 23.732264
+    },
+    {
+      "name": "De Luca",
+      "latitude": 36.050959,
+      "longitude": 27.968114
+    },
+    {
+      "name": "De'LaRocca",
+      "latitude": 36.417882,
+      "longitude": 25.431773
+    },
+    {
+      "name": "Deadlock",
+      "latitude": 40.630776,
+      "longitude": 22.950271
+    },
+    {
+      "name": "Delear stones",
+      "latitude": 39.108935,
+      "longitude": 26.557608
+    },
+    {
+      "name": "Deli dela",
+      "latitude": 37.941344,
+      "longitude": 23.646907
+    },
+    {
+      "name": "Demmie",
+      "latitude": 37.990058,
+      "longitude": 23.681655
+    },
+    {
+      "name": "Deris metal charms",
+      "latitude": 37.978746,
+      "longitude": 23.729662
+    },
+    {
+      "name": "Design",
+      "latitude": 36.34104,
+      "longitude": 28.200254
+    },
+    {
+      "name": "Di Nuovo",
+      "latitude": 40.271135,
+      "longitude": 22.507195
+    },
+    {
+      "name": "Diakopoulos",
+      "latitude": 37.932359,
+      "longitude": 23.641924
+    },
+    {
+      "name": "Diamond",
+      "latitude": 37.978315,
+      "longitude": 23.767803
+    },
+    {
+      "name": "Diamond gold&silver",
+      "latitude": 37.742985,
+      "longitude": 20.899307
+    },
+    {
+      "name": "Dimiourgiko Vildiridis",
+      "latitude": 40.631593,
+      "longitude": 22.944594
+    },
+    {
+      "name": "Dimitriadis",
+      "latitude": 37.97849,
+      "longitude": 23.730003
+    },
+    {
+      "name": "Dimitriadis Art Wear",
+      "latitude": 37.976227,
+      "longitude": 23.732707
+    },
+    {
+      "name": "Dimitros",
+      "latitude": 37.961584,
+      "longitude": 23.710661
+    },
+    {
+      "name": "Dimopoulos",
+      "latitude": 38.021331,
+      "longitude": 23.801216
+    },
+    {
+      "name": "Dina Gritsi",
+      "latitude": 37.975879,
+      "longitude": 23.726604
+    },
+    {
+      "name": "Dion",
+      "latitude": 39.623906,
+      "longitude": 19.923505
+    },
+    {
+      "name": "DIVA",
+      "latitude": 37.978088,
+      "longitude": 23.729954
+    },
+    {
+      "name": "DK",
+      "latitude": 38.045257,
+      "longitude": 23.756881
+    },
+    {
+      "name": "Domna Oro",
+      "latitude": 37.968758,
+      "longitude": 23.705277
+    },
+    {
+      "name": "Donna Gems",
+      "latitude": 36.444151,
+      "longitude": 28.226309
+    },
+    {
+      "name": "Dora Galani Jewellery",
+      "latitude": 37.983563,
+      "longitude": 23.731408
+    },
+    {
+      "name": "Drakopoulos",
+      "latitude": 37.860667,
+      "longitude": 23.754217
+    },
+    {
+      "name": "Drandakis",
+      "latitude": 35.417379,
+      "longitude": 24.690638
+    },
+    {
+      "name": "Dream catcher",
+      "latitude": 37.93889,
+      "longitude": 23.756417
+    },
+    {
+      "name": "Dritsoulas",
+      "latitude": 38.042014,
+      "longitude": 23.753075
+    },
+    {
+      "name": "Drops",
+      "latitude": 37.979262,
+      "longitude": 23.739138
+    },
+    {
+      "name": "DrosouLucky",
+      "latitude": 37.938501,
+      "longitude": 23.643371
+    },
+    {
+      "name": "Drougas",
+      "latitude": 37.941894,
+      "longitude": 23.644969
+    },
+    {
+      "name": "E+D",
+      "latitude": 35.515248,
+      "longitude": 24.01764
+    },
+    {
+      "name": "Earth",
+      "latitude": 36.443437,
+      "longitude": 28.228432
+    },
+    {
+      "name": "Eddie",
+      "latitude": 37.976622,
+      "longitude": 23.731758
+    },
+    {
+      "name": "Edelweiss",
+      "latitude": 37.981997,
+      "longitude": 23.731771
+    },
+    {
+      "name": "Efthaliadis Jewels",
+      "latitude": 40.272101,
+      "longitude": 22.507315
+    },
+    {
+      "name": "Ekaterini",
+      "latitude": 35.515536,
+      "longitude": 24.016938
+    },
+    {
+      "name": "El giannakopoulou",
+      "latitude": 39.122108,
+      "longitude": 23.728147
+    },
+    {
+      "name": "El Greco",
+      "latitude": 35.190746,
+      "longitude": 25.720154
+    },
+    {
+      "name": "Eldorado",
+      "latitude": 37.644461,
+      "longitude": 21.62559
+    },
+    {
+      "name": "Eleftheriou",
+      "latitude": 37.978442,
+      "longitude": 23.739611
+    },
+    {
+      "name": "Elegant",
+      "latitude": 36.933223,
+      "longitude": 25.600847
+    },
+    {
+      "name": "Elegant Memories",
+      "latitude": 38.120298,
+      "longitude": 23.859625
+    },
+    {
+      "name": "Elements",
+      "latitude": 35.368459,
+      "longitude": 24.474781
+    },
+    {
+      "name": "elena's jewels",
+      "latitude": 34.993161,
+      "longitude": 24.750783
+    },
+    {
+      "name": "Elisa",
+      "latitude": 40.652152,
+      "longitude": 22.922556
+    },
+    {
+      "name": "Elle",
+      "latitude": 37.999491,
+      "longitude": 23.733017
+    },
+    {
+      "name": "ELLINON TECHNES",
+      "latitude": 40.666433,
+      "longitude": 22.921813
+    },
+    {
+      "name": "Emfasis",
+      "latitude": 36.41816,
+      "longitude": 25.43149
+    },
+    {
+      "name": "Emfasis jewellery & accessories",
+      "latitude": 36.418279,
+      "longitude": 25.431589
+    },
+    {
+      "name": "Energy Stones",
+      "latitude": 38.020514,
+      "longitude": 23.802321
+    },
+    {
+      "name": "Eolos",
+      "latitude": 36.443733,
+      "longitude": 28.227156
+    },
+    {
+      "name": "Era",
+      "latitude": 35.316626,
+      "longitude": 25.39216
+    },
+    {
+      "name": "Era",
+      "latitude": 40.522258,
+      "longitude": 21.262006
+    },
+    {
+      "name": "ermina brunella",
+      "latitude": 37.976443,
+      "longitude": 23.731752
+    },
+    {
+      "name": "Estee",
+      "latitude": 37.976474,
+      "longitude": 23.732311
+    },
+    {
+      "name": "Eugenia",
+      "latitude": 38.080493,
+      "longitude": 23.73596
+    },
+    {
+      "name": "Eva",
+      "latitude": 37.978786,
+      "longitude": 23.766113
+    },
+    {
+      "name": "Eva Frangk",
+      "latitude": 35.337771,
+      "longitude": 25.131836
+    },
+    {
+      "name": "Excelsior",
+      "latitude": 36.417863,
+      "longitude": 25.431633
+    },
+    {
+      "name": "Excite",
+      "latitude": 37.946014,
+      "longitude": 23.713691
+    },
+    {
+      "name": "Eξαρχός",
+      "latitude": 37.978029,
+      "longitude": 23.729823
+    },
+    {
+      "name": "Fa cad'oro",
+      "latitude": 37.892118,
+      "longitude": 23.750956
+    },
+    {
+      "name": "Faber",
+      "latitude": 37.978234,
+      "longitude": 23.730448
+    },
+    {
+      "name": "Faidra",
+      "latitude": 37.976508,
+      "longitude": 23.731841
+    },
+    {
+      "name": "Faros Gold",
+      "latitude": 37.986078,
+      "longitude": 23.728222
+    },
+    {
+      "name": "Fay fib",
+      "latitude": 37.977765,
+      "longitude": 23.724622
+    },
+    {
+      "name": "Feel",
+      "latitude": 35.369925,
+      "longitude": 24.474593
+    },
+    {
+      "name": "Feggaropetra.gr",
+      "latitude": 39.106576,
+      "longitude": 26.556191
+    },
+    {
+      "name": "feggaropetra.gr",
+      "latitude": 40.633912,
+      "longitude": 22.947607
+    },
+    {
+      "name": "Fei Xiang",
+      "latitude": 37.981929,
+      "longitude": 23.726123
+    },
+    {
+      "name": "filandy",
+      "latitude": 37.998692,
+      "longitude": 23.732793
+    },
+    {
+      "name": "filandy",
+      "latitude": 38.001712,
+      "longitude": 23.733633
+    },
+    {
+      "name": "Fleur D'or",
+      "latitude": 37.970486,
+      "longitude": 23.731247
+    },
+    {
+      "name": "Flora",
+      "latitude": 36.419709,
+      "longitude": 25.431338
+    },
+    {
+      "name": "Fluk",
+      "latitude": 37.986514,
+      "longitude": 23.742948
+    },
+    {
+      "name": "Folie Folie",
+      "latitude": 37.975938,
+      "longitude": 23.731478
+    },
+    {
+      "name": "Folli Follie",
+      "latitude": 36.418375,
+      "longitude": 25.431196
+    },
+    {
+      "name": "Folli Follie",
+      "latitude": 37.957908,
+      "longitude": 23.705224
+    },
+    {
+      "name": "Folli Follie",
+      "latitude": 38.012574,
+      "longitude": 23.692532
+    },
+    {
+      "name": "Folli Follie",
+      "latitude": 38.043986,
+      "longitude": 23.75469
+    },
+    {
+      "name": "Fragiadakis",
+      "latitude": 35.308456,
+      "longitude": 25.520102
+    },
+    {
+      "name": "Fragonard",
+      "latitude": 37.977392,
+      "longitude": 23.736737
+    },
+    {
+      "name": "Framers",
+      "latitude": 38.247112,
+      "longitude": 21.735775
+    },
+    {
+      "name": "Francesca",
+      "latitude": 37.944238,
+      "longitude": 23.647169
+    },
+    {
+      "name": "Freedom",
+      "latitude": 36.893806,
+      "longitude": 27.287989
+    },
+    {
+      "name": "G&A",
+      "latitude": 38.01439,
+      "longitude": 23.753538
+    },
+    {
+      "name": "G. Minadakis",
+      "latitude": 35.341698,
+      "longitude": 25.134463
+    },
+    {
+      "name": "Galanis",
+      "latitude": 39.638981,
+      "longitude": 22.420784
+    },
+    {
+      "name": "Galerie Tsangarakis",
+      "latitude": 37.976381,
+      "longitude": 23.732785
+    },
+    {
+      "name": "Garbis Gewellery",
+      "latitude": 38.119394,
+      "longitude": 20.627645
+    },
+    {
+      "name": "GEM",
+      "latitude": 35.317059,
+      "longitude": 25.391444
+    },
+    {
+      "name": "Gemma",
+      "latitude": 35.369969,
+      "longitude": 24.475405
+    },
+    {
+      "name": "GEMMA",
+      "latitude": 37.978017,
+      "longitude": 23.729336
+    },
+    {
+      "name": "Gems And More",
+      "latitude": 35.418702,
+      "longitude": 24.690493
+    },
+    {
+      "name": "George",
+      "latitude": 37.969614,
+      "longitude": 23.730177
+    },
+    {
+      "name": "George Apergis Handmade Jewellery",
+      "latitude": 39.234504,
+      "longitude": 20.135777
+    },
+    {
+      "name": "George Argyros Jewellery",
+      "latitude": 36.418679,
+      "longitude": 25.431425
+    },
+    {
+      "name": "Georges",
+      "latitude": 37.975259,
+      "longitude": 23.728665
+    },
+    {
+      "name": "Georgiadis",
+      "latitude": 40.669074,
+      "longitude": 22.910208
+    },
+    {
+      "name": "Georgios &Co",
+      "latitude": 37.447765,
+      "longitude": 25.329618
+    },
+    {
+      "name": "giann'oro",
+      "latitude": 38.059506,
+      "longitude": 23.794512
+    },
+    {
+      "name": "Giannitsidi",
+      "latitude": 40.273024,
+      "longitude": 22.509019
+    },
+    {
+      "name": "Gin",
+      "latitude": 40.634755,
+      "longitude": 22.939833
+    },
+    {
+      "name": "Gini",
+      "latitude": 38.247408,
+      "longitude": 21.736677
+    },
+    {
+      "name": "gini ATHENS",
+      "latitude": 37.978918,
+      "longitude": 23.729623
+    },
+    {
+      "name": "Giouzenis",
+      "latitude": 37.976694,
+      "longitude": 23.734745
+    },
+    {
+      "name": "gk",
+      "latitude": 37.978091,
+      "longitude": 23.729829
+    },
+    {
+      "name": "Glamway",
+      "latitude": 37.978746,
+      "longitude": 23.729622
+    },
+    {
+      "name": "GOFAS",
+      "latitude": 37.937739,
+      "longitude": 23.94894
+    },
+    {
+      "name": "Gofas",
+      "latitude": 37.976651,
+      "longitude": 23.734266
+    },
+    {
+      "name": "Gold Exchange",
+      "latitude": 38.24247,
+      "longitude": 21.734798
+    },
+    {
+      "name": "Gold In White",
+      "latitude": 36.418562,
+      "longitude": 25.431058
+    },
+    {
+      "name": "Gold Nicol",
+      "latitude": 40.664689,
+      "longitude": 23.700015
+    },
+    {
+      "name": "Golden Bazaar",
+      "latitude": 36.418684,
+      "longitude": 25.4315
+    },
+    {
+      "name": "Golden Bee Jewellery",
+      "latitude": 35.158611,
+      "longitude": 25.716363
+    },
+    {
+      "name": "Golden Chain",
+      "latitude": 37.996658,
+      "longitude": 23.744781
+    },
+    {
+      "name": "Golden Corner",
+      "latitude": 37.948744,
+      "longitude": 23.738177
+    },
+    {
+      "name": "Golden Dolphin Jewellery",
+      "latitude": 35.340181,
+      "longitude": 25.133936
+    },
+    {
+      "name": "Golden house",
+      "latitude": 38.055589,
+      "longitude": 23.80682
+    },
+    {
+      "name": "Golden Island Jewellery",
+      "latitude": 37.499591,
+      "longitude": 23.451639
+    },
+    {
+      "name": "Golden Odyssey",
+      "latitude": 36.418479,
+      "longitude": 25.431689
+    },
+    {
+      "name": "Golden Odyssey Jewellers",
+      "latitude": 36.418461,
+      "longitude": 25.431646
+    },
+    {
+      "name": "Golden Pap",
+      "latitude": 37.984126,
+      "longitude": 23.724787
+    },
+    {
+      "name": "Golden Paradise",
+      "latitude": 37.818168,
+      "longitude": 20.862619
+    },
+    {
+      "name": "GQA",
+      "latitude": 37.978634,
+      "longitude": 23.729305
+    },
+    {
+      "name": "Gre Gio",
+      "latitude": 37.863079,
+      "longitude": 23.75117
+    },
+    {
+      "name": "Greco gold",
+      "latitude": 37.349928,
+      "longitude": 23.46681
+    },
+    {
+      "name": "Greek Jewellery",
+      "latitude": 37.934499,
+      "longitude": 23.945928
+    },
+    {
+      "name": "Greek light",
+      "latitude": 37.447363,
+      "longitude": 25.328836
+    },
+    {
+      "name": "Greek Roots",
+      "latitude": 37.969401,
+      "longitude": 23.730325
+    },
+    {
+      "name": "gregio",
+      "latitude": 37.932539,
+      "longitude": 22.874267
+    },
+    {
+      "name": "Gregio",
+      "latitude": 38.021921,
+      "longitude": 23.79931
+    },
+    {
+      "name": "Greogio",
+      "latitude": 37.941375,
+      "longitude": 23.647534
+    },
+    {
+      "name": "Grisogonio",
+      "latitude": 35.513911,
+      "longitude": 24.019198
+    },
+    {
+      "name": "Guapa cosmetics",
+      "latitude": 37.930553,
+      "longitude": 23.751805
+    },
+    {
+      "name": "Guarantee",
+      "latitude": 35.335708,
+      "longitude": 25.080318
+    },
+    {
+      "name": "Guarantee Jewellery",
+      "latitude": 35.369974,
+      "longitude": 24.475608
+    },
+    {
+      "name": "Handmade!!!",
+      "latitude": 36.806872,
+      "longitude": 21.805617
+    },
+    {
+      "name": "Hantra",
+      "latitude": 37.980101,
+      "longitude": 23.728564
+    },
+    {
+      "name": "Haronian",
+      "latitude": 37.871044,
+      "longitude": 23.76461
+    },
+    {
+      "name": "Hatzopoulos",
+      "latitude": 37.976446,
+      "longitude": 23.733962
+    },
+    {
+      "name": "Hecho Ropa Store",
+      "latitude": 38.242221,
+      "longitude": 21.735005
+    },
+    {
+      "name": "Helen",
+      "latitude": 37.975168,
+      "longitude": 23.728519
+    },
+    {
+      "name": "Hellena's Collection",
+      "latitude": 37.977629,
+      "longitude": 23.731206
+    },
+    {
+      "name": "Hermes",
+      "latitude": 36.419672,
+      "longitude": 25.431352
+    },
+    {
+      "name": "Hermes",
+      "latitude": 37.879238,
+      "longitude": 21.113949
+    },
+    {
+      "name": "HERMES",
+      "latitude": 37.975855,
+      "longitude": 23.726982
+    },
+    {
+      "name": "HongXing",
+      "latitude": 37.980404,
+      "longitude": 23.725747
+    },
+    {
+      "name": "Hydra",
+      "latitude": 37.350767,
+      "longitude": 23.46692
+    },
+    {
+      "name": "Hyperion",
+      "latitude": 37.974693,
+      "longitude": 23.732774
+    },
+    {
+      "name": "Ibiscus",
+      "latitude": 36.617259,
+      "longitude": 27.837709
+    },
+    {
+      "name": "Ifi",
+      "latitude": 38.036509,
+      "longitude": 23.755953
+    },
+    {
+      "name": "ikonomou",
+      "latitude": 37.972343,
+      "longitude": 23.730244
+    },
+    {
+      "name": "ilias LALAoUNIS",
+      "latitude": 36.41725,
+      "longitude": 25.431698
+    },
+    {
+      "name": "Ilias LALAoUNIS",
+      "latitude": 37.44808,
+      "longitude": 25.32967
+    },
+    {
+      "name": "Ilias Lalaounis",
+      "latitude": 37.977263,
+      "longitude": 23.735852
+    },
+    {
+      "name": "Ilias Lalaounis",
+      "latitude": 38.073655,
+      "longitude": 23.814317
+    },
+    {
+      "name": "ILIOS",
+      "latitude": 39.715779,
+      "longitude": 19.681628
+    },
+    {
+      "name": "Imanoglou",
+      "latitude": 37.976582,
+      "longitude": 23.734313
+    },
+    {
+      "name": "Inarte",
+      "latitude": 38.042952,
+      "longitude": 23.753256
+    },
+    {
+      "name": "INFINITY",
+      "latitude": 37.976,
+      "longitude": 23.732509
+    },
+    {
+      "name": "Ioanna",
+      "latitude": 36.892259,
+      "longitude": 27.286946
+    },
+    {
+      "name": "Ioanna",
+      "latitude": 38.073966,
+      "longitude": 23.812743
+    },
+    {
+      "name": "Ioannis Patilis",
+      "latitude": 37.977309,
+      "longitude": 23.735936
+    },
+    {
+      "name": "Iordanis",
+      "latitude": 38.072739,
+      "longitude": 23.817019
+    },
+    {
+      "name": "Irene Silver",
+      "latitude": 36.443818,
+      "longitude": 28.223983
+    },
+    {
+      "name": "Irinis Gold",
+      "latitude": 36.294016,
+      "longitude": 28.16279
+    },
+    {
+      "name": "Iris",
+      "latitude": 35.315612,
+      "longitude": 25.393425
+    },
+    {
+      "name": "Iris",
+      "latitude": 35.5159,
+      "longitude": 24.019166
+    },
+    {
+      "name": "Iris",
+      "latitude": 39.163431,
+      "longitude": 23.488999
+    },
+    {
+      "name": "Iris Agistrioti",
+      "latitude": 40.630053,
+      "longitude": 22.945727
+    },
+    {
+      "name": "Iro Dristila",
+      "latitude": 38.431115,
+      "longitude": 22.425609
+    },
+    {
+      "name": "Irtakina jewellery",
+      "latitude": 35.514617,
+      "longitude": 24.017789
+    },
+    {
+      "name": "J'adore",
+      "latitude": 40.623189,
+      "longitude": 22.440258
+    },
+    {
+      "name": "Jege",
+      "latitude": 38.072903,
+      "longitude": 23.815093
+    },
+    {
+      "name": "Jevers",
+      "latitude": 37.976576,
+      "longitude": 23.731213
+    },
+    {
+      "name": "Jewel of Mykonos",
+      "latitude": 37.446951,
+      "longitude": 25.325686
+    },
+    {
+      "name": "Jewel-fix",
+      "latitude": 37.978424,
+      "longitude": 23.744445
+    },
+    {
+      "name": "Jewellery Agas",
+      "latitude": 39.790742,
+      "longitude": 19.788783
+    },
+    {
+      "name": "Jewellery Center",
+      "latitude": 35.368925,
+      "longitude": 24.474773
+    },
+    {
+      "name": "Jewellery Johannes",
+      "latitude": 36.253393,
+      "longitude": 28.165047
+    },
+    {
+      "name": "Jewellery Patsourakis",
+      "latitude": 35.230628,
+      "longitude": 23.682132
+    },
+    {
+      "name": "Jewellery-Workshop Kamilari",
+      "latitude": 35.034178,
+      "longitude": 24.788918
+    },
+    {
+      "name": "Jewels and items",
+      "latitude": 38.008957,
+      "longitude": 23.734969
+    },
+    {
+      "name": "Jewels by Mak",
+      "latitude": 37.974574,
+      "longitude": 23.728269
+    },
+    {
+      "name": "Jewllery Lena",
+      "latitude": 35.319978,
+      "longitude": 25.391618
+    },
+    {
+      "name": "Jewls & Jems",
+      "latitude": 37.859967,
+      "longitude": 23.754637
+    },
+    {
+      "name": "Jewls and Jems",
+      "latitude": 37.94096,
+      "longitude": 23.645532
+    },
+    {
+      "name": "Jin Li Shi Imp.",
+      "latitude": 37.982102,
+      "longitude": 23.726162
+    },
+    {
+      "name": "Jina Tsalikian",
+      "latitude": 37.977591,
+      "longitude": 23.736467
+    },
+    {
+      "name": "JJ Design",
+      "latitude": 38.022667,
+      "longitude": 23.747588
+    },
+    {
+      "name": "JNK",
+      "latitude": 40.610566,
+      "longitude": 24.605783
+    },
+    {
+      "name": "John Nikiforakis",
+      "latitude": 35.516104,
+      "longitude": 24.018477
+    },
+    {
+      "name": "John Tatakis",
+      "latitude": 36.418749,
+      "longitude": 25.431458
+    },
+    {
+      "name": "JOLIE",
+      "latitude": 40.613947,
+      "longitude": 22.979266
+    },
+    {
+      "name": "Jools",
+      "latitude": 37.566138,
+      "longitude": 22.797209
+    },
+    {
+      "name": "JOOLS",
+      "latitude": 37.985305,
+      "longitude": 23.911712
+    },
+    {
+      "name": "Jools",
+      "latitude": 38.021631,
+      "longitude": 23.799931
+    },
+    {
+      "name": "JOOLS SILVER",
+      "latitude": 37.978068,
+      "longitude": 23.730522
+    },
+    {
+      "name": "Jouel",
+      "latitude": 37.976511,
+      "longitude": 23.73189
+    },
+    {
+      "name": "Jove",
+      "latitude": 37.639416,
+      "longitude": 25.04146
+    },
+    {
+      "name": "JULIO accessories",
+      "latitude": 37.976568,
+      "longitude": 23.73128
+    },
+    {
+      "name": "Just 4 You",
+      "latitude": 36.416214,
+      "longitude": 25.432678
+    },
+    {
+      "name": "Juwellery Girl",
+      "latitude": 36.796988,
+      "longitude": 21.958054
+    },
+    {
+      "name": "K22",
+      "latitude": 35.368973,
+      "longitude": 24.476
+    },
+    {
+      "name": "Kakadou",
+      "latitude": 37.975549,
+      "longitude": 23.727706
+    },
+    {
+      "name": "Kalfidis",
+      "latitude": 40.629622,
+      "longitude": 22.947563
+    },
+    {
+      "name": "Kalfidis Jewellery",
+      "latitude": 40.590681,
+      "longitude": 23.036483
+    },
+    {
+      "name": "kalliroi.gr",
+      "latitude": 37.958467,
+      "longitude": 23.707729
+    },
+    {
+      "name": "Kaloudis",
+      "latitude": 36.443807,
+      "longitude": 28.225491
+    },
+    {
+      "name": "Kamari Gold",
+      "latitude": 36.417954,
+      "longitude": 25.431757
+    },
+    {
+      "name": "Kapetanakis",
+      "latitude": 37.975825,
+      "longitude": 23.727481
+    },
+    {
+      "name": "Kapisti",
+      "latitude": 36.41862,
+      "longitude": 25.431454
+    },
+    {
+      "name": "Kappou Creations",
+      "latitude": 37.930911,
+      "longitude": 23.642447
+    },
+    {
+      "name": "Kaptara",
+      "latitude": 35.516256,
+      "longitude": 24.017274
+    },
+    {
+      "name": "Karati",
+      "latitude": 35.339523,
+      "longitude": 25.132613
+    },
+    {
+      "name": "Kartakis",
+      "latitude": 38.072961,
+      "longitude": 23.814961
+    },
+    {
+      "name": "Karvounidis Jewels",
+      "latitude": 40.637116,
+      "longitude": 22.942292
+    },
+    {
+      "name": "Kasapoglou",
+      "latitude": 37.790755,
+      "longitude": 26.704394
+    },
+    {
+      "name": "Kassis",
+      "latitude": 37.977486,
+      "longitude": 23.736268
+    },
+    {
+      "name": "Katerina Lolou",
+      "latitude": 37.978606,
+      "longitude": 23.738106
+    },
+    {
+      "name": "Katerina sunrise",
+      "latitude": 35.369794,
+      "longitude": 24.475358
+    },
+    {
+      "name": "Katerina Vassou",
+      "latitude": 37.977354,
+      "longitude": 23.740644
+    },
+    {
+      "name": "Katerina's Jewelry",
+      "latitude": 37.105824,
+      "longitude": 25.377103
+    },
+    {
+      "name": "Katetina Ioannidis",
+      "latitude": 37.978111,
+      "longitude": 23.744676
+    },
+    {
+      "name": "Katramopoulos",
+      "latitude": 37.977444,
+      "longitude": 23.737202
+    },
+    {
+      "name": "KESSARIS",
+      "latitude": 37.977082,
+      "longitude": 23.735486
+    },
+    {
+      "name": "Kevork",
+      "latitude": 37.957952,
+      "longitude": 23.70531
+    },
+    {
+      "name": "kinitro",
+      "latitude": 37.97647,
+      "longitude": 23.732459
+    },
+    {
+      "name": "kinitro",
+      "latitude": 37.976684,
+      "longitude": 23.731788
+    },
+    {
+      "name": "Kinko",
+      "latitude": 38.071601,
+      "longitude": 23.811884
+    },
+    {
+      "name": "Kochimata",
+      "latitude": 36.615429,
+      "longitude": 27.837012
+    },
+    {
+      "name": "Kokkiadi",
+      "latitude": 35.338484,
+      "longitude": 25.135604
+    },
+    {
+      "name": "Kolchida Jewellery",
+      "latitude": 36.418841,
+      "longitude": 25.431552
+    },
+    {
+      "name": "Konstantino",
+      "latitude": 37.975582,
+      "longitude": 23.727869
+    },
+    {
+      "name": "Konstantino Greco Gold",
+      "latitude": 36.417765,
+      "longitude": 25.431653
+    },
+    {
+      "name": "Kori",
+      "latitude": 37.975194,
+      "longitude": 23.73245
+    },
+    {
+      "name": "kosmimafino",
+      "latitude": 38.017944,
+      "longitude": 23.735643
+    },
+    {
+      "name": "Kosmio",
+      "latitude": 35.515456,
+      "longitude": 24.018929
+    },
+    {
+      "name": "Kostis",
+      "latitude": 38.042448,
+      "longitude": 23.753626
+    },
+    {
+      "name": "Koumian – Κοσμήματα & Ρολόγια",
+      "latitude": 38.001637,
+      "longitude": 23.733906
+    },
+    {
+      "name": "Kounakis",
+      "latitude": 36.443756,
+      "longitude": 28.225947
+    },
+    {
+      "name": "Kreta Gold",
+      "latitude": 35.514704,
+      "longitude": 24.017771
+    },
+    {
+      "name": "KriKri",
+      "latitude": 35.316749,
+      "longitude": 25.391825
+    },
+    {
+      "name": "Krina",
+      "latitude": 35.315799,
+      "longitude": 25.392812
+    },
+    {
+      "name": "Krinaki",
+      "latitude": 37.977945,
+      "longitude": 23.730463
+    },
+    {
+      "name": "Kritiko",
+      "latitude": 35.507539,
+      "longitude": 27.213128
+    },
+    {
+      "name": "Krontiras",
+      "latitude": 37.990252,
+      "longitude": 23.742226
+    },
+    {
+      "name": "L'art des bijoux",
+      "latitude": 38.072834,
+      "longitude": 23.816626
+    },
+    {
+      "name": "L. Maris",
+      "latitude": 35.248624,
+      "longitude": 25.730717
+    },
+    {
+      "name": "La Bijouagie",
+      "latitude": 37.932279,
+      "longitude": 22.874223
+    },
+    {
+      "name": "La Magia",
+      "latitude": 36.440931,
+      "longitude": 28.224674
+    },
+    {
+      "name": "Labyrinthos",
+      "latitude": 37.975276,
+      "longitude": 23.728576
+    },
+    {
+      "name": "Labyrintos",
+      "latitude": 35.515119,
+      "longitude": 24.016873
+    },
+    {
+      "name": "Ladas",
+      "latitude": 38.043157,
+      "longitude": 23.754126
+    },
+    {
+      "name": "LaGoudera Gold & Silver Jewellery",
+      "latitude": 36.41795,
+      "longitude": 25.431693
+    },
+    {
+      "name": "Lagoudera Jewellery",
+      "latitude": 36.418003,
+      "longitude": 25.431605
+    },
+    {
+      "name": "Lambrakis",
+      "latitude": 37.978367,
+      "longitude": 23.729286
+    },
+    {
+      "name": "Lapis",
+      "latitude": 36.418501,
+      "longitude": 25.431406
+    },
+    {
+      "name": "Lapis",
+      "latitude": 36.443439,
+      "longitude": 28.228385
+    },
+    {
+      "name": "Lapis",
+      "latitude": 37.975305,
+      "longitude": 23.728468
+    },
+    {
+      "name": "Lapislazuli",
+      "latitude": 35.362768,
+      "longitude": 24.261381
+    },
+    {
+      "name": "Lapislazuli",
+      "latitude": 37.778425,
+      "longitude": 26.893308
+    },
+    {
+      "name": "Lava",
+      "latitude": 35.230556,
+      "longitude": 23.681894
+    },
+    {
+      "name": "Lavi",
+      "latitude": 38.022047,
+      "longitude": 23.800509
+    },
+    {
+      "name": "lavi",
+      "latitude": 40.65262,
+      "longitude": 22.922774
+    },
+    {
+      "name": "Lazare",
+      "latitude": 37.967963,
+      "longitude": 23.726753
+    },
+    {
+      "name": "Le petit",
+      "latitude": 38.012151,
+      "longitude": 23.696214
+    },
+    {
+      "name": "Lena",
+      "latitude": 35.322686,
+      "longitude": 25.390662
+    },
+    {
+      "name": "LenGio",
+      "latitude": 39.106177,
+      "longitude": 26.555304
+    },
+    {
+      "name": "Les Bijoux",
+      "latitude": 35.369979,
+      "longitude": 24.475481
+    },
+    {
+      "name": "Leucadia",
+      "latitude": 38.833532,
+      "longitude": 20.707445
+    },
+    {
+      "name": "Li - La - Lo",
+      "latitude": 37.977219,
+      "longitude": 23.739083
+    },
+    {
+      "name": "Li La Lo",
+      "latitude": 37.976616,
+      "longitude": 23.734605
+    },
+    {
+      "name": "Li Lo",
+      "latitude": 37.863082,
+      "longitude": 23.749781
+    },
+    {
+      "name": "Li-La-Lo",
+      "latitude": 38.072724,
+      "longitude": 23.816251
+    },
+    {
+      "name": "Libelle",
+      "latitude": 37.946318,
+      "longitude": 23.71247
+    },
+    {
+      "name": "LifeLikes",
+      "latitude": 37.940643,
+      "longitude": 23.646573
+    },
+    {
+      "name": "lifetime",
+      "latitude": 37.976618,
+      "longitude": 23.731797
+    },
+    {
+      "name": "Limoncello",
+      "latitude": 40.098369,
+      "longitude": 23.312646
+    },
+    {
+      "name": "Lithos",
+      "latitude": 37.975349,
+      "longitude": 23.732239
+    },
+    {
+      "name": "Lithos",
+      "latitude": 39.546994,
+      "longitude": 19.850792
+    },
+    {
+      "name": "Loceo",
+      "latitude": 35.369858,
+      "longitude": 24.475337
+    },
+    {
+      "name": "LOISIR",
+      "latitude": 37.976123,
+      "longitude": 23.731123
+    },
+    {
+      "name": "Loisir",
+      "latitude": 40.084232,
+      "longitude": 21.428403
+    },
+    {
+      "name": "LOISIR",
+      "latitude": 40.632145,
+      "longitude": 22.944269
+    },
+    {
+      "name": "Loots",
+      "latitude": 35.514759,
+      "longitude": 24.017491
+    },
+    {
+      "name": "Loukidis Jewellery Workshop",
+      "latitude": 36.615175,
+      "longitude": 27.836899
+    },
+    {
+      "name": "LP",
+      "latitude": 35.369898,
+      "longitude": 24.475497
+    },
+    {
+      "name": "LP Jewellery",
+      "latitude": 35.369816,
+      "longitude": 24.474799
+    },
+    {
+      "name": "Lucia",
+      "latitude": 35.312763,
+      "longitude": 25.396497
+    },
+    {
+      "name": "Lukas Gold",
+      "latitude": 36.443616,
+      "longitude": 28.2275
+    },
+    {
+      "name": "Lure",
+      "latitude": 39.636578,
+      "longitude": 22.416622
+    },
+    {
+      "name": "Luxon",
+      "latitude": 37.983208,
+      "longitude": 23.730214
+    },
+    {
+      "name": "Luxury Elements",
+      "latitude": 37.978455,
+      "longitude": 23.738232
+    },
+    {
+      "name": "LV",
+      "latitude": 38.073532,
+      "longitude": 23.813018
+    },
+    {
+      "name": "Lychnos",
+      "latitude": 37.778391,
+      "longitude": 26.89271
+    },
+    {
+      "name": "M Roussos",
+      "latitude": 37.153282,
+      "longitude": 26.856833
+    },
+    {
+      "name": "Makriadis",
+      "latitude": 37.97655,
+      "longitude": 23.731676
+    },
+    {
+      "name": "Malamas Jewellery",
+      "latitude": 37.084518,
+      "longitude": 25.148003
+    },
+    {
+      "name": "mamoglou",
+      "latitude": 37.976148,
+      "longitude": 23.731092
+    },
+    {
+      "name": "Mamoglou",
+      "latitude": 37.977149,
+      "longitude": 23.739499
+    },
+    {
+      "name": "Mantalena",
+      "latitude": 37.446512,
+      "longitude": 25.326255
+    },
+    {
+      "name": "Mantikos",
+      "latitude": 36.443703,
+      "longitude": 28.227587
+    },
+    {
+      "name": "Marakakis",
+      "latitude": 38.01574,
+      "longitude": 23.834262
+    },
+    {
+      "name": "Marbelous",
+      "latitude": 39.109608,
+      "longitude": 26.557697
+    },
+    {
+      "name": "Marco Bicego",
+      "latitude": 37.447356,
+      "longitude": 25.328806
+    },
+    {
+      "name": "mare handicraft",
+      "latitude": 35.515956,
+      "longitude": 24.017989
+    },
+    {
+      "name": "Margaritas",
+      "latitude": 35.516729,
+      "longitude": 24.015766
+    },
+    {
+      "name": "Margeritis",
+      "latitude": 37.105643,
+      "longitude": 25.375605
+    },
+    {
+      "name": "Mariana",
+      "latitude": 35.306438,
+      "longitude": 25.392876
+    },
+    {
+      "name": "Marianna",
+      "latitude": 35.314676,
+      "longitude": 25.394596
+    },
+    {
+      "name": "Marinos",
+      "latitude": 36.419966,
+      "longitude": 25.43132
+    },
+    {
+      "name": "Marisia & Co",
+      "latitude": 37.941027,
+      "longitude": 23.648173
+    },
+    {
+      "name": "Martini",
+      "latitude": 38.0242,
+      "longitude": 23.748693
+    },
+    {
+      "name": "Mary's Accessories",
+      "latitude": 37.519935,
+      "longitude": 22.85878
+    },
+    {
+      "name": "Massimiliano",
+      "latitude": 37.9788,
+      "longitude": 23.767014
+    },
+    {
+      "name": "Max Gold",
+      "latitude": 36.253552,
+      "longitude": 28.164171
+    },
+    {
+      "name": "Meandros",
+      "latitude": 36.443591,
+      "longitude": 28.224154
+    },
+    {
+      "name": "Meandros gold",
+      "latitude": 39.793605,
+      "longitude": 19.818191
+    },
+    {
+      "name": "Medusa",
+      "latitude": 37.945449,
+      "longitude": 23.644596
+    },
+    {
+      "name": "Medusa",
+      "latitude": 40.000128,
+      "longitude": 23.383761
+    },
+    {
+      "name": "Medusa Jewellery",
+      "latitude": 35.363337,
+      "longitude": 24.259944
+    },
+    {
+      "name": "meir",
+      "latitude": 37.949717,
+      "longitude": 23.736527
+    },
+    {
+      "name": "Meli Melo",
+      "latitude": 36.418228,
+      "longitude": 25.432699
+    },
+    {
+      "name": "Melissa",
+      "latitude": 34.993162,
+      "longitude": 24.750662
+    },
+    {
+      "name": "Melissa",
+      "latitude": 35.335847,
+      "longitude": 25.077245
+    },
+    {
+      "name": "Meni's Shop",
+      "latitude": 36.443541,
+      "longitude": 28.224276
+    },
+    {
+      "name": "Merci Cherie",
+      "latitude": 37.940868,
+      "longitude": 23.647635
+    },
+    {
+      "name": "Metallgi",
+      "latitude": 37.566844,
+      "longitude": 22.799111
+    },
+    {
+      "name": "MGL",
+      "latitude": 37.995783,
+      "longitude": 23.732473
+    },
+    {
+      "name": "Michalis",
+      "latitude": 37.862999,
+      "longitude": 23.750084
+    },
+    {
+      "name": "Michalis",
+      "latitude": 37.976776,
+      "longitude": 23.734871
+    },
+    {
+      "name": "Michas",
+      "latitude": 38.072739,
+      "longitude": 23.816492
+    },
+    {
+      "name": "Microcosmos",
+      "latitude": 39.791356,
+      "longitude": 19.814766
+    },
+    {
+      "name": "Midas Jewelery",
+      "latitude": 39.791064,
+      "longitude": 19.708422
+    },
+    {
+      "name": "Midas Jewellery",
+      "latitude": 35.09666,
+      "longitude": 24.687496
+    },
+    {
+      "name": "Mike Smaracdios",
+      "latitude": 36.443741,
+      "longitude": 28.227096
+    },
+    {
+      "name": "miniatoura",
+      "latitude": 40.629794,
+      "longitude": 22.949745
+    },
+    {
+      "name": "Minimalistic",
+      "latitude": 39.62403,
+      "longitude": 19.919959
+    },
+    {
+      "name": "ministry of art",
+      "latitude": 36.371892,
+      "longitude": 25.482067
+    },
+    {
+      "name": "Mitos",
+      "latitude": 35.515299,
+      "longitude": 24.017651
+    },
+    {
+      "name": "Mitsialis Jewellery",
+      "latitude": 39.623687,
+      "longitude": 19.921142
+    },
+    {
+      "name": "Monopetro",
+      "latitude": 37.976785,
+      "longitude": 23.733234
+    },
+    {
+      "name": "Moonstone - Handmade Jewellery",
+      "latitude": 38.788875,
+      "longitude": 20.612785
+    },
+    {
+      "name": "Mots",
+      "latitude": 37.978265,
+      "longitude": 23.72983
+    },
+    {
+      "name": "Mourtzanos 1907",
+      "latitude": 35.368732,
+      "longitude": 24.476109
+    },
+    {
+      "name": "Muses",
+      "latitude": 35.289516,
+      "longitude": 25.448376
+    },
+    {
+      "name": "Muses jewellery",
+      "latitude": 37.104508,
+      "longitude": 25.376342
+    },
+    {
+      "name": "Museum of jewels",
+      "latitude": 37.975494,
+      "longitude": 23.727861
+    },
+    {
+      "name": "Musses",
+      "latitude": 35.290718,
+      "longitude": 25.444494
+    },
+    {
+      "name": "My jewels",
+      "latitude": 37.983423,
+      "longitude": 23.730079
+    },
+    {
+      "name": "Myri",
+      "latitude": 38.019993,
+      "longitude": 23.802781
+    },
+    {
+      "name": "Mythos Art Gallery",
+      "latitude": 39.368243,
+      "longitude": 26.17354
+    },
+    {
+      "name": "N.Billis",
+      "latitude": 37.983567,
+      "longitude": 23.728059
+    },
+    {
+      "name": "N.G. silver & gold",
+      "latitude": 37.266964,
+      "longitude": 23.155951
+    },
+    {
+      "name": "namfleg",
+      "latitude": 36.419611,
+      "longitude": 25.43149
+    },
+    {
+      "name": "Naos",
+      "latitude": 37.103745,
+      "longitude": 25.375816
+    },
+    {
+      "name": "Nasilia",
+      "latitude": 38.02205,
+      "longitude": 23.802144
+    },
+    {
+      "name": "Nassos Lekas",
+      "latitude": 37.981118,
+      "longitude": 23.737344
+    },
+    {
+      "name": "Nefeli",
+      "latitude": 35.337741,
+      "longitude": 25.364929
+    },
+    {
+      "name": "netgadi",
+      "latitude": 37.837772,
+      "longitude": 24.939146
+    },
+    {
+      "name": "Nicci",
+      "latitude": 37.97695,
+      "longitude": 23.739843
+    },
+    {
+      "name": "Nick the Greek",
+      "latitude": 36.417149,
+      "longitude": 25.431773
+    },
+    {
+      "name": "Nicki Gold",
+      "latitude": 36.348304,
+      "longitude": 28.203346
+    },
+    {
+      "name": "Nikolakopoulos",
+      "latitude": 37.940582,
+      "longitude": 23.649479
+    },
+    {
+      "name": "NIKOLIS GROUP S.A.",
+      "latitude": 37.979175,
+      "longitude": 23.729457
+    },
+    {
+      "name": "Nikolopoulos",
+      "latitude": 37.974853,
+      "longitude": 23.734233
+    },
+    {
+      "name": "Nikos Koulis",
+      "latitude": 37.977067,
+      "longitude": 23.741376
+    },
+    {
+      "name": "Nilos",
+      "latitude": 35.189965,
+      "longitude": 25.718366
+    },
+    {
+      "name": "Nilos",
+      "latitude": 35.261651,
+      "longitude": 25.723341
+    },
+    {
+      "name": "Nolden",
+      "latitude": 35.028411,
+      "longitude": 24.759233
+    },
+    {
+      "name": "Norrana Handmade Jewelry",
+      "latitude": 38.24259,
+      "longitude": 21.738696
+    },
+    {
+      "name": "Oasis",
+      "latitude": 38.000262,
+      "longitude": 23.733736
+    },
+    {
+      "name": "Oikonomou Gold",
+      "latitude": 36.294128,
+      "longitude": 28.162929
+    },
+    {
+      "name": "OKIO",
+      "latitude": 37.124744,
+      "longitude": 25.238026
+    },
+    {
+      "name": "Old Orient",
+      "latitude": 37.975891,
+      "longitude": 23.726549
+    },
+    {
+      "name": "Olympic Corner",
+      "latitude": 37.644415,
+      "longitude": 21.625492
+    },
+    {
+      "name": "Omega",
+      "latitude": 37.97665,
+      "longitude": 23.734651
+    },
+    {
+      "name": "Onar",
+      "latitude": 35.515007,
+      "longitude": 24.019077
+    },
+    {
+      "name": "Oreades",
+      "latitude": 37.976278,
+      "longitude": 23.725484
+    },
+    {
+      "name": "Orfanos",
+      "latitude": 38.83315,
+      "longitude": 20.706844
+    },
+    {
+      "name": "Oria",
+      "latitude": 35.340061,
+      "longitude": 25.133889
+    },
+    {
+      "name": "Orient",
+      "latitude": 40.084305,
+      "longitude": 21.426647
+    },
+    {
+      "name": "Origammi",
+      "latitude": 35.514049,
+      "longitude": 24.019275
+    },
+    {
+      "name": "Oro 75",
+      "latitude": 38.031819,
+      "longitude": 23.708234
+    },
+    {
+      "name": "Oro club",
+      "latitude": 37.97452,
+      "longitude": 23.652302
+    },
+    {
+      "name": "Oro e Ora",
+      "latitude": 37.863121,
+      "longitude": 23.749598
+    },
+    {
+      "name": "Oro Synthesis Lab",
+      "latitude": 40.672351,
+      "longitude": 22.933788
+    },
+    {
+      "name": "Oro24",
+      "latitude": 37.941346,
+      "longitude": 23.645327
+    },
+    {
+      "name": "Ouph",
+      "latitude": 38.015306,
+      "longitude": 23.833227
+    },
+    {
+      "name": "Ouranos",
+      "latitude": 35.514668,
+      "longitude": 24.018061
+    },
+    {
+      "name": "Oxette",
+      "latitude": 37.941342,
+      "longitude": 23.645431
+    },
+    {
+      "name": "OXETTE",
+      "latitude": 37.976115,
+      "longitude": 23.731173
+    },
+    {
+      "name": "Oxette",
+      "latitude": 39.105544,
+      "longitude": 26.555147
+    },
+    {
+      "name": "Oxzen",
+      "latitude": 40.631719,
+      "longitude": 22.944897
+    },
+    {
+      "name": "Oxétte",
+      "latitude": 37.863141,
+      "longitude": 23.749484
+    },
+    {
+      "name": "Oxétte",
+      "latitude": 40.271285,
+      "longitude": 22.506284
+    },
+    {
+      "name": "Ozze",
+      "latitude": 40.630554,
+      "longitude": 22.946143
+    },
+    {
+      "name": "P Gianoulis",
+      "latitude": 39.625242,
+      "longitude": 19.919552
+    },
+    {
+      "name": "P Jewels",
+      "latitude": 37.566457,
+      "longitude": 22.798983
+    },
+    {
+      "name": "Pallas Jewels",
+      "latitude": 35.008896,
+      "longitude": 25.740064
+    },
+    {
+      "name": "Panaidis",
+      "latitude": 37.97574,
+      "longitude": 23.727466
+    },
+    {
+      "name": "Pandora",
+      "latitude": 35.313226,
+      "longitude": 25.396374
+    },
+    {
+      "name": "Pandora",
+      "latitude": 35.319356,
+      "longitude": 25.391531
+    },
+    {
+      "name": "Pandora",
+      "latitude": 35.338923,
+      "longitude": 25.133595
+    },
+    {
+      "name": "Pandora",
+      "latitude": 35.513902,
+      "longitude": 24.019406
+    },
+    {
+      "name": "Pandora",
+      "latitude": 36.419326,
+      "longitude": 25.431649
+    },
+    {
+      "name": "Pandora",
+      "latitude": 36.420403,
+      "longitude": 25.431173
+    },
+    {
+      "name": "Pandora",
+      "latitude": 36.448061,
+      "longitude": 28.222494
+    },
+    {
+      "name": "Pandora",
+      "latitude": 37.036523,
+      "longitude": 22.110745
+    },
+    {
+      "name": "Pandora",
+      "latitude": 37.941998,
+      "longitude": 23.648987
+    },
+    {
+      "name": "Pandora",
+      "latitude": 37.975725,
+      "longitude": 23.732853
+    },
+    {
+      "name": "Pandora",
+      "latitude": 38.022455,
+      "longitude": 23.799915
+    },
+    {
+      "name": "Pandora",
+      "latitude": 38.072787,
+      "longitude": 23.815282
+    },
+    {
+      "name": "Pandora",
+      "latitude": 38.248739,
+      "longitude": 21.734978
+    },
+    {
+      "name": "Pandora",
+      "latitude": 39.637807,
+      "longitude": 22.418963
+    },
+    {
+      "name": "Pandora",
+      "latitude": 40.936961,
+      "longitude": 24.410558
+    },
+    {
+      "name": "Panos Jewels",
+      "latitude": 37.90686,
+      "longitude": 23.753447
+    },
+    {
+      "name": "Panos Kapakos",
+      "latitude": 37.94082,
+      "longitude": 23.645946
+    },
+    {
+      "name": "Papadopoulos",
+      "latitude": 38.055447,
+      "longitude": 23.807
+    },
+    {
+      "name": "Papadopoulos",
+      "latitude": 38.055612,
+      "longitude": 23.806102
+    },
+    {
+      "name": "Papadopoulos",
+      "latitude": 38.07275,
+      "longitude": 23.816257
+    },
+    {
+      "name": "Paradise",
+      "latitude": 36.443604,
+      "longitude": 28.227434
+    },
+    {
+      "name": "Paraskevopoulos",
+      "latitude": 37.862005,
+      "longitude": 23.75302
+    },
+    {
+      "name": "parfois",
+      "latitude": 36.418458,
+      "longitude": 25.432241
+    },
+    {
+      "name": "Paris",
+      "latitude": 37.955492,
+      "longitude": 23.702305
+    },
+    {
+      "name": "Pavlakis",
+      "latitude": 35.338562,
+      "longitude": 25.134752
+    },
+    {
+      "name": "Pavlidis",
+      "latitude": 37.991144,
+      "longitude": 23.682297
+    },
+    {
+      "name": "Pelekis",
+      "latitude": 35.3172,
+      "longitude": 25.391203
+    },
+    {
+      "name": "Pen store (fountain pens)",
+      "latitude": 37.690644,
+      "longitude": 26.937611
+    },
+    {
+      "name": "Pennyscrafts",
+      "latitude": 37.990149,
+      "longitude": 23.757071
+    },
+    {
+      "name": "PENTAKTINO",
+      "latitude": 37.941687,
+      "longitude": 23.646653
+    },
+    {
+      "name": "Personal Affairs Design",
+      "latitude": 39.625458,
+      "longitude": 19.922286
+    },
+    {
+      "name": "Peter's jewellery",
+      "latitude": 35.318272,
+      "longitude": 25.391691
+    },
+    {
+      "name": "PETIT",
+      "latitude": 37.976473,
+      "longitude": 23.73238
+    },
+    {
+      "name": "Petra Art & Jewellery",
+      "latitude": 36.418835,
+      "longitude": 25.431518
+    },
+    {
+      "name": "PETRAdiORO",
+      "latitude": 37.94073,
+      "longitude": 23.646114
+    },
+    {
+      "name": "Petros",
+      "latitude": 35.36761,
+      "longitude": 24.474408
+    },
+    {
+      "name": "Petros Tasoulis",
+      "latitude": 37.978549,
+      "longitude": 23.734776
+    },
+    {
+      "name": "Petros Tasoulis",
+      "latitude": 38.000828,
+      "longitude": 23.733403
+    },
+    {
+      "name": "Philocaly",
+      "latitude": 38.008979,
+      "longitude": 23.825709
+    },
+    {
+      "name": "Pilgrim",
+      "latitude": 37.084821,
+      "longitude": 25.150584
+    },
+    {
+      "name": "Pink",
+      "latitude": 38.012291,
+      "longitude": 23.695407
+    },
+    {
+      "name": "Place Of Art",
+      "latitude": 34.993122,
+      "longitude": 24.74994
+    },
+    {
+      "name": "Planet Rock",
+      "latitude": 37.984865,
+      "longitude": 23.732292
+    },
+    {
+      "name": "Platinon",
+      "latitude": 38.020542,
+      "longitude": 23.801465
+    },
+    {
+      "name": "Plethora",
+      "latitude": 40.097149,
+      "longitude": 23.979488
+    },
+    {
+      "name": "Plevrakis",
+      "latitude": 37.976839,
+      "longitude": 23.732912
+    },
+    {
+      "name": "Poco Loco",
+      "latitude": 38.022739,
+      "longitude": 23.799397
+    },
+    {
+      "name": "PocoLoco",
+      "latitude": 38.022313,
+      "longitude": 23.799787
+    },
+    {
+      "name": "Pogonatos",
+      "latitude": 37.861794,
+      "longitude": 23.753247
+    },
+    {
+      "name": "Politis",
+      "latitude": 39.206239,
+      "longitude": 26.210724
+    },
+    {
+      "name": "Polixryson",
+      "latitude": 38.020723,
+      "longitude": 23.800761
+    },
+    {
+      "name": "Pop art",
+      "latitude": 39.637131,
+      "longitude": 22.41632
+    },
+    {
+      "name": "Prezioso",
+      "latitude": 40.614694,
+      "longitude": 22.978015
+    },
+    {
+      "name": "Project 77",
+      "latitude": 37.984318,
+      "longitude": 23.738517
+    },
+    {
+      "name": "R Jewellery",
+      "latitude": 38.46055,
+      "longitude": 20.575529
+    },
+    {
+      "name": "Rainbow Jewellery",
+      "latitude": 36.451211,
+      "longitude": 28.219815
+    },
+    {
+      "name": "Re Mida",
+      "latitude": 38.032227,
+      "longitude": 23.708065
+    },
+    {
+      "name": "Refan",
+      "latitude": 38.900569,
+      "longitude": 22.432627
+    },
+    {
+      "name": "Reflect",
+      "latitude": 35.369276,
+      "longitude": 24.474846
+    },
+    {
+      "name": "Remoundou Handcraft",
+      "latitude": 37.979115,
+      "longitude": 23.758227
+    },
+    {
+      "name": "Ricardo",
+      "latitude": 37.979187,
+      "longitude": 23.728798
+    },
+    {
+      "name": "Ricardo",
+      "latitude": 37.986578,
+      "longitude": 23.730138
+    },
+    {
+      "name": "Rich & Co",
+      "latitude": 37.977419,
+      "longitude": 23.736795
+    },
+    {
+      "name": "RODOLFO",
+      "latitude": 37.977576,
+      "longitude": 23.730176
+    },
+    {
+      "name": "ROROS",
+      "latitude": 38.246427,
+      "longitude": 21.735811
+    },
+    {
+      "name": "Rosario",
+      "latitude": 38.832973,
+      "longitude": 20.706623
+    },
+    {
+      "name": "Royal Silver",
+      "latitude": 36.443984,
+      "longitude": 28.227212
+    },
+    {
+      "name": "Roz-Mari",
+      "latitude": 37.974911,
+      "longitude": 23.667823
+    },
+    {
+      "name": "S. Liaros",
+      "latitude": 37.976582,
+      "longitude": 23.733989
+    },
+    {
+      "name": "S. M. Arten",
+      "latitude": 37.975329,
+      "longitude": 23.733171
+    },
+    {
+      "name": "Sabanis",
+      "latitude": 37.976731,
+      "longitude": 23.734814
+    },
+    {
+      "name": "Salagaras",
+      "latitude": 38.370112,
+      "longitude": 26.136284
+    },
+    {
+      "name": "Salon Antique",
+      "latitude": 34.992986,
+      "longitude": 24.749263
+    },
+    {
+      "name": "Sara",
+      "latitude": 35.369861,
+      "longitude": 24.475401
+    },
+    {
+      "name": "semiprecious stone",
+      "latitude": 37.976568,
+      "longitude": 23.731402
+    },
+    {
+      "name": "Shop Dionysos",
+      "latitude": 38.47879,
+      "longitude": 22.494001
+    },
+    {
+      "name": "Silver & Art",
+      "latitude": 35.417203,
+      "longitude": 24.692203
+    },
+    {
+      "name": "Silver art",
+      "latitude": 40.267423,
+      "longitude": 22.597469
+    },
+    {
+      "name": "Silver by Smaragdios",
+      "latitude": 36.44365,
+      "longitude": 28.227128
+    },
+    {
+      "name": "Silver Center",
+      "latitude": 35.370025,
+      "longitude": 24.475753
+    },
+    {
+      "name": "Silver Coin",
+      "latitude": 36.997061,
+      "longitude": 26.935984
+    },
+    {
+      "name": "Silver Fashion",
+      "latitude": 35.406364,
+      "longitude": 24.783523
+    },
+    {
+      "name": "Silver Line",
+      "latitude": 35.289002,
+      "longitude": 25.461331
+    },
+    {
+      "name": "Silver point",
+      "latitude": 35.338596,
+      "longitude": 25.368562
+    },
+    {
+      "name": "Silver Shop",
+      "latitude": 40.718576,
+      "longitude": 23.707505
+    },
+    {
+      "name": "silver star",
+      "latitude": 37.976712,
+      "longitude": 23.731431
+    },
+    {
+      "name": "Silver union",
+      "latitude": 37.976684,
+      "longitude": 23.731047
+    },
+    {
+      "name": "Silver workshop",
+      "latitude": 36.320134,
+      "longitude": 28.189802
+    },
+    {
+      "name": "Silver ΡΟΗ",
+      "latitude": 39.637803,
+      "longitude": 22.419222
+    },
+    {
+      "name": "Simeonidis",
+      "latitude": 37.976653,
+      "longitude": 23.734133
+    },
+    {
+      "name": "Sissi Jewellery Workshop",
+      "latitude": 35.30871,
+      "longitude": 25.519616
+    },
+    {
+      "name": "Skouras",
+      "latitude": 39.638801,
+      "longitude": 22.41517
+    },
+    {
+      "name": "Skourias",
+      "latitude": 35.230737,
+      "longitude": 23.681417
+    },
+    {
+      "name": "Skouwakis Jewellery",
+      "latitude": 35.362742,
+      "longitude": 24.260549
+    },
+    {
+      "name": "Slevori",
+      "latitude": 38.046762,
+      "longitude": 23.759476
+    },
+    {
+      "name": "Snazzy",
+      "latitude": 38.021008,
+      "longitude": 23.801945
+    },
+    {
+      "name": "Sofia",
+      "latitude": 35.306508,
+      "longitude": 25.393751
+    },
+    {
+      "name": "Sofia's Art Jewellery",
+      "latitude": 36.420089,
+      "longitude": 25.431241
+    },
+    {
+      "name": "Spanoudaki",
+      "latitude": 35.338498,
+      "longitude": 25.135552
+    },
+    {
+      "name": "Sparkle",
+      "latitude": 37.97636,
+      "longitude": 23.728193
+    },
+    {
+      "name": "Spende Le Stelle",
+      "latitude": 37.084689,
+      "longitude": 25.15035
+    },
+    {
+      "name": "Spirostasoulis",
+      "latitude": 38.021632,
+      "longitude": 23.800351
+    },
+    {
+      "name": "Sswarovski",
+      "latitude": 37.860169,
+      "longitude": 23.754515
+    },
+    {
+      "name": "Stalikas Gold",
+      "latitude": 40.271124,
+      "longitude": 22.50724
+    },
+    {
+      "name": "StarRuby",
+      "latitude": 39.637806,
+      "longitude": 22.418668
+    },
+    {
+      "name": "Stavrou",
+      "latitude": 38.020959,
+      "longitude": 23.801725
+    },
+    {
+      "name": "Stefos Jewels and Gems",
+      "latitude": 37.976694,
+      "longitude": 23.730891
+    },
+    {
+      "name": "Stelios",
+      "latitude": 35.369915,
+      "longitude": 24.474752
+    },
+    {
+      "name": "Stone Gallery",
+      "latitude": 37.977005,
+      "longitude": 23.731639
+    },
+    {
+      "name": "Strass",
+      "latitude": 40.669459,
+      "longitude": 22.908504
+    },
+    {
+      "name": "Swaroski",
+      "latitude": 37.56593,
+      "longitude": 22.797467
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 35.515007,
+      "longitude": 24.019438
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 36.418297,
+      "longitude": 25.431505
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 37.941824,
+      "longitude": 23.648702
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 37.946039,
+      "longitude": 23.71357
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 37.957972,
+      "longitude": 23.626575
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 37.976007,
+      "longitude": 23.731971
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 37.993186,
+      "longitude": 23.679263
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 38.012815,
+      "longitude": 23.691748
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 38.022092,
+      "longitude": 23.800513
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 38.031814,
+      "longitude": 23.708304
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 38.055352,
+      "longitude": 23.805013
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 38.369286,
+      "longitude": 26.135452
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 38.464334,
+      "longitude": 23.592357
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 39.106977,
+      "longitude": 26.556344
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 39.624065,
+      "longitude": 19.922199
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 40.271276,
+      "longitude": 22.506325
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 40.630662,
+      "longitude": 22.946524
+    },
+    {
+      "name": "Swarovski",
+      "latitude": 40.634725,
+      "longitude": 22.939245
+    },
+    {
+      "name": "Swarowski",
+      "latitude": 39.638167,
+      "longitude": 22.417428
+    },
+    {
+      "name": "Swarowski Rhodes",
+      "latitude": 36.449064,
+      "longitude": 28.224051
+    },
+    {
+      "name": "Swiss Corner",
+      "latitude": 35.337492,
+      "longitude": 25.133316
+    },
+    {
+      "name": "Swiss Corner",
+      "latitude": 37.94499,
+      "longitude": 23.64549
+    },
+    {
+      "name": "Swiss Corner",
+      "latitude": 37.97424,
+      "longitude": 23.652311
+    },
+    {
+      "name": "Swiss Corner",
+      "latitude": 38.022412,
+      "longitude": 23.799888
+    },
+    {
+      "name": "Swiss Corner",
+      "latitude": 38.04531,
+      "longitude": 23.757509
+    },
+    {
+      "name": "Swiss Corner",
+      "latitude": 38.072306,
+      "longitude": 23.812462
+    },
+    {
+      "name": "Swiss Corner",
+      "latitude": 39.105858,
+      "longitude": 26.555302
+    },
+    {
+      "name": "Sylver Line",
+      "latitude": 35.317049,
+      "longitude": 25.391656
+    },
+    {
+      "name": "Sylver Studio",
+      "latitude": 35.314983,
+      "longitude": 25.394207
+    },
+    {
+      "name": "Taki's",
+      "latitude": 35.369111,
+      "longitude": 24.475028
+    },
+    {
+      "name": "Takis 33",
+      "latitude": 37.975629,
+      "longitude": 23.727445
+    },
+    {
+      "name": "Talisman",
+      "latitude": 35.190508,
+      "longitude": 24.392686
+    },
+    {
+      "name": "Tarra",
+      "latitude": 35.516104,
+      "longitude": 24.01853
+    },
+    {
+      "name": "Tasoulis",
+      "latitude": 37.984459,
+      "longitude": 23.730336
+    },
+    {
+      "name": "Tempus",
+      "latitude": 40.629985,
+      "longitude": 22.946163
+    },
+    {
+      "name": "Tempus",
+      "latitude": 40.631432,
+      "longitude": 22.943746
+    },
+    {
+      "name": "Terra",
+      "latitude": 37.443322,
+      "longitude": 24.944835
+    },
+    {
+      "name": "Terra",
+      "latitude": 40.631009,
+      "longitude": 22.946201
+    },
+    {
+      "name": "The big emerald",
+      "latitude": 38.054822,
+      "longitude": 23.806704
+    },
+    {
+      "name": "The Gold Spring",
+      "latitude": 39.48531,
+      "longitude": 19.924821
+    },
+    {
+      "name": "The prince of Gold",
+      "latitude": 35.290409,
+      "longitude": 25.445576
+    },
+    {
+      "name": "The PS",
+      "latitude": 37.885076,
+      "longitude": 24.006479
+    },
+    {
+      "name": "Theodorakis",
+      "latitude": 35.096311,
+      "longitude": 24.687355
+    },
+    {
+      "name": "Theologos",
+      "latitude": 37.943605,
+      "longitude": 23.646004
+    },
+    {
+      "name": "Theros Jewellery",
+      "latitude": 36.722808,
+      "longitude": 25.281192
+    },
+    {
+      "name": "Thesinis",
+      "latitude": 37.971705,
+      "longitude": 23.730261
+    },
+    {
+      "name": "Thira Gold Drosos",
+      "latitude": 36.418196,
+      "longitude": 25.431556
+    },
+    {
+      "name": "Thisseas",
+      "latitude": 37.977221,
+      "longitude": 23.730636
+    },
+    {
+      "name": "Three Arches",
+      "latitude": 35.515219,
+      "longitude": 24.01762
+    },
+    {
+      "name": "Time",
+      "latitude": 37.978432,
+      "longitude": 23.738251
+    },
+    {
+      "name": "Tiny",
+      "latitude": 38.021957,
+      "longitude": 23.799573
+    },
+    {
+      "name": "TMS Jewel And Chrono",
+      "latitude": 37.946346,
+      "longitude": 23.714022
+    },
+    {
+      "name": "Tommy Hilfiger",
+      "latitude": 37.991487,
+      "longitude": 23.765351
+    },
+    {
+      "name": "Tortora studio",
+      "latitude": 38.044547,
+      "longitude": 23.753583
+    },
+    {
+      "name": "Traditional",
+      "latitude": 36.743344,
+      "longitude": 26.971409
+    },
+    {
+      "name": "Treasure",
+      "latitude": 37.941795,
+      "longitude": 23.648296
+    },
+    {
+      "name": "Treasure",
+      "latitude": 37.975314,
+      "longitude": 23.728431
+    },
+    {
+      "name": "Tree of life",
+      "latitude": 39.327686,
+      "longitude": 26.175465
+    },
+    {
+      "name": "Tresor",
+      "latitude": 35.318262,
+      "longitude": 25.391513
+    },
+    {
+      "name": "Tresor",
+      "latitude": 37.976519,
+      "longitude": 23.733926
+    },
+    {
+      "name": "Tresor jewellers",
+      "latitude": 35.307008,
+      "longitude": 25.389716
+    },
+    {
+      "name": "Trifillis",
+      "latitude": 39.989407,
+      "longitude": 23.616889
+    },
+    {
+      "name": "Tsonos Silver",
+      "latitude": 35.334078,
+      "longitude": 25.305541
+    },
+    {
+      "name": "Turquoise",
+      "latitude": 37.634407,
+      "longitude": 22.729309
+    },
+    {
+      "name": "Turquoise",
+      "latitude": 37.97429,
+      "longitude": 23.732268
+    },
+    {
+      "name": "Twhister Jewels",
+      "latitude": 37.635479,
+      "longitude": 22.728557
+    },
+    {
+      "name": "Tzamos",
+      "latitude": 38.957079,
+      "longitude": 20.753743
+    },
+    {
+      "name": "Tzelatis",
+      "latitude": 37.967168,
+      "longitude": 23.74768
+    },
+    {
+      "name": "Ulysses Jewellery",
+      "latitude": 40.091045,
+      "longitude": 23.309966
+    },
+    {
+      "name": "Ulysses Jewellery",
+      "latitude": 40.618522,
+      "longitude": 22.952684
+    },
+    {
+      "name": "Urania",
+      "latitude": 36.726599,
+      "longitude": 24.446903
+    },
+    {
+      "name": "Utopia",
+      "latitude": 39.106995,
+      "longitude": 26.558327
+    },
+    {
+      "name": "V&O",
+      "latitude": 38.07321,
+      "longitude": 23.814906
+    },
+    {
+      "name": "v+vie",
+      "latitude": 38.013063,
+      "longitude": 23.821984
+    },
+    {
+      "name": "Valtadoros",
+      "latitude": 37.979199,
+      "longitude": 23.739259
+    },
+    {
+      "name": "Value Silver (Κουκουβιτάκης)",
+      "latitude": 37.941507,
+      "longitude": 23.645007
+    },
+    {
+      "name": "Vasiliki",
+      "latitude": 35.516231,
+      "longitude": 24.01734
+    },
+    {
+      "name": "Vasilis",
+      "latitude": 35.406248,
+      "longitude": 25.017588
+    },
+    {
+      "name": "VelvetCrafts",
+      "latitude": 39.635339,
+      "longitude": 22.417603
+    },
+    {
+      "name": "Vende",
+      "latitude": 40.669731,
+      "longitude": 22.906793
+    },
+    {
+      "name": "Venetia Vildiridis",
+      "latitude": 37.97739,
+      "longitude": 23.735744
+    },
+    {
+      "name": "Venus",
+      "latitude": 36.892874,
+      "longitude": 27.287506
+    },
+    {
+      "name": "Venus",
+      "latitude": 38.055571,
+      "longitude": 23.806467
+    },
+    {
+      "name": "Vergina",
+      "latitude": 36.445244,
+      "longitude": 28.223236
+    },
+    {
+      "name": "Verita",
+      "latitude": 36.443625,
+      "longitude": 28.227311
+    },
+    {
+      "name": "Via Amalia",
+      "latitude": 37.566073,
+      "longitude": 22.798944
+    },
+    {
+      "name": "Viem",
+      "latitude": 35.516115,
+      "longitude": 24.018611
+    },
+    {
+      "name": "Vildiridis",
+      "latitude": 40.525403,
+      "longitude": 22.975027
+    },
+    {
+      "name": "Vittas",
+      "latitude": 37.940132,
+      "longitude": 23.648171
+    },
+    {
+      "name": "Voila",
+      "latitude": 40.63135,
+      "longitude": 22.950815
+    },
+    {
+      "name": "Voulgaris",
+      "latitude": 37.977927,
+      "longitude": 23.730599
+    },
+    {
+      "name": "Vourakis",
+      "latitude": 37.977021,
+      "longitude": 23.73535
+    },
+    {
+      "name": "Wan Hao",
+      "latitude": 37.981807,
+      "longitude": 23.722614
+    },
+    {
+      "name": "Watchbox",
+      "latitude": 37.941651,
+      "longitude": 23.646437
+    },
+    {
+      "name": "White Angel",
+      "latitude": 35.289569,
+      "longitude": 25.461071
+    },
+    {
+      "name": "White house",
+      "latitude": 37.975275,
+      "longitude": 23.728615
+    },
+    {
+      "name": "Whynot",
+      "latitude": 37.977365,
+      "longitude": 23.771316
+    },
+    {
+      "name": "Workshop Πἐτρα",
+      "latitude": 37.084792,
+      "longitude": 25.150792
+    },
+    {
+      "name": "Xanthopoulos",
+      "latitude": 37.97681,
+      "longitude": 23.73494
+    },
+    {
+      "name": "Xenos D.K",
+      "latitude": 38.247407,
+      "longitude": 21.737074
+    },
+    {
+      "name": "Yaloharto",
+      "latitude": 37.963803,
+      "longitude": 23.723025
+    },
+    {
+      "name": "Yannis Sergakis",
+      "latitude": 37.978374,
+      "longitude": 23.73488
+    },
+    {
+      "name": "Ygrey",
+      "latitude": 37.94086,
+      "longitude": 23.648827
+    },
+    {
+      "name": "ZAN",
+      "latitude": 35.339461,
+      "longitude": 25.132565
+    },
+    {
+      "name": "Zannes",
+      "latitude": 37.97772,
+      "longitude": 23.741598
+    },
+    {
+      "name": "Zaza",
+      "latitude": 38.248432,
+      "longitude": 21.73767
+    },
+    {
+      "name": "ZAZA - Ethnic Shop",
+      "latitude": 38.244951,
+      "longitude": 21.736813
+    },
+    {
+      "name": "Zerar",
+      "latitude": 38.072595,
+      "longitude": 23.815122
+    },
+    {
+      "name": "Zoe Jewelry",
+      "latitude": 36.417942,
+      "longitude": 25.431618
+    },
+    {
+      "name": "Zolotas",
+      "latitude": 37.97759,
+      "longitude": 23.735584
+    },
+    {
+      "name": "΄Ιριδα",
+      "latitude": 37.976513,
+      "longitude": 23.731748
+    },
+    {
+      "name": "Άγγελος",
+      "latitude": 38.833832,
+      "longitude": 20.708246
+    },
+    {
+      "name": "Άλλη Πόλη",
+      "latitude": 37.977321,
+      "longitude": 23.732598
+    },
+    {
+      "name": "Άννα",
+      "latitude": 38.015933,
+      "longitude": 23.735547
+    },
+    {
+      "name": "Άννα - Μαρία Μαζαράκη",
+      "latitude": 37.975722,
+      "longitude": 23.732897
+    },
+    {
+      "name": "Άννα Μαρία Μαζαράκη",
+      "latitude": 37.977446,
+      "longitude": 23.740363
+    },
+    {
+      "name": "Άννα-Μαρία Μαζαράκη",
+      "latitude": 37.94185,
+      "longitude": 23.648664
+    },
+    {
+      "name": "Άπεφθον",
+      "latitude": 37.96723,
+      "longitude": 23.747351
+    },
+    {
+      "name": "Έξαρχος",
+      "latitude": 37.941443,
+      "longitude": 23.647132
+    },
+    {
+      "name": "Ήφαιστος",
+      "latitude": 36.418847,
+      "longitude": 25.431363
+    },
+    {
+      "name": "Ήφαιστος",
+      "latitude": 39.635337,
+      "longitude": 22.417534
+    },
+    {
+      "name": "Ίσων",
+      "latitude": 40.630759,
+      "longitude": 22.946341
+    },
+    {
+      "name": "ΑΑ Αφεντάκη",
+      "latitude": 38.072803,
+      "longitude": 23.816622
+    },
+    {
+      "name": "Αγγελίνα",
+      "latitude": 38.042111,
+      "longitude": 23.738
+    },
+    {
+      "name": "Αικ. Δεγαϊτά",
+      "latitude": 38.034244,
+      "longitude": 23.7389
+    },
+    {
+      "name": "Αλέκος Αγγελίδης",
+      "latitude": 38.368625,
+      "longitude": 26.1353
+    },
+    {
+      "name": "Αλεβιζάτος",
+      "latitude": 38.020034,
+      "longitude": 23.731432
+    },
+    {
+      "name": "Αλεξούδης",
+      "latitude": 39.636087,
+      "longitude": 22.418696
+    },
+    {
+      "name": "Αλεξόπουλος",
+      "latitude": 37.981527,
+      "longitude": 23.732171
+    },
+    {
+      "name": "Αναστασίου",
+      "latitude": 39.107446,
+      "longitude": 26.556568
+    },
+    {
+      "name": "Ανδριάνα",
+      "latitude": 40.52424,
+      "longitude": 22.204984
+    },
+    {
+      "name": "Ανδριανάκη",
+      "latitude": 35.338982,
+      "longitude": 25.133688
+    },
+    {
+      "name": "Ανδριώτης",
+      "latitude": 37.074242,
+      "longitude": 22.428897
+    },
+    {
+      "name": "Ανδρόνικος",
+      "latitude": 37.999207,
+      "longitude": 23.683823
+    },
+    {
+      "name": "Ανθή",
+      "latitude": 37.943444,
+      "longitude": 23.648594
+    },
+    {
+      "name": "ΑΝΝΑ ΜΑΡΙΑ ΜΑΖΑΡΑΚΗ",
+      "latitude": 38.012356,
+      "longitude": 23.69458
+    },
+    {
+      "name": "Αντιβάχης",
+      "latitude": 38.043724,
+      "longitude": 23.754157
+    },
+    {
+      "name": "Αντιθέσεις",
+      "latitude": 39.638206,
+      "longitude": 22.417692
+    },
+    {
+      "name": "Αντωνόπουλος",
+      "latitude": 38.030884,
+      "longitude": 23.736227
+    },
+    {
+      "name": "Απ. Περπυράκης",
+      "latitude": 35.368465,
+      "longitude": 24.476431
+    },
+    {
+      "name": "Αποστόλου",
+      "latitude": 37.945178,
+      "longitude": 23.64877
+    },
+    {
+      "name": "Αποστόλου",
+      "latitude": 40.63937,
+      "longitude": 22.937068
+    },
+    {
+      "name": "Αποψη",
+      "latitude": 35.5161,
+      "longitude": 24.018562
+    },
+    {
+      "name": "Αραβασιτας",
+      "latitude": 37.977692,
+      "longitude": 23.730474
+    },
+    {
+      "name": "Αραμ",
+      "latitude": 38.251762,
+      "longitude": 22.087736
+    },
+    {
+      "name": "Αργύρης",
+      "latitude": 38.833845,
+      "longitude": 20.708288
+    },
+    {
+      "name": "Αρτούμα",
+      "latitude": 40.639348,
+      "longitude": 22.937104
+    },
+    {
+      "name": "Αρχιπέλαγος",
+      "latitude": 39.876,
+      "longitude": 25.05987
+    },
+    {
+      "name": "Αρόδου",
+      "latitude": 36.931904,
+      "longitude": 25.599182
+    },
+    {
+      "name": "Ασημαυγή",
+      "latitude": 40.780412,
+      "longitude": 24.710761
+    },
+    {
+      "name": "Ασημικά- Κων/νος Βλάχος",
+      "latitude": 37.968971,
+      "longitude": 23.730693
+    },
+    {
+      "name": "Ασημόραμα",
+      "latitude": 37.945802,
+      "longitude": 23.712468
+    },
+    {
+      "name": "Αστερόσκονη",
+      "latitude": 39.368049,
+      "longitude": 26.174398
+    },
+    {
+      "name": "Αφεντάκης",
+      "latitude": 38.464927,
+      "longitude": 23.594395
+    },
+    {
+      "name": "Αφοί Μπριάννη",
+      "latitude": 37.983384,
+      "longitude": 23.730085
+    },
+    {
+      "name": "Αφοί Παντελή",
+      "latitude": 38.012357,
+      "longitude": 23.694873
+    },
+    {
+      "name": "Αφοι Λωλου",
+      "latitude": 39.5037,
+      "longitude": 20.264637
+    },
+    {
+      "name": "Αφροδίτη",
+      "latitude": 37.940919,
+      "longitude": 23.645495
+    },
+    {
+      "name": "Αφροδίτη",
+      "latitude": 37.976128,
+      "longitude": 23.724521
+    },
+    {
+      "name": "Β.Π. Σωτηρόπουλος",
+      "latitude": 37.929256,
+      "longitude": 23.759635
+    },
+    {
+      "name": "Βέτσικα",
+      "latitude": 39.10978,
+      "longitude": 26.557677
+    },
+    {
+      "name": "Βίτσας",
+      "latitude": 38.038329,
+      "longitude": 23.671501
+    },
+    {
+      "name": "Βανικιώτης",
+      "latitude": 37.977811,
+      "longitude": 23.736854
+    },
+    {
+      "name": "Βαρουχακη",
+      "latitude": 35.515092,
+      "longitude": 24.019986
+    },
+    {
+      "name": "Βασίλειος Παρασκευόπουλος",
+      "latitude": 37.510666,
+      "longitude": 22.372912
+    },
+    {
+      "name": "Βεργίνα",
+      "latitude": 40.62194,
+      "longitude": 22.440929
+    },
+    {
+      "name": "Βερυκοκάκης",
+      "latitude": 37.976579,
+      "longitude": 23.732785
+    },
+    {
+      "name": "Βογιατζής",
+      "latitude": 39.1075,
+      "longitude": 26.556608
+    },
+    {
+      "name": "Βουλγαρίδη",
+      "latitude": 39.638845,
+      "longitude": 22.417698
+    },
+    {
+      "name": "Βουράκης",
+      "latitude": 37.934477,
+      "longitude": 23.641854
+    },
+    {
+      "name": "Βυζαντινό",
+      "latitude": 37.975381,
+      "longitude": 23.72823
+    },
+    {
+      "name": "Γεωμηλάς",
+      "latitude": 39.105649,
+      "longitude": 26.555328
+    },
+    {
+      "name": "Γεωργακόπουλος",
+      "latitude": 38.394344,
+      "longitude": 21.835326
+    },
+    {
+      "name": "Γεωργαντάς",
+      "latitude": 38.072806,
+      "longitude": 23.81439
+    },
+    {
+      "name": "Γεωρμάς",
+      "latitude": 37.943822,
+      "longitude": 23.645593
+    },
+    {
+      "name": "Γεώρμα",
+      "latitude": 37.941604,
+      "longitude": 23.646831
+    },
+    {
+      "name": "Γιάννης Βούλγαρης",
+      "latitude": 39.637674,
+      "longitude": 22.419233
+    },
+    {
+      "name": "Γιαννίκης",
+      "latitude": 37.930142,
+      "longitude": 23.638503
+    },
+    {
+      "name": "Γιαννακόπουλος",
+      "latitude": 37.976543,
+      "longitude": 23.734021
+    },
+    {
+      "name": "Γιώργος Τσαλδάρης",
+      "latitude": 38.01333,
+      "longitude": 23.821976
+    },
+    {
+      "name": "Γκουτζουρέλας",
+      "latitude": 39.636409,
+      "longitude": 22.416802
+    },
+    {
+      "name": "ΓΚΟΦΑΣ",
+      "latitude": 40.603642,
+      "longitude": 22.969139
+    },
+    {
+      "name": "Γουργιώτης Χρήστος",
+      "latitude": 39.637946,
+      "longitude": 22.414438
+    },
+    {
+      "name": "Δ. Αντωνόπουλος Εργαστήρι Χρυσού",
+      "latitude": 37.968943,
+      "longitude": 23.709098
+    },
+    {
+      "name": "Δήμου",
+      "latitude": 38.015804,
+      "longitude": 23.754771
+    },
+    {
+      "name": "Δήμου",
+      "latitude": 38.022332,
+      "longitude": 23.749873
+    },
+    {
+      "name": "Δασκαλάκης",
+      "latitude": 40.604081,
+      "longitude": 22.968956
+    },
+    {
+      "name": "Δασκαλόπουλος",
+      "latitude": 37.984698,
+      "longitude": 23.731467
+    },
+    {
+      "name": "ΔΕΔΕΓΙΑΝ-ΚΑΡΛΑΥΤΗ ΜΑΡΙ",
+      "latitude": 40.845356,
+      "longitude": 25.875969
+    },
+    {
+      "name": "Δημήτρης Δημητρακόπουλος",
+      "latitude": 39.639384,
+      "longitude": 22.417329
+    },
+    {
+      "name": "Δημητρακόπουλος",
+      "latitude": 39.638583,
+      "longitude": 22.417476
+    },
+    {
+      "name": "Διάκος",
+      "latitude": 37.987202,
+      "longitude": 23.758797
+    },
+    {
+      "name": "Διάλιθος",
+      "latitude": 37.892165,
+      "longitude": 23.752442
+    },
+    {
+      "name": "Διαμαντόπουλος",
+      "latitude": 38.034686,
+      "longitude": 23.738403
+    },
+    {
+      "name": "Διδω",
+      "latitude": 36.419203,
+      "longitude": 25.43159
+    },
+    {
+      "name": "Διογένης - Εργαστήριο Χρυσοχοΐας",
+      "latitude": 40.604261,
+      "longitude": 22.956633
+    },
+    {
+      "name": "Δουβής",
+      "latitude": 37.511934,
+      "longitude": 22.374184
+    },
+    {
+      "name": "Εγγλέζος",
+      "latitude": 39.108347,
+      "longitude": 26.557426
+    },
+    {
+      "name": "Ελενα Μπαρνια",
+      "latitude": 35.515062,
+      "longitude": 24.019554
+    },
+    {
+      "name": "Ελισσάβετ",
+      "latitude": 39.637798,
+      "longitude": 22.420065
+    },
+    {
+      "name": "Εμβαλωμένος",
+      "latitude": 38.042373,
+      "longitude": 23.752682
+    },
+    {
+      "name": "Εργαστήριο Κοσμημάτων",
+      "latitude": 38.022275,
+      "longitude": 23.798702
+    },
+    {
+      "name": "Ευαγγελίδης",
+      "latitude": 37.976916,
+      "longitude": 23.733327
+    },
+    {
+      "name": "Ευγενία Φερούση",
+      "latitude": 37.941915,
+      "longitude": 23.649679
+    },
+    {
+      "name": "Ζάγκλης",
+      "latitude": 38.055906,
+      "longitude": 23.805467
+    },
+    {
+      "name": "Ζαγκλής",
+      "latitude": 38.00057,
+      "longitude": 23.72912
+    },
+    {
+      "name": "Ζαρωτιάδης",
+      "latitude": 38.05564,
+      "longitude": 23.804162
+    },
+    {
+      "name": "Ζαφειριάδης",
+      "latitude": 40.670625,
+      "longitude": 22.894514
+    },
+    {
+      "name": "Ζαχαρόπουλος",
+      "latitude": 38.022436,
+      "longitude": 23.801002
+    },
+    {
+      "name": "Ζεμπίρης",
+      "latitude": 40.637189,
+      "longitude": 22.942371
+    },
+    {
+      "name": "Ζηλέλλη",
+      "latitude": 39.109832,
+      "longitude": 26.557699
+    },
+    {
+      "name": "Ζουλοβιτς",
+      "latitude": 37.976616,
+      "longitude": 23.732059
+    },
+    {
+      "name": "Ζώτου",
+      "latitude": 40.59846,
+      "longitude": 22.985556
+    },
+    {
+      "name": "Ηλιαχτίδα",
+      "latitude": 37.746199,
+      "longitude": 23.429018
+    },
+    {
+      "name": "Ηλιοτρόπιο",
+      "latitude": 38.021488,
+      "longitude": 23.798926
+    },
+    {
+      "name": "Ημεροβίγλι",
+      "latitude": 36.725289,
+      "longitude": 24.44647
+    },
+    {
+      "name": "Θάνος Παρασκευόπουλος",
+      "latitude": 37.51216,
+      "longitude": 22.374239
+    },
+    {
+      "name": "Θες... μπες",
+      "latitude": 38.02006,
+      "longitude": 23.753461
+    },
+    {
+      "name": "ΘΩΜΑΙΔΗΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+      "latitude": 40.522363,
+      "longitude": 21.262477
+    },
+    {
+      "name": "Ιliana - Alice Silver",
+      "latitude": 37.976866,
+      "longitude": 23.73087
+    },
+    {
+      "name": "Ιδέες (Κοσμήματα - Είδη Δώρων)",
+      "latitude": 40.300401,
+      "longitude": 21.787882
+    },
+    {
+      "name": "Κ. Μιχαηλίδης",
+      "latitude": 38.037042,
+      "longitude": 23.75621
+    },
+    {
+      "name": "Κ. Μοιραγιας",
+      "latitude": 38.073161,
+      "longitude": 23.815023
+    },
+    {
+      "name": "Κ. Πορτοκάλλης",
+      "latitude": 40.270808,
+      "longitude": 22.510485
+    },
+    {
+      "name": "Κ. Σπυράτος",
+      "latitude": 38.002955,
+      "longitude": 23.734013
+    },
+    {
+      "name": "Κάθε λογής",
+      "latitude": 37.565797,
+      "longitude": 22.797811
+    },
+    {
+      "name": "Κάλφας",
+      "latitude": 37.983851,
+      "longitude": 23.728886
+    },
+    {
+      "name": "Κίνητρο",
+      "latitude": 38.00023,
+      "longitude": 23.733671
+    },
+    {
+      "name": "Καβαδίας",
+      "latitude": 40.271152,
+      "longitude": 22.508319
+    },
+    {
+      "name": "Καββαδίας",
+      "latitude": 37.940702,
+      "longitude": 23.646165
+    },
+    {
+      "name": "Κακαβος",
+      "latitude": 37.969792,
+      "longitude": 23.730081
+    },
+    {
+      "name": "Καλαίσθητο",
+      "latitude": 39.636086,
+      "longitude": 22.418737
+    },
+    {
+      "name": "Καλαθάς",
+      "latitude": 37.96868,
+      "longitude": 23.753026
+    },
+    {
+      "name": "Καλημέρα",
+      "latitude": 36.725522,
+      "longitude": 24.446667
+    },
+    {
+      "name": "Καλλίνικος",
+      "latitude": 37.944952,
+      "longitude": 23.645546
+    },
+    {
+      "name": "Καλογερόπουλος",
+      "latitude": 37.968304,
+      "longitude": 23.707706
+    },
+    {
+      "name": "Καλτάκης",
+      "latitude": 37.977004,
+      "longitude": 23.737066
+    },
+    {
+      "name": "Καλφίδης",
+      "latitude": 40.6355,
+      "longitude": 22.940555
+    },
+    {
+      "name": "Καλύβας",
+      "latitude": 37.907044,
+      "longitude": 23.75337
+    },
+    {
+      "name": "Κανακη Jewel",
+      "latitude": 35.340098,
+      "longitude": 25.133904
+    },
+    {
+      "name": "Καναρίδης",
+      "latitude": 40.271697,
+      "longitude": 22.504236
+    },
+    {
+      "name": "Κανταράς",
+      "latitude": 40.637174,
+      "longitude": 22.942324
+    },
+    {
+      "name": "Καραγιάννης Γεώργιος",
+      "latitude": 37.941899,
+      "longitude": 23.646289
+    },
+    {
+      "name": "Καρασούλης",
+      "latitude": 38.368656,
+      "longitude": 26.134277
+    },
+    {
+      "name": "Κατερίνα Λύτρα",
+      "latitude": 39.637457,
+      "longitude": 22.418401
+    },
+    {
+      "name": "Κατραούρας",
+      "latitude": 38.394054,
+      "longitude": 21.833628
+    },
+    {
+      "name": "Κατσιγιάννης",
+      "latitude": 38.394225,
+      "longitude": 21.832128
+    },
+    {
+      "name": "ΚΕΝΤ & ΟΜIROS",
+      "latitude": 37.977161,
+      "longitude": 23.730894
+    },
+    {
+      "name": "Κοκκινίδης",
+      "latitude": 40.655447,
+      "longitude": 22.92369
+    },
+    {
+      "name": "Κοντηβέη",
+      "latitude": 39.105219,
+      "longitude": 26.55505
+    },
+    {
+      "name": "Κοντηβέη",
+      "latitude": 39.107359,
+      "longitude": 26.558172
+    },
+    {
+      "name": "Κοντόπουλος",
+      "latitude": 37.038433,
+      "longitude": 22.111436
+    },
+    {
+      "name": "Κοσμήματα Βακλαβά",
+      "latitude": 40.271006,
+      "longitude": 22.508612
+    },
+    {
+      "name": "Κοσμήματα Κρητικός",
+      "latitude": 35.506992,
+      "longitude": 27.21057
+    },
+    {
+      "name": "Κοσμήματα Χιάμπος",
+      "latitude": 40.271587,
+      "longitude": 22.502402
+    },
+    {
+      "name": "Κοσμίδης",
+      "latitude": 37.981825,
+      "longitude": 23.731909
+    },
+    {
+      "name": "Κοσμηματα",
+      "latitude": 35.514928,
+      "longitude": 24.019739
+    },
+    {
+      "name": "ΚΟΣΜΗΜΑΤΑ ΜΠΑΜΠΛΗΣ",
+      "latitude": 40.845295,
+      "longitude": 25.875854
+    },
+    {
+      "name": "Κοσμηματοπωλείο Θεμελίδης",
+      "latitude": 37.953973,
+      "longitude": 23.723456
+    },
+    {
+      "name": "Κοσμηματοπωλείο Παϊσίου",
+      "latitude": 36.803622,
+      "longitude": 22.851353
+    },
+    {
+      "name": "Κοσμώ",
+      "latitude": 37.755512,
+      "longitude": 26.977566
+    },
+    {
+      "name": "κουκλα",
+      "latitude": 36.417114,
+      "longitude": 25.431839
+    },
+    {
+      "name": "Κουτσοθανασης ιωαννης",
+      "latitude": 38.018743,
+      "longitude": 23.73492
+    },
+    {
+      "name": "Κούρτης",
+      "latitude": 38.042008,
+      "longitude": 23.684443
+    },
+    {
+      "name": "Κούρτης",
+      "latitude": 39.635356,
+      "longitude": 22.418448
+    },
+    {
+      "name": "Κυρίκος",
+      "latitude": 38.021102,
+      "longitude": 23.799673
+    },
+    {
+      "name": "Κυριαζής",
+      "latitude": 37.915686,
+      "longitude": 23.750009
+    },
+    {
+      "name": "Κυριακού",
+      "latitude": 38.005855,
+      "longitude": 23.797211
+    },
+    {
+      "name": "Κυριαφίνης",
+      "latitude": 40.61242,
+      "longitude": 22.983692
+    },
+    {
+      "name": "Κωνσταντίνου",
+      "latitude": 38.04188,
+      "longitude": 23.752514
+    },
+    {
+      "name": "Κωνσταντίνου",
+      "latitude": 38.049553,
+      "longitude": 23.763482
+    },
+    {
+      "name": "Κόκκαλης",
+      "latitude": 38.033357,
+      "longitude": 23.701192
+    },
+    {
+      "name": "Κόσμημα",
+      "latitude": 38.078556,
+      "longitude": 23.703498
+    },
+    {
+      "name": "Κόσμημα",
+      "latitude": 38.853865,
+      "longitude": 23.045564
+    },
+    {
+      "name": "Κόσμημα Γούνας",
+      "latitude": 38.001713,
+      "longitude": 23.71894
+    },
+    {
+      "name": "Κόσμημα Δαμαλή",
+      "latitude": 40.271454,
+      "longitude": 22.505303
+    },
+    {
+      "name": "Κόσμημα Ψιλός",
+      "latitude": 38.01836,
+      "longitude": 23.756058
+    },
+    {
+      "name": "Λάμπρου",
+      "latitude": 38.027463,
+      "longitude": 23.720633
+    },
+    {
+      "name": "Λαγού",
+      "latitude": 39.671738,
+      "longitude": 20.85723
+    },
+    {
+      "name": "Λευθεριώτης",
+      "latitude": 39.622076,
+      "longitude": 19.918919
+    },
+    {
+      "name": "Λιακουμης",
+      "latitude": 39.555552,
+      "longitude": 21.769635
+    },
+    {
+      "name": "Λούβλης",
+      "latitude": 39.671545,
+      "longitude": 20.857248
+    },
+    {
+      "name": "Μάργαρης",
+      "latitude": 38.027695,
+      "longitude": 23.721633
+    },
+    {
+      "name": "Μέδων",
+      "latitude": 39.637081,
+      "longitude": 22.415729
+    },
+    {
+      "name": "Μίδας",
+      "latitude": 39.107478,
+      "longitude": 26.556588
+    },
+    {
+      "name": "ΜΑRABU",
+      "latitude": 37.978631,
+      "longitude": 23.7294
+    },
+    {
+      "name": "Μαθιουδάκης",
+      "latitude": 37.97649,
+      "longitude": 23.73392
+    },
+    {
+      "name": "Μακριάδης",
+      "latitude": 37.976228,
+      "longitude": 23.731078
+    },
+    {
+      "name": "Μαμόγλου",
+      "latitude": 37.976048,
+      "longitude": 23.732668
+    },
+    {
+      "name": "Μανταλάρας",
+      "latitude": 38.032169,
+      "longitude": 23.750189
+    },
+    {
+      "name": "Μαρακάκης",
+      "latitude": 37.958402,
+      "longitude": 23.70974
+    },
+    {
+      "name": "Μαρδιρός",
+      "latitude": 41.117995,
+      "longitude": 25.404797
+    },
+    {
+      "name": "Μαριάννα Πετρίδη",
+      "latitude": 37.978414,
+      "longitude": 23.744382
+    },
+    {
+      "name": "Μαρούσκος",
+      "latitude": 39.107493,
+      "longitude": 26.555878
+    },
+    {
+      "name": "Μαρτίνου Σοφία",
+      "latitude": 38.022638,
+      "longitude": 23.735758
+    },
+    {
+      "name": "με στυλ",
+      "latitude": 38.02053,
+      "longitude": 23.741432
+    },
+    {
+      "name": "Μεταλλον gold silver workshop",
+      "latitude": 37.52004,
+      "longitude": 22.858853
+    },
+    {
+      "name": "Μεταξάς",
+      "latitude": 38.021786,
+      "longitude": 23.801956
+    },
+    {
+      "name": "Μηνάς Μανίκας",
+      "latitude": 35.207773,
+      "longitude": 26.105936
+    },
+    {
+      "name": "Μιδας",
+      "latitude": 37.63461,
+      "longitude": 22.727416
+    },
+    {
+      "name": "μινιατούρα",
+      "latitude": 39.625461,
+      "longitude": 19.919629
+    },
+    {
+      "name": "Μιχαλάκου",
+      "latitude": 37.074774,
+      "longitude": 22.429855
+    },
+    {
+      "name": "Μονογυιός",
+      "latitude": 37.942332,
+      "longitude": 23.648378
+    },
+    {
+      "name": "Μορφές",
+      "latitude": 40.270493,
+      "longitude": 22.511513
+    },
+    {
+      "name": "Μουμτζής",
+      "latitude": 39.107356,
+      "longitude": 26.556596
+    },
+    {
+      "name": "Μουτσάτσος",
+      "latitude": 38.056178,
+      "longitude": 23.807411
+    },
+    {
+      "name": "Μπίλλας Κόσμημα",
+      "latitude": 40.272143,
+      "longitude": 22.506908
+    },
+    {
+      "name": "Μπαντουνας",
+      "latitude": 37.511791,
+      "longitude": 22.373275
+    },
+    {
+      "name": "Μπεθάνης",
+      "latitude": 37.982901,
+      "longitude": 23.730519
+    },
+    {
+      "name": "ΜΠΕΝΕΤΟΣ",
+      "latitude": 37.941832,
+      "longitude": 23.644074
+    },
+    {
+      "name": "Μπεχλιβανόγλου Γεώργιος",
+      "latitude": 37.942185,
+      "longitude": 23.646154
+    },
+    {
+      "name": "Μπουκουβάλας",
+      "latitude": 39.638898,
+      "longitude": 22.420691
+    },
+    {
+      "name": "Μπουφέτης",
+      "latitude": 40.269842,
+      "longitude": 22.505992
+    },
+    {
+      "name": "Μπούκας",
+      "latitude": 40.621792,
+      "longitude": 22.440982
+    },
+    {
+      "name": "Μπούλμπος",
+      "latitude": 39.639204,
+      "longitude": 22.417371
+    },
+    {
+      "name": "Μπράβος",
+      "latitude": 40.62291,
+      "longitude": 22.440359
+    },
+    {
+      "name": "Μυγιάκης",
+      "latitude": 39.107583,
+      "longitude": 26.556666
+    },
+    {
+      "name": "Νέμπης",
+      "latitude": 39.360993,
+      "longitude": 22.94595
+    },
+    {
+      "name": "Νίκος Κριάς",
+      "latitude": 37.074898,
+      "longitude": 22.429806
+    },
+    {
+      "name": "Νακος",
+      "latitude": 37.378041,
+      "longitude": 23.161632
+    },
+    {
+      "name": "Νικόλας",
+      "latitude": 40.273096,
+      "longitude": 22.506776
+    },
+    {
+      "name": "ΝΚ",
+      "latitude": 37.863465,
+      "longitude": 23.751085
+    },
+    {
+      "name": "Νοητάκης",
+      "latitude": 37.97735,
+      "longitude": 23.731378
+    },
+    {
+      "name": "Οδυσσέασ Κανάρησ",
+      "latitude": 35.368698,
+      "longitude": 24.474723
+    },
+    {
+      "name": "ΟΠΤΙΜΟΥΜ silver",
+      "latitude": 40.635923,
+      "longitude": 22.939807
+    },
+    {
+      "name": "Ουτοπία",
+      "latitude": 40.60741,
+      "longitude": 22.963224
+    },
+    {
+      "name": "ΟΨΙΔΙΑΝΟΣ",
+      "latitude": 37.97784,
+      "longitude": 23.729801
+    },
+    {
+      "name": "Ούρανος",
+      "latitude": 37.040048,
+      "longitude": 25.083201
+    },
+    {
+      "name": "Π",
+      "latitude": 37.979663,
+      "longitude": 23.737771
+    },
+    {
+      "name": "Πέτρα & χρώμα",
+      "latitude": 38.021983,
+      "longitude": 23.748691
+    },
+    {
+      "name": "Παλλάδιο",
+      "latitude": 38.027564,
+      "longitude": 23.722085
+    },
+    {
+      "name": "Παμπούτζογλου",
+      "latitude": 37.940918,
+      "longitude": 23.646566
+    },
+    {
+      "name": "Παπάζογλου",
+      "latitude": 37.940814,
+      "longitude": 23.645498
+    },
+    {
+      "name": "Παπάζογλου",
+      "latitude": 37.977506,
+      "longitude": 23.736815
+    },
+    {
+      "name": "Παπαδάκης",
+      "latitude": 37.942221,
+      "longitude": 23.646189
+    },
+    {
+      "name": "Παπαδάκης Γιώργος",
+      "latitude": 37.94157,
+      "longitude": 23.646892
+    },
+    {
+      "name": "ΠΑΠΑΔΟΠΟΥΛΟΣ",
+      "latitude": 38.244543,
+      "longitude": 21.73489
+    },
+    {
+      "name": "Παπαδόπουλος",
+      "latitude": 40.271021,
+      "longitude": 22.509597
+    },
+    {
+      "name": "Παπαδόπουλος",
+      "latitude": 40.637298,
+      "longitude": 22.942402
+    },
+    {
+      "name": "ΠΑΠΑΗΛΙΟΥ",
+      "latitude": 37.967212,
+      "longitude": 23.712413
+    },
+    {
+      "name": "Παπακώστας",
+      "latitude": 39.364477,
+      "longitude": 21.925633
+    },
+    {
+      "name": "Παπατριανταφύλλου",
+      "latitude": 39.634623,
+      "longitude": 22.415099
+    },
+    {
+      "name": "Παπατόλης",
+      "latitude": 37.975721,
+      "longitude": 23.763234
+    },
+    {
+      "name": "Παπαϊωάννου",
+      "latitude": 40.634489,
+      "longitude": 22.939669
+    },
+    {
+      "name": "Παπουλής",
+      "latitude": 37.935965,
+      "longitude": 23.641273
+    },
+    {
+      "name": "Παππάς Jewels",
+      "latitude": 38.022454,
+      "longitude": 23.749004
+    },
+    {
+      "name": "Περικλής Κωστόπουλος",
+      "latitude": 37.968857,
+      "longitude": 23.729829
+    },
+    {
+      "name": "Πετάει πετάει",
+      "latitude": 37.979308,
+      "longitude": 23.739097
+    },
+    {
+      "name": "Πετκίδης",
+      "latitude": 37.985925,
+      "longitude": 23.728169
+    },
+    {
+      "name": "Πετράκης",
+      "latitude": 37.988914,
+      "longitude": 23.759133
+    },
+    {
+      "name": "Πετσιος Κοσμημα",
+      "latitude": 39.668295,
+      "longitude": 20.856294
+    },
+    {
+      "name": "Πλίτσης",
+      "latitude": 39.637809,
+      "longitude": 22.418776
+    },
+    {
+      "name": "Πονηρός",
+      "latitude": 36.418052,
+      "longitude": 25.431508
+    },
+    {
+      "name": "Πρίντεζης",
+      "latitude": 37.964719,
+      "longitude": 23.74922
+    },
+    {
+      "name": "Πριγκιπώ",
+      "latitude": 37.979219,
+      "longitude": 23.729404
+    },
+    {
+      "name": "Προφίλ",
+      "latitude": 38.015008,
+      "longitude": 23.753835
+    },
+    {
+      "name": "Ράνια Κάκαρη",
+      "latitude": 37.928064,
+      "longitude": 23.693417
+    },
+    {
+      "name": "Ρήγας",
+      "latitude": 37.940549,
+      "longitude": 23.647213
+    },
+    {
+      "name": "Ραφαήλ",
+      "latitude": 37.975301,
+      "longitude": 23.763805
+    },
+    {
+      "name": "Ραχμανίδης",
+      "latitude": 39.638844,
+      "longitude": 22.419044
+    },
+    {
+      "name": "Ριχάρδος",
+      "latitude": 39.110176,
+      "longitude": 26.557545
+    },
+    {
+      "name": "Ροσώνης",
+      "latitude": 38.083529,
+      "longitude": 23.737343
+    },
+    {
+      "name": "Ρουμπίνι",
+      "latitude": 38.010434,
+      "longitude": 23.735057
+    },
+    {
+      "name": "Ρουσσάκης",
+      "latitude": 37.945453,
+      "longitude": 23.644604
+    },
+    {
+      "name": "Ρόπλος",
+      "latitude": 39.639809,
+      "longitude": 22.415163
+    },
+    {
+      "name": "Σ. Ζαμίτ",
+      "latitude": 37.977679,
+      "longitude": 23.737134
+    },
+    {
+      "name": "Σ. Τσαμπός",
+      "latitude": 37.949933,
+      "longitude": 23.738922
+    },
+    {
+      "name": "Σάββας",
+      "latitude": 37.943811,
+      "longitude": 23.645626
+    },
+    {
+      "name": "Σάπκας",
+      "latitude": 39.63907,
+      "longitude": 22.417218
+    },
+    {
+      "name": "Σεβαστίδης",
+      "latitude": 40.63938,
+      "longitude": 22.937051
+    },
+    {
+      "name": "ΣΙΔΕΡΗΣ",
+      "latitude": 37.992947,
+      "longitude": 23.74939
+    },
+    {
+      "name": "Σμίλη",
+      "latitude": 37.926818,
+      "longitude": 23.692602
+    },
+    {
+      "name": "Σουσούνης",
+      "latitude": 37.978593,
+      "longitude": 23.72823
+    },
+    {
+      "name": "ΣΠΥΡΟΠΟΥΛΟΣ",
+      "latitude": 38.019531,
+      "longitude": 23.753169
+    },
+    {
+      "name": "Σπύρος Μόσχος",
+      "latitude": 39.671883,
+      "longitude": 20.85718
+    },
+    {
+      "name": "Στεργιόπουλος",
+      "latitude": 38.028401,
+      "longitude": 23.7229
+    },
+    {
+      "name": "Στεφάνου",
+      "latitude": 38.022775,
+      "longitude": 23.799294
+    },
+    {
+      "name": "Συμεών",
+      "latitude": 39.10623,
+      "longitude": 26.555077
+    },
+    {
+      "name": "ΣΥΡΙΒΕΛΗΣ ΚΟΣΜΗΜΑ",
+      "latitude": 39.360557,
+      "longitude": 22.948452
+    },
+    {
+      "name": "Σχέδιο + κόσμημα",
+      "latitude": 37.982384,
+      "longitude": 23.732441
+    },
+    {
+      "name": "Σύμβολο",
+      "latitude": 35.230082,
+      "longitude": 23.681964
+    },
+    {
+      "name": "Τsek",
+      "latitude": 37.991816,
+      "longitude": 23.764623
+    },
+    {
+      "name": "Τάτσγς",
+      "latitude": 38.368587,
+      "longitude": 26.135294
+    },
+    {
+      "name": "Τέχνη και Κόσμημα",
+      "latitude": 38.055708,
+      "longitude": 23.806846
+    },
+    {
+      "name": "ΤΑΣΟΥΛΗΣ",
+      "latitude": 37.98564,
+      "longitude": 23.727452
+    },
+    {
+      "name": "Τασούλης",
+      "latitude": 37.959901,
+      "longitude": 23.708154
+    },
+    {
+      "name": "Τασούλης",
+      "latitude": 38.028226,
+      "longitude": 23.717637
+    },
+    {
+      "name": "Τασούλης",
+      "latitude": 38.042091,
+      "longitude": 23.754
+    },
+    {
+      "name": "Τασούλης",
+      "latitude": 38.046596,
+      "longitude": 23.75925
+    },
+    {
+      "name": "Ταφ",
+      "latitude": 37.941062,
+      "longitude": 23.646099
+    },
+    {
+      "name": "Τετράφυλλο",
+      "latitude": 37.976475,
+      "longitude": 23.732349
+    },
+    {
+      "name": "Τζάκης",
+      "latitude": 37.977601,
+      "longitude": 23.737168
+    },
+    {
+      "name": "Τζομπανάκης κοσμηματοπωλείο",
+      "latitude": 35.513622,
+      "longitude": 24.019323
+    },
+    {
+      "name": "Το Αιγαίο",
+      "latitude": 39.369156,
+      "longitude": 26.168394
+    },
+    {
+      "name": "Το κεχριμπάρι",
+      "latitude": 37.974606,
+      "longitude": 23.732348
+    },
+    {
+      "name": "Τουτούνης",
+      "latitude": 38.015204,
+      "longitude": 23.735208
+    },
+    {
+      "name": "Τραμπακόπουλος",
+      "latitude": 37.943323,
+      "longitude": 23.645996
+    },
+    {
+      "name": "Τριανταφύλλου by Kastira",
+      "latitude": 39.639075,
+      "longitude": 22.418523
+    },
+    {
+      "name": "Τριαντόπουλος",
+      "latitude": 40.636907,
+      "longitude": 22.943229
+    },
+    {
+      "name": "Τσάτσος",
+      "latitude": 39.107871,
+      "longitude": 26.556819
+    },
+    {
+      "name": "Τσαλδάρης",
+      "latitude": 38.020463,
+      "longitude": 23.801094
+    },
+    {
+      "name": "Τσαλδάρης",
+      "latitude": 38.021789,
+      "longitude": 23.799565
+    },
+    {
+      "name": "Τσαουσίδης",
+      "latitude": 40.631958,
+      "longitude": 22.944014
+    },
+    {
+      "name": "Τσιμπίλης",
+      "latitude": 39.106897,
+      "longitude": 26.556396
+    },
+    {
+      "name": "Τσιρόπουλος",
+      "latitude": 39.639524,
+      "longitude": 22.415164
+    },
+    {
+      "name": "ΤΣΟΛΑΚΗΣ ΚΟΣΜΗΜΑΤΑ",
+      "latitude": 40.522675,
+      "longitude": 21.262841
+    },
+    {
+      "name": "Τσορβαδέλλη",
+      "latitude": 39.107344,
+      "longitude": 26.556587
+    },
+    {
+      "name": "Τσουγένης",
+      "latitude": 39.635718,
+      "longitude": 22.416266
+    },
+    {
+      "name": "Τσουγκράνης",
+      "latitude": 40.271808,
+      "longitude": 22.507525
+    },
+    {
+      "name": "Φαίδρα",
+      "latitude": 39.637147,
+      "longitude": 22.415445
+    },
+    {
+      "name": "Φεγγαρόπετρα",
+      "latitude": 38.031773,
+      "longitude": 23.706997
+    },
+    {
+      "name": "Φεγγαρόπετρα",
+      "latitude": 39.108167,
+      "longitude": 26.557107
+    },
+    {
+      "name": "Φετίχ",
+      "latitude": 39.106989,
+      "longitude": 26.556207
+    },
+    {
+      "name": "Φραγικαδάκης",
+      "latitude": 35.340229,
+      "longitude": 25.133951
+    },
+    {
+      "name": "Φυτοπούλου",
+      "latitude": 40.639359,
+      "longitude": 22.937085
+    },
+    {
+      "name": "ΦΩΚΙΑΝΑΚΗ",
+      "latitude": 40.635216,
+      "longitude": 22.940807
+    },
+    {
+      "name": "Φωτόπουλος",
+      "latitude": 37.94334,
+      "longitude": 23.648771
+    },
+    {
+      "name": "Φώτης",
+      "latitude": 37.863636,
+      "longitude": 23.748831
+    },
+    {
+      "name": "Χάντρες",
+      "latitude": 37.990731,
+      "longitude": 23.681896
+    },
+    {
+      "name": "Χαντρόcosmos",
+      "latitude": 37.94639,
+      "longitude": 23.711772
+    },
+    {
+      "name": "Χαντρόκοσμος",
+      "latitude": 37.863044,
+      "longitude": 23.749959
+    },
+    {
+      "name": "Χαραλαμπίδης Jewellery",
+      "latitude": 40.580984,
+      "longitude": 22.9515
+    },
+    {
+      "name": "Χαριτίδης",
+      "latitude": 40.667164,
+      "longitude": 22.898278
+    },
+    {
+      "name": "Χασαμπαλιώτης",
+      "latitude": 39.637147,
+      "longitude": 22.415574
+    },
+    {
+      "name": "Χατζής",
+      "latitude": 38.24617,
+      "longitude": 21.73424
+    },
+    {
+      "name": "Χατζούλης",
+      "latitude": 39.634791,
+      "longitude": 22.415139
+    },
+    {
+      "name": "Χειλας",
+      "latitude": 37.978304,
+      "longitude": 23.727956
+    },
+    {
+      "name": "Χειροποιείν",
+      "latitude": 38.833596,
+      "longitude": 20.707763
+    },
+    {
+      "name": "ΧΕΙΡΟΠΟΙΗΜΑΤΑ",
+      "latitude": 37.976311,
+      "longitude": 23.732394
+    },
+    {
+      "name": "Χριστάκης",
+      "latitude": 38.028565,
+      "longitude": 23.717588
+    },
+    {
+      "name": "Χρυσάργυρον",
+      "latitude": 35.334089,
+      "longitude": 25.122929
+    },
+    {
+      "name": "Χρυσή Γωνιά",
+      "latitude": 40.621176,
+      "longitude": 22.441204
+    },
+    {
+      "name": "Χρυσικόπουλος",
+      "latitude": 37.959447,
+      "longitude": 23.626907
+    },
+    {
+      "name": "Χρυσοπηγή",
+      "latitude": 40.637204,
+      "longitude": 22.942346
+    },
+    {
+      "name": "Χρυσοτεχνο",
+      "latitude": 35.515109,
+      "longitude": 24.020412
+    },
+    {
+      "name": "Χρυσόλιθος",
+      "latitude": 38.027662,
+      "longitude": 23.720997
+    },
+    {
+      "name": "Χρυσόλιθος",
+      "latitude": 38.046715,
+      "longitude": 23.759045
+    },
+    {
+      "name": "Χρώμα",
+      "latitude": 37.993108,
+      "longitude": 23.731047
+    },
+    {
+      "name": "Χυδερίδης",
+      "latitude": 38.005328,
+      "longitude": 23.795773
+    },
+    {
+      "name": "Όνειρο",
+      "latitude": 36.418022,
+      "longitude": 25.432079
+    }
+  ],
+  "meta": {
+    "title": "Κοσμηματοπωλεία Ελλάδας - Δωρεάν λήψη",
+    "description": "Κοσμηματοπωλεία σε όλη την Ελλάδα από το OpenStreetMap. Jewelry shops across Greece. Περιέχει 1127 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοσμηματοπωλεία Ελλάδας | ListBase",
+    "seo_description": "Λήψη Κοσμηματοπωλεία Ελλάδας — 1127 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1127 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

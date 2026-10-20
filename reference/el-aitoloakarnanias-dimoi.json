@@ -1,0 +1,100 @@
+{
+  "id": "el-aitoloakarnanias-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Αιτωλοακαρνανιας (7)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Αιτωλοακαρνανιας (7)",
+  "description": "Οι 7 δήμοι της Περιφερειακής Ενότητας Αιτωλοακαρνανιας (Περιφέρεια Δυτικης Ελλαδας) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9123",
+      "name": "Αγρινιου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9124",
+      "name": "Ακτιου-Βονιτσας",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9125",
+      "name": "Αμφιλοχιας",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9126",
+      "name": "Θερμου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9127",
+      "name": "Ιερας Πολης Μεσολογγιου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9128",
+      "name": "Ναυπακτιας",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9129",
+      "name": "Ξηρομερου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Αιτωλοακαρνανιας (7) - Δωρεάν λήψη",
+    "description": "Οι 7 δήμοι της Περιφερειακής Ενότητας Αιτωλοακαρνανιας (Περιφέρεια Δυτικης Ελλαδας) σύμφωνα με τον Καλλικράτη. Περιέχει 7 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Αιτωλοακαρνανιας (7) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Αιτωλοακαρνανιας (7) — 7 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 7 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "el-karpathoy-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Καρπαθου (2)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Καρπαθου (2)",
+  "description": "Οι 2 δήμοι της Περιφερειακής Ενότητας Καρπαθου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9280",
+      "name": "Καρπαθου",
+      "regional_unit_id": "1204",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9281",
+      "name": "Κασου",
+      "regional_unit_id": "1204",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Καρπαθου (2) - Δωρεάν λήψη",
+    "description": "Οι 2 δήμοι της Περιφερειακής Ενότητας Καρπαθου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 2 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Καρπαθου (2) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Καρπαθου (2) — 2 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 2 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

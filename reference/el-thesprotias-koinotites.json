@@ -1,0 +1,786 @@
+{
+  "id": "el-thesprotias-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Θεσπρωτιας (105)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Θεσπρωτιας (105)",
+  "description": "Οι 105 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Θεσπρωτιας (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 105,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "200204",
+      "name": "Ηγουμενιτσης",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200201",
+      "name": "Αγιας Μαρινης",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200202",
+      "name": "Αγιου Βλασιου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200203",
+      "name": "Γραικοχωριου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200205",
+      "name": "Καστριου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200206",
+      "name": "Κρυοβρυσης",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200207",
+      "name": "Λαδοχωριου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200208",
+      "name": "Μαυρουδιου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200209",
+      "name": "Νεας Σελευκειας",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200301",
+      "name": "Ελευθεριου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200302",
+      "name": "Καρτεριου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200303",
+      "name": "Καταβοθρας",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200304",
+      "name": "Μαζαρακιας",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200305",
+      "name": "Μαργαριτιου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200306",
+      "name": "Μεσοβουνιου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200307",
+      "name": "Σπαθαραιων",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200501",
+      "name": "Γεροπλατανος",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200502",
+      "name": "Δραμεση",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200503",
+      "name": "Δριμιτσα",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200504",
+      "name": "Κοριτιανης",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200505",
+      "name": "Παραποταμου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200601",
+      "name": "Περδικας",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200901",
+      "name": "Αργυροτοπου",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200902",
+      "name": "Πλαταριας",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200903",
+      "name": "Συβοτων",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200904",
+      "name": "Φασκομηλιας",
+      "municipality": "Ηγουμενιτσης",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200101",
+      "name": "Γαρδικιου Σουλιου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200102",
+      "name": "Γλυκης",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200103",
+      "name": "Σκανδαλου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200104",
+      "name": "Χοικας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200413",
+      "name": "Παραμυθιας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200401",
+      "name": "Αγιας Κυριακης",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200402",
+      "name": "Αμπελιας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200403",
+      "name": "Γκρικας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200404",
+      "name": "Ελαταριας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200405",
+      "name": "Ζερβοχωριου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200406",
+      "name": "Καλλιθεας Σουλιου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200407",
+      "name": "Καρβουναριου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200408",
+      "name": "Καριωτιου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200409",
+      "name": "Κρυσταλλοπηγης",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200410",
+      "name": "Νεοχωριου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200411",
+      "name": "Ξηρολοφου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200412",
+      "name": "Παγκρατων",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200414",
+      "name": "Πεντε Εκκλησιων",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200415",
+      "name": "Πετουσιου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200416",
+      "name": "Πετροβιτσας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200417",
+      "name": "Πλακωτης",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200418",
+      "name": "Πολυδροσου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200419",
+      "name": "Προδρομιου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200420",
+      "name": "Σαλονικης",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200421",
+      "name": "Σεβαστου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200422",
+      "name": "Χρυσαυγης",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200423",
+      "name": "Ψακας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200801",
+      "name": "Αυλοτοπου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200802",
+      "name": "Κουκουλιων",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200803",
+      "name": "Σαμονιδας",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200804",
+      "name": "Τσαγγαριου",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200805",
+      "name": "Φροσυνης",
+      "municipality": "Σουλιου",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200701",
+      "name": "Ασπροκκλησιου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200702",
+      "name": "Κεστρινης",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200703",
+      "name": "Ραγιου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200704",
+      "name": "Σαγιαδας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "200705",
+      "name": "Σμερτου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201040",
+      "name": "Φιλιατων",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201001",
+      "name": "Αγιου Νικολαου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201002",
+      "name": "Αγιων Παντων",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201003",
+      "name": "Αετου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201004",
+      "name": "Αμπελωνος",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201005",
+      "name": "Αναβρυτου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201006",
+      "name": "Αχλαδεας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201007",
+      "name": "Βαβουριου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201008",
+      "name": "Βρυσελλας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201009",
+      "name": "Γαρδικιου (Αγιου Γεωργιου)",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201010",
+      "name": "Γιρομεριου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201011",
+      "name": "Γολας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201012",
+      "name": "Καλλιθεας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201013",
+      "name": "Κατω Ξεχωρου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201014",
+      "name": "Κεραμιτσης",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201015",
+      "name": "Κερασοχωριου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201016",
+      "name": "Κεφαλοχωριου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201017",
+      "name": "Κοκκινιας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201018",
+      "name": "Κοκκινολιθαριου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201019",
+      "name": "Κουρεμαδιου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201020",
+      "name": "Κρυονεριου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201021",
+      "name": "Κυπαρισσου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201022",
+      "name": "Λεπτοκαρυας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201023",
+      "name": "Λιας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201024",
+      "name": "Λιστας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201025",
+      "name": "Μαλουνιου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201026",
+      "name": "Μηλεας",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201027",
+      "name": "Ξεχωρου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201028",
+      "name": "Παλαιοκκλησιου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201029",
+      "name": "Παλαιοχωριου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201030",
+      "name": "Παλαμπα",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201031",
+      "name": "Πηγαδουλια",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201032",
+      "name": "Πλαισιου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201033",
+      "name": "Πλατανου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201034",
+      "name": "Ραβενης",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201035",
+      "name": "Ριζου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201036",
+      "name": "Σιδερης",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201037",
+      "name": "Τρικορυφου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201038",
+      "name": "Τσαμαντα",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201039",
+      "name": "Φανερωμενης",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201041",
+      "name": "Φοινικιου",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "201042",
+      "name": "Χαραυγης",
+      "municipality": "Φιλιατων",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Θεσπρωτιας (105) - Δωρεάν λήψη",
+    "description": "Οι 105 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Θεσπρωτιας (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη. Περιέχει 105 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Θεσπρωτιας (105) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Θεσπρωτιας (105) — 105 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 105 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

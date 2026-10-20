@@ -1,0 +1,1192 @@
+{
+  "id": "el-chanion-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Χανιων (163)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Χανιων (163)",
+  "description": "Οι 163 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Χανιων (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 163,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "530301",
+      "name": "Αρμενων",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530302",
+      "name": "Καλυβων",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530303",
+      "name": "Καρων Αποκορωνου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530304",
+      "name": "Μαχαιρων",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530305",
+      "name": "Νεου Χωριου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530306",
+      "name": "Ραμνης",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530307",
+      "name": "Στυλου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530401",
+      "name": "Αση Γωνιας",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530501",
+      "name": "Βαμου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530502",
+      "name": "Γαβαλοχωριου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530503",
+      "name": "Καινας",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530504",
+      "name": "Καλαμιτσιου Αλεξανδρου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530505",
+      "name": "Κεφαλα",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530506",
+      "name": "Κοκκινου Χωριου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530507",
+      "name": "Ξηροστερνιου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530508",
+      "name": "Πλακας",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530509",
+      "name": "Σελλιων",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530801",
+      "name": "Γεωργιουπολεως",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530802",
+      "name": "Καλαμιτσιου Αμυγδαλιου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530803",
+      "name": "Καστελλου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530804",
+      "name": "Κουρνα",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530805",
+      "name": "Φυλακης",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531601",
+      "name": "Αλικαμπου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531602",
+      "name": "Βαφε",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531603",
+      "name": "Βρυσων",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531604",
+      "name": "Εμπροσνερου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531605",
+      "name": "Μαζης",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531606",
+      "name": "Νιπους",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532401",
+      "name": "Μελιδονιου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532402",
+      "name": "Παϊδοχωριου",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532403",
+      "name": "Πεμονιων",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532404",
+      "name": "Τζιτζιφε",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532405",
+      "name": "Φρε",
+      "municipality": "Αποκορωνου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530701",
+      "name": "Γαυδου",
+      "municipality": "Γαυδου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530201",
+      "name": "Επανωχωριου",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530202",
+      "name": "Καμπανου",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530203",
+      "name": "Ροδοβανιου",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530204",
+      "name": "Σκαφης",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530205",
+      "name": "Σουγιας",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530206",
+      "name": "Τεμενιων",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531201",
+      "name": "Κακοδικιου",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531202",
+      "name": "Κανδανου (Καντανου)",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531203",
+      "name": "Πλεμενιανων",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532003",
+      "name": "Παλαιοχωρας",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532001",
+      "name": "Βοθιανων",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532002",
+      "name": "Βουτα",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532004",
+      "name": "Σαρακηνας",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532005",
+      "name": "Σκλαβοπουλας",
+      "municipality": "Καντανου - Σελινου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531101",
+      "name": "Αμυγδαλοκεφαλιου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531102",
+      "name": "Βαθης",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531103",
+      "name": "Βλατους",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531104",
+      "name": "Ελους",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531105",
+      "name": "Καμπου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531106",
+      "name": "Κεφαλιου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531107",
+      "name": "Περιβολιων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531108",
+      "name": "Στροβλων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531404",
+      "name": "Κισσαμου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531401",
+      "name": "Γραμβουσης",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531402",
+      "name": "Καλαθενων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531403",
+      "name": "Καλλεργιανων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531405",
+      "name": "Κουκουναρας",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531406",
+      "name": "Λουσακιων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531407",
+      "name": "Πλατανου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531408",
+      "name": "Πολυρρηνιας",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531409",
+      "name": "Σηρικαριου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531801",
+      "name": "Βουλγαρω",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531802",
+      "name": "Δραπανια",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531803",
+      "name": "Καλουδιανων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531804",
+      "name": "Μαλαθυρου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531805",
+      "name": "Περβολακιων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531806",
+      "name": "Ποταμιδας",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531807",
+      "name": "Ροκκας",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531808",
+      "name": "Σασαλου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531809",
+      "name": "Σφακοπηγαδιου",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531810",
+      "name": "Τοπολιων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531811",
+      "name": "Φαλελιανων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531812",
+      "name": "Χαιρεθιανων",
+      "municipality": "Κισσαμου",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530601",
+      "name": "Ανωσκελης",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530602",
+      "name": "Βουκολιων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530603",
+      "name": "Κακοπετρου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530604",
+      "name": "Νεου Χωριου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530605",
+      "name": "Νεριανων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530606",
+      "name": "Παλαιων Ρουματων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530607",
+      "name": "Πολεμαρχιου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530608",
+      "name": "Ταυρωνιτου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530609",
+      "name": "Χρυσαυγης",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531501",
+      "name": "Αφρατων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531502",
+      "name": "Βασιλοπουλου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531503",
+      "name": "Βουβων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531504",
+      "name": "Γλωσσης",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531505",
+      "name": "Δελιανων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531506",
+      "name": "Δρακονας",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531507",
+      "name": "Επισκοπης",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531508",
+      "name": "Ζυμπραγου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531509",
+      "name": "Καλυδονιας",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531510",
+      "name": "Καμισιανων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531511",
+      "name": "Καρων Κισσαμου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531512",
+      "name": "Κολυμβαριου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531513",
+      "name": "Νοχιων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531514",
+      "name": "Πανεθημου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531515",
+      "name": "Ραβδουχας",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531516",
+      "name": "Ροδωπου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531517",
+      "name": "Σπηλιας",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531701",
+      "name": "Αλικιανου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531702",
+      "name": "Βατολακκου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531703",
+      "name": "Καρανου (Καρων)",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531704",
+      "name": "Κουφου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531705",
+      "name": "Λακκων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531706",
+      "name": "Μεσκλων",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531707",
+      "name": "Ορθουνιου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531708",
+      "name": "Πρασε",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531709",
+      "name": "Σεμπρωνα",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531710",
+      "name": "Σκινε",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531711",
+      "name": "Φουρνε",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531712",
+      "name": "Ψαθογιαννου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532101",
+      "name": "Βλαχερωνιτισσης",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532102",
+      "name": "Βρυσων Κυδωνιας",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532103",
+      "name": "Γερανιου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532104",
+      "name": "Ζουνακιου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532105",
+      "name": "Κοντομαριου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532106",
+      "name": "Κυπαρισσου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532107",
+      "name": "Μαλεμε",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532108",
+      "name": "Μανολιοπουλου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532109",
+      "name": "Μοδιου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532110",
+      "name": "Ντερε",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532111",
+      "name": "Ξαμουδοχωριου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532112",
+      "name": "Πλατανια",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532113",
+      "name": "Σιριλιου",
+      "municipality": "Πλατανια",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532301",
+      "name": "Αγιας Ρουμελης",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532302",
+      "name": "Αγιου Ιωαννου",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532303",
+      "name": "Ανωπολεως",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532304",
+      "name": "Ασκυφου",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532305",
+      "name": "Ασφενδου",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532306",
+      "name": "Ιμπρου",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532307",
+      "name": "Πατσιανου",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532308",
+      "name": "Σκαλωτης",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532309",
+      "name": "Χωρας Σφακιων",
+      "municipality": "Σφακιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530101",
+      "name": "Αρωνιου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530102",
+      "name": "Κουνουπιδιανων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530103",
+      "name": "Μουζουρα",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530104",
+      "name": "Στερνων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530105",
+      "name": "Χωρδακιου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530901",
+      "name": "Μουρνιων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "530902",
+      "name": "Νεροκουρου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531005",
+      "name": "Περιβολιων Κυδωνιας",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531001",
+      "name": "Αγιας",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531002",
+      "name": "Βαμβακοπουλου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531003",
+      "name": "Βαρυπετρου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531004",
+      "name": "Θερισου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531301",
+      "name": "Δρακονας",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531302",
+      "name": "Καμπων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531303",
+      "name": "Κοντοπουλων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531304",
+      "name": "Μαλαξας",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531305",
+      "name": "Παππαδιανων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531306",
+      "name": "Πλατυβολας",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531902",
+      "name": "Γαλατα",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531903",
+      "name": "Δαρατσου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531901",
+      "name": "Αγιας Μαρινης",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "531904",
+      "name": "Σταλου",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532202",
+      "name": "Σουδας",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532201",
+      "name": "Απτερων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532203",
+      "name": "Τσικαλαριων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "532501",
+      "name": "Χανιων",
+      "municipality": "Χανιων",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Χανιων (163) - Δωρεάν λήψη",
+    "description": "Οι 163 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Χανιων (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη. Περιέχει 163 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Χανιων (163) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Χανιων (163) — 163 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 163 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

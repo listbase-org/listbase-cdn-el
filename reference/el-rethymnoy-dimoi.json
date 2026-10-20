@@ -1,0 +1,86 @@
+{
+  "id": "el-rethymnoy-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Ρεθυμνου (5)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Ρεθυμνου (5)",
+  "description": "Οι 5 δήμοι της Περιφερειακής Ενότητας Ρεθυμνου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9314",
+      "name": "Αγιου Βασιλειου",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9315",
+      "name": "Αμαριου",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9316",
+      "name": "Ανωγειων",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9317",
+      "name": "Μυλοποταμου",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9318",
+      "name": "Ρεθυμνης",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Ρεθυμνου (5) - Δωρεάν λήψη",
+    "description": "Οι 5 δήμοι της Περιφερειακής Ενότητας Ρεθυμνου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη. Περιέχει 5 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Ρεθυμνου (5) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Ρεθυμνου (5) — 5 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 5 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

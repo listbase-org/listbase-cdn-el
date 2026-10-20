@@ -1,0 +1,93 @@
+{
+  "id": "el-kalymnoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Καλυμνου (6)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Καλυμνου (6)",
+  "description": "Οι 6 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Καλυμνου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "120101",
+      "name": "Αγαθονησιου",
+      "municipality": "Αγαθονησιου",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120301",
+      "name": "Αστυπαλαιας",
+      "municipality": "Αστυπαλαιας",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121001",
+      "name": "Καλυμνιων",
+      "municipality": "Καλυμνιων",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121501",
+      "name": "Λειψων",
+      "municipality": "Λειψων",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121601",
+      "name": "Λερου",
+      "municipality": "Λερου",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122201",
+      "name": "Πατμου",
+      "municipality": "Πατμου",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Καλυμνου (6) - Δωρεάν λήψη",
+    "description": "Οι 6 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Καλυμνου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 6 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Καλυμνου (6) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Καλυμνου (6) — 6 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 6 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

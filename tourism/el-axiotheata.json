@@ -1,0 +1,4946 @@
+{
+  "id": "el-axiotheata",
+  "name": "Αξιοθέατα Ελλάδας",
+  "title": "Αξιοθέατα Ελλάδας",
+  "description": "Τουριστικά αξιοθέατα σε όλη την Ελλάδα από το OpenStreetMap. Tourist attractions across Greece.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 981,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"I love Cavos\" Swing",
+      "latitude": 36.736991,
+      "longitude": 26.97072
+    },
+    {
+      "name": "\"Καμίνι\" Πολιτιστικό κέντρο Δήμου Γαλατσίου",
+      "latitude": 38.015391,
+      "longitude": 23.749631
+    },
+    {
+      "name": "1η Προβλήτα",
+      "latitude": 40.633331,
+      "longitude": 22.936454
+    },
+    {
+      "name": "1ο Πέτρινο Γεφύρι",
+      "latitude": 41.138509,
+      "longitude": 23.618497
+    },
+    {
+      "name": "1ο Πέτρινο Γεφύρι Σαμοκόβας",
+      "latitude": 41.306422,
+      "longitude": 23.524494
+    },
+    {
+      "name": "1ος Καταρράκτης",
+      "latitude": 41.529759,
+      "longitude": 24.513486
+    },
+    {
+      "name": "2,000-year-old Plane Tree",
+      "latitude": 35.389364,
+      "longitude": 23.660212
+    },
+    {
+      "name": "2ο Πέτρινο Γεφύρι Πεχτσέτας",
+      "latitude": 41.305916,
+      "longitude": 23.534671
+    },
+    {
+      "name": "2ο Πέτρινο Γεφύρι/Υδρογέφυρα",
+      "latitude": 41.139652,
+      "longitude": 23.619996
+    },
+    {
+      "name": "2ος Καταρράκτης",
+      "latitude": 41.534021,
+      "longitude": 24.515943
+    },
+    {
+      "name": "3ο Πέτρινο Γεφύρι (Αγ. Παρασκευής, μνημόσυνο Γεωργίου Πέτκου)",
+      "latitude": 41.141504,
+      "longitude": 23.624144
+    },
+    {
+      "name": "3ο Πέτρινο Γεφύρι Τουπουβίτσας",
+      "latitude": 41.30721,
+      "longitude": 23.53761
+    },
+    {
+      "name": "3ος Καταρράκτης",
+      "latitude": 41.53459,
+      "longitude": 24.51693
+    },
+    {
+      "name": "4o Πέτρινο Γεφύρι (κάτω από την εκκλησία του χωριού Λάκκος)",
+      "latitude": 41.14749,
+      "longitude": 23.628443
+    },
+    {
+      "name": "4ο Πέτρινο Γεφύρι Κάτω Μπέλιτσας",
+      "latitude": 41.312344,
+      "longitude": 23.547738
+    },
+    {
+      "name": "5 βρύσες",
+      "latitude": 40.576751,
+      "longitude": 23.72068
+    },
+    {
+      "name": "5ο Πέτρινο Γεφύρι (Ιακώβου Προδρομίτου Ιωαννίτου)",
+      "latitude": 41.149425,
+      "longitude": 23.629978
+    },
+    {
+      "name": "5ο Πέτρινο Γεφύρι Άνω Μπέλιτσας",
+      "latitude": 41.312368,
+      "longitude": 23.552287
+    },
+    {
+      "name": "6ο Πέτρινο Γεφύρι",
+      "latitude": 41.166505,
+      "longitude": 23.642849
+    },
+    {
+      "name": "6ο Πέτρινο Γεφύρι Μύλων",
+      "latitude": 41.308738,
+      "longitude": 23.578155
+    },
+    {
+      "name": "7 πέτρινες βρύσες απο πηγές Μπουρμπούλα",
+      "latitude": 38.641389,
+      "longitude": 22.425378
+    },
+    {
+      "name": "7ο Πέτρινο Γεφύρι (Θεοδοσίου Ηγουμένου και γέροντα Μαρίνου)",
+      "latitude": 41.189531,
+      "longitude": 23.644478
+    },
+    {
+      "name": "7ο Πέτρινο Γεφύρι (Ποτιστικά)",
+      "latitude": 41.306186,
+      "longitude": 23.586558
+    },
+    {
+      "name": "8ο Πέτρινο Γεφύρι",
+      "latitude": 41.190782,
+      "longitude": 23.644333
+    },
+    {
+      "name": "8ο Πέτρινο Γεφύρι (Λιβαδιών)",
+      "latitude": 41.307166,
+      "longitude": 23.592454
+    },
+    {
+      "name": "9ο Πέτρινο Γεφύρι (Διασταύρωσης ή Βροντούς)",
+      "latitude": 41.310896,
+      "longitude": 23.600486
+    },
+    {
+      "name": "9ο Πέτρινο Γεφύρι (Σεϊτάν Κιουπρεσί ή Διαβολογέφυρο)",
+      "latitude": 41.201357,
+      "longitude": 23.650496
+    },
+    {
+      "name": "Aegina Marina mooring",
+      "latitude": 37.745985,
+      "longitude": 23.428224
+    },
+    {
+      "name": "AeroPhone - Listening Wall 2nd World War built by the Italians",
+      "latitude": 37.12619,
+      "longitude": 26.819786
+    },
+    {
+      "name": "Agia dynami",
+      "latitude": 38.212599,
+      "longitude": 25.912328
+    },
+    {
+      "name": "Agia Irini Gorge Entry",
+      "latitude": 35.329164,
+      "longitude": 23.836979
+    },
+    {
+      "name": "Agion  Panton Gorge",
+      "latitude": 35.219658,
+      "longitude": 26.068858
+    },
+    {
+      "name": "Agreco Farm",
+      "latitude": 35.348413,
+      "longitude": 24.568286
+    },
+    {
+      "name": "Alykes",
+      "latitude": 36.884729,
+      "longitude": 27.172199
+    },
+    {
+      "name": "Ammoudi",
+      "latitude": 36.460411,
+      "longitude": 25.371071
+    },
+    {
+      "name": "Anchor",
+      "latitude": 35.518006,
+      "longitude": 24.016004
+    },
+    {
+      "name": "Anchor",
+      "latitude": 38.463134,
+      "longitude": 23.58848
+    },
+    {
+      "name": "Ancient Castle",
+      "latitude": 36.606443,
+      "longitude": 27.13085
+    },
+    {
+      "name": "Aqueduc",
+      "latitude": 37.78903,
+      "longitude": 20.891436
+    },
+    {
+      "name": "Aradena Gorge",
+      "latitude": 35.222229,
+      "longitude": 24.061213
+    },
+    {
+      "name": "Archaeological site and Museum of ANCIENT AGORA",
+      "latitude": 37.974762,
+      "longitude": 23.720465
+    },
+    {
+      "name": "Archeological excavation",
+      "latitude": 35.517047,
+      "longitude": 24.019551
+    },
+    {
+      "name": "Argostoli",
+      "latitude": 38.181002,
+      "longitude": 20.49631
+    },
+    {
+      "name": "Avlaki Fjord",
+      "latitude": 35.592015,
+      "longitude": 24.149781
+    },
+    {
+      "name": "Basilica D",
+      "latitude": 40.819739,
+      "longitude": 23.847605
+    },
+    {
+      "name": "Bastione di St. Marco",
+      "latitude": 37.786315,
+      "longitude": 20.889458
+    },
+    {
+      "name": "bell tower",
+      "latitude": 35.389546,
+      "longitude": 23.654058
+    },
+    {
+      "name": "Biolea",
+      "latitude": 35.463803,
+      "longitude": 23.743496
+    },
+    {
+      "name": "Biotopoi Nature park",
+      "latitude": 35.359823,
+      "longitude": 24.495967
+    },
+    {
+      "name": "Bird cages",
+      "latitude": 37.98828,
+      "longitude": 23.771267
+    },
+    {
+      "name": "Bitumen Well",
+      "latitude": 37.684484,
+      "longitude": 20.833523
+    },
+    {
+      "name": "Bitumen Wells and Lake",
+      "latitude": 37.686337,
+      "longitude": 20.831594
+    },
+    {
+      "name": "Blue Eye cave",
+      "latitude": 39.671582,
+      "longitude": 19.714151
+    },
+    {
+      "name": "Boat",
+      "latitude": 35.294717,
+      "longitude": 25.469677
+    },
+    {
+      "name": "Boat trips",
+      "latitude": 39.236099,
+      "longitude": 20.480563
+    },
+    {
+      "name": "bridge",
+      "latitude": 38.923328,
+      "longitude": 20.900188
+    },
+    {
+      "name": "Bubble Beach",
+      "latitude": 36.761342,
+      "longitude": 27.010417
+    },
+    {
+      "name": "Byron's Rock",
+      "latitude": 38.124628,
+      "longitude": 20.516288
+    },
+    {
+      "name": "Caldera beach",
+      "latitude": 36.361561,
+      "longitude": 25.407607
+    },
+    {
+      "name": "Calida, woonwagen ni Griekse olijfgaard met zwembad",
+      "latitude": 36.828964,
+      "longitude": 21.747901
+    },
+    {
+      "name": "Captain Vangelis Special Cruises",
+      "latitude": 38.078196,
+      "longitude": 20.800466
+    },
+    {
+      "name": "Casa Bianca",
+      "latitude": 40.596491,
+      "longitude": 22.95574
+    },
+    {
+      "name": "Castle",
+      "latitude": 37.208103,
+      "longitude": 21.590517
+    },
+    {
+      "name": "Castle of Bali",
+      "latitude": 35.418141,
+      "longitude": 24.781679
+    },
+    {
+      "name": "Cave Pori",
+      "latitude": 36.94654,
+      "longitude": 25.627235
+    },
+    {
+      "name": "Champion club-Gerakas",
+      "latitude": 38.008604,
+      "longitude": 23.860941
+    },
+    {
+      "name": "chillout ariba beach, rahoni",
+      "latitude": 40.778614,
+      "longitude": 24.605631
+    },
+    {
+      "name": "Clock Tower",
+      "latitude": 40.083701,
+      "longitude": 21.428666
+    },
+    {
+      "name": "Cretan Beverly Hills",
+      "latitude": 35.505046,
+      "longitude": 24.053735
+    },
+    {
+      "name": "Cretanzeuspark",
+      "latitude": 35.150938,
+      "longitude": 24.832151
+    },
+    {
+      "name": "Crique",
+      "latitude": 37.129467,
+      "longitude": 25.218955
+    },
+    {
+      "name": "Crossing",
+      "latitude": 38.163457,
+      "longitude": 23.730017
+    },
+    {
+      "name": "Cruise Pier Piraeus",
+      "latitude": 37.937692,
+      "longitude": 23.636334
+    },
+    {
+      "name": "Destroyed bridge",
+      "latitude": 40.094423,
+      "longitude": 22.446267
+    },
+    {
+      "name": "Destroyed bridge",
+      "latitude": 40.095544,
+      "longitude": 22.447033
+    },
+    {
+      "name": "Devils Bridge",
+      "latitude": 37.497167,
+      "longitude": 23.351028
+    },
+    {
+      "name": "Dheliana/Mesavlia Gorge",
+      "latitude": 35.426664,
+      "longitude": 23.731297
+    },
+    {
+      "name": "Dinosauria park",
+      "latitude": 35.32681,
+      "longitude": 25.287811
+    },
+    {
+      "name": "Donkey Brewery",
+      "latitude": 36.384189,
+      "longitude": 25.46465
+    },
+    {
+      "name": "Donkey Sanctuary",
+      "latitude": 35.177671,
+      "longitude": 24.442076
+    },
+    {
+      "name": "Eiche",
+      "latitude": 38.165634,
+      "longitude": 20.589113
+    },
+    {
+      "name": "Elafos",
+      "latitude": 36.451015,
+      "longitude": 28.22585
+    },
+    {
+      "name": "Empty big tree",
+      "latitude": 36.265334,
+      "longitude": 28.076847
+    },
+    {
+      "name": "Entrance to wall walk - 3 euro",
+      "latitude": 36.445311,
+      "longitude": 28.223474
+    },
+    {
+      "name": "Erosion Shapes",
+      "latitude": 37.708942,
+      "longitude": 20.982875
+    },
+    {
+      "name": "Eyes of the Cyclop",
+      "latitude": 36.677126,
+      "longitude": 24.532597
+    },
+    {
+      "name": "Eyes of theCyclop",
+      "latitude": 36.677139,
+      "longitude": 24.532605
+    },
+    {
+      "name": "F-5 fighter airplane",
+      "latitude": 37.043038,
+      "longitude": 22.115577
+    },
+    {
+      "name": "Flag",
+      "latitude": 37.654769,
+      "longitude": 20.810013
+    },
+    {
+      "name": "FLAK of Sougia",
+      "latitude": 35.24769,
+      "longitude": 23.808415
+    },
+    {
+      "name": "FRT RACING CAR",
+      "latitude": 38.135426,
+      "longitude": 23.91702
+    },
+    {
+      "name": "Geographical Centre Point of Creta",
+      "latitude": 35.142683,
+      "longitude": 25.007847
+    },
+    {
+      "name": "Geological Excavation",
+      "latitude": 36.784244,
+      "longitude": 27.129655
+    },
+    {
+      "name": "Gepetto",
+      "latitude": 35.371248,
+      "longitude": 24.472611
+    },
+    {
+      "name": "German Fortification",
+      "latitude": 37.786508,
+      "longitude": 20.889656
+    },
+    {
+      "name": "Gialova Waterfall",
+      "latitude": 36.957995,
+      "longitude": 21.730538
+    },
+    {
+      "name": "Great Fun Train way to sk.Potamia",
+      "latitude": 40.726249,
+      "longitude": 24.755604
+    },
+    {
+      "name": "Greek mythology park",
+      "latitude": 35.165064,
+      "longitude": 25.446851
+    },
+    {
+      "name": "Green Oasis (Argiroupolis Springs)",
+      "latitude": 35.286551,
+      "longitude": 24.332272
+    },
+    {
+      "name": "Grillo's Stables",
+      "latitude": 35.357451,
+      "longitude": 24.251835
+    },
+    {
+      "name": "Hakuna Matata Holidays",
+      "latitude": 36.828797,
+      "longitude": 21.747968
+    },
+    {
+      "name": "HERE Technologies Athens Greece",
+      "latitude": 38.008402,
+      "longitude": 23.801923
+    },
+    {
+      "name": "Herodotos Spring",
+      "latitude": 37.683075,
+      "longitude": 20.831303
+    },
+    {
+      "name": "Historical Bouboulina port",
+      "latitude": 37.276704,
+      "longitude": 23.104959
+    },
+    {
+      "name": "I Love Kefalonia",
+      "latitude": 38.177561,
+      "longitude": 20.489704
+    },
+    {
+      "name": "I Love Preveza",
+      "latitude": 38.958769,
+      "longitude": 20.755058
+    },
+    {
+      "name": "I LOVE PROKOPI",
+      "latitude": 38.735006,
+      "longitude": 23.492354
+    },
+    {
+      "name": "Industrial Museum",
+      "latitude": 37.437755,
+      "longitude": 24.934665
+    },
+    {
+      "name": "Ishulli i Maligradit",
+      "latitude": 40.792834,
+      "longitude": 20.933712
+    },
+    {
+      "name": "Island of Aristotle Onassis",
+      "latitude": 38.693305,
+      "longitude": 20.747386
+    },
+    {
+      "name": "Joannis Cave",
+      "latitude": 37.314471,
+      "longitude": 26.544986
+    },
+    {
+      "name": "joseph",
+      "latitude": 36.360174,
+      "longitude": 25.445636
+    },
+    {
+      "name": "Kalathas Beach",
+      "latitude": 35.554492,
+      "longitude": 24.087127
+    },
+    {
+      "name": "Kamari Beach",
+      "latitude": 36.376358,
+      "longitude": 25.485093
+    },
+    {
+      "name": "Kameno Vouno",
+      "latitude": 37.618729,
+      "longitude": 23.332986
+    },
+    {
+      "name": "Kamuro's bay",
+      "latitude": 35.349231,
+      "longitude": 23.537807
+    },
+    {
+      "name": "Karya Karditsas",
+      "latitude": 39.31433,
+      "longitude": 21.491706
+    },
+    {
+      "name": "Katafyki cave",
+      "latitude": 37.381759,
+      "longitude": 24.430095
+    },
+    {
+      "name": "Kavoussi Gorge",
+      "latitude": 35.108841,
+      "longitude": 25.874695
+    },
+    {
+      "name": "Keratokambos dunes",
+      "latitude": 34.993298,
+      "longitude": 25.402507
+    },
+    {
+      "name": "Kokina paralia",
+      "latitude": 37.395201,
+      "longitude": 24.871285
+    },
+    {
+      "name": "Kokou riding center",
+      "latitude": 37.107362,
+      "longitude": 25.247449
+    },
+    {
+      "name": "Komolithi",
+      "latitude": 35.472146,
+      "longitude": 23.698937
+    },
+    {
+      "name": "Koronekes",
+      "latitude": 35.274777,
+      "longitude": 25.172479
+    },
+    {
+      "name": "kretan night",
+      "latitude": 35.226717,
+      "longitude": 25.355683
+    },
+    {
+      "name": "Laguna Beach Park",
+      "latitude": 37.087156,
+      "longitude": 25.358372
+    },
+    {
+      "name": "Lasinthos ECO Park",
+      "latitude": 35.161878,
+      "longitude": 25.487582
+    },
+    {
+      "name": "Lava rocks Faraklou",
+      "latitude": 39.994096,
+      "longitude": 25.241155
+    },
+    {
+      "name": "Leper-Hospital",
+      "latitude": 38.384546,
+      "longitude": 26.118826
+    },
+    {
+      "name": "Lindos Watersports Center",
+      "latitude": 36.076382,
+      "longitude": 28.020506
+    },
+    {
+      "name": "Little Venice",
+      "latitude": 37.445862,
+      "longitude": 25.326431
+    },
+    {
+      "name": "Love Springs",
+      "latitude": 40.731382,
+      "longitude": 24.727061
+    },
+    {
+      "name": "Magna Grecia",
+      "latitude": 37.648063,
+      "longitude": 21.605105
+    },
+    {
+      "name": "Man Katsa Waterfalls",
+      "latitude": 39.276555,
+      "longitude": 26.359213
+    },
+    {
+      "name": "Manos - might be up a 2nd road here",
+      "latitude": 35.334529,
+      "longitude": 25.067836
+    },
+    {
+      "name": "Market Thursdays",
+      "latitude": 36.439088,
+      "longitude": 28.227909
+    },
+    {
+      "name": "Markyanys",
+      "latitude": 36.797718,
+      "longitude": 25.844306
+    },
+    {
+      "name": "Melas",
+      "latitude": 37.612362,
+      "longitude": 23.020755
+    },
+    {
+      "name": "Michael Roukouniotis",
+      "latitude": 36.609813,
+      "longitude": 27.812889
+    },
+    {
+      "name": "Mill of Chatzis",
+      "latitude": 35.202993,
+      "longitude": 24.396806
+    },
+    {
+      "name": "Miniature Park",
+      "latitude": 35.367509,
+      "longitude": 24.260602
+    },
+    {
+      "name": "Minos Boats",
+      "latitude": 35.283873,
+      "longitude": 25.726768
+    },
+    {
+      "name": "Molo crociera Odysseia",
+      "latitude": 38.707148,
+      "longitude": 20.711161
+    },
+    {
+      "name": "Moni Panagias Tourlianis",
+      "latitude": 37.447469,
+      "longitude": 25.391656
+    },
+    {
+      "name": "Monumental Olive Tree of Agios Georgios",
+      "latitude": 35.335426,
+      "longitude": 23.756855
+    },
+    {
+      "name": "Mpastogéphyro Bridge",
+      "latitude": 37.137665,
+      "longitude": 21.999191
+    },
+    {
+      "name": "Multi Slide",
+      "latitude": 36.850961,
+      "longitude": 27.108329
+    },
+    {
+      "name": "Mystery Lab",
+      "latitude": 38.005938,
+      "longitude": 23.702523
+    },
+    {
+      "name": "Nagios",
+      "latitude": 36.78868,
+      "longitude": 25.756632
+    },
+    {
+      "name": "Nana Golden Beach Hotel",
+      "latitude": 35.304904,
+      "longitude": 25.421516
+    },
+    {
+      "name": "Naval mine",
+      "latitude": 35.517972,
+      "longitude": 24.016017
+    },
+    {
+      "name": "Neda Caves",
+      "latitude": 37.396678,
+      "longitude": 21.820169
+    },
+    {
+      "name": "Neoclassical Mansion",
+      "latitude": 37.924578,
+      "longitude": 23.695697
+    },
+    {
+      "name": "Nikolaidis Mansion",
+      "latitude": 37.308949,
+      "longitude": 26.54909
+    },
+    {
+      "name": "Nisi Gorge",
+      "latitude": 35.422645,
+      "longitude": 23.694457
+    },
+    {
+      "name": "Noddy Train terminus",
+      "latitude": 36.615837,
+      "longitude": 27.835299
+    },
+    {
+      "name": "Nude beach",
+      "latitude": 36.668777,
+      "longitude": 24.458651
+    },
+    {
+      "name": "Nude beach",
+      "latitude": 36.692529,
+      "longitude": 24.454689
+    },
+    {
+      "name": "Nude suntanning spot",
+      "latitude": 36.802811,
+      "longitude": 22.297362
+    },
+    {
+      "name": "Old Olive Tree",
+      "latitude": 37.801418,
+      "longitude": 20.684137
+    },
+    {
+      "name": "Old Olive Tree (planted ca. 480 years ago /2020.)",
+      "latitude": 35.341152,
+      "longitude": 25.139596
+    },
+    {
+      "name": "Old Packhorse Bridge",
+      "latitude": 35.441426,
+      "longitude": 23.653609
+    },
+    {
+      "name": "Old Plane Tree",
+      "latitude": 35.187007,
+      "longitude": 25.372533
+    },
+    {
+      "name": "old plane tree",
+      "latitude": 35.233531,
+      "longitude": 25.469176
+    },
+    {
+      "name": "Old School Aikirghianis",
+      "latitude": 35.431806,
+      "longitude": 23.679737
+    },
+    {
+      "name": "Old Washhouse",
+      "latitude": 35.17596,
+      "longitude": 24.441277
+    },
+    {
+      "name": "Olive Oil Farm",
+      "latitude": 35.210923,
+      "longitude": 25.711878
+    },
+    {
+      "name": "Oversea Petrol Station",
+      "latitude": 34.927627,
+      "longitude": 24.80641
+    },
+    {
+      "name": "Panagos",
+      "latitude": 36.985665,
+      "longitude": 21.857293
+    },
+    {
+      "name": "Paraflight Sea Sports",
+      "latitude": 35.52006,
+      "longitude": 23.92323
+    },
+    {
+      "name": "Paralia Monastiria",
+      "latitude": 37.003614,
+      "longitude": 25.026368
+    },
+    {
+      "name": "Parga Trains",
+      "latitude": 39.28339,
+      "longitude": 20.40438
+    },
+    {
+      "name": "Park of Peace",
+      "latitude": 35.397431,
+      "longitude": 23.65495
+    },
+    {
+      "name": "Peacocks",
+      "latitude": 36.398993,
+      "longitude": 28.142832
+    },
+    {
+      "name": "Perivlepto Bridge",
+      "latitude": 39.769818,
+      "longitude": 20.780833
+    },
+    {
+      "name": "Petralona cave",
+      "latitude": 40.373497,
+      "longitude": 23.168693
+    },
+    {
+      "name": "Petras Palace",
+      "latitude": 35.197103,
+      "longitude": 26.114961
+    },
+    {
+      "name": "Phare d'Alexandroupolis",
+      "latitude": 40.843648,
+      "longitude": 25.875035
+    },
+    {
+      "name": "PILHARS OF THE WIND",
+      "latitude": 37.477201,
+      "longitude": 23.287294
+    },
+    {
+      "name": "Pirate Tower",
+      "latitude": 38.211745,
+      "longitude": 25.911216
+    },
+    {
+      "name": "Pisina",
+      "latitude": 36.939658,
+      "longitude": 25.624581
+    },
+    {
+      "name": "Platon",
+      "latitude": 35.507593,
+      "longitude": 27.211923
+    },
+    {
+      "name": "Point of View - Mikri Prespa Lake",
+      "latitude": 40.750748,
+      "longitude": 21.177502
+    },
+    {
+      "name": "Pont Mycéné",
+      "latitude": 37.593659,
+      "longitude": 22.937529
+    },
+    {
+      "name": "Pontikokastro",
+      "latitude": 36.616232,
+      "longitude": 27.844736
+    },
+    {
+      "name": "Pori",
+      "latitude": 36.864796,
+      "longitude": 25.53849
+    },
+    {
+      "name": "Porta sul mar Egeo",
+      "latitude": 36.349943,
+      "longitude": 25.405056
+    },
+    {
+      "name": "Posto del' Pozzatto",
+      "latitude": 37.789696,
+      "longitude": 20.889335
+    },
+    {
+      "name": "Red House",
+      "latitude": 40.633307,
+      "longitude": 22.945501
+    },
+    {
+      "name": "Rivellino Ambrosio Bembo",
+      "latitude": 37.78709,
+      "longitude": 20.890659
+    },
+    {
+      "name": "Rivellino dell' Aguilla",
+      "latitude": 37.78788,
+      "longitude": 20.888977
+    },
+    {
+      "name": "Rivellino Tre Porte",
+      "latitude": 37.789679,
+      "longitude": 20.892167
+    },
+    {
+      "name": "Robinson beach",
+      "latitude": 40.162428,
+      "longitude": 23.890946
+    },
+    {
+      "name": "Rock arch",
+      "latitude": 37.716747,
+      "longitude": 20.730019
+    },
+    {
+      "name": "rock in the water",
+      "latitude": 40.023821,
+      "longitude": 23.834467
+    },
+    {
+      "name": "Rock of Ages",
+      "latitude": 37.499574,
+      "longitude": 23.237361
+    },
+    {
+      "name": "Roman Aqueduct (ruins)",
+      "latitude": 37.412109,
+      "longitude": 22.683125
+    },
+    {
+      "name": "Roman Tombs",
+      "latitude": 35.171477,
+      "longitude": 24.998891
+    },
+    {
+      "name": "Rusty Anchor",
+      "latitude": 40.248785,
+      "longitude": 23.253327
+    },
+    {
+      "name": "Samaria Gorge (entrance)",
+      "latitude": 35.245342,
+      "longitude": 23.966123
+    },
+    {
+      "name": "Sarti sign",
+      "latitude": 40.094073,
+      "longitude": 23.97971
+    },
+    {
+      "name": "Seis Campanas de Megalochori",
+      "latitude": 36.377384,
+      "longitude": 25.432214
+    },
+    {
+      "name": "Ship propeller",
+      "latitude": 35.518046,
+      "longitude": 24.016051
+    },
+    {
+      "name": "Shipwreck",
+      "latitude": 36.788656,
+      "longitude": 25.756429
+    },
+    {
+      "name": "Shipwreck \"Nordland\"",
+      "latitude": 36.265526,
+      "longitude": 23.093623
+    },
+    {
+      "name": "Signal Transmission Telegraph",
+      "latitude": 37.789335,
+      "longitude": 20.893078
+    },
+    {
+      "name": "Sigri Castle",
+      "latitude": 39.210938,
+      "longitude": 25.850726
+    },
+    {
+      "name": "Site of Lord Byron's House",
+      "latitude": 38.119652,
+      "longitude": 20.538643
+    },
+    {
+      "name": "Snorkling Place",
+      "latitude": 35.518153,
+      "longitude": 24.000239
+    },
+    {
+      "name": "Sound of the sea",
+      "latitude": 37.265937,
+      "longitude": 23.159866
+    },
+    {
+      "name": "Sources thermales publiques",
+      "latitude": 38.852557,
+      "longitude": 23.046952
+    },
+    {
+      "name": "Spetses creek anchorage, Sperses",
+      "latitude": 37.262667,
+      "longitude": 23.165875
+    },
+    {
+      "name": "spiaggia",
+      "latitude": 38.195422,
+      "longitude": 20.740388
+    },
+    {
+      "name": "Spilia tou Floriou",
+      "latitude": 38.455701,
+      "longitude": 26.081438
+    },
+    {
+      "name": "Stavros beach",
+      "latitude": 35.591024,
+      "longitude": 24.095679
+    },
+    {
+      "name": "Stavros Lagune",
+      "latitude": 35.591489,
+      "longitude": 24.096861
+    },
+    {
+      "name": "Stenada 1,60 m (Imbros Gorge)",
+      "latitude": 35.229975,
+      "longitude": 24.163354
+    },
+    {
+      "name": "Stone Beach",
+      "latitude": 35.113753,
+      "longitude": 25.788362
+    },
+    {
+      "name": "Stone Chair",
+      "latitude": 37.751109,
+      "longitude": 20.937901
+    },
+    {
+      "name": "Strabismus the cat",
+      "latitude": 35.233739,
+      "longitude": 25.468718
+    },
+    {
+      "name": "The Paraschakis Family Olive oil Factory",
+      "latitude": 35.375869,
+      "longitude": 24.728413
+    },
+    {
+      "name": "Theo Stavro",
+      "latitude": 37.790145,
+      "longitude": 24.074693
+    },
+    {
+      "name": "Theofilos Tree Cave",
+      "latitude": 39.11919,
+      "longitude": 26.388478
+    },
+    {
+      "name": "Throne of Helios",
+      "latitude": 36.449828,
+      "longitude": 28.224348
+    },
+    {
+      "name": "TihioRace",
+      "latitude": 38.486018,
+      "longitude": 22.001427
+    },
+    {
+      "name": "Tinas kai Tinos paralía",
+      "latitude": 35.126083,
+      "longitude": 25.761037
+    },
+    {
+      "name": "Topolia Gorge",
+      "latitude": 35.419689,
+      "longitude": 23.689027
+    },
+    {
+      "name": "Trackless train to Paralia",
+      "latitude": 40.239912,
+      "longitude": 22.587791
+    },
+    {
+      "name": "Triple Gauge Railway",
+      "latitude": 39.356107,
+      "longitude": 22.955384
+    },
+    {
+      "name": "Tripoint",
+      "latitude": 40.801447,
+      "longitude": 20.984286
+    },
+    {
+      "name": "Tunnel",
+      "latitude": 36.2541,
+      "longitude": 28.113744
+    },
+    {
+      "name": "Turkey - Greece - Bulgaria Border Crossing",
+      "latitude": 41.711128,
+      "longitude": 26.357961
+    },
+    {
+      "name": "Turtle feeding point",
+      "latitude": 37.715493,
+      "longitude": 20.863755
+    },
+    {
+      "name": "Turtle Pool",
+      "latitude": 40.001479,
+      "longitude": 23.506822
+    },
+    {
+      "name": "Túnnel of Eupalinos",
+      "latitude": 37.694674,
+      "longitude": 26.929952
+    },
+    {
+      "name": "Türkiye'ye Hoşgeldiniz",
+      "latitude": 40.929006,
+      "longitude": 26.335533
+    },
+    {
+      "name": "Vassilakis Estate",
+      "latitude": 35.261616,
+      "longitude": 25.59828
+    },
+    {
+      "name": "Venetian Fountain",
+      "latitude": 35.494976,
+      "longitude": 23.655404
+    },
+    {
+      "name": "Venetian house",
+      "latitude": 35.209493,
+      "longitude": 26.105963
+    },
+    {
+      "name": "Venezian bridge",
+      "latitude": 39.322401,
+      "longitude": 21.796308
+    },
+    {
+      "name": "Volkan \"photo spot\"",
+      "latitude": 36.416443,
+      "longitude": 25.434286
+    },
+    {
+      "name": "Vradeto stairs",
+      "latitude": 39.894056,
+      "longitude": 20.785689
+    },
+    {
+      "name": "War Museum",
+      "latitude": 37.127344,
+      "longitude": 26.83963
+    },
+    {
+      "name": "washingplace",
+      "latitude": 35.425675,
+      "longitude": 23.678626
+    },
+    {
+      "name": "Water Action",
+      "latitude": 37.579058,
+      "longitude": 24.280224
+    },
+    {
+      "name": "Water Sports",
+      "latitude": 39.148184,
+      "longitude": 23.400595
+    },
+    {
+      "name": "Wind mill",
+      "latitude": 38.400426,
+      "longitude": 26.135522
+    },
+    {
+      "name": "windmill",
+      "latitude": 39.046849,
+      "longitude": 26.503152
+    },
+    {
+      "name": "Windmill",
+      "latitude": 39.865424,
+      "longitude": 25.144327
+    },
+    {
+      "name": "Winery Chatzigeorgiou",
+      "latitude": 39.939193,
+      "longitude": 25.234726
+    },
+    {
+      "name": "Wooden Boat",
+      "latitude": 36.423937,
+      "longitude": 25.428175
+    },
+    {
+      "name": "Wooden Bridge",
+      "latitude": 38.467188,
+      "longitude": 23.587058
+    },
+    {
+      "name": "WW II Tank",
+      "latitude": 39.993075,
+      "longitude": 25.149354
+    },
+    {
+      "name": "Zakynthos Sea Turtle Rescue & Information Centre",
+      "latitude": 37.709295,
+      "longitude": 20.986367
+    },
+    {
+      "name": "Άγιος Βλάσσης",
+      "latitude": 37.157424,
+      "longitude": 21.980736
+    },
+    {
+      "name": "Άγκυρα",
+      "latitude": 38.461212,
+      "longitude": 23.589587
+    },
+    {
+      "name": "Άγκυρα του Β' Παγκοσμίου Πολέμου από τη Σούγια",
+      "latitude": 35.248261,
+      "longitude": 23.810726
+    },
+    {
+      "name": "Άγρια γαϊδούρια Σομαλίας",
+      "latitude": 37.982107,
+      "longitude": 23.91026
+    },
+    {
+      "name": "Άκρα Απολλωνίας",
+      "latitude": 40.717849,
+      "longitude": 24.067199
+    },
+    {
+      "name": "Άλσος Αγίας Παρασκευής",
+      "latitude": 40.494342,
+      "longitude": 23.600662
+    },
+    {
+      "name": "άμφιθέατρον",
+      "latitude": 36.412083,
+      "longitude": 28.121468
+    },
+    {
+      "name": "Άνω Βουβές",
+      "latitude": 35.486759,
+      "longitude": 23.786832
+    },
+    {
+      "name": "Άνω Λεχώνια",
+      "latitude": 39.325471,
+      "longitude": 23.053841
+    },
+    {
+      "name": "Άνω Μπέλιτσα",
+      "latitude": 41.312448,
+      "longitude": 23.552088
+    },
+    {
+      "name": "Έγκοιλο Χάος",
+      "latitude": 37.720562,
+      "longitude": 24.021804
+    },
+    {
+      "name": "έξοδος σήραγγας Ουζουντζά",
+      "latitude": 41.137692,
+      "longitude": 23.617258
+    },
+    {
+      "name": "Έξυνπο Παγκάκι Ο.Λ.Ν.Ε.",
+      "latitude": 38.466233,
+      "longitude": 23.592908
+    },
+    {
+      "name": "Έπαυλη Αγγίστας",
+      "latitude": 40.980382,
+      "longitude": 23.963851
+    },
+    {
+      "name": "Έπαυλη Μοδιάνο",
+      "latitude": 40.610146,
+      "longitude": 22.952124
+    },
+    {
+      "name": "Έρια",
+      "latitude": 38.57273,
+      "longitude": 23.74639
+    },
+    {
+      "name": "Αγ. Αναργυρων",
+      "latitude": 40.312794,
+      "longitude": 24.237428
+    },
+    {
+      "name": "Αγ. Αποστόλοι",
+      "latitude": 39.625413,
+      "longitude": 19.921363
+    },
+    {
+      "name": "Αγ. Γρηγόριος Παλαμάς",
+      "latitude": 40.31335,
+      "longitude": 24.203963
+    },
+    {
+      "name": "Αγ. Πατέρες",
+      "latitude": 39.62443,
+      "longitude": 19.920466
+    },
+    {
+      "name": "Αγία Σοφία",
+      "latitude": 36.149469,
+      "longitude": 23.01851
+    },
+    {
+      "name": "Αγία Φωτεινή",
+      "latitude": 35.211281,
+      "longitude": 25.421884
+    },
+    {
+      "name": "Αγλίστρες Δοτσικού",
+      "latitude": 40.113616,
+      "longitude": 21.137129
+    },
+    {
+      "name": "Αδαμάντιος Κοραής",
+      "latitude": 41.234926,
+      "longitude": 23.389832
+    },
+    {
+      "name": "Αθηναϊκή Λέσχη-Athens Club",
+      "latitude": 37.978188,
+      "longitude": 23.734592
+    },
+    {
+      "name": "Ακροκόρινθος",
+      "latitude": 37.890684,
+      "longitude": 22.86965
+    },
+    {
+      "name": "Ακρωτήρι Λευκάδας",
+      "latitude": 38.561513,
+      "longitude": 20.541684
+    },
+    {
+      "name": "Ακρωτήριο Ταίναρο",
+      "latitude": 36.385489,
+      "longitude": 22.483137
+    },
+    {
+      "name": "Αλώνι",
+      "latitude": 37.727334,
+      "longitude": 23.485496
+    },
+    {
+      "name": "αλώνι (threshing floor)",
+      "latitude": 35.38435,
+      "longitude": 23.665032
+    },
+    {
+      "name": "αλώνι (threshing floor)",
+      "latitude": 35.406041,
+      "longitude": 23.680446
+    },
+    {
+      "name": "αλώνι (threshing floor)",
+      "latitude": 35.406568,
+      "longitude": 23.681601
+    },
+    {
+      "name": "αλώνι (threshing floor)",
+      "latitude": 35.412625,
+      "longitude": 23.664624
+    },
+    {
+      "name": "Αμμόλοφοι",
+      "latitude": 39.992599,
+      "longitude": 25.143602
+    },
+    {
+      "name": "Αμύγδαλα Σπαστήρας",
+      "latitude": 40.960446,
+      "longitude": 23.423327
+    },
+    {
+      "name": "Ανάβατος",
+      "latitude": 38.402079,
+      "longitude": 26.020204
+    },
+    {
+      "name": "Ανάγλυφο Ιππέα",
+      "latitude": 37.632328,
+      "longitude": 22.719247
+    },
+    {
+      "name": "Ανάγλυφο Μίθρα",
+      "latitude": 41.350753,
+      "longitude": 24.992142
+    },
+    {
+      "name": "Ανάκτορο Οδυσσέα",
+      "latitude": 38.460536,
+      "longitude": 20.637759
+    },
+    {
+      "name": "Αναρριχητικό πεδίο Μύτικας-Καμπλάφκα Αιτωλοακαρνανίας",
+      "latitude": 38.672182,
+      "longitude": 20.924015
+    },
+    {
+      "name": "Ανατολικός Πύργος Καραϊσκάκη",
+      "latitude": 38.749854,
+      "longitude": 21.657301
+    },
+    {
+      "name": "Ανεμόμυλοι στο Μανδράκι",
+      "latitude": 36.448965,
+      "longitude": 28.227967
+    },
+    {
+      "name": "Ανεμόμυλος Μεσολογγίου",
+      "latitude": 38.363638,
+      "longitude": 21.426329
+    },
+    {
+      "name": "Αννουντσιάτα",
+      "latitude": 39.62382,
+      "longitude": 19.921546
+    },
+    {
+      "name": "Αντιαεροπορικό Καταφύγιο",
+      "latitude": 37.996414,
+      "longitude": 23.734922
+    },
+    {
+      "name": "Αντιαεροπορικό καταφύγιο ΠΙΚΠΑ",
+      "latitude": 37.851297,
+      "longitude": 23.745941
+    },
+    {
+      "name": "Αντλησιοταμίευση Αμφιλοχίας",
+      "latitude": 38.873421,
+      "longitude": 21.444018
+    },
+    {
+      "name": "Αντλησιοταμίευση Αμφιλοχίας",
+      "latitude": 38.902758,
+      "longitude": 21.453081
+    },
+    {
+      "name": "Απολιθωμένο Δάσος Λευκίμμης",
+      "latitude": 41.023221,
+      "longitude": 26.209853
+    },
+    {
+      "name": "Αποπλύστρα",
+      "latitude": 35.101842,
+      "longitude": 24.562424
+    },
+    {
+      "name": "Αρπακτικά πουλιά",
+      "latitude": 37.980981,
+      "longitude": 23.910238
+    },
+    {
+      "name": "Αρχαία Πηγάδια - Δεξαμενές Νερού",
+      "latitude": 39.354382,
+      "longitude": 22.975518
+    },
+    {
+      "name": "Αρχαίες Κρήνες",
+      "latitude": 38.912668,
+      "longitude": 21.164647
+    },
+    {
+      "name": "Αρχαίες Όλπες",
+      "latitude": 38.951512,
+      "longitude": 21.144094
+    },
+    {
+      "name": "Αρχαίο θέατρο",
+      "latitude": 37.618687,
+      "longitude": 22.393216
+    },
+    {
+      "name": "Αρχαίο Υδραγωγείο Χαλιδούς",
+      "latitude": 37.930647,
+      "longitude": 23.836385
+    },
+    {
+      "name": "Αρχαιολογικός Χώρος Διοκλητιανούπολης",
+      "latitude": 40.463945,
+      "longitude": 21.25222
+    },
+    {
+      "name": "Αρχαιολογικός Χώρος Διοκλητιανούπολης",
+      "latitude": 40.469388,
+      "longitude": 21.256405
+    },
+    {
+      "name": "Αρχαιολογικός Χώρος Μένδης",
+      "latitude": 39.963031,
+      "longitude": 23.421514
+    },
+    {
+      "name": "Αρχαϊκή Κρηνή",
+      "latitude": 37.971024,
+      "longitude": 23.726058
+    },
+    {
+      "name": "Αρχοντικό \"Τομπάζη\"",
+      "latitude": 38.810511,
+      "longitude": 23.369085
+    },
+    {
+      "name": "Αρχοντικό Αποστόλου Ζούζουλα",
+      "latitude": 38.066691,
+      "longitude": 22.656609
+    },
+    {
+      "name": "Αρχοντικό Δόλγκηρα",
+      "latitude": 40.258631,
+      "longitude": 21.549667
+    },
+    {
+      "name": "Αρχοντικό Κουγιουμτζόγλου-Καλούδη",
+      "latitude": 41.143336,
+      "longitude": 24.887721
+    },
+    {
+      "name": "Αρχοντικό Λογοθέτη",
+      "latitude": 37.975214,
+      "longitude": 23.725232
+    },
+    {
+      "name": "Αρχοντικό Πούλκως",
+      "latitude": 40.252223,
+      "longitude": 21.556738
+    },
+    {
+      "name": "Αρχοντικό Σαράφογλου",
+      "latitude": 40.521591,
+      "longitude": 22.203752
+    },
+    {
+      "name": "Ασιατικοί ελέφαντες",
+      "latitude": 37.982776,
+      "longitude": 23.908515
+    },
+    {
+      "name": "Ασκηταριά Πυθίου - Σπήλαιο Τσακαλόπετρας",
+      "latitude": 40.072535,
+      "longitude": 22.239749
+    },
+    {
+      "name": "Αστρονομικός Σταθμός Πεντέλης",
+      "latitude": 38.048392,
+      "longitude": 23.864297
+    },
+    {
+      "name": "Ατμομηχανή",
+      "latitude": 37.565521,
+      "longitude": 22.802286
+    },
+    {
+      "name": "Αφρικανική σαβάνα",
+      "latitude": 37.980093,
+      "longitude": 23.908765
+    },
+    {
+      "name": "Αφρικανική σαβάνα",
+      "latitude": 37.980191,
+      "longitude": 23.907773
+    },
+    {
+      "name": "Αχάια Κλάους",
+      "latitude": 38.196974,
+      "longitude": 21.771175
+    },
+    {
+      "name": "Αχέρων Ποταμός - Πηγές Αχέροντα",
+      "latitude": 39.326972,
+      "longitude": 20.625024
+    },
+    {
+      "name": "Αψίδα βράχου",
+      "latitude": 38.842904,
+      "longitude": 23.463266
+    },
+    {
+      "name": "Βάθεια",
+      "latitude": 36.453488,
+      "longitude": 22.466843
+    },
+    {
+      "name": "Βάθρες Κεφαλοπόταμου Γοργογυρίου",
+      "latitude": 39.550572,
+      "longitude": 21.571947
+    },
+    {
+      "name": "Βάραθρο Αστερίου",
+      "latitude": 37.974752,
+      "longitude": 23.811961
+    },
+    {
+      "name": "Βάραθρο Επτάστομος",
+      "latitude": 38.559558,
+      "longitude": 22.490637
+    },
+    {
+      "name": "Βάραθρο Θρακιά Σταυρού",
+      "latitude": 37.912368,
+      "longitude": 23.795932
+    },
+    {
+      "name": "Βάραθρο Νταβέλη",
+      "latitude": 38.204436,
+      "longitude": 23.772931
+    },
+    {
+      "name": "Βάραθρο Συκιάς",
+      "latitude": 37.859289,
+      "longitude": 23.797076
+    },
+    {
+      "name": "Βίλα Ουρανία",
+      "latitude": 38.037827,
+      "longitude": 23.687348
+    },
+    {
+      "name": "Βίλα Τουρκοβασίλη",
+      "latitude": 37.50545,
+      "longitude": 22.368023
+    },
+    {
+      "name": "Βορειότερο Σημείο Ελλάδας",
+      "latitude": 41.748726,
+      "longitude": 26.173823
+    },
+    {
+      "name": "Βουλή των Ελλήνων",
+      "latitude": 37.975203,
+      "longitude": 23.737021
+    },
+    {
+      "name": "Βουλισμένο Αλώνι",
+      "latitude": 35.330144,
+      "longitude": 25.018068
+    },
+    {
+      "name": "Βούκεροι",
+      "latitude": 37.981829,
+      "longitude": 23.908699
+    },
+    {
+      "name": "Βραχοανάγλυφα",
+      "latitude": 41.013455,
+      "longitude": 24.28631
+    },
+    {
+      "name": "Βραχογραφίες",
+      "latitude": 41.099039,
+      "longitude": 23.821192
+    },
+    {
+      "name": "Βρετανικό Νεκροταφείο",
+      "latitude": 39.618857,
+      "longitude": 19.916605
+    },
+    {
+      "name": "Βυζαντινά Τείχη",
+      "latitude": 40.517945,
+      "longitude": 21.268412
+    },
+    {
+      "name": "Βυζαντινά Τείχη",
+      "latitude": 40.518017,
+      "longitude": 21.266542
+    },
+    {
+      "name": "Βυζαντινά Τείχη",
+      "latitude": 40.520702,
+      "longitude": 21.263435
+    },
+    {
+      "name": "Βυζαντινά τείχη",
+      "latitude": 40.522108,
+      "longitude": 21.263789
+    },
+    {
+      "name": "Βυζαντινά Τείχη",
+      "latitude": 40.522419,
+      "longitude": 21.264533
+    },
+    {
+      "name": "Βυζαντινή Γέφυρα",
+      "latitude": 41.141129,
+      "longitude": 25.210642
+    },
+    {
+      "name": "Βυζαντινός Ναός",
+      "latitude": 37.298452,
+      "longitude": 21.943621
+    },
+    {
+      "name": "Βυζαντινός ναός του Αγ.Νικολάου",
+      "latitude": 38.618174,
+      "longitude": 23.736813
+    },
+    {
+      "name": "Βυζανττινός Ναός Αγ. Αθανασίου",
+      "latitude": 37.257436,
+      "longitude": 21.93244
+    },
+    {
+      "name": "Γέφυρα Αγίου Βησσαρίωνος",
+      "latitude": 39.669119,
+      "longitude": 21.633124
+    },
+    {
+      "name": "Γέφυρα Αχέροντα",
+      "latitude": 39.33184,
+      "longitude": 20.636984
+    },
+    {
+      "name": "Γέφυρα Κάιζερ (Γουλιέλμου Β΄)",
+      "latitude": 39.563433,
+      "longitude": 19.91045
+    },
+    {
+      "name": "Γέφυρα ΚΟΣΚΟ",
+      "latitude": 38.015112,
+      "longitude": 23.625114
+    },
+    {
+      "name": "Γέφυρα Ντάλα",
+      "latitude": 39.331831,
+      "longitude": 20.637002
+    },
+    {
+      "name": "Γέφυρα Παλαιοκαμάριζας",
+      "latitude": 37.753661,
+      "longitude": 24.029921
+    },
+    {
+      "name": "Γέφυρα ρέματος Ταξιάρχη (Ντε Κίρικο)",
+      "latitude": 39.327474,
+      "longitude": 23.137701
+    },
+    {
+      "name": "Γέφυρα Σίμα",
+      "latitude": 35.303432,
+      "longitude": 24.533564
+    },
+    {
+      "name": "Γέφυρα του Ψύρρα",
+      "latitude": 39.824116,
+      "longitude": 21.695032
+    },
+    {
+      "name": "Γέφυρες Γαλλικής Εταιρείας",
+      "latitude": 37.722434,
+      "longitude": 24.052369
+    },
+    {
+      "name": "Γίββωνας",
+      "latitude": 37.981556,
+      "longitude": 23.910674
+    },
+    {
+      "name": "Γαιδουρόδρομος",
+      "latitude": 37.638226,
+      "longitude": 25.038843
+    },
+    {
+      "name": "Γαλάζιο Σπήλαιο",
+      "latitude": 36.125865,
+      "longitude": 29.579036
+    },
+    {
+      "name": "Γαλλική Σκάλα",
+      "latitude": 37.713225,
+      "longitude": 24.060024
+    },
+    {
+      "name": "Γενί Τζαμί",
+      "latitude": 39.110369,
+      "longitude": 26.55773
+    },
+    {
+      "name": "Γερμανικό Πηγάδι",
+      "latitude": 40.033045,
+      "longitude": 25.445899
+    },
+    {
+      "name": "Γερμανικό Πολυβολείο",
+      "latitude": 36.797482,
+      "longitude": 22.613406
+    },
+    {
+      "name": "Γερολιμνιώνας-Πόρτο Λεόνε",
+      "latitude": 38.598539,
+      "longitude": 20.883985
+    },
+    {
+      "name": "γεφυρά",
+      "latitude": 41.220801,
+      "longitude": 24.520426
+    },
+    {
+      "name": "Γεφύρι Βράγγαλη",
+      "latitude": 39.846099,
+      "longitude": 20.962288
+    },
+    {
+      "name": "Γεφύρι Γκούρας Τρίστενου",
+      "latitude": 39.779406,
+      "longitude": 20.980313
+    },
+    {
+      "name": "Γεφύρι Κλειδωνιάς",
+      "latitude": 39.967823,
+      "longitude": 20.663379
+    },
+    {
+      "name": "Γεφύρι Κόνιτσας",
+      "latitude": 40.036365,
+      "longitude": 20.745142
+    },
+    {
+      "name": "Γεφύρι Λάκκου Πασά",
+      "latitude": 39.767338,
+      "longitude": 20.865409
+    },
+    {
+      "name": "Γεφύρι Λα Πουντίκα",
+      "latitude": 39.931543,
+      "longitude": 21.047839
+    },
+    {
+      "name": "Γεφύρι Μίσιου",
+      "latitude": 39.869463,
+      "longitude": 20.764377
+    },
+    {
+      "name": "Γεφύρι Μονόπορης",
+      "latitude": 37.571711,
+      "longitude": 22.044216
+    },
+    {
+      "name": "Γεφύρι Μπογδάνη",
+      "latitude": 39.850823,
+      "longitude": 20.883912
+    },
+    {
+      "name": "Γεφύρι Ομολίου",
+      "latitude": 39.901418,
+      "longitude": 22.631577
+    },
+    {
+      "name": "Γεφύρι Πάτι",
+      "latitude": 39.818213,
+      "longitude": 20.960266
+    },
+    {
+      "name": "Γεφύρι Παραγαλίου",
+      "latitude": 38.552445,
+      "longitude": 23.714388
+    },
+    {
+      "name": "Γεφύρι Πετσιώνη Φραγγάδων",
+      "latitude": 39.821022,
+      "longitude": 20.882599
+    },
+    {
+      "name": "Γεφύρι Πλακίδα (Καλογερικό)",
+      "latitude": 39.861696,
+      "longitude": 20.786338
+    },
+    {
+      "name": "Γεφύρι Ρουστιάρας",
+      "latitude": 39.820378,
+      "longitude": 20.872928
+    },
+    {
+      "name": "Γεφύρι στα Αμπέλια",
+      "latitude": 39.769162,
+      "longitude": 20.870131
+    },
+    {
+      "name": "Γεφύρι Στη Φτέρη",
+      "latitude": 39.766401,
+      "longitude": 20.870689
+    },
+    {
+      "name": "Γεφύρι Στις Τρείς Βρύσες",
+      "latitude": 39.823354,
+      "longitude": 20.914658
+    },
+    {
+      "name": "Γεφύρι Στο Γυφτόλακκο",
+      "latitude": 39.74352,
+      "longitude": 20.913741
+    },
+    {
+      "name": "Γεφύρι στο Ελατοχώρι προς Φλαμπουράρι",
+      "latitude": 39.860009,
+      "longitude": 20.976948
+    },
+    {
+      "name": "Γεφύρι στο Παρθένι",
+      "latitude": 39.862394,
+      "longitude": 20.9703
+    },
+    {
+      "name": "Γεφύρι Στο Σιώπατο",
+      "latitude": 39.765387,
+      "longitude": 20.864936
+    },
+    {
+      "name": "Γεφύρι στον Άγιο Νικόλαο",
+      "latitude": 39.860344,
+      "longitude": 20.972049
+    },
+    {
+      "name": "Γεφύρι Στον Ποταμό",
+      "latitude": 39.832124,
+      "longitude": 20.90753
+    },
+    {
+      "name": "Γεφύρι της Βωβούσας",
+      "latitude": 39.936961,
+      "longitude": 21.049069
+    },
+    {
+      "name": "Γεφύρι Της Γκάνας (Ερείπια)",
+      "latitude": 39.750512,
+      "longitude": 20.920982
+    },
+    {
+      "name": "Γεφύρι της Γκαλντερούσιας",
+      "latitude": 39.778859,
+      "longitude": 20.95364
+    },
+    {
+      "name": "Γεφύρι Της Κούρτιας",
+      "latitude": 39.815654,
+      "longitude": 20.975136
+    },
+    {
+      "name": "Γεφύρι Της Τσίπιανης",
+      "latitude": 39.768457,
+      "longitude": 20.960114
+    },
+    {
+      "name": "Γεφύρι Του Αγίου Μηνά",
+      "latitude": 39.869521,
+      "longitude": 20.96976
+    },
+    {
+      "name": "Γεφύρι Του Αη Γιάννη",
+      "latitude": 39.835317,
+      "longitude": 20.866455
+    },
+    {
+      "name": "Γεφύρι Του Αντρέα",
+      "latitude": 39.746872,
+      "longitude": 20.908787
+    },
+    {
+      "name": "Γεφύρι Του Κουτσολιάκου",
+      "latitude": 39.774434,
+      "longitude": 20.875221
+    },
+    {
+      "name": "Γεφύρι Του Λώλη",
+      "latitude": 39.765427,
+      "longitude": 20.86564
+    },
+    {
+      "name": "Γεφύρι Του Μανώλη",
+      "latitude": 38.978921,
+      "longitude": 21.561868
+    },
+    {
+      "name": "Γεφύρι Του Τρίστενου",
+      "latitude": 39.792017,
+      "longitude": 21.004838
+    },
+    {
+      "name": "Γεφύρι Του Τόσκα",
+      "latitude": 39.740441,
+      "longitude": 20.916563
+    },
+    {
+      "name": "Γεφύρι Τσάμη",
+      "latitude": 39.812576,
+      "longitude": 20.912463
+    },
+    {
+      "name": "Γεφύρι Χαμ Στη Θέση Σλίβα",
+      "latitude": 39.797181,
+      "longitude": 20.938826
+    },
+    {
+      "name": "Γεφύρι Χατζή Σουμάνη",
+      "latitude": 37.274786,
+      "longitude": 21.766006
+    },
+    {
+      "name": "Γιγάντιος Μυρμηγκοφάγος",
+      "latitude": 37.980194,
+      "longitude": 23.90997
+    },
+    {
+      "name": "Γιγαντιαία χελώνα",
+      "latitude": 37.981064,
+      "longitude": 23.907382
+    },
+    {
+      "name": "Γιδοσπηλιά",
+      "latitude": 37.943224,
+      "longitude": 23.793447
+    },
+    {
+      "name": "Γιορτή Λύκου",
+      "latitude": 39.111468,
+      "longitude": 21.338575
+    },
+    {
+      "name": "Γιορτή Προβατίνας ποταμού Αλευρά Νήσσας",
+      "latitude": 38.803044,
+      "longitude": 21.038985
+    },
+    {
+      "name": "Γκιόλα",
+      "latitude": 40.586283,
+      "longitude": 24.67849
+    },
+    {
+      "name": "Γραφεία ορυχείων Νίκου Καζαντζάκη",
+      "latitude": 36.856437,
+      "longitude": 22.263092
+    },
+    {
+      "name": "Γυαλί Τζαμισί",
+      "latitude": 35.517362,
+      "longitude": 24.017794
+    },
+    {
+      "name": "Γόννοι-Μεθοριακό Συνοριακό φυλάκιο 1881-1912",
+      "latitude": 39.859007,
+      "longitude": 22.464013
+    },
+    {
+      "name": "Γόννοι-Μεθοριακό Συνοριακό φυλάκιο 1881-1912",
+      "latitude": 39.863252,
+      "longitude": 22.462856
+    },
+    {
+      "name": "Δάσος Αείφυλλων Πλατύφυλλων",
+      "latitude": 36.775325,
+      "longitude": 21.703408
+    },
+    {
+      "name": "Δάχτυλο του Ποσειδώνα",
+      "latitude": 37.842761,
+      "longitude": 20.626592
+    },
+    {
+      "name": "Δέντρο χαράς και λύπης - Δέντρο Χαρμολύπης",
+      "latitude": 36.30258,
+      "longitude": 22.966652
+    },
+    {
+      "name": "Δίδυμο Οθωμανικό Λουτρό",
+      "latitude": 39.550979,
+      "longitude": 21.770087
+    },
+    {
+      "name": "Δίδυμοι Ναοί - Τέρια",
+      "latitude": 36.659846,
+      "longitude": 22.979501
+    },
+    {
+      "name": "Δίτοξη λιθόκτιστη γέφυρα",
+      "latitude": 39.322935,
+      "longitude": 23.093026
+    },
+    {
+      "name": "Δεύτερο Γεφύρι Μπεούτες",
+      "latitude": 39.818439,
+      "longitude": 20.910693
+    },
+    {
+      "name": "Δημαρχείο Ρόδου",
+      "latitude": 36.451312,
+      "longitude": 28.223906
+    },
+    {
+      "name": "Δημοτική Καπναποθήκη Καβάλας",
+      "latitude": 40.938374,
+      "longitude": 24.40937
+    },
+    {
+      "name": "Δημοτικό Ωδείο Καβάλας",
+      "latitude": 40.936539,
+      "longitude": 24.403087
+    },
+    {
+      "name": "Διδακτήριο",
+      "latitude": 40.202109,
+      "longitude": 21.187172
+    },
+    {
+      "name": "Διδακτήριο Κορυφής",
+      "latitude": 40.192381,
+      "longitude": 21.230663
+    },
+    {
+      "name": "Διονυσίου Αρεοπαγίτου",
+      "latitude": 37.969673,
+      "longitude": 23.731386
+    },
+    {
+      "name": "Διπλή οικία Χατζή",
+      "latitude": 40.836564,
+      "longitude": 23.208136
+    },
+    {
+      "name": "Διώρυγα Κορίνθου",
+      "latitude": 37.928849,
+      "longitude": 22.992097
+    },
+    {
+      "name": "Δολίνη Κεχρωτής",
+      "latitude": 37.660062,
+      "longitude": 22.226375
+    },
+    {
+      "name": "Δράκος Κομόντο",
+      "latitude": 37.981229,
+      "longitude": 23.907452
+    },
+    {
+      "name": "Δύο Εκκλησιές",
+      "latitude": 39.037609,
+      "longitude": 26.142391
+    },
+    {
+      "name": "Δύο πελώρια παραλίμνια δέντρα",
+      "latitude": 41.187926,
+      "longitude": 23.110249
+    },
+    {
+      "name": "Είσοδος Μαυσωλείου",
+      "latitude": 41.092103,
+      "longitude": 23.558953
+    },
+    {
+      "name": "είσοδος σήραγγας Ουζουντζά",
+      "latitude": 41.189639,
+      "longitude": 23.644549
+    },
+    {
+      "name": "Εβραϊκή",
+      "latitude": 39.624028,
+      "longitude": 19.919222
+    },
+    {
+      "name": "Εγκαταλελημένο εκτροφείο ψαριών ποταμού Νήσσας-Αλευρά",
+      "latitude": 38.829758,
+      "longitude": 21.037971
+    },
+    {
+      "name": "Ελέφαντας",
+      "latitude": 34.929722,
+      "longitude": 24.928975
+    },
+    {
+      "name": "Ελιά Βουβών",
+      "latitude": 35.486859,
+      "longitude": 23.7868
+    },
+    {
+      "name": "Ελιά Πεισίστρατου",
+      "latitude": 38.026502,
+      "longitude": 23.718937
+    },
+    {
+      "name": "Ενετική Υδατογέφυρα",
+      "latitude": 37.908231,
+      "longitude": 22.82135
+    },
+    {
+      "name": "Εξώμβουργο",
+      "latitude": 37.577537,
+      "longitude": 25.167858
+    },
+    {
+      "name": "επιγραφή Περίπατου",
+      "latitude": 37.972351,
+      "longitude": 23.727298
+    },
+    {
+      "name": "Επτά Πηγές",
+      "latitude": 36.253833,
+      "longitude": 28.11347
+    },
+    {
+      "name": "Ερείπια 1",
+      "latitude": 41.53078,
+      "longitude": 24.51316
+    },
+    {
+      "name": "Ερείπια Παλιού Αη Λιά",
+      "latitude": 38.65209,
+      "longitude": 22.430697
+    },
+    {
+      "name": "Ερπετά",
+      "latitude": 37.98157,
+      "longitude": 23.908345
+    },
+    {
+      "name": "Ζάκρος",
+      "latitude": 35.114987,
+      "longitude": 26.211611
+    },
+    {
+      "name": "Ζυμβρακάκηδων",
+      "latitude": 35.292362,
+      "longitude": 25.131618
+    },
+    {
+      "name": "Η γέφυρα του Κερίτη",
+      "latitude": 35.455505,
+      "longitude": 23.919312
+    },
+    {
+      "name": "Η Ελιά του Αγίου Προκοπίου",
+      "latitude": 39.571559,
+      "longitude": 19.874961
+    },
+    {
+      "name": "Ηλιοβασίλεμα Μπούκας",
+      "latitude": 38.925582,
+      "longitude": 21.140184
+    },
+    {
+      "name": "Ηρώον Μαντινείας",
+      "latitude": 37.618261,
+      "longitude": 22.387752
+    },
+    {
+      "name": "Ηφαίστειο Νισύρου",
+      "latitude": 36.579483,
+      "longitude": 27.167625
+    },
+    {
+      "name": "Θέση Παλαιό Αεροδρόμιο Σαραντάπηχο (ερείπια)",
+      "latitude": 38.033722,
+      "longitude": 22.374286
+    },
+    {
+      "name": "θαλασσοσπηλιά της Παναγιάς της Μεγαλομάτας",
+      "latitude": 39.390935,
+      "longitude": 23.193093
+    },
+    {
+      "name": "Θείου Πισίνες",
+      "latitude": 40.105051,
+      "longitude": 20.706417
+    },
+    {
+      "name": "Θρόνος του Οδυσσέα",
+      "latitude": 38.054985,
+      "longitude": 23.678948
+    },
+    {
+      "name": "ΘΥΡΟΦΡΑΓΜΑ ''ΠΥΡΓΟΣ''- Αντλησιοταμίευση Αμφιλοχίας",
+      "latitude": 38.871371,
+      "longitude": 21.428134
+    },
+    {
+      "name": "Ιαγουάρος",
+      "latitude": 37.979228,
+      "longitude": 23.909298
+    },
+    {
+      "name": "Ιαματικά Λουτρά Άγκιστρου",
+      "latitude": 41.367836,
+      "longitude": 23.427678
+    },
+    {
+      "name": "Ιερά Μονή Παναγίας Κολοκοτρώνη",
+      "latitude": 37.453001,
+      "longitude": 22.163484
+    },
+    {
+      "name": "Ιερό Αρτέμιδος Ορθίας",
+      "latitude": 37.082754,
+      "longitude": 22.435231
+    },
+    {
+      "name": "Ιερό της Θέμιδος",
+      "latitude": 37.970973,
+      "longitude": 23.726052
+    },
+    {
+      "name": "Ιερό των Μυροφόρων",
+      "latitude": 39.083334,
+      "longitude": 26.222214
+    },
+    {
+      "name": "Ιπποτών",
+      "latitude": 36.445029,
+      "longitude": 28.225454
+    },
+    {
+      "name": "Ιστορική Οικία Μιχαήλ Βόδα Σούτσου",
+      "latitude": 37.999034,
+      "longitude": 23.725808
+    },
+    {
+      "name": "Ιστορικό Πηγάδι Φυτειών",
+      "latitude": 38.658952,
+      "longitude": 21.186218
+    },
+    {
+      "name": "ΙΩΝΕΣ | Πολιτιστική Εστία Μικρασιατών Νέας Ιωνίας Μαγνησίας",
+      "latitude": 39.37473,
+      "longitude": 22.931977
+    },
+    {
+      "name": "Κάστρο Χίου",
+      "latitude": 38.373427,
+      "longitude": 26.136079
+    },
+    {
+      "name": "Κάτω Μύλοι",
+      "latitude": 37.444635,
+      "longitude": 25.325482
+    },
+    {
+      "name": "Κέδρος",
+      "latitude": 39.154784,
+      "longitude": 20.211419
+    },
+    {
+      "name": "Κέντρο Ελληνισμού Ιδρύματος Δαμιανού",
+      "latitude": 38.04592,
+      "longitude": 23.031238
+    },
+    {
+      "name": "Κέντρο Περιβαλλοντικής Εκπαίδευσης Αράχθου- Άρτας",
+      "latitude": 39.038704,
+      "longitude": 21.07425
+    },
+    {
+      "name": "Καβουρόπετρα",
+      "latitude": 37.770558,
+      "longitude": 23.454863
+    },
+    {
+      "name": "Καλογερικό",
+      "latitude": 40.781206,
+      "longitude": 24.71366
+    },
+    {
+      "name": "Καμήλες",
+      "latitude": 37.982266,
+      "longitude": 23.909898
+    },
+    {
+      "name": "Καμαρέλα",
+      "latitude": 35.870388,
+      "longitude": 23.283248
+    },
+    {
+      "name": "Καμηλοπάρδαλη",
+      "latitude": 37.979905,
+      "longitude": 23.908268
+    },
+    {
+      "name": "Κανάλι του Έρωτα",
+      "latitude": 39.797454,
+      "longitude": 19.698074
+    },
+    {
+      "name": "Κανόνι",
+      "latitude": 38.012836,
+      "longitude": 22.080435
+    },
+    {
+      "name": "Κανόνι",
+      "latitude": 39.591613,
+      "longitude": 19.917189
+    },
+    {
+      "name": "Κανόνια",
+      "latitude": 40.779047,
+      "longitude": 21.407354
+    },
+    {
+      "name": "Καποδιστριακό Ορφανοτροφείο",
+      "latitude": 37.74307,
+      "longitude": 23.433606
+    },
+    {
+      "name": "Καποδιστριακό Σχολείο Ζυγοβιστίου",
+      "latitude": 37.589114,
+      "longitude": 22.068733
+    },
+    {
+      "name": "Καρινιώτικο Φαράγγι",
+      "latitude": 35.248875,
+      "longitude": 24.511779
+    },
+    {
+      "name": "Καστανάς",
+      "latitude": 36.735128,
+      "longitude": 24.538326
+    },
+    {
+      "name": "Καταβόθρα",
+      "latitude": 36.793817,
+      "longitude": 22.924677
+    },
+    {
+      "name": "Καταβόθρα",
+      "latitude": 37.630208,
+      "longitude": 22.35221
+    },
+    {
+      "name": "Καταβόθρα",
+      "latitude": 38.556342,
+      "longitude": 22.490983
+    },
+    {
+      "name": "Καταβόθρα",
+      "latitude": 38.572481,
+      "longitude": 23.976535
+    },
+    {
+      "name": "Καταβόθρα",
+      "latitude": 38.585283,
+      "longitude": 23.943301
+    },
+    {
+      "name": "Καταβόθρα Σκούρτων",
+      "latitude": 38.213635,
+      "longitude": 23.519674
+    },
+    {
+      "name": "Καταβόθρες",
+      "latitude": 38.19417,
+      "longitude": 20.474115
+    },
+    {
+      "name": "Καταράκτες Νέδας",
+      "latitude": 37.397193,
+      "longitude": 21.820542
+    },
+    {
+      "name": "Καταρράκτες",
+      "latitude": 37.979743,
+      "longitude": 22.200419
+    },
+    {
+      "name": "Καταρράκτες Έδεσσας",
+      "latitude": 40.803812,
+      "longitude": 22.055219
+    },
+    {
+      "name": "Καταρράκτες Ελληνικού",
+      "latitude": 38.504918,
+      "longitude": 21.389948
+    },
+    {
+      "name": "Καταρράκτες Λάβας",
+      "latitude": 40.18435,
+      "longitude": 22.015484
+    },
+    {
+      "name": "Καταρράκτες Μπουλούβαρου",
+      "latitude": 39.876116,
+      "longitude": 21.249666
+    },
+    {
+      "name": "Καταρράκτες Ποταμιού",
+      "latitude": 37.782714,
+      "longitude": 26.671621
+    },
+    {
+      "name": "Καταρράκτες Ρουτσούνας",
+      "latitude": 37.1161,
+      "longitude": 25.499386
+    },
+    {
+      "name": "Καταρράκτης Δέση",
+      "latitude": 39.989261,
+      "longitude": 20.549982
+    },
+    {
+      "name": "Καταρράκτης Κλεισούρας",
+      "latitude": 38.513298,
+      "longitude": 21.381951
+    },
+    {
+      "name": "Καταρράκτης Λεπίδα",
+      "latitude": 41.387552,
+      "longitude": 24.620072
+    },
+    {
+      "name": "Καταρράκτης Μυλωνά",
+      "latitude": 35.035619,
+      "longitude": 25.844665
+    },
+    {
+      "name": "Καταρράκτης Πλατανιστού",
+      "latitude": 38.02493,
+      "longitude": 24.50965
+    },
+    {
+      "name": "Καταρράκτης της Νεράιδας ή Φόνισσας",
+      "latitude": 36.243976,
+      "longitude": 22.945129
+    },
+    {
+      "name": "Καταφύγιο Κυνηγετικού Συλλόγου Βόνιτσας",
+      "latitude": 38.757323,
+      "longitude": 20.976443
+    },
+    {
+      "name": "Κατοικίες οικογένειας Μιχάλογλου",
+      "latitude": 41.140961,
+      "longitude": 24.884865
+    },
+    {
+      "name": "Καφέ αρκούδα",
+      "latitude": 37.981809,
+      "longitude": 23.907905
+    },
+    {
+      "name": "Κεκλιμένη Στοά Αδριανείου Υδραγωγείου",
+      "latitude": 38.111063,
+      "longitude": 23.768204
+    },
+    {
+      "name": "Κεντρική πλατεία (πλατάνια)",
+      "latitude": 39.328289,
+      "longitude": 23.149393
+    },
+    {
+      "name": "Κεντρική Πλατεία Μελισσουργών",
+      "latitude": 39.507369,
+      "longitude": 21.148034
+    },
+    {
+      "name": "Κεφαλογέφυρο ή Κεφαλογιόφυρο",
+      "latitude": 38.473704,
+      "longitude": 21.903284
+    },
+    {
+      "name": "Κλέφτικο",
+      "latitude": 36.652223,
+      "longitude": 24.333031
+    },
+    {
+      "name": "Κλεψύδρα",
+      "latitude": 37.97442,
+      "longitude": 23.722452
+    },
+    {
+      "name": "Κλινική του Μπέσσα στο Μαχαιρά (Η θέση της πριν κατεδαφιστεί)",
+      "latitude": 38.634314,
+      "longitude": 21.150859
+    },
+    {
+      "name": "Κοάτι",
+      "latitude": 37.979357,
+      "longitude": 23.909963
+    },
+    {
+      "name": "Κοιλάδα Βίκου",
+      "latitude": 39.923228,
+      "longitude": 20.726292
+    },
+    {
+      "name": "Κοιλάδα των Νεράιδων",
+      "latitude": 38.660949,
+      "longitude": 21.731863
+    },
+    {
+      "name": "ΚΟΙΜΗΤΗΡΙΟ ΤΩΝ ΑΓΓΕΛΩΝ",
+      "latitude": 37.453327,
+      "longitude": 24.934122
+    },
+    {
+      "name": "Κοινοτικό Ωρολόγιο Καρυών",
+      "latitude": 37.289721,
+      "longitude": 22.500443
+    },
+    {
+      "name": "Κοκκινοπηλός Πρέβεζας",
+      "latitude": 39.256703,
+      "longitude": 20.843605
+    },
+    {
+      "name": "Κολούμπος Παραλία",
+      "latitude": 36.471203,
+      "longitude": 25.422228
+    },
+    {
+      "name": "Κολούμπος παραλία",
+      "latitude": 36.473846,
+      "longitude": 25.420412
+    },
+    {
+      "name": "Κονάκι Μουζαφέρ Μπέη",
+      "latitude": 41.141623,
+      "longitude": 24.884561
+    },
+    {
+      "name": "Κονάκι Προδρόμου",
+      "latitude": 39.375776,
+      "longitude": 21.978983
+    },
+    {
+      "name": "Κουρταλιώτικο Φαράγγι",
+      "latitude": 35.200042,
+      "longitude": 24.465798
+    },
+    {
+      "name": "Κρεμαστή σύρματα γέφυρα Καρέλι Στράνωμας",
+      "latitude": 38.545243,
+      "longitude": 21.747038
+    },
+    {
+      "name": "Κρυοπηγή",
+      "latitude": 40.033238,
+      "longitude": 23.472707
+    },
+    {
+      "name": "Κτήμα Καρρά",
+      "latitude": 40.80181,
+      "longitude": 23.996523
+    },
+    {
+      "name": "Κυπαρίσσι",
+      "latitude": 37.887056,
+      "longitude": 22.015558
+    },
+    {
+      "name": "Κωρύκειον Άντρο",
+      "latitude": 38.515921,
+      "longitude": 22.521527
+    },
+    {
+      "name": "Κωτσιοπουλος",
+      "latitude": 37.888477,
+      "longitude": 23.930012
+    },
+    {
+      "name": "Κόκκινη Παραλία",
+      "latitude": 36.348957,
+      "longitude": 25.393253
+    },
+    {
+      "name": "Κύθηρα",
+      "latitude": 36.149759,
+      "longitude": 22.98728
+    },
+    {
+      "name": "Κύλινδρος",
+      "latitude": 37.953216,
+      "longitude": 23.860531
+    },
+    {
+      "name": "Λίθινοι Σχηματισμοί Βώλαξ",
+      "latitude": 37.594149,
+      "longitude": 25.17708
+    },
+    {
+      "name": "Λίμνη Γκιτζη",
+      "latitude": 39.577958,
+      "longitude": 21.691544
+    },
+    {
+      "name": "Λίμνη Καπετάνου (Ζορίκα)",
+      "latitude": 39.828942,
+      "longitude": 21.012133
+    },
+    {
+      "name": "Λίμνη Κουρνά",
+      "latitude": 35.331323,
+      "longitude": 24.275817
+    },
+    {
+      "name": "Λίμνη πηγών Λούρου ποταμού",
+      "latitude": 39.432268,
+      "longitude": 20.84087
+    },
+    {
+      "name": "Λαογραφικό Σπίτι Σορωνης",
+      "latitude": 36.361748,
+      "longitude": 28.002021
+    },
+    {
+      "name": "Λεμούριοι",
+      "latitude": 37.980655,
+      "longitude": 23.906909
+    },
+    {
+      "name": "Λεοπάρδαλη της Περσίας",
+      "latitude": 37.979498,
+      "longitude": 23.908944
+    },
+    {
+      "name": "Λευκός Όρυξ",
+      "latitude": 37.979738,
+      "longitude": 23.907704
+    },
+    {
+      "name": "Λιθάρι του Αράπη",
+      "latitude": 37.534407,
+      "longitude": 22.845933
+    },
+    {
+      "name": "Λιοντάρι",
+      "latitude": 37.98738,
+      "longitude": 23.82973
+    },
+    {
+      "name": "Λιοντάρι της Ανγκόλας",
+      "latitude": 37.979998,
+      "longitude": 23.909531
+    },
+    {
+      "name": "Λιστόν",
+      "latitude": 39.624418,
+      "longitude": 19.923716
+    },
+    {
+      "name": "Λουτρά του Ταλαρά",
+      "latitude": 36.5796,
+      "longitude": 26.387198
+    },
+    {
+      "name": "Λουτρό Άλσος Ηρακλή",
+      "latitude": 38.745324,
+      "longitude": 22.279341
+    },
+    {
+      "name": "Λύκος",
+      "latitude": 37.981714,
+      "longitude": 23.907121
+    },
+    {
+      "name": "Μάρμαρα",
+      "latitude": 38.515664,
+      "longitude": 22.484172
+    },
+    {
+      "name": "Μάρμαρα Φρυκτωρία",
+      "latitude": 38.515585,
+      "longitude": 22.484146
+    },
+    {
+      "name": "Μάχη Πανάσσαρης",
+      "latitude": 38.6518,
+      "longitude": 22.430859
+    },
+    {
+      "name": "Μέγαρο Wix - Β' Δημαρχείο",
+      "latitude": 40.937932,
+      "longitude": 24.408323
+    },
+    {
+      "name": "Μέγαρο Τόκου",
+      "latitude": 40.937499,
+      "longitude": 24.407265
+    },
+    {
+      "name": "Μακάκος Συλβάνος",
+      "latitude": 37.979389,
+      "longitude": 23.909762
+    },
+    {
+      "name": "Μακάο",
+      "latitude": 37.980036,
+      "longitude": 23.910312
+    },
+    {
+      "name": "Μανιάρειος Σχολή",
+      "latitude": 39.852538,
+      "longitude": 22.555853
+    },
+    {
+      "name": "Μαυροελιά (Υπεραιωνόβια ελιά άνω των 2.500 ετών)",
+      "latitude": 39.01233,
+      "longitude": 23.231106
+    },
+    {
+      "name": "Μαυρόκυκνος",
+      "latitude": 37.980785,
+      "longitude": 23.908499
+    },
+    {
+      "name": "Μαϊμούδες",
+      "latitude": 37.979504,
+      "longitude": 23.909469
+    },
+    {
+      "name": "Μαύρη σπηλιά",
+      "latitude": 36.249551,
+      "longitude": 22.986789
+    },
+    {
+      "name": "Μγλος Κουιασας",
+      "latitude": 39.58016,
+      "longitude": 21.119772
+    },
+    {
+      "name": "Μεγάλη Λέσχη",
+      "latitude": 40.937595,
+      "longitude": 24.407608
+    },
+    {
+      "name": "Μεγάλο Βάραθρο Πύργου",
+      "latitude": 37.939852,
+      "longitude": 23.796159
+    },
+    {
+      "name": "Μεγάλο Γεφύρι Του Κάσσου",
+      "latitude": 39.859568,
+      "longitude": 20.850375
+    },
+    {
+      "name": "Μεγάλος Αγωγός",
+      "latitude": 37.975155,
+      "longitude": 23.722315
+    },
+    {
+      "name": "Μελάμπυγος λίθος",
+      "latitude": 38.80392,
+      "longitude": 22.569051
+    },
+    {
+      "name": "Μικρό Βάραθρο Πύργου",
+      "latitude": 37.939677,
+      "longitude": 23.795969
+    },
+    {
+      "name": "Μικρό Βάραθρο Σταυρού",
+      "latitude": 37.910824,
+      "longitude": 23.802957
+    },
+    {
+      "name": "Μικρό Πάντα Βρέχει",
+      "latitude": 38.751641,
+      "longitude": 21.668049
+    },
+    {
+      "name": "Μιχαλα Κουρμουλης",
+      "latitude": 35.018869,
+      "longitude": 24.830675
+    },
+    {
+      "name": "Μνημείο Ανοικοδόμησης",
+      "latitude": 37.53082,
+      "longitude": 21.731715
+    },
+    {
+      "name": "Μνημείο θυμάτων πυρκαγιάς 2007",
+      "latitude": 37.52446,
+      "longitude": 21.698008
+    },
+    {
+      "name": "Μνημείο και σύνθετο έργο του ανθρώπου και της φύσης",
+      "latitude": 38.728648,
+      "longitude": 20.638589
+    },
+    {
+      "name": "Μνημείο Καρυάτιδων",
+      "latitude": 37.291394,
+      "longitude": 22.497827
+    },
+    {
+      "name": "Μνημειακή Ελιά Αζοριά",
+      "latitude": 35.115133,
+      "longitude": 25.860705
+    },
+    {
+      "name": "Μονή Αγίου Δημητρίου",
+      "latitude": 39.581279,
+      "longitude": 20.593317
+    },
+    {
+      "name": "Μονή Αγίου Ιωάννου Προδρόμου",
+      "latitude": 40.013167,
+      "longitude": 20.505319
+    },
+    {
+      "name": "Μονή Γηρομερίου",
+      "latitude": 39.654607,
+      "longitude": 20.325163
+    },
+    {
+      "name": "Μονή Καψά",
+      "latitude": 35.020744,
+      "longitude": 26.0516
+    },
+    {
+      "name": "Μονή Μολίστης",
+      "latitude": 40.119878,
+      "longitude": 20.808357
+    },
+    {
+      "name": "Μονή Παγανίων",
+      "latitude": 39.535552,
+      "longitude": 20.482374
+    },
+    {
+      "name": "Μονή Περιστεράς Δουρούτης",
+      "latitude": 39.615497,
+      "longitude": 20.833414
+    },
+    {
+      "name": "Μονή Τιμίου Σταυρού Δολιανών",
+      "latitude": 39.630399,
+      "longitude": 21.341837
+    },
+    {
+      "name": "Μονή Υπαπαντής",
+      "latitude": 39.733578,
+      "longitude": 21.630747
+    },
+    {
+      "name": "Μοναστήρι Άη Γιάννη Αλάργα",
+      "latitude": 36.223293,
+      "longitude": 27.543032
+    },
+    {
+      "name": "Μονοπάτι Σιδηροδρομικών",
+      "latitude": 38.788796,
+      "longitude": 22.438808
+    },
+    {
+      "name": "Μονόλιθος Αράκλης",
+      "latitude": 38.421138,
+      "longitude": 20.676752
+    },
+    {
+      "name": "Μονότοξη λιθόκτιστη γέφυρα",
+      "latitude": 39.328147,
+      "longitude": 23.142369
+    },
+    {
+      "name": "Μονότοξο γεφύρι Κορυσχάδων (Ξερολύκου)",
+      "latitude": 38.891969,
+      "longitude": 21.76865
+    },
+    {
+      "name": "Μουσείο Αλιείας",
+      "latitude": 39.038501,
+      "longitude": 21.074245
+    },
+    {
+      "name": "Μυκηναϊκή πηγή",
+      "latitude": 37.972385,
+      "longitude": 23.725843
+    },
+    {
+      "name": "Μυλοπόταμος",
+      "latitude": 36.24267,
+      "longitude": 22.945093
+    },
+    {
+      "name": "Μυλοτόπι",
+      "latitude": 36.74723,
+      "longitude": 26.960159
+    },
+    {
+      "name": "Μύλοι Σουλίου",
+      "latitude": 39.358314,
+      "longitude": 20.630554
+    },
+    {
+      "name": "Μύλος Σιταριάς",
+      "latitude": 39.866352,
+      "longitude": 20.545989
+    },
+    {
+      "name": "Μύλων",
+      "latitude": 41.308698,
+      "longitude": 23.578069
+    },
+    {
+      "name": "Μώβ Σπήλαιο",
+      "latitude": 38.30234,
+      "longitude": 24.238521
+    },
+    {
+      "name": "Νέα Αγορά",
+      "latitude": 36.447695,
+      "longitude": 28.225217
+    },
+    {
+      "name": "Νέο Γεφύρι στη Μονή Σπηλιώτισσας",
+      "latitude": 39.946121,
+      "longitude": 20.683823
+    },
+    {
+      "name": "Ναυάγιο",
+      "latitude": 39.529167,
+      "longitude": 20.158644
+    },
+    {
+      "name": "Ναυάγιο Επανομής",
+      "latitude": 40.375829,
+      "longitude": 22.897137
+    },
+    {
+      "name": "Νεραϊδογεφυρο",
+      "latitude": 39.371581,
+      "longitude": 21.185095
+    },
+    {
+      "name": "Νεραϊδοκόλυμπος",
+      "latitude": 35.151504,
+      "longitude": 25.531416
+    },
+    {
+      "name": "Νεροσπηλιά",
+      "latitude": 39.028506,
+      "longitude": 22.734731
+    },
+    {
+      "name": "Νεροτριβή",
+      "latitude": 39.640473,
+      "longitude": 20.402665
+    },
+    {
+      "name": "Νεροτριβή",
+      "latitude": 39.722208,
+      "longitude": 21.086195
+    },
+    {
+      "name": "Νεροτριβή",
+      "latitude": 40.027205,
+      "longitude": 21.019973
+    },
+    {
+      "name": "Νεροτριβή",
+      "latitude": 41.285701,
+      "longitude": 24.617118
+    },
+    {
+      "name": "Νεροτριβή Τριστενο",
+      "latitude": 39.792309,
+      "longitude": 21.004898
+    },
+    {
+      "name": "Νεροχελώνες",
+      "latitude": 37.980474,
+      "longitude": 23.910687
+    },
+    {
+      "name": "Νερόμυλο Του Αγίου Ιωάννη",
+      "latitude": 39.558329,
+      "longitude": 21.034664
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 36.670316,
+      "longitude": 22.933489
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 39.234513,
+      "longitude": 20.702405
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 39.356416,
+      "longitude": 20.630749
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 39.494408,
+      "longitude": 20.851833
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 39.640435,
+      "longitude": 20.402428
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 39.690145,
+      "longitude": 21.192467
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 39.833116,
+      "longitude": 20.908417
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 40.171559,
+      "longitude": 21.219072
+    },
+    {
+      "name": "Νερόμυλος",
+      "latitude": 40.842742,
+      "longitude": 21.16068
+    },
+    {
+      "name": "Νερόμυλος & Νεροτριβή",
+      "latitude": 39.736486,
+      "longitude": 20.593469
+    },
+    {
+      "name": "Νερόμυλος & Νεροτριβή",
+      "latitude": 39.776283,
+      "longitude": 21.023219
+    },
+    {
+      "name": "Νερόμυλος Βακούφικος",
+      "latitude": 40.171618,
+      "longitude": 21.043127
+    },
+    {
+      "name": "Νερόμυλος Κοκολάκη",
+      "latitude": 36.804818,
+      "longitude": 22.848937
+    },
+    {
+      "name": "Νερόμυλος Ρουζιού",
+      "latitude": 38.005184,
+      "longitude": 23.882185
+    },
+    {
+      "name": "Νερόμυλος Τριστενο",
+      "latitude": 39.792127,
+      "longitude": 21.004729
+    },
+    {
+      "name": "Νησάκι Σικελιανού",
+      "latitude": 38.864821,
+      "longitude": 20.745471
+    },
+    {
+      "name": "Νικόπολη",
+      "latitude": 39.009062,
+      "longitude": 20.734332
+    },
+    {
+      "name": "Νοτιοδυτικός Πύργος Καραϊσκάκη",
+      "latitude": 38.748425,
+      "longitude": 21.655689
+    },
+    {
+      "name": "Νταμάρι Άη-Λευτεριού",
+      "latitude": 37.638405,
+      "longitude": 25.03813
+    },
+    {
+      "name": "Νυχτόβια πουλιά",
+      "latitude": 37.981411,
+      "longitude": 23.907037
+    },
+    {
+      "name": "Ξενοδοχείο Αναγέννησις Σαραντάπηχου",
+      "latitude": 38.030787,
+      "longitude": 22.372444
+    },
+    {
+      "name": "Ξενοδοχείο Αναγέννησις Σαραντάπηχου (ερείπια)",
+      "latitude": 38.030453,
+      "longitude": 22.372442
+    },
+    {
+      "name": "Ξυλοφάναρο",
+      "latitude": 38.472876,
+      "longitude": 23.591685
+    },
+    {
+      "name": "Ξυστά",
+      "latitude": 38.247204,
+      "longitude": 25.942732
+    },
+    {
+      "name": "ξύλινο σπίτι",
+      "latitude": 38.132402,
+      "longitude": 23.86155
+    },
+    {
+      "name": "Ο δρόμος της αγάπης",
+      "latitude": 37.667588,
+      "longitude": 22.187895
+    },
+    {
+      "name": "Ο Κόσμος των Λόρι",
+      "latitude": 37.979694,
+      "longitude": 23.910384
+    },
+    {
+      "name": "Ο Οδοντωτός",
+      "latitude": 38.191898,
+      "longitude": 22.197567
+    },
+    {
+      "name": "Ο Παλιός Νερόμυλος",
+      "latitude": 37.252424,
+      "longitude": 21.691335
+    },
+    {
+      "name": "Ο Πλάτανος της Αρκαδιάς",
+      "latitude": 37.249143,
+      "longitude": 21.67938
+    },
+    {
+      "name": "Ο Τάφος του Λοκρού",
+      "latitude": 38.373846,
+      "longitude": 22.387501
+    },
+    {
+      "name": "Οβίρες Ρογκοβού",
+      "latitude": 39.973752,
+      "longitude": 20.725635
+    },
+    {
+      "name": "Οδοστρωτήρας \"Όλγα\"",
+      "latitude": 36.152323,
+      "longitude": 22.983953
+    },
+    {
+      "name": "Οδός Πατριάρχου Ιωακείμ",
+      "latitude": 40.521194,
+      "longitude": 22.203517
+    },
+    {
+      "name": "Οθωμανική Κρήνη ή Σαρκοφάγος ή Νέκυια",
+      "latitude": 40.640592,
+      "longitude": 22.950234
+    },
+    {
+      "name": "Οι Τρύπες του Καραμανλή",
+      "latitude": 37.814607,
+      "longitude": 23.833666
+    },
+    {
+      "name": "Οικία Αχμέτ Καπαντζή (Κτήριο ΝΑΤΟ)",
+      "latitude": 40.60736,
+      "longitude": 22.953753
+    },
+    {
+      "name": "Οικία Μαραθωνοδρόμου Σπύρου Λούη",
+      "latitude": 38.055832,
+      "longitude": 23.809158
+    },
+    {
+      "name": "Οικία Ναπολέοντα",
+      "latitude": 35.005089,
+      "longitude": 25.737297
+    },
+    {
+      "name": "Οικία Παλαιών Πατρών Γερμανού",
+      "latitude": 37.596563,
+      "longitude": 22.037752
+    },
+    {
+      "name": "Οικία ποιητή Κώστα Καρυωτάκη",
+      "latitude": 37.512653,
+      "longitude": 22.368088
+    },
+    {
+      "name": "Οικία Τζαβέλλα, Σούλι",
+      "latitude": 39.361757,
+      "longitude": 20.644151
+    },
+    {
+      "name": "Ορειβατικό Καταφύγιο Αρακύνθου",
+      "latitude": 38.457326,
+      "longitude": 21.481607
+    },
+    {
+      "name": "Ορυχεία Φυρέ",
+      "latitude": 37.999604,
+      "longitude": 23.836986
+    },
+    {
+      "name": "Ουαλάμπι και Εμού",
+      "latitude": 37.979796,
+      "longitude": 23.910015
+    },
+    {
+      "name": "Πάπιες",
+      "latitude": 38.392438,
+      "longitude": 21.835681
+    },
+    {
+      "name": "Πάρκο Αναψυχής - Ιπποκάμηλος",
+      "latitude": 38.136281,
+      "longitude": 21.4438
+    },
+    {
+      "name": "Πάρκο Παύλιανης",
+      "latitude": 38.737531,
+      "longitude": 22.340587
+    },
+    {
+      "name": "Πέταλο",
+      "latitude": 38.38228,
+      "longitude": 22.396047
+    },
+    {
+      "name": "Πέτρινη Βρύση",
+      "latitude": 38.466919,
+      "longitude": 23.587563
+    },
+    {
+      "name": "Πέτρινη Βρύση",
+      "latitude": 38.469812,
+      "longitude": 23.597014
+    },
+    {
+      "name": "Πέτρινη Γέφυρα",
+      "latitude": 37.080926,
+      "longitude": 21.87288
+    },
+    {
+      "name": "Πέτρινη Γέφυρα Δαφνούλας",
+      "latitude": 38.261364,
+      "longitude": 23.462972
+    },
+    {
+      "name": "Πέτρινη σκάλα",
+      "latitude": 39.595385,
+      "longitude": 21.113083
+    },
+    {
+      "name": "Πέτρινο Γεφύρι",
+      "latitude": 37.052241,
+      "longitude": 21.705027
+    },
+    {
+      "name": "Πέτρινο Γεφύρι",
+      "latitude": 37.214486,
+      "longitude": 21.871681
+    },
+    {
+      "name": "Πέτρινο Γεφύρι",
+      "latitude": 37.476378,
+      "longitude": 22.016454
+    },
+    {
+      "name": "Πέτρινο Γεφύρι",
+      "latitude": 37.495725,
+      "longitude": 21.961745
+    },
+    {
+      "name": "Πέτρινο Γεφύρι",
+      "latitude": 37.701125,
+      "longitude": 21.910667
+    },
+    {
+      "name": "Πέτρινο Γεφύρι",
+      "latitude": 41.13598,
+      "longitude": 23.61962
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Άργους Ορεστικού",
+      "latitude": 40.457992,
+      "longitude": 21.253736
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Κάτω Μπέλιτσας",
+      "latitude": 41.312537,
+      "longitude": 23.547636
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Κόσυνθου",
+      "latitude": 41.168246,
+      "longitude": 24.874385
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Μαυρογιάννη-Κοντού",
+      "latitude": 37.586228,
+      "longitude": 22.033248
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Μοναχού Ιωαννίκιου",
+      "latitude": 41.136226,
+      "longitude": 23.618364
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Παλαίρου",
+      "latitude": 38.79731,
+      "longitude": 20.8625
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Παρθενίου",
+      "latitude": 38.475928,
+      "longitude": 23.958897
+    },
+    {
+      "name": "Πέτρινο γεφύρι Πεχτσέτας",
+      "latitude": 41.305951,
+      "longitude": 23.534588
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Σαμοκόβας",
+      "latitude": 41.306499,
+      "longitude": 23.524392
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Σταμπέκη",
+      "latitude": 39.901494,
+      "longitude": 21.269
+    },
+    {
+      "name": "Πέτρινο γεφύρι Τζιογκόλας (Άνω Μπέλιτσα)",
+      "latitude": 41.312468,
+      "longitude": 23.552075
+    },
+    {
+      "name": "Πέτρινο γεφύρι του Τσέλιγκα Μιχαλάκη Φίλου",
+      "latitude": 39.694469,
+      "longitude": 21.198295
+    },
+    {
+      "name": "Πέτρινο γεφύρι Τουπουβίτσας",
+      "latitude": 41.307143,
+      "longitude": 23.537415
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Φούσκαρη",
+      "latitude": 37.69298,
+      "longitude": 21.965627
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Φούσκαρη",
+      "latitude": 37.693564,
+      "longitude": 21.96572
+    },
+    {
+      "name": "Πέτρινο Γεφύρι Χατζή Δανιήλ",
+      "latitude": 41.136042,
+      "longitude": 23.618643
+    },
+    {
+      "name": "Πέτρινο Γεφύρι-Θέση Καταβόθρες Λουσοί",
+      "latitude": 37.974745,
+      "longitude": 22.108472
+    },
+    {
+      "name": "Πέτρινο Δάσος",
+      "latitude": 39.893307,
+      "longitude": 20.743486
+    },
+    {
+      "name": "Πέτρινο Τοξωτό Γεφύρι Τσαγκαράδας- Ξουρυχτίου",
+      "latitude": 39.368873,
+      "longitude": 23.17488
+    },
+    {
+      "name": "Πέτρινος Φάρος",
+      "latitude": 37.414819,
+      "longitude": 22.76937
+    },
+    {
+      "name": "Πίθοι",
+      "latitude": 35.059149,
+      "longitude": 24.792719
+    },
+    {
+      "name": "Παλαιά Γερμανικά Πολυβολεία",
+      "latitude": 37.925167,
+      "longitude": 24.003775
+    },
+    {
+      "name": "Παλαιά Γερμανικά Πολυβολεία Σκεπαρνιά",
+      "latitude": 38.930845,
+      "longitude": 20.928056
+    },
+    {
+      "name": "Παλαιά λουτρά",
+      "latitude": 39.24647,
+      "longitude": 26.269641
+    },
+    {
+      "name": "Παλαιά Πύλη (Εσκί Ντελίκ)",
+      "latitude": 40.643906,
+      "longitude": 22.952468
+    },
+    {
+      "name": "Παλαιά Σιδηροδρομική γραμμή Κρυονερίου",
+      "latitude": 38.344836,
+      "longitude": 21.593726
+    },
+    {
+      "name": "Παλαιές Ιαματικές Πηγές Λισβορίου",
+      "latitude": 39.101002,
+      "longitude": 26.201076
+    },
+    {
+      "name": "Παλαιές Φυλακές Ωρωπού",
+      "latitude": 38.321595,
+      "longitude": 23.785699
+    },
+    {
+      "name": "Παλαιοφαρσαλος",
+      "latitude": 39.302168,
+      "longitude": 22.333092
+    },
+    {
+      "name": "Παλαιοχριστιανική",
+      "latitude": 39.30541,
+      "longitude": 26.243173
+    },
+    {
+      "name": "Παλαιό Νεκροταφείο Κρυονερίου",
+      "latitude": 38.144224,
+      "longitude": 23.831296
+    },
+    {
+      "name": "Παλαιό Νοσοκομείο Αρωνιάδας Βάλτου",
+      "latitude": 38.967581,
+      "longitude": 21.319536
+    },
+    {
+      "name": "Παλαιό Σανατόριο Αλωνίσταινας",
+      "latitude": 37.635709,
+      "longitude": 22.212467
+    },
+    {
+      "name": "Παλαιό Σανατόριο Βυτίνας Άγιος Τρύφων",
+      "latitude": 37.65643,
+      "longitude": 22.194828
+    },
+    {
+      "name": "Παλαιό Σανατόριο Γρανίτη (Σαντόριο Γκιούρετζικ)",
+      "latitude": 41.286955,
+      "longitude": 23.91462
+    },
+    {
+      "name": "Παλαιός Νερόμυλος",
+      "latitude": 40.093112,
+      "longitude": 23.819681
+    },
+    {
+      "name": "Παλαιός Πύργος Ορυχείων Καλογρέζας",
+      "latitude": 38.03895,
+      "longitude": 23.777902
+    },
+    {
+      "name": "Παλιά Αγορά",
+      "latitude": 36.148781,
+      "longitude": 29.591555
+    },
+    {
+      "name": "Παλιά Ατμομηχανή",
+      "latitude": 40.644201,
+      "longitude": 22.928912
+    },
+    {
+      "name": "Παλιά βαγόνια",
+      "latitude": 37.565117,
+      "longitude": 22.804389
+    },
+    {
+      "name": "Παλιά Εβραϊκή Συνοικία",
+      "latitude": 40.521233,
+      "longitude": 22.199631
+    },
+    {
+      "name": "παλιά Κόκκινη Γέφυρα",
+      "latitude": 41.112669,
+      "longitude": 23.547012
+    },
+    {
+      "name": "Παλιά Στούντιο Φίνος Φιλμ",
+      "latitude": 38.023066,
+      "longitude": 23.7203
+    },
+    {
+      "name": "Παλιό γεφύρι",
+      "latitude": 40.656675,
+      "longitude": 24.692809
+    },
+    {
+      "name": "Παλιό Εργοστάσιο Μεταξουργίας",
+      "latitude": 35.943088,
+      "longitude": 27.78989
+    },
+    {
+      "name": "Παλιό μύλο",
+      "latitude": 40.157572,
+      "longitude": 20.714834
+    },
+    {
+      "name": "Παλιόμυλος",
+      "latitude": 35.297508,
+      "longitude": 24.940612
+    },
+    {
+      "name": "Παλιός μύλος",
+      "latitude": 39.5963,
+      "longitude": 21.113152
+    },
+    {
+      "name": "Παναγία Καταφυγιώτισσα",
+      "latitude": 38.089285,
+      "longitude": 22.409177
+    },
+    {
+      "name": "Παναγιά Αρκουδιώτισσα",
+      "latitude": 35.588904,
+      "longitude": 24.143926
+    },
+    {
+      "name": "Πανας Γεμελας πρακτορειο",
+      "latitude": 37.965038,
+      "longitude": 23.667334
+    },
+    {
+      "name": "Παπαγάλοι",
+      "latitude": 37.980086,
+      "longitude": 23.90993
+    },
+    {
+      "name": "Παραδοσιακά Πηγάδια",
+      "latitude": 37.525003,
+      "longitude": 22.071466
+    },
+    {
+      "name": "Παραδοσιακή πέτρινη γεφυρα",
+      "latitude": 41.258203,
+      "longitude": 24.675219
+    },
+    {
+      "name": "Παραδοσιακός Ανεμόμυλος",
+      "latitude": 37.112608,
+      "longitude": 25.539019
+    },
+    {
+      "name": "Παραλία Αράχνες",
+      "latitude": 37.902771,
+      "longitude": 24.044984
+    },
+    {
+      "name": "Παραλία Αχελώου ποταμού.",
+      "latitude": 39.210731,
+      "longitude": 21.348842
+    },
+    {
+      "name": "Παραλία Βαθυαβάλι",
+      "latitude": 38.764487,
+      "longitude": 20.790536
+    },
+    {
+      "name": "Παραλία Βγέθι",
+      "latitude": 37.805696,
+      "longitude": 24.062294
+    },
+    {
+      "name": "Παραλία και Σπήλαιο Αλμυρού",
+      "latitude": 36.462668,
+      "longitude": 22.434484
+    },
+    {
+      "name": "Παραλία Καλαδί",
+      "latitude": 36.20973,
+      "longitude": 23.052428
+    },
+    {
+      "name": "Παραλία Καλόγερος",
+      "latitude": 36.510058,
+      "longitude": 22.970191
+    },
+    {
+      "name": "Παραλία Καλός Γιαλός",
+      "latitude": 37.883546,
+      "longitude": 24.014456
+    },
+    {
+      "name": "Παραλία Πλακάκι",
+      "latitude": 37.68414,
+      "longitude": 20.770705
+    },
+    {
+      "name": "Παραλία Πρέβελη",
+      "latitude": 35.152394,
+      "longitude": 24.473122
+    },
+    {
+      "name": "Παραλία του Βάι",
+      "latitude": 35.254603,
+      "longitude": 26.265145
+    },
+    {
+      "name": "Παραλία Χαλκίδας",
+      "latitude": 38.463803,
+      "longitude": 23.591106
+    },
+    {
+      "name": "Παρόχθιο αρχαίο πλατανόδασος",
+      "latitude": 39.272239,
+      "longitude": 20.845772
+    },
+    {
+      "name": "Παρόχθιο δάσος Αγίου Βαρνάβα",
+      "latitude": 39.15649,
+      "longitude": 20.764173
+    },
+    {
+      "name": "Πατρικό Σπίτι Αγίου Κοσμά Αιτωλού",
+      "latitude": 38.594133,
+      "longitude": 21.668993
+    },
+    {
+      "name": "Παχιές Αμμουδιές (Αμμοθίνες)",
+      "latitude": 39.991679,
+      "longitude": 25.128905
+    },
+    {
+      "name": "πεδιο βολης",
+      "latitude": 40.93806,
+      "longitude": 26.023326
+    },
+    {
+      "name": "Πεζόδρομος των Ποιητών",
+      "latitude": 37.86201,
+      "longitude": 23.75195
+    },
+    {
+      "name": "Πεζόδρομος των Ποιητών",
+      "latitude": 37.862505,
+      "longitude": 23.75251
+    },
+    {
+      "name": "Πεντακάμαρο",
+      "latitude": 37.84032,
+      "longitude": 20.771238
+    },
+    {
+      "name": "Περίεργος Τοίχος Οδού Απόλλωνος 26",
+      "latitude": 37.974643,
+      "longitude": 23.730392
+    },
+    {
+      "name": "Περιβλεπτος",
+      "latitude": 40.417137,
+      "longitude": 22.936475
+    },
+    {
+      "name": "Πεταλούδες",
+      "latitude": 36.338847,
+      "longitude": 28.060294
+    },
+    {
+      "name": "Πετρογέφυρο Αγράφων",
+      "latitude": 39.137378,
+      "longitude": 21.641362
+    },
+    {
+      "name": "Πηγάδια",
+      "latitude": 39.948494,
+      "longitude": 20.533599
+    },
+    {
+      "name": "Πηγές Αργυρούπολης",
+      "latitude": 35.286804,
+      "longitude": 24.332144
+    },
+    {
+      "name": "Πηγές Αροάνιου",
+      "latitude": 37.933434,
+      "longitude": 22.166001
+    },
+    {
+      "name": "Πηγές Καλλιθέας",
+      "latitude": 36.378266,
+      "longitude": 28.238256
+    },
+    {
+      "name": "Πηγή Κλεψύδρα",
+      "latitude": 37.972194,
+      "longitude": 23.724899
+    },
+    {
+      "name": "Πιγκουίνοι",
+      "latitude": 37.980767,
+      "longitude": 23.908073
+    },
+    {
+      "name": "Πλάτανος 1000 ετών",
+      "latitude": 39.386835,
+      "longitude": 23.174487
+    },
+    {
+      "name": "Πλάτανος Πέντε Παρθένων",
+      "latitude": 35.293082,
+      "longitude": 24.342751
+    },
+    {
+      "name": "Πλάτανος του Ιπποκράτη",
+      "latitude": 36.894758,
+      "longitude": 27.290951
+    },
+    {
+      "name": "Πλάτανος του Παυσανία",
+      "latitude": 38.253671,
+      "longitude": 22.086257
+    },
+    {
+      "name": "Πλίνθινα των Κορεστείων",
+      "latitude": 40.617331,
+      "longitude": 21.221637
+    },
+    {
+      "name": "Πλατάνι Κουμουστάς",
+      "latitude": 36.947099,
+      "longitude": 22.407653
+    },
+    {
+      "name": "Πλατανόδασος",
+      "latitude": 39.267797,
+      "longitude": 20.848716
+    },
+    {
+      "name": "Πλατεία Γεωργίου Α΄",
+      "latitude": 38.246278,
+      "longitude": 21.734987
+    },
+    {
+      "name": "Πλατεία Ιπποκράτους",
+      "latitude": 36.443609,
+      "longitude": 28.228241
+    },
+    {
+      "name": "Πλατεία Κορνάρου",
+      "latitude": 35.336112,
+      "longitude": 25.133014
+    },
+    {
+      "name": "Πλατεία Οδυσσέα Ανδρούτσου",
+      "latitude": 38.582587,
+      "longitude": 22.669685
+    },
+    {
+      "name": "Πλατεία Παναγιάς",
+      "latitude": 39.511424,
+      "longitude": 21.147125
+    },
+    {
+      "name": "Πλατεία Ρολογιού Βαμβακούς",
+      "latitude": 37.245118,
+      "longitude": 22.552007
+    },
+    {
+      "name": "Πλατεία Συντάγματος",
+      "latitude": 37.975459,
+      "longitude": 23.73474
+    },
+    {
+      "name": "Πλατεία Φλοίσβου",
+      "latitude": 37.941383,
+      "longitude": 22.93395
+    },
+    {
+      "name": "Πλατεία Ψυρρή",
+      "latitude": 37.978444,
+      "longitude": 23.724843
+    },
+    {
+      "name": "Πλατώνι και αγριογούρουνο",
+      "latitude": 37.982185,
+      "longitude": 23.907815
+    },
+    {
+      "name": "Πουλιά Ασίας",
+      "latitude": 37.981395,
+      "longitude": 23.908557
+    },
+    {
+      "name": "Πουλιά Αφρικής",
+      "latitude": 37.981116,
+      "longitude": 23.908877
+    },
+    {
+      "name": "Πουλιά Ν. Αμερικής",
+      "latitude": 37.980601,
+      "longitude": 23.909628
+    },
+    {
+      "name": "Πούμα",
+      "latitude": 37.979121,
+      "longitude": 23.908955
+    },
+    {
+      "name": "Πρασσιανό Φαράγγι",
+      "latitude": 35.340543,
+      "longitude": 24.54119
+    },
+    {
+      "name": "Προμαχώνας του Επαμεινώνδα",
+      "latitude": 37.56166,
+      "longitude": 22.804669
+    },
+    {
+      "name": "Προπέλα",
+      "latitude": 38.461104,
+      "longitude": 23.589605
+    },
+    {
+      "name": "Προς Σπήλαιο Κύκλωπα Μάκρης",
+      "latitude": 40.851498,
+      "longitude": 25.748753
+    },
+    {
+      "name": "Πρόσωπο του Ποσειδώνα",
+      "latitude": 37.842297,
+      "longitude": 20.626808
+    },
+    {
+      "name": "Πρώην Στέκι του Μάριου (Ρεμπετοσυναντήσεις) Ίωνος 10",
+      "latitude": 37.985408,
+      "longitude": 23.727863
+    },
+    {
+      "name": "Πρώην Ταβέρνα των Ασήκιδων 1748",
+      "latitude": 37.58684,
+      "longitude": 22.067964
+    },
+    {
+      "name": "Πτήση αρπακτικών",
+      "latitude": 37.981007,
+      "longitude": 23.906918
+    },
+    {
+      "name": "Πτηνά εδάφους",
+      "latitude": 37.981509,
+      "longitude": 23.909388
+    },
+    {
+      "name": "Πυγμαίος ιπποπόταμος",
+      "latitude": 37.98078,
+      "longitude": 23.907572
+    },
+    {
+      "name": "Πυραμίδα 67 Ελληνοαλβανικών συνόρων",
+      "latitude": 40.471822,
+      "longitude": 20.835999
+    },
+    {
+      "name": "Πυραμίδες",
+      "latitude": 38.464492,
+      "longitude": 20.631881
+    },
+    {
+      "name": "Πυργοκατοικίες Βασιλουλιάνων",
+      "latitude": 36.793,
+      "longitude": 22.45532
+    },
+    {
+      "name": "Πόρτο Ράφτη Παραλία Αυλάκι",
+      "latitude": 37.872707,
+      "longitude": 24.020713
+    },
+    {
+      "name": "Πύλες Άδη",
+      "latitude": 39.287763,
+      "longitude": 20.680768
+    },
+    {
+      "name": "Πύργος Δοτιών",
+      "latitude": 38.178802,
+      "longitude": 26.010537
+    },
+    {
+      "name": "Πύργος του Δράκανου",
+      "latitude": 37.687281,
+      "longitude": 26.361203
+    },
+    {
+      "name": "Πύργος του ΟΤΕ",
+      "latitude": 40.626246,
+      "longitude": 22.954552
+    },
+    {
+      "name": "Ρέμα Καλό Νερό",
+      "latitude": 37.279441,
+      "longitude": 21.741274
+    },
+    {
+      "name": "Ρέμα των Μύλων - Λίμνη ψαριών",
+      "latitude": 38.071734,
+      "longitude": 22.396269
+    },
+    {
+      "name": "Ρίχτης",
+      "latitude": 35.184979,
+      "longitude": 25.986362
+    },
+    {
+      "name": "Ρινοδέλφινο",
+      "latitude": 37.982477,
+      "longitude": 23.909077
+    },
+    {
+      "name": "Ρινόκεροι",
+      "latitude": 37.980345,
+      "longitude": 23.906322
+    },
+    {
+      "name": "Ροδόσταμο",
+      "latitude": 38.321277,
+      "longitude": 23.786657
+    },
+    {
+      "name": "Ρολόι Πασαλιμανίου",
+      "latitude": 37.939145,
+      "longitude": 23.648728
+    },
+    {
+      "name": "Ρωμαϊκό Βαλανείο",
+      "latitude": 38.65489,
+      "longitude": 22.676858
+    },
+    {
+      "name": "Ρωμαϊκό Υδραγωγείο Σούγιας",
+      "latitude": 35.257036,
+      "longitude": 23.809743
+    },
+    {
+      "name": "Ρώσικος Ναύσταθμος",
+      "latitude": 37.518649,
+      "longitude": 23.436573
+    },
+    {
+      "name": "Σανατόριο της Μάνας",
+      "latitude": 37.683447,
+      "longitude": 22.11124
+    },
+    {
+      "name": "Σαράι του Ντίνο Μπέη",
+      "latitude": 39.624468,
+      "longitude": 20.239101
+    },
+    {
+      "name": "Σαρακατσάνικες Καλύβες",
+      "latitude": 38.925164,
+      "longitude": 21.872243
+    },
+    {
+      "name": "Σιδηροδρομική Σήραγγα Καμάριζας",
+      "latitude": 37.725594,
+      "longitude": 24.015347
+    },
+    {
+      "name": "Σιδηροδρομικός Σταθμός Ασωπού",
+      "latitude": 38.77724,
+      "longitude": 22.421875
+    },
+    {
+      "name": "ΣΙΝ ΠΑΛΙ-ΣΙΝ ΠΑΛΗ-ΑΓΙΟΣ ΠΑΥΛΟΣ",
+      "latitude": 37.933435,
+      "longitude": 23.807524
+    },
+    {
+      "name": "Σκάλα Βίτσας",
+      "latitude": 39.868423,
+      "longitude": 20.762783
+    },
+    {
+      "name": "Σκάλα Βραδέτου",
+      "latitude": 39.893725,
+      "longitude": 20.786823
+    },
+    {
+      "name": "Σκάλα Βραδέτου",
+      "latitude": 39.893933,
+      "longitude": 20.785579
+    },
+    {
+      "name": "Σκάλα Τζαβέλαινας",
+      "latitude": 39.326325,
+      "longitude": 20.624524
+    },
+    {
+      "name": "Σκάλα των προσφύγων στο Καραμπουρνάκι",
+      "latitude": 40.588958,
+      "longitude": 22.941722
+    },
+    {
+      "name": "Σκεπασμένο: Καταρράκτες",
+      "latitude": 40.264441,
+      "longitude": 22.106518
+    },
+    {
+      "name": "Σκιρωνίδες πέτρες",
+      "latitude": 37.976575,
+      "longitude": 23.2818
+    },
+    {
+      "name": "Σκληρή",
+      "latitude": 37.703616,
+      "longitude": 23.371825
+    },
+    {
+      "name": "Σκορδοχωρι",
+      "latitude": 38.77996,
+      "longitude": 20.882999
+    },
+    {
+      "name": "Σκυριανό άλογο",
+      "latitude": 37.981008,
+      "longitude": 23.911196
+    },
+    {
+      "name": "Σμίξη Χαβρία",
+      "latitude": 40.37344,
+      "longitude": 23.638965
+    },
+    {
+      "name": "Σουρικάτες",
+      "latitude": 37.981696,
+      "longitude": 23.909841
+    },
+    {
+      "name": "Σπήλαιο Αγ. Φωτεινήζ",
+      "latitude": 35.210625,
+      "longitude": 25.423657
+    },
+    {
+      "name": "Σπήλαιο Αγίας Σοφίας",
+      "latitude": 36.149475,
+      "longitude": 23.01851
+    },
+    {
+      "name": "Σπήλαιο Αγίας Σοφίας Agia Sofias",
+      "latitude": 35.411492,
+      "longitude": 23.681305
+    },
+    {
+      "name": "Σπήλαιο Αγίας Τριάδας",
+      "latitude": 38.042805,
+      "longitude": 24.418342
+    },
+    {
+      "name": "Σπήλαιο Αγίου Ιωάννη στο Καθολικό",
+      "latitude": 35.590118,
+      "longitude": 24.146492
+    },
+    {
+      "name": "Σπήλαιο Αλιστράτης",
+      "latitude": 41.026085,
+      "longitude": 24.010558
+    },
+    {
+      "name": "Σπήλαιο Αρχαγγέλου",
+      "latitude": 36.202505,
+      "longitude": 28.142574
+    },
+    {
+      "name": "Σπήλαιο Ελεφάντων",
+      "latitude": 36.440696,
+      "longitude": 27.365339
+    },
+    {
+      "name": "Σπήλαιο Ζερβάτη",
+      "latitude": 38.252523,
+      "longitude": 20.62891
+    },
+    {
+      "name": "Σπήλαιο Κάψια",
+      "latitude": 37.623627,
+      "longitude": 22.353874
+    },
+    {
+      "name": "Σπήλαιο Καστανιάς",
+      "latitude": 36.545707,
+      "longitude": 23.124143
+    },
+    {
+      "name": "Σπήλαιο Κούρου",
+      "latitude": 38.603227,
+      "longitude": 23.711161
+    },
+    {
+      "name": "Σπήλαιο Λιμνών",
+      "latitude": 37.960253,
+      "longitude": 22.138891
+    },
+    {
+      "name": "Σπήλαιο Μελιδονίου",
+      "latitude": 35.384378,
+      "longitude": 24.729853
+    },
+    {
+      "name": "Σπήλαιο νυχτερίδας",
+      "latitude": 37.990989,
+      "longitude": 23.827569
+    },
+    {
+      "name": "Σπήλαιο Περάματος",
+      "latitude": 39.69526,
+      "longitude": 20.846596
+    },
+    {
+      "name": "Σπήλαιο Πολύφημου",
+      "latitude": 35.255618,
+      "longitude": 23.829263
+    },
+    {
+      "name": "Σπήλαιο Ρήνα",
+      "latitude": 36.947278,
+      "longitude": 25.491416
+    },
+    {
+      "name": "Σπήλαιο Σφενδόνη",
+      "latitude": 35.299582,
+      "longitude": 24.840236
+    },
+    {
+      "name": "Σπήλαιο Φερεκύδη",
+      "latitude": 37.468956,
+      "longitude": 24.938046
+    },
+    {
+      "name": "Σπήλαιο Ψυχρού;Δικταίον Αντρον",
+      "latitude": 35.162862,
+      "longitude": 25.445064
+    },
+    {
+      "name": "Σπήλαιο-Δολίνη Πανθήρων Βραυρώνας",
+      "latitude": 37.915782,
+      "longitude": 23.995941
+    },
+    {
+      "name": "Σπήλαιο-Ερμιτάζ Αγίου Γερασίμου",
+      "latitude": 38.159986,
+      "longitude": 20.486276
+    },
+    {
+      "name": "Σπίτι Άγγελου Σικελιανού",
+      "latitude": 37.985361,
+      "longitude": 23.435908
+    },
+    {
+      "name": "Σπίτι Βαλαωρίτη",
+      "latitude": 38.706651,
+      "longitude": 20.723658
+    },
+    {
+      "name": "Σπίτι Καράβι Κρυονερίου",
+      "latitude": 38.138238,
+      "longitude": 23.832594
+    },
+    {
+      "name": "Σπίτι Νίκου Καζαντζάκη",
+      "latitude": 36.850882,
+      "longitude": 22.258172
+    },
+    {
+      "name": "Σπίτι των εξόριστων-Σπίτι του Άρη Βελουχιώτη",
+      "latitude": 34.861365,
+      "longitude": 24.10644
+    },
+    {
+      "name": "Σπηλαιοβάραθρο Παιανίας \"Κουτούκι\"",
+      "latitude": 37.94605,
+      "longitude": 23.828544
+    },
+    {
+      "name": "Σπηλιά",
+      "latitude": 38.276576,
+      "longitude": 23.598015
+    },
+    {
+      "name": "Σπηλιά",
+      "latitude": 39.625876,
+      "longitude": 19.919427
+    },
+    {
+      "name": "Σπηλιά Αγίας Σοφίας",
+      "latitude": 36.251001,
+      "longitude": 22.925549
+    },
+    {
+      "name": "Σπηλιά Νταβέλη",
+      "latitude": 38.070834,
+      "longitude": 23.877298
+    },
+    {
+      "name": "Σπηλιά της φώκιας",
+      "latitude": 38.073973,
+      "longitude": 22.984554
+    },
+    {
+      "name": "Σπηλιές Αγίου Ιωάννη Βραχωρίτη",
+      "latitude": 38.662582,
+      "longitude": 21.19541
+    },
+    {
+      "name": "Σπλάντζια",
+      "latitude": 35.516697,
+      "longitude": 24.022451
+    },
+    {
+      "name": "Στέρνα στο Μπούμιστο",
+      "latitude": 38.731919,
+      "longitude": 21.04126
+    },
+    {
+      "name": "Στέφανος",
+      "latitude": 36.57793,
+      "longitude": 27.168183
+    },
+    {
+      "name": "Σταθμός βαθμονόμησης δορυφόρων αλτιμετρίας Γαύδου",
+      "latitude": 34.847921,
+      "longitude": 24.119825
+    },
+    {
+      "name": "Σταυρός",
+      "latitude": 37.779837,
+      "longitude": 20.678468
+    },
+    {
+      "name": "Σταυρός Αγίου Αχιλλείου",
+      "latitude": 40.779588,
+      "longitude": 21.088962
+    },
+    {
+      "name": "Στηλοειδείς Λάβες",
+      "latitude": 39.315478,
+      "longitude": 26.251825
+    },
+    {
+      "name": "Στις όχθες του Κερυνίτης",
+      "latitude": 38.167618,
+      "longitude": 22.117886
+    },
+    {
+      "name": "Συν-Οικία Πιττάκη",
+      "latitude": 37.977329,
+      "longitude": 23.724649
+    },
+    {
+      "name": "Σχολή Αξιωματικών ΕΛΑΣ",
+      "latitude": 39.062391,
+      "longitude": 21.978843
+    },
+    {
+      "name": "Σχολή Ελληνικών Γραμμάτων της Ρούμελης",
+      "latitude": 38.747586,
+      "longitude": 21.657823
+    },
+    {
+      "name": "Σωτήρα",
+      "latitude": 38.821427,
+      "longitude": 22.397631
+    },
+    {
+      "name": "Σύβοτα - Πισίνα παραλία",
+      "latitude": 39.404222,
+      "longitude": 20.227261
+    },
+    {
+      "name": "Τάφος Γιάννη Ψυχάρη",
+      "latitude": 38.424147,
+      "longitude": 26.136928
+    },
+    {
+      "name": "Τάφος Ηθοποιού Στέφανου Μιλτσακάκη",
+      "latitude": 41.031392,
+      "longitude": 26.249596
+    },
+    {
+      "name": "Τάφος Κωνσταντή Κολοκοτρώνη",
+      "latitude": 36.825583,
+      "longitude": 22.343596
+    },
+    {
+      "name": "Τάφος Μίκη Θεοδωράκη",
+      "latitude": 35.492608,
+      "longitude": 23.966651
+    },
+    {
+      "name": "Τάφος Μερμελέχα Αγία Σωτήρα",
+      "latitude": 37.446306,
+      "longitude": 25.326658
+    },
+    {
+      "name": "Τάφος Τάκη Καρναβά",
+      "latitude": 38.706674,
+      "longitude": 20.955091
+    },
+    {
+      "name": "Τέμενος Κοτζά Μουσταφά",
+      "latitude": 41.08634,
+      "longitude": 23.534852
+    },
+    {
+      "name": "Τέμενος Μεχμέτ Μπέη",
+      "latitude": 41.09174,
+      "longitude": 23.55957
+    },
+    {
+      "name": "Τέμπη",
+      "latitude": 39.879186,
+      "longitude": 22.57941
+    },
+    {
+      "name": "Τίγρης της Σουμάτρας",
+      "latitude": 37.979797,
+      "longitude": 23.90915
+    },
+    {
+      "name": "Τα Δύο Γεφύρια",
+      "latitude": 39.416459,
+      "longitude": 20.698131
+    },
+    {
+      "name": "Τα Εφτά (7) Κυπαρίσσια",
+      "latitude": 38.070993,
+      "longitude": 22.393413
+    },
+    {
+      "name": "Τείχος Αρχαίας Αμβρακίας",
+      "latitude": 39.16331,
+      "longitude": 20.990812
+    },
+    {
+      "name": "Τεκές Μπεκτασήδων",
+      "latitude": 39.307894,
+      "longitude": 22.645671
+    },
+    {
+      "name": "Τεκές Σεγίτ Αλή Σουλτάν",
+      "latitude": 41.292711,
+      "longitude": 25.999117
+    },
+    {
+      "name": "Τζάστενη",
+      "latitude": 39.128034,
+      "longitude": 23.162913
+    },
+    {
+      "name": "Τζιτζιρλί Τζαμί",
+      "latitude": 41.088107,
+      "longitude": 23.553761
+    },
+    {
+      "name": "ΤΙΓΑΝΙΑ BEACH BAR",
+      "latitude": 40.031982,
+      "longitude": 24.019189
+    },
+    {
+      "name": "Τμήμα Οχύρωσης (Πύργοι 22-23)",
+      "latitude": 39.354004,
+      "longitude": 22.974871
+    },
+    {
+      "name": "Το Γεφύρι της Άρτας",
+      "latitude": 39.151567,
+      "longitude": 20.974272
+    },
+    {
+      "name": "Το νοτιότερο σημείο της Ευρώπης",
+      "latitude": 34.800905,
+      "longitude": 24.122146
+    },
+    {
+      "name": "Το πηγάδι του Αχιλλέα",
+      "latitude": 39.017743,
+      "longitude": 26.178028
+    },
+    {
+      "name": "Το Σπιτάκι της Δασκάλας",
+      "latitude": 37.89341,
+      "longitude": 24.016029
+    },
+    {
+      "name": "ΤΟ ΣΠΙΤΙ ΜΑΣ",
+      "latitude": 40.385382,
+      "longitude": 22.963678
+    },
+    {
+      "name": "Τοξωτο γεφύρι Κρήνης",
+      "latitude": 41.26865,
+      "longitude": 24.562127
+    },
+    {
+      "name": "Του Παπαλάμπρου η Αυλή",
+      "latitude": 36.945342,
+      "longitude": 21.852606
+    },
+    {
+      "name": "Τουπουβίτσας",
+      "latitude": 41.307123,
+      "longitude": 23.53747
+    },
+    {
+      "name": "Τούρκικο αρχοντικό",
+      "latitude": 41.291961,
+      "longitude": 24.623675
+    },
+    {
+      "name": "Τούχνος-Ντούχνος (ερείπια)",
+      "latitude": 36.477619,
+      "longitude": 22.492204
+    },
+    {
+      "name": "Τρίτοξη λιθόκτιστη γέφυρα",
+      "latitude": 39.317465,
+      "longitude": 23.128255
+    },
+    {
+      "name": "Τρίτοξη λιθόκτιστη γέφυρα",
+      "latitude": 39.320629,
+      "longitude": 23.108442
+    },
+    {
+      "name": "Τρίχινο γεφύρι",
+      "latitude": 38.426528,
+      "longitude": 22.870308
+    },
+    {
+      "name": "Τραχυπίθηκος Ιάβας",
+      "latitude": 37.97907,
+      "longitude": 23.909696
+    },
+    {
+      "name": "Τρια Πηγάδια",
+      "latitude": 36.72997,
+      "longitude": 24.536147
+    },
+    {
+      "name": "Τριόπετρα",
+      "latitude": 35.114698,
+      "longitude": 24.547805
+    },
+    {
+      "name": "Τροπικά πουλιά",
+      "latitude": 37.980705,
+      "longitude": 23.910359
+    },
+    {
+      "name": "Τρύπα του Προδρόμου",
+      "latitude": 38.586518,
+      "longitude": 21.180628
+    },
+    {
+      "name": "Τρύπα Φενεού",
+      "latitude": 37.923562,
+      "longitude": 22.258728
+    },
+    {
+      "name": "Τρύπα Όσκλιανης",
+      "latitude": 39.123109,
+      "longitude": 21.623239
+    },
+    {
+      "name": "Τρύπια Σπηλιά",
+      "latitude": 37.90428,
+      "longitude": 23.798227
+    },
+    {
+      "name": "Τρύπιος Βράχος",
+      "latitude": 37.680174,
+      "longitude": 21.374478
+    },
+    {
+      "name": "Τσιτάχ",
+      "latitude": 37.98071,
+      "longitude": 23.905911
+    },
+    {
+      "name": "Τσουκάλι",
+      "latitude": 38.038084,
+      "longitude": 24.440666
+    },
+    {
+      "name": "Τύμβος Καστά",
+      "latitude": 40.839461,
+      "longitude": 23.862628
+    },
+    {
+      "name": "Υδατογέφυρα Λουκούς",
+      "latitude": 37.409852,
+      "longitude": 22.70627
+    },
+    {
+      "name": "Υδατόπυργος Παλλήνης",
+      "latitude": 38.005164,
+      "longitude": 23.88221
+    },
+    {
+      "name": "Υδρια κεραμικά",
+      "latitude": 35.191822,
+      "longitude": 24.453577
+    },
+    {
+      "name": "Υδρογέφυρα (εποχή Οθωμανών)",
+      "latitude": 41.097261,
+      "longitude": 23.545148
+    },
+    {
+      "name": "Υδρόμυλος",
+      "latitude": 37.974436,
+      "longitude": 23.72412
+    },
+    {
+      "name": "Υπεραιωνόβιος Πλάτανος",
+      "latitude": 37.167758,
+      "longitude": 22.026556
+    },
+    {
+      "name": "Φάρμα",
+      "latitude": 37.981068,
+      "longitude": 23.910621
+    },
+    {
+      "name": "Φαέθων Φάρμα μινιατούρας αλόγων",
+      "latitude": 36.237864,
+      "longitude": 28.093734
+    },
+    {
+      "name": "Φαλάσαρνα",
+      "latitude": 35.504408,
+      "longitude": 23.576546
+    },
+    {
+      "name": "Φανάρι για τα πλοία",
+      "latitude": 38.462719,
+      "longitude": 23.588857
+    },
+    {
+      "name": "Φαράγγι Αγίου Αντωνίου / Πατσός",
+      "latitude": 35.260931,
+      "longitude": 24.570558
+    },
+    {
+      "name": "Φαράγγι Κλεισούρας",
+      "latitude": 38.50363,
+      "longitude": 21.378512
+    },
+    {
+      "name": "Φαράγγι Κουβαρά",
+      "latitude": 39.993558,
+      "longitude": 20.437105
+    },
+    {
+      "name": "Φαράγγι Μπουζονίκου",
+      "latitude": 39.051147,
+      "longitude": 21.449792
+    },
+    {
+      "name": "Φαράγγι Περιστεριάς",
+      "latitude": 37.27747,
+      "longitude": 21.738026
+    },
+    {
+      "name": "Φαράγγι Περιστεριώνα",
+      "latitude": 38.146301,
+      "longitude": 22.284091
+    },
+    {
+      "name": "Φαράγγι Σαρακίνα",
+      "latitude": 35.396188,
+      "longitude": 23.960932
+    },
+    {
+      "name": "Φαράγγι Σερβίων",
+      "latitude": 40.176934,
+      "longitude": 21.996005
+    },
+    {
+      "name": "Φαράγγι της Σαμαριάς - Είσοδος",
+      "latitude": 35.307863,
+      "longitude": 23.918371
+    },
+    {
+      "name": "Φαράγγι του Δία - Πέτρινο Γεφύρι Αμβρακιάς",
+      "latitude": 38.670932,
+      "longitude": 21.707324
+    },
+    {
+      "name": "Φαράγγι Τρυπητή",
+      "latitude": 34.94076,
+      "longitude": 24.983981
+    },
+    {
+      "name": "Φαράγγι Χά",
+      "latitude": 35.085213,
+      "longitude": 25.834352
+    },
+    {
+      "name": "Φλαμίνγκο",
+      "latitude": 37.980339,
+      "longitude": 23.910176
+    },
+    {
+      "name": "Φοινικόδασος",
+      "latitude": 37.720936,
+      "longitude": 24.052113
+    },
+    {
+      "name": "Φοινικόδασος της Πρέβελης",
+      "latitude": 35.153352,
+      "longitude": 24.473573
+    },
+    {
+      "name": "Φράγμα Μαραθώνα",
+      "latitude": 38.166946,
+      "longitude": 23.905629
+    },
+    {
+      "name": "Φράγμα Ταυρωπού",
+      "latitude": 39.235798,
+      "longitude": 21.745808
+    },
+    {
+      "name": "Φρέαρ του Ιακώβ",
+      "latitude": 37.618635,
+      "longitude": 22.387851
+    },
+    {
+      "name": "Φρεάτιο Αδριάνειου Υδραγωγείου",
+      "latitude": 38.111285,
+      "longitude": 23.768589
+    },
+    {
+      "name": "Φυλάκιο 42",
+      "latitude": 41.370175,
+      "longitude": 24.86156
+    },
+    {
+      "name": "φυλάκιο Νάσιουτζικ",
+      "latitude": 41.189928,
+      "longitude": 23.644625
+    },
+    {
+      "name": "Φωτισμένος βράχος",
+      "latitude": 37.52387,
+      "longitude": 22.72852
+    },
+    {
+      "name": "Χάνι Γραβιάς (Αναπαράσταση)",
+      "latitude": 38.671111,
+      "longitude": 22.427549
+    },
+    {
+      "name": "Χείλη Μονρώ",
+      "latitude": 41.224632,
+      "longitude": 23.580189
+    },
+    {
+      "name": "Χιλιομετρικό Σημείο Μηδέν Αθήνας",
+      "latitude": 37.973457,
+      "longitude": 23.718047
+    },
+    {
+      "name": "Χιμπατζής",
+      "latitude": 37.98212,
+      "longitude": 23.910669
+    },
+    {
+      "name": "Χιονοδρομικό Κέντρο Μαινάλου",
+      "latitude": 37.651099,
+      "longitude": 22.266683
+    },
+    {
+      "name": "Χιονοκάρκαρος",
+      "latitude": 38.57083,
+      "longitude": 22.626734
+    },
+    {
+      "name": "Χορηγικό μνημείο Νικία",
+      "latitude": 37.970239,
+      "longitude": 23.726959
+    },
+    {
+      "name": "Χύτρα",
+      "latitude": 36.095379,
+      "longitude": 22.997244
+    },
+    {
+      "name": "Ψυρρή",
+      "latitude": 37.978421,
+      "longitude": 23.724942
+    },
+    {
+      "name": "Ύδατα Στυγός",
+      "latitude": 37.983451,
+      "longitude": 22.204329
+    },
+    {
+      "name": "Агенство экскурсий \"Иван Сусанин\"",
+      "latitude": 35.330316,
+      "longitude": 25.255605
+    },
+    {
+      "name": "Долина бабочек",
+      "latitude": 36.337617,
+      "longitude": 28.061896
+    },
+    {
+      "name": "Каваларис",
+      "latitude": 35.147768,
+      "longitude": 25.034875
+    },
+    {
+      "name": "конюшни Ариона (верховая езда)",
+      "latitude": 35.322623,
+      "longitude": 25.359486
+    },
+    {
+      "name": "Развилка на виноградники",
+      "latitude": 35.217274,
+      "longitude": 25.146469
+    },
+    {
+      "name": "Руины Касфанеи",
+      "latitude": 39.586131,
+      "longitude": 22.925455
+    },
+    {
+      "name": "Эгейское море",
+      "latitude": 38.331664,
+      "longitude": 25.158199
+    },
+    {
+      "name": "Ѓаволски мост",
+      "latitude": 41.341596,
+      "longitude": 22.847483
+    }
+  ],
+  "meta": {
+    "title": "Αξιοθέατα Ελλάδας - Δωρεάν λήψη",
+    "description": "Τουριστικά αξιοθέατα σε όλη την Ελλάδα από το OpenStreetMap. Tourist attractions across Greece. Περιέχει 981 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αξιοθέατα Ελλάδας | ListBase",
+    "seo_description": "Λήψη Αξιοθέατα Ελλάδας — 981 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 981 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

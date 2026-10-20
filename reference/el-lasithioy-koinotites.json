@@ -1,0 +1,674 @@
+{
+  "id": "el-lasithioy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Λασιθιου (89)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Λασιθιου (89)",
+  "description": "Οι 89 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λασιθιου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 89,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "340101",
+      "name": "Αγιου Νικολαου",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340103",
+      "name": "Ελουντας",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340108",
+      "name": "Κριτσας",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340102",
+      "name": "Βρουχα",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340104",
+      "name": "Εξω Λακκωνιων",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340105",
+      "name": "Εξω Ποταμων",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340106",
+      "name": "Ζενιων",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340107",
+      "name": "Καλου Χωριου",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340109",
+      "name": "Κρουστα",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340110",
+      "name": "Λιμνων",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340111",
+      "name": "Λουμα",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340112",
+      "name": "Μεσα Λακκωνιων",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340113",
+      "name": "Πρινας",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340114",
+      "name": "Σκινια",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340901",
+      "name": "Βραχασιου",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340607",
+      "name": "Νεαπολεως",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340601",
+      "name": "Αγιου Αντωνιου",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340602",
+      "name": "Βουλισμενης",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340603",
+      "name": "Βρυσων",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340604",
+      "name": "Καρυδιου Μιραμπελλου",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340605",
+      "name": "Καστελλιου Φουρνης",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340606",
+      "name": "Λατσιδας",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340608",
+      "name": "Νικηθιανου",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340609",
+      "name": "Φουρνης",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340610",
+      "name": "Χουμεριακου",
+      "municipality": "Αγιου Νικολαου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340204",
+      "name": "Ιεραπετρας",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340201",
+      "name": "Αγιου Ιωαννου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340202",
+      "name": "Ανατολης",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340203",
+      "name": "Γδοχιων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340205",
+      "name": "Καβουσιου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340206",
+      "name": "Καλαμαυκας",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340207",
+      "name": "Κατω Χωριου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340208",
+      "name": "Μακρυλιας",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340209",
+      "name": "Μαλων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340210",
+      "name": "Μεσελερων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340211",
+      "name": "Μεταξοχωριου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340212",
+      "name": "Μουρνιων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340213",
+      "name": "Μυθων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340214",
+      "name": "Μυρτου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340215",
+      "name": "Παχειας Αμμου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340216",
+      "name": "Ριζης",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340217",
+      "name": "Χριστου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340501",
+      "name": "Αγιου Στεφανου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340502",
+      "name": "Λιθινων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340503",
+      "name": "Ορεινου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340504",
+      "name": "Περιβολακιων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340505",
+      "name": "Πευκων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340506",
+      "name": "Σταυροχωριου",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340507",
+      "name": "Σχινοκαψαλων",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340508",
+      "name": "Χρυσοπηγης",
+      "municipality": "Ιεραπετρας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340701",
+      "name": "Αβρακοντε",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340702",
+      "name": "Αγιου Γεωργιου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340703",
+      "name": "Αγιου Κωνσταντινου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340704",
+      "name": "Καμινακιου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340705",
+      "name": "Κατω Μετοχιου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340706",
+      "name": "Λαγου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340707",
+      "name": "Μαρμακετου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340708",
+      "name": "Μεσα Λασιθιου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340709",
+      "name": "Πλατης",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340710",
+      "name": "Τζερμιαδου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340711",
+      "name": "Ψυχρου",
+      "municipality": "Οροπεδιου Λασιθιου",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340301",
+      "name": "Ζακρου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340302",
+      "name": "Καρυδιου(Σητειας)",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340303",
+      "name": "Μητατου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340304",
+      "name": "Παλαικαστρου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340401",
+      "name": "Αγιας Τριαδος",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340402",
+      "name": "Απιδιων (Μεσα Απιδιου)",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340403",
+      "name": "Αρμενων",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340404",
+      "name": "Ζιρου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340405",
+      "name": "Παππαγιανναδων",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340406",
+      "name": "Χανδρα",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340813",
+      "name": "Σητειας",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340801",
+      "name": "Αγιου Γεωργιου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340802",
+      "name": "Αχλαδιων",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340803",
+      "name": "Εξω Μουλιανων",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340804",
+      "name": "Κατσιδωνιου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340805",
+      "name": "Κρυων",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340806",
+      "name": "Λαστρου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340807",
+      "name": "Μαρωνιας",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340808",
+      "name": "Μεσα Μουλιανων",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340809",
+      "name": "Μυρσινης",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340810",
+      "name": "Πισκοκεφαλου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340811",
+      "name": "Πραισου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340812",
+      "name": "Ρουσσας Εκκλησιας",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340814",
+      "name": "Σκοπης",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340815",
+      "name": "Σταυρωμενου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340816",
+      "name": "Σφακας",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340817",
+      "name": "Τουρλωτης",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "340818",
+      "name": "Χαμεζιου",
+      "municipality": "Σητειας",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Λασιθιου (89) - Δωρεάν λήψη",
+    "description": "Οι 89 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λασιθιου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη. Περιέχει 89 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Λασιθιου (89) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Λασιθιου (89) — 89 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 89 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,702 @@
+{
+  "id": "el-attikis-nosokomeia",
+  "name": "Νοσοκομεία και κλινικές — Περιφέρεια Αττικής",
+  "title": "Νοσοκομεία και κλινικές — Περιφέρεια Αττικής",
+  "description": "Σημεία νοσοκομείων και κλινικών στην Περιφέρεια Αττικής με ελληνική ονομασία, αγγλική ονομασία (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-10-01). (Hospitals and clinics in Attica with Greek/English names and WGS84 coordinates.)",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 93,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 7,
+      "name": "Κλινική Γαλήνη",
+      "name_en": "",
+      "latitude": 38.0870803,
+      "longitude": 23.8081897
+    },
+    {
+      "source_id": 27,
+      "name": "Γενικό Νομαρχιακό Νοσοκομείο Αθηνών Κοργιαλένιο Μπενάκειο Ελληνικού Ερυθρού Σταυρού",
+      "name_en": "",
+      "latitude": 37.9920649,
+      "longitude": 23.769252
+    },
+    {
+      "source_id": 28,
+      "name": "Ερρίκος Ντυνάν",
+      "name_en": "",
+      "latitude": 37.990627,
+      "longitude": 23.7696433
+    },
+    {
+      "source_id": 29,
+      "name": "401 Γενικό Στρατιωτικό Νοσοκομείο Αθηνών",
+      "name_en": "401 General Military Hospital of Athens",
+      "latitude": 37.9918314,
+      "longitude": 23.7785787
+    },
+    {
+      "source_id": 30,
+      "name": "Νοσοκομείο Παίδων",
+      "name_en": "",
+      "latitude": 37.985387,
+      "longitude": 23.7689617
+    },
+    {
+      "source_id": 41,
+      "name": "Κέντρο Υγείας Κερατέας",
+      "name_en": "",
+      "latitude": 37.8135769,
+      "longitude": 23.9667787
+    },
+    {
+      "source_id": 68,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.7531758,
+      "longitude": 23.4314038
+    },
+    {
+      "source_id": 102,
+      "name": "Ωνάσειο Καρδιοχειρουργικό Κέντρο",
+      "name_en": "Onassis Cardiac Surgery Center",
+      "latitude": 37.9426134,
+      "longitude": 23.6974335
+    },
+    {
+      "source_id": 117,
+      "name": "ΝΙΜΤΣ - Νοσηλευτικό Ίδρυμα Μετοχικού Ταμείου Στρατού 417",
+      "name_en": "NIMTS - 417 Army Equity Fund Hospital",
+      "latitude": 37.9794725,
+      "longitude": 23.7513507
+    },
+    {
+      "source_id": 122,
+      "name": "Γενικό Νοσοκομείο Νίκαιας \"Αγ. Παντελεήμων\"",
+      "name_en": "",
+      "latitude": 37.9720132,
+      "longitude": 23.6628353
+    },
+    {
+      "source_id": 342,
+      "name": "Σισμανόγλειο Γενικό Νοσοκομείο",
+      "name_en": "",
+      "latitude": 38.045979,
+      "longitude": 23.8287791
+    },
+    {
+      "source_id": 572,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0292025,
+      "longitude": 23.9679367
+    },
+    {
+      "source_id": 610,
+      "name": "Κέντρο Υγείας Μεγάρων",
+      "name_en": "",
+      "latitude": 37.9984573,
+      "longitude": 23.3512936
+    },
+    {
+      "source_id": 635,
+      "name": "Γενικό Νοσοκομείο Αθηνών \"Ευαγγελισμός\"",
+      "name_en": "Evangelismos Hospital",
+      "latitude": 37.9777601,
+      "longitude": 23.7477793
+    },
+    {
+      "source_id": 642,
+      "name": "Ναυτικό Νοσοκομείο Αθηνών",
+      "name_en": "Naval Hostpital of Athens",
+      "latitude": 37.9817271,
+      "longitude": 23.7520318
+    },
+    {
+      "source_id": 646,
+      "name": "Γενικό Νοσοκομείο Αθηνών \"Αλεξάνδρα\"",
+      "name_en": "Alexandra Hospital",
+      "latitude": 37.9801307,
+      "longitude": 23.7552795
+    },
+    {
+      "source_id": 647,
+      "name": "Αρεταίειο Νοσοκομείο",
+      "name_en": "Areteio Hospital",
+      "latitude": 37.9795046,
+      "longitude": 23.7548038
+    },
+    {
+      "source_id": 649,
+      "name": "Νοσοκομείο Αφροδισίων & Δερματικών Νόσων «Ανδρέας Συγγρός»",
+      "name_en": "Andreas Syngros Hospital",
+      "latitude": 37.9734795,
+      "longitude": 23.7523067
+    },
+    {
+      "source_id": 653,
+      "name": "Περιφερειακό Γενικό Νοσοκομείο - Μαιευτήριο \"Έλενα Βενιζέλου\"",
+      "name_en": "General and Maternity Hospital \"Helena Venizelou\"",
+      "latitude": 37.9849567,
+      "longitude": 23.7558979
+    },
+    {
+      "source_id": 657,
+      "name": "Γενικό Νοσοκομείο Αθηνών \"Ιπποκράτειο\"",
+      "name_en": "Hippocratio Hospital",
+      "latitude": 37.9836922,
+      "longitude": 23.7597588
+    },
+    {
+      "source_id": 676,
+      "name": "Γενικό Νοσοκομείο Αθηνών \"Η Ελπίς\"",
+      "name_en": "",
+      "latitude": 37.9899876,
+      "longitude": 23.7553889
+    },
+    {
+      "source_id": 694,
+      "name": "Γενικό Νοσοκομείο Ελευσίνας «Θριάσιο»",
+      "name_en": "Thriassio General Hospital",
+      "latitude": 38.0717255,
+      "longitude": 23.5326127
+    },
+    {
+      "source_id": 756,
+      "name": "Ευρωκλινική Αθηνών",
+      "name_en": "",
+      "latitude": 37.986366,
+      "longitude": 23.7584584
+    },
+    {
+      "source_id": 759,
+      "name": "Τζάνειο Γενικό Νοσοκομείο Πειραιά",
+      "name_en": "Tzanio General Hospital",
+      "latitude": 37.9341662,
+      "longitude": 23.6459011
+    },
+    {
+      "source_id": 774,
+      "name": "Metropolitan Hospital",
+      "name_en": "",
+      "latitude": 37.9451516,
+      "longitude": 23.6698915
+    },
+    {
+      "source_id": 775,
+      "name": "Metropolitan Hospital",
+      "name_en": "",
+      "latitude": 37.9450858,
+      "longitude": 23.6704795
+    },
+    {
+      "source_id": 803,
+      "name": "Γενικό Νοσοκομείο Αθηνών \"Λαϊκό\"",
+      "name_en": "",
+      "latitude": 37.9840353,
+      "longitude": 23.7652256
+    },
+    {
+      "source_id": 805,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0353774,
+      "longitude": 23.7936627
+    },
+    {
+      "source_id": 828,
+      "name": "Ασκληπιείο Βούλας",
+      "name_en": "Asklepieio Voulas",
+      "latitude": 37.848823,
+      "longitude": 23.7572858
+    },
+    {
+      "source_id": 903,
+      "name": "Κλινική Άγιος Γεράσιμος",
+      "name_en": "",
+      "latitude": 38.0721227,
+      "longitude": 23.737422
+    },
+    {
+      "source_id": 921,
+      "name": "Athens Eye Hospital",
+      "name_en": "",
+      "latitude": 37.8803835,
+      "longitude": 23.754748
+    },
+    {
+      "source_id": 1094,
+      "name": "Γενικό Αντικαρκινικό Νοσοκομείο Πειραιά Μεταξά",
+      "name_en": "Metaxa General Hospital",
+      "latitude": 37.9296283,
+      "longitude": 23.6439395
+    },
+    {
+      "source_id": 1190,
+      "name": "Γενικό Νοσοκομείο Αθηνών \"Γιώργος Γεννηματάς\"",
+      "name_en": "General Hospital of Athens \"Giorgos Gennimatas\"",
+      "latitude": 37.9967836,
+      "longitude": 23.7838188
+    },
+    {
+      "source_id": 1201,
+      "name": "Κωνσταντοπούλειο Συγκρότημα - Γενικό Νοσοκομείο Νέας Ιωνίας «Η Αγία Όλγα»",
+      "name_en": "",
+      "latitude": 38.037891,
+      "longitude": 23.7580076
+    },
+    {
+      "source_id": 1408,
+      "name": "Ιατρικό Κέντρο Αθηνών",
+      "name_en": "Athens Medical Center",
+      "latitude": 38.0432045,
+      "longitude": 23.8056418
+    },
+    {
+      "source_id": 1440,
+      "name": "Αντικαρκινικό - Ογκολογικό Νοσοκομείο Αθηνών \"Αγιος Σάββας\"",
+      "name_en": "",
+      "latitude": 37.9882219,
+      "longitude": 23.7552683
+    },
+    {
+      "source_id": 1544,
+      "name": "Νομαρχιακό Γενικό Ογκολογικό Νοσοκομείο Κηφισιάς, Άγιοι Ανάργυροι",
+      "name_en": "",
+      "latitude": 38.0797886,
+      "longitude": 23.7708049
+    },
+    {
+      "source_id": 1795,
+      "name": "Ψυχιατρικό τμήμα Νοσοκομείου Αγίας Όλγας",
+      "name_en": "",
+      "latitude": 38.0389821,
+      "longitude": 23.758321
+    },
+    {
+      "source_id": 1938,
+      "name": "Παθολογικό Νοσοκομείο Αθηνών - Σπηλιοπούλειο \"Η Αγία Ελένη\"",
+      "name_en": "",
+      "latitude": 37.9841947,
+      "longitude": 23.7564695
+    },
+    {
+      "source_id": 1943,
+      "name": "Αιγινήτειο Νοσοκομείο",
+      "name_en": "Eginitio Hospital",
+      "latitude": 37.9790614,
+      "longitude": 23.7541624
+    },
+    {
+      "source_id": 1944,
+      "name": "414 ΣΤΡΑΤΙΩΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ ΕΙΔΙΚΩΝ ΝΟΣΗΜΑΤΩΝ",
+      "name_en": "",
+      "latitude": 38.0606981,
+      "longitude": 23.8734886
+    },
+    {
+      "source_id": 1950,
+      "name": "Γενικό Νοσοκομείο Αττικής \"ΚΑΤ\"",
+      "name_en": "",
+      "latitude": 38.0659166,
+      "longitude": 23.8073664
+    },
+    {
+      "source_id": 2058,
+      "name": "Νοσοκομείο Παίδων \"Παναγιώτη και Αγλαΐας Κυριακού\" - Παράρτημα Καλλιθέας",
+      "name_en": "\"Aglaia Kyriakou\" Children’s Hospital - Kallithea Branch",
+      "latitude": 37.9485202,
+      "longitude": 23.7055129
+    },
+    {
+      "source_id": 2091,
+      "name": "Πανεπιστημιακό Γενικό Νοσοκομείο \"Αττικόν\"",
+      "name_en": "University Hospital \"Attikon\"",
+      "latitude": 38.0171104,
+      "longitude": 23.6671478
+    },
+    {
+      "source_id": 2130,
+      "name": "Γενικό Νοσοκομείο Νοσημάτων Θώρακος \"Η Σωτηρία\"",
+      "name_en": "",
+      "latitude": 37.993798,
+      "longitude": 23.7835
+    },
+    {
+      "source_id": 2143,
+      "name": "Μητέρα",
+      "name_en": "",
+      "latitude": 38.0290157,
+      "longitude": 23.789122
+    },
+    {
+      "source_id": 2144,
+      "name": "Υγεία",
+      "name_en": "",
+      "latitude": 38.0286629,
+      "longitude": 23.7902029
+    },
+    {
+      "source_id": 2296,
+      "name": "ΨΥΧΙΑΤΡΙΚΗ ΚΛΙΝΙΚΗ ΣΑΜΕΛΛΑ Δ. Α.Ε. - ΤΟ ΑΣΚΛΗΠΙΕΙΟΝ",
+      "name_en": "",
+      "latitude": 38.0189346,
+      "longitude": 23.7892648
+    },
+    {
+      "source_id": 2576,
+      "name": "Βιοιατρική--EUROMEDICA",
+      "name_en": "",
+      "latitude": 38.0647168,
+      "longitude": 23.8088261
+    },
+    {
+      "source_id": 2604,
+      "name": "Παίδων Πεντέλης",
+      "name_en": "Penteli Children Hospital",
+      "latitude": 38.0506223,
+      "longitude": 23.8755866
+    },
+    {
+      "source_id": 2612,
+      "name": "Κέντρο Υγείας Αλεξάνδρας",
+      "name_en": "",
+      "latitude": 37.9887969,
+      "longitude": 23.7513287
+    },
+    {
+      "source_id": 3118,
+      "name": "Αμαλία Φλέμινγκ Πτέρυγα Μπόμπολα",
+      "name_en": "",
+      "latitude": 38.0552845,
+      "longitude": 23.8414038
+    },
+    {
+      "source_id": 3162,
+      "name": "414 Στρατιωτικό Νοσοκομείο Ειδικών Νοσημάτων",
+      "name_en": "",
+      "latitude": 38.0607345,
+      "longitude": 23.8736996
+    },
+    {
+      "source_id": 3230,
+      "name": "Πολυκλινική Αθηνών",
+      "name_en": "",
+      "latitude": 37.9832852,
+      "longitude": 23.7268262
+    },
+    {
+      "source_id": 3288,
+      "name": "Γενικό Νοσοκομείο Αθηνών \"Λαϊκό\" - Παράρτημα Σεβαστουπόλεως",
+      "name_en": "",
+      "latitude": 37.9870928,
+      "longitude": 23.7638276
+    },
+    {
+      "source_id": 3321,
+      "name": "Άγιος Σάββας - Κέντρο Ημερήσιας Νοσηλείας «Νίκος Κούρκουλος»",
+      "name_en": "",
+      "latitude": 37.9907499,
+      "longitude": 23.7413862
+    },
+    {
+      "source_id": 3395,
+      "name": "Ευγενίδειο Θεραπευτήριο",
+      "name_en": "",
+      "latitude": 37.9785231,
+      "longitude": 23.7548543
+    },
+    {
+      "source_id": 3398,
+      "name": "Παράρτημα Ιπποκρατείου Νοσοκομείου Αθηνών",
+      "name_en": "",
+      "latitude": 37.9830363,
+      "longitude": 23.7583965
+    },
+    {
+      "source_id": 3606,
+      "name": "Metropolitan Hospital",
+      "name_en": "",
+      "latitude": 37.9450555,
+      "longitude": 23.6694773
+    },
+    {
+      "source_id": 3632,
+      "name": "we.physio",
+      "name_en": "",
+      "latitude": 37.9435094,
+      "longitude": 23.7137922
+    },
+    {
+      "source_id": 4089,
+      "name": "Παμμακάριστος",
+      "name_en": "",
+      "latitude": 38.0142613,
+      "longitude": 23.7315822
+    },
+    {
+      "source_id": 4918,
+      "name": "Ιατρικό Παλαιού Φαλήρου",
+      "name_en": "",
+      "latitude": 37.9251747,
+      "longitude": 23.6997435
+    },
+    {
+      "source_id": 5322,
+      "name": "Εθνικό Κέντρο Αποκατάστασης",
+      "name_en": "",
+      "latitude": 38.0495834,
+      "longitude": 23.7177383
+    },
+    {
+      "source_id": 5429,
+      "name": "Κέντρο Υγείας Σαλαμίνας",
+      "name_en": "",
+      "latitude": 37.9679946,
+      "longitude": 23.4791059
+    },
+    {
+      "source_id": 5630,
+      "name": "Βιοκλινική Αθήνας",
+      "name_en": "",
+      "latitude": 37.9947939,
+      "longitude": 23.765146
+    },
+    {
+      "source_id": 5649,
+      "name": "Γενικό Νοσοκομείο Κυθήρων \"Τριφύλλειο\"",
+      "name_en": "General Hospital of Kythira",
+      "latitude": 36.2771536,
+      "longitude": 22.965068
+    },
+    {
+      "source_id": 5755,
+      "name": "Γενική Κλινική ΑΘΗΝΑΙΟΝ Euromedica",
+      "name_en": "",
+      "latitude": 37.9646121,
+      "longitude": 23.75599
+    },
+    {
+      "source_id": 5831,
+      "name": "251 Γενικό Νοσοκομείο Αεροπορίας",
+      "name_en": "",
+      "latitude": 37.9897103,
+      "longitude": 23.7803785
+    },
+    {
+      "source_id": 6268,
+      "name": "Ψυχιατρικό Θεραπευτήριο «Αθηνά»",
+      "name_en": "",
+      "latitude": 38.0424938,
+      "longitude": 23.8381737
+    },
+    {
+      "source_id": 6495,
+      "name": "Δρομοκαΐτειο",
+      "name_en": "",
+      "latitude": 38.0002412,
+      "longitude": 23.6626908
+    },
+    {
+      "source_id": 7447,
+      "name": "Αμαλία Φλέμινγκ",
+      "name_en": "Amalia Fleming Prefecture General Hospital",
+      "latitude": 38.0543409,
+      "longitude": 23.8349783
+    },
+    {
+      "source_id": 7999,
+      "name": "Mediterraneo Hospital",
+      "name_en": "",
+      "latitude": 37.885689,
+      "longitude": 23.7469032
+    },
+    {
+      "source_id": 8875,
+      "name": "Κλινική Αγία Ειρήνη",
+      "name_en": "West Clinic Egaleo",
+      "latitude": 37.99124,
+      "longitude": 23.6767057
+    },
+    {
+      "source_id": 8876,
+      "name": "ΚΛΙΝΙΚΗ ΤΙΜΙΟΣ ΣΤΑΥΡΟΣ",
+      "name_en": "",
+      "latitude": 37.9899235,
+      "longitude": 23.6750905
+    },
+    {
+      "source_id": 8957,
+      "name": "Metropolitan General",
+      "name_en": "",
+      "latitude": 38.006145,
+      "longitude": 23.798663
+    },
+    {
+      "source_id": 8990,
+      "name": "Ιατρικό Αθηνών Κλινική Ψυχικού",
+      "name_en": "Hospital of Psychiko",
+      "latitude": 37.9965231,
+      "longitude": 23.7696641
+    },
+    {
+      "source_id": 8994,
+      "name": "Κλινική Σινούρη",
+      "name_en": "",
+      "latitude": 38.0873509,
+      "longitude": 23.8100874
+    },
+    {
+      "source_id": 9214,
+      "name": "Νευροψυχιατρική Κλινική \"Παναγιά η Γρηγορούσα\"",
+      "name_en": "",
+      "latitude": 38.0631713,
+      "longitude": 23.7744508
+    },
+    {
+      "source_id": 9773,
+      "name": "Κουλούρειο Νοσοκομείο Ύδρας Παναγία η Φανερωμένη - Hospital",
+      "name_en": "",
+      "latitude": 37.3488267,
+      "longitude": 23.4653483
+    },
+    {
+      "source_id": 9841,
+      "name": "Ιατρικό Αθηνών Κλινική Περιστερίου",
+      "name_en": "General Hospital of Peristeri",
+      "latitude": 38.0053594,
+      "longitude": 23.7009839
+    },
+    {
+      "source_id": 10962,
+      "name": "Γεώργιος Χρυσοχοϊδης",
+      "name_en": "",
+      "latitude": 38.1209555,
+      "longitude": 23.859149
+    },
+    {
+      "source_id": 12753,
+      "name": "Γένεσις Αθηνών",
+      "name_en": "",
+      "latitude": 38.0224126,
+      "longitude": 23.7914824
+    },
+    {
+      "source_id": 15369,
+      "name": "Γεν. Νοσ. \"Αλεξάνδρα\" (Εξωτερικά Ιατρεία)",
+      "name_en": "",
+      "latitude": 37.9810314,
+      "longitude": 23.7562692
+    },
+    {
+      "source_id": 17105,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.935238,
+      "longitude": 23.7479747
+    },
+    {
+      "source_id": 17106,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.930915,
+      "longitude": 23.7528229
+    },
+    {
+      "source_id": 20825,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1153851,
+      "longitude": 23.8647321
+    },
+    {
+      "source_id": 21808,
+      "name": "Κέντρο Υγείας Σαλαμίνας",
+      "name_en": "",
+      "latitude": 37.9678497,
+      "longitude": 23.4790821
+    },
+    {
+      "source_id": 22894,
+      "name": "Δαβανέλος Κωνσταντίνος",
+      "name_en": "",
+      "latitude": 38.0942552,
+      "longitude": 23.8029209
+    },
+    {
+      "source_id": 23988,
+      "name": "Ναυτικό Νοσοκομείο Πειραιά",
+      "name_en": "",
+      "latitude": 37.934533,
+      "longitude": 23.6480004
+    },
+    {
+      "source_id": 24131,
+      "name": "Ογκολογική Μονάδα Παίδων «ΕΛΠΙΔΑ»",
+      "name_en": "",
+      "latitude": 37.9858264,
+      "longitude": 23.769913
+    },
+    {
+      "source_id": 24866,
+      "name": "Skintopia Dermatology Center - Κριτσωτάκη Ελευθερία",
+      "name_en": "",
+      "latitude": 38.0365601,
+      "longitude": 23.6938297
+    },
+    {
+      "source_id": 26749,
+      "name": "ΠΙΚΠΑ Βούλας",
+      "name_en": "",
+      "latitude": 37.8518859,
+      "longitude": 23.7457428
+    },
+    {
+      "source_id": 34107,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9856507,
+      "longitude": 23.7628736
+    }
+  ],
+  "meta": {
+    "title": "Νοσοκομεία και κλινικές — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Σημεία νοσοκομείων και κλινικών στην Περιφέρεια Αττικής με ελληνική ονομασία, αγγλική ονομασία (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-10-01). (Hospitals and clinics in Attica with Greek/English names and WGS84 coordinates.) Περιέχει 93 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Νοσοκομεία και κλινικές — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Νοσοκομεία και κλινικές — Περιφέρεια Αττικής — 93 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 93 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

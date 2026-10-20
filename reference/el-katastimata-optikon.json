@@ -1,0 +1,3121 @@
+{
+  "id": "el-katastimata-optikon",
+  "name": "Καταστήματα Οπτικών Ελλάδας",
+  "title": "Καταστήματα Οπτικών Ελλάδας",
+  "description": "Καταστήματα οπτικών σε όλη την Ελλάδα από το OpenStreetMap. Opticians across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 616,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "A. Kjærbede",
+      "latitude": 38.020429,
+      "longitude": 23.80177
+    },
+    {
+      "name": "Anastasiadis",
+      "latitude": 37.979368,
+      "longitude": 23.763519
+    },
+    {
+      "name": "ANASTASIADIS optica stores",
+      "latitude": 40.630887,
+      "longitude": 22.950801
+    },
+    {
+      "name": "Angelos",
+      "latitude": 37.990897,
+      "longitude": 23.756418
+    },
+    {
+      "name": "Angelos Optics",
+      "latitude": 37.990314,
+      "longitude": 23.748238
+    },
+    {
+      "name": "Art 'n Optics",
+      "latitude": 40.272272,
+      "longitude": 22.509118
+    },
+    {
+      "name": "Art optical",
+      "latitude": 38.059015,
+      "longitude": 23.79341
+    },
+    {
+      "name": "Art-Optical",
+      "latitude": 38.023586,
+      "longitude": 23.735208
+    },
+    {
+      "name": "Artemiadis",
+      "latitude": 37.862637,
+      "longitude": 23.755148
+    },
+    {
+      "name": "Artemiadis",
+      "latitude": 37.976555,
+      "longitude": 23.733952
+    },
+    {
+      "name": "Artemiadis",
+      "latitude": 37.97802,
+      "longitude": 23.733735
+    },
+    {
+      "name": "Attica",
+      "latitude": 38.653584,
+      "longitude": 23.000229
+    },
+    {
+      "name": "Ba",
+      "latitude": 37.959664,
+      "longitude": 23.708411
+    },
+    {
+      "name": "Ba Optics",
+      "latitude": 38.015759,
+      "longitude": 23.834395
+    },
+    {
+      "name": "Beseen",
+      "latitude": 37.980166,
+      "longitude": 23.735599
+    },
+    {
+      "name": "Beseen",
+      "latitude": 38.020309,
+      "longitude": 23.801583
+    },
+    {
+      "name": "BeSeen",
+      "latitude": 38.073308,
+      "longitude": 23.814794
+    },
+    {
+      "name": "Black frame",
+      "latitude": 37.863078,
+      "longitude": 23.749819
+    },
+    {
+      "name": "Bottega Ottica",
+      "latitude": 38.059322,
+      "longitude": 23.795108
+    },
+    {
+      "name": "Casa d'Ottico",
+      "latitude": 38.021041,
+      "longitude": 23.735844
+    },
+    {
+      "name": "Centro-ottico",
+      "latitude": 37.962548,
+      "longitude": 23.719676
+    },
+    {
+      "name": "D-Pot",
+      "latitude": 37.977765,
+      "longitude": 23.729685
+    },
+    {
+      "name": "Delta Optic",
+      "latitude": 37.928762,
+      "longitude": 23.694219
+    },
+    {
+      "name": "Diamantopoulos",
+      "latitude": 37.86045,
+      "longitude": 23.754354
+    },
+    {
+      "name": "Diathlasis",
+      "latitude": 40.632556,
+      "longitude": 22.9503
+    },
+    {
+      "name": "Dioptis",
+      "latitude": 38.004612,
+      "longitude": 23.734515
+    },
+    {
+      "name": "Diwani Optics",
+      "latitude": 38.199421,
+      "longitude": 20.43855
+    },
+    {
+      "name": "Djs",
+      "latitude": 37.945197,
+      "longitude": 23.644464
+    },
+    {
+      "name": "Dr. TASTE (Coffee & Food)",
+      "latitude": 37.983264,
+      "longitude": 23.764678
+    },
+    {
+      "name": "easy to see",
+      "latitude": 37.978859,
+      "longitude": 23.765777
+    },
+    {
+      "name": "Easy to see",
+      "latitude": 37.99168,
+      "longitude": 23.764913
+    },
+    {
+      "name": "Easy to see",
+      "latitude": 38.020019,
+      "longitude": 23.797813
+    },
+    {
+      "name": "easy to see eyewear concept",
+      "latitude": 36.41789,
+      "longitude": 25.431855
+    },
+    {
+      "name": "Economy Optics",
+      "latitude": 40.271172,
+      "longitude": 22.510698
+    },
+    {
+      "name": "Elegant Vision",
+      "latitude": 38.021392,
+      "longitude": 24.006471
+    },
+    {
+      "name": "especto",
+      "latitude": 36.417873,
+      "longitude": 25.432258
+    },
+    {
+      "name": "Exarco",
+      "latitude": 38.044926,
+      "longitude": 23.751409
+    },
+    {
+      "name": "Exelixis",
+      "latitude": 38.028186,
+      "longitude": 23.716657
+    },
+    {
+      "name": "Eye",
+      "latitude": 36.342263,
+      "longitude": 28.200394
+    },
+    {
+      "name": "eye markt",
+      "latitude": 40.633503,
+      "longitude": 22.945117
+    },
+    {
+      "name": "Eye Paraskakis",
+      "latitude": 38.007882,
+      "longitude": 23.826143
+    },
+    {
+      "name": "Eye Plus Μυρτώ Ισμηρίδου",
+      "latitude": 37.989991,
+      "longitude": 23.764576
+    },
+    {
+      "name": "Eye Q",
+      "latitude": 37.980696,
+      "longitude": 23.729174
+    },
+    {
+      "name": "Eye Shops",
+      "latitude": 38.01996,
+      "longitude": 24.006822
+    },
+    {
+      "name": "Eye Worx",
+      "latitude": 38.015446,
+      "longitude": 23.820407
+    },
+    {
+      "name": "Eyebuy",
+      "latitude": 37.977856,
+      "longitude": 23.770687
+    },
+    {
+      "name": "Eyeconcept",
+      "latitude": 38.247069,
+      "longitude": 21.73424
+    },
+    {
+      "name": "Eyeconic optics",
+      "latitude": 39.327283,
+      "longitude": 26.174906
+    },
+    {
+      "name": "Eyeland",
+      "latitude": 38.004601,
+      "longitude": 23.66447
+    },
+    {
+      "name": "Eyeland",
+      "latitude": 39.163519,
+      "longitude": 23.488324
+    },
+    {
+      "name": "Eyeline",
+      "latitude": 38.018523,
+      "longitude": 23.735345
+    },
+    {
+      "name": "eyeQ",
+      "latitude": 40.525318,
+      "longitude": 22.974952
+    },
+    {
+      "name": "eyeroom optical store",
+      "latitude": 36.417305,
+      "longitude": 25.432409
+    },
+    {
+      "name": "eyes",
+      "latitude": 36.417788,
+      "longitude": 25.432283
+    },
+    {
+      "name": "Eyes",
+      "latitude": 37.967528,
+      "longitude": 23.729228
+    },
+    {
+      "name": "Eyeshops",
+      "latitude": 38.021929,
+      "longitude": 23.748677
+    },
+    {
+      "name": "Eyesight",
+      "latitude": 37.922978,
+      "longitude": 23.700166
+    },
+    {
+      "name": "Eyespot",
+      "latitude": 37.980282,
+      "longitude": 23.759404
+    },
+    {
+      "name": "Eyewear",
+      "latitude": 37.984497,
+      "longitude": 23.732087
+    },
+    {
+      "name": "Eyewear concept",
+      "latitude": 38.00822,
+      "longitude": 23.723732
+    },
+    {
+      "name": "EyeZone",
+      "latitude": 39.637667,
+      "longitude": 22.419191
+    },
+    {
+      "name": "ez2c",
+      "latitude": 37.941433,
+      "longitude": 23.650019
+    },
+    {
+      "name": "EZ2C",
+      "latitude": 37.94586,
+      "longitude": 23.714467
+    },
+    {
+      "name": "ez2c",
+      "latitude": 37.983745,
+      "longitude": 23.732632
+    },
+    {
+      "name": "Felonis",
+      "latitude": 37.999788,
+      "longitude": 23.73593
+    },
+    {
+      "name": "Flexshop",
+      "latitude": 37.981447,
+      "longitude": 23.72601
+    },
+    {
+      "name": "focus_οπτική",
+      "latitude": 40.60161,
+      "longitude": 22.962619
+    },
+    {
+      "name": "Friendly Optical Stores",
+      "latitude": 35.513934,
+      "longitude": 24.017477
+    },
+    {
+      "name": "Gianni Venturi",
+      "latitude": 40.59917,
+      "longitude": 22.970581
+    },
+    {
+      "name": "Gianni Venturi",
+      "latitude": 40.631332,
+      "longitude": 22.945563
+    },
+    {
+      "name": "Glass Box",
+      "latitude": 35.009098,
+      "longitude": 25.739744
+    },
+    {
+      "name": "Glasses how.gr",
+      "latitude": 37.991837,
+      "longitude": 23.764581
+    },
+    {
+      "name": "Glassis",
+      "latitude": 37.949623,
+      "longitude": 23.736614
+    },
+    {
+      "name": "Global Optics Talat Bani Ayyoub",
+      "latitude": 37.953953,
+      "longitude": 23.703007
+    },
+    {
+      "name": "Grand optical",
+      "latitude": 37.864142,
+      "longitude": 23.747856
+    },
+    {
+      "name": "GrandOptical",
+      "latitude": 37.983399,
+      "longitude": 23.732993
+    },
+    {
+      "name": "GrandOptical",
+      "latitude": 38.039459,
+      "longitude": 23.830076
+    },
+    {
+      "name": "Ikaros",
+      "latitude": 39.634508,
+      "longitude": 22.417529
+    },
+    {
+      "name": "inter-Optics",
+      "latitude": 38.082983,
+      "longitude": 23.978917
+    },
+    {
+      "name": "Iris",
+      "latitude": 39.102039,
+      "longitude": 26.554305
+    },
+    {
+      "name": "Johnnie Rousso",
+      "latitude": 37.977648,
+      "longitude": 23.740251
+    },
+    {
+      "name": "Joy optical",
+      "latitude": 37.997194,
+      "longitude": 23.732437
+    },
+    {
+      "name": "Just looking",
+      "latitude": 38.021721,
+      "longitude": 23.735973
+    },
+    {
+      "name": "Kapolis",
+      "latitude": 38.022674,
+      "longitude": 23.800538
+    },
+    {
+      "name": "Karakassis",
+      "latitude": 37.98021,
+      "longitude": 23.737042
+    },
+    {
+      "name": "Karvelas",
+      "latitude": 37.92656,
+      "longitude": 23.692432
+    },
+    {
+      "name": "Kasparian",
+      "latitude": 41.118267,
+      "longitude": 25.40314
+    },
+    {
+      "name": "Kokkoris",
+      "latitude": 37.975254,
+      "longitude": 23.731692
+    },
+    {
+      "name": "Kostakos",
+      "latitude": 38.028824,
+      "longitude": 23.715869
+    },
+    {
+      "name": "kourtali",
+      "latitude": 38.045681,
+      "longitude": 23.758079
+    },
+    {
+      "name": "Kridera",
+      "latitude": 37.979255,
+      "longitude": 23.765207
+    },
+    {
+      "name": "L'occhio",
+      "latitude": 39.638988,
+      "longitude": 22.417414
+    },
+    {
+      "name": "Laz Optics",
+      "latitude": 37.939381,
+      "longitude": 23.644138
+    },
+    {
+      "name": "Lenshop",
+      "latitude": 37.979334,
+      "longitude": 23.736327
+    },
+    {
+      "name": "Lenshop",
+      "latitude": 40.630084,
+      "longitude": 22.947581
+    },
+    {
+      "name": "Lenshop – Οπτικά Ανδρεάδη",
+      "latitude": 40.271245,
+      "longitude": 22.509327
+    },
+    {
+      "name": "Lentoudis",
+      "latitude": 37.980996,
+      "longitude": 23.730594
+    },
+    {
+      "name": "Look",
+      "latitude": 38.020482,
+      "longitude": 23.801017
+    },
+    {
+      "name": "Look",
+      "latitude": 40.669762,
+      "longitude": 22.906597
+    },
+    {
+      "name": "Look - οπτικά",
+      "latitude": 40.647244,
+      "longitude": 22.950741
+    },
+    {
+      "name": "Look Optical",
+      "latitude": 40.591453,
+      "longitude": 23.033752
+    },
+    {
+      "name": "Looking Good",
+      "latitude": 37.984015,
+      "longitude": 23.73181
+    },
+    {
+      "name": "Makrakis",
+      "latitude": 40.664306,
+      "longitude": 23.702568
+    },
+    {
+      "name": "Margaris",
+      "latitude": 38.041823,
+      "longitude": 23.752346
+    },
+    {
+      "name": "Margaritis",
+      "latitude": 37.976559,
+      "longitude": 23.73152
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 35.33892,
+      "longitude": 25.133878
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 37.942034,
+      "longitude": 23.646397
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 37.954378,
+      "longitude": 23.70357
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 37.976185,
+      "longitude": 23.728393
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 37.977306,
+      "longitude": 23.73842
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 37.982715,
+      "longitude": 23.733572
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 38.011997,
+      "longitude": 23.822674
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 38.021469,
+      "longitude": 23.800608
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 38.044637,
+      "longitude": 23.756239
+    },
+    {
+      "name": "Mark Aalen",
+      "latitude": 38.088757,
+      "longitude": 23.818287
+    },
+    {
+      "name": "MARK AaLEN",
+      "latitude": 40.55582,
+      "longitude": 22.994575
+    },
+    {
+      "name": "matakias",
+      "latitude": 37.977821,
+      "longitude": 23.727784
+    },
+    {
+      "name": "mati mati",
+      "latitude": 35.513287,
+      "longitude": 24.014992
+    },
+    {
+      "name": "Mati mati",
+      "latitude": 37.512838,
+      "longitude": 22.373856
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 37.863155,
+      "longitude": 23.751234
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 37.941587,
+      "longitude": 23.646862
+    },
+    {
+      "name": "Mati mati",
+      "latitude": 37.945947,
+      "longitude": 23.714022
+    },
+    {
+      "name": "mati mati",
+      "latitude": 37.966715,
+      "longitude": 23.749354
+    },
+    {
+      "name": "mati mati",
+      "latitude": 37.978601,
+      "longitude": 23.766713
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 37.997137,
+      "longitude": 23.732417
+    },
+    {
+      "name": "mati mati",
+      "latitude": 37.998155,
+      "longitude": 23.733087
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 38.00949,
+      "longitude": 23.825239
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 38.013311,
+      "longitude": 23.690841
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 38.014161,
+      "longitude": 23.753977
+    },
+    {
+      "name": "mATI MATI",
+      "latitude": 38.021813,
+      "longitude": 23.800469
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 38.027656,
+      "longitude": 23.720901
+    },
+    {
+      "name": "mati mati",
+      "latitude": 38.031652,
+      "longitude": 23.707227
+    },
+    {
+      "name": "mati mati",
+      "latitude": 38.040376,
+      "longitude": 23.688022
+    },
+    {
+      "name": "mati mati",
+      "latitude": 38.042222,
+      "longitude": 23.753205
+    },
+    {
+      "name": "Mati mati",
+      "latitude": 39.108049,
+      "longitude": 26.557101
+    },
+    {
+      "name": "Mati Mati",
+      "latitude": 39.638561,
+      "longitude": 22.419038
+    },
+    {
+      "name": "mati mati",
+      "latitude": 40.634865,
+      "longitude": 22.945748
+    },
+    {
+      "name": "mati mati",
+      "latitude": 40.653678,
+      "longitude": 22.923157
+    },
+    {
+      "name": "mati mati",
+      "latitude": 40.844914,
+      "longitude": 25.873499
+    },
+    {
+      "name": "MATI MATI Οπτικά",
+      "latitude": 38.246774,
+      "longitude": 21.736238
+    },
+    {
+      "name": "MED EYEWEAR",
+      "latitude": 37.977431,
+      "longitude": 23.731864
+    },
+    {
+      "name": "Mimis \"Η Πηγή των Γυαλιών\"",
+      "latitude": 37.984514,
+      "longitude": 23.729972
+    },
+    {
+      "name": "Mochos Eyeware",
+      "latitude": 37.942985,
+      "longitude": 23.649514
+    },
+    {
+      "name": "Moscot",
+      "latitude": 38.011206,
+      "longitude": 23.822946
+    },
+    {
+      "name": "My Optical",
+      "latitude": 40.668997,
+      "longitude": 22.910956
+    },
+    {
+      "name": "Nafplia Sunwear",
+      "latitude": 37.56622,
+      "longitude": 22.797878
+    },
+    {
+      "name": "Neoptic",
+      "latitude": 36.758505,
+      "longitude": 22.566554
+    },
+    {
+      "name": "New york college",
+      "latitude": 40.632419,
+      "longitude": 22.950553
+    },
+    {
+      "name": "Niki",
+      "latitude": 39.637565,
+      "longitude": 22.4184
+    },
+    {
+      "name": "Noutsos Optique",
+      "latitude": 40.630471,
+      "longitude": 22.947456
+    },
+    {
+      "name": "Novum Optical",
+      "latitude": 38.247076,
+      "longitude": 21.737081
+    },
+    {
+      "name": "Occhiata",
+      "latitude": 37.930322,
+      "longitude": 23.694771
+    },
+    {
+      "name": "Occhio",
+      "latitude": 37.860121,
+      "longitude": 23.753995
+    },
+    {
+      "name": "Occhio",
+      "latitude": 37.932415,
+      "longitude": 22.874433
+    },
+    {
+      "name": "Occhio",
+      "latitude": 37.946247,
+      "longitude": 23.712648
+    },
+    {
+      "name": "Occhio",
+      "latitude": 37.976243,
+      "longitude": 23.730241
+    },
+    {
+      "name": "Ocean Eyes",
+      "latitude": 38.071813,
+      "longitude": 23.812057
+    },
+    {
+      "name": "OCG",
+      "latitude": 37.862123,
+      "longitude": 23.750649
+    },
+    {
+      "name": "Oculus",
+      "latitude": 37.987429,
+      "longitude": 23.850868
+    },
+    {
+      "name": "Ojo",
+      "latitude": 38.020407,
+      "longitude": 23.802083
+    },
+    {
+      "name": "Ojo sunglasses",
+      "latitude": 38.042019,
+      "longitude": 23.752885
+    },
+    {
+      "name": "Omega",
+      "latitude": 37.95107,
+      "longitude": 23.737633
+    },
+    {
+      "name": "Omma",
+      "latitude": 38.022368,
+      "longitude": 23.800115
+    },
+    {
+      "name": "Omonoia Optics",
+      "latitude": 37.984003,
+      "longitude": 23.727401
+    },
+    {
+      "name": "Onar",
+      "latitude": 37.980272,
+      "longitude": 23.730106
+    },
+    {
+      "name": "Opsis",
+      "latitude": 40.609476,
+      "longitude": 22.970791
+    },
+    {
+      "name": "Optariston",
+      "latitude": 38.030428,
+      "longitude": 23.697892
+    },
+    {
+      "name": "Opti-experts",
+      "latitude": 37.968567,
+      "longitude": 23.710381
+    },
+    {
+      "name": "Opti-experts",
+      "latitude": 38.036686,
+      "longitude": 23.675591
+    },
+    {
+      "name": "Opti-O",
+      "latitude": 38.037887,
+      "longitude": 23.765172
+    },
+    {
+      "name": "Optic culture",
+      "latitude": 37.985985,
+      "longitude": 23.733936
+    },
+    {
+      "name": "Optic Shop",
+      "latitude": 38.016002,
+      "longitude": 23.754333
+    },
+    {
+      "name": "Optic Βάχαρης",
+      "latitude": 37.958541,
+      "longitude": 23.65229
+    },
+    {
+      "name": "Optica",
+      "latitude": 39.62374,
+      "longitude": 19.923456
+    },
+    {
+      "name": "Optica Kekou",
+      "latitude": 40.993191,
+      "longitude": 22.874721
+    },
+    {
+      "name": "optica stores",
+      "latitude": 39.105201,
+      "longitude": 26.555409
+    },
+    {
+      "name": "Optica Way",
+      "latitude": 38.035648,
+      "longitude": 23.8251
+    },
+    {
+      "name": "Optica Γερακιδης",
+      "latitude": 37.976171,
+      "longitude": 23.732385
+    },
+    {
+      "name": "Optical",
+      "latitude": 37.977699,
+      "longitude": 23.743055
+    },
+    {
+      "name": "Optical",
+      "latitude": 38.01363,
+      "longitude": 23.783869
+    },
+    {
+      "name": "Optical Area Βασιλάκης",
+      "latitude": 38.247775,
+      "longitude": 21.733438
+    },
+    {
+      "name": "Optical Art",
+      "latitude": 37.943168,
+      "longitude": 23.649083
+    },
+    {
+      "name": "Optical Papadiamantopoulos",
+      "latitude": 37.975913,
+      "longitude": 23.733037
+    },
+    {
+      "name": "Optical Point",
+      "latitude": 38.251448,
+      "longitude": 21.742633
+    },
+    {
+      "name": "optical specialists",
+      "latitude": 38.056908,
+      "longitude": 23.804067
+    },
+    {
+      "name": "Optical view",
+      "latitude": 40.580954,
+      "longitude": 22.951464
+    },
+    {
+      "name": "Opticall",
+      "latitude": 38.04331,
+      "longitude": 23.75394
+    },
+    {
+      "name": "opticart",
+      "latitude": 40.587873,
+      "longitude": 22.961532
+    },
+    {
+      "name": "Opticité",
+      "latitude": 38.059398,
+      "longitude": 23.793407
+    },
+    {
+      "name": "Optics",
+      "latitude": 39.623381,
+      "longitude": 19.920731
+    },
+    {
+      "name": "Optiexperts",
+      "latitude": 37.965506,
+      "longitude": 23.702341
+    },
+    {
+      "name": "Optika Mati-Mati",
+      "latitude": 37.444657,
+      "longitude": 24.943791
+    },
+    {
+      "name": "Optika Nikolaidis",
+      "latitude": 40.790802,
+      "longitude": 22.411143
+    },
+    {
+      "name": "Optikers",
+      "latitude": 37.930421,
+      "longitude": 23.63986
+    },
+    {
+      "name": "Optikon",
+      "latitude": 37.940079,
+      "longitude": 23.645842
+    },
+    {
+      "name": "OptikonXpress",
+      "latitude": 40.639884,
+      "longitude": 22.931473
+    },
+    {
+      "name": "Optilos",
+      "latitude": 37.983782,
+      "longitude": 23.732611
+    },
+    {
+      "name": "Optimaal",
+      "latitude": 37.977379,
+      "longitude": 23.726477
+    },
+    {
+      "name": "Optimal Center Michalakis",
+      "latitude": 36.452301,
+      "longitude": 28.22188
+    },
+    {
+      "name": "Optimist",
+      "latitude": 40.634009,
+      "longitude": 22.946802
+    },
+    {
+      "name": "Optimum",
+      "latitude": 38.027565,
+      "longitude": 23.722174
+    },
+    {
+      "name": "Optique Boutique",
+      "latitude": 37.943323,
+      "longitude": 23.646515
+    },
+    {
+      "name": "Optique Boutique by Papadopoulos",
+      "latitude": 37.941771,
+      "longitude": 23.648452
+    },
+    {
+      "name": "Opto club",
+      "latitude": 38.038926,
+      "longitude": 23.828744
+    },
+    {
+      "name": "Opto Time",
+      "latitude": 38.036655,
+      "longitude": 23.767951
+    },
+    {
+      "name": "Opto Views",
+      "latitude": 37.932484,
+      "longitude": 23.696745
+    },
+    {
+      "name": "OptoCenter",
+      "latitude": 38.004926,
+      "longitude": 23.795205
+    },
+    {
+      "name": "Optoface",
+      "latitude": 39.622129,
+      "longitude": 19.917068
+    },
+    {
+      "name": "Optofree",
+      "latitude": 37.935801,
+      "longitude": 23.642764
+    },
+    {
+      "name": "Optoglam,Λάζαρη",
+      "latitude": 38.833672,
+      "longitude": 20.707905
+    },
+    {
+      "name": "Optometrist",
+      "latitude": 38.014534,
+      "longitude": 23.735519
+    },
+    {
+      "name": "Optonio",
+      "latitude": 38.001499,
+      "longitude": 23.792254
+    },
+    {
+      "name": "Optopolis Πανταζόπουλος",
+      "latitude": 37.92901,
+      "longitude": 23.748564
+    },
+    {
+      "name": "Optorama",
+      "latitude": 38.017983,
+      "longitude": 23.735643
+    },
+    {
+      "name": "Optostage",
+      "latitude": 37.967884,
+      "longitude": 23.710016
+    },
+    {
+      "name": "Optostyle",
+      "latitude": 37.985434,
+      "longitude": 23.730081
+    },
+    {
+      "name": "Optoteam",
+      "latitude": 38.020227,
+      "longitude": 23.753068
+    },
+    {
+      "name": "Optovision",
+      "latitude": 37.985585,
+      "longitude": 23.731674
+    },
+    {
+      "name": "OptoVista",
+      "latitude": 40.583088,
+      "longitude": 22.948499
+    },
+    {
+      "name": "Optron Δ. Κιούση",
+      "latitude": 38.082119,
+      "longitude": 23.736432
+    },
+    {
+      "name": "Orama",
+      "latitude": 37.976374,
+      "longitude": 23.732902
+    },
+    {
+      "name": "Orama",
+      "latitude": 37.996651,
+      "longitude": 23.739053
+    },
+    {
+      "name": "Orama",
+      "latitude": 38.00676,
+      "longitude": 23.827072
+    },
+    {
+      "name": "Orama",
+      "latitude": 38.07328,
+      "longitude": 23.81501
+    },
+    {
+      "name": "Orama Optics",
+      "latitude": 37.973046,
+      "longitude": 23.652617
+    },
+    {
+      "name": "Orama Optics",
+      "latitude": 37.97748,
+      "longitude": 23.731505
+    },
+    {
+      "name": "Orasi",
+      "latitude": 37.983018,
+      "longitude": 23.756901
+    },
+    {
+      "name": "Orasis",
+      "latitude": 37.103316,
+      "longitude": 25.376053
+    },
+    {
+      "name": "Orasis",
+      "latitude": 39.160983,
+      "longitude": 20.984747
+    },
+    {
+      "name": "Orasis Optics",
+      "latitude": 36.448951,
+      "longitude": 28.221668
+    },
+    {
+      "name": "Original Vintage",
+      "latitude": 37.97648,
+      "longitude": 23.733971
+    },
+    {
+      "name": "Otic Care",
+      "latitude": 39.635722,
+      "longitude": 22.416316
+    },
+    {
+      "name": "Ottica",
+      "latitude": 37.992374,
+      "longitude": 23.338587
+    },
+    {
+      "name": "Ottica",
+      "latitude": 38.016382,
+      "longitude": 23.755072
+    },
+    {
+      "name": "Ottica Chr",
+      "latitude": 37.63543,
+      "longitude": 22.728165
+    },
+    {
+      "name": "Ottica In",
+      "latitude": 40.521897,
+      "longitude": 21.261869
+    },
+    {
+      "name": "Ottico D' Arte",
+      "latitude": 40.670454,
+      "longitude": 22.903786
+    },
+    {
+      "name": "Ottico Firenze",
+      "latitude": 40.584286,
+      "longitude": 22.951585
+    },
+    {
+      "name": "Ottico Firenze",
+      "latitude": 40.666157,
+      "longitude": 22.930347
+    },
+    {
+      "name": "Ottika Dandoulakis",
+      "latitude": 37.977674,
+      "longitude": 23.740774
+    },
+    {
+      "name": "Ottika Spirou",
+      "latitude": 37.979439,
+      "longitude": 23.653179
+    },
+    {
+      "name": "Ottika Spiroy",
+      "latitude": 37.941805,
+      "longitude": 23.646207
+    },
+    {
+      "name": "Ottika Δανδουλάκης",
+      "latitude": 37.942236,
+      "longitude": 23.647972
+    },
+    {
+      "name": "Ottika Δανδουλάκης",
+      "latitude": 38.008487,
+      "longitude": 23.82609
+    },
+    {
+      "name": "Ottika Δανδουλάκης",
+      "latitude": 38.042067,
+      "longitude": 23.752402
+    },
+    {
+      "name": "Panagopoulou Eyewear",
+      "latitude": 38.021612,
+      "longitude": 23.69394
+    },
+    {
+      "name": "Panaidis",
+      "latitude": 37.861637,
+      "longitude": 23.752744
+    },
+    {
+      "name": "Panaidis",
+      "latitude": 37.943378,
+      "longitude": 23.645925
+    },
+    {
+      "name": "Panaidis",
+      "latitude": 37.977417,
+      "longitude": 23.735827
+    },
+    {
+      "name": "Panaidis",
+      "latitude": 38.022248,
+      "longitude": 23.799925
+    },
+    {
+      "name": "Panaidis",
+      "latitude": 38.059101,
+      "longitude": 23.793951
+    },
+    {
+      "name": "Panaidis",
+      "latitude": 38.072814,
+      "longitude": 23.814239
+    },
+    {
+      "name": "Panaidis Eyewear Boutique",
+      "latitude": 37.124262,
+      "longitude": 25.237392
+    },
+    {
+      "name": "Panaidis eyewear boutique",
+      "latitude": 37.977655,
+      "longitude": 23.739502
+    },
+    {
+      "name": "Pantazidis",
+      "latitude": 37.860378,
+      "longitude": 23.753847
+    },
+    {
+      "name": "Papadiamantopoulos",
+      "latitude": 38.072412,
+      "longitude": 23.815775
+    },
+    {
+      "name": "Papadiamantopoulos",
+      "latitude": 40.556432,
+      "longitude": 22.994169
+    },
+    {
+      "name": "Perfect Vision",
+      "latitude": 38.041395,
+      "longitude": 23.751397
+    },
+    {
+      "name": "Pitsiou E.",
+      "latitude": 37.92754,
+      "longitude": 23.693401
+    },
+    {
+      "name": "Polski Sklep Optyczny",
+      "latitude": 37.991838,
+      "longitude": 23.724953
+    },
+    {
+      "name": "Posto",
+      "latitude": 38.015441,
+      "longitude": 23.820583
+    },
+    {
+      "name": "Poulios Optics",
+      "latitude": 40.270774,
+      "longitude": 22.509294
+    },
+    {
+      "name": "Prooptics",
+      "latitude": 37.956761,
+      "longitude": 23.703596
+    },
+    {
+      "name": "Quadrant Optics",
+      "latitude": 37.945112,
+      "longitude": 23.648725
+    },
+    {
+      "name": "Ray Ban",
+      "latitude": 40.779505,
+      "longitude": 24.709047
+    },
+    {
+      "name": "See smart",
+      "latitude": 35.512606,
+      "longitude": 24.019474
+    },
+    {
+      "name": "see you",
+      "latitude": 37.94044,
+      "longitude": 23.649232
+    },
+    {
+      "name": "See You",
+      "latitude": 37.957874,
+      "longitude": 23.70448
+    },
+    {
+      "name": "See You",
+      "latitude": 37.978625,
+      "longitude": 23.767598
+    },
+    {
+      "name": "See you",
+      "latitude": 38.014146,
+      "longitude": 23.75341
+    },
+    {
+      "name": "See You",
+      "latitude": 38.04063,
+      "longitude": 23.68814
+    },
+    {
+      "name": "See You",
+      "latitude": 38.041251,
+      "longitude": 23.751348
+    },
+    {
+      "name": "See you",
+      "latitude": 39.105326,
+      "longitude": 26.555047
+    },
+    {
+      "name": "See You",
+      "latitude": 39.554467,
+      "longitude": 21.76736
+    },
+    {
+      "name": "See You",
+      "latitude": 41.118177,
+      "longitude": 25.403133
+    },
+    {
+      "name": "See you Optical",
+      "latitude": 36.447795,
+      "longitude": 28.222389
+    },
+    {
+      "name": "See You Optical",
+      "latitude": 40.271388,
+      "longitude": 22.505596
+    },
+    {
+      "name": "See You Optical Studios",
+      "latitude": 37.946342,
+      "longitude": 23.714103
+    },
+    {
+      "name": "Serli",
+      "latitude": 40.634498,
+      "longitude": 22.939105
+    },
+    {
+      "name": "Smart Optics",
+      "latitude": 38.199621,
+      "longitude": 20.438688
+    },
+    {
+      "name": "Spot",
+      "latitude": 37.957616,
+      "longitude": 23.700003
+    },
+    {
+      "name": "Stavropoulou Voula",
+      "latitude": 38.244684,
+      "longitude": 21.732943
+    },
+    {
+      "name": "Stavrou",
+      "latitude": 37.982283,
+      "longitude": 23.733917
+    },
+    {
+      "name": "Stavrou",
+      "latitude": 38.073139,
+      "longitude": 23.814951
+    },
+    {
+      "name": "Studio Hydra",
+      "latitude": 37.350668,
+      "longitude": 23.466934
+    },
+    {
+      "name": "Styloptic",
+      "latitude": 37.980751,
+      "longitude": 23.732355
+    },
+    {
+      "name": "Sunglasses",
+      "latitude": 37.977695,
+      "longitude": 23.730435
+    },
+    {
+      "name": "Sunoptics",
+      "latitude": 38.001391,
+      "longitude": 23.740761
+    },
+    {
+      "name": "Super Optical",
+      "latitude": 40.264375,
+      "longitude": 22.508492
+    },
+    {
+      "name": "Super Optical",
+      "latitude": 40.270114,
+      "longitude": 22.509258
+    },
+    {
+      "name": "Super Optical",
+      "latitude": 40.271141,
+      "longitude": 22.508394
+    },
+    {
+      "name": "Sykaras",
+      "latitude": 37.985819,
+      "longitude": 23.729979
+    },
+    {
+      "name": "Tartaras Eyewear & Optometry",
+      "latitude": 37.976839,
+      "longitude": 23.73794
+    },
+    {
+      "name": "Trend Optic",
+      "latitude": 37.975719,
+      "longitude": 23.732914
+    },
+    {
+      "name": "Tsamis Optics Group",
+      "latitude": 36.950482,
+      "longitude": 21.702133
+    },
+    {
+      "name": "Tsiounis",
+      "latitude": 37.982971,
+      "longitude": 23.733017
+    },
+    {
+      "name": "Vasiliadis Vision",
+      "latitude": 40.667663,
+      "longitude": 22.91278
+    },
+    {
+      "name": "Verrocchio",
+      "latitude": 38.042858,
+      "longitude": 23.752454
+    },
+    {
+      "name": "Vinci",
+      "latitude": 39.635923,
+      "longitude": 22.415317
+    },
+    {
+      "name": "Vision Experts",
+      "latitude": 37.954253,
+      "longitude": 23.679868
+    },
+    {
+      "name": "Vision Line",
+      "latitude": 38.039478,
+      "longitude": 23.755674
+    },
+    {
+      "name": "Vision Stores",
+      "latitude": 37.907269,
+      "longitude": 23.753272
+    },
+    {
+      "name": "Vision stores",
+      "latitude": 38.038849,
+      "longitude": 23.755983
+    },
+    {
+      "name": "Vision stores",
+      "latitude": 38.046862,
+      "longitude": 23.750647
+    },
+    {
+      "name": "Visionworks",
+      "latitude": 38.036515,
+      "longitude": 23.826759
+    },
+    {
+      "name": "Vista",
+      "latitude": 37.982574,
+      "longitude": 23.733671
+    },
+    {
+      "name": "Youeye",
+      "latitude": 37.975881,
+      "longitude": 23.731898
+    },
+    {
+      "name": "ZOEL",
+      "latitude": 38.03178,
+      "longitude": 21.363886
+    },
+    {
+      "name": "Ίλιον",
+      "latitude": 38.031711,
+      "longitude": 23.707499
+    },
+    {
+      "name": "Αίσθηση-Όρασις",
+      "latitude": 38.001225,
+      "longitude": 23.725314
+    },
+    {
+      "name": "Αγγελική Κελίρη",
+      "latitude": 37.986976,
+      "longitude": 23.760085
+    },
+    {
+      "name": "Αγγελόπουλος",
+      "latitude": 37.977042,
+      "longitude": 23.739024
+    },
+    {
+      "name": "Αγγελόπουλος (επιδιόρθωση / Πώληση)",
+      "latitude": 40.634134,
+      "longitude": 22.942864
+    },
+    {
+      "name": "Αγελάρη",
+      "latitude": 40.639152,
+      "longitude": 22.9422
+    },
+    {
+      "name": "Αθανασιάδης",
+      "latitude": 37.939675,
+      "longitude": 23.646093
+    },
+    {
+      "name": "Αθανασιάδης",
+      "latitude": 40.63411,
+      "longitude": 22.942818
+    },
+    {
+      "name": "Αθανασούλης",
+      "latitude": 37.991454,
+      "longitude": 23.760112
+    },
+    {
+      "name": "ΑΚΑΣΟΓΛΟΥ",
+      "latitude": 37.98604,
+      "longitude": 23.764118
+    },
+    {
+      "name": "Αλφα",
+      "latitude": 38.001857,
+      "longitude": 23.741277
+    },
+    {
+      "name": "ΑΜΟΥΡΓΑΝΟΣ",
+      "latitude": 37.954311,
+      "longitude": 23.679635
+    },
+    {
+      "name": "Αναστασιάδης",
+      "latitude": 37.976152,
+      "longitude": 23.724375
+    },
+    {
+      "name": "Αναστασιαδις Οπτικα",
+      "latitude": 36.418219,
+      "longitude": 25.432229
+    },
+    {
+      "name": "Ανδρεάδης",
+      "latitude": 37.927578,
+      "longitude": 23.693072
+    },
+    {
+      "name": "Ανδρεάδης",
+      "latitude": 40.638967,
+      "longitude": 22.942034
+    },
+    {
+      "name": "Ανδρεαδέλλης",
+      "latitude": 38.899917,
+      "longitude": 22.433491
+    },
+    {
+      "name": "Αντικατζίδης",
+      "latitude": 40.632144,
+      "longitude": 22.944498
+    },
+    {
+      "name": "Αράθυμος",
+      "latitude": 38.031575,
+      "longitude": 23.706895
+    },
+    {
+      "name": "ΑΡΓΑΛΙΑΣ",
+      "latitude": 40.633414,
+      "longitude": 22.94529
+    },
+    {
+      "name": "Ασούτης Βασιλείου",
+      "latitude": 38.055739,
+      "longitude": 23.805819
+    },
+    {
+      "name": "Ατσαλακησ",
+      "latitude": 35.513629,
+      "longitude": 24.020105
+    },
+    {
+      "name": "Αφοί Θωμά",
+      "latitude": 37.943734,
+      "longitude": 23.645751
+    },
+    {
+      "name": "Αφοί Κριεζή",
+      "latitude": 40.600891,
+      "longitude": 22.950908
+    },
+    {
+      "name": "Βέργος",
+      "latitude": 37.940045,
+      "longitude": 22.9308
+    },
+    {
+      "name": "Βαρδάβας",
+      "latitude": 38.013905,
+      "longitude": 23.820167
+    },
+    {
+      "name": "Βαρδαβάς",
+      "latitude": 37.977959,
+      "longitude": 23.737422
+    },
+    {
+      "name": "Βησαρίων",
+      "latitude": 39.635901,
+      "longitude": 22.418329
+    },
+    {
+      "name": "Βησσάρης",
+      "latitude": 40.639313,
+      "longitude": 22.937183
+    },
+    {
+      "name": "Βλαντή",
+      "latitude": 37.967881,
+      "longitude": 23.760463
+    },
+    {
+      "name": "Γ. ΛΕΜΠΕΣΗΣ",
+      "latitude": 38.023387,
+      "longitude": 23.747546
+    },
+    {
+      "name": "Γαλάνης Οπτικά",
+      "latitude": 40.632119,
+      "longitude": 22.94542
+    },
+    {
+      "name": "Γαλάτης",
+      "latitude": 38.005056,
+      "longitude": 23.734603
+    },
+    {
+      "name": "Γερουλη",
+      "latitude": 37.984379,
+      "longitude": 23.735936
+    },
+    {
+      "name": "Γεωργιάδης",
+      "latitude": 39.10583,
+      "longitude": 26.55547
+    },
+    {
+      "name": "ΓΙΑΓΚΗ",
+      "latitude": 37.977527,
+      "longitude": 23.771925
+    },
+    {
+      "name": "Γιακουμέλος",
+      "latitude": 38.04086,
+      "longitude": 23.751218
+    },
+    {
+      "name": "Γιακουμέλος",
+      "latitude": 38.082341,
+      "longitude": 23.736786
+    },
+    {
+      "name": "Γιαλούρη",
+      "latitude": 39.102182,
+      "longitude": 26.55521
+    },
+    {
+      "name": "Γιατράς",
+      "latitude": 37.979091,
+      "longitude": 23.765037
+    },
+    {
+      "name": "ΓΙΟΥΣΜΑΣ",
+      "latitude": 40.581452,
+      "longitude": 22.951998
+    },
+    {
+      "name": "Γκέσουρα",
+      "latitude": 38.031865,
+      "longitude": 23.736609
+    },
+    {
+      "name": "ΓΚΕΡΕΣ",
+      "latitude": 37.942711,
+      "longitude": 23.648697
+    },
+    {
+      "name": "Γκολἐμης",
+      "latitude": 37.512257,
+      "longitude": 22.374534
+    },
+    {
+      "name": "Γυάλινο",
+      "latitude": 37.968916,
+      "longitude": 23.755074
+    },
+    {
+      "name": "Δάλας Μιχάλης",
+      "latitude": 39.106337,
+      "longitude": 26.556074
+    },
+    {
+      "name": "Δέκα Δέκατα",
+      "latitude": 38.04325,
+      "longitude": 23.752268
+    },
+    {
+      "name": "Δίεδρον",
+      "latitude": 38.002957,
+      "longitude": 23.718898
+    },
+    {
+      "name": "Δίεδρον Outlet",
+      "latitude": 38.006918,
+      "longitude": 23.716136
+    },
+    {
+      "name": "Δαμιανός",
+      "latitude": 41.150888,
+      "longitude": 24.147366
+    },
+    {
+      "name": "Δημάκας Δ. - Στάθης Α. Οπτικά",
+      "latitude": 37.958961,
+      "longitude": 23.753839
+    },
+    {
+      "name": "Δημητριάδης",
+      "latitude": 39.360917,
+      "longitude": 22.945726
+    },
+    {
+      "name": "Δημητριάδης",
+      "latitude": 40.604368,
+      "longitude": 22.968004
+    },
+    {
+      "name": "Διάθλαση",
+      "latitude": 38.04952,
+      "longitude": 23.76339
+    },
+    {
+      "name": "Διαμαντόπουλος",
+      "latitude": 37.9848,
+      "longitude": 23.731521
+    },
+    {
+      "name": "Διαμαντόπουλος",
+      "latitude": 38.055627,
+      "longitude": 23.806061
+    },
+    {
+      "name": "ΔΙΟΠΤΡΟ",
+      "latitude": 37.959915,
+      "longitude": 23.753995
+    },
+    {
+      "name": "Διορατικόν",
+      "latitude": 37.973727,
+      "longitude": 23.652346
+    },
+    {
+      "name": "Διόραση",
+      "latitude": 38.028824,
+      "longitude": 23.715805
+    },
+    {
+      "name": "Δουλογέρη - Σακκά",
+      "latitude": 38.083109,
+      "longitude": 23.736939
+    },
+    {
+      "name": "Δουρδας",
+      "latitude": 40.780059,
+      "longitude": 21.40933
+    },
+    {
+      "name": "Δρίβας Σταμάτης",
+      "latitude": 38.023957,
+      "longitude": 23.735032
+    },
+    {
+      "name": "Ειρήνη Παπαδοπούλου",
+      "latitude": 37.512049,
+      "longitude": 22.374156
+    },
+    {
+      "name": "Ελένη Ζορμπά",
+      "latitude": 37.967867,
+      "longitude": 23.745391
+    },
+    {
+      "name": "Ενωτιάδης",
+      "latitude": 37.944224,
+      "longitude": 23.64588
+    },
+    {
+      "name": "Ενόραση",
+      "latitude": 37.984742,
+      "longitude": 23.731884
+    },
+    {
+      "name": "Ενόραση",
+      "latitude": 38.653778,
+      "longitude": 22.999668
+    },
+    {
+      "name": "Εὖ Ὁρᾶν",
+      "latitude": 37.938858,
+      "longitude": 23.739208
+    },
+    {
+      "name": "Ευσταθιάδης",
+      "latitude": 37.833543,
+      "longitude": 23.802139
+    },
+    {
+      "name": "Ευτυχία Νικολακοπούλου - Οπτικά",
+      "latitude": 38.246412,
+      "longitude": 21.734179
+    },
+    {
+      "name": "Ζάννης",
+      "latitude": 40.634,
+      "longitude": 22.942202
+    },
+    {
+      "name": "Ζήση",
+      "latitude": 38.017391,
+      "longitude": 23.755594
+    },
+    {
+      "name": "Ζαμάνος",
+      "latitude": 38.012557,
+      "longitude": 23.692582
+    },
+    {
+      "name": "Ζαννάκης",
+      "latitude": 38.368738,
+      "longitude": 26.135207
+    },
+    {
+      "name": "Ζαχαρέγκας",
+      "latitude": 40.655059,
+      "longitude": 22.923537
+    },
+    {
+      "name": "Ζερβόπουλος",
+      "latitude": 39.622596,
+      "longitude": 19.919528
+    },
+    {
+      "name": "Ζωγράφος",
+      "latitude": 40.633724,
+      "longitude": 22.94568
+    },
+    {
+      "name": "Η πηγή των γυαλιών",
+      "latitude": 37.983092,
+      "longitude": 23.727888
+    },
+    {
+      "name": "Θ.Κ. ΚΟΚΚΟΡΗΣ",
+      "latitude": 37.996854,
+      "longitude": 23.73276
+    },
+    {
+      "name": "Θεοδοσιάδης",
+      "latitude": 40.668598,
+      "longitude": 22.911353
+    },
+    {
+      "name": "Θωμάς Βασίλης",
+      "latitude": 38.001804,
+      "longitude": 23.727619
+    },
+    {
+      "name": "Ιουλία Στουγιάννου",
+      "latitude": 39.661197,
+      "longitude": 20.856041
+    },
+    {
+      "name": "Ιωάννου",
+      "latitude": 40.637177,
+      "longitude": 22.942294
+    },
+    {
+      "name": "Κ. ΓΙΑΝΝΑΚΟΠΟΥΛΟΣ",
+      "latitude": 38.015909,
+      "longitude": 23.735545
+    },
+    {
+      "name": "Κάκια",
+      "latitude": 38.014627,
+      "longitude": 23.731982
+    },
+    {
+      "name": "Κάκια Προβελέγγιος",
+      "latitude": 38.022778,
+      "longitude": 23.749402
+    },
+    {
+      "name": "Κάκιας",
+      "latitude": 38.014743,
+      "longitude": 23.746361
+    },
+    {
+      "name": "Κάκιας",
+      "latitude": 38.021504,
+      "longitude": 23.802606
+    },
+    {
+      "name": "Κάσδαγλης",
+      "latitude": 39.104875,
+      "longitude": 26.555021
+    },
+    {
+      "name": "Κέντρο Οπτικής Τεχνοογίας",
+      "latitude": 38.032025,
+      "longitude": 23.750233
+    },
+    {
+      "name": "Καγιουκλής Αντρέας",
+      "latitude": 38.000591,
+      "longitude": 23.729017
+    },
+    {
+      "name": "Κακαλη",
+      "latitude": 40.26272,
+      "longitude": 21.547641
+    },
+    {
+      "name": "Κακουράκης",
+      "latitude": 37.941455,
+      "longitude": 23.646849
+    },
+    {
+      "name": "Καλλίνικος",
+      "latitude": 37.944706,
+      "longitude": 23.646333
+    },
+    {
+      "name": "Καλύβας",
+      "latitude": 38.246625,
+      "longitude": 21.73424
+    },
+    {
+      "name": "ΚΑΠΕΡΩΝΗΣ",
+      "latitude": 37.951322,
+      "longitude": 23.707319
+    },
+    {
+      "name": "Καραπαυλιδης",
+      "latitude": 40.522153,
+      "longitude": 21.262604
+    },
+    {
+      "name": "Καρμπαδάκη",
+      "latitude": 38.027699,
+      "longitude": 23.721585
+    },
+    {
+      "name": "Καρυπίδης",
+      "latitude": 40.669536,
+      "longitude": 22.907865
+    },
+    {
+      "name": "Κασαπίδου",
+      "latitude": 38.029729,
+      "longitude": 23.735071
+    },
+    {
+      "name": "Κασιμάτης",
+      "latitude": 37.996092,
+      "longitude": 23.732559
+    },
+    {
+      "name": "Κατσούλας Χρήστος",
+      "latitude": 37.967537,
+      "longitude": 23.753747
+    },
+    {
+      "name": "Καύκας",
+      "latitude": 37.942749,
+      "longitude": 23.649579
+    },
+    {
+      "name": "Κεκε",
+      "latitude": 41.139137,
+      "longitude": 24.888721
+    },
+    {
+      "name": "Κλάδος",
+      "latitude": 37.977105,
+      "longitude": 23.773478
+    },
+    {
+      "name": "Κορρές",
+      "latitude": 38.0187,
+      "longitude": 23.75619
+    },
+    {
+      "name": "Κουράτορας Γεώργιος",
+      "latitude": 37.892343,
+      "longitude": 23.752085
+    },
+    {
+      "name": "Κουρκόπουλος",
+      "latitude": 40.521984,
+      "longitude": 21.261769
+    },
+    {
+      "name": "Κουτζαηλίας",
+      "latitude": 39.638269,
+      "longitude": 22.418264
+    },
+    {
+      "name": "Κουτζαηλίας",
+      "latitude": 39.638576,
+      "longitude": 22.417329
+    },
+    {
+      "name": "Κουτζαηλίας",
+      "latitude": 39.63908,
+      "longitude": 22.418572
+    },
+    {
+      "name": "Κούρκουλος",
+      "latitude": 39.622104,
+      "longitude": 19.918955
+    },
+    {
+      "name": "Κρητικός",
+      "latitude": 37.98505,
+      "longitude": 23.727087
+    },
+    {
+      "name": "Κυνηγοπούλου",
+      "latitude": 40.580268,
+      "longitude": 22.950084
+    },
+    {
+      "name": "Κυπραίος",
+      "latitude": 37.940639,
+      "longitude": 22.9308
+    },
+    {
+      "name": "Κυπραίος Eye Fashion",
+      "latitude": 37.940113,
+      "longitude": 22.932724
+    },
+    {
+      "name": "Κωτσιας",
+      "latitude": 39.503242,
+      "longitude": 20.263318
+    },
+    {
+      "name": "Κύλινδρος",
+      "latitude": 37.93016,
+      "longitude": 23.694859
+    },
+    {
+      "name": "Κύλινδρος",
+      "latitude": 37.97222,
+      "longitude": 23.753885
+    },
+    {
+      "name": "Λάππα",
+      "latitude": 37.987229,
+      "longitude": 23.75871
+    },
+    {
+      "name": "Λάσκαρη",
+      "latitude": 37.862922,
+      "longitude": 23.751572
+    },
+    {
+      "name": "Λάσκαρη",
+      "latitude": 37.977188,
+      "longitude": 23.740353
+    },
+    {
+      "name": "Λάσκαρη",
+      "latitude": 38.005299,
+      "longitude": 23.776203
+    },
+    {
+      "name": "Λάσκαρη",
+      "latitude": 38.044004,
+      "longitude": 23.754775
+    },
+    {
+      "name": "Λάσκαρη",
+      "latitude": 38.073376,
+      "longitude": 23.814573
+    },
+    {
+      "name": "Λέχου",
+      "latitude": 37.977004,
+      "longitude": 23.761511
+    },
+    {
+      "name": "Λαζαρίδη",
+      "latitude": 40.632344,
+      "longitude": 22.945258
+    },
+    {
+      "name": "Λαζαρίδης",
+      "latitude": 37.935466,
+      "longitude": 23.641383
+    },
+    {
+      "name": "Λαμπρινού",
+      "latitude": 37.939619,
+      "longitude": 22.931988
+    },
+    {
+      "name": "Λιγούτσικος",
+      "latitude": 37.991761,
+      "longitude": 23.678038
+    },
+    {
+      "name": "Λυγερός",
+      "latitude": 37.906588,
+      "longitude": 23.738498
+    },
+    {
+      "name": "Λυγκοπουλος",
+      "latitude": 37.999427,
+      "longitude": 23.738884
+    },
+    {
+      "name": "Μ. ΠΡΟΥΣΑΛΗ",
+      "latitude": 40.633757,
+      "longitude": 22.944614
+    },
+    {
+      "name": "Μάτι Μάτι",
+      "latitude": 37.942961,
+      "longitude": 23.732912
+    },
+    {
+      "name": "Μάτι Μάτι",
+      "latitude": 38.002071,
+      "longitude": 23.719137
+    },
+    {
+      "name": "Μάτι Μάτι",
+      "latitude": 38.055126,
+      "longitude": 23.807676
+    },
+    {
+      "name": "Μάτι-Μάτι",
+      "latitude": 36.448993,
+      "longitude": 28.22421
+    },
+    {
+      "name": "Μίκαϊτς",
+      "latitude": 37.983673,
+      "longitude": 23.729887
+    },
+    {
+      "name": "Μακρυπόδης",
+      "latitude": 38.013851,
+      "longitude": 23.821529
+    },
+    {
+      "name": "Μανιάτης",
+      "latitude": 37.401625,
+      "longitude": 22.137415
+    },
+    {
+      "name": "Μαντζουράτος",
+      "latitude": 37.993197,
+      "longitude": 23.728901
+    },
+    {
+      "name": "Μαρδίκης",
+      "latitude": 37.861578,
+      "longitude": 23.752809
+    },
+    {
+      "name": "Ματθαίος",
+      "latitude": 37.976711,
+      "longitude": 23.733218
+    },
+    {
+      "name": "Ματι ματι",
+      "latitude": 37.795744,
+      "longitude": 21.350477
+    },
+    {
+      "name": "Μαυρομμάτης - Κλαπα",
+      "latitude": 37.926857,
+      "longitude": 23.692632
+    },
+    {
+      "name": "Μεγγισόπουλος",
+      "latitude": 37.945803,
+      "longitude": 23.713413
+    },
+    {
+      "name": "Μελανίτης",
+      "latitude": 37.950523,
+      "longitude": 23.736615
+    },
+    {
+      "name": "Μελπίδης",
+      "latitude": 38.027632,
+      "longitude": 23.717201
+    },
+    {
+      "name": "Μεσσηνέζης",
+      "latitude": 38.017406,
+      "longitude": 23.755022
+    },
+    {
+      "name": "Μητρόπουλος",
+      "latitude": 37.958527,
+      "longitude": 23.709647
+    },
+    {
+      "name": "Μπένος",
+      "latitude": 37.957162,
+      "longitude": 23.735269
+    },
+    {
+      "name": "Μπαγκάκησ",
+      "latitude": 35.368028,
+      "longitude": 24.476772
+    },
+    {
+      "name": "Μπαχτιάρογλου",
+      "latitude": 38.014826,
+      "longitude": 23.754289
+    },
+    {
+      "name": "Μπισοβίτης",
+      "latitude": 39.637903,
+      "longitude": 22.419153
+    },
+    {
+      "name": "Μποτόπουλος",
+      "latitude": 37.511036,
+      "longitude": 22.372832
+    },
+    {
+      "name": "Μυλόβα",
+      "latitude": 38.043233,
+      "longitude": 23.75419
+    },
+    {
+      "name": "Μόσχος",
+      "latitude": 37.94293,
+      "longitude": 23.649275
+    },
+    {
+      "name": "Νικολόπουλος",
+      "latitude": 38.02234,
+      "longitude": 23.799829
+    },
+    {
+      "name": "Νταγιάκου",
+      "latitude": 38.055554,
+      "longitude": 23.806525
+    },
+    {
+      "name": "Ξηράκη",
+      "latitude": 38.007807,
+      "longitude": 23.736142
+    },
+    {
+      "name": "Ξυδάκης Οπτικά",
+      "latitude": 35.340023,
+      "longitude": 25.133871
+    },
+    {
+      "name": "Οικονόμου",
+      "latitude": 38.001664,
+      "longitude": 23.74106
+    },
+    {
+      "name": "Οπτικά",
+      "latitude": 40.632033,
+      "longitude": 22.950528
+    },
+    {
+      "name": "Οπτικά - Φακοί επαφής",
+      "latitude": 38.033076,
+      "longitude": 23.75307
+    },
+    {
+      "name": "οπτικά mati",
+      "latitude": 40.601365,
+      "longitude": 22.96169
+    },
+    {
+      "name": "Οπτικά Ottico Nuovo",
+      "latitude": 38.039143,
+      "longitude": 23.691361
+    },
+    {
+      "name": "Οπτικά Ανδρεάδη",
+      "latitude": 40.27136,
+      "longitude": 22.508455
+    },
+    {
+      "name": "Οπτικά Αράθιμος",
+      "latitude": 35.207883,
+      "longitude": 26.105867
+    },
+    {
+      "name": "Οπτικά Γκέσουρα",
+      "latitude": 37.980733,
+      "longitude": 23.732358
+    },
+    {
+      "name": "Οπτικά Δ.Κάκια",
+      "latitude": 38.022477,
+      "longitude": 23.749094
+    },
+    {
+      "name": "Οπτικά Δίοπτρο",
+      "latitude": 40.602332,
+      "longitude": 22.969654
+    },
+    {
+      "name": "Οπτικά Δανδουλάκης",
+      "latitude": 37.942145,
+      "longitude": 23.646121
+    },
+    {
+      "name": "Οπτικά Διαμαντή",
+      "latitude": 38.012381,
+      "longitude": 23.735089
+    },
+    {
+      "name": "Οπτικά Εγνατία",
+      "latitude": 40.635564,
+      "longitude": 22.944437
+    },
+    {
+      "name": "Οπτικά Ζακά Άννα",
+      "latitude": 37.959779,
+      "longitude": 23.707202
+    },
+    {
+      "name": "Οπτικά Θοδωρής Πάντ.Πετράκης",
+      "latitude": 35.49476,
+      "longitude": 23.653761
+    },
+    {
+      "name": "Οπτικά Κάρμεν",
+      "latitude": 40.603826,
+      "longitude": 22.969069
+    },
+    {
+      "name": "Οπτικά Κατσάνης",
+      "latitude": 40.270846,
+      "longitude": 22.508546
+    },
+    {
+      "name": "Οπτικά Κοσμίδης",
+      "latitude": 40.270374,
+      "longitude": 22.508243
+    },
+    {
+      "name": "Οπτικά Μαμωνάς",
+      "latitude": 37.635655,
+      "longitude": 22.727891
+    },
+    {
+      "name": "Οπτικά Μαργαρίτης",
+      "latitude": 41.090265,
+      "longitude": 23.55063
+    },
+    {
+      "name": "Οπτικά Μαρκάκης",
+      "latitude": 35.339157,
+      "longitude": 25.133459
+    },
+    {
+      "name": "Οπτικά Μπάσδρα",
+      "latitude": 40.270804,
+      "longitude": 22.505456
+    },
+    {
+      "name": "Οπτικά Μπελογιάννη",
+      "latitude": 40.271157,
+      "longitude": 22.508278
+    },
+    {
+      "name": "Οπτικά Μόχλας",
+      "latitude": 40.270099,
+      "longitude": 22.509936
+    },
+    {
+      "name": "Οπτικά Οράν",
+      "latitude": 38.059463,
+      "longitude": 23.794107
+    },
+    {
+      "name": "Οπτικά Παγώνη",
+      "latitude": 37.443532,
+      "longitude": 24.943151
+    },
+    {
+      "name": "Οπτικά Παγώνη",
+      "latitude": 37.443669,
+      "longitude": 24.942443
+    },
+    {
+      "name": "Οπτικά Παπαζογλου",
+      "latitude": 40.398292,
+      "longitude": 23.87849
+    },
+    {
+      "name": "Οπτικά Παυλίδης",
+      "latitude": 40.629545,
+      "longitude": 22.947606
+    },
+    {
+      "name": "Οπτικά Παύλου",
+      "latitude": 37.965678,
+      "longitude": 23.726468
+    },
+    {
+      "name": "Οπτικά Σαββίδης",
+      "latitude": 40.270714,
+      "longitude": 22.508531
+    },
+    {
+      "name": "Οπτικά Σισμάνης",
+      "latitude": 37.990557,
+      "longitude": 23.74832
+    },
+    {
+      "name": "οπτικά Σουλτανίδης",
+      "latitude": 37.635854,
+      "longitude": 22.72823
+    },
+    {
+      "name": "Οπτικά Σταυροπούλου",
+      "latitude": 38.016191,
+      "longitude": 23.691854
+    },
+    {
+      "name": "Οπτικά Τάχος",
+      "latitude": 40.637566,
+      "longitude": 22.949828
+    },
+    {
+      "name": "Οπτικα",
+      "latitude": 35.512697,
+      "longitude": 24.02007
+    },
+    {
+      "name": "ΟΠΤΙΚΑ ΑΓΕΛΑΡΗ",
+      "latitude": 40.601236,
+      "longitude": 22.953799
+    },
+    {
+      "name": "ΟΠΤΙΚΑ ΓΙΑΝΝΙΚΑΣ",
+      "latitude": 38.393032,
+      "longitude": 21.830033
+    },
+    {
+      "name": "ΟΠΤΙΚΑ ΚΟΤΤΑΣ",
+      "latitude": 38.24906,
+      "longitude": 22.08844
+    },
+    {
+      "name": "ΟΠΤΙΚΑ ΚΡΙΔΕΡΑ",
+      "latitude": 37.973673,
+      "longitude": 23.731722
+    },
+    {
+      "name": "ΟΠΤΙΚΑ ΜΥΖΙΚΟΣ",
+      "latitude": 38.956572,
+      "longitude": 20.753753
+    },
+    {
+      "name": "ΟΠΤΙΚΑ ΠΑΠΑΣΑΒΒΑΣ",
+      "latitude": 38.078757,
+      "longitude": 22.631805
+    },
+    {
+      "name": "ΟΠΤΙΚΑ ΦΙΛΙΠΠΟΣ",
+      "latitude": 40.604822,
+      "longitude": 22.968674
+    },
+    {
+      "name": "Οπτικο Κεντρο",
+      "latitude": 35.51234,
+      "longitude": 24.020194
+    },
+    {
+      "name": "Οπτικό Κέντρο",
+      "latitude": 38.037999,
+      "longitude": 23.692155
+    },
+    {
+      "name": "Οπτικό Κέντρο",
+      "latitude": 40.271417,
+      "longitude": 22.508459
+    },
+    {
+      "name": "Οπτικό Κέντρο \"OptoNet\"",
+      "latitude": 35.231513,
+      "longitude": 23.682765
+    },
+    {
+      "name": "Οπτικό Κέντρο ΜΑΡΚΑΚΗΣ",
+      "latitude": 35.336431,
+      "longitude": 25.134924
+    },
+    {
+      "name": "Οπτικό Κέντρο ΝΑΝΟΣ VISION",
+      "latitude": 35.331931,
+      "longitude": 25.138623
+    },
+    {
+      "name": "Οπτικό Κέντρο ΝΑΝΟΣ VISION",
+      "latitude": 35.337092,
+      "longitude": 25.134036
+    },
+    {
+      "name": "Οπτικό Μέλλον",
+      "latitude": 37.984361,
+      "longitude": 23.760804
+    },
+    {
+      "name": "Οπτικός Κόσμος",
+      "latitude": 37.948659,
+      "longitude": 23.737012
+    },
+    {
+      "name": "Οπτικός Οίκος Αναγνωστόπουλου",
+      "latitude": 38.024545,
+      "longitude": 23.733126
+    },
+    {
+      "name": "Οπτικός Οίκος Μακρή",
+      "latitude": 39.36538,
+      "longitude": 21.92435
+    },
+    {
+      "name": "Οπτομάνια",
+      "latitude": 39.421725,
+      "longitude": 20.060779
+    },
+    {
+      "name": "Οπτότυπον",
+      "latitude": 37.892367,
+      "longitude": 23.753296
+    },
+    {
+      "name": "Ορατον",
+      "latitude": 37.995725,
+      "longitude": 23.73189
+    },
+    {
+      "name": "ΟΡΤΙΚΆ παρασκευαιδου",
+      "latitude": 40.084325,
+      "longitude": 21.429058
+    },
+    {
+      "name": "ΟΡΤΙΚΟΝ Χ PRESS",
+      "latitude": 40.629114,
+      "longitude": 22.947824
+    },
+    {
+      "name": "Ορφανός οπτικά",
+      "latitude": 37.975831,
+      "longitude": 23.717161
+    },
+    {
+      "name": "ΟΦΘαλμος",
+      "latitude": 36.419369,
+      "longitude": 25.432104
+    },
+    {
+      "name": "Οφθαλμος",
+      "latitude": 37.940011,
+      "longitude": 22.932612
+    },
+    {
+      "name": "Οφθαλμός",
+      "latitude": 37.931377,
+      "longitude": 23.756355
+    },
+    {
+      "name": "Οφθαλμός",
+      "latitude": 37.945625,
+      "longitude": 23.714246
+    },
+    {
+      "name": "Οφθαλμός",
+      "latitude": 37.958219,
+      "longitude": 23.624095
+    },
+    {
+      "name": "Οφθαλμός",
+      "latitude": 37.976877,
+      "longitude": 23.728936
+    },
+    {
+      "name": "Οφθαλμός",
+      "latitude": 39.989847,
+      "longitude": 23.614436
+    },
+    {
+      "name": "Πίσχος",
+      "latitude": 38.072082,
+      "longitude": 23.813086
+    },
+    {
+      "name": "Παδιος",
+      "latitude": 39.666899,
+      "longitude": 20.855011
+    },
+    {
+      "name": "Παλασόπουλος",
+      "latitude": 38.018083,
+      "longitude": 23.755357
+    },
+    {
+      "name": "Παναγοπούλου",
+      "latitude": 37.672545,
+      "longitude": 21.434784
+    },
+    {
+      "name": "Παναΐδης",
+      "latitude": 38.055632,
+      "longitude": 23.805788
+    },
+    {
+      "name": "Πανόπουλος",
+      "latitude": 37.975453,
+      "longitude": 23.764249
+    },
+    {
+      "name": "Παπαβασιλείου",
+      "latitude": 37.95782,
+      "longitude": 23.705103
+    },
+    {
+      "name": "ΠΑΠΑΓΕΩΡΓΙΟΥ",
+      "latitude": 37.978976,
+      "longitude": 23.765408
+    },
+    {
+      "name": "Παπαγιαννόπουλος Οπτικά",
+      "latitude": 37.67278,
+      "longitude": 21.43546
+    },
+    {
+      "name": "Παπαδάκος",
+      "latitude": 39.637795,
+      "longitude": 22.420014
+    },
+    {
+      "name": "Παπαευθυμίου",
+      "latitude": 38.012782,
+      "longitude": 23.819234
+    },
+    {
+      "name": "Παπαζαχαρία",
+      "latitude": 37.991637,
+      "longitude": 23.765819
+    },
+    {
+      "name": "Παπαθανασίου",
+      "latitude": 38.056554,
+      "longitude": 23.806073
+    },
+    {
+      "name": "Παπαθεοδωρου",
+      "latitude": 37.863034,
+      "longitude": 23.749999
+    },
+    {
+      "name": "Παπαθεοδώρου",
+      "latitude": 37.833179,
+      "longitude": 23.803027
+    },
+    {
+      "name": "Παπακώστας",
+      "latitude": 38.01405,
+      "longitude": 23.830147
+    },
+    {
+      "name": "Παπαναστασίου",
+      "latitude": 37.510458,
+      "longitude": 22.373236
+    },
+    {
+      "name": "Παπανικος",
+      "latitude": 39.705777,
+      "longitude": 21.625285
+    },
+    {
+      "name": "Παπούλιας",
+      "latitude": 37.07322,
+      "longitude": 22.429794
+    },
+    {
+      "name": "Παπούλιας",
+      "latitude": 39.638372,
+      "longitude": 22.419028
+    },
+    {
+      "name": "Παρίση",
+      "latitude": 37.982815,
+      "longitude": 23.730582
+    },
+    {
+      "name": "Πασπαλάκη",
+      "latitude": 38.009795,
+      "longitude": 23.73526
+    },
+    {
+      "name": "Περάκης",
+      "latitude": 35.188417,
+      "longitude": 25.716221
+    },
+    {
+      "name": "περί Οφθαλμού",
+      "latitude": 40.638497,
+      "longitude": 22.934956
+    },
+    {
+      "name": "Περίβλεπτον",
+      "latitude": 37.939996,
+      "longitude": 23.713227
+    },
+    {
+      "name": "Περι... όρασης",
+      "latitude": 37.929712,
+      "longitude": 23.637231
+    },
+    {
+      "name": "Πουλέλλης",
+      "latitude": 39.10622,
+      "longitude": 26.555904
+    },
+    {
+      "name": "Πρέκα Χρυσούλα",
+      "latitude": 37.991809,
+      "longitude": 23.68077
+    },
+    {
+      "name": "Πρίσμα",
+      "latitude": 38.055644,
+      "longitude": 23.807722
+    },
+    {
+      "name": "Προοπτική",
+      "latitude": 38.031389,
+      "longitude": 23.707586
+    },
+    {
+      "name": "Ρίζος",
+      "latitude": 40.634148,
+      "longitude": 22.942249
+    },
+    {
+      "name": "Ρεα ναουμ Χριστοδουλία",
+      "latitude": 38.001105,
+      "longitude": 23.735832
+    },
+    {
+      "name": "ΣΑΜΑΡΑΣ",
+      "latitude": 40.611046,
+      "longitude": 22.986787
+    },
+    {
+      "name": "Σιάμος",
+      "latitude": 38.436905,
+      "longitude": 21.351846
+    },
+    {
+      "name": "Σιδερόπουλου",
+      "latitude": 40.522208,
+      "longitude": 21.263003
+    },
+    {
+      "name": "Σισμάνης",
+      "latitude": 37.988596,
+      "longitude": 23.751538
+    },
+    {
+      "name": "Σκουνάκης",
+      "latitude": 38.034288,
+      "longitude": 23.738671
+    },
+    {
+      "name": "Σπύρογλου",
+      "latitude": 38.041842,
+      "longitude": 23.755212
+    },
+    {
+      "name": "Σπύρου",
+      "latitude": 38.464476,
+      "longitude": 23.593973
+    },
+    {
+      "name": "Σταύρακας",
+      "latitude": 38.01339,
+      "longitude": 23.75124
+    },
+    {
+      "name": "Σταύρος Κοής",
+      "latitude": 37.44352,
+      "longitude": 24.944807
+    },
+    {
+      "name": "Σταύρος Κοής",
+      "latitude": 37.443788,
+      "longitude": 24.943082
+    },
+    {
+      "name": "Σταύρου",
+      "latitude": 37.976924,
+      "longitude": 23.740044
+    },
+    {
+      "name": "Στεργίου Ταξιάρχης",
+      "latitude": 38.032706,
+      "longitude": 23.716127
+    },
+    {
+      "name": "Στογιάννη",
+      "latitude": 40.378519,
+      "longitude": 23.441331
+    },
+    {
+      "name": "Στρίβας Ευάγγελος",
+      "latitude": 40.720089,
+      "longitude": 23.706296
+    },
+    {
+      "name": "ΣΧΟΙΝΑΣ ΙΩΑΝΝΗΣ",
+      "latitude": 40.631668,
+      "longitude": 22.944975
+    },
+    {
+      "name": "Σωτηράκης",
+      "latitude": 39.638341,
+      "longitude": 22.419327
+    },
+    {
+      "name": "Ταξιάρχης Στεργίου",
+      "latitude": 38.027928,
+      "longitude": 23.71742
+    },
+    {
+      "name": "Ταξιάρχης Στεργίου",
+      "latitude": 38.028768,
+      "longitude": 23.719472
+    },
+    {
+      "name": "Ταουξίδη",
+      "latitude": 37.939706,
+      "longitude": 22.932107
+    },
+    {
+      "name": "Ταστιόγλου",
+      "latitude": 38.006827,
+      "longitude": 23.801962
+    },
+    {
+      "name": "Τζινιέρη",
+      "latitude": 38.054563,
+      "longitude": 23.806565
+    },
+    {
+      "name": "Το Κάτοπτρον",
+      "latitude": 38.363827,
+      "longitude": 20.718174
+    },
+    {
+      "name": "Τοσουνίδου",
+      "latitude": 39.102336,
+      "longitude": 26.554072
+    },
+    {
+      "name": "Τριανταφύλλου",
+      "latitude": 38.02863,
+      "longitude": 23.717376
+    },
+    {
+      "name": "Τρουπής",
+      "latitude": 37.939643,
+      "longitude": 22.932227
+    },
+    {
+      "name": "Τσόκος",
+      "latitude": 37.983872,
+      "longitude": 23.726798
+    },
+    {
+      "name": "Τόνια Ζωγοπούλου",
+      "latitude": 38.244946,
+      "longitude": 21.73662
+    },
+    {
+      "name": "Τύρος",
+      "latitude": 38.12137,
+      "longitude": 23.858616
+    },
+    {
+      "name": "Φ. ΦΕΤΑ",
+      "latitude": 40.938026,
+      "longitude": 24.412776
+    },
+    {
+      "name": "Φάσμα",
+      "latitude": 37.942388,
+      "longitude": 23.646334
+    },
+    {
+      "name": "Φάσμα",
+      "latitude": 37.955883,
+      "longitude": 23.701454
+    },
+    {
+      "name": "Φάσμα Οπτικά",
+      "latitude": 37.861624,
+      "longitude": 23.753432
+    },
+    {
+      "name": "Φιλίππου",
+      "latitude": 38.034038,
+      "longitude": 23.738536
+    },
+    {
+      "name": "Φιλίππου",
+      "latitude": 38.043563,
+      "longitude": 23.738016
+    },
+    {
+      "name": "Φιλίππου",
+      "latitude": 39.107497,
+      "longitude": 26.556706
+    },
+    {
+      "name": "Φώτης Παπούλιας",
+      "latitude": 37.949989,
+      "longitude": 23.736704
+    },
+    {
+      "name": "Χαλικιάς",
+      "latitude": 37.992448,
+      "longitude": 23.678451
+    },
+    {
+      "name": "Χανιώτης",
+      "latitude": 37.983006,
+      "longitude": 23.733562
+    },
+    {
+      "name": "Χαρα Ιωαννίδου",
+      "latitude": 38.020741,
+      "longitude": 24.006952
+    },
+    {
+      "name": "Χαραλαμπίδη",
+      "latitude": 38.011651,
+      "longitude": 23.729117
+    },
+    {
+      "name": "Χατζίνα Κωνσταντίνα",
+      "latitude": 37.978848,
+      "longitude": 23.63687
+    },
+    {
+      "name": "Χατζησυμεών",
+      "latitude": 39.638923,
+      "longitude": 22.416565
+    },
+    {
+      "name": "Χατζόγλου",
+      "latitude": 39.638875,
+      "longitude": 22.418951
+    },
+    {
+      "name": "Χριστίνα Λιλικάκη",
+      "latitude": 37.982198,
+      "longitude": 23.724871
+    },
+    {
+      "name": "Χριστοπούλου",
+      "latitude": 37.984847,
+      "longitude": 23.731476
+    },
+    {
+      "name": "Όρασις",
+      "latitude": 39.638016,
+      "longitude": 22.419015
+    },
+    {
+      "name": "Ἡδύ Ἰδεῖν",
+      "latitude": 38.175482,
+      "longitude": 20.489398
+    },
+    {
+      "name": "Ὀρᾶν",
+      "latitude": 37.512088,
+      "longitude": 22.373313
+    }
+  ],
+  "meta": {
+    "title": "Καταστήματα Οπτικών Ελλάδας - Δωρεάν λήψη",
+    "description": "Καταστήματα οπτικών σε όλη την Ελλάδα από το OpenStreetMap. Opticians across Greece. Περιέχει 616 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Καταστήματα Οπτικών Ελλάδας | ListBase",
+    "seo_description": "Λήψη Καταστήματα Οπτικών Ελλάδας — 616 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 616 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

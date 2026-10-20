@@ -1,0 +1,310 @@
+{
+  "id": "el-nison-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Νησων (37)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Νησων (37)",
+  "description": "Οι 37 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Νησων (Περιφέρεια Αττικης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 37,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "400201",
+      "name": "Αγκιστριου",
+      "municipality": "Αγκιστριου",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400301",
+      "name": "Αιγινας",
+      "municipality": "Αιγινας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400302",
+      "name": "Βαθεος",
+      "municipality": "Αιγινας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400303",
+      "name": "Κυψελης",
+      "municipality": "Αιγινας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400304",
+      "name": "Μεσαγρου",
+      "municipality": "Αιγινας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400305",
+      "name": "Περδικας",
+      "municipality": "Αιγινας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400501",
+      "name": "Αντικυθηρων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400901",
+      "name": "Αρωνιαδικων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400902",
+      "name": "Καραβα",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400903",
+      "name": "Καρβουναδων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400904",
+      "name": "Κοντολιανικων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400905",
+      "name": "Κυθηρων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400906",
+      "name": "Λιβαδιου",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400907",
+      "name": "Λογοθετιανικων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400908",
+      "name": "Μητατων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400909",
+      "name": "Μυλοποταμου",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400910",
+      "name": "Μυρτιδιων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400911",
+      "name": "Ποταμου",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400912",
+      "name": "Φρατσιων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400913",
+      "name": "Φριλιγκιανικων",
+      "municipality": "Κυθηρων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401401",
+      "name": "Πορου",
+      "municipality": "Πορου",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400401",
+      "name": "Αμπελακιων",
+      "municipality": "Σαλαμινος",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "400402",
+      "name": "Σεληνιων",
+      "municipality": "Σαλαμινος",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401501",
+      "name": "Αιαντειου",
+      "municipality": "Σαλαμινος",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401502",
+      "name": "Σαλαμινος",
+      "municipality": "Σαλαμινος",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401601",
+      "name": "Σπετσων",
+      "municipality": "Σπετσων",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401001",
+      "name": "Κουνουπιτσης",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401002",
+      "name": "Κυψελης Μεθανων",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401003",
+      "name": "Λουτροπολεως Μεθανων",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401004",
+      "name": "Μεγαλοχωριου",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401702",
+      "name": "Γαλατα",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401701",
+      "name": "Ανω Φαναριου",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401703",
+      "name": "Δρυοπης",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401704",
+      "name": "Καρατζα",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401705",
+      "name": "Τακτικουπολεως",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401706",
+      "name": "Τροιζηνος",
+      "municipality": "Τροιζηνιας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "401801",
+      "name": "Υδρας",
+      "municipality": "Υδρας",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Νησων (37) - Δωρεάν λήψη",
+    "description": "Οι 37 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Νησων (Περιφέρεια Αττικης) σύμφωνα με τον Καλλικράτη. Περιέχει 37 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Νησων (37) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Νησων (37) — 37 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 37 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

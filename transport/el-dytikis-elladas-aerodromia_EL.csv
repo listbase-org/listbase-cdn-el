@@ -1,0 +1,6 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LGAD","PYR","Andravida Airport","andravida-airport","Andravida","Περιφέρεια Δυτικής Ελλάδας","West-Greece","dytikis-elladas","West Greece Region","GR","55","37.9207000732","21.2926006317","Europe/Athens","true"
+"LGAG","AGQ","Agrinion Airport","agrinion-airport","Agrinion","Περιφέρεια Δυτικής Ελλάδας","West-Greece","dytikis-elladas","West Greece Region","GR","154","38.6020011902","21.3512001038","Europe/Athens","true"
+"LGEP","","Epitalion Airport","epitalion-airport","Pyrgos","Περιφέρεια Δυτικής Ελλάδας","West-Greece","dytikis-elladas","West Greece Region","GR","3","37.613899231","21.4981002808","Europe/Athens","false"
+"LGPZ","PVK","Aktion National Airport","aktion-national-airport","Preveza/Lefkada","Περιφέρεια Δυτικής Ελλάδας","West-Greece","dytikis-elladas","West Greece Region","GR","11","38.9254989624","20.7653007507","Europe/Athens","true"
+"LGRX","GPA","Araxos Airport","araxos-airport","Patras","Περιφέρεια Δυτικής Ελλάδας","West-Greece","dytikis-elladas","West Greece Region","GR","46","38.1511001587","21.4256000519","Europe/Athens","true"

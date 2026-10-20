@@ -1,0 +1,419 @@
+{
+  "id": "el-peloponnisou-dimoi",
+  "name": "Δήμοι — Περιφέρεια Πελοποννήσου",
+  "title": "Δήμοι — Περιφέρεια Πελοποννήσου",
+  "description": "Οι δήμοι της Περιφέρειας Πελοποννήσου (Peloponnese) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 26 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9233",
+      "name": "Αργους-Μυκηνων",
+      "slug": "argoys-mykinon",
+      "regional_unit_id": "1001",
+      "regional_unit_name": "Αργολιδας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 8,
+      "communities_count": 38
+    },
+    {
+      "id": "9234",
+      "name": "Επιδαυρου",
+      "slug": "epidayroy",
+      "regional_unit_id": "1001",
+      "regional_unit_name": "Αργολιδας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 2,
+      "communities_count": 8
+    },
+    {
+      "id": "9235",
+      "name": "Ερμιονιδας",
+      "slug": "ermionidas",
+      "regional_unit_id": "1001",
+      "regional_unit_name": "Αργολιδας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 2,
+      "communities_count": 8
+    },
+    {
+      "id": "9236",
+      "name": "Ναυπλιεων",
+      "slug": "nayplieon",
+      "regional_unit_id": "1001",
+      "regional_unit_name": "Αργολιδας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 4,
+      "communities_count": 21
+    },
+    {
+      "id": "9237",
+      "name": "Βορειας Κυνουριας",
+      "slug": "voreias-kynoyrias",
+      "regional_unit_id": "1002",
+      "regional_unit_name": "Αρκαδιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 1,
+      "communities_count": 26
+    },
+    {
+      "id": "9238",
+      "name": "Γορτυνιας",
+      "slug": "gortynias",
+      "regional_unit_id": "1002",
+      "regional_unit_name": "Αρκαδιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 8,
+      "communities_count": 70
+    },
+    {
+      "id": "9239",
+      "name": "Μεγαλοπολης",
+      "slug": "megalopolis",
+      "regional_unit_id": "1002",
+      "regional_unit_name": "Αρκαδιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 3,
+      "communities_count": 61
+    },
+    {
+      "id": "9240",
+      "name": "Νοτιας Κυνουριας",
+      "slug": "notias-kynoyrias",
+      "regional_unit_id": "1002",
+      "regional_unit_name": "Αρκαδιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 3,
+      "communities_count": 16
+    },
+    {
+      "id": "9241",
+      "name": "Τριπολης",
+      "slug": "tripolis",
+      "regional_unit_id": "1002",
+      "regional_unit_name": "Αρκαδιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 8,
+      "communities_count": 79
+    },
+    {
+      "id": "9242",
+      "name": "Βελου-Βοχας",
+      "slug": "veloy-vochas",
+      "regional_unit_id": "1003",
+      "regional_unit_name": "Κορινθιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 2,
+      "communities_count": 15
+    },
+    {
+      "id": "9243",
+      "name": "Κορινθιων",
+      "slug": "korinthion",
+      "regional_unit_id": "1003",
+      "regional_unit_name": "Κορινθιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 5,
+      "communities_count": 22
+    },
+    {
+      "id": "9244",
+      "name": "Λουτρακιου-Αγ.θεοδωρων",
+      "slug": "loytrakioy-ag-theodoron",
+      "regional_unit_id": "1003",
+      "regional_unit_name": "Κορινθιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 2,
+      "communities_count": 4
+    },
+    {
+      "id": "9245",
+      "name": "Νεμεας",
+      "slug": "nemeas",
+      "regional_unit_id": "1003",
+      "regional_unit_name": "Κορινθιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 1,
+      "communities_count": 10
+    },
+    {
+      "id": "9246",
+      "name": "Ξυλοκαστρου-Ευρωστινης",
+      "slug": "xylokastroy-eyrostinis",
+      "regional_unit_id": "1003",
+      "regional_unit_name": "Κορινθιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 2,
+      "communities_count": 36
+    },
+    {
+      "id": "9247",
+      "name": "Σικυωνιων",
+      "slug": "sikyonion",
+      "regional_unit_id": "1003",
+      "regional_unit_name": "Κορινθιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 3,
+      "communities_count": 36
+    },
+    {
+      "id": "9248",
+      "name": "Ανατολικης Μανης",
+      "slug": "anatolikis-manis",
+      "regional_unit_id": "1004",
+      "regional_unit_name": "Λακωνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 4,
+      "communities_count": 52
+    },
+    {
+      "id": "9249",
+      "name": "Ελαφονησου",
+      "slug": "elafonisoy",
+      "regional_unit_id": "1004",
+      "regional_unit_name": "Λακωνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9250",
+      "name": "Ευρωτα",
+      "slug": "eyrota",
+      "regional_unit_id": "1004",
+      "regional_unit_name": "Λακωνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 5,
+      "communities_count": 25
+    },
+    {
+      "id": "9251",
+      "name": "Μονεμβασιας",
+      "slug": "monemvasias",
+      "regional_unit_id": "1004",
+      "regional_unit_name": "Λακωνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 5,
+      "communities_count": 38
+    },
+    {
+      "id": "9252",
+      "name": "Σπαρτης",
+      "slug": "spartis",
+      "regional_unit_id": "1004",
+      "regional_unit_name": "Λακωνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 7,
+      "communities_count": 52
+    },
+    {
+      "id": "9253",
+      "name": "Δυτικης Μανης",
+      "slug": "dytikis-manis",
+      "regional_unit_id": "1005",
+      "regional_unit_name": "Μεσσηνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 2,
+      "communities_count": 27
+    },
+    {
+      "id": "9254",
+      "name": "Καλαματας",
+      "slug": "kalamatas",
+      "regional_unit_id": "1005",
+      "regional_unit_name": "Μεσσηνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 4,
+      "communities_count": 34
+    },
+    {
+      "id": "9255",
+      "name": "Μεσσηνης",
+      "slug": "messinis",
+      "regional_unit_id": "1005",
+      "regional_unit_name": "Μεσσηνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 8,
+      "communities_count": 70
+    },
+    {
+      "id": "9256",
+      "name": "Οιχαλιας",
+      "slug": "oichalias",
+      "regional_unit_id": "1005",
+      "regional_unit_name": "Μεσσηνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 5,
+      "communities_count": 52
+    },
+    {
+      "id": "9257",
+      "name": "Πυλου-Νεστορος",
+      "slug": "pyloy-nestoros",
+      "regional_unit_id": "1005",
+      "regional_unit_name": "Μεσσηνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 6,
+      "communities_count": 45
+    },
+    {
+      "id": "9258",
+      "name": "Τριφυλιας",
+      "slug": "trifylias",
+      "regional_unit_id": "1005",
+      "regional_unit_name": "Μεσσηνιας",
+      "periphery_id": 10,
+      "periphery_name": "Πελοποννησου",
+      "periphery_name_native": "Πελοποννήσου",
+      "periphery_slug": "peloponnisou",
+      "municipal_units_count": 6,
+      "communities_count": 52
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Πελοποννήσου - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Πελοποννήσου (Peloponnese) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 26 δήμοι. Περιέχει 26 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Πελοποννήσου | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Πελοποννήσου — 26 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 26 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

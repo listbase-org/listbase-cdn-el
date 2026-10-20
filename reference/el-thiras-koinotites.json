@@ -1,0 +1,184 @@
+{
+  "id": "el-thiras-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Θηρας (19)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Θηρας (19)",
+  "description": "Οι 19 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Θηρας (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "310201",
+      "name": "Αναφης",
+      "municipality": "Αναφης",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311101",
+      "name": "Εμπορειου",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311102",
+      "name": "Επισκοπης Γωνιας",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311103",
+      "name": "Θηρας",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311104",
+      "name": "Καρτεραδου",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311105",
+      "name": "Μεσαριας",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311106",
+      "name": "Ακρωτηριου",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311107",
+      "name": "Βοθωνος",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311108",
+      "name": "Βουρβουλου",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311109",
+      "name": "Εξω Γωνιας",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311110",
+      "name": "Ημεροβιγλιου",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311111",
+      "name": "Μεγαλοχωριου",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311112",
+      "name": "Πυργου Καλλιστης",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312101",
+      "name": "Θηρασιας",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312102",
+      "name": "Οιας",
+      "municipality": "Θηρας",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311201",
+      "name": "Ιητων",
+      "municipality": "Ιητων",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312601",
+      "name": "Σικινου",
+      "municipality": "Σικινου",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313101",
+      "name": "Ανω Μεριας",
+      "municipality": "Φολεγανδρου",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313102",
+      "name": "Φολεγανδρου",
+      "municipality": "Φολεγανδρου",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Θηρας (19) - Δωρεάν λήψη",
+    "description": "Οι 19 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Θηρας (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 19 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Θηρας (19) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Θηρας (19) — 19 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 19 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

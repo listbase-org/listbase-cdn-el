@@ -1,0 +1,1436 @@
+{
+  "id": "el-klinikes",
+  "name": "Κλινικές Ελλάδας",
+  "title": "Κλινικές Ελλάδας",
+  "description": "Κλινικές σε όλη την Ελλάδα από το OpenStreetMap. Clinics across Greece.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 279,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"ΑΣΚΛΗΠΙΟΣ\"",
+      "latitude": 40.666951,
+      "longitude": 22.911267
+    },
+    {
+      "name": "1η ΤΟ.Μ.Υ.",
+      "latitude": 40.93363,
+      "longitude": 24.384385
+    },
+    {
+      "name": "24h Medical Service Dr. med. S. Mitregas",
+      "latitude": 35.335768,
+      "longitude": 25.074733
+    },
+    {
+      "name": "Acra kesaria",
+      "latitude": 35.335758,
+      "longitude": 25.131717
+    },
+    {
+      "name": "Affidea",
+      "latitude": 37.83674,
+      "longitude": 23.808782
+    },
+    {
+      "name": "Affidea",
+      "latitude": 37.948497,
+      "longitude": 23.738369
+    },
+    {
+      "name": "Affidea - Ευρωιατρική",
+      "latitude": 37.935425,
+      "longitude": 23.647421
+    },
+    {
+      "name": "Amoudara Medical Assistance",
+      "latitude": 35.335966,
+      "longitude": 25.070628
+    },
+    {
+      "name": "Anastasakis Hair Clinic",
+      "latitude": 37.990105,
+      "longitude": 23.743083
+    },
+    {
+      "name": "Animus Κυανούς Σταυρός",
+      "latitude": 39.638767,
+      "longitude": 22.413527
+    },
+    {
+      "name": "Apex",
+      "latitude": 37.932991,
+      "longitude": 23.728341
+    },
+    {
+      "name": "Armonia rehabilitation center",
+      "latitude": 40.402293,
+      "longitude": 23.026888
+    },
+    {
+      "name": "Athens Eye",
+      "latitude": 38.013207,
+      "longitude": 23.689239
+    },
+    {
+      "name": "Athens Memorial Clinic",
+      "latitude": 37.986169,
+      "longitude": 23.739789
+    },
+    {
+      "name": "Attica Medpoint",
+      "latitude": 38.006141,
+      "longitude": 23.724752
+    },
+    {
+      "name": "Bali Medical Center",
+      "latitude": 35.406081,
+      "longitude": 24.78312
+    },
+    {
+      "name": "Calypso",
+      "latitude": 39.640488,
+      "longitude": 22.421519
+    },
+    {
+      "name": "Centaurus Rehabilitation Center",
+      "latitude": 39.358201,
+      "longitude": 22.976385
+    },
+    {
+      "name": "Children's Clinic Kifissia",
+      "latitude": 38.071134,
+      "longitude": 23.812479
+    },
+    {
+      "name": "City Doctors",
+      "latitude": 37.948699,
+      "longitude": 23.73825
+    },
+    {
+      "name": "City Med",
+      "latitude": 37.075585,
+      "longitude": 22.428449
+    },
+    {
+      "name": "Corfu Naturopathy",
+      "latitude": 39.758637,
+      "longitude": 19.696111
+    },
+    {
+      "name": "Cosmoclinic",
+      "latitude": 37.955303,
+      "longitude": 23.639688
+    },
+    {
+      "name": "Doctor Lægevagt",
+      "latitude": 35.517727,
+      "longitude": 23.90366
+    },
+    {
+      "name": "Doctors' Hospital",
+      "latitude": 37.99887,
+      "longitude": 23.735381
+    },
+    {
+      "name": "EmBio",
+      "latitude": 38.01142,
+      "longitude": 23.785649
+    },
+    {
+      "name": "Euromedica",
+      "latitude": 40.619624,
+      "longitude": 22.96796
+    },
+    {
+      "name": "Express service",
+      "latitude": 40.593434,
+      "longitude": 22.949222
+    },
+    {
+      "name": "Express Service",
+      "latitude": 40.594207,
+      "longitude": 22.950136
+    },
+    {
+      "name": "Facemed Clinic Athens",
+      "latitude": 37.988837,
+      "longitude": 23.763558
+    },
+    {
+      "name": "Facemed Clinic Gerakas",
+      "latitude": 38.008876,
+      "longitude": 23.857955
+    },
+    {
+      "name": "Facemed Clinic Tripolis",
+      "latitude": 37.514017,
+      "longitude": 22.381433
+    },
+    {
+      "name": "HealthSpot Μυτιλήνης",
+      "latitude": 39.10654,
+      "longitude": 26.524947
+    },
+    {
+      "name": "Healty Derma Clinics",
+      "latitude": 38.071956,
+      "longitude": 23.812467
+    },
+    {
+      "name": "Hippocrates Quick Med Clinic",
+      "latitude": 35.50759,
+      "longitude": 27.211857
+    },
+    {
+      "name": "Iasis",
+      "latitude": 40.664087,
+      "longitude": 23.702959
+    },
+    {
+      "name": "IASIS Medical Centre",
+      "latitude": 38.083407,
+      "longitude": 23.97765
+    },
+    {
+      "name": "Iatpeio",
+      "latitude": 38.460644,
+      "longitude": 20.575313
+    },
+    {
+      "name": "Ios Emergency Medical Service",
+      "latitude": 36.721619,
+      "longitude": 25.282995
+    },
+    {
+      "name": "Kliniki Argyroudi",
+      "latitude": 38.356832,
+      "longitude": 26.136706
+    },
+    {
+      "name": "Kéntro Apotherapeías Fysikís Ródou (K.A.F.K.A.)",
+      "latitude": 36.25735,
+      "longitude": 28.14363
+    },
+    {
+      "name": "Life Check Αλίμου",
+      "latitude": 37.920921,
+      "longitude": 23.706239
+    },
+    {
+      "name": "Lifecheck Πρότυπο Διαγνωστικό Κέντρο",
+      "latitude": 37.937785,
+      "longitude": 23.757666
+    },
+    {
+      "name": "MACO Health Offices",
+      "latitude": 40.609069,
+      "longitude": 22.96854
+    },
+    {
+      "name": "Mastoras Medical Services",
+      "latitude": 39.789252,
+      "longitude": 19.787944
+    },
+    {
+      "name": "Medi Prinou",
+      "latitude": 38.071941,
+      "longitude": 23.812521
+    },
+    {
+      "name": "Medi-Help",
+      "latitude": 35.330458,
+      "longitude": 25.306602
+    },
+    {
+      "name": "Medialyse",
+      "latitude": 40.677814,
+      "longitude": 22.928021
+    },
+    {
+      "name": "Medialyse Σερρών",
+      "latitude": 41.099004,
+      "longitude": 23.630216
+    },
+    {
+      "name": "Medical Center",
+      "latitude": 35.287199,
+      "longitude": 25.461982
+    },
+    {
+      "name": "Medical Center",
+      "latitude": 35.407157,
+      "longitude": 25.016254
+    },
+    {
+      "name": "Medical Center",
+      "latitude": 39.992195,
+      "longitude": 22.62358
+    },
+    {
+      "name": "Medical Group",
+      "latitude": 37.871122,
+      "longitude": 23.758431
+    },
+    {
+      "name": "Medicall",
+      "latitude": 37.94156,
+      "longitude": 23.650693
+    },
+    {
+      "name": "Medipolis",
+      "latitude": 37.930176,
+      "longitude": 23.636481
+    },
+    {
+      "name": "Men Clinic",
+      "latitude": 38.000496,
+      "longitude": 23.787056
+    },
+    {
+      "name": "Meteora Nephrolife",
+      "latitude": 39.608561,
+      "longitude": 21.724229
+    },
+    {
+      "name": "MSF",
+      "latitude": 39.127227,
+      "longitude": 26.543005
+    },
+    {
+      "name": "MSF",
+      "latitude": 39.132537,
+      "longitude": 26.503945
+    },
+    {
+      "name": "Mykonian Hygeia Private Medical Centre",
+      "latitude": 37.446249,
+      "longitude": 25.334346
+    },
+    {
+      "name": "Navy Branch Health Clinic NSA Souda Bay",
+      "latitude": 35.534779,
+      "longitude": 24.157947
+    },
+    {
+      "name": "Nefrogenesis",
+      "latitude": 40.334532,
+      "longitude": 21.790348
+    },
+    {
+      "name": "nikos doctor",
+      "latitude": 37.879434,
+      "longitude": 23.756592
+    },
+    {
+      "name": "OMMA",
+      "latitude": 37.997375,
+      "longitude": 23.770232
+    },
+    {
+      "name": "Opsis Γναθοπροσωπική Διαγνωστική",
+      "latitude": 40.633574,
+      "longitude": 22.946396
+    },
+    {
+      "name": "Orasis",
+      "latitude": 37.992791,
+      "longitude": 23.767116
+    },
+    {
+      "name": "Primary Health Care",
+      "latitude": 39.479384,
+      "longitude": 19.925994
+    },
+    {
+      "name": "san vitale",
+      "latitude": 40.517021,
+      "longitude": 23.068432
+    },
+    {
+      "name": "Solidarklinik",
+      "latitude": 35.368101,
+      "longitude": 24.475962
+    },
+    {
+      "name": "Spili Health Center",
+      "latitude": 35.216671,
+      "longitude": 24.536581
+    },
+    {
+      "name": "St. Stefanos Surgery",
+      "latitude": 39.754912,
+      "longitude": 19.646113
+    },
+    {
+      "name": "Starks",
+      "latitude": 40.583281,
+      "longitude": 22.950458
+    },
+    {
+      "name": "Tassis medical",
+      "latitude": 37.742985,
+      "longitude": 20.899165
+    },
+    {
+      "name": "Thassos Med",
+      "latitude": 40.631238,
+      "longitude": 24.57529
+    },
+    {
+      "name": "Veterinarian Stavros Daskalakis",
+      "latitude": 35.522484,
+      "longitude": 23.847676
+    },
+    {
+      "name": "«Υγεία» Θεσπρωτίας",
+      "latitude": 39.488124,
+      "longitude": 20.268039
+    },
+    {
+      "name": "Ίαμα Διαγνωστικό Εργαστήριο",
+      "latitude": 37.891762,
+      "longitude": 23.756715
+    },
+    {
+      "name": "ΑΝΤΩΝΙΟΥ ΕΛΙΝΑ – Οφθαλμολογικό Κέντρο Ελευσίνας",
+      "latitude": 38.042254,
+      "longitude": 23.542493
+    },
+    {
+      "name": "ΑΠΟΚΑΤΑΣΤΑΣΗΑ.Ε.",
+      "latitude": 39.514598,
+      "longitude": 21.827198
+    },
+    {
+      "name": "Απολλώνειο-Θεοτόκος",
+      "latitude": 39.637141,
+      "longitude": 22.419521
+    },
+    {
+      "name": "Ασκλήπιος - Ιδιωτικό Διαγνωστικό Εργαστήριο Ηλεκτρονικής Τομογραφίας - Απεικονιστικής",
+      "latitude": 40.631565,
+      "longitude": 22.943919
+    },
+    {
+      "name": "Ασκληπιείο Άνω Βόλου",
+      "latitude": 39.380126,
+      "longitude": 22.967064
+    },
+    {
+      "name": "Ασκληπιείον Κρήτης",
+      "latitude": 35.337032,
+      "longitude": 25.135161
+    },
+    {
+      "name": "Ασκληπιός",
+      "latitude": 40.274342,
+      "longitude": 22.507552
+    },
+    {
+      "name": "Αττικό Θεραπευτήριο",
+      "latitude": 37.9995,
+      "longitude": 23.740969
+    },
+    {
+      "name": "Αχίλλειον Νεφρολογικό Κέντρο",
+      "latitude": 40.634722,
+      "longitude": 22.937729
+    },
+    {
+      "name": "ΒιοΔιάγνωση",
+      "latitude": 40.638083,
+      "longitude": 22.948846
+    },
+    {
+      "name": "Βιοδιαγνωστική",
+      "latitude": 37.945304,
+      "longitude": 23.648899
+    },
+    {
+      "name": "Βιοιατρική",
+      "latitude": 37.933662,
+      "longitude": 23.757369
+    },
+    {
+      "name": "Βιοιατρική",
+      "latitude": 37.937764,
+      "longitude": 23.644182
+    },
+    {
+      "name": "Βιοιατρική",
+      "latitude": 40.60003,
+      "longitude": 22.953982
+    },
+    {
+      "name": "ΒΙΟΙΑΤΡΙΚΗ",
+      "latitude": 38.024438,
+      "longitude": 23.807524
+    },
+    {
+      "name": "βιοιατρικη",
+      "latitude": 38.091532,
+      "longitude": 23.821072
+    },
+    {
+      "name": "Βιοκλινική",
+      "latitude": 40.629198,
+      "longitude": 22.947063
+    },
+    {
+      "name": "Βιοπρόληψη",
+      "latitude": 37.946813,
+      "longitude": 23.771661
+    },
+    {
+      "name": "Βιοϊατρική",
+      "latitude": 37.956702,
+      "longitude": 23.703502
+    },
+    {
+      "name": "Βιοϊατρική",
+      "latitude": 37.996369,
+      "longitude": 23.769058
+    },
+    {
+      "name": "Βιοϊατρική",
+      "latitude": 38.459764,
+      "longitude": 23.598937
+    },
+    {
+      "name": "Βιοϊατρική Πειραιά",
+      "latitude": 37.940816,
+      "longitude": 23.645565
+    },
+    {
+      "name": "Γέννημα IVF",
+      "latitude": 38.028098,
+      "longitude": 23.791104
+    },
+    {
+      "name": "Γαστρεντερολογική Κλινική",
+      "latitude": 39.61115,
+      "longitude": 22.386355
+    },
+    {
+      "name": "Γενική Απεικονιστική",
+      "latitude": 37.992391,
+      "longitude": 23.762149
+    },
+    {
+      "name": "Γενική Κλινική",
+      "latitude": 40.60011,
+      "longitude": 22.950253
+    },
+    {
+      "name": "Γενική Κλινική \"Άνασσα\"",
+      "latitude": 39.366053,
+      "longitude": 22.938305
+    },
+    {
+      "name": "Γενική Κλινική 'Η ΕΛΠΙΣ'",
+      "latitude": 39.36335,
+      "longitude": 22.948832
+    },
+    {
+      "name": "Γενική Κλινική Γερ. Ρηγόπουλου \"Πρωτόκλητος\"",
+      "latitude": 38.244213,
+      "longitude": 21.734074
+    },
+    {
+      "name": "Γενική Κλινική Γιάγκου",
+      "latitude": 37.938418,
+      "longitude": 23.641667
+    },
+    {
+      "name": "Γενική Κλινική Ταξιάρχαι",
+      "latitude": 38.012476,
+      "longitude": 23.688047
+    },
+    {
+      "name": "ΓΕΝΙΚΗ ΚΑΙ ΓΝΑΘΟΠΡΟΣΩΠΙΚΗ ΔΙΑΓΝΩΣΗ ΕΠΕ",
+      "latitude": 38.002432,
+      "longitude": 23.777021
+    },
+    {
+      "name": "ΓΕΝΙΚΗ ΚΛΙΝΙΚΗ  Πατσίδης Ευτύχιος",
+      "latitude": 39.612373,
+      "longitude": 22.411553
+    },
+    {
+      "name": "Γιατροί Χωρίς Σύνορα",
+      "latitude": 37.985565,
+      "longitude": 23.732467
+    },
+    {
+      "name": "Γυναίκα Μητέρα Εμβρυο",
+      "latitude": 37.932457,
+      "longitude": 23.728194
+    },
+    {
+      "name": "Γυναικολογικό – Μαιευτικό Κέντρο Αντωνίου Χρυσούλα",
+      "latitude": 38.042199,
+      "longitude": 23.542429
+    },
+    {
+      "name": "Δημοκρίτειο Νεφρολογικό Κέντρο",
+      "latitude": 41.111039,
+      "longitude": 25.345283
+    },
+    {
+      "name": "Δημοτικά Ιατρεία – ΚΕΠ Υγείας Παλαιού Φαλήρου",
+      "latitude": 37.931588,
+      "longitude": 23.695832
+    },
+    {
+      "name": "Δημοτικό Κέντρο Υγείας Καλλιθέας",
+      "latitude": 37.955358,
+      "longitude": 23.707448
+    },
+    {
+      "name": "Δημοτικό Πολυιατρείο",
+      "latitude": 40.653882,
+      "longitude": 22.929252
+    },
+    {
+      "name": "Διάγνωση",
+      "latitude": 37.936695,
+      "longitude": 23.638025
+    },
+    {
+      "name": "Διάγνωσις Ρεθύμνου",
+      "latitude": 35.365718,
+      "longitude": 24.481444
+    },
+    {
+      "name": "Ελληνική Καρδιολογική Εταιρεία",
+      "latitude": 37.976901,
+      "longitude": 23.755762
+    },
+    {
+      "name": "Επείγοντα Ερρίκου Ντυνάν",
+      "latitude": 37.992128,
+      "longitude": 23.770191
+    },
+    {
+      "name": "Ερευνητικό Πανεπιστημιακό Ινστιτούτο Ψυχικής Υγείας",
+      "latitude": 37.992503,
+      "longitude": 23.786883
+    },
+    {
+      "name": "Ερυθρός Σταυρός",
+      "latitude": 40.522041,
+      "longitude": 21.259401
+    },
+    {
+      "name": "Ευρωδιαγνωστική",
+      "latitude": 37.985734,
+      "longitude": 23.732097
+    },
+    {
+      "name": "Ευρωκλινική",
+      "latitude": 37.985697,
+      "longitude": 23.757049
+    },
+    {
+      "name": "Ευρωπαικο Καρδιολογικό Ινστιτούτο",
+      "latitude": 37.980462,
+      "longitude": 23.755939
+    },
+    {
+      "name": "Ζηλάκου",
+      "latitude": 37.941555,
+      "longitude": 23.64806
+    },
+    {
+      "name": "η Αναγέννηση",
+      "latitude": 40.522232,
+      "longitude": 23.068421
+    },
+    {
+      "name": "Θεραπευτήριο Αθηνών",
+      "latitude": 37.997068,
+      "longitude": 23.734085
+    },
+    {
+      "name": "Θεραπευτήριο Χρονίων Παθήσεων",
+      "latitude": 39.502527,
+      "longitude": 20.26989
+    },
+    {
+      "name": "Θεραπευτική",
+      "latitude": 40.670925,
+      "longitude": 22.966326
+    },
+    {
+      "name": "ΙΑΚΕΝΤΡΟ",
+      "latitude": 40.604814,
+      "longitude": 22.96893
+    },
+    {
+      "name": "Ιατρείο Ογκολόγου Σακελλαρίου Κωνσταντίνου",
+      "latitude": 37.990256,
+      "longitude": 23.759011
+    },
+    {
+      "name": "Ιατρείο Σκάλας Ερεσού",
+      "latitude": 39.135136,
+      "longitude": 25.930239
+    },
+    {
+      "name": "Ιατρική Διάγνωση",
+      "latitude": 38.077944,
+      "longitude": 23.734196
+    },
+    {
+      "name": "Ιατρική Ηπείρου",
+      "latitude": 39.607488,
+      "longitude": 20.880917
+    },
+    {
+      "name": "Ιατρικό Τούμπας",
+      "latitude": 40.615391,
+      "longitude": 22.969132
+    },
+    {
+      "name": "Ιατρόπολις Χαλανδρίου",
+      "latitude": 38.013413,
+      "longitude": 23.787447
+    },
+    {
+      "name": "ΙΚΑ Κομοτηνής (ΕΟΠΥΥ)",
+      "latitude": 41.117441,
+      "longitude": 25.39628
+    },
+    {
+      "name": "ΙΚΑ Ξάνθης",
+      "latitude": 41.136933,
+      "longitude": 24.885994
+    },
+    {
+      "name": "ΙΚΑ Τούμπας",
+      "latitude": 40.616296,
+      "longitude": 22.971075
+    },
+    {
+      "name": "Ιπποκράτειο Ίδρυμα",
+      "latitude": 38.624748,
+      "longitude": 21.413083
+    },
+    {
+      "name": "Ιπποκράτης",
+      "latitude": 37.939008,
+      "longitude": 23.643836
+    },
+    {
+      "name": "Ιπποκράτης",
+      "latitude": 39.635656,
+      "longitude": 22.419347
+    },
+    {
+      "name": "ΙΣΤΟΤΥΠΟΣ",
+      "latitude": 40.600379,
+      "longitude": 22.950457
+    },
+    {
+      "name": "Ιώνιο Θεραπευτήριο",
+      "latitude": 37.971475,
+      "longitude": 23.650628
+    },
+    {
+      "name": "Κέντρο Ημέρας Ανάσα",
+      "latitude": 37.966978,
+      "longitude": 23.729523
+    },
+    {
+      "name": "Κέντρο Υγείας Άντισσας",
+      "latitude": 39.237726,
+      "longitude": 25.975972
+    },
+    {
+      "name": "Κέντρο Υγείας Αλεξάνδρειας",
+      "latitude": 40.628027,
+      "longitude": 22.433288
+    },
+    {
+      "name": "Κέντρο Υγείας Αμυνταίου",
+      "latitude": 40.695599,
+      "longitude": 21.680114
+    },
+    {
+      "name": "Κέντρο Υγείας Αρχαίας Ολυμπίας",
+      "latitude": 37.647071,
+      "longitude": 21.624577
+    },
+    {
+      "name": "Κέντρο Υγείας Αστακού",
+      "latitude": 38.541643,
+      "longitude": 21.089472
+    },
+    {
+      "name": "Κέντρο Υγείας Βάρδας",
+      "latitude": 38.029382,
+      "longitude": 21.362186
+    },
+    {
+      "name": "Κέντρο Υγείας Βουτσαρά",
+      "latitude": 39.671494,
+      "longitude": 20.591169
+    },
+    {
+      "name": "Κέντρο Υγείας Βύρωνα",
+      "latitude": 37.960361,
+      "longitude": 23.75586
+    },
+    {
+      "name": "Κέντρο Υγείας Γαστούνης",
+      "latitude": 37.849328,
+      "longitude": 21.254323
+    },
+    {
+      "name": "Κέντρο Υγείας Δερβίζιανα",
+      "latitude": 39.398059,
+      "longitude": 20.784901
+    },
+    {
+      "name": "Κέντρο Υγείας ΔΕυόσμου",
+      "latitude": 40.667498,
+      "longitude": 22.905364
+    },
+    {
+      "name": "Κέντρο Υγείας Δημητσάνας",
+      "latitude": 37.598425,
+      "longitude": 22.041391
+    },
+    {
+      "name": "Κέντρο Υγείας Διαβατών",
+      "latitude": 40.687509,
+      "longitude": 22.855331
+    },
+    {
+      "name": "Κέντρο Υγείας Δραπετσώνας",
+      "latitude": 37.945463,
+      "longitude": 23.622406
+    },
+    {
+      "name": "Κέντρο Υγείας Δυτικής Φραγκίστας",
+      "latitude": 38.960962,
+      "longitude": 21.600166
+    },
+    {
+      "name": "Κέντρο Υγείας Ελευθερούπολης",
+      "latitude": 40.910299,
+      "longitude": 24.252877
+    },
+    {
+      "name": "Κέντρο Υγείας Ζαχάρως",
+      "latitude": 37.486832,
+      "longitude": 21.651643
+    },
+    {
+      "name": "Κέντρο Υγείας Ζωγράφου",
+      "latitude": 37.979784,
+      "longitude": 23.761301
+    },
+    {
+      "name": "Κέντρο Υγείας Ιθάκης",
+      "latitude": 38.362075,
+      "longitude": 20.720539
+    },
+    {
+      "name": "Κέντρο Υγείας Κάτω Νευροκοπίου",
+      "latitude": 41.336075,
+      "longitude": 23.870386
+    },
+    {
+      "name": "Κέντρο Υγείας Κατερίνης",
+      "latitude": 40.263995,
+      "longitude": 22.511334
+    },
+    {
+      "name": "Κέντρο Υγείας Κιάτου",
+      "latitude": 38.014704,
+      "longitude": 22.744133
+    },
+    {
+      "name": "Κέντρο Υγείας Κορωπίου",
+      "latitude": 37.9141,
+      "longitude": 23.875279
+    },
+    {
+      "name": "Κέντρο Υγείας Κω",
+      "latitude": 36.883997,
+      "longitude": 27.270513
+    },
+    {
+      "name": "Κέντρο Υγείας Κόνιτσας",
+      "latitude": 40.047497,
+      "longitude": 20.752244
+    },
+    {
+      "name": "Κέντρο Υγείας Λευκίμμης",
+      "latitude": 39.423183,
+      "longitude": 20.04904
+    },
+    {
+      "name": "Κέντρο Υγείας Μοσχάτου",
+      "latitude": 37.953171,
+      "longitude": 23.683596
+    },
+    {
+      "name": "Κέντρο Υγείας Μουζακίου",
+      "latitude": 39.431394,
+      "longitude": 21.665895
+    },
+    {
+      "name": "Κέντρο Υγείας Μυτιλήνης",
+      "latitude": 39.111918,
+      "longitude": 26.556696
+    },
+    {
+      "name": "Κέντρο Υγείας Νέας Καλλικράτειας",
+      "latitude": 40.316746,
+      "longitude": 23.064083
+    },
+    {
+      "name": "Κέντρο Υγείας Νίκαιας",
+      "latitude": 37.968867,
+      "longitude": 23.649071
+    },
+    {
+      "name": "Κέντρο Υγείας Πλωμαρίου",
+      "latitude": 38.977411,
+      "longitude": 26.37586
+    },
+    {
+      "name": "Κέντρο Υγείας Πολιχνίτου",
+      "latitude": 39.07737,
+      "longitude": 26.187891
+    },
+    {
+      "name": "Κέντρο Υγείας Πραμάντων",
+      "latitude": 39.529644,
+      "longitude": 21.096487
+    },
+    {
+      "name": "Κέντρο Υγείας Σαπών Γεώργιος Γεννηματάς",
+      "latitude": 41.022524,
+      "longitude": 25.701138
+    },
+    {
+      "name": "Κέντρο Υγείας Σιδηροκάστρου",
+      "latitude": 41.233728,
+      "longitude": 23.385432
+    },
+    {
+      "name": "Κέντρο Υγείας Σιμόπουλου",
+      "latitude": 37.849404,
+      "longitude": 21.576467
+    },
+    {
+      "name": "Κέντρο Υγείας Σκιάθου",
+      "latitude": 39.168429,
+      "longitude": 23.484757
+    },
+    {
+      "name": "Κέντρο Υγείας Στομίου",
+      "latitude": 39.869025,
+      "longitude": 22.732228
+    },
+    {
+      "name": "Κέντρο Υγείας Στρυμωνικού",
+      "latitude": 41.041142,
+      "longitude": 23.312446
+    },
+    {
+      "name": "Κέντρο Υγείας Φαρκαδόνας",
+      "latitude": 39.598788,
+      "longitude": 22.066518
+    },
+    {
+      "name": "Κέντρο Ψυχικής Υγείας",
+      "latitude": 41.097799,
+      "longitude": 23.576032
+    },
+    {
+      "name": "Κέντρο Ψυχικής Υγείας Κατερίνης",
+      "latitude": 40.266687,
+      "longitude": 22.516575
+    },
+    {
+      "name": "Καρδιολογική Κλινική",
+      "latitude": 37.88874,
+      "longitude": 23.931611
+    },
+    {
+      "name": "Κασταλία",
+      "latitude": 37.879918,
+      "longitude": 23.732093
+    },
+    {
+      "name": "ΚΑΣΤΑΛΙΑ",
+      "latitude": 39.348656,
+      "longitude": 21.918571
+    },
+    {
+      "name": "Κεντρική Κλινική Αθηνών",
+      "latitude": 37.982768,
+      "longitude": 23.736317
+    },
+    {
+      "name": "Κεντρο Υγείας Αγίου Αθανασίου - Αγρού",
+      "latitude": 39.722871,
+      "longitude": 19.718869
+    },
+    {
+      "name": "ΚΕΝΤΡΟ ΥΓΕΙΑΣ ΑΜΥΝΤΑΙΟΥ",
+      "latitude": 40.707598,
+      "longitude": 21.643488
+    },
+    {
+      "name": "ΚΕΠ Υγείας",
+      "latitude": 39.50204,
+      "longitude": 20.266062
+    },
+    {
+      "name": "ΚΕΦΙΑΠ - ΚΕΝΤΡΟ ΦΥΣΙΚΗΣ ΙΑΤΡΙΚΗΣ ΑΠΟΚΑΤΑΣΤΑΣΗΣ ΛΕΣΒΟΥ",
+      "latitude": 39.242751,
+      "longitude": 26.197357
+    },
+    {
+      "name": "κλινική γονιμότητας",
+      "latitude": 40.606879,
+      "longitude": 23.006748
+    },
+    {
+      "name": "Κλινική Ελευθώ",
+      "latitude": 40.937232,
+      "longitude": 24.410388
+    },
+    {
+      "name": "Κλινική Ιπποκράτης",
+      "latitude": 40.937549,
+      "longitude": 24.409835
+    },
+    {
+      "name": "Κλινική Κανακίδη",
+      "latitude": 37.958422,
+      "longitude": 23.624331
+    },
+    {
+      "name": "Κλινική Λητώ",
+      "latitude": 40.936141,
+      "longitude": 24.401885
+    },
+    {
+      "name": "Κλινική Λυράκου",
+      "latitude": 38.060762,
+      "longitude": 23.851036
+    },
+    {
+      "name": "Κλινική Τσεκούρα 'Ο Άγιος Παντελεήμων'",
+      "latitude": 38.897381,
+      "longitude": 22.433354
+    },
+    {
+      "name": "Κοινοτικό Ιατρείο",
+      "latitude": 39.169224,
+      "longitude": 25.934829
+    },
+    {
+      "name": "Κοινωνικό Ιατρείο / Φαρμακείο",
+      "latitude": 38.089311,
+      "longitude": 23.700492
+    },
+    {
+      "name": "Κοινωνικό Ιατρείο Δήμου Κατερίνης",
+      "latitude": 40.271637,
+      "longitude": 22.497512
+    },
+    {
+      "name": "Κοσμοϊατρική",
+      "latitude": 38.009123,
+      "longitude": 23.734967
+    },
+    {
+      "name": "Λευκός Σταυρός",
+      "latitude": 37.978279,
+      "longitude": 23.754162
+    },
+    {
+      "name": "Λυσ. Σαραφιανός",
+      "latitude": 40.635584,
+      "longitude": 22.946581
+    },
+    {
+      "name": "Λόγου και Έργου Εξέλιξις",
+      "latitude": 38.169804,
+      "longitude": 20.490621
+    },
+    {
+      "name": "Μίτωση",
+      "latitude": 37.937657,
+      "longitude": 23.640797
+    },
+    {
+      "name": "Μαγνητική Τοπογραφία Λέσβου",
+      "latitude": 39.100094,
+      "longitude": 26.553993
+    },
+    {
+      "name": "Μαιευτήριο",
+      "latitude": 37.03162,
+      "longitude": 22.111745
+    },
+    {
+      "name": "Μαιευτική Γυναικολογική Κλινική \"Ρέα\"",
+      "latitude": 37.941026,
+      "longitude": 23.697543
+    },
+    {
+      "name": "Μαργαρίτα Παπακωνσταντίνου – Δερματολόγος",
+      "latitude": 38.044161,
+      "longitude": 23.543671
+    },
+    {
+      "name": "ΜΕΣΟΓΕΙΟΣ",
+      "latitude": 35.290503,
+      "longitude": 25.062404
+    },
+    {
+      "name": "ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ ΠΑΠΑΕΜΜΑΝΟΥΗΛ ΜΑΝΟΣ",
+      "latitude": 40.792141,
+      "longitude": 22.410873
+    },
+    {
+      "name": "Νέα Ιατρική",
+      "latitude": 37.979934,
+      "longitude": 23.762798
+    },
+    {
+      "name": "Νευροψυχιατρική Κλινική \"Αγιος Γεώργιος\"",
+      "latitude": 40.588374,
+      "longitude": 23.043122
+    },
+    {
+      "name": "Ολύμπιον Μονάδα Χρόνιας Αιμοκάθαρσης",
+      "latitude": 38.35174,
+      "longitude": 21.773329
+    },
+    {
+      "name": "Ουρολογικό Ινστιτούτο Laser Ελευσίνας | Βλάχου Ματίνα",
+      "latitude": 38.044345,
+      "longitude": 23.54399
+    },
+    {
+      "name": "Οφθαλμιατρείο",
+      "latitude": 38.078087,
+      "longitude": 22.634678
+    },
+    {
+      "name": "Οφθαλμολογικό Αθηνών",
+      "latitude": 37.984536,
+      "longitude": 23.760137
+    },
+    {
+      "name": "Οφθαλμοχειρουργικό Ρόδου",
+      "latitude": 36.452667,
+      "longitude": 28.221583
+    },
+    {
+      "name": "Οφθαλμός",
+      "latitude": 39.121637,
+      "longitude": 26.449898
+    },
+    {
+      "name": "Παναγία",
+      "latitude": 41.151744,
+      "longitude": 24.147479
+    },
+    {
+      "name": "Παναρκαδική Ιατρική Μέριμνα",
+      "latitude": 37.501946,
+      "longitude": 22.378507
+    },
+    {
+      "name": "Πανόπουλος",
+      "latitude": 38.089686,
+      "longitude": 23.738882
+    },
+    {
+      "name": "ΠΕΔΥ",
+      "latitude": 40.936139,
+      "longitude": 24.40747
+    },
+    {
+      "name": "ΠΕΔΥ",
+      "latitude": 41.092986,
+      "longitude": 23.55744
+    },
+    {
+      "name": "Πειραϊκό Θεραπευτήριο",
+      "latitude": 37.935199,
+      "longitude": 23.651653
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο",
+      "latitude": 39.101291,
+      "longitude": 20.991817
+    },
+    {
+      "name": "Περιφερειακό ιατρείο",
+      "latitude": 39.139601,
+      "longitude": 23.642644
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο",
+      "latitude": 40.255126,
+      "longitude": 22.070283
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Ανεμοτιας",
+      "latitude": 39.247322,
+      "longitude": 26.104824
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Γαύδου",
+      "latitude": 34.835083,
+      "longitude": 24.08442
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Καρδαμύλης",
+      "latitude": 36.885493,
+      "longitude": 22.235045
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Λαγκαδικίων",
+      "latitude": 40.635594,
+      "longitude": 23.248528
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Παρακοίλων",
+      "latitude": 39.16938,
+      "longitude": 26.140315
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Σερίφου",
+      "latitude": 37.155291,
+      "longitude": 24.503996
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Σκαλοχωρίου",
+      "latitude": 39.26056,
+      "longitude": 26.074634
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Σπερχειάδας",
+      "latitude": 38.906538,
+      "longitude": 22.123421
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Συκουρίου",
+      "latitude": 39.758875,
+      "longitude": 22.57947
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Τυρού",
+      "latitude": 37.246718,
+      "longitude": 22.860705
+    },
+    {
+      "name": "Πλάτον Διάγνωσης",
+      "latitude": 40.598882,
+      "longitude": 22.998602
+    },
+    {
+      "name": "Πλάτων Διαγνωστικό Κέντρο",
+      "latitude": 40.596103,
+      "longitude": 22.954262
+    },
+    {
+      "name": "Πολυδύναμο Ιατρείο Ορχομενού",
+      "latitude": 38.493301,
+      "longitude": 22.979061
+    },
+    {
+      "name": "Πολυδύναμο ιατρείο Τήλου",
+      "latitude": 36.454629,
+      "longitude": 27.345976
+    },
+    {
+      "name": "Πολυιατρείο Σποράδων",
+      "latitude": 39.14795,
+      "longitude": 23.865565
+    },
+    {
+      "name": "ΠΟΛΥΙΑΤΡΕΙΟ",
+      "latitude": 41.022847,
+      "longitude": 25.69522
+    },
+    {
+      "name": "ΠΟΛΥΙΑΤΡΕΙΟ Medica",
+      "latitude": 38.138946,
+      "longitude": 23.85441
+    },
+    {
+      "name": "Πολυιατρικό Κέντρο Αχαρνών",
+      "latitude": 38.08258,
+      "longitude": 23.737301
+    },
+    {
+      "name": "Πολυκλινική Ολυμπιακού Χωριου",
+      "latitude": 38.112696,
+      "longitude": 23.764379
+    },
+    {
+      "name": "Πράξις Υγείας",
+      "latitude": 38.017777,
+      "longitude": 23.80254
+    },
+    {
+      "name": "Πρόληψις",
+      "latitude": 37.980532,
+      "longitude": 23.756963
+    },
+    {
+      "name": "Πρότυπο κέντρο μαστού",
+      "latitude": 40.600422,
+      "longitude": 22.950644
+    },
+    {
+      "name": "Πρότυπο Νεφρολογικό Κέντρο Πατρών",
+      "latitude": 38.303929,
+      "longitude": 21.800222
+    },
+    {
+      "name": "Στέργιος Ζαχαρίου – Ορθοπεδικός Χειρουργός",
+      "latitude": 38.044178,
+      "longitude": 23.543734
+    },
+    {
+      "name": "Συγχρονο Νεφολογικο Κεντρο Πειαια Αγιος Παντελεημονας",
+      "latitude": 37.956409,
+      "longitude": 23.639606
+    },
+    {
+      "name": "ΤΟΜΥ Αμπελοκήπων",
+      "latitude": 40.652791,
+      "longitude": 22.928911
+    },
+    {
+      "name": "ΤΟΜΥ Κατερίνης (12η)",
+      "latitude": 40.270962,
+      "longitude": 22.496945
+    },
+    {
+      "name": "ΤΟΜΥ Κατερίνης (4η)",
+      "latitude": 40.26411,
+      "longitude": 22.51119
+    },
+    {
+      "name": "ΤΟΜΥ Σταυρούπολης",
+      "latitude": 40.666192,
+      "longitude": 22.938466
+    },
+    {
+      "name": "Τοπικό Ιατρείο Κάτω Χαλανδρίου",
+      "latitude": 38.008333,
+      "longitude": 23.793879
+    },
+    {
+      "name": "Τοπικό Ιατρείο Χολαργού",
+      "latitude": 38.005631,
+      "longitude": 23.796609
+    },
+    {
+      "name": "Υγεία Ιδιωτική Κλινική",
+      "latitude": 39.634209,
+      "longitude": 22.41853
+    },
+    {
+      "name": "Υγείας Μέλαθρον",
+      "latitude": 37.990923,
+      "longitude": 23.73931
+    },
+    {
+      "name": "Υπαπαντή",
+      "latitude": 37.985394,
+      "longitude": 23.732568
+    },
+    {
+      "name": "ΦΙΛΟΚΤΗΤΗΣ",
+      "latitude": 37.935975,
+      "longitude": 23.856886
+    },
+    {
+      "name": "Φυσικόθεραπεία Γεώργιος Χατζηδάκης",
+      "latitude": 35.51422,
+      "longitude": 24.013285
+    },
+    {
+      "name": "Χρήστος Κριεκούκης – Physioemfasis",
+      "latitude": 38.044105,
+      "longitude": 23.541467
+    },
+    {
+      "name": "Ψυχιατρική κλινική",
+      "latitude": 39.612791,
+      "longitude": 22.38658
+    },
+    {
+      "name": "Ψυχιατρική Κλινική «Ελπίδα»",
+      "latitude": 40.282939,
+      "longitude": 22.478254
+    },
+    {
+      "name": "Ψυχιατρική Κλινική Άγιος Νικήτας",
+      "latitude": 39.69724,
+      "longitude": 22.340887
+    },
+    {
+      "name": "Ψυχιατρική κλινική Αγία Αικατερίνη",
+      "latitude": 40.628928,
+      "longitude": 23.053449
+    },
+    {
+      "name": "Ψυχιατρικό Θεραπευτήριο «Αθηνά»",
+      "latitude": 38.042886,
+      "longitude": 23.838261
+    },
+    {
+      "name": "Ωτορινολαρυγγολογική Χειρουργική Κλινική Αθηνών",
+      "latitude": 37.98125,
+      "longitude": 23.719516
+    }
+  ],
+  "meta": {
+    "title": "Κλινικές Ελλάδας - Δωρεάν λήψη",
+    "description": "Κλινικές σε όλη την Ελλάδα από το OpenStreetMap. Clinics across Greece. Περιέχει 279 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κλινικές Ελλάδας | ListBase",
+    "seo_description": "Λήψη Κλινικές Ελλάδας — 279 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 279 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

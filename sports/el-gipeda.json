@@ -1,0 +1,6441 @@
+{
+  "id": "el-gipeda",
+  "name": "Γήπεδα στην Ελλάδα",
+  "title": "Γήπεδα στην Ελλάδα",
+  "description": "Αθλητικά γήπεδα στην Ελλάδα από δεδομένα OpenStreetMap (leisure=pitch). Διακριτό από el-athlitika-kentra. Όνομα και συντεταγμένες WGS84.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1280,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Basketball Court\"",
+      "latitude": 37.027808,
+      "longitude": 22.124393
+    },
+    {
+      "name": "\"Skate Park\"",
+      "latitude": 37.027737,
+      "longitude": 22.125108
+    },
+    {
+      "name": "1ο Γυμνάσιο Πεύκης",
+      "latitude": 38.061582,
+      "longitude": 23.788434
+    },
+    {
+      "name": "1ο Κλειστό Γυμναστήριο Νίκαιας",
+      "latitude": 37.972214,
+      "longitude": 23.635763
+    },
+    {
+      "name": "2o Δημοτικό Αθλητικό Κέντρο",
+      "latitude": 37.986779,
+      "longitude": 23.624348
+    },
+    {
+      "name": "3ο Δημοτικό Σχολείο Λυκόβρυσης",
+      "latitude": 38.06723,
+      "longitude": 23.789968
+    },
+    {
+      "name": "42ο Κεντρο Νεοτητας",
+      "latitude": 38.001528,
+      "longitude": 23.750665
+    },
+    {
+      "name": "5 x 5",
+      "latitude": 39.090221,
+      "longitude": 26.550675
+    },
+    {
+      "name": "5 Χ 5",
+      "latitude": 38.943092,
+      "longitude": 22.121806
+    },
+    {
+      "name": "5*5 soccer field",
+      "latitude": 38.780995,
+      "longitude": 20.669049
+    },
+    {
+      "name": "5x5",
+      "latitude": 35.177816,
+      "longitude": 25.918745
+    },
+    {
+      "name": "5x5",
+      "latitude": 36.98,
+      "longitude": 22.872379
+    },
+    {
+      "name": "5x5",
+      "latitude": 38.033648,
+      "longitude": 23.74308
+    },
+    {
+      "name": "5X5",
+      "latitude": 39.180166,
+      "longitude": 22.740657
+    },
+    {
+      "name": "5x5",
+      "latitude": 39.632589,
+      "longitude": 22.43506
+    },
+    {
+      "name": "5x5",
+      "latitude": 40.369607,
+      "longitude": 22.07031
+    },
+    {
+      "name": "5x5",
+      "latitude": 41.02528,
+      "longitude": 24.010457
+    },
+    {
+      "name": "5x5",
+      "latitude": 41.098581,
+      "longitude": 24.175117
+    },
+    {
+      "name": "5x5",
+      "latitude": 41.101433,
+      "longitude": 23.549379
+    },
+    {
+      "name": "5x5 Soccer Field",
+      "latitude": 38.02761,
+      "longitude": 23.848328
+    },
+    {
+      "name": "5χ5",
+      "latitude": 36.072028,
+      "longitude": 28.053819
+    },
+    {
+      "name": "9x9",
+      "latitude": 39.709498,
+      "longitude": 20.802009
+    },
+    {
+      "name": "Acharavi water sports",
+      "latitude": 39.799095,
+      "longitude": 19.817603
+    },
+    {
+      "name": "Aiolos International Football Club",
+      "latitude": 37.838516,
+      "longitude": 23.794633
+    },
+    {
+      "name": "Anavyssos paragliding and paramotoring landing",
+      "latitude": 37.73059,
+      "longitude": 23.942916
+    },
+    {
+      "name": "Antimachia",
+      "latitude": 36.807398,
+      "longitude": 27.085274
+    },
+    {
+      "name": "Apokoronos Shooting Range",
+      "latitude": 35.350823,
+      "longitude": 24.237152
+    },
+    {
+      "name": "ARSENAL SOCCER SCHOOL",
+      "latitude": 38.884957,
+      "longitude": 22.418389
+    },
+    {
+      "name": "Artopoula Stadium",
+      "latitude": 39.500633,
+      "longitude": 20.684926
+    },
+    {
+      "name": "Asteras Club Artemidas",
+      "latitude": 37.99999,
+      "longitude": 23.991774
+    },
+    {
+      "name": "Asteras Tripolis FC",
+      "latitude": 37.502401,
+      "longitude": 22.388414
+    },
+    {
+      "name": "Astroturf Sports Pitch",
+      "latitude": 36.760411,
+      "longitude": 27.11391
+    },
+    {
+      "name": "Athens Beach Center",
+      "latitude": 37.966328,
+      "longitude": 23.674777
+    },
+    {
+      "name": "Athens Paintball Village",
+      "latitude": 37.913842,
+      "longitude": 23.912238
+    },
+    {
+      "name": "Athletico Kastro",
+      "latitude": 37.894157,
+      "longitude": 21.13029
+    },
+    {
+      "name": "Atromitos Metamorfosis",
+      "latitude": 38.063697,
+      "longitude": 23.771686
+    },
+    {
+      "name": "Barage Billiards Club",
+      "latitude": 40.303199,
+      "longitude": 21.787609
+    },
+    {
+      "name": "bas",
+      "latitude": 38.022221,
+      "longitude": 23.805764
+    },
+    {
+      "name": "Basket",
+      "latitude": 35.336283,
+      "longitude": 25.155401
+    },
+    {
+      "name": "BASKET",
+      "latitude": 38.966015,
+      "longitude": 20.74431
+    },
+    {
+      "name": "basketball",
+      "latitude": 37.260823,
+      "longitude": 22.583176
+    },
+    {
+      "name": "basketball",
+      "latitude": 38.026483,
+      "longitude": 23.957614
+    },
+    {
+      "name": "basketball",
+      "latitude": 38.044485,
+      "longitude": 23.740482
+    },
+    {
+      "name": "Basketball",
+      "latitude": 38.253331,
+      "longitude": 20.630627
+    },
+    {
+      "name": "basketball",
+      "latitude": 39.069002,
+      "longitude": 21.013793
+    },
+    {
+      "name": "Basketball Court",
+      "latitude": 37.027841,
+      "longitude": 22.123984
+    },
+    {
+      "name": "Basketball court 1",
+      "latitude": 35.527512,
+      "longitude": 24.067126
+    },
+    {
+      "name": "Basketball court 2",
+      "latitude": 35.527462,
+      "longitude": 24.067336
+    },
+    {
+      "name": "Basketball court 4",
+      "latitude": 35.527801,
+      "longitude": 24.06781
+    },
+    {
+      "name": "Basketball Court of Tsiggla",
+      "latitude": 41.334519,
+      "longitude": 26.48007
+    },
+    {
+      "name": "BEACH SOCCER ΓΥΘΕΙΟΥ",
+      "latitude": 36.77706,
+      "longitude": 22.566811
+    },
+    {
+      "name": "Beach Volley",
+      "latitude": 36.80451,
+      "longitude": 21.795932
+    },
+    {
+      "name": "Beach volley",
+      "latitude": 38.103593,
+      "longitude": 23.980411
+    },
+    {
+      "name": "Beach Volley",
+      "latitude": 40.329959,
+      "longitude": 21.829386
+    },
+    {
+      "name": "beach volleyball",
+      "latitude": 35.372132,
+      "longitude": 24.532913
+    },
+    {
+      "name": "Beach Volleyball",
+      "latitude": 38.277623,
+      "longitude": 22.050611
+    },
+    {
+      "name": "Beach Volleyball Court",
+      "latitude": 37.027767,
+      "longitude": 22.124802
+    },
+    {
+      "name": "Beachsports",
+      "latitude": 41.121741,
+      "longitude": 25.383583
+    },
+    {
+      "name": "Beachvolleybal court Sun Beach Resort",
+      "latitude": 36.42356,
+      "longitude": 28.152863
+    },
+    {
+      "name": "Bernabeu mini soccer club",
+      "latitude": 38.394278,
+      "longitude": 21.797366
+    },
+    {
+      "name": "Bernabeu mini soccer club",
+      "latitude": 38.394506,
+      "longitude": 21.798007
+    },
+    {
+      "name": "Break Point Tennis Academy",
+      "latitude": 38.011539,
+      "longitude": 23.714988
+    },
+    {
+      "name": "Calcetto Μολάων",
+      "latitude": 36.798932,
+      "longitude": 22.856014
+    },
+    {
+      "name": "Calcetto(5x5 mini Football Court)",
+      "latitude": 37.027282,
+      "longitude": 22.142793
+    },
+    {
+      "name": "Campnew (Νίκη Μιχαήλ)",
+      "latitude": 39.652569,
+      "longitude": 22.393741
+    },
+    {
+      "name": "CG",
+      "latitude": 36.932487,
+      "longitude": 21.71431
+    },
+    {
+      "name": "Closed basketball court",
+      "latitude": 38.041006,
+      "longitude": 23.798944
+    },
+    {
+      "name": "Cruyff Court Olympus - RIC Lesvos",
+      "latitude": 39.135824,
+      "longitude": 26.54534
+    },
+    {
+      "name": "Davourlis",
+      "latitude": 38.263033,
+      "longitude": 21.763168
+    },
+    {
+      "name": "Davourlis",
+      "latitude": 38.263341,
+      "longitude": 21.763991
+    },
+    {
+      "name": "Dimotiko Gipedo Perivolia",
+      "latitude": 35.487425,
+      "longitude": 24.000567
+    },
+    {
+      "name": "Drive Park",
+      "latitude": 40.514448,
+      "longitude": 22.993507
+    },
+    {
+      "name": "Farsala Shooting Range",
+      "latitude": 39.285104,
+      "longitude": 22.39871
+    },
+    {
+      "name": "FC Tilos",
+      "latitude": 36.450841,
+      "longitude": 27.342735
+    },
+    {
+      "name": "Football field of Alepochori",
+      "latitude": 41.44734,
+      "longitude": 26.218061
+    },
+    {
+      "name": "Football Field of Keramies",
+      "latitude": 38.119141,
+      "longitude": 20.564103
+    },
+    {
+      "name": "Football field of Tsiggla Park",
+      "latitude": 41.335469,
+      "longitude": 26.478185
+    },
+    {
+      "name": "Four Sports Club",
+      "latitude": 38.016118,
+      "longitude": 23.807756
+    },
+    {
+      "name": "Gerakario Tennis Club",
+      "latitude": 41.104829,
+      "longitude": 22.925304
+    },
+    {
+      "name": "Giant Chess",
+      "latitude": 36.897061,
+      "longitude": 27.245589
+    },
+    {
+      "name": "Gipedo Ethnikos Asteras Kallifitou",
+      "latitude": 41.170096,
+      "longitude": 24.216419
+    },
+    {
+      "name": "Go Kart Center",
+      "latitude": 37.088494,
+      "longitude": 25.176784
+    },
+    {
+      "name": "Go Kart Track",
+      "latitude": 36.353449,
+      "longitude": 25.455975
+    },
+    {
+      "name": "Go Karting Kato Galatas",
+      "latitude": 35.512078,
+      "longitude": 23.961097
+    },
+    {
+      "name": "GoKart Maramari",
+      "latitude": 36.874935,
+      "longitude": 27.164652
+    },
+    {
+      "name": "Handballfeld",
+      "latitude": 38.037105,
+      "longitude": 23.79328
+    },
+    {
+      "name": "Heart Rock",
+      "latitude": 37.07957,
+      "longitude": 25.407604
+    },
+    {
+      "name": "Hersonissos Horseriding",
+      "latitude": 35.306878,
+      "longitude": 25.404851
+    },
+    {
+      "name": "Holargos tennis Courts",
+      "latitude": 37.992815,
+      "longitude": 23.807904
+    },
+    {
+      "name": "Horse Riding School",
+      "latitude": 37.901732,
+      "longitude": 23.442748
+    },
+    {
+      "name": "Hortatzides Arena",
+      "latitude": 40.628804,
+      "longitude": 22.963822
+    },
+    {
+      "name": "Kalovelonis Tennis Academy",
+      "latitude": 38.0602,
+      "longitude": 23.792799
+    },
+    {
+      "name": "Kart",
+      "latitude": 35.375439,
+      "longitude": 24.558799
+    },
+    {
+      "name": "Kartodromo",
+      "latitude": 38.17835,
+      "longitude": 23.856905
+    },
+    {
+      "name": "Kerveli scouba diving",
+      "latitude": 37.73255,
+      "longitude": 27.036079
+    },
+    {
+      "name": "Kids Soccer",
+      "latitude": 35.099137,
+      "longitude": 24.696858
+    },
+    {
+      "name": "Kokkino Chorafi",
+      "latitude": 38.111229,
+      "longitude": 23.870398
+    },
+    {
+      "name": "Kokkino Soccer Field",
+      "latitude": 38.480399,
+      "longitude": 23.24672
+    },
+    {
+      "name": "Lemnos F.C.",
+      "latitude": 39.876916,
+      "longitude": 25.066348
+    },
+    {
+      "name": "Lemon Skate Park",
+      "latitude": 40.536549,
+      "longitude": 21.255158
+    },
+    {
+      "name": "Lido Soccer",
+      "latitude": 35.31764,
+      "longitude": 25.109389
+    },
+    {
+      "name": "LYCIPONON TENNIS VILLA",
+      "latitude": 37.722798,
+      "longitude": 23.911004
+    },
+    {
+      "name": "Meltemi Kiteboarding",
+      "latitude": 36.349551,
+      "longitude": 27.947989
+    },
+    {
+      "name": "Mesta Chios Diving Center",
+      "latitude": 38.244406,
+      "longitude": 25.88599
+    },
+    {
+      "name": "mini soccer",
+      "latitude": 40.073908,
+      "longitude": 21.164747
+    },
+    {
+      "name": "Mini Tennis",
+      "latitude": 37.990346,
+      "longitude": 23.788464
+    },
+    {
+      "name": "Minigolf",
+      "latitude": 36.242827,
+      "longitude": 28.157314
+    },
+    {
+      "name": "Myrthos North Launch",
+      "latitude": 38.346063,
+      "longitude": 20.551089
+    },
+    {
+      "name": "Nidri Football 5x5",
+      "latitude": 38.708021,
+      "longitude": 20.703781
+    },
+    {
+      "name": "NOK Basket",
+      "latitude": 37.024141,
+      "longitude": 22.117041
+    },
+    {
+      "name": "old football pitch",
+      "latitude": 40.944521,
+      "longitude": 22.893504
+    },
+    {
+      "name": "Open Basketball Court",
+      "latitude": 40.665593,
+      "longitude": 23.696631
+    },
+    {
+      "name": "Outdoor Gym",
+      "latitude": 35.293277,
+      "longitude": 25.461392
+    },
+    {
+      "name": "Outdoor Gym",
+      "latitude": 36.855728,
+      "longitude": 27.112225
+    },
+    {
+      "name": "Oxygen Γηπεδάκια",
+      "latitude": 41.101033,
+      "longitude": 25.416563
+    },
+    {
+      "name": "Oxygen Γηπεδάκια",
+      "latitude": 41.101668,
+      "longitude": 25.416984
+    },
+    {
+      "name": "Paintball Pallinis Sniperclub",
+      "latitude": 37.999632,
+      "longitude": 23.898533
+    },
+    {
+      "name": "Pallini Tennis Park",
+      "latitude": 37.999201,
+      "longitude": 23.897704
+    },
+    {
+      "name": "PAS Sfakiotes' stadium",
+      "latitude": 38.775333,
+      "longitude": 20.664095
+    },
+    {
+      "name": "Peninsula Tennis",
+      "latitude": 35.414613,
+      "longitude": 25.018579
+    },
+    {
+      "name": "PEO Kissamou Chanion",
+      "latitude": 35.526421,
+      "longitude": 23.840708
+    },
+    {
+      "name": "Petanque",
+      "latitude": 38.105044,
+      "longitude": 23.975638
+    },
+    {
+      "name": "PG",
+      "latitude": 36.932006,
+      "longitude": 21.715314
+    },
+    {
+      "name": "PistaPark",
+      "latitude": 35.469645,
+      "longitude": 23.969806
+    },
+    {
+      "name": "Playground",
+      "latitude": 37.105392,
+      "longitude": 25.378057
+    },
+    {
+      "name": "Pool table",
+      "latitude": 39.792387,
+      "longitude": 19.810586
+    },
+    {
+      "name": "Practice Green",
+      "latitude": 36.996218,
+      "longitude": 21.653307
+    },
+    {
+      "name": "Practice Range",
+      "latitude": 37.874797,
+      "longitude": 23.743146
+    },
+    {
+      "name": "Pumptrack",
+      "latitude": 39.553177,
+      "longitude": 21.775938
+    },
+    {
+      "name": "Racket Fusion",
+      "latitude": 38.223806,
+      "longitude": 21.751107
+    },
+    {
+      "name": "Radical Kite Center",
+      "latitude": 37.590899,
+      "longitude": 22.769217
+    },
+    {
+      "name": "Rhodes Padel Club",
+      "latitude": 36.432345,
+      "longitude": 28.23661
+    },
+    {
+      "name": "Roller skate park",
+      "latitude": 40.658392,
+      "longitude": 22.9154
+    },
+    {
+      "name": "Serifos Scuba Divers",
+      "latitude": 37.144833,
+      "longitude": 24.514449
+    },
+    {
+      "name": "Skate park",
+      "latitude": 35.340727,
+      "longitude": 25.117201
+    },
+    {
+      "name": "Skate Park / BMX",
+      "latitude": 39.552718,
+      "longitude": 21.775857
+    },
+    {
+      "name": "Skate Park Άλσος Βεΐκου",
+      "latitude": 38.029999,
+      "longitude": 23.766073
+    },
+    {
+      "name": "Skateboard Arena",
+      "latitude": 40.547033,
+      "longitude": 23.019745
+    },
+    {
+      "name": "Skatepark Αλυκών",
+      "latitude": 39.636838,
+      "longitude": 19.874107
+    },
+    {
+      "name": "soccer",
+      "latitude": 40.074112,
+      "longitude": 21.163881
+    },
+    {
+      "name": "Soccer 5x5 1",
+      "latitude": 35.527432,
+      "longitude": 24.066378
+    },
+    {
+      "name": "Soccer 5x5 2",
+      "latitude": 35.527312,
+      "longitude": 24.066673
+    },
+    {
+      "name": "Soccer Court Sun Beach Hotel Resort",
+      "latitude": 36.421169,
+      "longitude": 28.152245
+    },
+    {
+      "name": "Soccer field",
+      "latitude": 35.563263,
+      "longitude": 23.745794
+    },
+    {
+      "name": "Soccer field Krioneriou",
+      "latitude": 39.312283,
+      "longitude": 21.71062
+    },
+    {
+      "name": "Soccer Field Neoxoriou",
+      "latitude": 39.288425,
+      "longitude": 21.736366
+    },
+    {
+      "name": "Soccer field Pezoulas",
+      "latitude": 39.30826,
+      "longitude": 21.725312
+    },
+    {
+      "name": "Soccer Park",
+      "latitude": 37.94289,
+      "longitude": 23.705646
+    },
+    {
+      "name": "Soccer Stadium Sellia",
+      "latitude": 35.207497,
+      "longitude": 24.369772
+    },
+    {
+      "name": "SOCCERENA",
+      "latitude": 35.001705,
+      "longitude": 25.814253
+    },
+    {
+      "name": "spatharei",
+      "latitude": 37.676932,
+      "longitude": 26.805662
+    },
+    {
+      "name": "Speed Force Racing Kart",
+      "latitude": 37.85635,
+      "longitude": 23.830428
+    },
+    {
+      "name": "SPLAT PAINTBALL",
+      "latitude": 39.364946,
+      "longitude": 22.9302
+    },
+    {
+      "name": "Sports Center of Metaxades \"Paschalis Pechlevanoudis\"",
+      "latitude": 41.42315,
+      "longitude": 26.225393
+    },
+    {
+      "name": "Sports field",
+      "latitude": 37.68427,
+      "longitude": 21.384808
+    },
+    {
+      "name": "Staikos Tennis Club",
+      "latitude": 39.315811,
+      "longitude": 22.909034
+    },
+    {
+      "name": "Steni football field",
+      "latitude": 38.588372,
+      "longitude": 23.844815
+    },
+    {
+      "name": "Steven's On The Hill",
+      "latitude": 39.544914,
+      "longitude": 19.853938
+    },
+    {
+      "name": "Sunwing Football Pitch",
+      "latitude": 35.038428,
+      "longitude": 25.988796
+    },
+    {
+      "name": "Sunwing Tennis Court",
+      "latitude": 35.038476,
+      "longitude": 25.988612
+    },
+    {
+      "name": "Table Tennis",
+      "latitude": 36.89696,
+      "longitude": 27.246944
+    },
+    {
+      "name": "Table Tennis Sun Beach Apart Hotel",
+      "latitude": 36.42298,
+      "longitude": 28.15308
+    },
+    {
+      "name": "tenis",
+      "latitude": 37.989807,
+      "longitude": 23.787004
+    },
+    {
+      "name": "Tennis",
+      "latitude": 36.855173,
+      "longitude": 27.11277
+    },
+    {
+      "name": "Tennis 1",
+      "latitude": 35.52705,
+      "longitude": 24.067365
+    },
+    {
+      "name": "Tennis 2",
+      "latitude": 35.527042,
+      "longitude": 24.067766
+    },
+    {
+      "name": "Tennis 3",
+      "latitude": 35.527053,
+      "longitude": 24.068032
+    },
+    {
+      "name": "tennis court",
+      "latitude": 38.026192,
+      "longitude": 23.958148
+    },
+    {
+      "name": "Tennis court",
+      "latitude": 38.253322,
+      "longitude": 20.630914
+    },
+    {
+      "name": "Tennis court",
+      "latitude": 38.774986,
+      "longitude": 23.312781
+    },
+    {
+      "name": "Tennis Court of Tsiggla",
+      "latitude": 41.334691,
+      "longitude": 26.479581
+    },
+    {
+      "name": "Tennis Court Sun Beach Resort",
+      "latitude": 36.422833,
+      "longitude": 28.151308
+    },
+    {
+      "name": "Thrakomakedones Soccer Field",
+      "latitude": 38.124314,
+      "longitude": 23.763755
+    },
+    {
+      "name": "Thrakomakedones Tennis Court",
+      "latitude": 38.124593,
+      "longitude": 23.763963
+    },
+    {
+      "name": "Tony's archery range",
+      "latitude": 35.415348,
+      "longitude": 24.648395
+    },
+    {
+      "name": "Training Wall",
+      "latitude": 35.526948,
+      "longitude": 24.067561
+    },
+    {
+      "name": "Vatolakos MotoCross Track",
+      "latitude": 35.441112,
+      "longitude": 23.87906
+    },
+    {
+      "name": "voll",
+      "latitude": 38.038252,
+      "longitude": 23.699484
+    },
+    {
+      "name": "Volleyball court",
+      "latitude": 35.527822,
+      "longitude": 24.067622
+    },
+    {
+      "name": "Volleyballfeld",
+      "latitude": 36.242034,
+      "longitude": 28.157478
+    },
+    {
+      "name": "Vrilissia Handball Court",
+      "latitude": 38.034426,
+      "longitude": 23.829392
+    },
+    {
+      "name": "Water slides",
+      "latitude": 36.361061,
+      "longitude": 28.21447
+    },
+    {
+      "name": "Zulap training grounds",
+      "latitude": 38.115281,
+      "longitude": 23.889626
+    },
+    {
+      "name": "Άγιος Αθανάσιος - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.840497,
+      "longitude": 21.781251
+    },
+    {
+      "name": "Άγιος Παντελεήμονας - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.988375,
+      "longitude": 22.569729
+    },
+    {
+      "name": "Άη Γόρδης - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.53886,
+      "longitude": 19.858295
+    },
+    {
+      "name": "Άρης' Αγίας Μονής",
+      "latitude": 39.543142,
+      "longitude": 21.751142
+    },
+    {
+      "name": "Άρνισσα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.766086,
+      "longitude": 21.824467
+    },
+    {
+      "name": "Έδεσσα - Απογείωση",
+      "latitude": 40.794446,
+      "longitude": 22.045264
+    },
+    {
+      "name": "Έδρα:  \"ΤΥΦΩΝΑ\" ΛΑΚΚΩΜΑΤΩΝ",
+      "latitude": 40.434305,
+      "longitude": 21.206754
+    },
+    {
+      "name": "Έσπερος Καλλιθέας",
+      "latitude": 37.940284,
+      "longitude": 23.685425
+    },
+    {
+      "name": "ήπεδο Παπάδων",
+      "latitude": 38.930073,
+      "longitude": 23.358214
+    },
+    {
+      "name": "Ίκαροι Λιβαδιάς",
+      "latitude": 41.254635,
+      "longitude": 23.075127
+    },
+    {
+      "name": "Α.Ε. Ορχομενού",
+      "latitude": 38.497773,
+      "longitude": 22.978701
+    },
+    {
+      "name": "Α.Ε.Κομοτηνής",
+      "latitude": 41.121249,
+      "longitude": 25.389327
+    },
+    {
+      "name": "Α.Ε.Μ Αμεινίας ο Παλληνεύς",
+      "latitude": 38.005568,
+      "longitude": 23.872774
+    },
+    {
+      "name": "Α.Μ.Ο.ΑΠΟΛΛΩΝ Κ.ΣΧΟΛΑΡΙΟΥ",
+      "latitude": 40.435794,
+      "longitude": 23.029354
+    },
+    {
+      "name": "Α.Ο Νίκη Λουσικών",
+      "latitude": 38.110733,
+      "longitude": 21.590663
+    },
+    {
+      "name": "Α.Ο. Γιάννινα",
+      "latitude": 39.690616,
+      "longitude": 20.840934
+    },
+    {
+      "name": "Α.Ο. Ομόνοιας Σταυρούπολης",
+      "latitude": 40.672152,
+      "longitude": 22.937949
+    },
+    {
+      "name": "Α.Π.Ο. Χίου",
+      "latitude": 38.364861,
+      "longitude": 26.140976
+    },
+    {
+      "name": "Α.Σ. ΣΑΡΙΣΕΣ",
+      "latitude": 40.789167,
+      "longitude": 21.415134
+    },
+    {
+      "name": "Αβδού - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 35.219071,
+      "longitude": 25.432082
+    },
+    {
+      "name": "Αγία Ευθυμία - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.494863,
+      "longitude": 22.3386
+    },
+    {
+      "name": "Αγία Μαρίνα (Σαρωνίδα) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 37.810591,
+      "longitude": 23.855176
+    },
+    {
+      "name": "Αγία Τριάδα - Απογείωση",
+      "latitude": 38.488379,
+      "longitude": 22.315619
+    },
+    {
+      "name": "Αθηναϊδα",
+      "latitude": 38.006349,
+      "longitude": 23.750831
+    },
+    {
+      "name": "Αθλητικές εγκαταστάσεις Αετού",
+      "latitude": 38.703529,
+      "longitude": 21.080664
+    },
+    {
+      "name": "Αθλητικό Κέντρο Γατζέας",
+      "latitude": 39.315954,
+      "longitude": 23.097398
+    },
+    {
+      "name": "Αθλητικό Κέντρο ΟΝΑ Δήμος Αθηναίων",
+      "latitude": 37.987763,
+      "longitude": 23.757186
+    },
+    {
+      "name": "Αθλητικό Κέντρο Τ.Ε.Φ.Α.Α",
+      "latitude": 41.137544,
+      "longitude": 25.363838
+    },
+    {
+      "name": "Αθλητικός Σύλλογος Μέγας Αλέξανδρος",
+      "latitude": 40.597925,
+      "longitude": 22.959394
+    },
+    {
+      "name": "Αθλητικός Όμιλος ΑΓΕΛΗ (Σκοπευτήριο)",
+      "latitude": 38.044649,
+      "longitude": 23.621356
+    },
+    {
+      "name": "Ακαδημία Ποδοσφαίρου Ελπίδες Καβάλας",
+      "latitude": 40.950033,
+      "longitude": 24.365787
+    },
+    {
+      "name": "Ακαδημίες ποδοσφαίρου Αγροτικού Αστέρα Ευόσμου",
+      "latitude": 40.67698,
+      "longitude": 22.908839
+    },
+    {
+      "name": "Ακαδημιες Παδοσφαιρου ΔΙΑΣ",
+      "latitude": 38.215057,
+      "longitude": 21.737864
+    },
+    {
+      "name": "Αλάνα ποδοσφαιρου",
+      "latitude": 38.032917,
+      "longitude": 23.983887
+    },
+    {
+      "name": "Αμφίκλεια - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.623946,
+      "longitude": 22.571028
+    },
+    {
+      "name": "Αναγέννηση Στάνου",
+      "latitude": 38.803599,
+      "longitude": 21.179268
+    },
+    {
+      "name": "Αναρριχητικό  πεδίο \"Φαραγγακι\"",
+      "latitude": 41.241329,
+      "longitude": 23.398086
+    },
+    {
+      "name": "Αναρριχητικό πεδίο",
+      "latitude": 40.796439,
+      "longitude": 21.366152
+    },
+    {
+      "name": "Αναρριχητικό πεδίο \"Κάστρο Ισάρι\"",
+      "latitude": 41.239313,
+      "longitude": 23.395355
+    },
+    {
+      "name": "Ανοικτό Γήπεδο Μπάσκετ",
+      "latitude": 37.792761,
+      "longitude": 26.699484
+    },
+    {
+      "name": "Ανοικτό Γήπεδο Μπάσκετ",
+      "latitude": 39.410791,
+      "longitude": 21.965782
+    },
+    {
+      "name": "Ανοικτό γήπεδο Μπάσκετ",
+      "latitude": 39.890124,
+      "longitude": 22.184195
+    },
+    {
+      "name": "Ανοικτό γήπεδο Μπάσκετ",
+      "latitude": 39.897323,
+      "longitude": 22.181493
+    },
+    {
+      "name": "Ανοικτό Δημοτικό Γήπεδο Νέας Μαγνησίας",
+      "latitude": 40.685072,
+      "longitude": 22.846911
+    },
+    {
+      "name": "Ανοικτό Μπασκετ",
+      "latitude": 37.989403,
+      "longitude": 23.787129
+    },
+    {
+      "name": "Ανοιχτά γήπεδα μπάσκετ",
+      "latitude": 38.008716,
+      "longitude": 23.720642
+    },
+    {
+      "name": "Ανοιχτά γήπεδα μπάσκετ",
+      "latitude": 39.359122,
+      "longitude": 22.929398
+    },
+    {
+      "name": "Ανοιχτά γήπεδα μπάσκετ",
+      "latitude": 39.662961,
+      "longitude": 20.857988
+    },
+    {
+      "name": "Ανοιχτό γήπεδο",
+      "latitude": 37.721431,
+      "longitude": 24.019521
+    },
+    {
+      "name": "Ανοιχτό γήπεδο βόλεϋ",
+      "latitude": 37.029388,
+      "longitude": 22.109646
+    },
+    {
+      "name": "Ανοιχτό γήπεδο βόλεϋ",
+      "latitude": 38.017014,
+      "longitude": 23.832958
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 35.366082,
+      "longitude": 24.47463
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 35.437044,
+      "longitude": 24.179082
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 36.507084,
+      "longitude": 23.062258
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 36.807848,
+      "longitude": 21.806689
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.02977,
+      "longitude": 22.109655
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.831093,
+      "longitude": 23.805687
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.853944,
+      "longitude": 23.778622
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.903777,
+      "longitude": 23.757595
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.940033,
+      "longitude": 23.656858
+    },
+    {
+      "name": "ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.955863,
+      "longitude": 23.746897
+    },
+    {
+      "name": "ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.960427,
+      "longitude": 23.755276
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.963548,
+      "longitude": 23.762807
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.963573,
+      "longitude": 23.700795
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.965774,
+      "longitude": 23.62406
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.966014,
+      "longitude": 23.611733
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.969938,
+      "longitude": 23.7629
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.972707,
+      "longitude": 23.715914
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.972821,
+      "longitude": 23.714369
+    },
+    {
+      "name": "Ανοιχτό Γήπεδο Μπάσκετ",
+      "latitude": 37.984036,
+      "longitude": 23.779963
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.985142,
+      "longitude": 23.707941
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.986702,
+      "longitude": 23.852908
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.98804,
+      "longitude": 23.737838
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.98943,
+      "longitude": 23.761831
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.99173,
+      "longitude": 23.721591
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.99409,
+      "longitude": 23.706064
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 37.994893,
+      "longitude": 23.745358
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.000959,
+      "longitude": 23.809168
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.000971,
+      "longitude": 23.674418
+    },
+    {
+      "name": "Ανοιχτό Γήπεδο Μπάσκετ",
+      "latitude": 38.003906,
+      "longitude": 23.340289
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.00781,
+      "longitude": 23.742353
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.00874,
+      "longitude": 23.858686
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.009164,
+      "longitude": 23.720571
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.010748,
+      "longitude": 23.72481
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.011429,
+      "longitude": 23.760668
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.012212,
+      "longitude": 23.798184
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.017103,
+      "longitude": 23.833109
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.018078,
+      "longitude": 23.691996
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.019164,
+      "longitude": 23.710431
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.020217,
+      "longitude": 23.794339
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.023534,
+      "longitude": 23.718032
+    },
+    {
+      "name": "ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.024753,
+      "longitude": 23.7935
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.027137,
+      "longitude": 23.763741
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.027937,
+      "longitude": 23.703662
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.029761,
+      "longitude": 23.808645
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.033895,
+      "longitude": 23.743763
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.034885,
+      "longitude": 23.767428
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.035904,
+      "longitude": 23.695506
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.038547,
+      "longitude": 23.729994
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.039123,
+      "longitude": 23.798294
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.044822,
+      "longitude": 23.740638
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.04816,
+      "longitude": 23.748065
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.057074,
+      "longitude": 23.80692
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.083559,
+      "longitude": 23.741779
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.219134,
+      "longitude": 21.748833
+    },
+    {
+      "name": "Ανοιχτό Γήπεδο Μπάσκετ",
+      "latitude": 38.385834,
+      "longitude": 22.651868
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 38.63092,
+      "longitude": 21.421286
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 39.463235,
+      "longitude": 22.921946
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 39.749295,
+      "longitude": 22.292919
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 40.293711,
+      "longitude": 21.781512
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 40.462256,
+      "longitude": 22.85842
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ",
+      "latitude": 40.651106,
+      "longitude": 22.956153
+    },
+    {
+      "name": "Ανοιχτό Γήπεδο Μπάσκετ \"Μιχάλης Μανσουρής\"",
+      "latitude": 38.011482,
+      "longitude": 23.820763
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ 88 στρεμμάτων",
+      "latitude": 37.98425,
+      "longitude": 23.650607
+    },
+    {
+      "name": "Ανοιχτό γήπεδο μπάσκετ Πατελών",
+      "latitude": 35.332672,
+      "longitude": 25.141454
+    },
+    {
+      "name": "Ανοιχτό Γήπεδο Μπάσκετ Τυρού",
+      "latitude": 37.241987,
+      "longitude": 22.846532
+    },
+    {
+      "name": "Ανοιχτό γήπεδο ποδοσφαίρου 5x5",
+      "latitude": 38.036665,
+      "longitude": 23.748235
+    },
+    {
+      "name": "Ανοιχτό Δημοτικό Γήπεδο Μπάσκετ Πάγου",
+      "latitude": 37.416184,
+      "longitude": 24.905444
+    },
+    {
+      "name": "ΑΠΟ Νέα Σμύρνη",
+      "latitude": 37.942648,
+      "longitude": 23.710116
+    },
+    {
+      "name": "ΑΠΟΒ",
+      "latitude": 39.370789,
+      "longitude": 22.965026
+    },
+    {
+      "name": "ΑΠΟΚΘ",
+      "latitude": 41.144559,
+      "longitude": 22.997728
+    },
+    {
+      "name": "Απόλλων Λάρισας",
+      "latitude": 39.631547,
+      "longitude": 22.399047
+    },
+    {
+      "name": "Αρτεμίσιο - Απογείωση",
+      "latitude": 37.632785,
+      "longitude": 22.537168
+    },
+    {
+      "name": "Ασπράγγελοι - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.820758,
+      "longitude": 20.724191
+    },
+    {
+      "name": "Αστάρτη - Απογείωση",
+      "latitude": 35.32978,
+      "longitude": 25.612584
+    },
+    {
+      "name": "Αστέρας Μενιδίου mini football club",
+      "latitude": 38.103422,
+      "longitude": 23.741023
+    },
+    {
+      "name": "Αστραπή",
+      "latitude": 41.177458,
+      "longitude": 23.389579
+    },
+    {
+      "name": "Αυλώνα - Απογείωση",
+      "latitude": 38.244252,
+      "longitude": 23.674857
+    },
+    {
+      "name": "Αφροδίτη - Απογείωση",
+      "latitude": 40.109281,
+      "longitude": 22.479063
+    },
+    {
+      "name": "Αχιλλέα Μπάρας",
+      "latitude": 39.56467,
+      "longitude": 21.77641
+    },
+    {
+      "name": "Β Γηπεδο Πετρουπολης",
+      "latitude": 38.046668,
+      "longitude": 23.665961
+    },
+    {
+      "name": "Βέργα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 37.006709,
+      "longitude": 22.177716
+    },
+    {
+      "name": "Βέργης",
+      "latitude": 40.958557,
+      "longitude": 23.407836
+    },
+    {
+      "name": "Βαράσοβα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.371511,
+      "longitude": 21.577558
+    },
+    {
+      "name": "Βαρύπετρο Χανίων - Απογείωση",
+      "latitude": 35.451316,
+      "longitude": 23.975362
+    },
+    {
+      "name": "Βγέθι - Απογείωση",
+      "latitude": 37.799768,
+      "longitude": 24.070529
+    },
+    {
+      "name": "Βελβεντό - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.273176,
+      "longitude": 22.116554
+    },
+    {
+      "name": "Βενιαμίν",
+      "latitude": 37.576658,
+      "longitude": 25.167499
+    },
+    {
+      "name": "Βενιαμίν",
+      "latitude": 37.943588,
+      "longitude": 23.78716
+    },
+    {
+      "name": "Βερούλειο Στάδιο",
+      "latitude": 40.934604,
+      "longitude": 24.392626
+    },
+    {
+      "name": "Βλαχέρνα Αγρινίου - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.654632,
+      "longitude": 21.39727
+    },
+    {
+      "name": "Βοηθητικό γήπεδο",
+      "latitude": 37.963345,
+      "longitude": 23.774252
+    },
+    {
+      "name": "Βοηθητικό γήπεδο",
+      "latitude": 37.963719,
+      "longitude": 23.774569
+    },
+    {
+      "name": "Βοηθητικό γήπεδο",
+      "latitude": 39.35556,
+      "longitude": 22.968839
+    },
+    {
+      "name": "Βοηθητικό γήπεδο",
+      "latitude": 40.108114,
+      "longitude": 22.497957
+    },
+    {
+      "name": "Βοηθητικό Γήπεδο",
+      "latitude": 40.529166,
+      "longitude": 21.257428
+    },
+    {
+      "name": "Βοηθητικό γήπεδο μπάσκετ",
+      "latitude": 40.249738,
+      "longitude": 22.084052
+    },
+    {
+      "name": "βοηθητικό γήπεδο ποδοσφαίρου",
+      "latitude": 38.884108,
+      "longitude": 22.443762
+    },
+    {
+      "name": "Βοηθητικό γήπεδο ποδοσφαίρου",
+      "latitude": 40.250671,
+      "longitude": 22.085538
+    },
+    {
+      "name": "Βοηθητικό Πανθεσσαλικού",
+      "latitude": 39.3872,
+      "longitude": 22.933101
+    },
+    {
+      "name": "Βραχωνάς (Σύβοτα) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.433032,
+      "longitude": 20.266278
+    },
+    {
+      "name": "Βόλεϊ",
+      "latitude": 37.998047,
+      "longitude": 23.775906
+    },
+    {
+      "name": "Βόλεϊ",
+      "latitude": 37.998268,
+      "longitude": 23.779199
+    },
+    {
+      "name": "Βόλεϊ",
+      "latitude": 37.99937,
+      "longitude": 23.778489
+    },
+    {
+      "name": "Βόνιτσα Προφήτης Ηλίας - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.899658,
+      "longitude": 20.93526
+    },
+    {
+      "name": "Γ. Μελισσινός",
+      "latitude": 37.963931,
+      "longitude": 23.774388
+    },
+    {
+      "name": "Γ.Σ. ΑΘΛΟΚΙΝΗΣΗ ΤΟΞΟΒΟΛΙΑ",
+      "latitude": 35.344072,
+      "longitude": 25.160211
+    },
+    {
+      "name": "Γήπεδα 5x5",
+      "latitude": 39.749028,
+      "longitude": 22.292942
+    },
+    {
+      "name": "Γήπεδα Beach Volley",
+      "latitude": 38.283081,
+      "longitude": 21.788528
+    },
+    {
+      "name": "Γήπεδα Βόλλευ & Μπάσκετ",
+      "latitude": 38.281585,
+      "longitude": 21.787887
+    },
+    {
+      "name": "Γήπεδα μπάσκετ",
+      "latitude": 38.010318,
+      "longitude": 23.731641
+    },
+    {
+      "name": "Γήπεδα μπάσκετ",
+      "latitude": 39.617093,
+      "longitude": 20.845212
+    },
+    {
+      "name": "Γήπεδα τένις",
+      "latitude": 39.617048,
+      "longitude": 20.84467
+    },
+    {
+      "name": "Γήπεδα τένις",
+      "latitude": 40.598023,
+      "longitude": 22.950194
+    },
+    {
+      "name": "Γήπεδα Τέννις",
+      "latitude": 38.199915,
+      "longitude": 23.879324
+    },
+    {
+      "name": "Γήπεδα Τέννις",
+      "latitude": 38.281891,
+      "longitude": 21.787627
+    },
+    {
+      "name": "Γήπεδα Τέννις Νέας Δημητριάδας",
+      "latitude": 39.356511,
+      "longitude": 22.966724
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 35.210003,
+      "longitude": 25.101388
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 37.347436,
+      "longitude": 22.76801
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.136323,
+      "longitude": 21.025973
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.173034,
+      "longitude": 23.247414
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.268879,
+      "longitude": 22.13997
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.315578,
+      "longitude": 21.902659
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.325045,
+      "longitude": 21.87771
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.414733,
+      "longitude": 21.795806
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.611631,
+      "longitude": 22.118424
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.627419,
+      "longitude": 22.501433
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 39.864679,
+      "longitude": 22.177543
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 40.18252,
+      "longitude": 21.478658
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 40.562869,
+      "longitude": 22.113907
+    },
+    {
+      "name": "Γήπεδο",
+      "latitude": 40.829616,
+      "longitude": 21.500205
+    },
+    {
+      "name": "Γήπεδο  Ποδοσφαίρου Νησίδα",
+      "latitude": 38.047468,
+      "longitude": 23.735332
+    },
+    {
+      "name": "Γήπεδο \"Αγίος Γεωργίος\"",
+      "latitude": 40.711553,
+      "longitude": 24.732874
+    },
+    {
+      "name": "Γήπεδο \"Γιάγκος Γρατσίας\"",
+      "latitude": 37.055691,
+      "longitude": 25.496163
+    },
+    {
+      "name": "Γήπεδο \"Παναγιώτης Σαλταμάρας\"",
+      "latitude": 39.110351,
+      "longitude": 26.560633
+    },
+    {
+      "name": "Γήπεδο \"Συνοικισμού\" ΠΑΣ Κόρινθος",
+      "latitude": 37.937145,
+      "longitude": 22.946165
+    },
+    {
+      "name": "Γήπεδο 0",
+      "latitude": 37.983521,
+      "longitude": 23.802067
+    },
+    {
+      "name": "Γήπεδο 1",
+      "latitude": 37.923741,
+      "longitude": 23.760239
+    },
+    {
+      "name": "Γήπεδο 1",
+      "latitude": 37.983514,
+      "longitude": 23.802296
+    },
+    {
+      "name": "Γήπεδο 1",
+      "latitude": 38.412901,
+      "longitude": 21.841961
+    },
+    {
+      "name": "Γήπεδο 2",
+      "latitude": 37.983545,
+      "longitude": 23.802491
+    },
+    {
+      "name": "Γήπεδο 2",
+      "latitude": 38.412582,
+      "longitude": 21.842054
+    },
+    {
+      "name": "Γήπεδο 3",
+      "latitude": 37.983437,
+      "longitude": 23.802717
+    },
+    {
+      "name": "Γήπεδο 3",
+      "latitude": 38.412036,
+      "longitude": 21.842222
+    },
+    {
+      "name": "Γήπεδο 4",
+      "latitude": 37.983206,
+      "longitude": 23.802973
+    },
+    {
+      "name": "Γήπεδο 4",
+      "latitude": 38.411741,
+      "longitude": 21.842199
+    },
+    {
+      "name": "Γήπεδο 4 Χ 4",
+      "latitude": 38.835645,
+      "longitude": 20.697265
+    },
+    {
+      "name": "Γήπεδο 49 Προκρίτων Παραμυθιάς",
+      "latitude": 39.459137,
+      "longitude": 20.512639
+    },
+    {
+      "name": "Γήπεδο 5",
+      "latitude": 37.983135,
+      "longitude": 23.803195
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 35.336112,
+      "longitude": 25.155817
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 37.980355,
+      "longitude": 23.775238
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 38.000417,
+      "longitude": 23.809112
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 38.027093,
+      "longitude": 23.73947
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 38.027422,
+      "longitude": 23.740481
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 38.02761,
+      "longitude": 23.743797
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 38.03418,
+      "longitude": 23.763582
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 38.567601,
+      "longitude": 23.212301
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 40.495919,
+      "longitude": 22.924298
+    },
+    {
+      "name": "Γήπεδο 5x5",
+      "latitude": 41.394723,
+      "longitude": 24.098282
+    },
+    {
+      "name": "Γήπεδο 5x5 Λυκείου-Γυμνασίου",
+      "latitude": 40.830701,
+      "longitude": 24.025553
+    },
+    {
+      "name": "Γήπεδο 5x5 Σ.Σ.Λειανοκλαδίου",
+      "latitude": 38.893335,
+      "longitude": 22.368193
+    },
+    {
+      "name": "Γήπεδο 5×5",
+      "latitude": 38.023097,
+      "longitude": 23.71831
+    },
+    {
+      "name": "Γήπεδο 5×5",
+      "latitude": 38.023547,
+      "longitude": 23.718344
+    },
+    {
+      "name": "Γήπεδο 5Χ5",
+      "latitude": 39.410372,
+      "longitude": 21.966205
+    },
+    {
+      "name": "Γήπεδο 5χ5 \"Μάρκος Παπαδάκης\"",
+      "latitude": 38.012308,
+      "longitude": 23.797386
+    },
+    {
+      "name": "Γήπεδο 6",
+      "latitude": 37.983164,
+      "longitude": 23.803419
+    },
+    {
+      "name": "Γήπεδο 6x6",
+      "latitude": 39.616419,
+      "longitude": 20.848199
+    },
+    {
+      "name": "Γήπεδο 8x8",
+      "latitude": 39.616317,
+      "longitude": 20.849116
+    },
+    {
+      "name": "Γήπεδο Basketball",
+      "latitude": 38.201107,
+      "longitude": 22.18142
+    },
+    {
+      "name": "Γήπεδο beach volley",
+      "latitude": 37.916863,
+      "longitude": 23.743221
+    },
+    {
+      "name": "Γήπεδο Beach Volleyball",
+      "latitude": 38.201012,
+      "longitude": 22.181153
+    },
+    {
+      "name": "Γήπεδο Beach Βόλεϊ Αγίας Βαρβάρας",
+      "latitude": 37.990654,
+      "longitude": 23.666045
+    },
+    {
+      "name": "Γήπεδο Petanque (Άμπαλι)",
+      "latitude": 38.710561,
+      "longitude": 20.593282
+    },
+    {
+      "name": "Γήπεδο Tennis",
+      "latitude": 38.04677,
+      "longitude": 23.747653
+    },
+    {
+      "name": "Γήπεδο Volleyball",
+      "latitude": 40.93693,
+      "longitude": 24.395081
+    },
+    {
+      "name": "Γήπεδο «Ιωάννης Κωνσταντέλιας»",
+      "latitude": 39.369213,
+      "longitude": 22.961968
+    },
+    {
+      "name": "Γήπεδο Άλμα",
+      "latitude": 37.914485,
+      "longitude": 23.737512
+    },
+    {
+      "name": "Γήπεδο Άμπλιανης",
+      "latitude": 38.750126,
+      "longitude": 21.908498
+    },
+    {
+      "name": "Γήπεδο Άνω Δολιανά",
+      "latitude": 37.386464,
+      "longitude": 22.494141
+    },
+    {
+      "name": "Γήπεδο Άνω Κώμης",
+      "latitude": 40.230441,
+      "longitude": 21.833807
+    },
+    {
+      "name": "Γήπεδο Άνω Σύρου",
+      "latitude": 37.453458,
+      "longitude": 24.937446
+    },
+    {
+      "name": "Γήπεδο Άρδασσας",
+      "latitude": 40.480067,
+      "longitude": 21.639942
+    },
+    {
+      "name": "Γήπεδο Άρλας",
+      "latitude": 38.063642,
+      "longitude": 21.595831
+    },
+    {
+      "name": "Γήπεδο Άστρους",
+      "latitude": 37.406966,
+      "longitude": 22.719832
+    },
+    {
+      "name": "Γήπεδο Ίμερου",
+      "latitude": 40.954878,
+      "longitude": 25.368597
+    },
+    {
+      "name": "Γήπεδο Α",
+      "latitude": 40.790376,
+      "longitude": 22.387298
+    },
+    {
+      "name": "Γήπεδο Α. Ε. Κ. Ε.Π.Σ. Λακωνίας",
+      "latitude": 37.042268,
+      "longitude": 22.409964
+    },
+    {
+      "name": "Γήπεδο Α. Πρίφτη",
+      "latitude": 37.901683,
+      "longitude": 23.879563
+    },
+    {
+      "name": "Γήπεδο Α.Γ.Σ. Χιονάτου",
+      "latitude": 40.479712,
+      "longitude": 21.019884
+    },
+    {
+      "name": "Γήπεδο Α.Ε. Στενής",
+      "latitude": 37.576825,
+      "longitude": 25.184856
+    },
+    {
+      "name": "Γήπεδο Α.Ε.Κ. \"Αγία Σοφία\"",
+      "latitude": 38.037116,
+      "longitude": 23.741465
+    },
+    {
+      "name": "Γήπεδο Α.Ε.Κατσαμπά",
+      "latitude": 35.331149,
+      "longitude": 25.19301
+    },
+    {
+      "name": "Γήπεδο Α.Μ.Σ. Άρη Ζυγού",
+      "latitude": 41.020637,
+      "longitude": 24.380807
+    },
+    {
+      "name": "Γήπεδο Α.Ο. Ανατολής",
+      "latitude": 39.642146,
+      "longitude": 20.876458
+    },
+    {
+      "name": "Γήπεδο Α.Ο. Δενδροχωρίου",
+      "latitude": 39.557201,
+      "longitude": 21.63648
+    },
+    {
+      "name": "Γήπεδο Α.Ο. Προδρόμου",
+      "latitude": 39.560804,
+      "longitude": 21.58908
+    },
+    {
+      "name": "Γήπεδο Α.Ο. Τραχώνων",
+      "latitude": 37.918412,
+      "longitude": 23.736181
+    },
+    {
+      "name": "Γήπεδο Α.Ο.Καστρακίου",
+      "latitude": 39.730192,
+      "longitude": 21.598079
+    },
+    {
+      "name": "Γήπεδο Α.Σ. 'Πλαστήρας'",
+      "latitude": 39.361903,
+      "longitude": 21.903627
+    },
+    {
+      "name": "Γήπεδο Α.Σ. Μακεδονικός Λητής",
+      "latitude": 40.740993,
+      "longitude": 22.984276
+    },
+    {
+      "name": "Γήπεδο Αβέρωφ Δράμας",
+      "latitude": 41.157599,
+      "longitude": 24.147054
+    },
+    {
+      "name": "Γήπεδο Αγ. Δημητρίου",
+      "latitude": 36.929487,
+      "longitude": 22.817754
+    },
+    {
+      "name": "Γήπεδο Αγίας Παρασκευής",
+      "latitude": 38.90242,
+      "longitude": 22.489518
+    },
+    {
+      "name": "Γήπεδο Αγίας Παρασκευής",
+      "latitude": 39.386225,
+      "longitude": 22.955687
+    },
+    {
+      "name": "Γήπεδο Αγίας Παρασκευής",
+      "latitude": 40.484238,
+      "longitude": 23.055691
+    },
+    {
+      "name": "Γήπεδο Αγίου Αντωνίου",
+      "latitude": 40.443713,
+      "longitude": 23.088218
+    },
+    {
+      "name": "Γήπεδο Αγίου Γεωργίου",
+      "latitude": 39.287183,
+      "longitude": 22.274686
+    },
+    {
+      "name": "Γήπεδο Αγίου Δονάτου",
+      "latitude": 39.475685,
+      "longitude": 20.507762
+    },
+    {
+      "name": "Γήπεδο Αγίου Κωνσταντίνου",
+      "latitude": 38.754269,
+      "longitude": 22.859964
+    },
+    {
+      "name": "Γήπεδο Αγίου Νικολάου (Αστέρας Αγίου Νικολάου 1957)",
+      "latitude": 40.244,
+      "longitude": 23.697825
+    },
+    {
+      "name": "Γήπεδο Αγίου Σπυρίδωνα",
+      "latitude": 39.152742,
+      "longitude": 20.864054
+    },
+    {
+      "name": "Γήπεδο Αγίων Αναργύρων",
+      "latitude": 38.039377,
+      "longitude": 23.725999
+    },
+    {
+      "name": "Γήπεδο Αγίων Αποστόλων",
+      "latitude": 35.513063,
+      "longitude": 23.983897
+    },
+    {
+      "name": "Γήπεδο Αδέσποτου Αθηνών",
+      "latitude": 37.995073,
+      "longitude": 23.776815
+    },
+    {
+      "name": "Γήπεδο Αδαμίου",
+      "latitude": 37.57048,
+      "longitude": 23.07942
+    },
+    {
+      "name": "Γήπεδο Αετού Σκύδρας",
+      "latitude": 40.765151,
+      "longitude": 22.146019
+    },
+    {
+      "name": "Γήπεδο Αθλητικού Ομίλου Τερψιθέας",
+      "latitude": 37.899723,
+      "longitude": 23.775316
+    },
+    {
+      "name": "Γήπεδο Αιγάνης;Γήπεδο",
+      "latitude": 39.954009,
+      "longitude": 22.618296
+    },
+    {
+      "name": "Γήπεδο Αιγείρας",
+      "latitude": 38.14964,
+      "longitude": 22.362576
+    },
+    {
+      "name": "Γήπεδο Ακράτητου",
+      "latitude": 38.084589,
+      "longitude": 23.688118
+    },
+    {
+      "name": "Γήπεδο Αλμυρού Γαζίου",
+      "latitude": 35.330935,
+      "longitude": 25.048784
+    },
+    {
+      "name": "Γήπεδο Αλποχωρίου",
+      "latitude": 37.730426,
+      "longitude": 21.371731
+    },
+    {
+      "name": "Γήπεδο Αλφειούσας",
+      "latitude": 37.642051,
+      "longitude": 21.511708
+    },
+    {
+      "name": "Γήπεδο Αμυγδαλής",
+      "latitude": 39.587444,
+      "longitude": 22.71497
+    },
+    {
+      "name": "Γήπεδο Αμυκλών",
+      "latitude": 37.028731,
+      "longitude": 22.446807
+    },
+    {
+      "name": "Γήπεδο Ανέζας",
+      "latitude": 39.090373,
+      "longitude": 20.927015
+    },
+    {
+      "name": "Γήπεδο Ανθούπολης",
+      "latitude": 39.622538,
+      "longitude": 22.422881
+    },
+    {
+      "name": "Γήπεδο Απιδιάς",
+      "latitude": 36.885192,
+      "longitude": 22.806226
+    },
+    {
+      "name": "Γήπεδο Απόλλωνα Χαλανδρίου",
+      "latitude": 38.012903,
+      "longitude": 23.803488
+    },
+    {
+      "name": "Γήπεδο Απόστολος Νικολαΐδης",
+      "latitude": 37.987271,
+      "longitude": 23.754116
+    },
+    {
+      "name": "Γήπεδο Αργυροπουλίου",
+      "latitude": 39.822849,
+      "longitude": 22.306707
+    },
+    {
+      "name": "γήπεδο Αργυροχωρίου",
+      "latitude": 38.880015,
+      "longitude": 22.2544
+    },
+    {
+      "name": "Γήπεδο Αρμενίου",
+      "latitude": 39.490618,
+      "longitude": 22.691758
+    },
+    {
+      "name": "Γήπεδο Αρμενοχωρίου",
+      "latitude": 40.799672,
+      "longitude": 21.463078
+    },
+    {
+      "name": "Γήπεδο Αρναίας",
+      "latitude": 40.489083,
+      "longitude": 23.603107
+    },
+    {
+      "name": "Γήπεδο Αρτεμισιακού",
+      "latitude": 39.0013,
+      "longitude": 23.206805
+    },
+    {
+      "name": "Γήπεδο Ασπροκκλησιάς",
+      "latitude": 40.409451,
+      "longitude": 21.259767
+    },
+    {
+      "name": "Γήπεδο Αστέρα",
+      "latitude": 38.093831,
+      "longitude": 23.688733
+    },
+    {
+      "name": "Γήπεδο Αστραπής Μεσοποταμίας",
+      "latitude": 40.501845,
+      "longitude": 21.159891
+    },
+    {
+      "name": "Γήπεδο Ασωμάτων",
+      "latitude": 40.486288,
+      "longitude": 22.230339
+    },
+    {
+      "name": "Γήπεδο Ασωπού",
+      "latitude": 36.738016,
+      "longitude": 22.862123
+    },
+    {
+      "name": "Γήπεδο Ατρόμητου Διαβατού",
+      "latitude": 40.548185,
+      "longitude": 22.275419
+    },
+    {
+      "name": "Γήπεδο Αυλών",
+      "latitude": 40.180434,
+      "longitude": 21.965995
+    },
+    {
+      "name": "Γήπεδο Αφανού",
+      "latitude": 38.901437,
+      "longitude": 22.445823
+    },
+    {
+      "name": "Γήπεδο Αχιλλέα (Αγυιάς)",
+      "latitude": 38.272089,
+      "longitude": 21.755974
+    },
+    {
+      "name": "Γήπεδο Αχιλλέα Τριανδρίας",
+      "latitude": 40.62095,
+      "longitude": 22.974585
+    },
+    {
+      "name": "Γήπεδο Αχιλλείου",
+      "latitude": 39.533236,
+      "longitude": 22.669565
+    },
+    {
+      "name": "Γήπεδο Β",
+      "latitude": 40.79046,
+      "longitude": 22.386994
+    },
+    {
+      "name": "Γήπεδο Βάρδας",
+      "latitude": 38.031454,
+      "longitude": 21.359351
+    },
+    {
+      "name": "Γήπεδο Βαμβακούς",
+      "latitude": 39.336449,
+      "longitude": 22.415015
+    },
+    {
+      "name": "Γήπεδο Βασιλή Φαρσάλων",
+      "latitude": 39.332057,
+      "longitude": 22.376598
+    },
+    {
+      "name": "Γήπεδο Βιολογικού",
+      "latitude": 39.659158,
+      "longitude": 22.434797
+    },
+    {
+      "name": "Γήπεδο Βλαχέρνας",
+      "latitude": 39.166307,
+      "longitude": 20.997653
+    },
+    {
+      "name": "Γήπεδο Βουνάργου",
+      "latitude": 37.739392,
+      "longitude": 21.411955
+    },
+    {
+      "name": "Γήπεδο Βουναίνων",
+      "latitude": 39.499459,
+      "longitude": 22.241928
+    },
+    {
+      "name": "Γήπεδο Βούρκου",
+      "latitude": 38.456788,
+      "longitude": 23.594562
+    },
+    {
+      "name": "Γήπεδο Βρονταμά",
+      "latitude": 36.977328,
+      "longitude": 22.664825
+    },
+    {
+      "name": "Γήπεδο Βροχίτσας",
+      "latitude": 37.738393,
+      "longitude": 21.448274
+    },
+    {
+      "name": "Γήπεδο Βρυσιών",
+      "latitude": 39.257252,
+      "longitude": 22.32295
+    },
+    {
+      "name": "Γήπεδο Βρυότοπου",
+      "latitude": 39.76138,
+      "longitude": 22.377936
+    },
+    {
+      "name": "Γήπεδο βόλεϊ",
+      "latitude": 37.979832,
+      "longitude": 23.777426
+    },
+    {
+      "name": "Γήπεδο Βόλεϊ",
+      "latitude": 38.009982,
+      "longitude": 23.835033
+    },
+    {
+      "name": "γήπεδο βόλεϊ",
+      "latitude": 38.894894,
+      "longitude": 22.273714
+    },
+    {
+      "name": "Γήπεδο Βόλεϊ",
+      "latitude": 39.56357,
+      "longitude": 19.866588
+    },
+    {
+      "name": "Γήπεδο βόλεϊ",
+      "latitude": 39.706475,
+      "longitude": 21.624521
+    },
+    {
+      "name": "Γήπεδο Βόλεϊ Κούμανι",
+      "latitude": 37.790537,
+      "longitude": 21.756935
+    },
+    {
+      "name": "Γήπεδο Βόλεϊ Λυκείου-Γυμνασίου",
+      "latitude": 40.830852,
+      "longitude": 24.025063
+    },
+    {
+      "name": "Γήπεδο Βόλεϋ",
+      "latitude": 40.125628,
+      "longitude": 23.764062
+    },
+    {
+      "name": "Γήπεδο Βόλλεϋ",
+      "latitude": 41.070251,
+      "longitude": 23.549655
+    },
+    {
+      "name": "Γήπεδο Βόλλεϋ",
+      "latitude": 41.072163,
+      "longitude": 23.549504
+    },
+    {
+      "name": "Γήπεδο Βύρωνος Αθηναϊκού",
+      "latitude": 37.958604,
+      "longitude": 23.769191
+    },
+    {
+      "name": "Γήπεδο Γ",
+      "latitude": 40.790066,
+      "longitude": 22.387248
+    },
+    {
+      "name": "Γήπεδο Γερακίου",
+      "latitude": 36.996191,
+      "longitude": 22.698603
+    },
+    {
+      "name": "Γήπεδο Γιαννακοχωρίου",
+      "latitude": 40.666848,
+      "longitude": 22.062118
+    },
+    {
+      "name": "Γήπεδο Γλυκόβρυσης",
+      "latitude": 36.806471,
+      "longitude": 22.777477
+    },
+    {
+      "name": "Γήπεδο Γούβας",
+      "latitude": 38.251496,
+      "longitude": 21.744219
+    },
+    {
+      "name": "Γήπεδο Γράμμουσας",
+      "latitude": 36.8917,
+      "longitude": 22.663079
+    },
+    {
+      "name": "Γήπεδο Γραμμένου - Αναργύρων",
+      "latitude": 39.660626,
+      "longitude": 20.710937
+    },
+    {
+      "name": "Γήπεδο Γόννων",
+      "latitude": 39.854836,
+      "longitude": 22.476758
+    },
+    {
+      "name": "Γήπεδο Δ",
+      "latitude": 40.790097,
+      "longitude": 22.386973
+    },
+    {
+      "name": "Γήπεδο Δένδρων",
+      "latitude": 39.684986,
+      "longitude": 22.341024
+    },
+    {
+      "name": "Γήπεδο Δίλοφου",
+      "latitude": 39.44746,
+      "longitude": 22.479291
+    },
+    {
+      "name": "Γήπεδο Δαλαμανάρας",
+      "latitude": 37.604669,
+      "longitude": 22.776692
+    },
+    {
+      "name": "Γήπεδο Δαμασίου",
+      "latitude": 39.711273,
+      "longitude": 22.191078
+    },
+    {
+      "name": "Γήπεδο Δαματριάς",
+      "latitude": 36.378275,
+      "longitude": 28.083355
+    },
+    {
+      "name": "Γήπεδο Δασοχωρίου",
+      "latitude": 39.692032,
+      "longitude": 22.421376
+    },
+    {
+      "name": "Γήπεδο Δασυλλίου Πολίχνης",
+      "latitude": 40.664203,
+      "longitude": 22.958288
+    },
+    {
+      "name": "Γήπεδο Δαφνίου",
+      "latitude": 36.929696,
+      "longitude": 22.534456
+    },
+    {
+      "name": "Γήπεδο Δελερίων",
+      "latitude": 39.806197,
+      "longitude": 22.340983
+    },
+    {
+      "name": "Γήπεδο Διμηνίου",
+      "latitude": 39.356355,
+      "longitude": 22.893986
+    },
+    {
+      "name": "Γήπεδο Δισπηλιού",
+      "latitude": 40.482982,
+      "longitude": 21.294661
+    },
+    {
+      "name": "Γήπεδο Δωρίου",
+      "latitude": 37.289624,
+      "longitude": 21.85911
+    },
+    {
+      "name": "Γήπεδο Δωριέα",
+      "latitude": 36.439973,
+      "longitude": 28.222683
+    },
+    {
+      "name": "Γήπεδο Δόξας Καρίτσας",
+      "latitude": 39.844411,
+      "longitude": 22.764698
+    },
+    {
+      "name": "Γήπεδο Ελάτειας",
+      "latitude": 39.810183,
+      "longitude": 22.534012
+    },
+    {
+      "name": "Γήπεδο Ελάφου",
+      "latitude": 39.579948,
+      "longitude": 22.789809
+    },
+    {
+      "name": "Γήπεδο Ελίκας",
+      "latitude": 36.616414,
+      "longitude": 22.913961
+    },
+    {
+      "name": "Γήπεδο Ελαιώνα",
+      "latitude": 37.743644,
+      "longitude": 21.463262
+    },
+    {
+      "name": "Γήπεδο Ελιάς",
+      "latitude": 35.309733,
+      "longitude": 25.232833
+    },
+    {
+      "name": "Γήπεδο Ελπίδων",
+      "latitude": 35.331401,
+      "longitude": 25.194454
+    },
+    {
+      "name": "Γήπεδο Εξοχής",
+      "latitude": 40.340988,
+      "longitude": 22.430809
+    },
+    {
+      "name": "Γήπεδο Εορδαϊκού",
+      "latitude": 40.510386,
+      "longitude": 21.682779
+    },
+    {
+      "name": "Γήπεδο ΕΠΣΗΠ",
+      "latitude": 39.638781,
+      "longitude": 20.845767
+    },
+    {
+      "name": "Γήπεδο Ευκαρπίας",
+      "latitude": 41.077341,
+      "longitude": 22.909901
+    },
+    {
+      "name": "Γήπεδο Ευξεινουπόλεως (Δήμητρα)",
+      "latitude": 39.184972,
+      "longitude": 22.736023
+    },
+    {
+      "name": "Γήπεδο Ευπαλίου",
+      "latitude": 38.424874,
+      "longitude": 21.932133
+    },
+    {
+      "name": "Γήπεδο Ζαππείου",
+      "latitude": 39.462166,
+      "longitude": 22.442827
+    },
+    {
+      "name": "Γήπεδο Ζωγράφου",
+      "latitude": 40.286416,
+      "longitude": 23.252741
+    },
+    {
+      "name": "Γήπεδο Ζωοδόχου Πηγής",
+      "latitude": 39.365704,
+      "longitude": 22.398683
+    },
+    {
+      "name": "Γήπεδο Ηλιούπολης",
+      "latitude": 40.672759,
+      "longitude": 22.92429
+    },
+    {
+      "name": "Γήπεδο Ηρακλής",
+      "latitude": 40.443378,
+      "longitude": 23.674729
+    },
+    {
+      "name": "Γήπεδο Ηφαίστου",
+      "latitude": 38.016686,
+      "longitude": 23.683425
+    },
+    {
+      "name": "Γήπεδο Θερμαϊκού",
+      "latitude": 40.647189,
+      "longitude": 22.904842
+    },
+    {
+      "name": "Γήπεδο Θεσσαλικού",
+      "latitude": 39.629947,
+      "longitude": 22.431709
+    },
+    {
+      "name": "Γήπεδο Θύελλας",
+      "latitude": 38.206011,
+      "longitude": 21.75833
+    },
+    {
+      "name": "Γήπεδο Κ.Ε Πόρος",
+      "latitude": 37.50508,
+      "longitude": 23.458122
+    },
+    {
+      "name": "Γήπεδο Κάτω Λεχωνίων",
+      "latitude": 39.329006,
+      "longitude": 23.028553
+    },
+    {
+      "name": "Γήπεδο Καβαλαρίου",
+      "latitude": 40.711623,
+      "longitude": 23.044945
+    },
+    {
+      "name": "Γήπεδο Καβύλης",
+      "latitude": 41.557802,
+      "longitude": 26.512441
+    },
+    {
+      "name": "Γήπεδο Καινούργιου",
+      "latitude": 38.784417,
+      "longitude": 22.710015
+    },
+    {
+      "name": "Γήπεδο Κακοβάτου",
+      "latitude": 37.459321,
+      "longitude": 21.642067
+    },
+    {
+      "name": "Γήπεδο Καλαθοσφαίρισης",
+      "latitude": 40.680187,
+      "longitude": 22.933847
+    },
+    {
+      "name": "Γήπεδο Καλαθοσφαίρισης",
+      "latitude": 40.681928,
+      "longitude": 22.937436
+    },
+    {
+      "name": "Γήπεδο Καλαμακίου",
+      "latitude": 39.570886,
+      "longitude": 22.740248
+    },
+    {
+      "name": "Γήπεδο Καλεσών",
+      "latitude": 35.289152,
+      "longitude": 25.056799
+    },
+    {
+      "name": "Γήπεδο Καλλιθέας",
+      "latitude": 38.424105,
+      "longitude": 23.890259
+    },
+    {
+      "name": "Γήπεδο Καλογερικού",
+      "latitude": 39.081964,
+      "longitude": 20.912295
+    },
+    {
+      "name": "Γήπεδο Καλοχωρίου",
+      "latitude": 39.716568,
+      "longitude": 22.547609
+    },
+    {
+      "name": "Γήπεδο Καλοχωρίου",
+      "latitude": 40.489254,
+      "longitude": 21.13931
+    },
+    {
+      "name": "Γήπεδο Καλυβίων",
+      "latitude": 38.887433,
+      "longitude": 22.414751
+    },
+    {
+      "name": "Γήπεδο Καμαρίων",
+      "latitude": 38.934736,
+      "longitude": 23.177497
+    },
+    {
+      "name": "Γήπεδο Καμπής Άρτας",
+      "latitude": 39.218477,
+      "longitude": 20.906359
+    },
+    {
+      "name": "Γήπεδο Καρυών",
+      "latitude": 37.293262,
+      "longitude": 22.495374
+    },
+    {
+      "name": "Γήπεδο Καστορείου",
+      "latitude": 37.170142,
+      "longitude": 22.311171
+    },
+    {
+      "name": "Γήπεδο Κεράμου",
+      "latitude": 41.603772,
+      "longitude": 26.349823
+    },
+    {
+      "name": "Γήπεδο Κερασιάς",
+      "latitude": 40.88082,
+      "longitude": 21.966138
+    },
+    {
+      "name": "Γήπεδο Κερατέας",
+      "latitude": 37.813062,
+      "longitude": 23.970329
+    },
+    {
+      "name": "Γήπεδο Κεραυνού",
+      "latitude": 40.644144,
+      "longitude": 22.968424
+    },
+    {
+      "name": "Γήπεδο Κιβερίου",
+      "latitude": 37.53179,
+      "longitude": 22.71791
+    },
+    {
+      "name": "Γήπεδο Κιλελέρ",
+      "latitude": 39.501575,
+      "longitude": 22.637293
+    },
+    {
+      "name": "Γήπεδο Κλεισοχώρι ΄Εδεσσας",
+      "latitude": 40.810124,
+      "longitude": 22.06794
+    },
+    {
+      "name": "Γήπεδο Κοκκινόραχης",
+      "latitude": 37.108197,
+      "longitude": 22.436123
+    },
+    {
+      "name": "Γήπεδο Κολοκυνθούς",
+      "latitude": 40.506964,
+      "longitude": 21.219824
+    },
+    {
+      "name": "γήπεδο Κομποτάδων",
+      "latitude": 38.870401,
+      "longitude": 22.342358
+    },
+    {
+      "name": "Γήπεδο Κοντοκαλίου",
+      "latitude": 39.646739,
+      "longitude": 19.858728
+    },
+    {
+      "name": "Γήπεδο Κοπανακίου",
+      "latitude": 37.28405,
+      "longitude": 21.818355
+    },
+    {
+      "name": "Γήπεδο Κορεστείων",
+      "latitude": 40.624502,
+      "longitude": 21.198485
+    },
+    {
+      "name": "Γήπεδο Κορησού",
+      "latitude": 40.507555,
+      "longitude": 21.374073
+    },
+    {
+      "name": "Γήπεδο Κοσκινού",
+      "latitude": 36.38799,
+      "longitude": 28.214133
+    },
+    {
+      "name": "Γήπεδο Κουβαρά",
+      "latitude": 37.825761,
+      "longitude": 23.962613
+    },
+    {
+      "name": "Γήπεδο Κουλεντίων",
+      "latitude": 36.606979,
+      "longitude": 22.985705
+    },
+    {
+      "name": "Γήπεδο Κουρκουλών",
+      "latitude": 38.839689,
+      "longitude": 23.334583
+    },
+    {
+      "name": "Γήπεδο Κουτσόχερου",
+      "latitude": 39.608331,
+      "longitude": 22.234277
+    },
+    {
+      "name": "Γήπεδο Κρήνης",
+      "latitude": 39.382788,
+      "longitude": 22.352957
+    },
+    {
+      "name": "Γήπεδο Κρίκετ Μαρίνας",
+      "latitude": 39.647323,
+      "longitude": 19.856749
+    },
+    {
+      "name": "Γήπεδο Κρανοχωρίου",
+      "latitude": 40.454768,
+      "longitude": 21.100124
+    },
+    {
+      "name": "Γήπεδο Κρυονερίου",
+      "latitude": 38.139657,
+      "longitude": 23.823916
+    },
+    {
+      "name": "Γήπεδο Κρυφοβού",
+      "latitude": 39.514248,
+      "longitude": 20.890574
+    },
+    {
+      "name": "Γήπεδο Κυριακίου",
+      "latitude": 38.357108,
+      "longitude": 22.783534
+    },
+    {
+      "name": "Γήπεδο Κυψέλης",
+      "latitude": 40.520043,
+      "longitude": 22.206456
+    },
+    {
+      "name": "Γήπεδο Κωνσταντίνος Γαλλιός",
+      "latitude": 39.610244,
+      "longitude": 22.293665
+    },
+    {
+      "name": "Γήπεδο Λήλαντα",
+      "latitude": 38.423874,
+      "longitude": 23.662641
+    },
+    {
+      "name": "γήπεδο Λαγκαδικίων",
+      "latitude": 40.630836,
+      "longitude": 23.246008
+    },
+    {
+      "name": "Γήπεδο Λαγκαδώιν",
+      "latitude": 37.674427,
+      "longitude": 22.05397
+    },
+    {
+      "name": "Γήπεδο Λαγυνών",
+      "latitude": 40.728474,
+      "longitude": 23.016704
+    },
+    {
+      "name": "Γήπεδο Λαυρεωτικής",
+      "latitude": 37.717808,
+      "longitude": 24.05601
+    },
+    {
+      "name": "Γήπεδο Λειανοκλαδίου",
+      "latitude": 38.914923,
+      "longitude": 22.3119
+    },
+    {
+      "name": "Γήπεδο Λευκακίων",
+      "latitude": 37.567324,
+      "longitude": 22.866721
+    },
+    {
+      "name": "γήπεδο λευκώνα",
+      "latitude": 41.096603,
+      "longitude": 23.502227
+    },
+    {
+      "name": "Γήπεδο Λεχόβου",
+      "latitude": 40.582046,
+      "longitude": 21.494701
+    },
+    {
+      "name": "Γήπεδο Λογγάστρας",
+      "latitude": 37.113207,
+      "longitude": 22.352085
+    },
+    {
+      "name": "Γήπεδο Λογκανίκου",
+      "latitude": 37.225092,
+      "longitude": 22.254694
+    },
+    {
+      "name": "Γήπεδο Λουτροχωρίου",
+      "latitude": 40.726046,
+      "longitude": 22.10716
+    },
+    {
+      "name": "Γήπεδο Λυγιά",
+      "latitude": 38.406389,
+      "longitude": 21.842169
+    },
+    {
+      "name": "Γήπεδο Λυκοποριάς",
+      "latitude": 38.133033,
+      "longitude": 22.486674
+    },
+    {
+      "name": "Γήπεδο Λυκοποριάς",
+      "latitude": 38.134012,
+      "longitude": 22.486289
+    },
+    {
+      "name": "Γήπεδο Λόγγου",
+      "latitude": 38.297934,
+      "longitude": 22.006652
+    },
+    {
+      "name": "Γήπεδο Λὴλαντα",
+      "latitude": 38.423804,
+      "longitude": 23.662698
+    },
+    {
+      "name": "Γήπεδο Μάνδρας",
+      "latitude": 39.611812,
+      "longitude": 22.256571
+    },
+    {
+      "name": "Γήπεδο Μανιάκων",
+      "latitude": 40.500861,
+      "longitude": 21.239297
+    },
+    {
+      "name": "Γήπεδο Μανολάδας",
+      "latitude": 38.044804,
+      "longitude": 21.34878
+    },
+    {
+      "name": "Γήπεδο Μαρτινέγκο",
+      "latitude": 35.331794,
+      "longitude": 25.130675
+    },
+    {
+      "name": "Γήπεδο Ματαράγκα",
+      "latitude": 38.015974,
+      "longitude": 21.460832
+    },
+    {
+      "name": "Γήπεδο Μαυροχωρίου",
+      "latitude": 40.512705,
+      "longitude": 21.317424
+    },
+    {
+      "name": "Γήπεδο Μαψού",
+      "latitude": 37.834821,
+      "longitude": 22.857849
+    },
+    {
+      "name": "Γήπεδο Μεγάλων Καλυβιών",
+      "latitude": 39.506151,
+      "longitude": 21.794001
+    },
+    {
+      "name": "Γήπεδο Μελίνα Μερκούρη",
+      "latitude": 38.456756,
+      "longitude": 23.608118
+    },
+    {
+      "name": "Γήπεδο Μενεμένης",
+      "latitude": 40.659993,
+      "longitude": 22.889488
+    },
+    {
+      "name": "γήπεδο Μεξιατών",
+      "latitude": 38.885988,
+      "longitude": 22.303368
+    },
+    {
+      "name": "Γήπεδο Μεσημερίου",
+      "latitude": 40.409762,
+      "longitude": 23.005828
+    },
+    {
+      "name": "Γήπεδο Μεταμόρφωσης",
+      "latitude": 40.562307,
+      "longitude": 21.320918
+    },
+    {
+      "name": "Γήπεδο Μονεμβασίας",
+      "latitude": 36.661571,
+      "longitude": 23.023202
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 35.365746,
+      "longitude": 24.511344
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 36.520192,
+      "longitude": 23.054079
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.959091,
+      "longitude": 23.622584
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.962985,
+      "longitude": 23.583014
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.973634,
+      "longitude": 23.784023
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.979654,
+      "longitude": 23.777643
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.994459,
+      "longitude": 23.765558
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.996059,
+      "longitude": 23.744861
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.996388,
+      "longitude": 23.756014
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 37.996853,
+      "longitude": 23.811985
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 38.009838,
+      "longitude": 23.835444
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 38.025725,
+      "longitude": 23.749306
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 38.030178,
+      "longitude": 23.76316
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 38.032761,
+      "longitude": 23.984098
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 38.045974,
+      "longitude": 23.776966
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 38.047918,
+      "longitude": 23.772744
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 38.04812,
+      "longitude": 23.777391
+    },
+    {
+      "name": "γήπεδο μπάσκετ",
+      "latitude": 38.242365,
+      "longitude": 21.742029
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 38.631453,
+      "longitude": 21.428075
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 38.710665,
+      "longitude": 20.593519
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 38.775065,
+      "longitude": 21.874984
+    },
+    {
+      "name": "γήπεδο μπάσκετ",
+      "latitude": 38.924145,
+      "longitude": 22.412741
+    },
+    {
+      "name": "γήπεδο μπάσκετ",
+      "latitude": 38.966032,
+      "longitude": 22.123772
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 39.068982,
+      "longitude": 21.272789
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 39.563432,
+      "longitude": 19.867856
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 39.706579,
+      "longitude": 21.624584
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 40.125416,
+      "longitude": 23.764321
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 40.190534,
+      "longitude": 22.013246
+    },
+    {
+      "name": "Γήπεδο μπάσκετ",
+      "latitude": 40.325968,
+      "longitude": 23.983656
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 40.731271,
+      "longitude": 22.135364
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 40.792138,
+      "longitude": 22.414667
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 41.070406,
+      "longitude": 23.549012
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ",
+      "latitude": 41.394469,
+      "longitude": 24.098251
+    },
+    {
+      "name": "Γήπεδο μπάσκετ Α' Φοιτητικής Εστίας ΑΠΘ",
+      "latitude": 40.629005,
+      "longitude": 22.965187
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Αγίας Βαρβάρας",
+      "latitude": 37.990421,
+      "longitude": 23.666095
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Βιλίων",
+      "latitude": 38.164442,
+      "longitude": 23.343898
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Δεληγιάννη (by MiLKO)",
+      "latitude": 37.99514,
+      "longitude": 23.651421
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Εξοχής",
+      "latitude": 40.629187,
+      "longitude": 23.037913
+    },
+    {
+      "name": "Γήπεδο μπάσκετ Καθαροσπόρης",
+      "latitude": 38.473563,
+      "longitude": 23.607556
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Καμαρών",
+      "latitude": 38.300279,
+      "longitude": 22.004178
+    },
+    {
+      "name": "Γήπεδο μπάσκετ Κορακιών",
+      "latitude": 35.518307,
+      "longitude": 24.07494
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Κορομηλιάς",
+      "latitude": 40.534271,
+      "longitude": 21.182557
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Κούμανι",
+      "latitude": 37.790509,
+      "longitude": 21.756506
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Λοιμωδών 1",
+      "latitude": 37.99123,
+      "longitude": 23.666202
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Λοιμωδών 2",
+      "latitude": 37.991511,
+      "longitude": 23.666085
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Λυκείου-Γυμνασίου",
+      "latitude": 40.830764,
+      "longitude": 24.024939
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Μεγ. Αλεξάνδρου",
+      "latitude": 40.67118,
+      "longitude": 22.946368
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Πλατείας Βασιλικού",
+      "latitude": 38.422419,
+      "longitude": 23.676314
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Πυλίου",
+      "latitude": 36.845353,
+      "longitude": 27.159922
+    },
+    {
+      "name": "Γήπεδο μπάσκετ Τάκη & Κίμωνα Δημητρίου",
+      "latitude": 38.465398,
+      "longitude": 23.580842
+    },
+    {
+      "name": "Γήπεδο μπάσκετ-βόλεϋ",
+      "latitude": 40.310019,
+      "longitude": 20.856569
+    },
+    {
+      "name": "Γήπεδο Μπίτς Βόλεϊ Παπάγου",
+      "latitude": 37.989921,
+      "longitude": 23.786561
+    },
+    {
+      "name": "Γήπεδο Μπασκετ",
+      "latitude": 37.714408,
+      "longitude": 24.053123
+    },
+    {
+      "name": "Γήπεδο Μπασκετ Αγίας Βαρβάρας",
+      "latitude": 37.990349,
+      "longitude": 23.666045
+    },
+    {
+      "name": "Γήπεδο Μπουάτ",
+      "latitude": 40.777527,
+      "longitude": 21.384259
+    },
+    {
+      "name": "Γήπεδο Ν. Τίρυνθας",
+      "latitude": 37.60887,
+      "longitude": 22.830305
+    },
+    {
+      "name": "Γήπεδο Νέας Μαγνησίας",
+      "latitude": 38.900205,
+      "longitude": 22.461522
+    },
+    {
+      "name": "Γήπεδο Νέας Μανωλάδας",
+      "latitude": 38.052067,
+      "longitude": 21.384512
+    },
+    {
+      "name": "Γήπεδο Νέας Σελεύκειας «Κώστας Αντώνογλου»",
+      "latitude": 39.527537,
+      "longitude": 20.254737
+    },
+    {
+      "name": "Γήπεδο Νέας Φιγαλείας",
+      "latitude": 37.444225,
+      "longitude": 21.773965
+    },
+    {
+      "name": "γήπεδο Νέου Κρίκελου",
+      "latitude": 38.82376,
+      "longitude": 22.429533
+    },
+    {
+      "name": "Γήπεδο Νέου Περιβολίου",
+      "latitude": 39.489992,
+      "longitude": 22.603495
+    },
+    {
+      "name": "Γήπεδο Νέου Πύργου",
+      "latitude": 38.928236,
+      "longitude": 23.090294
+    },
+    {
+      "name": "Γήπεδο Νήαρ Ηστ",
+      "latitude": 37.96707,
+      "longitude": 23.762384
+    },
+    {
+      "name": "Γήπεδο Νίκης",
+      "latitude": 39.521563,
+      "longitude": 22.682385
+    },
+    {
+      "name": "Γήπεδο Νεάπολης",
+      "latitude": 38.669107,
+      "longitude": 21.355224
+    },
+    {
+      "name": "Γήπεδο Νεοχωρίου",
+      "latitude": 41.513358,
+      "longitude": 26.447909
+    },
+    {
+      "name": "Γήπεδο Νεστάνης",
+      "latitude": 37.607991,
+      "longitude": 22.451916
+    },
+    {
+      "name": "Γήπεδο Νεστορίου",
+      "latitude": 40.416492,
+      "longitude": 21.059797
+    },
+    {
+      "name": "Γήπεδο Νιάτων",
+      "latitude": 36.898697,
+      "longitude": 22.83643
+    },
+    {
+      "name": "Γήπεδο Νικόπολης",
+      "latitude": 40.681554,
+      "longitude": 22.933244
+    },
+    {
+      "name": "Γήπεδο Νικόπολης",
+      "latitude": 40.885938,
+      "longitude": 23.185378
+    },
+    {
+      "name": "Γήπεδο Νταηλάκη",
+      "latitude": 40.506758,
+      "longitude": 21.246869
+    },
+    {
+      "name": "Γήπεδο Νταμάρι",
+      "latitude": 37.579768,
+      "longitude": 22.814474
+    },
+    {
+      "name": "Γήπεδο Νυμφών",
+      "latitude": 39.75482,
+      "longitude": 19.793139
+    },
+    {
+      "name": "Γήπεδο Ξυλοκέρας",
+      "latitude": 37.736042,
+      "longitude": 21.390687
+    },
+    {
+      "name": "Γήπεδο Οινόης",
+      "latitude": 40.519982,
+      "longitude": 21.081447
+    },
+    {
+      "name": "Γήπεδο Ομορφοχωρίου",
+      "latitude": 39.674176,
+      "longitude": 22.47888
+    },
+    {
+      "name": "Γήπεδο Ορμενίου",
+      "latitude": 41.727293,
+      "longitude": 26.213278
+    },
+    {
+      "name": "Γήπεδο Παλαίρου",
+      "latitude": 38.797462,
+      "longitude": 20.870833
+    },
+    {
+      "name": "Γήπεδο Παλαγίας",
+      "latitude": 40.888854,
+      "longitude": 25.876085
+    },
+    {
+      "name": "Γήπεδο Παλαμά",
+      "latitude": 39.456902,
+      "longitude": 22.067768
+    },
+    {
+      "name": "Γήπεδο Παλληνιακού",
+      "latitude": 38.005874,
+      "longitude": 23.872756
+    },
+    {
+      "name": "Γήπεδο Παμφίλων",
+      "latitude": 39.15701,
+      "longitude": 26.528452
+    },
+    {
+      "name": "Γήπεδο Πανί",
+      "latitude": 37.909874,
+      "longitude": 23.730466
+    },
+    {
+      "name": "Γήπεδο Παναιτωλικού",
+      "latitude": 38.630167,
+      "longitude": 21.411851
+    },
+    {
+      "name": "Γήπεδο Πανεπιστημίου (Μινωικής)",
+      "latitude": 35.317287,
+      "longitude": 25.158315
+    },
+    {
+      "name": "Γήπεδο Πανεπιστημιούπολης",
+      "latitude": 37.97199,
+      "longitude": 23.763017
+    },
+    {
+      "name": "Γήπεδο Πανοράματος",
+      "latitude": 38.09634,
+      "longitude": 23.684403
+    },
+    {
+      "name": "Γήπεδο Παντελής Νικολαίδης",
+      "latitude": 37.971732,
+      "longitude": 23.635229
+    },
+    {
+      "name": "Γήπεδο Παραποτάμου",
+      "latitude": 39.830513,
+      "longitude": 22.472754
+    },
+    {
+      "name": "Γήπεδο ΠΑΣ Αμβρακικός",
+      "latitude": 38.918847,
+      "longitude": 20.880248
+    },
+    {
+      "name": "Γήπεδο Πειρούνη",
+      "latitude": 37.640218,
+      "longitude": 22.735798
+    },
+    {
+      "name": "Γήπεδο Πελλάνας",
+      "latitude": 37.205362,
+      "longitude": 22.326648
+    },
+    {
+      "name": "Γήπεδο Πεντάπολης",
+      "latitude": 41.05904,
+      "longitude": 23.691844
+    },
+    {
+      "name": "Γήπεδο Πενταβρύσου",
+      "latitude": 40.457804,
+      "longitude": 21.143938
+    },
+    {
+      "name": "Γήπεδο Πενταπλατάνου",
+      "latitude": 40.821918,
+      "longitude": 22.419665
+    },
+    {
+      "name": "Γήπεδο Περάματος",
+      "latitude": 35.368756,
+      "longitude": 24.708708
+    },
+    {
+      "name": "Γήπεδο Πετρούπολης",
+      "latitude": 38.053362,
+      "longitude": 23.684997
+    },
+    {
+      "name": "Γήπεδο Πλάτσας",
+      "latitude": 36.798129,
+      "longitude": 22.319065
+    },
+    {
+      "name": "Γήπεδο Πλαγιαρίου",
+      "latitude": 40.477941,
+      "longitude": 22.956613
+    },
+    {
+      "name": "Γήπεδο Πλαταμώνα",
+      "latitude": 39.986995,
+      "longitude": 22.625987
+    },
+    {
+      "name": "Γήπεδο Πλατανιάς",
+      "latitude": 41.184734,
+      "longitude": 24.40708
+    },
+    {
+      "name": "Γήπεδο Πλατανουλίων",
+      "latitude": 39.672523,
+      "longitude": 22.309356
+    },
+    {
+      "name": "Γήπεδο Πλατυκάμπου",
+      "latitude": 39.627789,
+      "longitude": 22.538222
+    },
+    {
+      "name": "Γήπεδο ΠΟΑ",
+      "latitude": 35.319963,
+      "longitude": 25.13662
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 36.611121,
+      "longitude": 22.980497
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 37.981556,
+      "longitude": 23.783226
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 37.993968,
+      "longitude": 23.705129
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 37.9991,
+      "longitude": 23.778198
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 38.010079,
+      "longitude": 23.835943
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 38.012024,
+      "longitude": 23.80344
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 38.040194,
+      "longitude": 23.814517
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 38.054035,
+      "longitude": 23.777417
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 38.6317,
+      "longitude": 21.428033
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου",
+      "latitude": 38.824627,
+      "longitude": 22.429691
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 38.844619,
+      "longitude": 22.40272
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου",
+      "latitude": 38.927546,
+      "longitude": 22.262483
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου",
+      "latitude": 38.942512,
+      "longitude": 22.215162
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου",
+      "latitude": 38.952924,
+      "longitude": 22.12206
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου",
+      "latitude": 38.964686,
+      "longitude": 22.166929
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου",
+      "latitude": 38.966056,
+      "longitude": 22.124415
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 39.068914,
+      "longitude": 21.273287
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 39.368477,
+      "longitude": 22.982042
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 39.56386,
+      "longitude": 19.866802
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 39.613677,
+      "longitude": 20.84522
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 40.325583,
+      "longitude": 23.983534
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 40.711417,
+      "longitude": 22.729927
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 40.779848,
+      "longitude": 21.481533
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 40.853095,
+      "longitude": 25.934539
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου",
+      "latitude": 41.072083,
+      "longitude": 23.54754
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου",
+      "latitude": 41.641358,
+      "longitude": 26.187795
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου ''Απόλλωνα''",
+      "latitude": 38.906967,
+      "longitude": 22.437219
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 11x11",
+      "latitude": 37.981271,
+      "longitude": 23.645366
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου 5 x 5",
+      "latitude": 38.883679,
+      "longitude": 22.465761
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5x5",
+      "latitude": 37.903555,
+      "longitude": 23.75716
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5x5",
+      "latitude": 37.975026,
+      "longitude": 23.720142
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5x5",
+      "latitude": 37.981413,
+      "longitude": 23.646031
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5x5",
+      "latitude": 38.030509,
+      "longitude": 23.762892
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5x5",
+      "latitude": 38.050219,
+      "longitude": 23.793381
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5x5",
+      "latitude": 38.630719,
+      "longitude": 21.421366
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου 5χ5",
+      "latitude": 37.984154,
+      "longitude": 23.781381
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5χ5",
+      "latitude": 38.017226,
+      "longitude": 23.832807
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου 5Χ5",
+      "latitude": 38.90233,
+      "longitude": 22.491168
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου 5χ5",
+      "latitude": 39.358882,
+      "longitude": 22.92993
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Άργιλου",
+      "latitude": 40.264668,
+      "longitude": 21.745803
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου Α.Ε.Ν.Α.",
+      "latitude": 38.884878,
+      "longitude": 22.442026
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου Αγίων Παρασκιών",
+      "latitude": 35.213272,
+      "longitude": 25.209538
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Αγυιάς",
+      "latitude": 38.261834,
+      "longitude": 21.74559
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Αμπελώνα",
+      "latitude": 39.750577,
+      "longitude": 22.359068
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Αττάλου",
+      "latitude": 38.048095,
+      "longitude": 23.744729
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Βατερού",
+      "latitude": 40.291687,
+      "longitude": 21.731319
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Βελβεντού",
+      "latitude": 40.25048,
+      "longitude": 22.084421
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου Γαλανέικων",
+      "latitude": 38.920142,
+      "longitude": 22.432471
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου ΔΑΚ Κοζάνης",
+      "latitude": 40.293661,
+      "longitude": 21.782641
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου Δοϊράνης",
+      "latitude": 41.176295,
+      "longitude": 22.756357
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Εξοχής",
+      "latitude": 40.630156,
+      "longitude": 23.03782
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου ΕΠΣΠ",
+      "latitude": 37.943215,
+      "longitude": 23.663677
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Ιστιαίας",
+      "latitude": 38.9587,
+      "longitude": 23.157515
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Κοντιά",
+      "latitude": 39.864438,
+      "longitude": 25.151762
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Κορομηλιάς",
+      "latitude": 40.532555,
+      "longitude": 21.18249
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Κούμανι",
+      "latitude": 37.789208,
+      "longitude": 21.749738
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Κρόκου",
+      "latitude": 40.27156,
+      "longitude": 21.809967
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου Λευκόβρυσης",
+      "latitude": 40.274062,
+      "longitude": 21.784092
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Μάκρης",
+      "latitude": 38.950436,
+      "longitude": 22.136223
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου Μήθυμνας",
+      "latitude": 39.366268,
+      "longitude": 26.182834
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Μυρίνης",
+      "latitude": 39.406966,
+      "longitude": 21.964623
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Νέας Χαραυγής",
+      "latitude": 40.324547,
+      "longitude": 21.820865
+    },
+    {
+      "name": "γήπεδο ποδοσφαίρου Παπάγου",
+      "latitude": 37.996594,
+      "longitude": 23.786647
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου Παπαδάτου",
+      "latitude": 38.70723,
+      "longitude": 21.182937
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου Περαμαϊκού",
+      "latitude": 37.963937,
+      "longitude": 23.582729
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Πυλίου",
+      "latitude": 36.850876,
+      "longitude": 27.157601
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Πύργου",
+      "latitude": 39.564473,
+      "longitude": 21.743514
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου στο Δήμο Συκεών",
+      "latitude": 40.651759,
+      "longitude": 22.959797
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Σχοινά",
+      "latitude": 40.651997,
+      "longitude": 22.439547
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου τοπικής ομάδας Κεχριών",
+      "latitude": 38.804816,
+      "longitude": 23.370036
+    },
+    {
+      "name": "Γήπεδο ποδοσφαίρου Χώρας",
+      "latitude": 37.694714,
+      "longitude": 26.896841
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου Ύδρας",
+      "latitude": 37.348842,
+      "longitude": 23.469745
+    },
+    {
+      "name": "Γήπεδο Ποδοχωρίου",
+      "latitude": 40.82683,
+      "longitude": 24.022722
+    },
+    {
+      "name": "Γήπεδο Ποδόσφαιρου Γουβών",
+      "latitude": 39.00143,
+      "longitude": 23.248139
+    },
+    {
+      "name": "Γήπεδο Πολιχνίτου",
+      "latitude": 39.085705,
+      "longitude": 26.197609
+    },
+    {
+      "name": "Γήπεδο Πολυκάρπης",
+      "latitude": 40.51886,
+      "longitude": 21.316996
+    },
+    {
+      "name": "Γήπεδο Ποριάς",
+      "latitude": 40.488218,
+      "longitude": 21.219476
+    },
+    {
+      "name": "γήπεδο Πορταριάς",
+      "latitude": 39.394932,
+      "longitude": 22.99392
+    },
+    {
+      "name": "Γήπεδο ποσοσφαίρου Μεγάλου Αλεξάνδρου",
+      "latitude": 40.671103,
+      "longitude": 22.946752
+    },
+    {
+      "name": "Γήπεδο Ποταμιάς",
+      "latitude": 36.926477,
+      "longitude": 22.486076
+    },
+    {
+      "name": "Γήπεδο Προπόνησης",
+      "latitude": 40.789888,
+      "longitude": 22.425325
+    },
+    {
+      "name": "Γήπεδο Πυλαίας",
+      "latitude": 40.591602,
+      "longitude": 22.982321
+    },
+    {
+      "name": "Γήπεδο Ράχης",
+      "latitude": 39.11339,
+      "longitude": 20.892952
+    },
+    {
+      "name": "Γήπεδο Ρίου",
+      "latitude": 38.299809,
+      "longitude": 21.787551
+    },
+    {
+      "name": "Γήπεδο Ραφήνας",
+      "latitude": 38.019518,
+      "longitude": 24.008519
+    },
+    {
+      "name": "Γήπεδο Ροδιάς",
+      "latitude": 39.798011,
+      "longitude": 22.364244
+    },
+    {
+      "name": "Γήπεδο Ρόκας",
+      "latitude": 35.208397,
+      "longitude": 25.107374
+    },
+    {
+      "name": "Γήπεδο Σαρακηνού",
+      "latitude": 39.384178,
+      "longitude": 22.95332
+    },
+    {
+      "name": "Γήπεδο Σελλασίας",
+      "latitude": 37.165157,
+      "longitude": 22.410837
+    },
+    {
+      "name": "Γήπεδο Σκάλλας Καλλονής",
+      "latitude": 39.207525,
+      "longitude": 26.209579
+    },
+    {
+      "name": "Γήπεδο Σκαφιδακίου",
+      "latitude": 37.562308,
+      "longitude": 22.696711
+    },
+    {
+      "name": "Γήπεδο Σούρπης",
+      "latitude": 39.108296,
+      "longitude": 22.891644
+    },
+    {
+      "name": "Γήπεδο Σπολάιτας",
+      "latitude": 38.704162,
+      "longitude": 21.350809
+    },
+    {
+      "name": "Γήπεδο Σπυρούδη",
+      "latitude": 38.007529,
+      "longitude": 23.833389
+    },
+    {
+      "name": "Γήπεδο Σταυρακίου",
+      "latitude": 39.653051,
+      "longitude": 20.82862
+    },
+    {
+      "name": "Γήπεδο Σταυρακίου",
+      "latitude": 39.6538,
+      "longitude": 20.829577
+    },
+    {
+      "name": "Γήπεδο Σταυρακίου",
+      "latitude": 39.65444,
+      "longitude": 20.827768
+    },
+    {
+      "name": "Γήπεδο Σταυροποτάμου",
+      "latitude": 40.542459,
+      "longitude": 21.397732
+    },
+    {
+      "name": "Γήπεδο Σταυρού",
+      "latitude": 39.317976,
+      "longitude": 22.243756
+    },
+    {
+      "name": "Γήπεδο Σταυρού ''Δ. Λατσός-Γ. Μάμαλης''",
+      "latitude": 38.900542,
+      "longitude": 22.371721
+    },
+    {
+      "name": "Γήπεδο Σταυρούπολης",
+      "latitude": 41.199385,
+      "longitude": 24.699864
+    },
+    {
+      "name": "Γήπεδο Στεφάνων",
+      "latitude": 40.915104,
+      "longitude": 23.047171
+    },
+    {
+      "name": "Γήπεδο Στεφανιάς",
+      "latitude": 36.844856,
+      "longitude": 22.610086
+    },
+    {
+      "name": "Γήπεδο Στύρφακας",
+      "latitude": 38.941407,
+      "longitude": 22.302791
+    },
+    {
+      "name": "Γήπεδο Συκέας",
+      "latitude": 36.760216,
+      "longitude": 22.948211
+    },
+    {
+      "name": "Γήπεδο Συκουρίου",
+      "latitude": 39.756473,
+      "longitude": 22.573367
+    },
+    {
+      "name": "Γήπεδο Σχολής Ναυτικών Δοκίμων",
+      "latitude": 37.933568,
+      "longitude": 23.629308
+    },
+    {
+      "name": "Γήπεδο Σωτηρίου",
+      "latitude": 39.507333,
+      "longitude": 22.706407
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 37.917018,
+      "longitude": 23.742748
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 37.972858,
+      "longitude": 23.71463
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 38.001298,
+      "longitude": 23.674243
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 38.008656,
+      "longitude": 23.720176
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 38.011251,
+      "longitude": 23.643406
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 38.029956,
+      "longitude": 23.763745
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 38.032511,
+      "longitude": 23.984029
+    },
+    {
+      "name": "Γήπεδο τένις",
+      "latitude": 38.032734,
+      "longitude": 23.983496
+    },
+    {
+      "name": "Γήπεδο Τένις Αγίας Βαρβάρας",
+      "latitude": 37.991081,
+      "longitude": 23.663516
+    },
+    {
+      "name": "Γήπεδο Τένις Μοσχάτου",
+      "latitude": 37.947849,
+      "longitude": 23.681673
+    },
+    {
+      "name": "Γήπεδο Τένις Σκύδρας",
+      "latitude": 40.769383,
+      "longitude": 22.154361
+    },
+    {
+      "name": "Γήπεδο Τέννις",
+      "latitude": 35.512565,
+      "longitude": 24.025716
+    },
+    {
+      "name": "Γήπεδο τέννις",
+      "latitude": 37.973568,
+      "longitude": 23.784197
+    },
+    {
+      "name": "Γήπεδο Τέννις",
+      "latitude": 37.993293,
+      "longitude": 23.808713
+    },
+    {
+      "name": "Γήπεδο Τέννις",
+      "latitude": 38.009993,
+      "longitude": 23.836425
+    },
+    {
+      "name": "Γήπεδο τέννις",
+      "latitude": 38.047365,
+      "longitude": 23.74344
+    },
+    {
+      "name": "Γήπεδο τέννις",
+      "latitude": 38.048276,
+      "longitude": 23.744265
+    },
+    {
+      "name": "Γήπεδο Τέννις",
+      "latitude": 38.05362,
+      "longitude": 23.778248
+    },
+    {
+      "name": "Γήπεδο τέννις",
+      "latitude": 38.218803,
+      "longitude": 21.748837
+    },
+    {
+      "name": "Γήπεδο Τέννις",
+      "latitude": 40.124959,
+      "longitude": 23.765031
+    },
+    {
+      "name": "Γήπεδο Τέννις μόνο για άτομα με αναπηρικό αμαξίδιο",
+      "latitude": 37.026247,
+      "longitude": 22.101928
+    },
+    {
+      "name": "Γήπεδο Ταξιάρχη",
+      "latitude": 38.915802,
+      "longitude": 23.113168
+    },
+    {
+      "name": "Γήπεδο Ταυρωπού",
+      "latitude": 39.375241,
+      "longitude": 21.911475
+    },
+    {
+      "name": "Γήπεδο Τοιχιού",
+      "latitude": 40.583179,
+      "longitude": 21.299525
+    },
+    {
+      "name": "Γήπεδο Τρεις Αστέρες",
+      "latitude": 38.020132,
+      "longitude": 23.725647
+    },
+    {
+      "name": "Γήπεδο Τριποτάμου",
+      "latitude": 40.492614,
+      "longitude": 22.176707
+    },
+    {
+      "name": "Γήπεδο Φιλησίου",
+      "latitude": 36.877212,
+      "longitude": 22.665913
+    },
+    {
+      "name": "Γήπεδο Φιλιππιάδας",
+      "latitude": 39.184682,
+      "longitude": 20.880912
+    },
+    {
+      "name": "Γήπεδο Φιχτίων",
+      "latitude": 37.734054,
+      "longitude": 22.726076
+    },
+    {
+      "name": "Γήπεδο Φοίνικα",
+      "latitude": 40.568114,
+      "longitude": 22.97265
+    },
+    {
+      "name": "Γήπεδο Χάντμπολ και Μπάσκετ",
+      "latitude": 38.009748,
+      "longitude": 23.835098
+    },
+    {
+      "name": "Γήπεδο Χαράς",
+      "latitude": 39.416418,
+      "longitude": 22.4341
+    },
+    {
+      "name": "Γήπεδο Χειμαδίου",
+      "latitude": 39.718762,
+      "longitude": 22.562774
+    },
+    {
+      "name": "Γήπεδο Χιλιοδένδρου",
+      "latitude": 40.488267,
+      "longitude": 21.186709
+    },
+    {
+      "name": "Γήπεδο Χρυσάφων",
+      "latitude": 37.091759,
+      "longitude": 22.537865
+    },
+    {
+      "name": "Γήπεδο Χρυσαυγής",
+      "latitude": 40.769802,
+      "longitude": 23.080859
+    },
+    {
+      "name": "Γήπεδο Χρυσουπολης",
+      "latitude": 38.029407,
+      "longitude": 23.673101
+    },
+    {
+      "name": "Γήπεδο Ωρεών",
+      "latitude": 38.947003,
+      "longitude": 23.097694
+    },
+    {
+      "name": "Γήπεδο Όσσας",
+      "latitude": 39.744329,
+      "longitude": 22.574323
+    },
+    {
+      "name": "Γήπεδον Μαλῶν",
+      "latitude": 35.08072,
+      "longitude": 25.591732
+    },
+    {
+      "name": "Γαλατινή - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.313085,
+      "longitude": 21.529984
+    },
+    {
+      "name": "Γηπεδάκι 5x5",
+      "latitude": 40.306106,
+      "longitude": 21.786759
+    },
+    {
+      "name": "Γηπεδάκια",
+      "latitude": 38.074447,
+      "longitude": 23.703506
+    },
+    {
+      "name": "ΓΗΠΕΔΑ  volley",
+      "latitude": 38.889954,
+      "longitude": 22.445963
+    },
+    {
+      "name": "ΓΗΠΕΔΑ ΒΟΛΕΥ",
+      "latitude": 38.896532,
+      "longitude": 21.784439
+    },
+    {
+      "name": "ΓΗΠΕΔΑ ΤΕΝΝΙΣ",
+      "latitude": 38.889627,
+      "longitude": 22.445956
+    },
+    {
+      "name": "ΓΗΠΕΔΑ ΤΕΝΝΙΣ",
+      "latitude": 38.889887,
+      "longitude": 22.445146
+    },
+    {
+      "name": "ΓΗΠΕΔΑ ΤΕΝΝΙΣ",
+      "latitude": 38.891075,
+      "longitude": 22.445665
+    },
+    {
+      "name": "γηπεδα τεννις",
+      "latitude": 38.927027,
+      "longitude": 22.404669
+    },
+    {
+      "name": "ΓΗΠΕΔΟ",
+      "latitude": 39.603014,
+      "longitude": 20.303214
+    },
+    {
+      "name": "ΓΗΠΕΔΟ \"ΑΠΟΣΤΟΛΟΣ ΦΑΡΔΕΛΑΣ\" ΟΛΥΜΠΙΑΚΟΥ ΡΟΔΟΠΟΛΗΣ",
+      "latitude": 41.263367,
+      "longitude": 22.998272
+    },
+    {
+      "name": "γηπεδο 5 χ 5",
+      "latitude": 37.241104,
+      "longitude": 22.860031
+    },
+    {
+      "name": "ΓΗΠΕΔΟ 5X5",
+      "latitude": 38.887949,
+      "longitude": 22.430406
+    },
+    {
+      "name": "ΓΗΠΕΔΟ Α.Ο. ΠΕΔΙΝΗΣ",
+      "latitude": 39.598223,
+      "longitude": 20.848442
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΑΛΕΠΟΣΠΙΤΩΝ",
+      "latitude": 38.826833,
+      "longitude": 22.407573
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΑΝΘΗΛΗΣ",
+      "latitude": 38.848118,
+      "longitude": 22.473552
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΒΟΛΕΙ",
+      "latitude": 41.133446,
+      "longitude": 24.894085
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΒΟΛΕΥ",
+      "latitude": 38.910186,
+      "longitude": 22.430374
+    },
+    {
+      "name": "γηπεδο βόλεϊ",
+      "latitude": 38.924054,
+      "longitude": 22.412547
+    },
+    {
+      "name": "Γηπεδο Δημητρόπουλου",
+      "latitude": 38.251701,
+      "longitude": 22.048298
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΘΗΣΕΑ",
+      "latitude": 38.062748,
+      "longitude": 23.984215
+    },
+    {
+      "name": "Γηπεδο μελισσοχωρίου",
+      "latitude": 38.266262,
+      "longitude": 23.229087
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΟΣΧΟΧΩΡΙΟΥ",
+      "latitude": 38.83205,
+      "longitude": 22.449731
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.833145,
+      "longitude": 21.742713
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.89108,
+      "longitude": 22.461336
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.893291,
+      "longitude": 22.417487
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.894471,
+      "longitude": 22.472244
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.899143,
+      "longitude": 22.403887
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.902214,
+      "longitude": 22.443141
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.903786,
+      "longitude": 22.437626
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.904755,
+      "longitude": 22.426574
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ",
+      "latitude": 38.910348,
+      "longitude": 22.430571
+    },
+    {
+      "name": "γηπεδο μπασκετ",
+      "latitude": 38.945794,
+      "longitude": 22.209538
+    },
+    {
+      "name": "Γηπεδο μπασκετ",
+      "latitude": 41.348041,
+      "longitude": 26.497144
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ 2ο ΕΠΑΛ ΞΑΝΘΗΣ",
+      "latitude": 41.133664,
+      "longitude": 24.893997
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ ΖΙΠΑΡΙΟΥ",
+      "latitude": 36.877029,
+      "longitude": 27.203124
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΠΑΣΚΕΤ ΜΑΣΤΙΧΑΡΙΟΥ",
+      "latitude": 36.846394,
+      "longitude": 27.077268
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΜΥΤΙΚΑ",
+      "latitude": 38.999154,
+      "longitude": 20.701846
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΠΟΔΟΣΦΑΙΡΟΥ",
+      "latitude": 38.894407,
+      "longitude": 22.472556
+    },
+    {
+      "name": "γηπεδο ποδοσφαιρου",
+      "latitude": 38.923097,
+      "longitude": 22.405922
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΡΟΔΙΤΣΑΣ",
+      "latitude": 38.883895,
+      "longitude": 22.46508
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΤΕΝΝΙΣ",
+      "latitude": 38.920272,
+      "longitude": 22.42734
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΤΕΝΝΙΣ",
+      "latitude": 38.920447,
+      "longitude": 22.427984
+    },
+    {
+      "name": "Γηπεδο Χαλκηδόνας",
+      "latitude": 40.730207,
+      "longitude": 22.606642
+    },
+    {
+      "name": "Γλύπτης",
+      "latitude": 37.577677,
+      "longitude": 25.166187
+    },
+    {
+      "name": "Γύπεδο 2ου Δημοτικού Γλυκών Νερών",
+      "latitude": 38.004104,
+      "longitude": 23.852965
+    },
+    {
+      "name": "Γύπεδο 5χ5",
+      "latitude": 37.995098,
+      "longitude": 23.787929
+    },
+    {
+      "name": "Γύπεδο Αγίας Τριάδας",
+      "latitude": 38.988962,
+      "longitude": 21.816086
+    },
+    {
+      "name": "Δελφοί - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.48504,
+      "longitude": 22.475444
+    },
+    {
+      "name": "Δεσκάτη (Βόρεια) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.947207,
+      "longitude": 21.760326
+    },
+    {
+      "name": "Δεσκάτη (Νότια) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.953821,
+      "longitude": 21.786455
+    },
+    {
+      "name": "Δευτερευων Γήπεδο Μανολάδας",
+      "latitude": 38.043093,
+      "longitude": 21.354699
+    },
+    {
+      "name": "Δημήτριος Σαμαράς \"ΔΟΞΑ ΔΡΥΜΟΥ\"",
+      "latitude": 40.793269,
+      "longitude": 22.954642
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΓΗΠΕΔΟ",
+      "latitude": 40.593114,
+      "longitude": 22.981814
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΓΗΠΕΔΟ ΣΠΑΡΤΟΥ",
+      "latitude": 38.902755,
+      "longitude": 21.112972
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΓΗΠΕΔΟ ΤΥΡΟΥ",
+      "latitude": 37.242339,
+      "longitude": 22.840164
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΣΤΑΔΙΟ",
+      "latitude": 39.552138,
+      "longitude": 21.777695
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΣΤΑΔΙΟ 'ΛΕΩΝΙΔΑΣ ΓΙΑΝΝΕΛΟΣ'",
+      "latitude": 38.945298,
+      "longitude": 22.11735
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΣΤΑΔΙΟ ΚΑΣΣΑΝΔΡΕΙΑΣ",
+      "latitude": 40.052724,
+      "longitude": 23.421193
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΣΤΑΔΙΟ ΝΕΡΟΚΟΥΡΟΥ ΕΔΡΑ Α.Π.Σ. ΙΚΑΡΟΣ ΜΟΥΡΝΙΩΝ",
+      "latitude": 35.474874,
+      "longitude": 24.042639
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Φυλής \"Θρασύβουλος\"",
+      "latitude": 38.096353,
+      "longitude": 23.651065
+    },
+    {
+      "name": "Δημοτικό Γήπεδο \"Α.Ο. ΚΑΣΤΩΡ\"",
+      "latitude": 40.544202,
+      "longitude": 21.260494
+    },
+    {
+      "name": "Δημοτικό Γήπεδο \"Απόστολος Αστρεινίδης\"",
+      "latitude": 40.659695,
+      "longitude": 22.92185
+    },
+    {
+      "name": "Δημοτικό Γήπεδο \"Κωνσταντίνος Μιγκοτζίδης\"",
+      "latitude": 40.659122,
+      "longitude": 22.919695
+    },
+    {
+      "name": "Δημοτικό Γήπεδο 'Παναγιώτης Μπαχράμης'",
+      "latitude": 37.040833,
+      "longitude": 22.124408
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Έλους ''Βασίλειος Μιχελάκος''",
+      "latitude": 36.830067,
+      "longitude": 22.699547
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Αγίας Βαρβάρας \"Ριμινίτικα\"",
+      "latitude": 37.995691,
+      "longitude": 23.654243
+    },
+    {
+      "name": "Δημοτικό Γήπεδο ΑΓΕΤ Χαραυγής",
+      "latitude": 37.949745,
+      "longitude": 23.614772
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Βελισσαρίου",
+      "latitude": 39.644979,
+      "longitude": 20.844625
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Βιλίων",
+      "latitude": 38.164195,
+      "longitude": 23.343114
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Βορεινού",
+      "latitude": 41.025198,
+      "longitude": 22.078289
+    },
+    {
+      "name": "Δημοτικό γήπεδο Δοξάς",
+      "latitude": 40.615242,
+      "longitude": 24.609368
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Ιθάκης",
+      "latitude": 38.364008,
+      "longitude": 20.723383
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Καλαθοσφαίρισης",
+      "latitude": 40.657889,
+      "longitude": 22.980717
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Καρλοβάσου",
+      "latitude": 37.792315,
+      "longitude": 26.698631
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Κερατσινίου Π. Σαλπέας",
+      "latitude": 37.967361,
+      "longitude": 23.607762
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Κλειτσού",
+      "latitude": 39.090792,
+      "longitude": 21.830798
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Κρυονερίου",
+      "latitude": 41.021068,
+      "longitude": 24.378738
+    },
+    {
+      "name": "Δημοτικό γήπεδο Κυψέλης (Αλεπότρυπα)",
+      "latitude": 38.007697,
+      "longitude": 23.741604
+    },
+    {
+      "name": "Δημοτικό γήπεδο Μεταμόρφωσης",
+      "latitude": 36.805508,
+      "longitude": 22.904977
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Μουριών",
+      "latitude": 41.250112,
+      "longitude": 22.797589
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Μπάσκετ",
+      "latitude": 39.361561,
+      "longitude": 21.93556
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Μπάσκετ",
+      "latitude": 40.775109,
+      "longitude": 22.15006
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Νίκαιας (Ιωνικός Νίκαιας)",
+      "latitude": 37.977154,
+      "longitude": 23.63499
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Νίκος Βλάκος",
+      "latitude": 37.059392,
+      "longitude": 25.481888
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Παχυκαλάμου",
+      "latitude": 39.087994,
+      "longitude": 20.996481
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Πεντάλοφου",
+      "latitude": 40.741465,
+      "longitude": 22.84675
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Ποδοσφαίρου",
+      "latitude": 37.760987,
+      "longitude": 26.971894
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Ποδοσφαίρου 5x5",
+      "latitude": 40.77554,
+      "longitude": 22.149959
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Ποδοσφαίρου Πάγου",
+      "latitude": 37.414641,
+      "longitude": 24.911065
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Ποδοσφαίρου Ραφήνας",
+      "latitude": 38.003348,
+      "longitude": 23.986607
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Πυλαίας \"Αντώνης Καραμπουρνιώτης\"",
+      "latitude": 40.604303,
+      "longitude": 22.990468
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Ράχης",
+      "latitude": 40.489152,
+      "longitude": 22.213906
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Σαγαίικων",
+      "latitude": 38.101257,
+      "longitude": 21.462952
+    },
+    {
+      "name": "Δημοτικό γήπεδο Σκεπαστής",
+      "latitude": 38.832837,
+      "longitude": 23.360167
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Σφαγείων",
+      "latitude": 37.025389,
+      "longitude": 22.0981
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Τέννις",
+      "latitude": 38.035649,
+      "longitude": 23.695167
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Τέννις",
+      "latitude": 39.117252,
+      "longitude": 22.310107
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Τρίγλιας",
+      "latitude": 40.308301,
+      "longitude": 23.202227
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Τσεπελόβου",
+      "latitude": 39.901266,
+      "longitude": 20.820169
+    },
+    {
+      "name": "Δημοτικό γήπεδο Φιλιππιάδας",
+      "latitude": 39.205015,
+      "longitude": 20.879945
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Φιλύρου",
+      "latitude": 40.684919,
+      "longitude": 23.010689
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Χιονάτου \"Χριστίνα Γιαζιτζίδου\"",
+      "latitude": 40.477881,
+      "longitude": 21.015987
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Γεώργιος Κασιμάτης",
+      "latitude": 37.9504,
+      "longitude": 23.620613
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Νίκαιας-Κορυδαλλού",
+      "latitude": 37.977838,
+      "longitude": 23.660099
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γυμναστήριο Δράμας «Δημήτρης Κραχτίδης»",
+      "latitude": 41.146031,
+      "longitude": 24.163679
+    },
+    {
+      "name": "Δημοτικό Στάδιο Έδεσσας",
+      "latitude": 40.802299,
+      "longitude": 22.052084
+    },
+    {
+      "name": "Δημοτικό Στάδιο Αιγίου",
+      "latitude": 38.252026,
+      "longitude": 22.072275
+    },
+    {
+      "name": "Δημοτικό Στάδιο Αλεξάνδρειας",
+      "latitude": 40.633212,
+      "longitude": 22.452216
+    },
+    {
+      "name": "Δημοτικό Στάδιο Αλμυρού",
+      "latitude": 39.184591,
+      "longitude": 22.771372
+    },
+    {
+      "name": "Δημοτικό Στάδιο Αμφιλοχίας",
+      "latitude": 38.850689,
+      "longitude": 21.163584
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ανθή Καραγιάννη",
+      "latitude": 40.947165,
+      "longitude": 24.436012
+    },
+    {
+      "name": "Δημοτικό στάδιο Ανωγείων",
+      "latitude": 35.288946,
+      "longitude": 24.884583
+    },
+    {
+      "name": "Δημοτικό Στάδιο Αξιούπολης",
+      "latitude": 40.986397,
+      "longitude": 22.549258
+    },
+    {
+      "name": "Δημοτικό Στάδιο Αργοστολίου",
+      "latitude": 38.167741,
+      "longitude": 20.498451
+    },
+    {
+      "name": "Δημοτικό Στάδιο Αυλώνος",
+      "latitude": 38.256379,
+      "longitude": 23.688404
+    },
+    {
+      "name": "Δημοτικό Στάδιο Γαστούνης",
+      "latitude": 37.847256,
+      "longitude": 21.259258
+    },
+    {
+      "name": "Δημοτικό Στάδιο Δομοκού \"Ιωάννης Γραβάνης\"",
+      "latitude": 39.11637,
+      "longitude": 22.309399
+    },
+    {
+      "name": "Δημοτικό Στάδιο Δράμας \"Αλέκος Φρούσιος\"",
+      "latitude": 41.157531,
+      "longitude": 24.139422
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ευηνοχωρίου",
+      "latitude": 38.359447,
+      "longitude": 21.53927
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ζακύνθου",
+      "latitude": 37.770912,
+      "longitude": 20.886714
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ζαχάρως",
+      "latitude": 37.487985,
+      "longitude": 21.631422
+    },
+    {
+      "name": "Δημοτικό Στάδιο Θήβας",
+      "latitude": 38.307469,
+      "longitude": 23.319591
+    },
+    {
+      "name": "Δημοτικό Στάδιο Καλαμάτας",
+      "latitude": 37.027171,
+      "longitude": 22.124361
+    },
+    {
+      "name": "Δημοτικό Στάδιο Καλαμπάκας",
+      "latitude": 39.700767,
+      "longitude": 21.612547
+    },
+    {
+      "name": "Δημοτικό Στάδιο Καμαρών",
+      "latitude": 38.299238,
+      "longitude": 22.003504
+    },
+    {
+      "name": "Δημοτικό Στάδιο Καρλοβάσου",
+      "latitude": 37.793007,
+      "longitude": 26.699025
+    },
+    {
+      "name": "Δημοτικό Στάδιο Καρπενησίου",
+      "latitude": 38.910366,
+      "longitude": 21.800522
+    },
+    {
+      "name": "Δημοτικό Στάδιο Καστοριάς",
+      "latitude": 40.530282,
+      "longitude": 21.258017
+    },
+    {
+      "name": "Δημοτικό Στάδιο Κεντρικών Τζουμέρκων",
+      "latitude": 39.348993,
+      "longitude": 21.180305
+    },
+    {
+      "name": "Δημοτικό Στάδιο Λαμίας",
+      "latitude": 38.909773,
+      "longitude": 22.430855
+    },
+    {
+      "name": "Δημοτικό Στάδιο Λευκάδας Πλάτωνας Γρηγόρης",
+      "latitude": 38.829224,
+      "longitude": 20.699133
+    },
+    {
+      "name": "Δημοτικό Στάδιο Λεχαινών",
+      "latitude": 37.943189,
+      "longitude": 21.258537
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ληξουρίου",
+      "latitude": 38.190075,
+      "longitude": 20.427072
+    },
+    {
+      "name": "Δημοτικό Στάδιο Λιβαδειάς \"Λάμπρος Κατσώνης\"",
+      "latitude": 38.436025,
+      "longitude": 22.883195
+    },
+    {
+      "name": "Δημοτικό Στάδιο Λιτοχώρου",
+      "latitude": 40.107636,
+      "longitude": 22.499063
+    },
+    {
+      "name": "Δημοτικό Στάδιο Μεγαρέων Ολυμπιονικών",
+      "latitude": 37.988788,
+      "longitude": 23.332565
+    },
+    {
+      "name": "Δημοτικό Στάδιο Μεσσήνης",
+      "latitude": 37.050087,
+      "longitude": 22.001868
+    },
+    {
+      "name": "Δημοτικό Στάδιο Μυτιλήνης",
+      "latitude": 39.097756,
+      "longitude": 26.553947
+    },
+    {
+      "name": "Δημοτικό Στάδιο Νάξου",
+      "latitude": 37.103643,
+      "longitude": 25.381314
+    },
+    {
+      "name": "Δημοτικό Στάδιο Νάουσας",
+      "latitude": 40.623857,
+      "longitude": 22.07356
+    },
+    {
+      "name": "Δημοτικό Στάδιο Νεμεας",
+      "latitude": 37.810569,
+      "longitude": 22.654334
+    },
+    {
+      "name": "Δημοτικό Στάδιο Νικήτης",
+      "latitude": 40.221187,
+      "longitude": 23.672919
+    },
+    {
+      "name": "Δημοτικό Στάδιο Πευκακίων",
+      "latitude": 37.442811,
+      "longitude": 24.938524
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ποδοσφαίρου Μεγάρων",
+      "latitude": 37.989992,
+      "longitude": 23.337282
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ποταμών",
+      "latitude": 41.390737,
+      "longitude": 24.098849
+    },
+    {
+      "name": "Δημοτικό Στάδιο Πρέβεζας \"Αθανασία Τζουμελέκα\"",
+      "latitude": 38.955355,
+      "longitude": 20.74732
+    },
+    {
+      "name": "Δημοτικό Στάδιο Πύργου",
+      "latitude": 37.679135,
+      "longitude": 21.428177
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ριζαρίου",
+      "latitude": 40.785489,
+      "longitude": 22.084834
+    },
+    {
+      "name": "Δημοτικό Στάδιο Σαλαμίνας",
+      "latitude": 37.958527,
+      "longitude": 23.497841
+    },
+    {
+      "name": "Δημοτικό Στάδιο Σκάλας",
+      "latitude": 36.846951,
+      "longitude": 22.662008
+    },
+    {
+      "name": "Δημοτικό Στάδιο Στυλίδας",
+      "latitude": 38.911742,
+      "longitude": 22.596487
+    },
+    {
+      "name": "Διαγόρας Κερκίνης",
+      "latitude": 41.214491,
+      "longitude": 23.08138
+    },
+    {
+      "name": "Εθνικό Στάδιο Βόνιτσας",
+      "latitude": 38.919442,
+      "longitude": 20.881079
+    },
+    {
+      "name": "Εθνικό Στάδιο Κέρκυρας",
+      "latitude": 39.611326,
+      "longitude": 19.915892
+    },
+    {
+      "name": "Εθνικό Στάδιο Σιδηροκάστρου",
+      "latitude": 41.231987,
+      "longitude": 23.388018
+    },
+    {
+      "name": "Εθνικός Γ.Σ. 1893",
+      "latitude": 37.968788,
+      "longitude": 23.736721
+    },
+    {
+      "name": "Ελασσόνα - Απογείωση",
+      "latitude": 39.895772,
+      "longitude": 22.148423
+    },
+    {
+      "name": "Ελληνόπυργος - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.409641,
+      "longitude": 21.730227
+    },
+    {
+      "name": "Ελπίς Βραστάμων",
+      "latitude": 40.375009,
+      "longitude": 23.537519
+    },
+    {
+      "name": "Εμπεσός - Απογείωση Αλεξιπτώτου Πλαγιάς \"Ιωακείμ Σκόνδρας\"",
+      "latitude": 39.003521,
+      "longitude": 21.330262
+    },
+    {
+      "name": "Ενωσιακό γήπεδο",
+      "latitude": 38.49063,
+      "longitude": 23.655517
+    },
+    {
+      "name": "Εξάνθεια - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.758134,
+      "longitude": 20.616238
+    },
+    {
+      "name": "Ευαγγελίστρια Arena",
+      "latitude": 40.634471,
+      "longitude": 22.963197
+    },
+    {
+      "name": "Θαύμα",
+      "latitude": 37.576477,
+      "longitude": 25.1678
+    },
+    {
+      "name": "Θύελλα Ελεούσας",
+      "latitude": 39.708971,
+      "longitude": 20.801446
+    },
+    {
+      "name": "Κέντρο Αντισφαίρισης Νέας Ερυθραίας",
+      "latitude": 38.099848,
+      "longitude": 23.813266
+    },
+    {
+      "name": "Κέχρος",
+      "latitude": 37.577137,
+      "longitude": 25.166576
+    },
+    {
+      "name": "Καλάβρυτα (Βόρεια) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.007993,
+      "longitude": 22.116659
+    },
+    {
+      "name": "Καλάβρυτα (Νότια) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.009263,
+      "longitude": 22.121699
+    },
+    {
+      "name": "Καλέντζι - Απογείωση",
+      "latitude": 37.944979,
+      "longitude": 21.766658
+    },
+    {
+      "name": "Καλαμίτσι - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.752501,
+      "longitude": 20.603656
+    },
+    {
+      "name": "Καλούσι - Απογείωση",
+      "latitude": 38.040585,
+      "longitude": 21.796584
+    },
+    {
+      "name": "Καλτσετο Δημοπουλου",
+      "latitude": 37.678685,
+      "longitude": 21.435607
+    },
+    {
+      "name": "Καλύβια - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.023739,
+      "longitude": 22.278018
+    },
+    {
+      "name": "Κανδήλι - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.064384,
+      "longitude": 23.375341
+    },
+    {
+      "name": "Καραβαγγέλιο Στάδιο Στύψης",
+      "latitude": 39.311572,
+      "longitude": 26.226583
+    },
+    {
+      "name": "Καραπαναγιώτειο Γήπεδο Μόριας",
+      "latitude": 39.13317,
+      "longitude": 26.5198
+    },
+    {
+      "name": "Καρπενήσι Βελούχι- Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.932653,
+      "longitude": 21.807467
+    },
+    {
+      "name": "Καρτμάνια",
+      "latitude": 38.1521,
+      "longitude": 21.678687
+    },
+    {
+      "name": "Καταμέρη",
+      "latitude": 37.576787,
+      "longitude": 25.167584
+    },
+    {
+      "name": "Κατσάνειο",
+      "latitude": 40.629369,
+      "longitude": 22.962935
+    },
+    {
+      "name": "Κεραίες Δεσφίνας - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.432834,
+      "longitude": 22.475695
+    },
+    {
+      "name": "Κερασιές - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.874163,
+      "longitude": 21.796926
+    },
+    {
+      "name": "Κερκυραϊκός Γυμναστικός Σύλλογος",
+      "latitude": 39.621778,
+      "longitude": 19.920633
+    },
+    {
+      "name": "Κιθαιρώνας Κορυφή - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.184403,
+      "longitude": 23.249484
+    },
+    {
+      "name": "ΚΙΣΣΟΣ",
+      "latitude": 40.609786,
+      "longitude": 23.101591
+    },
+    {
+      "name": "Κλείστο Γήπεδο Μπάντμιντον",
+      "latitude": 38.009916,
+      "longitude": 23.834817
+    },
+    {
+      "name": "ΚΛΕΙΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ",
+      "latitude": 38.97929,
+      "longitude": 20.741683
+    },
+    {
+      "name": "Κλειστο Κολυνδρού",
+      "latitude": 40.472109,
+      "longitude": 22.482741
+    },
+    {
+      "name": "Κλειστο Κουβελου",
+      "latitude": 37.674622,
+      "longitude": 21.452695
+    },
+    {
+      "name": "Κλειστο Μπασκετ Παπάγου",
+      "latitude": 37.988757,
+      "longitude": 23.786861
+    },
+    {
+      "name": "Κλειστό (Όνομα)",
+      "latitude": 35.193847,
+      "longitude": 26.102122
+    },
+    {
+      "name": "Κλειστό Αθλητικό Κέντρο Φίλιππος Αμοιρίδης",
+      "latitude": 41.130668,
+      "longitude": 24.890297
+    },
+    {
+      "name": "Κλειστό γήπεδο",
+      "latitude": 37.973363,
+      "longitude": 23.76315
+    },
+    {
+      "name": "Κλειστό Γήπεδο Μπάσκετ",
+      "latitude": 38.074555,
+      "longitude": 23.703668
+    },
+    {
+      "name": "Κλειστό Γήπεδο Μπάσκετ",
+      "latitude": 40.251111,
+      "longitude": 22.084846
+    },
+    {
+      "name": "Κλειστό Γήπεδο Νέου Ικονίου",
+      "latitude": 37.964151,
+      "longitude": 23.5966
+    },
+    {
+      "name": "Κλειστό γυμναστήριο",
+      "latitude": 38.065207,
+      "longitude": 23.79378
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 39.356218,
+      "longitude": 22.96833
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 40.108661,
+      "longitude": 22.498716
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 40.941887,
+      "longitude": 24.404755
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Άργους Ορεστικού",
+      "latitude": 40.459733,
+      "longitude": 21.259832
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αλμυρού",
+      "latitude": 39.186258,
+      "longitude": 22.771001
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Δροσούπολης",
+      "latitude": 38.08961,
+      "longitude": 23.710812
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Εύα Πετροχείλου",
+      "latitude": 37.964959,
+      "longitude": 23.497491
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Ιερισσού",
+      "latitude": 40.405361,
+      "longitude": 23.87258
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Κανήθου",
+      "latitude": 38.47046,
+      "longitude": 23.574316
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Καστοριάς",
+      "latitude": 40.531217,
+      "longitude": 21.258333
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Κρεμαστής",
+      "latitude": 36.40667,
+      "longitude": 28.120468
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Μπάσκετ",
+      "latitude": 38.498486,
+      "longitude": 22.979261
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Μπάσκετ-Βόλλευ Καπανδριτίου",
+      "latitude": 38.216085,
+      "longitude": 23.884482
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Ν.Τρίγλιας",
+      "latitude": 40.310763,
+      "longitude": 23.20293
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νήαρ Ηστ",
+      "latitude": 37.966667,
+      "longitude": 23.761758
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νίκος Ζερβός",
+      "latitude": 37.951935,
+      "longitude": 23.692201
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Ναυπλίου",
+      "latitude": 37.568148,
+      "longitude": 22.803688
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Πεύκης",
+      "latitude": 38.065438,
+      "longitude": 23.790954
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Πλάτωνας",
+      "latitude": 37.975398,
+      "longitude": 23.666274
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Πύργου \"Γ. Βασιλακόπουλος\"",
+      "latitude": 37.678359,
+      "longitude": 21.428722
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Σχολείου",
+      "latitude": 38.122281,
+      "longitude": 23.854497
+    },
+    {
+      "name": "Κλειστό Γυμναστηριο (Υπό Κατασκευή)",
+      "latitude": 38.028794,
+      "longitude": 21.361511
+    },
+    {
+      "name": "Κλειστό Δημοτικό Γυμναστήριο Βλαχιώτη",
+      "latitude": 36.860766,
+      "longitude": 22.701732
+    },
+    {
+      "name": "Κλειστό Δημοτικό Γυμναστήριο Καλαμαριάς",
+      "latitude": 40.582556,
+      "longitude": 22.946767
+    },
+    {
+      "name": "Κλειστό μπάσκετ Δημοτικού Σχολείου",
+      "latitude": 37.991041,
+      "longitude": 23.788161
+    },
+    {
+      "name": "Κλούβα",
+      "latitude": 37.923294,
+      "longitude": 23.739978
+    },
+    {
+      "name": "Κοινοτικό Γήπεδο Αγίου Γεωργίου",
+      "latitude": 40.715771,
+      "longitude": 23.705687
+    },
+    {
+      "name": "Κοινοτικό Γήπεδο Δόξας \"Νικόλαος Μητράκος\"",
+      "latitude": 37.70389,
+      "longitude": 21.921967
+    },
+    {
+      "name": "Κοινοτικό Στάδιο Ριζού",
+      "latitude": 40.730868,
+      "longitude": 22.134991
+    },
+    {
+      "name": "Κοινό γύπεδο μπάσκετ - βόλεϊ Γυμνασίου - Λυκείου",
+      "latitude": 38.004828,
+      "longitude": 23.852288
+    },
+    {
+      "name": "Κοντόγιαλος - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.583521,
+      "longitude": 19.824681
+    },
+    {
+      "name": "Κορύλοβος (Ανατολικά) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 41.169239,
+      "longitude": 24.173651
+    },
+    {
+      "name": "Κορύλοβος (Νοτια) - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 41.166141,
+      "longitude": 24.166318
+    },
+    {
+      "name": "Λαύρα",
+      "latitude": 37.914959,
+      "longitude": 23.756117
+    },
+    {
+      "name": "Λιγκιάδες - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.692065,
+      "longitude": 20.910963
+    },
+    {
+      "name": "Λουμίδειο Δημοτικό γήπεδο Καρύστου",
+      "latitude": 38.018318,
+      "longitude": 24.414256
+    },
+    {
+      "name": "Λύκεια Τήνου",
+      "latitude": 37.539205,
+      "longitude": 25.167956
+    },
+    {
+      "name": "Μέγα Γρεμό - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.729989,
+      "longitude": 19.866069
+    },
+    {
+      "name": "Μέγας Αλέξανδρος",
+      "latitude": 41.070924,
+      "longitude": 24.240896
+    },
+    {
+      "name": "Μέγας Αλέξανδρος (Καμινίκια)",
+      "latitude": 40.59608,
+      "longitude": 22.950859
+    },
+    {
+      "name": "ΜΊνι Γήπεδο",
+      "latitude": 37.924377,
+      "longitude": 23.760195
+    },
+    {
+      "name": "Μαρακανάς",
+      "latitude": 36.878411,
+      "longitude": 21.764539
+    },
+    {
+      "name": "Μαργαρίτι - Απογείωση",
+      "latitude": 39.374628,
+      "longitude": 20.44065
+    },
+    {
+      "name": "Μελίνα Μερκούρη",
+      "latitude": 38.456307,
+      "longitude": 23.604932
+    },
+    {
+      "name": "ΜΕΡΚΟΥΡΕΙΟ ΣΤΑΔΙΟ",
+      "latitude": 37.66267,
+      "longitude": 21.321669
+    },
+    {
+      "name": "Μετέωρα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.70978,
+      "longitude": 21.636757
+    },
+    {
+      "name": "Μικρό γήπεδο για μπάσκετ",
+      "latitude": 40.648463,
+      "longitude": 22.954302
+    },
+    {
+      "name": "Μιλτιάδη Παπαντωνάκη",
+      "latitude": 37.154717,
+      "longitude": 26.854509
+    },
+    {
+      "name": "Μιτσικέλι - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.717029,
+      "longitude": 20.896051
+    },
+    {
+      "name": "Μονή Περίβλεπτου - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.766261,
+      "longitude": 20.794057
+    },
+    {
+      "name": "Μοντελοδρόμιο Ερμής",
+      "latitude": 38.168922,
+      "longitude": 23.947313
+    },
+    {
+      "name": "Μουζάκι - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.425917,
+      "longitude": 21.635829
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.52277,
+      "longitude": 22.86151
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.983599,
+      "longitude": 23.775308
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.983621,
+      "longitude": 23.776075
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.991192,
+      "longitude": 23.779857
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.992223,
+      "longitude": 23.791135
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.995444,
+      "longitude": 23.78759
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.997845,
+      "longitude": 23.776067
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.998175,
+      "longitude": 23.779003
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.998721,
+      "longitude": 23.778465
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 37.99945,
+      "longitude": 23.778712
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 38.003404,
+      "longitude": 23.78887
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 38.234271,
+      "longitude": 22.141476
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 38.239641,
+      "longitude": 22.093735
+    },
+    {
+      "name": "Μπάσκετ",
+      "latitude": 40.003616,
+      "longitude": 20.884624
+    },
+    {
+      "name": "Μπάσκετ Αγίου Προκοπίου",
+      "latitude": 39.572603,
+      "longitude": 19.874686
+    },
+    {
+      "name": "μπιτς-βόλεϊ",
+      "latitude": 35.473229,
+      "longitude": 27.112486
+    },
+    {
+      "name": "Μόντε Σμιθ - Απογείωση",
+      "latitude": 36.432002,
+      "longitude": 28.205193
+    },
+    {
+      "name": "Μύρτος - Απογείωση",
+      "latitude": 38.341451,
+      "longitude": 20.542478
+    },
+    {
+      "name": "Νέο Κλειστό Γυμναστήριο Ιωαννίνων",
+      "latitude": 39.621803,
+      "longitude": 20.866767
+    },
+    {
+      "name": "ΝΕΟ ΣΤΑΔΙΟ ΑΝΤΑΓΟΡΑ",
+      "latitude": 36.883275,
+      "longitude": 27.305814
+    },
+    {
+      "name": "ΝιεσΚου",
+      "latitude": 37.965027,
+      "longitude": 23.769283
+    },
+    {
+      "name": "Ντιντής Βασίλης",
+      "latitude": 39.588535,
+      "longitude": 21.687237
+    },
+    {
+      "name": "Νυμφαίο - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.640271,
+      "longitude": 21.496889
+    },
+    {
+      "name": "Ξυλινη Μπασκετα",
+      "latitude": 41.271295,
+      "longitude": 26.385108
+    },
+    {
+      "name": "Ο.Α Αχιλλέας Κάτω Αχαρνών",
+      "latitude": 38.05142,
+      "longitude": 23.735824
+    },
+    {
+      "name": "Ο.Α.Α.Ι.",
+      "latitude": 35.31323,
+      "longitude": 25.153656
+    },
+    {
+      "name": "Οδυσσέας Κορδελιού",
+      "latitude": 40.670929,
+      "longitude": 22.891938
+    },
+    {
+      "name": "Ολυμπιακός Βάρης",
+      "latitude": 37.837191,
+      "longitude": 23.806049
+    },
+    {
+      "name": "Ολυμπιακός Λαυρίου",
+      "latitude": 37.708979,
+      "longitude": 24.0521
+    },
+    {
+      "name": "ΟΜΙΛΟΣ ΑΝΤΙΣΦΑΙΡΙΣΗΣ ΜΑΓΝΗΣΙΑΣ",
+      "latitude": 39.371366,
+      "longitude": 22.953238
+    },
+    {
+      "name": "Ομπλός - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.178963,
+      "longitude": 21.766974
+    },
+    {
+      "name": "Οχυρό",
+      "latitude": 37.576913,
+      "longitude": 25.167261
+    },
+    {
+      "name": "Πάργα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.30073,
+      "longitude": 20.389656
+    },
+    {
+      "name": "Πίστα moto cross",
+      "latitude": 41.151582,
+      "longitude": 25.418176
+    },
+    {
+      "name": "Πίστα Moto Cross Κονίστρων",
+      "latitude": 38.558554,
+      "longitude": 24.058884
+    },
+    {
+      "name": "Πίστα Moto Cross Σπερχειάδας",
+      "latitude": 38.883277,
+      "longitude": 22.117
+    },
+    {
+      "name": "Πίστα motocross",
+      "latitude": 37.428814,
+      "longitude": 22.10448
+    },
+    {
+      "name": "Πίστα Motocross Χαλκίδας",
+      "latitude": 38.486044,
+      "longitude": 23.672014
+    },
+    {
+      "name": "Πίστα Καρτ Καλαμάτας San Nicolas",
+      "latitude": 37.024072,
+      "longitude": 22.028704
+    },
+    {
+      "name": "Πίστα Παρκούρ",
+      "latitude": 39.553212,
+      "longitude": 21.775324
+    },
+    {
+      "name": "Παλαιοκαρυά - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.618531,
+      "longitude": 21.563546
+    },
+    {
+      "name": "Παλαιοκαρυά Υψηλή - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.643005,
+      "longitude": 21.570967
+    },
+    {
+      "name": "Παλαιό Γήπεδο Α.Π.Σ. Εράνη",
+      "latitude": 37.157577,
+      "longitude": 21.58066
+    },
+    {
+      "name": "Παλαιό Κλειστό Γυμναστήριο Ορεστιάδας",
+      "latitude": 41.49794,
+      "longitude": 26.520778
+    },
+    {
+      "name": "Παλιό γήπεδο (εγκαταλειμμένο)",
+      "latitude": 37.721747,
+      "longitude": 24.053606
+    },
+    {
+      "name": "Παλιό Γήπεδο Βόλεϊ Λυκείου-Γυμνασίου",
+      "latitude": 40.830822,
+      "longitude": 24.025513
+    },
+    {
+      "name": "Παλιό ΔΑΚ Πολίχνης",
+      "latitude": 40.66604,
+      "longitude": 22.9544
+    },
+    {
+      "name": "Παναγία (Κεφαλάρι) - Απογείωση",
+      "latitude": 41.053306,
+      "longitude": 24.286644
+    },
+    {
+      "name": "ΠαναχαΙκό 1100μ - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.225097,
+      "longitude": 21.831105
+    },
+    {
+      "name": "Πανελλήνιος Καρδίτσας",
+      "latitude": 39.366407,
+      "longitude": 21.961469
+    },
+    {
+      "name": "Παξιμαδοκλέφτρα",
+      "latitude": 37.576697,
+      "longitude": 25.167386
+    },
+    {
+      "name": "ΠΑΟ Γουβών",
+      "latitude": 35.334211,
+      "longitude": 25.326606
+    },
+    {
+      "name": "Παο Ερμής Άνω Λιοσίων",
+      "latitude": 38.096077,
+      "longitude": 23.700213
+    },
+    {
+      "name": "Παπαδόπουλος Σ. Νικ",
+      "latitude": 41.276342,
+      "longitude": 22.898812
+    },
+    {
+      "name": "Παραβόλα - Απογείωση",
+      "latitude": 38.632199,
+      "longitude": 21.525073
+    },
+    {
+      "name": "Παραμυθιά - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.458208,
+      "longitude": 20.548169
+    },
+    {
+      "name": "Παρνασσός",
+      "latitude": 38.483103,
+      "longitude": 22.574241
+    },
+    {
+      "name": "Πατινάζ",
+      "latitude": 37.997561,
+      "longitude": 23.677203
+    },
+    {
+      "name": "Πατινάζ πάρκου σιδηροδρόμων",
+      "latitude": 37.029796,
+      "longitude": 22.110065
+    },
+    {
+      "name": "ΠΓΠΣ Αχιλλέας Πέτρας",
+      "latitude": 39.330481,
+      "longitude": 26.179271
+    },
+    {
+      "name": "Περίβλεπτος - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.77174,
+      "longitude": 20.795936
+    },
+    {
+      "name": "Περαία - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.753262,
+      "longitude": 21.82968
+    },
+    {
+      "name": "Πετροχώρι - Απογείωση",
+      "latitude": 38.545223,
+      "longitude": 21.646031
+    },
+    {
+      "name": "Πηγές",
+      "latitude": 41.073727,
+      "longitude": 24.264451
+    },
+    {
+      "name": "ΠΟΔΟΣΦΑΙΡΙΚΟ ΓΗΠΕΔΟ \"Γ. ΡΟΥΜΕΛΙΩΤΗΣ\"",
+      "latitude": 38.037751,
+      "longitude": 23.549311
+    },
+    {
+      "name": "Ποδόσφαιρο",
+      "latitude": 37.983056,
+      "longitude": 23.775183
+    },
+    {
+      "name": "Πολυκλαδικό γύπεδο",
+      "latitude": 37.921758,
+      "longitude": 23.745112
+    },
+    {
+      "name": "Πούντα Διακοπτό - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.163942,
+      "longitude": 22.216746
+    },
+    {
+      "name": "Προπονητικοί τοίχοι αντισφαίρισης",
+      "latitude": 38.047731,
+      "longitude": 23.743799
+    },
+    {
+      "name": "Προφήτης - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.486707,
+      "longitude": 23.172424
+    },
+    {
+      "name": "Πρόμαχοι - Απογείωση",
+      "latitude": 41.039176,
+      "longitude": 21.984938
+    },
+    {
+      "name": "Πύργοι - Απογείωση",
+      "latitude": 41.224787,
+      "longitude": 23.991476
+    },
+    {
+      "name": "Ράμπα Σκέιτμπορντ",
+      "latitude": 38.007708,
+      "longitude": 23.834327
+    },
+    {
+      "name": "Ρέστειο ΑΟΠΦ",
+      "latitude": 37.934612,
+      "longitude": 23.690952
+    },
+    {
+      "name": "Ρέτσινα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.432872,
+      "longitude": 21.401995
+    },
+    {
+      "name": "Σέρβια - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.170888,
+      "longitude": 22.032373
+    },
+    {
+      "name": "Σίσι - Απογείωση",
+      "latitude": 35.316734,
+      "longitude": 25.539037
+    },
+    {
+      "name": "Σαντομέρι - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 37.978256,
+      "longitude": 21.572932
+    },
+    {
+      "name": "Σαρακήνος - Απογείωση",
+      "latitude": 39.398296,
+      "longitude": 22.95508
+    },
+    {
+      "name": "Σαϊδόνα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 36.882636,
+      "longitude": 22.289879
+    },
+    {
+      "name": "Σαϊνοπούλειο Γήπεδο",
+      "latitude": 37.083986,
+      "longitude": 22.3911
+    },
+    {
+      "name": "ΣΕΓΑΣ",
+      "latitude": 38.147088,
+      "longitude": 23.712268
+    },
+    {
+      "name": "Σκιαδάς - Απογείωση",
+      "latitude": 37.874085,
+      "longitude": 21.697921
+    },
+    {
+      "name": "Σκοπευτήριο",
+      "latitude": 40.271706,
+      "longitude": 22.487459
+    },
+    {
+      "name": "Σκοπευτήριο ASAX EVRIPOS",
+      "latitude": 38.471218,
+      "longitude": 23.699377
+    },
+    {
+      "name": "Σκοπευτήριο ΑΣΟΛ",
+      "latitude": 39.551759,
+      "longitude": 22.443252
+    },
+    {
+      "name": "Σκοπευτήριο Κορίνθου",
+      "latitude": 37.920295,
+      "longitude": 22.948161
+    },
+    {
+      "name": "Σκοπευτήριο Κυνηγετικού Συλλόγου Βόλου",
+      "latitude": 39.280248,
+      "longitude": 22.780375
+    },
+    {
+      "name": "Σκοπευτήριο Λάρισας",
+      "latitude": 39.497068,
+      "longitude": 22.268728
+    },
+    {
+      "name": "Σκοπευτήριο Λευκώνα",
+      "latitude": 41.114857,
+      "longitude": 23.505333
+    },
+    {
+      "name": "Σκοπευτήριο Πάρνηθας",
+      "latitude": 38.099385,
+      "longitude": 23.712858
+    },
+    {
+      "name": "Σκοπευτηριο Σ.Α.Σ.ΝΑΥΠΑΚΤΟΥ",
+      "latitude": 38.463166,
+      "longitude": 21.730021
+    },
+    {
+      "name": "Σπύρος Γιαννακόπουλος",
+      "latitude": 37.909343,
+      "longitude": 23.740086
+    },
+    {
+      "name": "Στάδιο \"Μακεδονικός\"",
+      "latitude": 40.73032,
+      "longitude": 22.695409
+    },
+    {
+      "name": "Στάδιο \"Ολυμπιονίκης Ελ. Κόνσολας\"",
+      "latitude": 37.962514,
+      "longitude": 23.495596
+    },
+    {
+      "name": "Στάδιο Αμαλιάδας",
+      "latitude": 37.799114,
+      "longitude": 21.359419
+    },
+    {
+      "name": "Στάδιο Δημήτριος Δημητρίου",
+      "latitude": 37.967391,
+      "longitude": 23.90501
+    },
+    {
+      "name": "Στάδιο Κλεάνθης Βικελίδης",
+      "latitude": 40.60007,
+      "longitude": 22.969376
+    },
+    {
+      "name": "Στάδιο Μαραθώνα",
+      "latitude": 38.151171,
+      "longitude": 23.961073
+    },
+    {
+      "name": "Στάδιο Μαρακανά",
+      "latitude": 41.030993,
+      "longitude": 22.045275
+    },
+    {
+      "name": "Στάδιο Μεγαλόπολης",
+      "latitude": 37.39812,
+      "longitude": 22.141169
+    },
+    {
+      "name": "Στάδιο Νέας Μάκρης",
+      "latitude": 38.093251,
+      "longitude": 23.97171
+    },
+    {
+      "name": "Στάδιο ποδοσφαίρου Μετεώρων",
+      "latitude": 40.664691,
+      "longitude": 22.960972
+    },
+    {
+      "name": "Στάδιο Πολυγύρου",
+      "latitude": 40.383221,
+      "longitude": 23.439094
+    },
+    {
+      "name": "Στάδιο Ποντοηράκλειας - ομάδας Κεραυνός",
+      "latitude": 41.100144,
+      "longitude": 22.625057
+    },
+    {
+      "name": "Στάδιο Σπερχειάδας",
+      "latitude": 38.906459,
+      "longitude": 22.119582
+    },
+    {
+      "name": "Στάδιο Σπύρος Γιαλαμπίδης",
+      "latitude": 37.968654,
+      "longitude": 23.688498
+    },
+    {
+      "name": "Στάδιο Τυρνάβου",
+      "latitude": 39.734884,
+      "longitude": 22.289476
+    },
+    {
+      "name": "Στίβος",
+      "latitude": 37.98936,
+      "longitude": 23.786669
+    },
+    {
+      "name": "ΣΤΑΔΙΟ ΑΤΑΛΑΝΤΗΣ",
+      "latitude": 38.660103,
+      "longitude": 23.006092
+    },
+    {
+      "name": "Σταυρός Αράχωβας - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.492962,
+      "longitude": 22.551023
+    },
+    {
+      "name": "Στράνωμα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.550698,
+      "longitude": 21.76447
+    },
+    {
+      "name": "Στρατιωτικό γήπεδο",
+      "latitude": 40.294615,
+      "longitude": 21.780876
+    },
+    {
+      "name": "Συκούριο - Απογείωση",
+      "latitude": 39.791661,
+      "longitude": 22.611674
+    },
+    {
+      "name": "Σχολή Ποδοσφαίρου Παναθηναϊκού",
+      "latitude": 38.060424,
+      "longitude": 23.792153
+    },
+    {
+      "name": "Σωτήρης Αγγελόπουλος",
+      "latitude": 37.934033,
+      "longitude": 23.691463
+    },
+    {
+      "name": "Τάμα",
+      "latitude": 37.577307,
+      "longitude": 25.166191
+    },
+    {
+      "name": "Τέννις",
+      "latitude": 37.984129,
+      "longitude": 23.781203
+    },
+    {
+      "name": "Τέννις",
+      "latitude": 37.990995,
+      "longitude": 23.779275
+    },
+    {
+      "name": "Τέννις",
+      "latitude": 37.991098,
+      "longitude": 23.780966
+    },
+    {
+      "name": "Τέννις",
+      "latitude": 37.999561,
+      "longitude": 23.779548
+    },
+    {
+      "name": "Τέννις",
+      "latitude": 38.000015,
+      "longitude": 23.774605
+    },
+    {
+      "name": "Τέννις",
+      "latitude": 38.00645,
+      "longitude": 23.779454
+    },
+    {
+      "name": "ΤΕΝΙΣ",
+      "latitude": 38.119937,
+      "longitude": 23.775895
+    },
+    {
+      "name": "Τοίχος πρπόνησης",
+      "latitude": 37.993027,
+      "longitude": 23.794694
+    },
+    {
+      "name": "Τοξότες - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 41.117038,
+      "longitude": 24.749986
+    },
+    {
+      "name": "Τρίτωνας",
+      "latitude": 38.006417,
+      "longitude": 23.717306
+    },
+    {
+      "name": "Τρουμπέτας - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.709275,
+      "longitude": 19.750529
+    },
+    {
+      "name": "Φαλάσαρνα - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 35.482856,
+      "longitude": 23.593818
+    },
+    {
+      "name": "ΦΙΛΙΝΟΣ",
+      "latitude": 36.88308,
+      "longitude": 27.243379
+    },
+    {
+      "name": "Χάρη Πάτση",
+      "latitude": 38.119811,
+      "longitude": 23.834559
+    },
+    {
+      "name": "Χαλανδρίτσα - Απογείωση",
+      "latitude": 38.138058,
+      "longitude": 21.781981
+    },
+    {
+      "name": "Χαλκιά-Αναστασιάδη",
+      "latitude": 38.466384,
+      "longitude": 23.611352
+    },
+    {
+      "name": "Χανόπουλο - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 39.202468,
+      "longitude": 20.948034
+    },
+    {
+      "name": "Χιονοχώρι - Απογείωση",
+      "latitude": 41.122529,
+      "longitude": 23.646963
+    },
+    {
+      "name": "Χριστοφίδειον",
+      "latitude": 39.085751,
+      "longitude": 26.371898
+    },
+    {
+      "name": "Χωμάτινο",
+      "latitude": 37.963929,
+      "longitude": 23.761865
+    },
+    {
+      "name": "ΧΩΡΟΣ ΑΘΛΗΤΙΣΜΟΥ (ΜΕΛΛΟΝΤΙΚΑ)",
+      "latitude": 38.964088,
+      "longitude": 20.748318
+    },
+    {
+      "name": "Χώρος Απογείωσης Αεραθλημάτων Κόνιτσας",
+      "latitude": 40.060985,
+      "longitude": 20.757643
+    },
+    {
+      "name": "Χώρος για μπάσκετ",
+      "latitude": 40.657258,
+      "longitude": 22.90956
+    },
+    {
+      "name": "Χώρος για πετοσφαίριση",
+      "latitude": 40.65712,
+      "longitude": 22.909376
+    },
+    {
+      "name": "Χώρος Επίδειξης Αλόγων",
+      "latitude": 38.433911,
+      "longitude": 21.353375
+    },
+    {
+      "name": "Χώρος Προσγείωσης Αλεξίπτωτων Πλαγιάς",
+      "latitude": 38.189963,
+      "longitude": 21.767081
+    },
+    {
+      "name": "Χώρος Τοξοβολίας",
+      "latitude": 38.04199,
+      "longitude": 23.784294
+    },
+    {
+      "name": "Ψυγείο",
+      "latitude": 37.577765,
+      "longitude": 25.166308
+    },
+    {
+      "name": "Όλυμπος ΚΕΟΑΧ - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 40.029635,
+      "longitude": 22.308062
+    },
+    {
+      "name": "Όμιλος Αντισφαίρισης Θεσπρωτίας «Τιτάνη»",
+      "latitude": 39.509825,
+      "longitude": 20.259418
+    },
+    {
+      "name": "Όμιλος Αντισφαίρισης Κερατσινίου",
+      "latitude": 37.966343,
+      "longitude": 23.61179
+    },
+    {
+      "name": "Όμιλος Επιτραπέζιας Αντισφαίρισης Θεσσαλονίκησ",
+      "latitude": 40.731935,
+      "longitude": 22.914977
+    },
+    {
+      "name": "Ύπατο - Απογείωση Αλεξιπτώτου Πλαγιάς",
+      "latitude": 38.401782,
+      "longitude": 23.401361
+    }
+  ],
+  "meta": {
+    "title": "Γήπεδα στην Ελλάδα - Δωρεάν λήψη",
+    "description": "Αθλητικά γήπεδα στην Ελλάδα από δεδομένα OpenStreetMap (leisure=pitch). Διακριτό από el-athlitika-kentra. Όνομα και συντεταγμένες WGS84. Περιέχει 1280 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Γήπεδα στην Ελλάδα | ListBase",
+    "seo_description": "Λήψη Γήπεδα στην Ελλάδα — 1280 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1280 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

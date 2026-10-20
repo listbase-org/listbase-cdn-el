@@ -1,0 +1,3056 @@
+{
+  "id": "el-athlitika-kentra",
+  "name": "Αθλητικά κέντρα Ελλάδας",
+  "title": "Αθλητικά κέντρα Ελλάδας",
+  "description": "Αθλητικά κέντρα σε όλη την Ελλάδα από το OpenStreetMap. Sports centres across Greece.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 603,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Νίκη\" Προαστίου",
+      "latitude": 38.282791,
+      "longitude": 21.782997
+    },
+    {
+      "name": "'Ομιλος αντισφαίρισης Παπάγου",
+      "latitude": 37.983908,
+      "longitude": 23.802495
+    },
+    {
+      "name": "1ο Αθλητικό Κέντρο Γέρακα",
+      "latitude": 38.018492,
+      "longitude": 23.859545
+    },
+    {
+      "name": "1ο Δημοτικό Κλειστό Γυμναστήριο Αχαρνών",
+      "latitude": 38.079814,
+      "longitude": 23.730531
+    },
+    {
+      "name": "2ο Κλειστό Γυμναστήριο Μοσχάτου",
+      "latitude": 37.943911,
+      "longitude": 23.682209
+    },
+    {
+      "name": "5 x 5",
+      "latitude": 38.255387,
+      "longitude": 22.094565
+    },
+    {
+      "name": "5 X 5 - Σπανός",
+      "latitude": 39.139348,
+      "longitude": 26.528663
+    },
+    {
+      "name": "5X5",
+      "latitude": 37.406465,
+      "longitude": 24.967612
+    },
+    {
+      "name": "60ο Αθλητικό Κέντρο",
+      "latitude": 37.957246,
+      "longitude": 23.721726
+    },
+    {
+      "name": "A Sports",
+      "latitude": 37.421678,
+      "longitude": 24.879065
+    },
+    {
+      "name": "Academica Sports Center",
+      "latitude": 40.698738,
+      "longitude": 22.903957
+    },
+    {
+      "name": "AEK Spata",
+      "latitude": 37.956488,
+      "longitude": 23.928645
+    },
+    {
+      "name": "Agrinio Tennis Club",
+      "latitude": 38.623201,
+      "longitude": 21.388647
+    },
+    {
+      "name": "All Around Fun Sports & Social Park",
+      "latitude": 38.899381,
+      "longitude": 22.49711
+    },
+    {
+      "name": "All Star Sports Club",
+      "latitude": 40.629093,
+      "longitude": 22.96437
+    },
+    {
+      "name": "Amazones",
+      "latitude": 37.845071,
+      "longitude": 23.821348
+    },
+    {
+      "name": "Anima Club",
+      "latitude": 37.740559,
+      "longitude": 23.92122
+    },
+    {
+      "name": "Arcadia",
+      "latitude": 37.329037,
+      "longitude": 22.806088
+    },
+    {
+      "name": "ARENA Sports club",
+      "latitude": 37.510579,
+      "longitude": 22.384468
+    },
+    {
+      "name": "Argonautes",
+      "latitude": 35.34221,
+      "longitude": 25.152859
+    },
+    {
+      "name": "Argos Motocross Park",
+      "latitude": 37.752695,
+      "longitude": 22.707954
+    },
+    {
+      "name": "Asterias Swim Academy",
+      "latitude": 39.680194,
+      "longitude": 20.795528
+    },
+    {
+      "name": "ATC Athlisis Tennis Club",
+      "latitude": 37.613766,
+      "longitude": 22.755717
+    },
+    {
+      "name": "Athletic Park",
+      "latitude": 40.566973,
+      "longitude": 22.980336
+    },
+    {
+      "name": "Athlos",
+      "latitude": 40.665774,
+      "longitude": 22.898927
+    },
+    {
+      "name": "ATP bank",
+      "latitude": 40.572084,
+      "longitude": 22.959694
+    },
+    {
+      "name": "Balla d'oro",
+      "latitude": 40.815718,
+      "longitude": 21.427774
+    },
+    {
+      "name": "Baraze",
+      "latitude": 39.645715,
+      "longitude": 22.437917
+    },
+    {
+      "name": "BLUE LAGOON",
+      "latitude": 36.783915,
+      "longitude": 27.141299
+    },
+    {
+      "name": "Body House",
+      "latitude": 37.670967,
+      "longitude": 21.418441
+    },
+    {
+      "name": "Brazilian Jiu Jitsu",
+      "latitude": 40.26764,
+      "longitude": 22.521835
+    },
+    {
+      "name": "BreakPoint Tennis School",
+      "latitude": 40.548406,
+      "longitude": 22.985966
+    },
+    {
+      "name": "Calcetto Club",
+      "latitude": 38.94281,
+      "longitude": 23.148135
+    },
+    {
+      "name": "Circuit27",
+      "latitude": 40.424014,
+      "longitude": 23.063488
+    },
+    {
+      "name": "Collective Tennis School",
+      "latitude": 40.563604,
+      "longitude": 22.987049
+    },
+    {
+      "name": "Dammnoni Watersports Center",
+      "latitude": 35.174659,
+      "longitude": 24.412674
+    },
+    {
+      "name": "DEKA Academies",
+      "latitude": 40.679873,
+      "longitude": 22.927919
+    },
+    {
+      "name": "EAK Σταυρούπολης",
+      "latitude": 40.662464,
+      "longitude": 22.933604
+    },
+    {
+      "name": "Egalite Tennis Club",
+      "latitude": 39.382849,
+      "longitude": 22.930626
+    },
+    {
+      "name": "Elite",
+      "latitude": 41.150547,
+      "longitude": 24.150584
+    },
+    {
+      "name": "Emileon",
+      "latitude": 38.601635,
+      "longitude": 21.375317
+    },
+    {
+      "name": "Energym",
+      "latitude": 40.608248,
+      "longitude": 22.984124
+    },
+    {
+      "name": "Epirus Sport & Health Center",
+      "latitude": 39.630554,
+      "longitude": 20.844379
+    },
+    {
+      "name": "Extreme Kart Larissa",
+      "latitude": 39.585576,
+      "longitude": 22.363175
+    },
+    {
+      "name": "Fafalion",
+      "latitude": 38.403298,
+      "longitude": 26.121969
+    },
+    {
+      "name": "Fair Play",
+      "latitude": 38.009605,
+      "longitude": 23.871769
+    },
+    {
+      "name": "Family Sports Club",
+      "latitude": 37.615667,
+      "longitude": 22.727261
+    },
+    {
+      "name": "Famlily Sports Club",
+      "latitude": 38.042754,
+      "longitude": 23.840693
+    },
+    {
+      "name": "FILIA TENNIS CLUB",
+      "latitude": 35.34319,
+      "longitude": 25.166342
+    },
+    {
+      "name": "Fitness Palace",
+      "latitude": 36.449068,
+      "longitude": 28.217071
+    },
+    {
+      "name": "Fitness Sun Beach Resort",
+      "latitude": 36.422982,
+      "longitude": 28.152719
+    },
+    {
+      "name": "FlaminGokite",
+      "latitude": 39.918469,
+      "longitude": 25.382849
+    },
+    {
+      "name": "Flisvos Sportclub Center",
+      "latitude": 37.095713,
+      "longitude": 25.374834
+    },
+    {
+      "name": "Flisvos surf center",
+      "latitude": 37.09305,
+      "longitude": 25.373356
+    },
+    {
+      "name": "Fous De Foot",
+      "latitude": 37.830014,
+      "longitude": 23.814209
+    },
+    {
+      "name": "Frosch Windsurfing",
+      "latitude": 39.432025,
+      "longitude": 19.930012
+    },
+    {
+      "name": "Georgiani Gymnasium",
+      "latitude": 40.963949,
+      "longitude": 24.148601
+    },
+    {
+      "name": "Global-X Gym",
+      "latitude": 37.438544,
+      "longitude": 24.93666
+    },
+    {
+      "name": "go kart",
+      "latitude": 40.74859,
+      "longitude": 23.105927
+    },
+    {
+      "name": "Go Kart Center",
+      "latitude": 40.553069,
+      "longitude": 22.987185
+    },
+    {
+      "name": "Go Kart Paralia Katerinis",
+      "latitude": 40.257489,
+      "longitude": 22.591783
+    },
+    {
+      "name": "Go-kart Memphis",
+      "latitude": 37.591821,
+      "longitude": 22.787011
+    },
+    {
+      "name": "Gym",
+      "latitude": 36.897533,
+      "longitude": 27.246197
+    },
+    {
+      "name": "Gym Tonic",
+      "latitude": 40.678094,
+      "longitude": 22.916374
+    },
+    {
+      "name": "Hallenbad",
+      "latitude": 35.335472,
+      "longitude": 25.356574
+    },
+    {
+      "name": "Icon Larissa",
+      "latitude": 39.619928,
+      "longitude": 22.442843
+    },
+    {
+      "name": "Ikmada Taekwondo",
+      "latitude": 40.516285,
+      "longitude": 21.252936
+    },
+    {
+      "name": "Indoor Gymnasium K. Gkatsioudis",
+      "latitude": 41.35333,
+      "longitude": 26.494859
+    },
+    {
+      "name": "Indoor Sports Hall",
+      "latitude": 41.352885,
+      "longitude": 26.499863
+    },
+    {
+      "name": "Infinity Pool",
+      "latitude": 35.322862,
+      "longitude": 25.389087
+    },
+    {
+      "name": "ITF Ραφήνα Α.Σ. Ακρόπολη",
+      "latitude": 38.021291,
+      "longitude": 24.006552
+    },
+    {
+      "name": "Joga Bonito Sports Club",
+      "latitude": 40.532801,
+      "longitude": 22.995821
+    },
+    {
+      "name": "Karate Wado-Ryu",
+      "latitude": 37.793556,
+      "longitude": 21.350706
+    },
+    {
+      "name": "Karavi",
+      "latitude": 38.133762,
+      "longitude": 24.012945
+    },
+    {
+      "name": "Kavouri Tennis Club",
+      "latitude": 37.817794,
+      "longitude": 23.770442
+    },
+    {
+      "name": "Kicks Academy",
+      "latitude": 37.978291,
+      "longitude": 23.931708
+    },
+    {
+      "name": "Kite Club Corfu",
+      "latitude": 39.446977,
+      "longitude": 19.888295
+    },
+    {
+      "name": "Korinthos Bowling Center",
+      "latitude": 37.938342,
+      "longitude": 22.936268
+    },
+    {
+      "name": "La Bandeja",
+      "latitude": 40.575185,
+      "longitude": 22.975157
+    },
+    {
+      "name": "Lardos Go Kart",
+      "latitude": 36.084899,
+      "longitude": 28.01548
+    },
+    {
+      "name": "Larissa Sports Center",
+      "latitude": 39.629025,
+      "longitude": 22.342211
+    },
+    {
+      "name": "Les Raquettes Tennis Club",
+      "latitude": 40.556364,
+      "longitude": 23.007145
+    },
+    {
+      "name": "Lobs Sports Club",
+      "latitude": 40.553535,
+      "longitude": 22.991508
+    },
+    {
+      "name": "Loubier Tennis Club",
+      "latitude": 38.104918,
+      "longitude": 23.831303
+    },
+    {
+      "name": "Love Sports Club",
+      "latitude": 40.576823,
+      "longitude": 22.99478
+    },
+    {
+      "name": "MAD GYM",
+      "latitude": 40.656583,
+      "longitude": 22.935124
+    },
+    {
+      "name": "Mamouna Climbing Spot",
+      "latitude": 37.982513,
+      "longitude": 23.716115
+    },
+    {
+      "name": "Medical Fitness Center",
+      "latitude": 40.591781,
+      "longitude": 22.960161
+    },
+    {
+      "name": "Mega Fit Gym",
+      "latitude": 37.936237,
+      "longitude": 23.638372
+    },
+    {
+      "name": "Meltemi Kite Club",
+      "latitude": 36.361667,
+      "longitude": 27.974362
+    },
+    {
+      "name": "Meltemi Windsurf Rhodes",
+      "latitude": 36.420726,
+      "longitude": 28.133862
+    },
+    {
+      "name": "Mono by Athens Climbing Project",
+      "latitude": 38.010674,
+      "longitude": 23.80697
+    },
+    {
+      "name": "Naxos surf club",
+      "latitude": 37.089338,
+      "longitude": 25.370141
+    },
+    {
+      "name": "Neptune Sail & Surf Center",
+      "latitude": 36.860821,
+      "longitude": 27.112798
+    },
+    {
+      "name": "Niki Patras Tennis Club",
+      "latitude": 38.22132,
+      "longitude": 21.770183
+    },
+    {
+      "name": "Ninjutsu Akban Itten Dojo",
+      "latitude": 37.983788,
+      "longitude": 23.71623
+    },
+    {
+      "name": "Okeanos sports center",
+      "latitude": 38.000356,
+      "longitude": 23.917892
+    },
+    {
+      "name": "Olimpico Sport Club",
+      "latitude": 39.36999,
+      "longitude": 22.921172
+    },
+    {
+      "name": "Olympiacos Canoe-Kayak",
+      "latitude": 37.933528,
+      "longitude": 23.650751
+    },
+    {
+      "name": "Olympic Park",
+      "latitude": 39.59219,
+      "longitude": 22.442772
+    },
+    {
+      "name": "Olympico",
+      "latitude": 39.068657,
+      "longitude": 26.586944
+    },
+    {
+      "name": "Oxygen",
+      "latitude": 36.440556,
+      "longitude": 28.235621
+    },
+    {
+      "name": "P.A.O.K. Sports Arena",
+      "latitude": 40.565238,
+      "longitude": 22.981085
+    },
+    {
+      "name": "PanoramaTennisAcademy",
+      "latitude": 40.565859,
+      "longitude": 23.002023
+    },
+    {
+      "name": "PAOK Training Centre",
+      "latitude": 40.766384,
+      "longitude": 22.754601
+    },
+    {
+      "name": "Paradise Park",
+      "latitude": 38.071078,
+      "longitude": 23.752503
+    },
+    {
+      "name": "PG Team",
+      "latitude": 39.666137,
+      "longitude": 20.857317
+    },
+    {
+      "name": "Planet F.C.",
+      "latitude": 40.528388,
+      "longitude": 23.007825
+    },
+    {
+      "name": "Planet One",
+      "latitude": 38.037067,
+      "longitude": 23.85818
+    },
+    {
+      "name": "Pool",
+      "latitude": 36.955106,
+      "longitude": 21.704674
+    },
+    {
+      "name": "RACE SP PARK",
+      "latitude": 37.653785,
+      "longitude": 21.4649
+    },
+    {
+      "name": "RCmaniacs Racing Track",
+      "latitude": 37.649484,
+      "longitude": 22.72687
+    },
+    {
+      "name": "Redpoint",
+      "latitude": 38.012851,
+      "longitude": 23.727685
+    },
+    {
+      "name": "Rock School Climbing Wall",
+      "latitude": 40.273766,
+      "longitude": 22.516381
+    },
+    {
+      "name": "Rockway",
+      "latitude": 38.060917,
+      "longitude": 23.779881
+    },
+    {
+      "name": "Saronida Tennis Club",
+      "latitude": 37.755793,
+      "longitude": 23.905196
+    },
+    {
+      "name": "shooting range of Salamina",
+      "latitude": 37.897245,
+      "longitude": 23.451191
+    },
+    {
+      "name": "SKINES RANGE ASOX",
+      "latitude": 35.430101,
+      "longitude": 23.890039
+    },
+    {
+      "name": "Sky park",
+      "latitude": 36.344824,
+      "longitude": 28.19966
+    },
+    {
+      "name": "Slice Tennis Club",
+      "latitude": 40.563114,
+      "longitude": 22.979393
+    },
+    {
+      "name": "Sparta Racing Circuit MOTUL",
+      "latitude": 37.041805,
+      "longitude": 22.455713
+    },
+    {
+      "name": "Speed Force International Karting Circuit",
+      "latitude": 37.949644,
+      "longitude": 23.918528
+    },
+    {
+      "name": "Speed Park Tripolis",
+      "latitude": 37.484057,
+      "longitude": 22.389634
+    },
+    {
+      "name": "Sport Point",
+      "latitude": 35.329305,
+      "longitude": 25.154786
+    },
+    {
+      "name": "Sport Village",
+      "latitude": 41.091227,
+      "longitude": 23.578854
+    },
+    {
+      "name": "Sports Club  Βουτυρίτσα",
+      "latitude": 39.617919,
+      "longitude": 22.433274
+    },
+    {
+      "name": "SPORTS CLUB MYTILINI",
+      "latitude": 39.109125,
+      "longitude": 26.525752
+    },
+    {
+      "name": "Sports Hall",
+      "latitude": 36.61141,
+      "longitude": 27.841045
+    },
+    {
+      "name": "Sports Park of Parnitha",
+      "latitude": 38.110727,
+      "longitude": 23.691663
+    },
+    {
+      "name": "SPRINTER",
+      "latitude": 39.624309,
+      "longitude": 22.424845
+    },
+    {
+      "name": "Star Pool Center",
+      "latitude": 40.555923,
+      "longitude": 22.989582
+    },
+    {
+      "name": "Star Pool Center",
+      "latitude": 40.556671,
+      "longitude": 22.989326
+    },
+    {
+      "name": "Surf & Kite Theologos",
+      "latitude": 36.38613,
+      "longitude": 28.033035
+    },
+    {
+      "name": "Surf & Kite Theologos",
+      "latitude": 36.387277,
+      "longitude": 28.03553
+    },
+    {
+      "name": "Syros Team",
+      "latitude": 37.432685,
+      "longitude": 24.933698
+    },
+    {
+      "name": "TaeKwon Do Αθλητικός Σύλλογος Ζέας",
+      "latitude": 37.935597,
+      "longitude": 23.63596
+    },
+    {
+      "name": "Taekwondo",
+      "latitude": 37.95655,
+      "longitude": 23.743591
+    },
+    {
+      "name": "Taf Tennis Club",
+      "latitude": 38.002278,
+      "longitude": 23.893082
+    },
+    {
+      "name": "Tennis Club (AOK)",
+      "latitude": 38.082446,
+      "longitude": 23.807328
+    },
+    {
+      "name": "Tennis Club Αίολος",
+      "latitude": 38.40281,
+      "longitude": 24.116831
+    },
+    {
+      "name": "Tennis Hall Academy",
+      "latitude": 39.596905,
+      "longitude": 22.429625
+    },
+    {
+      "name": "Tennis Lab Cosmos",
+      "latitude": 40.551569,
+      "longitude": 22.990658
+    },
+    {
+      "name": "The Forum Beach - Water Sports and Volley",
+      "latitude": 36.422778,
+      "longitude": 28.14943
+    },
+    {
+      "name": "The Gym",
+      "latitude": 39.153895,
+      "longitude": 26.522752
+    },
+    {
+      "name": "The wall",
+      "latitude": 38.009273,
+      "longitude": 23.872218
+    },
+    {
+      "name": "Tolo Roklub",
+      "latitude": 37.517861,
+      "longitude": 22.858177
+    },
+    {
+      "name": "Trachoulas",
+      "latitude": 39.920896,
+      "longitude": 23.600723
+    },
+    {
+      "name": "Trekking Hellas",
+      "latitude": 39.308159,
+      "longitude": 21.73281
+    },
+    {
+      "name": "Trikala Velodrome",
+      "latitude": 39.524907,
+      "longitude": 21.773854
+    },
+    {
+      "name": "under construction",
+      "latitude": 39.120083,
+      "longitude": 26.488356
+    },
+    {
+      "name": "Vissas Club 5x5",
+      "latitude": 37.402384,
+      "longitude": 24.898741
+    },
+    {
+      "name": "Watersports center",
+      "latitude": 36.758115,
+      "longitude": 27.111917
+    },
+    {
+      "name": "Wave Sports Club",
+      "latitude": 36.349221,
+      "longitude": 25.469067
+    },
+    {
+      "name": "WE",
+      "latitude": 40.625945,
+      "longitude": 22.958341
+    },
+    {
+      "name": "West Padel Club",
+      "latitude": 40.683456,
+      "longitude": 22.92439
+    },
+    {
+      "name": "Windzone WindSurfing Club",
+      "latitude": 36.886591,
+      "longitude": 27.341702
+    },
+    {
+      "name": "Workout Hall",
+      "latitude": 37.913232,
+      "longitude": 23.73606
+    },
+    {
+      "name": "xclimb",
+      "latitude": 40.635472,
+      "longitude": 22.945753
+    },
+    {
+      "name": "Yava Fitness Senter",
+      "latitude": 38.040542,
+      "longitude": 23.694755
+    },
+    {
+      "name": "Z",
+      "latitude": 35.52739,
+      "longitude": 24.0678
+    },
+    {
+      "name": "Zumba",
+      "latitude": 36.339057,
+      "longitude": 28.199221
+    },
+    {
+      "name": "Άτλας",
+      "latitude": 37.96173,
+      "longitude": 23.701941
+    },
+    {
+      "name": "Έσπερος",
+      "latitude": 37.960211,
+      "longitude": 23.71642
+    },
+    {
+      "name": "Έσπερος Τερψιθέας",
+      "latitude": 40.658553,
+      "longitude": 22.926797
+    },
+    {
+      "name": "Ίκαρος",
+      "latitude": 39.60385,
+      "longitude": 22.410799
+    },
+    {
+      "name": "Α.Μ.Π.Σ Άθληση",
+      "latitude": 39.09102,
+      "longitude": 26.546921
+    },
+    {
+      "name": "Α.Ο. Αρίστων Παιανίας",
+      "latitude": 38.003988,
+      "longitude": 23.854627
+    },
+    {
+      "name": "Α.Ο.Φ. Πορφύρας",
+      "latitude": 37.927318,
+      "longitude": 23.639424
+    },
+    {
+      "name": "Α΄ Δημοτικό Αθλητικό Κέντρο Κατερίνης",
+      "latitude": 40.260325,
+      "longitude": 22.511271
+    },
+    {
+      "name": "Αίθουσα Βαρέων Αθλημάτων",
+      "latitude": 39.649934,
+      "longitude": 22.410383
+    },
+    {
+      "name": "Αίολος Sports Center",
+      "latitude": 37.66923,
+      "longitude": 21.425116
+    },
+    {
+      "name": "Αγίου Νικολάου",
+      "latitude": 37.990158,
+      "longitude": 24.019756
+    },
+    {
+      "name": "ΑΘΗΝΑ - ΔΥΤΙΚΟ ΚΛΕΙΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ",
+      "latitude": 38.118878,
+      "longitude": 23.774293
+    },
+    {
+      "name": "Αθλ. Κέντρο Ι.Μ. Δημητριάδος",
+      "latitude": 39.383646,
+      "longitude": 22.919175
+    },
+    {
+      "name": "Αθλητικές εγκαταστάσεις \"Άγιος Αναστάσης ο Πέρσης\"",
+      "latitude": 40.512653,
+      "longitude": 23.016071
+    },
+    {
+      "name": "Αθλητικές Εγκαταστάσεις ΠΕ Πιερίας",
+      "latitude": 40.264148,
+      "longitude": 22.512463
+    },
+    {
+      "name": "Αθλητική Ακαδημία 'Ντίνος Κούης'",
+      "latitude": 40.684436,
+      "longitude": 22.909378
+    },
+    {
+      "name": "ΑΘΛΗΤΙΚΟ ΚΕΝΤΡΟ ΟΛΥΜΠΙΑΚΟΥ ΧΩΡΙΟΥ",
+      "latitude": 38.118215,
+      "longitude": 23.773288
+    },
+    {
+      "name": "Αθλητικό κέντρο",
+      "latitude": 36.437233,
+      "longitude": 28.229434
+    },
+    {
+      "name": "Αθλητικό Κέντρο \"Δ. Κουκουλίτσιος - Δ. Μουσιάρης\"",
+      "latitude": 39.605253,
+      "longitude": 22.437408
+    },
+    {
+      "name": "Αθλητικό κέντρο «Αντώνης Τρίτσης»",
+      "latitude": 38.01266,
+      "longitude": 23.742068
+    },
+    {
+      "name": "Αθλητικό Κέντρο Αίακος",
+      "latitude": 37.736599,
+      "longitude": 23.436052
+    },
+    {
+      "name": "Αθλητικό κέντρο Αγίου Θωμά",
+      "latitude": 38.278557,
+      "longitude": 23.595091
+    },
+    {
+      "name": "Αθλητικό Κέντρο Ανδρομάχης",
+      "latitude": 40.26905,
+      "longitude": 22.480389
+    },
+    {
+      "name": "Αθλητικό Κέντρο Αντιρρίου",
+      "latitude": 38.334459,
+      "longitude": 21.763925
+    },
+    {
+      "name": "Αθλητικό Κέντρο Αντισφαίρισης \"Πανοράματος\"",
+      "latitude": 37.924162,
+      "longitude": 23.760779
+    },
+    {
+      "name": "Αθλητικό Κέντρο Ασωπού",
+      "latitude": 36.738031,
+      "longitude": 22.862051
+    },
+    {
+      "name": "Αθλητικό Κέντρο Βελβεντού",
+      "latitude": 40.250195,
+      "longitude": 22.084283
+    },
+    {
+      "name": "Αθλητικό Κέντρο Δήμου Αργυρούπολης",
+      "latitude": 37.897466,
+      "longitude": 23.756638
+    },
+    {
+      "name": "Αθλητικό Κέντρο Δήμου Περάματος",
+      "latitude": 37.961819,
+      "longitude": 23.580227
+    },
+    {
+      "name": "Αθλητικό Κέντρο Δήμου Σύρου «Δημήτριος Βικελάς»",
+      "latitude": 37.43171,
+      "longitude": 24.93621
+    },
+    {
+      "name": "Αθλητικό Κέντρο Θρακομακεδόνων",
+      "latitude": 38.122769,
+      "longitude": 23.764288
+    },
+    {
+      "name": "Αθλητικό Κέντρο Καπανδριτίου",
+      "latitude": 38.199569,
+      "longitude": 23.880005
+    },
+    {
+      "name": "Αθλητικό Κέντρο Καραγάτς",
+      "latitude": 39.368899,
+      "longitude": 22.962949
+    },
+    {
+      "name": "Αθλητικό Κέντρο Καρπενησίου",
+      "latitude": 38.900145,
+      "longitude": 21.834533
+    },
+    {
+      "name": "Αθλητικό Κέντρο Κιάφας",
+      "latitude": 39.65308,
+      "longitude": 20.85087
+    },
+    {
+      "name": "Αθλητικό Κέντρο Νέας Κίου",
+      "latitude": 37.591547,
+      "longitude": 22.744702
+    },
+    {
+      "name": "Αθλητικό Κέντρο Νέου Βουτζά",
+      "latitude": 38.032801,
+      "longitude": 23.983799
+    },
+    {
+      "name": "Αθλητικό Κέντρο Νεάπολης",
+      "latitude": 39.619142,
+      "longitude": 22.398183
+    },
+    {
+      "name": "Αθλητικό κέντρο νεότητας \"Σωτήρης Πέτρουλας\"",
+      "latitude": 37.970396,
+      "longitude": 23.778286
+    },
+    {
+      "name": "Αθλητικό Κέντρο Νεότητος Κηπούπολης",
+      "latitude": 40.304679,
+      "longitude": 23.086965
+    },
+    {
+      "name": "Αθλητικό Κέντρο Ομόνοιας (ΟΒΑΣ)",
+      "latitude": 41.073597,
+      "longitude": 23.524923
+    },
+    {
+      "name": "Αθλητικό κέντρο Παναθηναϊκού",
+      "latitude": 37.935576,
+      "longitude": 23.85714
+    },
+    {
+      "name": "Αθλητικό Κέντρο Παρορίου",
+      "latitude": 37.060997,
+      "longitude": 22.389244
+    },
+    {
+      "name": "Αθλητικό Κέντρο Πηγαδίων",
+      "latitude": 41.123713,
+      "longitude": 24.95009
+    },
+    {
+      "name": "Αθλητικό Κέντρο Ποσειδώνας",
+      "latitude": 38.003542,
+      "longitude": 23.789045
+    },
+    {
+      "name": "Αθλητικό Κέντρο Πυργετού",
+      "latitude": 39.555186,
+      "longitude": 21.751112
+    },
+    {
+      "name": "Αθλητικό Κέντρο Σβορώνου «Λάζαρος Ξανθόπουλος»",
+      "latitude": 40.262179,
+      "longitude": 22.464004
+    },
+    {
+      "name": "Αθλητικό Κέντρο Τυρνάβου",
+      "latitude": 39.748615,
+      "longitude": 22.292955
+    },
+    {
+      "name": "Αθλητικό Κέντρο Τόφαλος",
+      "latitude": 38.283276,
+      "longitude": 21.772659
+    },
+    {
+      "name": "Αθλητικό Κέντρο Φορτέτσας",
+      "latitude": 35.296541,
+      "longitude": 25.146393
+    },
+    {
+      "name": "Αθλητικό κέντρο ΧΑΝΘ \"Μίμης Τσικίνας\"",
+      "latitude": 40.626643,
+      "longitude": 22.95062
+    },
+    {
+      "name": "Αθλητικό Κεντρό Γ. Παπασιδέρης",
+      "latitude": 37.900295,
+      "longitude": 23.859965
+    },
+    {
+      "name": "Αθλητικό Πάρκο",
+      "latitude": 39.362344,
+      "longitude": 21.933382
+    },
+    {
+      "name": "Αθλητικό πάρκο \"Άτλας\"",
+      "latitude": 38.009049,
+      "longitude": 23.720451
+    },
+    {
+      "name": "Αθλητικό Πάρκο Ευόσμου",
+      "latitude": 40.661312,
+      "longitude": 22.912932
+    },
+    {
+      "name": "Αθλητικό συγκρότημα Γουδή",
+      "latitude": 37.984764,
+      "longitude": 23.77226
+    },
+    {
+      "name": "Αθλητικός Οργανισμός Δήμου Πειραιά",
+      "latitude": 37.935992,
+      "longitude": 23.653306
+    },
+    {
+      "name": "Αθλητικός οργανισμός Ηγουμενίτσας",
+      "latitude": 39.512022,
+      "longitude": 20.261759
+    },
+    {
+      "name": "Αθλητικός Σύλλογος Αινείας Τήνου",
+      "latitude": 37.534598,
+      "longitude": 25.165748
+    },
+    {
+      "name": "Αθλητικός Σύλλογος Ηλεκτρούπολη",
+      "latitude": 37.908934,
+      "longitude": 23.746617
+    },
+    {
+      "name": "Αθλητικός Σύλλογος Καράτε",
+      "latitude": 37.929114,
+      "longitude": 23.636787
+    },
+    {
+      "name": "Αθλούπολη",
+      "latitude": 37.925857,
+      "longitude": 22.95067
+    },
+    {
+      "name": "Αθλόπολις",
+      "latitude": 40.790692,
+      "longitude": 22.387169
+    },
+    {
+      "name": "Αθλόπολις Αθλητικός Πολυχώρος",
+      "latitude": 38.018265,
+      "longitude": 23.869975
+    },
+    {
+      "name": "Ακαδημία \"Πρωτέας\"",
+      "latitude": 40.685171,
+      "longitude": 22.924256
+    },
+    {
+      "name": "Ακαδημία Shotokan Karate Ραφήνας",
+      "latitude": 38.027373,
+      "longitude": 23.998777
+    },
+    {
+      "name": "Ακαδημία Ποδοσφαίρου Α.Ε.Κ.",
+      "latitude": 38.031449,
+      "longitude": 23.730021
+    },
+    {
+      "name": "Ακαδημία Ποδοσφαίρου Φερεκίδης",
+      "latitude": 37.672458,
+      "longitude": 21.411404
+    },
+    {
+      "name": "Ακαδημία Τέννις Σπάρτης",
+      "latitude": 37.066159,
+      "longitude": 22.427979
+    },
+    {
+      "name": "Ακαδημιες Παδοσφαιρου ΔΙΑΣ",
+      "latitude": 38.215288,
+      "longitude": 21.737354
+    },
+    {
+      "name": "ΑΜΣ Νικόπολη",
+      "latitude": 40.681285,
+      "longitude": 22.93342
+    },
+    {
+      "name": "Αναρριχητική Πίστα ΕΟΣ Κομοτηνής",
+      "latitude": 41.121056,
+      "longitude": 25.389261
+    },
+    {
+      "name": "Αναρριχητικό Πεδίο Ζαστάνι",
+      "latitude": 38.033527,
+      "longitude": 23.642871
+    },
+    {
+      "name": "Αναρριχητικό πεδίο Φιλύρου",
+      "latitude": 40.670017,
+      "longitude": 23.000662
+    },
+    {
+      "name": "Αντίπαλον Δέος",
+      "latitude": 40.576248,
+      "longitude": 22.961561
+    },
+    {
+      "name": "Αποδυτήρια",
+      "latitude": 40.783566,
+      "longitude": 22.413572
+    },
+    {
+      "name": "Απόλλων",
+      "latitude": 38.027626,
+      "longitude": 23.740909
+    },
+    {
+      "name": "ΑΣ ΜΑΚΕΔΟΝΙΚΟΣ",
+      "latitude": 40.677916,
+      "longitude": 22.95086
+    },
+    {
+      "name": "Αστερίας",
+      "latitude": 40.26764,
+      "longitude": 22.486213
+    },
+    {
+      "name": "Αττικός Ήλιος",
+      "latitude": 38.13094,
+      "longitude": 23.848947
+    },
+    {
+      "name": "Αυτοκινητοδρόμιο Μεγάρων",
+      "latitude": 37.986501,
+      "longitude": 23.363759
+    },
+    {
+      "name": "Αυτοκινητοδρόμιο Σερρών",
+      "latitude": 41.071831,
+      "longitude": 23.517274
+    },
+    {
+      "name": "Β΄ Δημοτικό Αθλητικό Κέντρο Κατερίνης",
+      "latitude": 40.271348,
+      "longitude": 22.488107
+    },
+    {
+      "name": "Βαρδινογιάννειο αθλητικό κέντρο",
+      "latitude": 35.326964,
+      "longitude": 25.052653
+    },
+    {
+      "name": "Βασδέκειο Αθλητικό Κέντρο",
+      "latitude": 39.375023,
+      "longitude": 22.921279
+    },
+    {
+      "name": "Βυζαντινό Αθλητικό Κέντρο",
+      "latitude": 37.915574,
+      "longitude": 23.736791
+    },
+    {
+      "name": "Βυζαντινός Αθλητικός Όμιλος",
+      "latitude": 40.645979,
+      "longitude": 22.945176
+    },
+    {
+      "name": "Βόρας",
+      "latitude": 40.909324,
+      "longitude": 21.812749
+    },
+    {
+      "name": "Γ.Σ. Αρίων Περιστερίου",
+      "latitude": 38.01115,
+      "longitude": 23.685975
+    },
+    {
+      "name": "Γήπεδα Βιολογικού",
+      "latitude": 39.659146,
+      "longitude": 22.434663
+    },
+    {
+      "name": "Γήπεδα Γρηγορίου",
+      "latitude": 38.046848,
+      "longitude": 23.663625
+    },
+    {
+      "name": "Γήπεδα μπάσκετ",
+      "latitude": 38.000248,
+      "longitude": 23.797769
+    },
+    {
+      "name": "Γήπεδα μπάσκετ",
+      "latitude": 38.044069,
+      "longitude": 23.686079
+    },
+    {
+      "name": "Γήπεδα Νικολούδη",
+      "latitude": 40.587191,
+      "longitude": 22.975363
+    },
+    {
+      "name": "Γήπεδα τέννις Ναυπάκτου",
+      "latitude": 38.412442,
+      "longitude": 21.842112
+    },
+    {
+      "name": "Γήπεδα τέννις Πετρούπολης",
+      "latitude": 38.046729,
+      "longitude": 23.687573
+    },
+    {
+      "name": "Γήπεδο 5Χ5",
+      "latitude": 38.030136,
+      "longitude": 23.729259
+    },
+    {
+      "name": "γήπεδο Basketball",
+      "latitude": 38.277973,
+      "longitude": 23.595724
+    },
+    {
+      "name": "Γήπεδο «Γεώργιος Σκούφος»",
+      "latitude": 39.098444,
+      "longitude": 26.545446
+    },
+    {
+      "name": "Γήπεδο «Γιώργος Ασλανίδης»",
+      "latitude": 40.254209,
+      "longitude": 22.506553
+    },
+    {
+      "name": "Γήπεδο «Θεόδωρος Παπαδόπουλος»",
+      "latitude": 40.286318,
+      "longitude": 22.49738
+    },
+    {
+      "name": "Γήπεδο «Ιωάννης Καλλιανίδης»",
+      "latitude": 40.283622,
+      "longitude": 22.535324
+    },
+    {
+      "name": "Γήπεδο Άνω Καμήλας",
+      "latitude": 41.056101,
+      "longitude": 23.428168
+    },
+    {
+      "name": "Γήπεδο Α.Ο. Τραχώνων",
+      "latitude": 37.918673,
+      "longitude": 23.736295
+    },
+    {
+      "name": "Γήπεδο Αγροτικού Αστέρος",
+      "latitude": 40.666921,
+      "longitude": 22.908178
+    },
+    {
+      "name": "Γήπεδο Ιωνικού",
+      "latitude": 38.034559,
+      "longitude": 23.735555
+    },
+    {
+      "name": "Γήπεδο Καλαθοσφαίρισης",
+      "latitude": 41.090058,
+      "longitude": 23.897754
+    },
+    {
+      "name": "Γήπεδο Κούρτη",
+      "latitude": 40.866745,
+      "longitude": 25.88019
+    },
+    {
+      "name": "Γήπεδο Κριτσάς «Νικόλαος Πάγκαλος»",
+      "latitude": 35.161023,
+      "longitude": 25.649502
+    },
+    {
+      "name": "Γήπεδο Λεβιδίου",
+      "latitude": 37.688357,
+      "longitude": 22.307516
+    },
+    {
+      "name": "Γήπεδο Μαλακοπής",
+      "latitude": 40.612823,
+      "longitude": 22.98895
+    },
+    {
+      "name": "Γήπεδο Μαυροδενδρίου",
+      "latitude": 40.38263,
+      "longitude": 21.772383
+    },
+    {
+      "name": "Γήπεδο μπάσκετ Αυλώνος",
+      "latitude": 38.018159,
+      "longitude": 23.719554
+    },
+    {
+      "name": "Γήπεδο Μπάσκετ Δωδεκανήσου",
+      "latitude": 38.03038,
+      "longitude": 23.730261
+    },
+    {
+      "name": "Γήπεδο Ν. Κρήνης",
+      "latitude": 40.562986,
+      "longitude": 22.962145
+    },
+    {
+      "name": "Γήπεδο Νέας Επιδαύρου",
+      "latitude": 37.680243,
+      "longitude": 23.150044
+    },
+    {
+      "name": "Γήπεδο Νέων Καρυών",
+      "latitude": 39.506895,
+      "longitude": 22.468953
+    },
+    {
+      "name": "Γήπεδο Παραλίου Άστρους",
+      "latitude": 37.422285,
+      "longitude": 22.76376
+    },
+    {
+      "name": "Γήπεδο Ποδοσφαίρου (Άκολης)",
+      "latitude": 38.27387,
+      "longitude": 22.049107
+    },
+    {
+      "name": "Γήπεδο Προσφυγικών",
+      "latitude": 38.233582,
+      "longitude": 21.742015
+    },
+    {
+      "name": "Γήπεδο Σπόρτινγκ",
+      "latitude": 38.01971,
+      "longitude": 23.732439
+    },
+    {
+      "name": "Γήπεδο Συκουρίου",
+      "latitude": 39.756388,
+      "longitude": 22.573302
+    },
+    {
+      "name": "Γήπεδον Γρα-Λυγιᾶς",
+      "latitude": 35.014347,
+      "longitude": 25.675371
+    },
+    {
+      "name": "Γαλαξίας",
+      "latitude": 40.601842,
+      "longitude": 22.959585
+    },
+    {
+      "name": "ΓΑΣ Καράτε Αθλοκίνηση",
+      "latitude": 40.271482,
+      "longitude": 22.494348
+    },
+    {
+      "name": "ΓΑΣΕ Αθλητικός Σύλλογος Ελευσίνας",
+      "latitude": 38.04383,
+      "longitude": 23.545184
+    },
+    {
+      "name": "ΓΗΠΕΔΑ ΤΕΝΝΙΣ",
+      "latitude": 38.12009,
+      "longitude": 23.775839
+    },
+    {
+      "name": "ΓΗΠΕΔΟ ΚΑΣΣΑΝΔΡΑΣ",
+      "latitude": 40.052243,
+      "longitude": 23.42108
+    },
+    {
+      "name": "Γηπεδο μπασκετ",
+      "latitude": 41.348062,
+      "longitude": 26.497115
+    },
+    {
+      "name": "Γηπεδο Πευκης",
+      "latitude": 38.064776,
+      "longitude": 23.795775
+    },
+    {
+      "name": "Γυμναστήριο",
+      "latitude": 35.352467,
+      "longitude": 24.447996
+    },
+    {
+      "name": "Γυμναστήριο",
+      "latitude": 39.621251,
+      "longitude": 22.417479
+    },
+    {
+      "name": "Γυμναστήριο",
+      "latitude": 40.322356,
+      "longitude": 21.792515
+    },
+    {
+      "name": "Γυμναστήριο",
+      "latitude": 40.992045,
+      "longitude": 23.856806
+    },
+    {
+      "name": "Γυμναστήριο 'Home'",
+      "latitude": 38.925847,
+      "longitude": 22.40667
+    },
+    {
+      "name": "Γυμναστήριο - Ιωάννης Λεμονίδης",
+      "latitude": 40.652576,
+      "longitude": 22.929889
+    },
+    {
+      "name": "Γυμναστήριο Animal",
+      "latitude": 40.678216,
+      "longitude": 22.93273
+    },
+    {
+      "name": "Γυμναστήριο Ανέστης Πεταλίδης",
+      "latitude": 40.599285,
+      "longitude": 22.969573
+    },
+    {
+      "name": "Γυμναστήριο Γ.Σ.Β.",
+      "latitude": 39.367534,
+      "longitude": 22.952542
+    },
+    {
+      "name": "Γυμναστήριο Δήμου Θεσσαλονίκης",
+      "latitude": 40.611974,
+      "longitude": 22.979725
+    },
+    {
+      "name": "Γυμναστήριο Πανεπιστημίου Κρήτης",
+      "latitude": 35.307775,
+      "longitude": 25.078307
+    },
+    {
+      "name": "Γυμναστήριο Σταθάς",
+      "latitude": 37.673509,
+      "longitude": 21.439493
+    },
+    {
+      "name": "ΓΥΜΝΑΣΤΗΡΙΟ",
+      "latitude": 39.602223,
+      "longitude": 20.30487
+    },
+    {
+      "name": "ΔΑΚ Έδεσσας",
+      "latitude": 40.803321,
+      "longitude": 22.046329
+    },
+    {
+      "name": "ΔΑΚ Αιγινίου",
+      "latitude": 40.497948,
+      "longitude": 22.55536
+    },
+    {
+      "name": "ΔΑΚ Κουτσοποδίου \"Τζιμ Λόντος\"",
+      "latitude": 37.679,
+      "longitude": 22.705022
+    },
+    {
+      "name": "ΔΑΚ Πολίχνης Αλέξανδρος Νικολαΐδης",
+      "latitude": 40.666065,
+      "longitude": 22.953401
+    },
+    {
+      "name": "Δασικό χωριό Ερύμανθου",
+      "latitude": 41.332301,
+      "longitude": 24.712172
+    },
+    {
+      "name": "Δασυγένειο Αθλητικό Κέντρο",
+      "latitude": 40.516646,
+      "longitude": 22.998256
+    },
+    {
+      "name": "Δημοτική Πίστα Πλατάνου Αρχαίας Ολυμπίας",
+      "latitude": 37.66295,
+      "longitude": 21.601716
+    },
+    {
+      "name": "ΔΗΜΟΤΙΚΟ ΚΛΕΙΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ ΠΑΙΑΝΙΑΣ",
+      "latitude": 37.958603,
+      "longitude": 23.846712
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο (ΔΑΚ) Χαλάστρας",
+      "latitude": 40.619172,
+      "longitude": 22.73748
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο «Μιχάλης Κούσης»",
+      "latitude": 38.626408,
+      "longitude": 21.390314
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Άργους",
+      "latitude": 37.628539,
+      "longitude": 22.714288
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Αίγινας",
+      "latitude": 37.742321,
+      "longitude": 23.431611
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Ανθούπολης",
+      "latitude": 39.622313,
+      "longitude": 22.421968
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Θεόδωρος Πασσιόπουλος",
+      "latitude": 38.365944,
+      "longitude": 21.422222
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Κιλκίς",
+      "latitude": 40.987556,
+      "longitude": 22.864591
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Κορινθίων",
+      "latitude": 37.927483,
+      "longitude": 22.928874
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Ναυπλίου",
+      "latitude": 37.567942,
+      "longitude": 22.804866
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Πολιτείας",
+      "latitude": 38.084937,
+      "longitude": 23.832651
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Σερρών",
+      "latitude": 41.102053,
+      "longitude": 23.551238
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Σιάτιστας",
+      "latitude": 40.247523,
+      "longitude": 21.557355
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Σκύδρας",
+      "latitude": 40.765247,
+      "longitude": 22.145936
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Σκύδρας",
+      "latitude": 40.76589,
+      "longitude": 22.144916
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Σταυρούπολης (ΔΑΚ)",
+      "latitude": 40.673704,
+      "longitude": 22.925047
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Τολού",
+      "latitude": 37.531744,
+      "longitude": 22.866009
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Τρίπολης",
+      "latitude": 37.522876,
+      "longitude": 22.378109
+    },
+    {
+      "name": "Δημοτικό Αθλητικό Κέντρο Τρικάλων",
+      "latitude": 39.567591,
+      "longitude": 21.774825
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Αιγινίου Γιάννης Παραλυκίδης",
+      "latitude": 40.497757,
+      "longitude": 22.548393
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Αμπελοκήπων'''Κώστας Γουργουρίνης΄''",
+      "latitude": 38.266624,
+      "longitude": 21.759277
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Αντισφαίρισης",
+      "latitude": 37.932743,
+      "longitude": 23.727699
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Βατάν",
+      "latitude": 40.25613,
+      "longitude": 22.506248
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Καλλιθέας",
+      "latitude": 40.270495,
+      "longitude": 22.576998
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Μυλαυλάκου",
+      "latitude": 40.260874,
+      "longitude": 22.494506
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Παναγιώτης Κακαβανος",
+      "latitude": 40.494684,
+      "longitude": 22.820484
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Περίστασης",
+      "latitude": 40.274617,
+      "longitude": 22.545222
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Περαίας",
+      "latitude": 40.495669,
+      "longitude": 22.925709
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Ποδοσφαίρου \"Αριστοτέλης\"",
+      "latitude": 40.579271,
+      "longitude": 22.953565
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Σταυρού",
+      "latitude": 40.659933,
+      "longitude": 23.686553
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Τσαριτσάνης Γιώργος Μητσιμπόνας",
+      "latitude": 39.87767,
+      "longitude": 22.229915
+    },
+    {
+      "name": "Δημοτικό Γήπεδο Χαϊδαρίου \"Τάκης Χαραλαμπίδης\"",
+      "latitude": 38.002311,
+      "longitude": 23.659161
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο",
+      "latitude": 37.946109,
+      "longitude": 23.722116
+    },
+    {
+      "name": "Δημοτικό γυμναστήριο",
+      "latitude": 39.155142,
+      "longitude": 21.001744
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο",
+      "latitude": 40.271746,
+      "longitude": 22.488015
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο",
+      "latitude": 40.673672,
+      "longitude": 22.797932
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο «Στέλιος Κυριακίδης»",
+      "latitude": 38.026965,
+      "longitude": 23.781143
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Αχαρνών \"Μπάμπης Χολίδης\"",
+      "latitude": 38.081131,
+      "longitude": 23.724522
+    },
+    {
+      "name": "Δημοτικό γυμναστήριο Βριλησσίων",
+      "latitude": 38.041568,
+      "longitude": 23.836137
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο ΔΑΠΚΗ",
+      "latitude": 35.330356,
+      "longitude": 25.141675
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Δραπετσώνας «Γ. Βάζος»",
+      "latitude": 37.946661,
+      "longitude": 23.620851
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Ιωνίας",
+      "latitude": 40.684841,
+      "longitude": 22.863646
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Νέας Ερυθραίας \"Στέλιος Καλαϊτζής\"",
+      "latitude": 38.100678,
+      "longitude": 23.813685
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Νεαπόλεως",
+      "latitude": 40.650308,
+      "longitude": 22.944286
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Πετρούπολης \"Νίκος Παξιμαδάς\"",
+      "latitude": 38.043823,
+      "longitude": 23.690586
+    },
+    {
+      "name": "Δημοτικό Γυμναστήριο Σαλαμίνας Ολυμπιονίκης Νίκος Γραμματικός",
+      "latitude": 37.958289,
+      "longitude": 23.49908
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γήπεδο Χαϊδαρίου",
+      "latitude": 38.019042,
+      "longitude": 23.654939
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γυμναστήριο",
+      "latitude": 37.944726,
+      "longitude": 23.696296
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γυμναστήριο",
+      "latitude": 37.964005,
+      "longitude": 23.739485
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γυμναστήριο",
+      "latitude": 38.247525,
+      "longitude": 22.074438
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γυμναστήριο Ανθούπολης",
+      "latitude": 38.021468,
+      "longitude": 23.687087
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γυμναστήριο Μολάων",
+      "latitude": 36.80162,
+      "longitude": 22.858399
+    },
+    {
+      "name": "Δημοτικό Κλειστό Γυμναστήριο Νέας Ιωνίας",
+      "latitude": 39.383509,
+      "longitude": 22.932663
+    },
+    {
+      "name": "Δημοτικό κλειστό Κολυμβητήριο Χαλανδρίου",
+      "latitude": 38.033918,
+      "longitude": 23.823536
+    },
+    {
+      "name": "Δημοτικό Κολυβητήριο",
+      "latitude": 39.647825,
+      "longitude": 22.411111
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο",
+      "latitude": 38.949018,
+      "longitude": 20.752779
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο «Ο Πλάτων»",
+      "latitude": 37.97441,
+      "longitude": 23.665644
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Άργους",
+      "latitude": 37.654047,
+      "longitude": 22.728288
+    },
+    {
+      "name": "Δημοτικό κολυμβητήριο Αγίου Νικολάου «Γιώργος Μπίας»",
+      "latitude": 35.185491,
+      "longitude": 25.713563
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Αιγάλεω",
+      "latitude": 37.995015,
+      "longitude": 23.683071
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Αιγίου",
+      "latitude": 38.238112,
+      "longitude": 22.100257
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Αλίμου",
+      "latitude": 37.914612,
+      "longitude": 23.706299
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Δήμου Παύλου Μελά",
+      "latitude": 40.674736,
+      "longitude": 22.923676
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Ιτέας",
+      "latitude": 38.439877,
+      "longitude": 22.427354
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Καλαμαριάς",
+      "latitude": 40.579644,
+      "longitude": 22.943041
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Κολοκυνθούς",
+      "latitude": 37.999682,
+      "longitude": 23.709913
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Κυπαρισσίας",
+      "latitude": 37.241797,
+      "longitude": 21.666187
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Μελισσίων",
+      "latitude": 38.053868,
+      "longitude": 23.836749
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Μεταμόρφωσης",
+      "latitude": 38.05432,
+      "longitude": 23.751747
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Περάματος \"Γ. Κασιμάτης\"",
+      "latitude": 37.966009,
+      "longitude": 23.55654
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Πετρούπολης",
+      "latitude": 38.044229,
+      "longitude": 23.691126
+    },
+    {
+      "name": "Δημοτικό Κολυμβητήριο Χαϊδαρίου",
+      "latitude": 38.012175,
+      "longitude": 23.662275
+    },
+    {
+      "name": "Δημοτικό Ναυταθλητικό Κέντρο",
+      "latitude": 40.508034,
+      "longitude": 21.255947
+    },
+    {
+      "name": "Δημοτικό Πάρκο Αθλητισμού και Αναψυχής Καλλιθέας",
+      "latitude": 37.943324,
+      "longitude": 23.691072
+    },
+    {
+      "name": "Δημοτικό Προπονητήριο",
+      "latitude": 36.800812,
+      "longitude": 22.859365
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ίου",
+      "latitude": 36.730221,
+      "longitude": 25.278108
+    },
+    {
+      "name": "Δημοτικό Στάδιο Γαλατά",
+      "latitude": 37.495787,
+      "longitude": 23.452425
+    },
+    {
+      "name": "Δημοτικό Στάδιο Γεράσιμος Χάνος",
+      "latitude": 40.349679,
+      "longitude": 23.31355
+    },
+    {
+      "name": "Δημοτικό Στάδιο Κηφισιάς «Ι.Ζηρίνης»",
+      "latitude": 38.067411,
+      "longitude": 23.812238
+    },
+    {
+      "name": "Δημοτικό Στάδιο Κρανιδίου",
+      "latitude": 37.382557,
+      "longitude": 23.151591
+    },
+    {
+      "name": "Δημοτικό Στάδιο Νέας Ερυθραίας \"Φώτης Βαρδαξής\"",
+      "latitude": 38.108849,
+      "longitude": 23.822163
+    },
+    {
+      "name": "Δημοτικό Στάδιο Νεάπολης",
+      "latitude": 39.358155,
+      "longitude": 22.921921
+    },
+    {
+      "name": "Δημοτικό Στάδιο Ορχομενού",
+      "latitude": 38.49757,
+      "longitude": 22.978822
+    },
+    {
+      "name": "Δημοτικό Στάδιο Σάμου",
+      "latitude": 37.76101,
+      "longitude": 26.971772
+    },
+    {
+      "name": "Δημοτικό Στάδιο Φαρσάλων",
+      "latitude": 39.301797,
+      "longitude": 22.385837
+    },
+    {
+      "name": "Δημοτικό Στάδιο Χαλανδρίου «Νικόλαος Πέρκιζας»",
+      "latitude": 38.033096,
+      "longitude": 23.824444
+    },
+    {
+      "name": "Δημοτικός Οργανισμός Νεολαίας & Άθλησης",
+      "latitude": 37.928738,
+      "longitude": 22.928416
+    },
+    {
+      "name": "Διαδημοτικό Αθλητικό Κέντρο Μακρυνίτσας - Πορταριάς",
+      "latitude": 39.39559,
+      "longitude": 22.994916
+    },
+    {
+      "name": "Διασχολικό Γυμναστήριο",
+      "latitude": 38.045483,
+      "longitude": 23.738644
+    },
+    {
+      "name": "ΔΟΠΑΠ",
+      "latitude": 37.990495,
+      "longitude": 23.787091
+    },
+    {
+      "name": "Ε.Α.Κ. Βόλου",
+      "latitude": 39.355035,
+      "longitude": 22.967236
+    },
+    {
+      "name": "ΕΑΚ Ευόσμου - Αθλητικό πάρκο ΕΚΟ",
+      "latitude": 40.683767,
+      "longitude": 22.896782
+    },
+    {
+      "name": "Εθνικό Αθλητικό Κέντρο Ιλισίων",
+      "latitude": 37.973575,
+      "longitude": 23.762832
+    },
+    {
+      "name": "Εθνικό Γυμναστήριο Μίκρας",
+      "latitude": 40.565404,
+      "longitude": 22.966456
+    },
+    {
+      "name": "Εθνικό Καυτατζόγλειο Στάδιο",
+      "latitude": 40.625542,
+      "longitude": 22.966858
+    },
+    {
+      "name": "Εθνικό Κλειστό Κολυμβητήριο Πειραιά \"Πέτρος Καπαγέρωφ\"",
+      "latitude": 37.951803,
+      "longitude": 23.645175
+    },
+    {
+      "name": "Εθνικό Κολυμβητήριο Θεσσαλονίκης",
+      "latitude": 40.630947,
+      "longitude": 22.962209
+    },
+    {
+      "name": "Εθνικό Στάδιο Σερβίων",
+      "latitude": 40.189807,
+      "longitude": 22.003031
+    },
+    {
+      "name": "Ελληνικός Ιππικός Όμιλος",
+      "latitude": 38.034044,
+      "longitude": 23.800347
+    },
+    {
+      "name": "Ελληνικός Πολιτιστικός Ορειβατικός Σύλλογος Φυλής",
+      "latitude": 38.099775,
+      "longitude": 23.667336
+    },
+    {
+      "name": "Εξωτερικά Όργανα Γυμναστικής",
+      "latitude": 40.585355,
+      "longitude": 23.021809
+    },
+    {
+      "name": "Εύ Γυμνάζειν",
+      "latitude": 37.673668,
+      "longitude": 21.433956
+    },
+    {
+      "name": "Ζαννίκος 8x8",
+      "latitude": 37.426287,
+      "longitude": 24.907681
+    },
+    {
+      "name": "Η Ολυμπιάδα",
+      "latitude": 37.966245,
+      "longitude": 23.701139
+    },
+    {
+      "name": "Ιππικός Όμιλος Β. Ελλάδος",
+      "latitude": 40.561909,
+      "longitude": 22.964478
+    },
+    {
+      "name": "Ιππικός Όμιλος Κυκλάδων",
+      "latitude": 37.420729,
+      "longitude": 24.940534
+    },
+    {
+      "name": "Ιππόκοσμος",
+      "latitude": 40.700578,
+      "longitude": 23.68287
+    },
+    {
+      "name": "Ιχθύς",
+      "latitude": 40.573601,
+      "longitude": 22.954544
+    },
+    {
+      "name": "Κέντρο Άθλησης & Νεολαίας 'Βάκης Αποστολόπουλος'",
+      "latitude": 39.369213,
+      "longitude": 22.942353
+    },
+    {
+      "name": "Κέντρο Αντισφαίρισης Λιβαδειάς",
+      "latitude": 38.444639,
+      "longitude": 22.888065
+    },
+    {
+      "name": "Καλλιπάτειρα",
+      "latitude": 36.424099,
+      "longitude": 28.231234
+    },
+    {
+      "name": "Καλτσετο",
+      "latitude": 35.145,
+      "longitude": 25.26856
+    },
+    {
+      "name": "Καρπατσελης Αθλητικό Ποδοσφαιρικό Κέντρο",
+      "latitude": 39.63307,
+      "longitude": 19.87831
+    },
+    {
+      "name": "Κλειστο Γυμναστήριο",
+      "latitude": 40.495487,
+      "longitude": 22.926923
+    },
+    {
+      "name": "Κλειστο Γυμναστηριο",
+      "latitude": 41.349357,
+      "longitude": 26.497926
+    },
+    {
+      "name": "ΚΛΕΙΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ «ΟΛΥΜΠΙΟΝΙΚΗΣ ΧΑΡΑ ΚΑΡΥΑΜΗ»",
+      "latitude": 38.049992,
+      "longitude": 23.760364
+    },
+    {
+      "name": "ΚΛΕΙΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ ΑΓΡΙΑΣ",
+      "latitude": 39.343387,
+      "longitude": 23.003986
+    },
+    {
+      "name": "Κλειστό Βλαχάβειο Γυμναστήριο Καλαμπάκας",
+      "latitude": 39.701399,
+      "longitude": 21.611689
+    },
+    {
+      "name": "Κλειστό Γήπεδο",
+      "latitude": 40.663925,
+      "longitude": 22.799869
+    },
+    {
+      "name": "Κλειστό Γήπεδο Γουδί",
+      "latitude": 37.98371,
+      "longitude": 23.77987
+    },
+    {
+      "name": "Κλειστό γήπεδο μπάσκετ",
+      "latitude": 37.104671,
+      "longitude": 25.380344
+    },
+    {
+      "name": "Κλειστό Γήπεδο Μπάσκετ Γλαΰκου",
+      "latitude": 38.216825,
+      "longitude": 21.724699
+    },
+    {
+      "name": "κλειστό γήπεδο μπάσκετ Καμινίων",
+      "latitude": 37.951173,
+      "longitude": 23.653459
+    },
+    {
+      "name": "Κλειστό γήπεδο μπάσκετ Λευκοπηγής",
+      "latitude": 40.235055,
+      "longitude": 21.75293
+    },
+    {
+      "name": "Κλειστό Γήπεδο Μπάσκετ Παπαστράτειο",
+      "latitude": 37.951699,
+      "longitude": 23.645685
+    },
+    {
+      "name": "Κλειστό Γήπεδο Προμηθέα",
+      "latitude": 38.285222,
+      "longitude": 21.767798
+    },
+    {
+      "name": "Κλειστό Γήπεδο Τριγώνου",
+      "latitude": 40.650833,
+      "longitude": 22.959305
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 37.973073,
+      "longitude": 23.78405
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 38.835151,
+      "longitude": 20.699156
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 40.288145,
+      "longitude": 23.545078
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 40.48689,
+      "longitude": 23.599074
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 40.986581,
+      "longitude": 24.704734
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 40.987654,
+      "longitude": 24.705483
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 41.138426,
+      "longitude": 25.362436
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο",
+      "latitude": 41.233529,
+      "longitude": 23.387254
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο \"Μυρακτής\"",
+      "latitude": 37.961133,
+      "longitude": 23.759373
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο «Οδυσσέας Παπαδόπουλος»",
+      "latitude": 37.869163,
+      "longitude": 23.744077
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Άργους",
+      "latitude": 37.628443,
+      "longitude": 22.713386
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Α.Π.Θ.",
+      "latitude": 40.626898,
+      "longitude": 22.962995
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αγ. Γεωργίου",
+      "latitude": 40.301937,
+      "longitude": 21.799837
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αγίου Θωμά",
+      "latitude": 39.631147,
+      "longitude": 22.384476
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αγίου Σπυρίδωνα",
+      "latitude": 40.201974,
+      "longitude": 22.440419
+    },
+    {
+      "name": "Κλειστό γυμναστήριο Αγίου Στεφάνου",
+      "latitude": 38.143387,
+      "longitude": 23.858223
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αγίου Τρύφωνα",
+      "latitude": 37.890475,
+      "longitude": 23.76662
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο ΑΓΙΑΣ ΤΡΙΑΔΟΣ",
+      "latitude": 38.038981,
+      "longitude": 23.672528
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αλεξ/πόλης \"Μιχάλης Παρασκευόπουλος\"",
+      "latitude": 40.844238,
+      "longitude": 25.867958
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αμαλιάδας",
+      "latitude": 37.798466,
+      "longitude": 21.360138
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αμπελοκήπων 'Μέγας Αλέξανδρος'",
+      "latitude": 40.659434,
+      "longitude": 22.922279
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Αργοστολίου \"Αντώνης Τρίτσης\"",
+      "latitude": 38.165907,
+      "longitude": 20.499768
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Γέφυρας",
+      "latitude": 40.731358,
+      "longitude": 22.685259
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Γόννων",
+      "latitude": 39.863038,
+      "longitude": 22.470291
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Δήμου Αγίου Δημητρίου",
+      "latitude": 37.934081,
+      "longitude": 23.736455
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Διονύσου",
+      "latitude": 38.094399,
+      "longitude": 23.892321
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Δράμας",
+      "latitude": 41.157498,
+      "longitude": 24.145687
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Εθνικής Αντίστασης",
+      "latitude": 37.952966,
+      "longitude": 23.708354
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Ελευθερίου",
+      "latitude": 40.672942,
+      "longitude": 22.890296
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Ελευθερούπολης",
+      "latitude": 40.920166,
+      "longitude": 24.269379
+    },
+    {
+      "name": "Κλειστό γυμναστήριο ΕΛΜΕΠΑ \"Μάρκος Καραναστάσης\"",
+      "latitude": 35.315428,
+      "longitude": 25.102579
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Εργάνης",
+      "latitude": 37.952305,
+      "longitude": 23.757916
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Ηγουμενίτσας «Αλεξάνδρα Τσιάβου»",
+      "latitude": 39.492902,
+      "longitude": 20.265222
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Θηβών",
+      "latitude": 38.308608,
+      "longitude": 23.320059
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Κοκκινιάς Αμαρουσίου",
+      "latitude": 38.0488,
+      "longitude": 23.814329
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Κοντόπευκου",
+      "latitude": 38.01925,
+      "longitude": 23.830617
+    },
+    {
+      "name": "κλειστό γυμναστήριο Λιβαδειάς",
+      "latitude": 38.442684,
+      "longitude": 22.871406
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Λυγουριού",
+      "latitude": 37.613472,
+      "longitude": 23.046213
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Μ.Ε.Ν.Τ.",
+      "latitude": 40.605711,
+      "longitude": 22.972307
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Μοσχάτου",
+      "latitude": 37.954066,
+      "longitude": 23.68793
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νέας Γενιάς",
+      "latitude": 40.63889,
+      "longitude": 23.033035
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νέας Κίου",
+      "latitude": 37.58959,
+      "longitude": 22.743785
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νεάπολης",
+      "latitude": 39.613088,
+      "longitude": 22.398835
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νεάπολης",
+      "latitude": 40.656056,
+      "longitude": 22.946704
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νεμέας",
+      "latitude": 37.811132,
+      "longitude": 22.65603
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Νεοχωρίου Άρτας",
+      "latitude": 39.069224,
+      "longitude": 21.014303
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο ΟΣΚ",
+      "latitude": 38.045665,
+      "longitude": 23.738693
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Παναγιώτης Σαλπέας",
+      "latitude": 37.93844,
+      "longitude": 23.631245
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Πολυγύρου",
+      "latitude": 40.381663,
+      "longitude": 23.433522
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Σιδηροδρομικού Σταθμού",
+      "latitude": 40.273806,
+      "longitude": 22.53335
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Στρέφη",
+      "latitude": 37.988763,
+      "longitude": 23.737434
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Τρίπολης",
+      "latitude": 37.523428,
+      "longitude": 22.378605
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Φαρσάλων",
+      "latitude": 39.301125,
+      "longitude": 22.386814
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Χαλκηδόνος",
+      "latitude": 40.735303,
+      "longitude": 22.599886
+    },
+    {
+      "name": "Κλειστό Γυμναστήριο Χανίων (Κλαδισού)",
+      "latitude": 35.508931,
+      "longitude": 24.001738
+    },
+    {
+      "name": "Κλειστό Γυμναστηριο Λουτρακίου",
+      "latitude": 37.945063,
+      "longitude": 22.978497
+    },
+    {
+      "name": "Κλειστό Γυνμναστήριο Αλίμου",
+      "latitude": 37.920361,
+      "longitude": 23.739665
+    },
+    {
+      "name": "Κλειστό Δημοτικό Γυμναστήριο",
+      "latitude": 38.0433,
+      "longitude": 23.757803
+    },
+    {
+      "name": "Κλειστό Δημοτικό Γυμναστήριο Μελισσίων",
+      "latitude": 38.047845,
+      "longitude": 23.829559
+    },
+    {
+      "name": "Κλειστό Δημοτικό Γυμναστήριο Μετσόβου",
+      "latitude": 39.769981,
+      "longitude": 21.177655
+    },
+    {
+      "name": "Κλειστό Δημοτικό Γυμναστήριο Πανοράματος",
+      "latitude": 40.58199,
+      "longitude": 23.034212
+    },
+    {
+      "name": "Κλειστό Κολυμβητήριο Νέας Σμύρνης",
+      "latitude": 37.946462,
+      "longitude": 23.721687
+    },
+    {
+      "name": "Κλειστό Κολυμβητήριο Τρίπολης",
+      "latitude": 37.524087,
+      "longitude": 22.378281
+    },
+    {
+      "name": "Κλειστό Ολυμπιάδας",
+      "latitude": 38.21591,
+      "longitude": 21.741841
+    },
+    {
+      "name": "Κλειστό Παναγιάς Αλεξιώτισσας",
+      "latitude": 38.234925,
+      "longitude": 21.751304
+    },
+    {
+      "name": "Κλειστό Παραλίας-Ροίτικων Πατρών",
+      "latitude": 38.178787,
+      "longitude": 21.689862
+    },
+    {
+      "name": "Κλειστό Προπονητικό Κέντρο",
+      "latitude": 41.123718,
+      "longitude": 25.386283
+    },
+    {
+      "name": "Κλειστό ΣΕΓΑΣ",
+      "latitude": 38.227693,
+      "longitude": 21.726971
+    },
+    {
+      "name": "Κολυμβητήριο",
+      "latitude": 39.679725,
+      "longitude": 20.839427
+    },
+    {
+      "name": "Κολυμβητήριο",
+      "latitude": 40.271178,
+      "longitude": 22.487623
+    },
+    {
+      "name": "Κολυμβητήριο",
+      "latitude": 41.100634,
+      "longitude": 23.551646
+    },
+    {
+      "name": "Κολυμβητήριο",
+      "latitude": 41.121869,
+      "longitude": 25.41422
+    },
+    {
+      "name": "Κολυμβητήριο Athinna Swimming Center",
+      "latitude": 38.025088,
+      "longitude": 23.841387
+    },
+    {
+      "name": "Κολυμβητήριο «Ολυμπιονίκης Βασίλης Πολύμερος»",
+      "latitude": 39.382929,
+      "longitude": 22.93162
+    },
+    {
+      "name": "Κολυμβητήριο Ακρωτηρίου",
+      "latitude": 35.524062,
+      "longitude": 24.06762
+    },
+    {
+      "name": "Κολυμβητήριο Δήμου Συκεών",
+      "latitude": 40.650898,
+      "longitude": 22.960174
+    },
+    {
+      "name": "Κολυμβητήριο Καλαμάτας",
+      "latitude": 37.029908,
+      "longitude": 22.111826
+    },
+    {
+      "name": "Κολυμβητήριο Νέας Πολιτείας (κατασκευή)",
+      "latitude": 40.682419,
+      "longitude": 22.910166
+    },
+    {
+      "name": "Κολυμβητήριο Χαλκίδας",
+      "latitude": 38.455686,
+      "longitude": 23.605563
+    },
+    {
+      "name": "ΚΟΛΥΜΒΗΤΗΡΙΟ",
+      "latitude": 38.119397,
+      "longitude": 23.774813
+    },
+    {
+      "name": "Κρομμυώνιο Κλειστό Γυμναστήριο Αγίων Θεοδώρων",
+      "latitude": 37.933247,
+      "longitude": 23.139503
+    },
+    {
+      "name": "Λιάπειο Αθλητικό Κέντρο",
+      "latitude": 40.327092,
+      "longitude": 21.783527
+    },
+    {
+      "name": "Λιάπειο Γυμναστήριο",
+      "latitude": 40.327814,
+      "longitude": 21.783464
+    },
+    {
+      "name": "Μoraitis beach",
+      "latitude": 38.135239,
+      "longitude": 24.016291
+    },
+    {
+      "name": "Μίλωνας",
+      "latitude": 37.942103,
+      "longitude": 23.710128
+    },
+    {
+      "name": "Μαγνησιακός",
+      "latitude": 39.363294,
+      "longitude": 22.932386
+    },
+    {
+      "name": "Μεγάλο Κλειστό Ηρακλείου",
+      "latitude": 35.326712,
+      "longitude": 25.170787
+    },
+    {
+      "name": "Μελλοντικό Αυτοκινητοδρόμιο Χαλανδρίτσας/Πάτρας",
+      "latitude": 38.083965,
+      "longitude": 21.777808
+    },
+    {
+      "name": "Μιχαηλίδης",
+      "latitude": 40.671884,
+      "longitude": 22.896281
+    },
+    {
+      "name": "Μοντελοδρόμιο Κοζάνης",
+      "latitude": 40.355638,
+      "longitude": 21.773779
+    },
+    {
+      "name": "Μόκας",
+      "latitude": 39.642881,
+      "longitude": 22.418865
+    },
+    {
+      "name": "Νέο Δημοτικό Κλειστό Κολυμβητήριο Αλεξανδρούπολης \"Δημοσθένης Μιχαλεντζάκης\"",
+      "latitude": 40.856682,
+      "longitude": 25.882409
+    },
+    {
+      "name": "Νήαρ Ήστ",
+      "latitude": 37.967221,
+      "longitude": 23.762301
+    },
+    {
+      "name": "Ναυταθλητικός Σύλλογος \"ΚΕΡΚΙΝΙΤΙΣ\"",
+      "latitude": 40.967476,
+      "longitude": 23.707534
+    },
+    {
+      "name": "Ναυταθλητικός Όμιλος Ηγουμενίτσας",
+      "latitude": 39.513785,
+      "longitude": 20.249783
+    },
+    {
+      "name": "Ναυτικός Αθλητικός Σύνδεσμος",
+      "latitude": 37.938205,
+      "longitude": 23.661695
+    },
+    {
+      "name": "Ναυτικός Αθλητικός Όμιλος Περάματος (Ν.Α.Ο.Π.)",
+      "latitude": 37.964536,
+      "longitude": 23.554881
+    },
+    {
+      "name": "Ναυτικός Όμιλος",
+      "latitude": 39.349937,
+      "longitude": 22.965754
+    },
+    {
+      "name": "Ναυτικός Όμιλος Βουλιαγμένης",
+      "latitude": 37.809249,
+      "longitude": 23.775011
+    },
+    {
+      "name": "Ναυτικός Όμιλος Καστοριάς",
+      "latitude": 40.522569,
+      "longitude": 21.27431
+    },
+    {
+      "name": "Ναυτικός Όμιλος Μαυροχωρίου",
+      "latitude": 40.50694,
+      "longitude": 21.321813
+    },
+    {
+      "name": "Νεο γηπεδο (σταδιο) Θεσπιων",
+      "latitude": 38.316617,
+      "longitude": 23.143691
+    },
+    {
+      "name": "Ολυμπιακό Αθλητικό Κέντρο Αθηνών \"Σπύρος Λούης\"",
+      "latitude": 38.03798,
+      "longitude": 23.785059
+    },
+    {
+      "name": "Ολυμπιακό Γυμναστήριο Ρυθμικής Γυμναστικής & Πινγκ Πονγκ",
+      "latitude": 38.027006,
+      "longitude": 23.760327
+    },
+    {
+      "name": "Ολυμπιακό Ποδηλατοδρόμιο",
+      "latitude": 38.040274,
+      "longitude": 23.780376
+    },
+    {
+      "name": "Ολυμπιακό Σκοπευτήριο Μαρκόπουλου",
+      "latitude": 37.869705,
+      "longitude": 23.909254
+    },
+    {
+      "name": "Πίστα Motocross",
+      "latitude": 38.261859,
+      "longitude": 23.819957
+    },
+    {
+      "name": "Πίστα motocross 'Δωροθέα Αναστασοπούλου'",
+      "latitude": 38.250827,
+      "longitude": 22.051786
+    },
+    {
+      "name": "Πίστα Motocross Βελβεντού",
+      "latitude": 40.2523,
+      "longitude": 22.08747
+    },
+    {
+      "name": "Πίστα Motocross Λάκκωμα",
+      "latitude": 40.369318,
+      "longitude": 23.07487
+    },
+    {
+      "name": "Πίστα Motocross Παναγιωτόπουλος Κεραμοτουβλοποιία",
+      "latitude": 37.747257,
+      "longitude": 21.362877
+    },
+    {
+      "name": "Πίστα Κάρτ",
+      "latitude": 41.073658,
+      "longitude": 23.52016
+    },
+    {
+      "name": "Πίστα Καρτ",
+      "latitude": 40.087565,
+      "longitude": 23.802087
+    },
+    {
+      "name": "Πίστα καρτ ΦΕΛΕΚΟΣ",
+      "latitude": 36.99345,
+      "longitude": 22.468399
+    },
+    {
+      "name": "Παιδικές Κατασκηνώσεις Τράπεζας της Ελλάδος",
+      "latitude": 38.138359,
+      "longitude": 23.746926
+    },
+    {
+      "name": "Παλιό κολυμβητήριο",
+      "latitude": 40.934947,
+      "longitude": 24.404184
+    },
+    {
+      "name": "Πανελλήνιος Γυμναστικός Σύλλογος",
+      "latitude": 37.994975,
+      "longitude": 23.733606
+    },
+    {
+      "name": "Πανεπιστημιακό Γυμναστήριο",
+      "latitude": 37.97205,
+      "longitude": 23.764638
+    },
+    {
+      "name": "Πανεπιστημιακό Γυμναστήριο ΑΠΘ",
+      "latitude": 40.626279,
+      "longitude": 22.963337
+    },
+    {
+      "name": "Πανεπιστημιακό Γυμναστήριο Πατρών",
+      "latitude": 38.282056,
+      "longitude": 21.788568
+    },
+    {
+      "name": "Πανηπειρωτικό Αθλητικό Κέντρο Ιωαννίνων",
+      "latitude": 39.623166,
+      "longitude": 20.863358
+    },
+    {
+      "name": "Πανηπειρωτικό Εθνικό Αθλητικό Κέντρο Ιωαννινών ''Λιμνοπούλα''",
+      "latitude": 39.680365,
+      "longitude": 20.840779
+    },
+    {
+      "name": "Πανθεσσαλικό Στάδιο",
+      "latitude": 39.387478,
+      "longitude": 22.931671
+    },
+    {
+      "name": "Πανθρακικό Στάδιο Κομοτηνής",
+      "latitude": 41.122123,
+      "longitude": 25.385671
+    },
+    {
+      "name": "Παντρικαλινος Καρατε",
+      "latitude": 39.703634,
+      "longitude": 21.625277
+    },
+    {
+      "name": "Ποδηλατούπολη - Κυκλοφοριακό Κέντρο",
+      "latitude": 41.144987,
+      "longitude": 24.155648
+    },
+    {
+      "name": "Ποσειδώνιο Κολυμβητήριο",
+      "latitude": 40.59704,
+      "longitude": 22.949713
+    },
+    {
+      "name": "Προπονητικό Κέντρο «Γιώργος Καλαφάτης»",
+      "latitude": 37.919658,
+      "longitude": 23.833792
+    },
+    {
+      "name": "Προπονητικό Κέντρο Αγίου Διονυσίου",
+      "latitude": 37.951422,
+      "longitude": 23.636053
+    },
+    {
+      "name": "Προπονητικό κέντρο ΠΑΕ ΑΕΛ",
+      "latitude": 39.685723,
+      "longitude": 22.342718
+    },
+    {
+      "name": "Πρωτέας - Σύλλογος Αντισφαίρισης Καστοριάς",
+      "latitude": 40.540111,
+      "longitude": 21.259464
+    },
+    {
+      "name": "Πρότυπο Αθλητικό Κέντρο Χαλανδρίου",
+      "latitude": 38.009177,
+      "longitude": 23.786728
+    },
+    {
+      "name": "Πϊστα Motocross Σέσκλου",
+      "latitude": 39.361133,
+      "longitude": 22.826831
+    },
+    {
+      "name": "Ρ.Ο.Α. (Ροδιακός Όμιλος Αντισφαίρησης)",
+      "latitude": 36.422105,
+      "longitude": 28.23047
+    },
+    {
+      "name": "Ρέστειο Κολυμβητήριο",
+      "latitude": 37.932943,
+      "longitude": 23.68688
+    },
+    {
+      "name": "Σκολή πολεμικών τέχνων Παπαπούλιος",
+      "latitude": 39.701264,
+      "longitude": 21.626149
+    },
+    {
+      "name": "Σκοπευτήριο",
+      "latitude": 39.354915,
+      "longitude": 22.969171
+    },
+    {
+      "name": "Σκοπευτήριο Θήβας",
+      "latitude": 38.384683,
+      "longitude": 23.407749
+    },
+    {
+      "name": "Σκοπευτήριο Μαλακάσας",
+      "latitude": 38.270158,
+      "longitude": 23.781174
+    },
+    {
+      "name": "Σκοπευτήριο Τρίπολης",
+      "latitude": 37.529142,
+      "longitude": 22.380151
+    },
+    {
+      "name": "Σπίτι Γυμναστικής",
+      "latitude": 37.89898,
+      "longitude": 23.757807
+    },
+    {
+      "name": "Στάδιο Ζωσιμάδων",
+      "latitude": 39.667498,
+      "longitude": 20.847575
+    },
+    {
+      "name": "Στάδιο Φλώρινας",
+      "latitude": 40.802052,
+      "longitude": 21.425744
+    },
+    {
+      "name": "Στάδιο Χιλιομοδίου",
+      "latitude": 37.806971,
+      "longitude": 22.873321
+    },
+    {
+      "name": "ΣΤΑΔΙΟ ΕΛΕΥΘΕΡΙΑΣ",
+      "latitude": 35.33534,
+      "longitude": 25.125591
+    },
+    {
+      "name": "Σχολή Αγίας Παρασκευής Βόλου",
+      "latitude": 39.38672,
+      "longitude": 22.956861
+    },
+    {
+      "name": "Σχολικό Κλειστό Γυμναστήριο",
+      "latitude": 38.059706,
+      "longitude": 23.753839
+    },
+    {
+      "name": "Σύλλογος Ερασιτεχνών Αλιέων Ναυτικών Αθλημάτων Δήμου Περάματος Σ.Ε.Α.Ν.Α.Δ.Π.",
+      "latitude": 37.964024,
+      "longitude": 23.552161
+    },
+    {
+      "name": "Τμήμα Σκοποβολής",
+      "latitude": 40.784638,
+      "longitude": 22.415293
+    },
+    {
+      "name": "ΤΣΑΚ ΜΠΑΜ ARENA",
+      "latitude": 40.543796,
+      "longitude": 23.001554
+    },
+    {
+      "name": "Υδροθεραπευτήριο ιαματικών λουτρών Ηραίας",
+      "latitude": 37.635484,
+      "longitude": 21.877389
+    },
+    {
+      "name": "Φοίνικας Πειραιά",
+      "latitude": 37.927048,
+      "longitude": 23.631167
+    },
+    {
+      "name": "ΦΟΙΒΟΣ - ΑΝΑΤΟΛΙΚΟ ΚΛΕΙΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ",
+      "latitude": 38.118868,
+      "longitude": 23.774647
+    },
+    {
+      "name": "Φωκιανός",
+      "latitude": 37.969991,
+      "longitude": 23.738403
+    },
+    {
+      "name": "Χαλάνδρι Tennis Club",
+      "latitude": 38.014253,
+      "longitude": 23.812945
+    },
+    {
+      "name": "ΧΑΛΚΙΟΠΟΥΛΕΙΟ ΚΛΕΙΣΤΟ ΓΥΜΝΑΣΤΗΡΙΟ",
+      "latitude": 38.891625,
+      "longitude": 22.445931
+    },
+    {
+      "name": "Χιονοδρομικό Κέντρο 3-5 Πηγάδια",
+      "latitude": 40.639031,
+      "longitude": 21.967647
+    },
+    {
+      "name": "Χιονοδρομικό Κέντρο Βασιλίτσας",
+      "latitude": 40.052375,
+      "longitude": 21.099638
+    },
+    {
+      "name": "Χιονοδρομικό Κέντρο Μετσόβου",
+      "latitude": 39.784586,
+      "longitude": 21.157732
+    },
+    {
+      "name": "Χώρος αθλητικών εγκαταστάσεων",
+      "latitude": 40.6546,
+      "longitude": 22.996384
+    },
+    {
+      "name": "Όμιλος Αντισφαίρισης Αθηνών",
+      "latitude": 37.969123,
+      "longitude": 23.735166
+    },
+    {
+      "name": "Όμιλος Αντισφαίρισης Ευόσμου;",
+      "latitude": 40.66192,
+      "longitude": 22.913035
+    },
+    {
+      "name": "Όμιλος Αντισφαίρισης Θεσσαλονίκης",
+      "latitude": 40.590415,
+      "longitude": 22.956503
+    },
+    {
+      "name": "Όμιλος Αντισφαίρισης Φιλοθέης",
+      "latitude": 38.027499,
+      "longitude": 23.781692
+    },
+    {
+      "name": "Όμιλος Πνευματικού Αθλητισμού Φιλοθέης",
+      "latitude": 38.0251,
+      "longitude": 23.786613
+    }
+  ],
+  "meta": {
+    "title": "Αθλητικά κέντρα Ελλάδας - Δωρεάν λήψη",
+    "description": "Αθλητικά κέντρα σε όλη την Ελλάδα από το OpenStreetMap. Sports centres across Greece. Περιέχει 603 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αθλητικά κέντρα Ελλάδας | ListBase",
+    "seo_description": "Λήψη Αθλητικά κέντρα Ελλάδας — 603 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 603 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

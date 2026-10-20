@@ -1,0 +1,86 @@
+{
+  "id": "el-dramas-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Δραμας (5)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Δραμας (5)",
+  "description": "Οι 5 δήμοι της Περιφερειακής Ενότητας Δραμας (Περιφέρεια Αν. Μακεδονιας & Θρακης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9001",
+      "name": "Δοξατου",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9002",
+      "name": "Δραμας",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9003",
+      "name": "Κατω Νευροκοπιου",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9004",
+      "name": "Παρανεστιου",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9005",
+      "name": "Προσοτσανης",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Δραμας (5) - Δωρεάν λήψη",
+    "description": "Οι 5 δήμοι της Περιφερειακής Ενότητας Δραμας (Περιφέρεια Αν. Μακεδονιας & Θρακης) σύμφωνα με τον Καλλικράτη. Περιέχει 5 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Δραμας (5) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Δραμας (5) — 5 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 5 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

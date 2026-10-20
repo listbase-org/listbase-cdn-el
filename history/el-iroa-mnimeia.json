@@ -1,0 +1,6576 @@
+{
+  "id": "el-iroa-mnimeia",
+  "name": "Ηρώα και μνημεία στην Ελλάδα",
+  "title": "Ηρώα και μνημεία στην Ελλάδα",
+  "description": "Ηρώα και αναμνηστικά μνημεία στην Ελλάδα από δεδομένα OpenStreetMap (historic=memorial). Διακριτό από el-mnimeia-pagkosmias-klironomias-unesco. Όνομα και συντεταγμένες WGS84.",
+  "category": "history",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1307,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "42nd Street Battle of Crete Anzac Memorial",
+      "latitude": 35.481095,
+      "longitude": 24.056623
+    },
+    {
+      "name": "Agios Dimitrios",
+      "latitude": 39.148574,
+      "longitude": 23.843747
+    },
+    {
+      "name": "Agnostos Startiotis",
+      "latitude": 35.207715,
+      "longitude": 26.106477
+    },
+    {
+      "name": "Alidakis 1774",
+      "latitude": 35.294986,
+      "longitude": 24.185792
+    },
+    {
+      "name": "Anchor",
+      "latitude": 37.963327,
+      "longitude": 23.494991
+    },
+    {
+      "name": "Anchor",
+      "latitude": 38.012795,
+      "longitude": 24.420656
+    },
+    {
+      "name": "ANZAC memorial",
+      "latitude": 38.796485,
+      "longitude": 22.535246
+    },
+    {
+      "name": "Asa Jennings Memorial",
+      "latitude": 39.362405,
+      "longitude": 22.94088
+    },
+    {
+      "name": "Athens Memorial",
+      "latitude": 37.917299,
+      "longitude": 23.704922
+    },
+    {
+      "name": "Battle of Crete",
+      "latitude": 35.336291,
+      "longitude": 25.138495
+    },
+    {
+      "name": "Battle of Crete (Mines)",
+      "latitude": 35.526825,
+      "longitude": 23.823911
+    },
+    {
+      "name": "Battle of Crete (Torpedos)",
+      "latitude": 35.526712,
+      "longitude": 23.824848
+    },
+    {
+      "name": "Battle of Crete 1941 - German Parachutist Memorial",
+      "latitude": 35.506226,
+      "longitude": 23.993578
+    },
+    {
+      "name": "Battle of Salamis Memorial",
+      "latitude": 37.951754,
+      "longitude": 23.52767
+    },
+    {
+      "name": "Benitses Park Monument",
+      "latitude": 39.54714,
+      "longitude": 19.912668
+    },
+    {
+      "name": "Bust of Aristotle",
+      "latitude": 38.462546,
+      "longitude": 23.589907
+    },
+    {
+      "name": "Canal von Corinth",
+      "latitude": 37.927486,
+      "longitude": 22.99479
+    },
+    {
+      "name": "Civil War Memorial",
+      "latitude": 37.741907,
+      "longitude": 26.65941
+    },
+    {
+      "name": "Cross",
+      "latitude": 39.692982,
+      "longitude": 20.650693
+    },
+    {
+      "name": "Daughter of the Sea",
+      "latitude": 40.310323,
+      "longitude": 23.063235
+    },
+    {
+      "name": "Defenders of Crete monument",
+      "latitude": 35.514109,
+      "longitude": 23.912195
+    },
+    {
+      "name": "Deli 6",
+      "latitude": 35.430126,
+      "longitude": 23.730567
+    },
+    {
+      "name": "Elia's Garden",
+      "latitude": 39.60816,
+      "longitude": 19.914542
+    },
+    {
+      "name": "Emperor Hadrian (117 to 138 AD)",
+      "latitude": 37.975344,
+      "longitude": 23.722326
+    },
+    {
+      "name": "French memorial",
+      "latitude": 35.336244,
+      "longitude": 25.174406
+    },
+    {
+      "name": "General Kreipe",
+      "latitude": 35.264369,
+      "longitude": 25.182
+    },
+    {
+      "name": "Georgios Mangos",
+      "latitude": 36.949604,
+      "longitude": 26.984252
+    },
+    {
+      "name": "Gerald Durrell",
+      "latitude": 39.624352,
+      "longitude": 19.925575
+    },
+    {
+      "name": "Giannis Ritsos (Greek poet) chair",
+      "latitude": 37.798451,
+      "longitude": 26.698548
+    },
+    {
+      "name": "GOLGOTHA",
+      "latitude": 35.489174,
+      "longitude": 23.94436
+    },
+    {
+      "name": "Guri i Sulejmanit",
+      "latitude": 40.479906,
+      "longitude": 20.849517
+    },
+    {
+      "name": "H.M.S. Perseus",
+      "latitude": 38.149309,
+      "longitude": 20.786797
+    },
+    {
+      "name": "Helenic Australian Memorial",
+      "latitude": 35.366971,
+      "longitude": 24.470157
+    },
+    {
+      "name": "Heroine Maniatissa",
+      "latitude": 36.643678,
+      "longitude": 22.383158
+    },
+    {
+      "name": "Heroon",
+      "latitude": 37.906718,
+      "longitude": 22.880872
+    },
+    {
+      "name": "Heroon of the fallen for the homeland",
+      "latitude": 41.419366,
+      "longitude": 26.226163
+    },
+    {
+      "name": "Heroon of the fallen for the homeland",
+      "latitude": 41.45196,
+      "longitude": 26.207344
+    },
+    {
+      "name": "Heroon of the fallen of the Battle of Metaxades",
+      "latitude": 41.413978,
+      "longitude": 26.220052
+    },
+    {
+      "name": "Hippocrates",
+      "latitude": 36.878061,
+      "longitude": 27.266176
+    },
+    {
+      "name": "Iepoc Naoc",
+      "latitude": 35.40548,
+      "longitude": 24.169339
+    },
+    {
+      "name": "Igoumenos Gavriil",
+      "latitude": 35.367514,
+      "longitude": 24.476372
+    },
+    {
+      "name": "In memory of the people of Pefkos who suffered the atrocities of Nazi troops",
+      "latitude": 35.040458,
+      "longitude": 25.469631
+    },
+    {
+      "name": "IROON",
+      "latitude": 40.513759,
+      "longitude": 23.825373
+    },
+    {
+      "name": "Italian War Memorial",
+      "latitude": 38.187471,
+      "longitude": 20.473505
+    },
+    {
+      "name": "José Gervasio Artigas",
+      "latitude": 37.975651,
+      "longitude": 23.751844
+    },
+    {
+      "name": "K. Μαζαράκης-Αινιάν",
+      "latitude": 40.843105,
+      "longitude": 25.873263
+    },
+    {
+      "name": "Kalliopi M Gioulounda",
+      "latitude": 35.348785,
+      "longitude": 24.529836
+    },
+    {
+      "name": "KEAP Monument",
+      "latitude": 38.154618,
+      "longitude": 23.749952
+    },
+    {
+      "name": "KIMITIRIO",
+      "latitude": 40.515432,
+      "longitude": 23.822091
+    },
+    {
+      "name": "Kostas Giamboudakis",
+      "latitude": 35.366796,
+      "longitude": 24.474597
+    },
+    {
+      "name": "Lawrence Durrell",
+      "latitude": 39.624037,
+      "longitude": 19.925645
+    },
+    {
+      "name": "Locomotive",
+      "latitude": 38.013074,
+      "longitude": 24.422252
+    },
+    {
+      "name": "Manto Magdalena Mavrogenous",
+      "latitude": 37.085609,
+      "longitude": 25.149428
+    },
+    {
+      "name": "Melchizedek Despotakis",
+      "latitude": 35.492072,
+      "longitude": 23.65738
+    },
+    {
+      "name": "Memorial for Dennis Arvanitakis",
+      "latitude": 37.864756,
+      "longitude": 20.624736
+    },
+    {
+      "name": "Memorial of 1821",
+      "latitude": 37.907457,
+      "longitude": 23.873337
+    },
+    {
+      "name": "Memorial of Cretan soldiers in Cyprus",
+      "latitude": 35.339929,
+      "longitude": 25.123128
+    },
+    {
+      "name": "Memorial of the Dead (1866 siege ossuary)",
+      "latitude": 35.310379,
+      "longitude": 24.627966
+    },
+    {
+      "name": "Memorial of the Fallen",
+      "latitude": 41.434712,
+      "longitude": 26.221589
+    },
+    {
+      "name": "Memorial of War",
+      "latitude": 35.291747,
+      "longitude": 24.176561
+    },
+    {
+      "name": "Memorial to Battle of Deleria",
+      "latitude": 39.802933,
+      "longitude": 22.341585
+    },
+    {
+      "name": "Memorial: ΑΛΕΞΑΝΔΡΟΣ ΔΙΑΚΟΣ",
+      "latitude": 36.222028,
+      "longitude": 27.612385
+    },
+    {
+      "name": "Memory of the French Philhellenes",
+      "latitude": 37.567257,
+      "longitude": 22.796399
+    },
+    {
+      "name": "Mercedes L322 ΒΙΑΜΑΞ",
+      "latitude": 40.654125,
+      "longitude": 22.902606
+    },
+    {
+      "name": "Mesa Apidi Memorial",
+      "latitude": 35.056386,
+      "longitude": 26.119834
+    },
+    {
+      "name": "Metal Cross Hill 107",
+      "latitude": 35.518684,
+      "longitude": 23.832211
+    },
+    {
+      "name": "Michalis Papadakis \"Plakianos\"",
+      "latitude": 35.452154,
+      "longitude": 24.210981
+    },
+    {
+      "name": "Mikhail Damiralis",
+      "latitude": 37.107883,
+      "longitude": 25.375944
+    },
+    {
+      "name": "Mnimeio Pesonton",
+      "latitude": 38.708836,
+      "longitude": 22.329678
+    },
+    {
+      "name": "Mnimeío Ethnomartýron Soulíou",
+      "latitude": 37.789363,
+      "longitude": 20.899814
+    },
+    {
+      "name": "Monument of memory for the SS Tanais.",
+      "latitude": 35.51723,
+      "longitude": 24.024564
+    },
+    {
+      "name": "Monument of Santa Roza",
+      "latitude": 36.918151,
+      "longitude": 21.674573
+    },
+    {
+      "name": "Nikol. Emm. Παπαδάκης",
+      "latitude": 35.393708,
+      "longitude": 24.237559
+    },
+    {
+      "name": "Nikolaos Vouvalis",
+      "latitude": 36.949598,
+      "longitude": 26.983822
+    },
+    {
+      "name": "Nikolas Stellas Memorial",
+      "latitude": 37.04567,
+      "longitude": 25.247991
+    },
+    {
+      "name": "Nikos Kazantzakis",
+      "latitude": 36.850176,
+      "longitude": 22.259434
+    },
+    {
+      "name": "old cannon turret",
+      "latitude": 36.316113,
+      "longitude": 28.200932
+    },
+    {
+      "name": "old M-24 Chaffee turret",
+      "latitude": 36.3169,
+      "longitude": 28.200623
+    },
+    {
+      "name": "Old Statue",
+      "latitude": 38.080464,
+      "longitude": 23.736126
+    },
+    {
+      "name": "Peace",
+      "latitude": 37.778098,
+      "longitude": 26.647542
+    },
+    {
+      "name": "Pizanias",
+      "latitude": 36.946667,
+      "longitude": 26.983932
+    },
+    {
+      "name": "Pythagoras cave or Sarantaskaliotissas",
+      "latitude": 37.727786,
+      "longitude": 26.658811
+    },
+    {
+      "name": "RAF",
+      "latitude": 35.411015,
+      "longitude": 24.244698
+    },
+    {
+      "name": "RAF Memorial Battle of Crete",
+      "latitude": 35.525334,
+      "longitude": 23.828621
+    },
+    {
+      "name": "Resistance memorial",
+      "latitude": 35.332366,
+      "longitude": 24.249077
+    },
+    {
+      "name": "Rupert Brooke",
+      "latitude": 38.908609,
+      "longitude": 24.568112
+    },
+    {
+      "name": "scritta OXI",
+      "latitude": 39.902364,
+      "longitude": 20.612132
+    },
+    {
+      "name": "Shipwreck memorial",
+      "latitude": 35.518894,
+      "longitude": 24.014295
+    },
+    {
+      "name": "Sir Arthur Evans",
+      "latitude": 35.297962,
+      "longitude": 25.162234
+    },
+    {
+      "name": "Skevos Zervos",
+      "latitude": 36.94959,
+      "longitude": 26.983458
+    },
+    {
+      "name": "Sougia memorial",
+      "latitude": 35.268248,
+      "longitude": 23.811615
+    },
+    {
+      "name": "Spartathlon",
+      "latitude": 37.077242,
+      "longitude": 22.429115
+    },
+    {
+      "name": "SS Clan Fraser",
+      "latitude": 37.943588,
+      "longitude": 23.644265
+    },
+    {
+      "name": "Stavros G. Niotis",
+      "latitude": 35.298301,
+      "longitude": 24.859695
+    },
+    {
+      "name": "The Cross of Sacrifice",
+      "latitude": 37.918188,
+      "longitude": 23.705567
+    },
+    {
+      "name": "Titos Zografidis",
+      "latitude": 35.256894,
+      "longitude": 25.607536
+    },
+    {
+      "name": "To those who died for his country",
+      "latitude": 36.227971,
+      "longitude": 27.85481
+    },
+    {
+      "name": "Tripiti memorial",
+      "latitude": 35.236959,
+      "longitude": 23.873997
+    },
+    {
+      "name": "Varri i Pronjarit",
+      "latitude": 40.458858,
+      "longitude": 20.823695
+    },
+    {
+      "name": "War Heroes memorial",
+      "latitude": 38.710104,
+      "longitude": 21.962333
+    },
+    {
+      "name": "War Memorial",
+      "latitude": 35.191897,
+      "longitude": 24.452199
+    },
+    {
+      "name": "war memorial",
+      "latitude": 37.050974,
+      "longitude": 25.246483
+    },
+    {
+      "name": "Wooden Cross Hill 107",
+      "latitude": 35.518237,
+      "longitude": 23.832606
+    },
+    {
+      "name": "WW2",
+      "latitude": 35.491798,
+      "longitude": 23.966333
+    },
+    {
+      "name": "Άγαλμα",
+      "latitude": 40.7896,
+      "longitude": 22.410711
+    },
+    {
+      "name": "Άγαλμα Έλληνα Στρατιώτη",
+      "latitude": 39.744552,
+      "longitude": 20.341868
+    },
+    {
+      "name": "Άγαλμα Αλέξανδρου Υψηλάντη",
+      "latitude": 40.673376,
+      "longitude": 22.928942
+    },
+    {
+      "name": "Άγαλμα Αντιπλοιάρχου Παναγιώτη Βλαχάκου",
+      "latitude": 37.939813,
+      "longitude": 23.644941
+    },
+    {
+      "name": "Άγαλμα Αχιλλέα",
+      "latitude": 38.901208,
+      "longitude": 22.427026
+    },
+    {
+      "name": "Άγαλμα Γεωργάκη Ολυμπίου",
+      "latitude": 40.123638,
+      "longitude": 22.157515
+    },
+    {
+      "name": "Άγαλμα Ελευθερίου Βενιζέλου",
+      "latitude": 35.337345,
+      "longitude": 25.137273
+    },
+    {
+      "name": "Άγαλμα Ελευθερίου Βενιζέλου",
+      "latitude": 37.980112,
+      "longitude": 23.75316
+    },
+    {
+      "name": "Άγαλμα Ελευθερίου Βενιζέλου",
+      "latitude": 40.63616,
+      "longitude": 22.944421
+    },
+    {
+      "name": "Άγαλμα Ηρώς Π. Κωνσταντοπούλου",
+      "latitude": 37.940301,
+      "longitude": 23.645355
+    },
+    {
+      "name": "άγαλμα Θεμιστοκλή Σοφούλη",
+      "latitude": 37.753965,
+      "longitude": 26.976627
+    },
+    {
+      "name": "Άγαλμα Ιβάνοφ",
+      "latitude": 40.645523,
+      "longitude": 22.935519
+    },
+    {
+      "name": "Άγαλμα Κ. Καραμανλή",
+      "latitude": 40.622897,
+      "longitude": 22.951665
+    },
+    {
+      "name": "Άγαλμα Καποδίστρια",
+      "latitude": 37.566022,
+      "longitude": 22.800813
+    },
+    {
+      "name": "Άγαλμα Κολοκοτρώνη",
+      "latitude": 37.565874,
+      "longitude": 22.802388
+    },
+    {
+      "name": "Άγαλμα Κολοκοτρώνη",
+      "latitude": 37.783235,
+      "longitude": 22.755133
+    },
+    {
+      "name": "Άγαλμα Κωνσταντίνου Α'",
+      "latitude": 40.640245,
+      "longitude": 22.935349
+    },
+    {
+      "name": "Άγαλμα Κώσταντίνου Γεωργάκη",
+      "latitude": 39.6233,
+      "longitude": 19.920891
+    },
+    {
+      "name": "Άγαλμα Λεωνίδα",
+      "latitude": 37.079105,
+      "longitude": 22.428384
+    },
+    {
+      "name": "Άγαλμα Μεγάλου Αλεξάνδρου",
+      "latitude": 40.796693,
+      "longitude": 22.414612
+    },
+    {
+      "name": "Άγαλμα Νικηταρά",
+      "latitude": 37.752943,
+      "longitude": 22.873764
+    },
+    {
+      "name": "Άγαλμα Νικοτσάρα",
+      "latitude": 39.894841,
+      "longitude": 22.188555
+    },
+    {
+      "name": "Άγαλμα Πέτρος Πρωτοπαπαδάκης",
+      "latitude": 37.107178,
+      "longitude": 25.374264
+    },
+    {
+      "name": "Άγαλμα Παπα-Θύμιου Βλαχάβα",
+      "latitude": 39.734474,
+      "longitude": 21.632092
+    },
+    {
+      "name": "Άγαλμα Πλαστήρα",
+      "latitude": 38.091403,
+      "longitude": 23.819934
+    },
+    {
+      "name": "Άγαλμα Στρατηγού Πλαστήρα",
+      "latitude": 38.365316,
+      "longitude": 26.142865
+    },
+    {
+      "name": "Άγαλμα της Δόξας",
+      "latitude": 36.451809,
+      "longitude": 28.225147
+    },
+    {
+      "name": "Άγαλμα της Ελευθερίας",
+      "latitude": 39.105861,
+      "longitude": 26.563116
+    },
+    {
+      "name": "Άγαλμα της Ελευθερίας",
+      "latitude": 40.271389,
+      "longitude": 22.508952
+    },
+    {
+      "name": "Άγαλμα της Μητέρας",
+      "latitude": 38.044895,
+      "longitude": 23.751654
+    },
+    {
+      "name": "Άγαλμα Τσάμη Καρατάσου",
+      "latitude": 40.632833,
+      "longitude": 22.954452
+    },
+    {
+      "name": "Άγαλμα Φιλίππου Β'",
+      "latitude": 40.62616,
+      "longitude": 22.94955
+    },
+    {
+      "name": "Άγαλμα Χρυσοστόμου Σμύρνης",
+      "latitude": 40.63378,
+      "longitude": 22.946244
+    },
+    {
+      "name": "Άγγελος Σικελιανός",
+      "latitude": 37.985111,
+      "longitude": 23.43539
+    },
+    {
+      "name": "Άγγελος Τερζάκης",
+      "latitude": 37.567117,
+      "longitude": 22.800325
+    },
+    {
+      "name": "Άγιος Κωνσταντίνος",
+      "latitude": 39.637187,
+      "longitude": 22.424827
+    },
+    {
+      "name": "Άγιος Λουκάς",
+      "latitude": 38.314988,
+      "longitude": 23.323317
+    },
+    {
+      "name": "Άγιος Παΐσιος",
+      "latitude": 39.723141,
+      "longitude": 21.628605
+    },
+    {
+      "name": "Άγιος Σώστης",
+      "latitude": 37.955472,
+      "longitude": 23.716066
+    },
+    {
+      "name": "Άγιος Χρυσόστομος Σμύρνης",
+      "latitude": 38.014067,
+      "longitude": 23.694869
+    },
+    {
+      "name": "Άγκυρα",
+      "latitude": 36.615831,
+      "longitude": 27.835988
+    },
+    {
+      "name": "Άγκυρα Νέου Φρουρίου",
+      "latitude": 39.626019,
+      "longitude": 19.918016
+    },
+    {
+      "name": "Άγνωστος Στρατιώτης",
+      "latitude": 38.899291,
+      "longitude": 22.433564
+    },
+    {
+      "name": "Έλλη Λαμπέτη",
+      "latitude": 37.98254,
+      "longitude": 23.737118
+    },
+    {
+      "name": "Έφεδρος Αξιωματικός",
+      "latitude": 39.50395,
+      "longitude": 20.262711
+    },
+    {
+      "name": "Έφεδρος επιλοχίας Δημήτριος Ίτσιος",
+      "latitude": 41.287104,
+      "longitude": 23.034893
+    },
+    {
+      "name": "Έφιππος Ανδριάντας Νικολάου Πλαστήρα",
+      "latitude": 39.363818,
+      "longitude": 21.927131
+    },
+    {
+      "name": "Ήλιας Κουτουρας η Καπεταν Φαρμακης",
+      "latitude": 40.45465,
+      "longitude": 21.523558
+    },
+    {
+      "name": "Α. Μαβίλης",
+      "latitude": 39.672894,
+      "longitude": 20.85553
+    },
+    {
+      "name": "ΑΒΡΑΑΜ ΣΟΥΧΑΜΗ",
+      "latitude": 40.633266,
+      "longitude": 22.936194
+    },
+    {
+      "name": "ΑΓΑΘΟΣ Π. ΣΠΥΡΙΔΩΝ",
+      "latitude": 39.62653,
+      "longitude": 19.91924
+    },
+    {
+      "name": "Αγαλμα Κωνσταντίνου Καραμανλή",
+      "latitude": 36.448799,
+      "longitude": 28.224985
+    },
+    {
+      "name": "Αγγελής Γοβιός",
+      "latitude": 38.558123,
+      "longitude": 23.632816
+    },
+    {
+      "name": "Αγησίλαος Διον",
+      "latitude": 37.487946,
+      "longitude": 21.649872
+    },
+    {
+      "name": "ΑΓΙΩ ΜΑΚΑΡΙΩΣ",
+      "latitude": 37.347916,
+      "longitude": 23.465919
+    },
+    {
+      "name": "Αγνώστου Στρατιώτη",
+      "latitude": 41.179365,
+      "longitude": 23.972117
+    },
+    {
+      "name": "Αγροτικής Εξέγερσης 1858 - 1930",
+      "latitude": 39.733028,
+      "longitude": 20.439226
+    },
+    {
+      "name": "Αδαμάντιος Κοραής",
+      "latitude": 37.9806,
+      "longitude": 23.733601
+    },
+    {
+      "name": "Αδριάντας Παύλου Κουντουριώτη",
+      "latitude": 37.933488,
+      "longitude": 23.684901
+    },
+    {
+      "name": "Αεροπόρος",
+      "latitude": 40.629028,
+      "longitude": 21.98647
+    },
+    {
+      "name": "Αετός",
+      "latitude": 38.091191,
+      "longitude": 20.74808
+    },
+    {
+      "name": "Αθάνατοι Φλαμουριώτες",
+      "latitude": 40.705416,
+      "longitude": 21.522467
+    },
+    {
+      "name": "Αθανάσιος Διάκος",
+      "latitude": 37.992756,
+      "longitude": 23.734945
+    },
+    {
+      "name": "Αθανάσιος Διάκος",
+      "latitude": 38.810938,
+      "longitude": 22.495934
+    },
+    {
+      "name": "Αθανάσιος ΔΙάκος",
+      "latitude": 39.642182,
+      "longitude": 22.411175
+    },
+    {
+      "name": "Αθανάσιος Διάκος",
+      "latitude": 40.63265,
+      "longitude": 22.954314
+    },
+    {
+      "name": "Αθανασιος Δ. Αρκιδας",
+      "latitude": 38.905442,
+      "longitude": 22.125619
+    },
+    {
+      "name": "Αθανασιος Κανελλοπουλος",
+      "latitude": 37.483997,
+      "longitude": 21.904429
+    },
+    {
+      "name": "Αικατερίνη Ι. Γρηγορίου",
+      "latitude": 37.176145,
+      "longitude": 22.594831
+    },
+    {
+      "name": "Αιμίλιος Ξανθόπουλος",
+      "latitude": 40.277284,
+      "longitude": 22.505697
+    },
+    {
+      "name": "Αιμιλιανός Λαζαρίδης",
+      "latitude": 40.634163,
+      "longitude": 22.942589
+    },
+    {
+      "name": "Αισχύλος",
+      "latitude": 37.973117,
+      "longitude": 23.735091
+    },
+    {
+      "name": "Αλέκος Παναγούλης",
+      "latitude": 37.93859,
+      "longitude": 23.740809
+    },
+    {
+      "name": "Αλέξανδρος Μπλάνας",
+      "latitude": 39.639405,
+      "longitude": 22.419385
+    },
+    {
+      "name": "Αλέξανδρος Παναγούλης",
+      "latitude": 37.982346,
+      "longitude": 23.730894
+    },
+    {
+      "name": "Αλέξανδρος Παπάγος",
+      "latitude": 37.998536,
+      "longitude": 23.784311
+    },
+    {
+      "name": "Αλέξανδρος Παπαδιαμάντης",
+      "latitude": 37.979153,
+      "longitude": 23.741693
+    },
+    {
+      "name": "Αλέξανδρος Παπαδιαμάντης",
+      "latitude": 38.020104,
+      "longitude": 23.74142
+    },
+    {
+      "name": "Αλέξανδρος Παπαναστασίου",
+      "latitude": 37.513581,
+      "longitude": 22.374299
+    },
+    {
+      "name": "Αλέξανδρος Υψηλάντης",
+      "latitude": 37.993327,
+      "longitude": 23.735778
+    },
+    {
+      "name": "Αλίκη Βουγιουκλάκη",
+      "latitude": 37.98284,
+      "longitude": 23.756802
+    },
+    {
+      "name": "Αλεξάνδρος Διακος",
+      "latitude": 40.107202,
+      "longitude": 21.020171
+    },
+    {
+      "name": "Αλεξάντερ Φλέμινγκ",
+      "latitude": 37.977583,
+      "longitude": 23.706394
+    },
+    {
+      "name": "Αλεξάντερ Φλέμινγκ",
+      "latitude": 39.642288,
+      "longitude": 22.422137
+    },
+    {
+      "name": "Αμαρυσία Άρτεμις",
+      "latitude": 38.052533,
+      "longitude": 23.808613
+    },
+    {
+      "name": "αναθηματική στήλη Σωκράτη Καραντινού",
+      "latitude": 40.625679,
+      "longitude": 22.949458
+    },
+    {
+      "name": "Αναθηματική στήλη των φυλακών Αβερωφ",
+      "latitude": 37.988426,
+      "longitude": 23.752213
+    },
+    {
+      "name": "Αναστάσιος Παπαναστασίου",
+      "latitude": 38.462213,
+      "longitude": 23.59453
+    },
+    {
+      "name": "Αναστάσιος Πολυζωίδης",
+      "latitude": 37.513378,
+      "longitude": 22.375093
+    },
+    {
+      "name": "Αναστασία και Γεώργιος Βαφόπουλος",
+      "latitude": 40.597138,
+      "longitude": 22.953362
+    },
+    {
+      "name": "Αναστασιος Αγγελη Λωλος",
+      "latitude": 37.438266,
+      "longitude": 21.830882
+    },
+    {
+      "name": "Αναστασιος Μιχ. Ξυδης",
+      "latitude": 37.438129,
+      "longitude": 21.830636
+    },
+    {
+      "name": "Αναστασιος Ν. Ταγαρης",
+      "latitude": 37.442914,
+      "longitude": 21.770388
+    },
+    {
+      "name": "Αναφη Τομος Εξοριας",
+      "latitude": 36.349996,
+      "longitude": 25.766883
+    },
+    {
+      "name": "Ανδρέας Αρχοντάκης",
+      "latitude": 35.324118,
+      "longitude": 23.724334
+    },
+    {
+      "name": "Ανδρέας Εμπειρίκος",
+      "latitude": 37.836543,
+      "longitude": 24.936754
+    },
+    {
+      "name": "Ανδρέας Μιαούλης",
+      "latitude": 37.352658,
+      "longitude": 23.46644
+    },
+    {
+      "name": "Ανδρέας Μιαούλης",
+      "latitude": 37.943186,
+      "longitude": 23.643901
+    },
+    {
+      "name": "Ανδρέας Μιαούλης",
+      "latitude": 37.993038,
+      "longitude": 23.73512
+    },
+    {
+      "name": "Ανδρέας Μιαούλης",
+      "latitude": 38.442499,
+      "longitude": 23.68148
+    },
+    {
+      "name": "Ανδρέας Π. Πολέντας",
+      "latitude": 35.376445,
+      "longitude": 24.200948
+    },
+    {
+      "name": "Ανδρέας Συγγρός",
+      "latitude": 38.463662,
+      "longitude": 23.59303
+    },
+    {
+      "name": "Ανδριάντας Ίωνος Δραγούμη",
+      "latitude": 40.625168,
+      "longitude": 22.950847
+    },
+    {
+      "name": "Ανδριάντας Αλέξανδρου Παπαναστασίου",
+      "latitude": 40.630521,
+      "longitude": 22.957001
+    },
+    {
+      "name": "Ανδριάντας Αριστοτέλη",
+      "latitude": 40.378232,
+      "longitude": 23.440371
+    },
+    {
+      "name": "Ανδριάντας Βασιλέως Πύρρου",
+      "latitude": 39.663556,
+      "longitude": 20.852316
+    },
+    {
+      "name": "Ανδριάντας Βασιλιά Παύλου",
+      "latitude": 40.503798,
+      "longitude": 21.247957
+    },
+    {
+      "name": "Ανδριάντας Βιζυηνού",
+      "latitude": 40.634225,
+      "longitude": 22.957032
+    },
+    {
+      "name": "Ανδριάντας Γεώργιου Καραϊσκάκη",
+      "latitude": 37.945962,
+      "longitude": 23.641815
+    },
+    {
+      "name": "Ανδριάντας Ελευθέριου Βενιζέλου",
+      "latitude": 37.714281,
+      "longitude": 24.056852
+    },
+    {
+      "name": "Ανδριάντας Ελευθέριου Βενιζέλου",
+      "latitude": 39.099268,
+      "longitude": 26.554632
+    },
+    {
+      "name": "Ανδριάντας Ιωάννη Μητροπούλου",
+      "latitude": 38.522209,
+      "longitude": 22.385496
+    },
+    {
+      "name": "Ανδριάντας Ιωάννη Φαρμάκη",
+      "latitude": 40.454354,
+      "longitude": 21.523784
+    },
+    {
+      "name": "Ανδριάντας Ιωακείμ Γ'",
+      "latitude": 40.630721,
+      "longitude": 22.944686
+    },
+    {
+      "name": "Ανδριάντας Καραβαγγέλη",
+      "latitude": 40.613132,
+      "longitude": 21.479858
+    },
+    {
+      "name": "Ανδριάντας Κολοκοτρώνη",
+      "latitude": 40.652357,
+      "longitude": 22.94046
+    },
+    {
+      "name": "Ανδριάντας Κωνσταντίνου Α΄",
+      "latitude": 37.903461,
+      "longitude": 23.872447
+    },
+    {
+      "name": "Ανδριάντας Κωνσταντίνου Καραθεοδωρή",
+      "latitude": 41.117978,
+      "longitude": 25.404001
+    },
+    {
+      "name": "Ανδριάντας Λεωνίδα",
+      "latitude": 38.796806,
+      "longitude": 22.536559
+    },
+    {
+      "name": "Ανδριάντας Λόγιου",
+      "latitude": 35.146968,
+      "longitude": 25.034819
+    },
+    {
+      "name": "Ανδριάντας Μ. Αλεξάνδρου",
+      "latitude": 40.138456,
+      "longitude": 22.543116
+    },
+    {
+      "name": "Ανδριάντας μητροπολίτη Ιωακείμ",
+      "latitude": 40.284024,
+      "longitude": 21.779697
+    },
+    {
+      "name": "Ανδριάντας Νικόλαου Κασομούλη",
+      "latitude": 40.301879,
+      "longitude": 21.78585
+    },
+    {
+      "name": "Ανδριάντας του Αγέλαου",
+      "latitude": 38.392588,
+      "longitude": 21.835977
+    },
+    {
+      "name": "Ανδριάντας του Ανδρέα Μιαούλη",
+      "latitude": 37.44457,
+      "longitude": 24.942942
+    },
+    {
+      "name": "Ανδριάντας του Βενιζέλου Ελευθέριου",
+      "latitude": 38.004603,
+      "longitude": 23.686661
+    },
+    {
+      "name": "Ανδριάντας του Ελευθέριου Βενιζέλου",
+      "latitude": 39.555573,
+      "longitude": 21.772046
+    },
+    {
+      "name": "Ανδριάντας του Μέγα Αλέξανδρου",
+      "latitude": 40.760061,
+      "longitude": 22.527319
+    },
+    {
+      "name": "Ανδριάντας Φιλίππου Β΄",
+      "latitude": 40.457935,
+      "longitude": 22.586505
+    },
+    {
+      "name": "Αντ. Μάρις",
+      "latitude": 35.345166,
+      "longitude": 24.189687
+    },
+    {
+      "name": "Αντάρτικο Νοσοκομείο Γράμμου",
+      "latitude": 40.406506,
+      "longitude": 20.867088
+    },
+    {
+      "name": "Αντιδήμαρχος Αντώνης Κρέσπης",
+      "latitude": 37.48344,
+      "longitude": 21.647821
+    },
+    {
+      "name": "ΑΝΤΩΗΙΟΣ-ΓΡΗΓΟΡΙΟΣ ΒΟΥΤΣΙΝΟΣ",
+      "latitude": 37.421497,
+      "longitude": 24.883742
+    },
+    {
+      "name": "Αντωνιος Δ. Κεραμοπουλλος",
+      "latitude": 40.454543,
+      "longitude": 21.52363
+    },
+    {
+      "name": "ΑΝΤΩΝΙΟΣ ΛΙΓΝΟΣ",
+      "latitude": 37.351715,
+      "longitude": 23.466883
+    },
+    {
+      "name": "Αντώνης Σαμαράκης",
+      "latitude": 39.352167,
+      "longitude": 21.751683
+    },
+    {
+      "name": "Αντώνιος Βασιλάκης",
+      "latitude": 36.744155,
+      "longitude": 24.42394
+    },
+    {
+      "name": "Αντώνιος Καμπάνης",
+      "latitude": 37.836822,
+      "longitude": 24.936961
+    },
+    {
+      "name": "Αντώνιος Κριεζής",
+      "latitude": 37.352857,
+      "longitude": 23.466359
+    },
+    {
+      "name": "Ανχης (Π.Ζ.) Ηρακλης Π. Καραγεωργιου",
+      "latitude": 40.456259,
+      "longitude": 21.25939
+    },
+    {
+      "name": "Απελευθέρωση της Δράμας",
+      "latitude": 41.145105,
+      "longitude": 24.151032
+    },
+    {
+      "name": "Απόστολος Κιουζές Πεζάς",
+      "latitude": 37.588378,
+      "longitude": 22.744785
+    },
+    {
+      "name": "Απόστολος Κονταξάκης",
+      "latitude": 40.269246,
+      "longitude": 22.514711
+    },
+    {
+      "name": "Αριστοτέλης Βαλαωρίτης",
+      "latitude": 37.973489,
+      "longitude": 23.736766
+    },
+    {
+      "name": "Αρλέτα",
+      "latitude": 37.989123,
+      "longitude": 23.736177
+    },
+    {
+      "name": "Αρμένικο Χατσκάρ",
+      "latitude": 37.974208,
+      "longitude": 23.746747
+    },
+    {
+      "name": "Αρμένικος Σταυρός",
+      "latitude": 40.627336,
+      "longitude": 22.951967
+    },
+    {
+      "name": "Αρχιεπίσκοπος Αθηνών Χρυσόστομος ο Β'",
+      "latitude": 37.963169,
+      "longitude": 23.751255
+    },
+    {
+      "name": "Αρχιστρατηγος Γεωργιος Καραϊσκανης",
+      "latitude": 38.550212,
+      "longitude": 21.647688
+    },
+    {
+      "name": "Ασπασία",
+      "latitude": 37.9807,
+      "longitude": 23.734364
+    },
+    {
+      "name": "Αστέριος Γ. Ζορμπάς",
+      "latitude": 40.270108,
+      "longitude": 22.493397
+    },
+    {
+      "name": "Αυτοκράτειρα Ελισάβετ της Αυστρίας (\"Σίσι\")",
+      "latitude": 39.562464,
+      "longitude": 19.904118
+    },
+    {
+      "name": "Αφανής Ναύτης",
+      "latitude": 37.840186,
+      "longitude": 24.942675
+    },
+    {
+      "name": "Αφανής ναύτης",
+      "latitude": 37.885253,
+      "longitude": 24.013255
+    },
+    {
+      "name": "Αφανούς Νάυτη",
+      "latitude": 37.962969,
+      "longitude": 23.495035
+    },
+    {
+      "name": "Βαρνάβας Τζωρτζάτος",
+      "latitude": 40.270712,
+      "longitude": 22.51007
+    },
+    {
+      "name": "Βασίλειος Ν. Τατάκης",
+      "latitude": 37.836576,
+      "longitude": 24.936838
+    },
+    {
+      "name": "Βασίλειος Τρύφωνος Οικονομίδης",
+      "latitude": 37.669858,
+      "longitude": 22.184979
+    },
+    {
+      "name": "Βασιλιάς Κωνσταντίνος Α'",
+      "latitude": 37.99201,
+      "longitude": 23.73341
+    },
+    {
+      "name": "Βασιλιάς Πύρρος Α'",
+      "latitude": 39.160026,
+      "longitude": 20.982427
+    },
+    {
+      "name": "Βασιλική Αγίων Αποστόλων",
+      "latitude": 40.786173,
+      "longitude": 21.080302
+    },
+    {
+      "name": "Βατικιώτης Θαλασσινός",
+      "latitude": 36.508564,
+      "longitude": 23.060064
+    },
+    {
+      "name": "Βελισσάριος Φρέρης",
+      "latitude": 37.450223,
+      "longitude": 24.935597
+    },
+    {
+      "name": "ΒΕΛΙΣΣΑΡΙΟΣ Δ. ΚΑΡΑΒΙΑΣ (ΒΕΛΙΟΣ)",
+      "latitude": 36.914887,
+      "longitude": 21.695146
+    },
+    {
+      "name": "Βρετανικό μνημείο",
+      "latitude": 36.94182,
+      "longitude": 21.688211
+    },
+    {
+      "name": "Βρετανικό μνημείο πεσόντων",
+      "latitude": 41.169204,
+      "longitude": 22.767268
+    },
+    {
+      "name": "Βυζαντινή΄Γέφυρα Μοσχολουρίου",
+      "latitude": 39.349636,
+      "longitude": 22.08615
+    },
+    {
+      "name": "Γ. Αβερωφ",
+      "latitude": 39.770433,
+      "longitude": 21.18265
+    },
+    {
+      "name": "Γ.Σ.",
+      "latitude": 39.67047,
+      "longitude": 20.851119
+    },
+    {
+      "name": "Γερμανός Καραβαγγέλης",
+      "latitude": 40.52342,
+      "longitude": 21.265098
+    },
+    {
+      "name": "Γεφύρι Ροδιάς",
+      "latitude": 39.23801,
+      "longitude": 23.200084
+    },
+    {
+      "name": "Γεωργάκης Ολύμπιος",
+      "latitude": 40.271012,
+      "longitude": 22.508499
+    },
+    {
+      "name": "Γεωργάκης Ολύμπιος",
+      "latitude": 40.627153,
+      "longitude": 22.952413
+    },
+    {
+      "name": "Γεωργιος Ε. Ανδρεακης",
+      "latitude": 39.044028,
+      "longitude": 21.53907
+    },
+    {
+      "name": "Γεωργος Μπαλης",
+      "latitude": 37.938858,
+      "longitude": 22.932112
+    },
+    {
+      "name": "Γεώργιος - Ιωάννης Ράλλης",
+      "latitude": 39.625136,
+      "longitude": 19.924059
+    },
+    {
+      "name": "Γεώργιος Α. Παπανδρέου",
+      "latitude": 37.999266,
+      "longitude": 23.683486
+    },
+    {
+      "name": "Γεώργιος Αβέρωφ",
+      "latitude": 37.969344,
+      "longitude": 23.73928
+    },
+    {
+      "name": "Γεώργιος Ανδρούτσος",
+      "latitude": 37.265678,
+      "longitude": 23.15975
+    },
+    {
+      "name": "Γεώργιος Ανεμογιάννης",
+      "latitude": 38.391921,
+      "longitude": 21.828939
+    },
+    {
+      "name": "Γεώργιος Β. Βασιλειαδης",
+      "latitude": 40.173022,
+      "longitude": 21.282461
+    },
+    {
+      "name": "Γεώργιος Βασιλάκος",
+      "latitude": 39.500539,
+      "longitude": 20.263808
+    },
+    {
+      "name": "Γεώργιος Βιτάλης",
+      "latitude": 37.541342,
+      "longitude": 25.16267
+    },
+    {
+      "name": "Γεώργιος Δ. Μπουκουβάλας",
+      "latitude": 39.73677,
+      "longitude": 20.660742
+    },
+    {
+      "name": "Γεώργιος Δερβας",
+      "latitude": 40.453947,
+      "longitude": 21.524574
+    },
+    {
+      "name": "Γεώργιος Θεοτόκης",
+      "latitude": 39.62465,
+      "longitude": 19.922669
+    },
+    {
+      "name": "Γεώργιος Ιβάνοφ",
+      "latitude": 40.62778,
+      "longitude": 22.963681
+    },
+    {
+      "name": "Γεώργιος Καμμένος (Αγάνας)",
+      "latitude": 38.376405,
+      "longitude": 22.389645
+    },
+    {
+      "name": "Γεώργιος Καραϊσκάκης",
+      "latitude": 37.97077,
+      "longitude": 23.73938
+    },
+    {
+      "name": "Γεώργιος Καραϊσκάκης",
+      "latitude": 37.993054,
+      "longitude": 23.734971
+    },
+    {
+      "name": "Γεώργιος Καραϊσκάκης",
+      "latitude": 38.906078,
+      "longitude": 22.430924
+    },
+    {
+      "name": "Γεώργιος Καραϊσκάκης",
+      "latitude": 39.164865,
+      "longitude": 20.989728
+    },
+    {
+      "name": "Γεώργιος Κατριλιώτης",
+      "latitude": 37.587481,
+      "longitude": 22.744708
+    },
+    {
+      "name": "Γεώργιος Μαρίνος",
+      "latitude": 37.641474,
+      "longitude": 22.729471
+    },
+    {
+      "name": "Γεώργιος Παπανικολάου",
+      "latitude": 38.440993,
+      "longitude": 23.590066
+    },
+    {
+      "name": "Γεώργιος Παπανικολάου",
+      "latitude": 39.642302,
+      "longitude": 22.422219
+    },
+    {
+      "name": "Γεώργιος Τερτσέτης",
+      "latitude": 37.513336,
+      "longitude": 22.37506
+    },
+    {
+      "name": "Γεώργιος Τσοντος",
+      "latitude": 40.52042,
+      "longitude": 21.26435
+    },
+    {
+      "name": "Γιάννης Πατέρας",
+      "latitude": 39.637469,
+      "longitude": 22.423169
+    },
+    {
+      "name": "Γιάννης Σκαρίμπας",
+      "latitude": 38.464251,
+      "longitude": 23.592145
+    },
+    {
+      "name": "Γιαννάκης Γκρίτζαλης",
+      "latitude": 37.249158,
+      "longitude": 21.679402
+    },
+    {
+      "name": "Γιαννούλης Χαλεπάς",
+      "latitude": 37.541381,
+      "longitude": 25.162703
+    },
+    {
+      "name": "Γιαννούλης Χαλεπάς",
+      "latitude": 38.017333,
+      "longitude": 23.741095
+    },
+    {
+      "name": "Γιωργάκης Ολύμπιος",
+      "latitude": 37.962442,
+      "longitude": 23.722577
+    },
+    {
+      "name": "Γιώργος Ανεμογιάννης",
+      "latitude": 39.195993,
+      "longitude": 20.18907
+    },
+    {
+      "name": "Γιώργος Ζιάκας",
+      "latitude": 40.029786,
+      "longitude": 21.268651
+    },
+    {
+      "name": "Γλυπτό των μεταλλωρύχων",
+      "latitude": 37.713884,
+      "longitude": 24.0548
+    },
+    {
+      "name": "Γουλιέλμος Γλάδστων",
+      "latitude": 37.98054,
+      "longitude": 23.733151
+    },
+    {
+      "name": "Γρηγ. Δ. Παπαφλέσσας",
+      "latitude": 37.992847,
+      "longitude": 23.733981
+    },
+    {
+      "name": "Γρηγόρης Αυξεντίου",
+      "latitude": 41.259794,
+      "longitude": 22.996748
+    },
+    {
+      "name": "Γρηγόρης Λαμπράκης",
+      "latitude": 37.930358,
+      "longitude": 23.744703
+    },
+    {
+      "name": "Γρηγόριος Καλαμαράς",
+      "latitude": 37.634799,
+      "longitude": 22.728151
+    },
+    {
+      "name": "Γρηγόριος Καλάκος",
+      "latitude": 38.029387,
+      "longitude": 21.362872
+    },
+    {
+      "name": "Γυναίκα της Πινδού, 1940",
+      "latitude": 40.628132,
+      "longitude": 22.948031
+    },
+    {
+      "name": "Γώργιος Ν. Μπουρδαρας",
+      "latitude": 39.060692,
+      "longitude": 21.875875
+    },
+    {
+      "name": "Δ. Παπανικολής",
+      "latitude": 37.99273,
+      "longitude": 23.735235
+    },
+    {
+      "name": "Δέντρο της Μνήμης",
+      "latitude": 40.619723,
+      "longitude": 22.952215
+    },
+    {
+      "name": "Δήμητρα Τσάτσου",
+      "latitude": 39.623114,
+      "longitude": 22.396477
+    },
+    {
+      "name": "Δήμος Ζούλιας",
+      "latitude": 39.388729,
+      "longitude": 22.993944
+    },
+    {
+      "name": "Δαμασκινος",
+      "latitude": 37.938931,
+      "longitude": 22.932209
+    },
+    {
+      "name": "Δανιήλ Μοναχός",
+      "latitude": 38.611856,
+      "longitude": 21.790401
+    },
+    {
+      "name": "Δασκαλογιάννης",
+      "latitude": 35.513559,
+      "longitude": 24.019558
+    },
+    {
+      "name": "Δεκανέας Νικητόπουλος Λάμπρος",
+      "latitude": 37.495787,
+      "longitude": 21.960307
+    },
+    {
+      "name": "Δημ. Πλαπουτας",
+      "latitude": 37.99273,
+      "longitude": 23.735345
+    },
+    {
+      "name": "Δημήτριος Α",
+      "latitude": 36.949934,
+      "longitude": 26.984043
+    },
+    {
+      "name": "Δημήτριος Μισύρης",
+      "latitude": 38.461971,
+      "longitude": 23.589755
+    },
+    {
+      "name": "Δημήτριος Παπανικολής",
+      "latitude": 38.53847,
+      "longitude": 25.56507
+    },
+    {
+      "name": "Δημήτριος Πασχάλης",
+      "latitude": 37.836598,
+      "longitude": 24.936411
+    },
+    {
+      "name": "Δημήτριος Σαγιάς",
+      "latitude": 37.5634,
+      "longitude": 22.800095
+    },
+    {
+      "name": "Δημήτριος Υψηλάντης",
+      "latitude": 37.993125,
+      "longitude": 23.734015
+    },
+    {
+      "name": "Δημήτριος Υψηλάντης",
+      "latitude": 40.62722,
+      "longitude": 22.952725
+    },
+    {
+      "name": "Δημήτριος Φιλιππότης",
+      "latitude": 37.541352,
+      "longitude": 25.162686
+    },
+    {
+      "name": "Δημήτριου Υψηλάντη",
+      "latitude": 37.565863,
+      "longitude": 22.799813
+    },
+    {
+      "name": "Δημητριος Στασινοπουλος",
+      "latitude": 40.538118,
+      "longitude": 21.467935
+    },
+    {
+      "name": "Δημητριοσς Αν. Τσαπουρνιωτης",
+      "latitude": 38.898726,
+      "longitude": 23.400971
+    },
+    {
+      "name": "Δημοσ Σπαρτησ Λακωνεσ Ολυμπιονικεσ",
+      "latitude": 37.078283,
+      "longitude": 22.428701
+    },
+    {
+      "name": "Διαγόρας ο Ρόδιος",
+      "latitude": 36.449915,
+      "longitude": 28.21596
+    },
+    {
+      "name": "Διαλογος Αθηναιων-Μηλον - Θουκυδίδης",
+      "latitude": 36.744174,
+      "longitude": 24.42206
+    },
+    {
+      "name": "Διεθνές Μνημείο Της Γυναίκας Του Ναυτικού",
+      "latitude": 38.380628,
+      "longitude": 22.393691
+    },
+    {
+      "name": "Διονύσιος Σολωμός",
+      "latitude": 37.972429,
+      "longitude": 23.738986
+    },
+    {
+      "name": "Διονύσιος Σολωμός",
+      "latitude": 39.621398,
+      "longitude": 19.924945
+    },
+    {
+      "name": "Δομήνικος Θεοτοκόπουλος",
+      "latitude": 35.339869,
+      "longitude": 25.133259
+    },
+    {
+      "name": "Δομοκός (Βιδιακίτικο γιοφύρι)",
+      "latitude": 37.810458,
+      "longitude": 21.807282
+    },
+    {
+      "name": "ΔΟΝ ΙΩΑΝΝΗΣ ΦΡ ΔΑΛΕΖΙΟΣ",
+      "latitude": 37.451248,
+      "longitude": 24.935546
+    },
+    {
+      "name": "ΔΩΡΕΑ ΟΙΚΟΓΕΝΕΙΑΣ ΔΕΜΕΤΡ. Χ. ΛΑΡΑΗ 1950",
+      "latitude": 37.972049,
+      "longitude": 23.728627
+    },
+    {
+      "name": "Δόμνα Βισβίζη",
+      "latitude": 37.99309,
+      "longitude": 23.734589
+    },
+    {
+      "name": "Δόξα των Ψαρών",
+      "latitude": 38.538297,
+      "longitude": 25.564777
+    },
+    {
+      "name": "Εθνάρχης Ελιθέριος Βενιζέλος",
+      "latitude": 35.453182,
+      "longitude": 24.17225
+    },
+    {
+      "name": "Εθνική Αντίσταση (Αγάλματα)",
+      "latitude": 38.465868,
+      "longitude": 23.593094
+    },
+    {
+      "name": "Εις μνήμη απελευθερωτών Αργολιδας",
+      "latitude": 37.6347,
+      "longitude": 22.728608
+    },
+    {
+      "name": "Εις μνήμην πεσόντων υπέρ πατρίδος 1920-22 Μικρά Ασία",
+      "latitude": 38.184637,
+      "longitude": 23.512277
+    },
+    {
+      "name": "Εις μνήμην των θυμάτων της Μικρασιατικής καταστροφής",
+      "latitude": 37.975161,
+      "longitude": 23.730763
+    },
+    {
+      "name": "Εις μνήμην όσων ήρθαν απο τις χαμένες πατρίδες και έφυγαν απο τη ζωή",
+      "latitude": 38.734606,
+      "longitude": 21.107243
+    },
+    {
+      "name": "Εις τους Πεσοντας υπερ πατριδος",
+      "latitude": 38.376854,
+      "longitude": 22.383454
+    },
+    {
+      "name": "Εκκλησάκι παλαιάς Αγίας Αναστασίας",
+      "latitude": 38.031465,
+      "longitude": 23.74824
+    },
+    {
+      "name": "Εκτελέσεις 1943",
+      "latitude": 35.245746,
+      "longitude": 24.258023
+    },
+    {
+      "name": "Εκτελεσμένοι στρατευμάτων κατοχής",
+      "latitude": 37.709979,
+      "longitude": 22.882393
+    },
+    {
+      "name": "Ελ. Βενιζέλος",
+      "latitude": 37.955993,
+      "longitude": 23.70167
+    },
+    {
+      "name": "Ελ. Βενιζέλος",
+      "latitude": 40.782463,
+      "longitude": 21.413634
+    },
+    {
+      "name": "ΕΛΑΝ",
+      "latitude": 38.375953,
+      "longitude": 22.628865
+    },
+    {
+      "name": "ΕΛΕΝΗ ΠΑΠΑΔΑΚΗ",
+      "latitude": 37.445552,
+      "longitude": 24.943655
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 37.946607,
+      "longitude": 23.714788
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 37.975914,
+      "longitude": 23.736607
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 38.02249,
+      "longitude": 23.800216
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 38.032388,
+      "longitude": 23.709331
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 38.037136,
+      "longitude": 23.739017
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 38.065156,
+      "longitude": 23.765312
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 38.46302,
+      "longitude": 23.593869
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 40.271483,
+      "longitude": 22.500247
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 40.649902,
+      "longitude": 22.936934
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος",
+      "latitude": 40.937151,
+      "longitude": 24.407885
+    },
+    {
+      "name": "Ελευθέριος Βενιζέλος,",
+      "latitude": 35.403587,
+      "longitude": 23.983993
+    },
+    {
+      "name": "Ελευθέριος Ελευθεριάδης",
+      "latitude": 40.271245,
+      "longitude": 22.518013
+    },
+    {
+      "name": "Ελευθερία",
+      "latitude": 38.578122,
+      "longitude": 23.642301
+    },
+    {
+      "name": "Ελευθερία",
+      "latitude": 40.779041,
+      "longitude": 21.407471
+    },
+    {
+      "name": "ΕΛΕΥΘΕΡΙΟΣ ΒΕΝΙΖΕΛΟΣ",
+      "latitude": 37.444776,
+      "longitude": 24.942301
+    },
+    {
+      "name": "ΕΛΕΥΘΕΡΙΟΣ ΒΕΝΙΖΕΛΟΣ",
+      "latitude": 37.977391,
+      "longitude": 23.647015
+    },
+    {
+      "name": "Ελεύθερος Βενιζελος",
+      "latitude": 39.23409,
+      "longitude": 26.208083
+    },
+    {
+      "name": "ΕΛΙΑΟΥ ΚΑΤΑΝ ΜΑΙΡ",
+      "latitude": 40.633245,
+      "longitude": 22.936202
+    },
+    {
+      "name": "Ελληνική Δραχμή",
+      "latitude": 37.981643,
+      "longitude": 23.727263
+    },
+    {
+      "name": "Ελληνικό Στρατιωτικό Νεκροταφείο Δοϊράνης",
+      "latitude": 41.166141,
+      "longitude": 22.771267
+    },
+    {
+      "name": "Εμμανουήλ Αναγνώστου Σκουλάς",
+      "latitude": 35.290143,
+      "longitude": 24.886472
+    },
+    {
+      "name": "Εμμανουήλ Παπάς",
+      "latitude": 37.993018,
+      "longitude": 23.735415
+    },
+    {
+      "name": "Εμμανουήλ Παπάς",
+      "latitude": 40.380204,
+      "longitude": 23.4406
+    },
+    {
+      "name": "ΕΜΜΑΝΟΥΗΛ ΠΑΠΑΣ ΣΕΡΡΑΙΟΣ",
+      "latitude": 37.348803,
+      "longitude": 23.467897
+    },
+    {
+      "name": "ΕΠΕΣΑΝ ΥΠΕΡ ΝΑΤΡΙΔΟΣ",
+      "latitude": 37.348079,
+      "longitude": 23.465806
+    },
+    {
+      "name": "Επιτάφιος του Σιμωνίδη",
+      "latitude": 38.795844,
+      "longitude": 22.536954
+    },
+    {
+      "name": "ΕΡΝΕΣΤ ΕΜΠΡΑΡ 1875-1933",
+      "latitude": 40.62606,
+      "longitude": 22.95249
+    },
+    {
+      "name": "Ερρίκος Σλήμαν",
+      "latitude": 37.964349,
+      "longitude": 23.736103
+    },
+    {
+      "name": "ΕΣΔΡΑ ΠΙΤΣΩΝ",
+      "latitude": 40.633266,
+      "longitude": 22.936207
+    },
+    {
+      "name": "Ευάγγελος Αβέρωφ-Τοσίτσας",
+      "latitude": 39.769267,
+      "longitude": 21.183252
+    },
+    {
+      "name": "Ευάγγελος Ζάππας",
+      "latitude": 37.971261,
+      "longitude": 23.736376
+    },
+    {
+      "name": "Ευάγγελος Καλατζής",
+      "latitude": 38.90415,
+      "longitude": 22.43138
+    },
+    {
+      "name": "Ευαγόρας Παλληκαρίδης",
+      "latitude": 38.900509,
+      "longitude": 22.440287
+    },
+    {
+      "name": "Ευθύμιος Βλάμης",
+      "latitude": 38.378873,
+      "longitude": 22.38742
+    },
+    {
+      "name": "Ευθύμιος Βλαχάβας",
+      "latitude": 39.705735,
+      "longitude": 21.626019
+    },
+    {
+      "name": "Ευριπίδης",
+      "latitude": 37.973168,
+      "longitude": 23.735139
+    },
+    {
+      "name": "Ευρώτας ποταμός",
+      "latitude": 38.796791,
+      "longitude": 22.536454
+    },
+    {
+      "name": "Ευστάθιος Μαλαμίδας",
+      "latitude": 38.899747,
+      "longitude": 22.435204
+    },
+    {
+      "name": "Εφημερίδα Ελευθερία",
+      "latitude": 40.655893,
+      "longitude": 22.924067
+    },
+    {
+      "name": "Εύα",
+      "latitude": 38.016733,
+      "longitude": 23.740131
+    },
+    {
+      "name": "Ζάκυνθος",
+      "latitude": 39.622704,
+      "longitude": 19.924916
+    },
+    {
+      "name": "Ζαν Μορεάς",
+      "latitude": 37.972283,
+      "longitude": 23.737689
+    },
+    {
+      "name": "Η Αργώ",
+      "latitude": 39.359265,
+      "longitude": 22.945771
+    },
+    {
+      "name": "Η Ελλάς τον Βύρωνα",
+      "latitude": 37.970834,
+      "longitude": 23.733566
+    },
+    {
+      "name": "Η Καρέκλα",
+      "latitude": 34.801056,
+      "longitude": 24.122125
+    },
+    {
+      "name": "Η Μάχη των Αντριαλών",
+      "latitude": 38.654939,
+      "longitude": 23.594056
+    },
+    {
+      "name": "Η Πατρίδα στους Νεκρούς της",
+      "latitude": 37.085685,
+      "longitude": 25.15109
+    },
+    {
+      "name": "Ηλίας Γκορτσολόγος",
+      "latitude": 37.07318,
+      "longitude": 22.424533
+    },
+    {
+      "name": "Ηλίας Καζάκος",
+      "latitude": 39.106567,
+      "longitude": 26.556732
+    },
+    {
+      "name": "Ηλίας Κορμάς",
+      "latitude": 37.198289,
+      "longitude": 21.863525
+    },
+    {
+      "name": "Ηλιας Αθ. Παπαθανασιου",
+      "latitude": 40.671134,
+      "longitude": 21.148602
+    },
+    {
+      "name": "ΗΡΩΟΝ",
+      "latitude": 38.943262,
+      "longitude": 22.117746
+    },
+    {
+      "name": "ΗΡΩΟΝ",
+      "latitude": 38.947091,
+      "longitude": 22.14407
+    },
+    {
+      "name": "ΗΡΩΟΝ",
+      "latitude": 38.948489,
+      "longitude": 22.141323
+    },
+    {
+      "name": "Ηρωων",
+      "latitude": 41.269117,
+      "longitude": 26.385216
+    },
+    {
+      "name": "Ηρωών",
+      "latitude": 37.885705,
+      "longitude": 22.014122
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 36.792174,
+      "longitude": 21.888116
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 37.056497,
+      "longitude": 25.206848
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 37.53188,
+      "longitude": 25.162594
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 37.552233,
+      "longitude": 22.079486
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 37.684389,
+      "longitude": 22.296419
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 37.861746,
+      "longitude": 21.427725
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 37.996846,
+      "longitude": 23.343666
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 38.36477,
+      "longitude": 20.721847
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 39.356965,
+      "longitude": 22.950941
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 39.955049,
+      "longitude": 21.729048
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 40.168511,
+      "longitude": 21.2212
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 40.268016,
+      "longitude": 22.59502
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 40.296244,
+      "longitude": 21.660936
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 40.466614,
+      "longitude": 22.542728
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 40.677108,
+      "longitude": 22.541009
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 40.794597,
+      "longitude": 23.841737
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 40.937399,
+      "longitude": 24.408003
+    },
+    {
+      "name": "Ηρώο",
+      "latitude": 41.083271,
+      "longitude": 22.280454
+    },
+    {
+      "name": "Ηρώο Αλεξανδρείας",
+      "latitude": 40.627747,
+      "longitude": 22.440719
+    },
+    {
+      "name": "Ηρώο Γεωργίου Καραϊσκάκη",
+      "latitude": 38.481551,
+      "longitude": 22.583329
+    },
+    {
+      "name": "Ηρώο Πεσόντων",
+      "latitude": 36.914881,
+      "longitude": 22.995815
+    },
+    {
+      "name": "Ηρώο Πεσόντων",
+      "latitude": 36.96311,
+      "longitude": 22.989317
+    },
+    {
+      "name": "Ηρώο πεσόντων",
+      "latitude": 39.365198,
+      "longitude": 21.926352
+    },
+    {
+      "name": "Ηρώο Πεσόντων Δημ. Διαμ. Λευκώνας",
+      "latitude": 40.790106,
+      "longitude": 21.138944
+    },
+    {
+      "name": "Ηρώο πεσόντων Διβριωτών",
+      "latitude": 37.858583,
+      "longitude": 21.807523
+    },
+    {
+      "name": "Ηρώο των Γιαννιτσών",
+      "latitude": 40.780682,
+      "longitude": 22.41502
+    },
+    {
+      "name": "Ηρώο των πεσόντων στην Ελλάδα Βρετανών, Αυστραλών και Νεοζηλανδών κατά τον Β' Παγκόσμιο Πόλεμο",
+      "latitude": 37.991667,
+      "longitude": 23.735888
+    },
+    {
+      "name": "Ηρώον",
+      "latitude": 37.575839,
+      "longitude": 25.197747
+    },
+    {
+      "name": "Ηρώον",
+      "latitude": 37.984439,
+      "longitude": 23.766195
+    },
+    {
+      "name": "Ηρώον",
+      "latitude": 39.362557,
+      "longitude": 22.941609
+    },
+    {
+      "name": "Ηρώον",
+      "latitude": 41.192619,
+      "longitude": 23.820189
+    },
+    {
+      "name": "Ηρώον δύο Αεροπόρων",
+      "latitude": 39.066402,
+      "longitude": 21.983261
+    },
+    {
+      "name": "Ηρώον Ελλήνων του Πόντου",
+      "latitude": 37.956086,
+      "longitude": 23.70299
+    },
+    {
+      "name": "Ηρώον Μάχης Κιλκίς",
+      "latitude": 40.977294,
+      "longitude": 22.852323
+    },
+    {
+      "name": "Ηρώον Πεσόντων",
+      "latitude": 40.182631,
+      "longitude": 20.933126
+    },
+    {
+      "name": "Ηρώων Πολυτεχνείου",
+      "latitude": 37.96414,
+      "longitude": 23.700959
+    },
+    {
+      "name": "ΘΕΛΕΙ ΑΡΕΤΗ Η ΕΛΕΥΘΕΡΙΑ",
+      "latitude": 36.820035,
+      "longitude": 21.705893
+    },
+    {
+      "name": "Θεοδωρος Κ. Μανουλης",
+      "latitude": 40.260281,
+      "longitude": 21.551547
+    },
+    {
+      "name": "Θεοδώρητος Βρεσθένης",
+      "latitude": 37.245564,
+      "longitude": 22.55143
+    },
+    {
+      "name": "Θεοχαρης Γ. Τουρουντζιας",
+      "latitude": 40.256982,
+      "longitude": 21.553769
+    },
+    {
+      "name": "Θεόδωρος Βελλιανίτης",
+      "latitude": 39.196139,
+      "longitude": 20.187314
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 37.229214,
+      "longitude": 21.89378
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 37.5127,
+      "longitude": 22.376493
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 37.616135,
+      "longitude": 22.858843
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 37.63514,
+      "longitude": 22.726511
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 37.949475,
+      "longitude": 23.736691
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 37.977984,
+      "longitude": 23.733043
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 37.99277,
+      "longitude": 23.734801
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 38.013158,
+      "longitude": 23.820139
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 38.013807,
+      "longitude": 23.748972
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 38.021874,
+      "longitude": 23.797605
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 38.042903,
+      "longitude": 23.742172
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 38.046453,
+      "longitude": 23.766492
+    },
+    {
+      "name": "Θεόδωρος Κολοκοτρώνης",
+      "latitude": 40.627252,
+      "longitude": 22.952271
+    },
+    {
+      "name": "Θεόφιλος Καΐρης",
+      "latitude": 37.837877,
+      "longitude": 24.939642
+    },
+    {
+      "name": "ΘΝΗΤΟΙ ΤΟΙΣ ΑΘΑΝΑΤΟΙΣ ΡΟΝΥ ΚΛΙΝΑΤΕ",
+      "latitude": 37.700688,
+      "longitude": 21.791172
+    },
+    {
+      "name": "Θουκυδίδης",
+      "latitude": 37.907943,
+      "longitude": 23.715338
+    },
+    {
+      "name": "Θουκυδίδης ο Αλιμούσιος",
+      "latitude": 37.917886,
+      "longitude": 23.744151
+    },
+    {
+      "name": "Θυσιαστήριο της λευτεριάς Σκοπευτήριο Καισαριανής",
+      "latitude": 37.965464,
+      "longitude": 23.760782
+    },
+    {
+      "name": "Ι.Ν. Θεοδωρακόπουλου",
+      "latitude": 37.073197,
+      "longitude": 22.42433
+    },
+    {
+      "name": "Ιθάκη",
+      "latitude": 39.622753,
+      "longitude": 19.924975
+    },
+    {
+      "name": "ΙΝΤΖΕΣ",
+      "latitude": 41.260107,
+      "longitude": 22.999109
+    },
+    {
+      "name": "Ιρίκος Παπά-Μάλεκος",
+      "latitude": 35.40965,
+      "longitude": 24.19702
+    },
+    {
+      "name": "Ιστορικός Χώρος Δραμπάλας",
+      "latitude": 37.225126,
+      "longitude": 22.165192
+    },
+    {
+      "name": "ιχαηλ Κουκουλιδης",
+      "latitude": 40.253608,
+      "longitude": 21.555362
+    },
+    {
+      "name": "Ιωάννη Βαλαλα",
+      "latitude": 40.522109,
+      "longitude": 21.262967
+    },
+    {
+      "name": "Ιωάννης Αθαν. Πιπιλής",
+      "latitude": 37.442864,
+      "longitude": 21.774534
+    },
+    {
+      "name": "Ιωάννης Βαρβάκης",
+      "latitude": 37.97182,
+      "longitude": 23.735243
+    },
+    {
+      "name": "Ιωάννης Δασκαλογιάννης",
+      "latitude": 35.218013,
+      "longitude": 24.0855
+    },
+    {
+      "name": "Ιωάννης Δεμέστιχας",
+      "latitude": 36.618992,
+      "longitude": 22.493611
+    },
+    {
+      "name": "Ιωάννης Δημακόπουλος",
+      "latitude": 37.670268,
+      "longitude": 22.183161
+    },
+    {
+      "name": "Ιωάννης Ζίγδης",
+      "latitude": 36.092433,
+      "longitude": 28.085037
+    },
+    {
+      "name": "Ιωάννης Καποδίστριας",
+      "latitude": 37.500999,
+      "longitude": 23.454277
+    },
+    {
+      "name": "Ιωάννης Καποδίστριας",
+      "latitude": 37.973402,
+      "longitude": 23.737139
+    },
+    {
+      "name": "Ιωάννης Καποδίστριας",
+      "latitude": 37.980687,
+      "longitude": 23.733523
+    },
+    {
+      "name": "Ιωάννης Καποδίστριας",
+      "latitude": 39.62086,
+      "longitude": 19.924144
+    },
+    {
+      "name": "Ιωάννης Καραβίτης",
+      "latitude": 40.778504,
+      "longitude": 21.403178
+    },
+    {
+      "name": "Ιωάννης Λύτρας",
+      "latitude": 40.211678,
+      "longitude": 20.914493
+    },
+    {
+      "name": "Ιωάννης Μακρυγιάννης",
+      "latitude": 37.96962,
+      "longitude": 23.729925
+    },
+    {
+      "name": "Ιωάννης Μακρυγιάννης",
+      "latitude": 39.164409,
+      "longitude": 20.986588
+    },
+    {
+      "name": "ιωάννης Μιχαήλ Τραμπαντζής",
+      "latitude": 40.260826,
+      "longitude": 21.550924
+    },
+    {
+      "name": "Ιωάννης Ν. Φλοράκης",
+      "latitude": 39.060688,
+      "longitude": 21.875945
+    },
+    {
+      "name": "Ιωάννης Παπάφης",
+      "latitude": 40.627364,
+      "longitude": 22.948571
+    },
+    {
+      "name": "Ιωάννης Παπασιόπουλος",
+      "latitude": 38.903975,
+      "longitude": 22.431465
+    },
+    {
+      "name": "Ιωάννης Τσιγάντες",
+      "latitude": 37.991569,
+      "longitude": 23.731476
+    },
+    {
+      "name": "Ιωάννης Τσικόπουλος",
+      "latitude": 40.270229,
+      "longitude": 22.493442
+    },
+    {
+      "name": "Ιωάννης Χατζηπατέρας",
+      "latitude": 37.976918,
+      "longitude": 23.751793
+    },
+    {
+      "name": "Ιωάννης-Γαβριήλ Εϋνάρδος",
+      "latitude": 37.97272,
+      "longitude": 23.737245
+    },
+    {
+      "name": "ΙΩΑΝΝΗΣ Γ. ΚΟΥΤΣΗΣ, ΑΙΚΑΤΕΡΙΝΗ Ι. ΚΟΥΤΣΗΣ",
+      "latitude": 37.261148,
+      "longitude": 23.167986
+    },
+    {
+      "name": "ΙΩΑΝΝΗΣ ΣΙΟΡΔΙΝΗΣ",
+      "latitude": 37.454931,
+      "longitude": 21.684617
+    },
+    {
+      "name": "Ιωσήφ Γ. Λεκανίδης",
+      "latitude": 35.376096,
+      "longitude": 24.200954
+    },
+    {
+      "name": "Ιωσήφ Λεκανίδης",
+      "latitude": 35.346303,
+      "longitude": 24.210968
+    },
+    {
+      "name": "Ιωὰννης Δ. Μπαλητουμης",
+      "latitude": 40.103957,
+      "longitude": 21.019472
+    },
+    {
+      "name": "Ιωάννης Γρηγορίου",
+      "latitude": 37.176146,
+      "longitude": 22.594804
+    },
+    {
+      "name": "Κ Δαβακης",
+      "latitude": 40.521604,
+      "longitude": 21.263611
+    },
+    {
+      "name": "Κ. Βολουδάκης",
+      "latitude": 35.513353,
+      "longitude": 24.01772
+    },
+    {
+      "name": "Κ. Δαβάκης",
+      "latitude": 37.955754,
+      "longitude": 23.702572
+    },
+    {
+      "name": "Κάρολος Λέμαν",
+      "latitude": 40.502648,
+      "longitude": 25.528223
+    },
+    {
+      "name": "Κένταυρος",
+      "latitude": 39.351099,
+      "longitude": 22.965559
+    },
+    {
+      "name": "Κέρκυρα",
+      "latitude": 39.622715,
+      "longitude": 19.924941
+    },
+    {
+      "name": "Κίτσος Τζαβέλλας",
+      "latitude": 37.993117,
+      "longitude": 23.734166
+    },
+    {
+      "name": "Κίτσος Τζαβέλλας",
+      "latitude": 39.467907,
+      "longitude": 20.51151
+    },
+    {
+      "name": "Καλλιρρόη Παρρέν",
+      "latitude": 35.369682,
+      "longitude": 24.476729
+    },
+    {
+      "name": "Καμίνι του Μπάλα",
+      "latitude": 37.854524,
+      "longitude": 21.806229
+    },
+    {
+      "name": "Καμπούρογλου(ς)",
+      "latitude": 37.971851,
+      "longitude": 23.731369
+    },
+    {
+      "name": "Κανόνι",
+      "latitude": 38.374235,
+      "longitude": 21.433288
+    },
+    {
+      "name": "Κανόνι",
+      "latitude": 38.374731,
+      "longitude": 21.431043
+    },
+    {
+      "name": "Κανόνι",
+      "latitude": 38.374922,
+      "longitude": 21.43221
+    },
+    {
+      "name": "Καπετάν Αντώνης Οικονόμου",
+      "latitude": 37.646324,
+      "longitude": 22.728893
+    },
+    {
+      "name": "Καπετάν Λάζος",
+      "latitude": 40.511388,
+      "longitude": 21.251396
+    },
+    {
+      "name": "Καπετάν Μάθης Μυλωνογιάννης",
+      "latitude": 35.411148,
+      "longitude": 24.245051
+    },
+    {
+      "name": "Καπετάν Μιχάλης Κόρακας",
+      "latitude": 35.33637,
+      "longitude": 25.124582
+    },
+    {
+      "name": "Καπεταν Ζαχαριας Μπαρμπιτσιωτης",
+      "latitude": 37.069019,
+      "longitude": 22.431827
+    },
+    {
+      "name": "Καπεταν Λουκας Κοκκινος",
+      "latitude": 40.113101,
+      "longitude": 21.26491
+    },
+    {
+      "name": "Καραισκάκης",
+      "latitude": 37.962974,
+      "longitude": 23.495091
+    },
+    {
+      "name": "Κατεστραμμένη πύλη του Πολυτεχνείου",
+      "latitude": 37.987865,
+      "longitude": 23.730668
+    },
+    {
+      "name": "Κατσαντώνης",
+      "latitude": 39.067721,
+      "longitude": 21.534987
+    },
+    {
+      "name": "Κενοτάφιο Λουκά και Αναστασίας Σαντραπέ",
+      "latitude": 36.148148,
+      "longitude": 29.593784
+    },
+    {
+      "name": "Κεντοτάφιο Αθ. Διάκου",
+      "latitude": 38.900951,
+      "longitude": 22.433462
+    },
+    {
+      "name": "Κεντρικό Ηρώο",
+      "latitude": 41.117208,
+      "longitude": 25.406237
+    },
+    {
+      "name": "Κεφαλονιά",
+      "latitude": 39.622732,
+      "longitude": 19.924961
+    },
+    {
+      "name": "Κοζάκος κυνηγός",
+      "latitude": 38.162543,
+      "longitude": 23.793907
+    },
+    {
+      "name": "Κολώνα του Ντούγκλα",
+      "latitude": 39.616875,
+      "longitude": 19.920908
+    },
+    {
+      "name": "Κοσμάς ο Αιτωλός",
+      "latitude": 38.499927,
+      "longitude": 21.368054
+    },
+    {
+      "name": "Κοσμάς ο Αιτωλός",
+      "latitude": 38.572923,
+      "longitude": 21.666245
+    },
+    {
+      "name": "ΚΟΥ Θ. ΑΛΕΠΗΣ",
+      "latitude": 36.753082,
+      "longitude": 22.56922
+    },
+    {
+      "name": "Κουρίτα",
+      "latitude": 40.570209,
+      "longitude": 22.953913
+    },
+    {
+      "name": "Κρητικός Μακεδονομάχος Αγωνιστής",
+      "latitude": 40.628279,
+      "longitude": 22.948352
+    },
+    {
+      "name": "Κυριάκος Παπαγεωργάκης",
+      "latitude": 40.379898,
+      "longitude": 23.440535
+    },
+    {
+      "name": "Κυριακή Γρίβα",
+      "latitude": 38.028639,
+      "longitude": 23.719015
+    },
+    {
+      "name": "Κων-Αγαθοφρων Νικολοπουλος",
+      "latitude": 37.484466,
+      "longitude": 21.908354
+    },
+    {
+      "name": "Κωνστ. Γ. Κριάρης",
+      "latitude": 35.513333,
+      "longitude": 24.017563
+    },
+    {
+      "name": "Κωνσταντίνος Δαβάκης",
+      "latitude": 40.182768,
+      "longitude": 20.932789
+    },
+    {
+      "name": "Κωνσταντίνος Ζάππας",
+      "latitude": 37.971158,
+      "longitude": 23.73665
+    },
+    {
+      "name": "Κωνσταντίνος Θεοτόκης",
+      "latitude": 39.624234,
+      "longitude": 19.925517
+    },
+    {
+      "name": "Κωνσταντίνος Θωμαιδης",
+      "latitude": 40.454449,
+      "longitude": 21.523772
+    },
+    {
+      "name": "Κωνσταντίνος Θωμαϊδης",
+      "latitude": 40.454342,
+      "longitude": 21.523403
+    },
+    {
+      "name": "Κωνσταντίνος Καβάφης",
+      "latitude": 37.991908,
+      "longitude": 23.73226
+    },
+    {
+      "name": "Κωνσταντίνος Κανάρης",
+      "latitude": 37.9931,
+      "longitude": 23.734458
+    },
+    {
+      "name": "Κωνσταντίνος Καραθεοδωρή",
+      "latitude": 38.012609,
+      "longitude": 23.694781
+    },
+    {
+      "name": "Κωνσταντίνος Λ. Εμπειρίκος",
+      "latitude": 37.836459,
+      "longitude": 24.936855
+    },
+    {
+      "name": "Κωνσταντίνος Μπελλιος-Βελλιος",
+      "latitude": 40.454446,
+      "longitude": 21.523566
+    },
+    {
+      "name": "Κωνσταντίνος Νικολόπουλος",
+      "latitude": 38.016785,
+      "longitude": 23.739595
+    },
+    {
+      "name": "Κωνσταντίνος Παλαιολόγος",
+      "latitude": 37.069417,
+      "longitude": 22.374519
+    },
+    {
+      "name": "Κωνσταντίνος Πανανάς",
+      "latitude": 37.632496,
+      "longitude": 22.732232
+    },
+    {
+      "name": "Κωνσταντίνος Παπαρρηγόπουλος",
+      "latitude": 37.670691,
+      "longitude": 22.182193
+    },
+    {
+      "name": "Κωνσταντίνος Πολυγένης",
+      "latitude": 37.634732,
+      "longitude": 22.726219
+    },
+    {
+      "name": "Κωνσταντίνος Τσιφτσής",
+      "latitude": 38.899634,
+      "longitude": 22.435187
+    },
+    {
+      "name": "Κωνσταντίνου Κανάρη",
+      "latitude": 40.843999,
+      "longitude": 25.87605
+    },
+    {
+      "name": "Κωνσταντινος Αγ. Βλαχοθανασης",
+      "latitude": 38.952896,
+      "longitude": 23.152014
+    },
+    {
+      "name": "Κωνσταντινος Αθ. Γκιζαι",
+      "latitude": 38.905514,
+      "longitude": 22.125843
+    },
+    {
+      "name": "Κωνσταντινος Ευστ. Παπακωνσταντίνου",
+      "latitude": 37.939044,
+      "longitude": 22.932317
+    },
+    {
+      "name": "ΚΩΝΣΤΑΝΤΙΝΟΣ Ν. ΨΙΛΟΛΙΓΝΟΣ",
+      "latitude": 36.818587,
+      "longitude": 21.706046
+    },
+    {
+      "name": "Κωστής Παλαμάς",
+      "latitude": 37.981475,
+      "longitude": 23.734629
+    },
+    {
+      "name": "Κωστής Παλαμάς",
+      "latitude": 38.021897,
+      "longitude": 23.783254
+    },
+    {
+      "name": "Κωστας Λεπενιωτης",
+      "latitude": 39.060825,
+      "longitude": 21.875845
+    },
+    {
+      "name": "Κύθηρα",
+      "latitude": 39.622775,
+      "longitude": 19.92498
+    },
+    {
+      "name": "Κώστας Κρυστάλλης",
+      "latitude": 39.159092,
+      "longitude": 20.995155
+    },
+    {
+      "name": "Κώστας Π. Μακρής",
+      "latitude": 39.195739,
+      "longitude": 20.189202
+    },
+    {
+      "name": "Κώστας Περρίκος",
+      "latitude": 37.984647,
+      "longitude": 23.729666
+    },
+    {
+      "name": "Κώττας",
+      "latitude": 40.781579,
+      "longitude": 21.409073
+    },
+    {
+      "name": "Λάζαρος Σώχος",
+      "latitude": 37.541413,
+      "longitude": 25.162693
+    },
+    {
+      "name": "Λέλα Καραγιάννη",
+      "latitude": 37.988253,
+      "longitude": 23.732719
+    },
+    {
+      "name": "Λένας Καραγιάννη",
+      "latitude": 38.764282,
+      "longitude": 23.319043
+    },
+    {
+      "name": "Λέων του Πειραιώς",
+      "latitude": 37.939007,
+      "longitude": 23.629851
+    },
+    {
+      "name": "Λέων των Βαυαρών",
+      "latitude": 37.566317,
+      "longitude": 22.811447
+    },
+    {
+      "name": "Λασκαρίνα Μπουμπουλίνα",
+      "latitude": 37.992829,
+      "longitude": 23.734123
+    },
+    {
+      "name": "Λεονίδας Χ. Παλασκας",
+      "latitude": 39.684331,
+      "longitude": 21.043148
+    },
+    {
+      "name": "Λευκάδα",
+      "latitude": 39.6227,
+      "longitude": 19.92485
+    },
+    {
+      "name": "Λευτέρης Βογιατζής",
+      "latitude": 37.998937,
+      "longitude": 23.736462
+    },
+    {
+      "name": "Λεωνίδας Ν. Καραπιπέρης",
+      "latitude": 37.83653,
+      "longitude": 24.93645
+    },
+    {
+      "name": "Λεωνιδας Παπαμαλεκος",
+      "latitude": 40.257139,
+      "longitude": 21.553619
+    },
+    {
+      "name": "λιοντάρι",
+      "latitude": 36.242542,
+      "longitude": 22.945088
+    },
+    {
+      "name": "Λιοντάρι της Χαιρώνειας",
+      "latitude": 38.494911,
+      "longitude": 22.848329
+    },
+    {
+      "name": "Λορέντζος Μαβίλης",
+      "latitude": 37.982798,
+      "longitude": 23.756529
+    },
+    {
+      "name": "Λορέντζος Μαβίλης",
+      "latitude": 39.624196,
+      "longitude": 19.925526
+    },
+    {
+      "name": "Λυκούργος",
+      "latitude": 37.073255,
+      "longitude": 22.424911
+    },
+    {
+      "name": "Λυσίμαχος Καυταντζόγλου",
+      "latitude": 40.624912,
+      "longitude": 22.965857
+    },
+    {
+      "name": "Λόρδος Βύρων",
+      "latitude": 38.367873,
+      "longitude": 21.421612
+    },
+    {
+      "name": "Λόρδος Βύρων",
+      "latitude": 39.640828,
+      "longitude": 22.416457
+    },
+    {
+      "name": "Λόρδος Βύρων",
+      "latitude": 39.752074,
+      "longitude": 20.649188
+    },
+    {
+      "name": "Μάνα του Στρατιώτη",
+      "latitude": 40.624474,
+      "longitude": 22.955855
+    },
+    {
+      "name": "Μάνος Μεγαλάκης",
+      "latitude": 35.376443,
+      "longitude": 24.200885
+    },
+    {
+      "name": "Μάντρα Μπλόκου Κοκκινιάς",
+      "latitude": 37.965652,
+      "longitude": 23.643678
+    },
+    {
+      "name": "Μάρκος Μπότσαρης",
+      "latitude": 37.993067,
+      "longitude": 23.734826
+    },
+    {
+      "name": "Μάρκος Μπότσαρης",
+      "latitude": 39.945965,
+      "longitude": 20.533637
+    },
+    {
+      "name": "Μάχη της Σοδειάς",
+      "latitude": 39.363498,
+      "longitude": 21.933465
+    },
+    {
+      "name": "Μάχη των Θερμοπυλών",
+      "latitude": 38.796796,
+      "longitude": 22.536574
+    },
+    {
+      "name": "Μέγας Αλέξανδρος",
+      "latitude": 40.269127,
+      "longitude": 22.514656
+    },
+    {
+      "name": "Μέγας Αλέξανδρος",
+      "latitude": 40.274111,
+      "longitude": 22.542212
+    },
+    {
+      "name": "Μέγας Αλεξάνδρος",
+      "latitude": 40.202201,
+      "longitude": 21.600677
+    },
+    {
+      "name": "Μέλπω Αξιώτη",
+      "latitude": 37.445006,
+      "longitude": 25.326412
+    },
+    {
+      "name": "Μήτρος Γιαννούλης",
+      "latitude": 38.832697,
+      "longitude": 20.707777
+    },
+    {
+      "name": "Μίλτων Ιατρίδης",
+      "latitude": 37.672215,
+      "longitude": 21.439196
+    },
+    {
+      "name": "Μακεδονομάχοι",
+      "latitude": 40.750089,
+      "longitude": 23.066383
+    },
+    {
+      "name": "Μακεδονομαχος Ιερευς Γεωργιος Κ. Παπαντουλας",
+      "latitude": 40.538245,
+      "longitude": 21.467925
+    },
+    {
+      "name": "Μανούσος Ρούσσου Κούνδουρος",
+      "latitude": 35.376286,
+      "longitude": 24.200921
+    },
+    {
+      "name": "Μαντώ Μαυρογένους",
+      "latitude": 37.447479,
+      "longitude": 25.329268
+    },
+    {
+      "name": "Μαντώ Μαυρογένους",
+      "latitude": 37.567166,
+      "longitude": 22.796162
+    },
+    {
+      "name": "Μαντώ Μαυρογένους",
+      "latitude": 37.992742,
+      "longitude": 23.73509
+    },
+    {
+      "name": "Μαρίνος Ζαμπάτης",
+      "latitude": 38.660328,
+      "longitude": 20.759761
+    },
+    {
+      "name": "Μαρίνος Μητραλέξης",
+      "latitude": 37.229238,
+      "longitude": 21.894011
+    },
+    {
+      "name": "Μαργαρίτα Μπασδέκη",
+      "latitude": 39.401602,
+      "longitude": 22.9851
+    },
+    {
+      "name": "Μαριγώς Λαμπράκη",
+      "latitude": 35.234525,
+      "longitude": 25.159748
+    },
+    {
+      "name": "Μαρούλα",
+      "latitude": 39.941739,
+      "longitude": 25.285285
+    },
+    {
+      "name": "Μαρτύρων 2ας Σεπτεμβρίου",
+      "latitude": 40.607981,
+      "longitude": 23.100639
+    },
+    {
+      "name": "Μαυσωλείο Σέρβων Στρατιωτών Α' Παγκοσμίου Πολέμου",
+      "latitude": 39.639283,
+      "longitude": 19.927349
+    },
+    {
+      "name": "Μαυσωλείο των θυμάτων της 10ης Ιουνίου 1944",
+      "latitude": 38.430677,
+      "longitude": 22.67357
+    },
+    {
+      "name": "Μεθόδιος Ανθρακίτης",
+      "latitude": 39.76601,
+      "longitude": 20.866456
+    },
+    {
+      "name": "Μελίνα Μερκούρη",
+      "latitude": 37.969856,
+      "longitude": 23.731426
+    },
+    {
+      "name": "ΜΕΛΛΟΝ - ΕΙΡΗΝΗ - ΕΛΕΥΘΕΡΙΑ - ΕΛΠΙΔΑ",
+      "latitude": 39.050337,
+      "longitude": 21.032825
+    },
+    {
+      "name": "Μενέλαος Παλάντιος",
+      "latitude": 37.941799,
+      "longitude": 23.646597
+    },
+    {
+      "name": "Μεχμέτ Αλί",
+      "latitude": 40.931095,
+      "longitude": 24.414689
+    },
+    {
+      "name": "Μηλιοί Πεσόντες",
+      "latitude": 36.743837,
+      "longitude": 24.423838
+    },
+    {
+      "name": "Μηνάς Γεωργιάδης",
+      "latitude": 35.336074,
+      "longitude": 25.138244
+    },
+    {
+      "name": "Μητροπολίτης Γρηγόριος Πλείαθος",
+      "latitude": 38.462219,
+      "longitude": 23.589876
+    },
+    {
+      "name": "Μητροπολίτης Τιμόθεος",
+      "latitude": 40.3075,
+      "longitude": 22.497304
+    },
+    {
+      "name": "Μικρασιάτισσα μάνα",
+      "latitude": 39.112348,
+      "longitude": 26.557115
+    },
+    {
+      "name": "Μιχάλης Δερτούζος",
+      "latitude": 37.839382,
+      "longitude": 24.93622
+    },
+    {
+      "name": "Μιχάλης Κατσουρής",
+      "latitude": 38.03603,
+      "longitude": 23.74022
+    },
+    {
+      "name": "Μιχαήλ Θερβάντες",
+      "latitude": 38.391807,
+      "longitude": 21.828374
+    },
+    {
+      "name": "Μνήμα Μπογντάνου",
+      "latitude": 40.106671,
+      "longitude": 20.980203
+    },
+    {
+      "name": "Μνήμείο Κιμώλιων Πεσόντων Β' Παγκοσμίου Πολέμου",
+      "latitude": 36.78593,
+      "longitude": 24.580145
+    },
+    {
+      "name": "Μνήμες Λιγνίτη",
+      "latitude": 40.522992,
+      "longitude": 21.683546
+    },
+    {
+      "name": "Μνήμης θυμάτων ατυχήματος πτώσης Ε/Π Chinook CH-47D, στο Άγιο Όρος (11.09.2004)",
+      "latitude": 39.970996,
+      "longitude": 23.916899
+    },
+    {
+      "name": "Μνημίο Εθνικής Αντίστασης",
+      "latitude": 39.626092,
+      "longitude": 19.917814
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 36.980906,
+      "longitude": 21.663374
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 37.254219,
+      "longitude": 22.857399
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 37.856223,
+      "longitude": 21.457042
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 37.988711,
+      "longitude": 22.274532
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 38.032908,
+      "longitude": 22.109426
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 38.038707,
+      "longitude": 22.248605
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 38.097992,
+      "longitude": 22.037849
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 38.491792,
+      "longitude": 22.087454
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 38.528197,
+      "longitude": 21.532357
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 38.587357,
+      "longitude": 21.617798
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 38.809002,
+      "longitude": 22.103667
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 39.335496,
+      "longitude": 26.313686
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 39.425732,
+      "longitude": 21.060003
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 40.992877,
+      "longitude": 23.596348
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.005058,
+      "longitude": 23.558501
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.006371,
+      "longitude": 23.472501
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.020619,
+      "longitude": 23.483344
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.024274,
+      "longitude": 23.610224
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.061084,
+      "longitude": 25.333149
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.067222,
+      "longitude": 23.284614
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.119603,
+      "longitude": 24.076034
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.120683,
+      "longitude": 22.83164
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.143221,
+      "longitude": 25.532211
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.144387,
+      "longitude": 23.906795
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.145421,
+      "longitude": 23.442898
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.148175,
+      "longitude": 23.906349
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.178764,
+      "longitude": 22.85123
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.196698,
+      "longitude": 23.371808
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.213223,
+      "longitude": 23.896054
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.274361,
+      "longitude": 23.755188
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.275183,
+      "longitude": 24.96837
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.280512,
+      "longitude": 23.332731
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.2898,
+      "longitude": 26.256445
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.316027,
+      "longitude": 26.102551
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.319544,
+      "longitude": 23.539638
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.345661,
+      "longitude": 24.697715
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.405094,
+      "longitude": 23.895193
+    },
+    {
+      "name": "Μνημείο",
+      "latitude": 41.584482,
+      "longitude": 26.542823
+    },
+    {
+      "name": "Μνημείο \"Πόντιος Ακρίτας\"",
+      "latitude": 40.627877,
+      "longitude": 22.437555
+    },
+    {
+      "name": "Μνημείο 100 χρόνια από την απελευθέρωση της Θεσσαλίας",
+      "latitude": 39.354154,
+      "longitude": 21.922284
+    },
+    {
+      "name": "Μνημείο 17ης Νοέμβρη 1973",
+      "latitude": 39.621528,
+      "longitude": 19.920123
+    },
+    {
+      "name": "Μνημείο 28ης Οκτωμβρίου",
+      "latitude": 39.841392,
+      "longitude": 19.406929
+    },
+    {
+      "name": "Μνημείο 49 Προκρίτων",
+      "latitude": 39.459717,
+      "longitude": 20.513631
+    },
+    {
+      "name": "Μνημείο 54 Κρεμασμένων 1944",
+      "latitude": 37.997932,
+      "longitude": 23.930538
+    },
+    {
+      "name": "Μνημείο 54ου Συντάγματος Ε.Λ.Α.Σ.",
+      "latitude": 39.486225,
+      "longitude": 22.952782
+    },
+    {
+      "name": "Μνημείο Άγνωστου Στρατιώτη",
+      "latitude": 37.464097,
+      "longitude": 22.428623
+    },
+    {
+      "name": "Μνημείο Άγνωστου Στρατιώτη",
+      "latitude": 38.527749,
+      "longitude": 22.375693
+    },
+    {
+      "name": "Μνημείο Άρη Βελουχιώτη",
+      "latitude": 37.97052,
+      "longitude": 23.76136
+    },
+    {
+      "name": "Μνημείο Έλληνα Αεροπόρου",
+      "latitude": 38.892788,
+      "longitude": 22.448254
+    },
+    {
+      "name": "Μνημείο Έλληνα Αεροπόρου",
+      "latitude": 39.35622,
+      "longitude": 22.927249
+    },
+    {
+      "name": "Μνημείο Ένωσης των Επτανήσων",
+      "latitude": 39.62278,
+      "longitude": 19.92487
+    },
+    {
+      "name": "Μνημείο Ήβης Αθανασιάδου",
+      "latitude": 37.926036,
+      "longitude": 23.691151
+    },
+    {
+      "name": "Μνημείο Ίππου",
+      "latitude": 39.641224,
+      "longitude": 22.412814
+    },
+    {
+      "name": "Μνημείο Αγνώστου Στρατιώτη",
+      "latitude": 37.670987,
+      "longitude": 21.437998
+    },
+    {
+      "name": "Μνημείο Αγνώστου Στρατιώτη",
+      "latitude": 39.153621,
+      "longitude": 20.978221
+    },
+    {
+      "name": "Μνημείο Αγνώστου Στρατιώτου",
+      "latitude": 37.975354,
+      "longitude": 23.736364
+    },
+    {
+      "name": "Μνημείο Αγρότη - Κιλελέρ",
+      "latitude": 39.522478,
+      "longitude": 22.652741
+    },
+    {
+      "name": "Μνημείο Αγρότισσας",
+      "latitude": 39.693986,
+      "longitude": 20.599761
+    },
+    {
+      "name": "Μνημείο Αγωνιστών",
+      "latitude": 38.002872,
+      "longitude": 23.663356
+    },
+    {
+      "name": "Μνημείο αγώνων ΕΟΚΑ 1955-1959",
+      "latitude": 37.973648,
+      "longitude": 23.750908
+    },
+    {
+      "name": "Μνημείο Αεροπορικού Ατυχήματος Helios 14/08/2005",
+      "latitude": 38.231179,
+      "longitude": 23.972796
+    },
+    {
+      "name": "Μνημείο αεροπόρων (113 Π.Μ.)",
+      "latitude": 40.161576,
+      "longitude": 23.880554
+    },
+    {
+      "name": "Μνημείο Αθανάτων Ζυγοβιστινών του Θεόδωρου Κολοκοτρώνη",
+      "latitude": 37.585806,
+      "longitude": 22.066259
+    },
+    {
+      "name": "Μνημείο Αλέξανδρου Γρηγορόπουλου",
+      "latitude": 37.984698,
+      "longitude": 23.734699
+    },
+    {
+      "name": "Μνημείο Αλησμόνητων Πατρίδων",
+      "latitude": 40.238521,
+      "longitude": 23.28492
+    },
+    {
+      "name": "Μνημείο Αλφόνς",
+      "latitude": 39.509494,
+      "longitude": 23.003085
+    },
+    {
+      "name": "Μνημείο Αννίτσας",
+      "latitude": 40.094374,
+      "longitude": 21.091007
+    },
+    {
+      "name": "Μνημείο Αντίστασης",
+      "latitude": 40.408186,
+      "longitude": 22.121581
+    },
+    {
+      "name": "Μνημείο Αντιπεράτου",
+      "latitude": 35.400579,
+      "longitude": 26.88802
+    },
+    {
+      "name": "Μνημείο Αντισυνταγματάρχη Σβορώνου",
+      "latitude": 40.262001,
+      "longitude": 22.433721
+    },
+    {
+      "name": "Μνημείο Απελευθέρωσης της Αρναίας",
+      "latitude": 40.486216,
+      "longitude": 23.586594
+    },
+    {
+      "name": "Μνημείο Απόδημων Ελλήνων",
+      "latitude": 40.626779,
+      "longitude": 22.949576
+    },
+    {
+      "name": "Μνημείο Αραβησσού",
+      "latitude": 40.649931,
+      "longitude": 22.945965
+    },
+    {
+      "name": "Μνημείο Αργώ ΙΙ",
+      "latitude": 34.967655,
+      "longitude": 25.25668
+    },
+    {
+      "name": "Μνημείο Αφανούς Ναύτη",
+      "latitude": 38.380885,
+      "longitude": 22.385672
+    },
+    {
+      "name": "Μνημείο Βασίλη Γκισάκη",
+      "latitude": 40.115997,
+      "longitude": 21.201656
+    },
+    {
+      "name": "Μνημείο Βρετανών πεσόντων Α' Παγκ. Πολέμου",
+      "latitude": 40.654003,
+      "longitude": 22.931718
+    },
+    {
+      "name": "Μνημείο Γ. Καραϊσκάκη",
+      "latitude": 37.945015,
+      "longitude": 23.666144
+    },
+    {
+      "name": "Μνημείο Γάλλων Πεσόντων",
+      "latitude": 36.721722,
+      "longitude": 24.438206
+    },
+    {
+      "name": "Μνημείο Γάλλων πεσόντων Α' Παγκ. Πολέμου",
+      "latitude": 40.654591,
+      "longitude": 22.932404
+    },
+    {
+      "name": "Μνημείο Γάλλων στρατιωτών",
+      "latitude": 40.945853,
+      "longitude": 22.449877
+    },
+    {
+      "name": "Μνημείο Γαλλικής Ναυτικής Βάσης",
+      "latitude": 36.724949,
+      "longitude": 24.444856
+    },
+    {
+      "name": "Μνημείο Γενοκτονίας Ποντίων",
+      "latitude": 38.707479,
+      "longitude": 21.333249
+    },
+    {
+      "name": "Μνημείο Γενοκτονίας Ποντιακού Ελληνισμού",
+      "latitude": 40.633501,
+      "longitude": 22.945631
+    },
+    {
+      "name": "Μνημείο Γενοκτονίας Ποντιακού Ελληνισμού",
+      "latitude": 40.685298,
+      "longitude": 22.858439
+    },
+    {
+      "name": "Μνημείο Γενοκτονίας Ποντιακού Ελληνισμού",
+      "latitude": 40.726936,
+      "longitude": 22.91484
+    },
+    {
+      "name": "Μνημείο Γενοκτονίας των Ποντίων",
+      "latitude": 39.955356,
+      "longitude": 21.729137
+    },
+    {
+      "name": "Μνημείο Γιάννη Λεμονίδη",
+      "latitude": 40.653237,
+      "longitude": 22.930024
+    },
+    {
+      "name": "Μνημείο για 21 μαθητές Μακρυχωρίου Ημαθίας",
+      "latitude": 39.872153,
+      "longitude": 22.551071
+    },
+    {
+      "name": "Μνημείο για Αντίσταση και Ειρήνη",
+      "latitude": 35.156477,
+      "longitude": 24.46406
+    },
+    {
+      "name": "Μνημείο για Γυναίκες ΔΣΕ",
+      "latitude": 40.754721,
+      "longitude": 21.00297
+    },
+    {
+      "name": "Μνημείο για τον Ποντιακό Ελληνισμό",
+      "latitude": 40.685987,
+      "longitude": 22.929748
+    },
+    {
+      "name": "Μνημείο για τους Christianne και Robert Shepherd",
+      "latitude": 39.65735,
+      "longitude": 19.843277
+    },
+    {
+      "name": "Μνημείο για τους Πεσόντες Μαχητές του ΔΣΕ",
+      "latitude": 39.241036,
+      "longitude": 21.110666
+    },
+    {
+      "name": "Μνημείο για φοιτητές θύματα Σιδηροδρομικού Δυστυχήματος στα Τέμπη",
+      "latitude": 40.631369,
+      "longitude": 22.956027
+    },
+    {
+      "name": "Μνημείο Γοργοποτάμου",
+      "latitude": 38.830379,
+      "longitude": 22.38993
+    },
+    {
+      "name": "Μνημείο Γρηγόρη Λαμπράκη",
+      "latitude": 40.635963,
+      "longitude": 22.941067
+    },
+    {
+      "name": "Μνημείο Γρηγόρη Λιακατά",
+      "latitude": 38.437387,
+      "longitude": 21.356372
+    },
+    {
+      "name": "Μνημείο Δημόφιλου",
+      "latitude": 38.300769,
+      "longitude": 23.147082
+    },
+    {
+      "name": "Μνημείο ΔΣΕ",
+      "latitude": 40.237387,
+      "longitude": 20.864908
+    },
+    {
+      "name": "Μνημείο ΔΣΕ",
+      "latitude": 40.775042,
+      "longitude": 21.416475
+    },
+    {
+      "name": "Μνημείο Δόξας και Τιμής στις Αλησμόνητες Πατρίδες",
+      "latitude": 40.589364,
+      "longitude": 22.966632
+    },
+    {
+      "name": "Μνημείο Εβραϊκού Ολοκαυτώματος Κερκύρας",
+      "latitude": 39.625328,
+      "longitude": 19.918466
+    },
+    {
+      "name": "Μνημείο Εθνική Αντίστασης",
+      "latitude": 39.401185,
+      "longitude": 21.800818
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 36.727749,
+      "longitude": 22.524944
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 37.961706,
+      "longitude": 23.722317
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 37.963264,
+      "longitude": 23.751572
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 38.008176,
+      "longitude": 23.698079
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 38.052503,
+      "longitude": 23.754745
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 38.525797,
+      "longitude": 22.380386
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 38.893756,
+      "longitude": 22.426789
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 39.023134,
+      "longitude": 21.135058
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 39.099534,
+      "longitude": 26.555039
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 39.161232,
+      "longitude": 20.986179
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 39.366011,
+      "longitude": 21.923413
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 40.651746,
+      "longitude": 22.927345
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης",
+      "latitude": 40.662099,
+      "longitude": 22.935181
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης (αγάλματα)",
+      "latitude": 38.465857,
+      "longitude": 23.593055
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης 1941 - 1945",
+      "latitude": 38.090919,
+      "longitude": 23.817771
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης 1941-1944",
+      "latitude": 37.94389,
+      "longitude": 23.644623
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντίστασης 1941-1944",
+      "latitude": 40.271122,
+      "longitude": 22.498701
+    },
+    {
+      "name": "Μνημείο Εθνικής αντίστασης Νεράιδας",
+      "latitude": 39.520695,
+      "longitude": 20.431453
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντιστάσεως",
+      "latitude": 38.039644,
+      "longitude": 23.679208
+    },
+    {
+      "name": "Μνημείο Εθνικής Αντιστάσεως",
+      "latitude": 40.802354,
+      "longitude": 22.667889
+    },
+    {
+      "name": "Μνημείο Εθνικής Συμφιλίωσης",
+      "latitude": 37.979456,
+      "longitude": 23.731412
+    },
+    {
+      "name": "Μνημείο Εθνικών Αγώνων",
+      "latitude": 39.50358,
+      "longitude": 20.262858
+    },
+    {
+      "name": "Μνημείο Εκτελεσθέντων",
+      "latitude": 38.078713,
+      "longitude": 22.132921
+    },
+    {
+      "name": "Μνημείο Εκτελεσθέντων",
+      "latitude": 40.264465,
+      "longitude": 22.537184
+    },
+    {
+      "name": "Μνημείο Εκτελεσθέντων Αγωνιστών της Εθνικής Αντίστασης Εργαζομένων στον Δήμο Αθηναίων",
+      "latitude": 37.981675,
+      "longitude": 23.727059
+    },
+    {
+      "name": "Μνημείο Εκτελεσθέντων από τους Ναζί",
+      "latitude": 37.961036,
+      "longitude": 23.796717
+    },
+    {
+      "name": "Μνημείο Εκτελεσθέντων Μοναχών Μεγάλου Σπηλαίου",
+      "latitude": 38.086539,
+      "longitude": 22.176842
+    },
+    {
+      "name": "Μνημείο εκτελεσθέντων Σαρακατσάνων",
+      "latitude": 38.159093,
+      "longitude": 23.728737
+    },
+    {
+      "name": "Μνημείο εκτελεσθέντων της ΠΕΑΝ",
+      "latitude": 37.984614,
+      "longitude": 23.729657
+    },
+    {
+      "name": "Μνημείο εκτελεσθέντων το 1905",
+      "latitude": 40.661021,
+      "longitude": 21.55593
+    },
+    {
+      "name": "Μνημείο εκτελεσθέντων υπό των Γερμανών",
+      "latitude": 38.177636,
+      "longitude": 23.740313
+    },
+    {
+      "name": "Μνημείο εκτελεσμένων 1944",
+      "latitude": 37.615643,
+      "longitude": 22.597453
+    },
+    {
+      "name": "Μνημείο Ελευθερίας",
+      "latitude": 37.749029,
+      "longitude": 23.906516
+    },
+    {
+      "name": "Μνημείο Ελλήνων Πεσόντων στην Κορέα",
+      "latitude": 40.607546,
+      "longitude": 22.950909
+    },
+    {
+      "name": "Μνημείο Εμμανουήλ Παπά",
+      "latitude": 40.624044,
+      "longitude": 22.952632
+    },
+    {
+      "name": "Μνημείο ενέδρας Ιερού Λόχου",
+      "latitude": 36.69835,
+      "longitude": 24.533706
+    },
+    {
+      "name": "Μνημείο Επαμεινώνδα",
+      "latitude": 38.264676,
+      "longitude": 23.174322
+    },
+    {
+      "name": "Μνημείο Επισκόπου Δαβίδ",
+      "latitude": 38.52847,
+      "longitude": 22.377581
+    },
+    {
+      "name": "Μνημείο Ευάγγελου Καστανίτη",
+      "latitude": 40.580649,
+      "longitude": 22.967115
+    },
+    {
+      "name": "Μνημείο Ευγένιου Σπαθάρη",
+      "latitude": 38.054412,
+      "longitude": 23.807244
+    },
+    {
+      "name": "Μνημείο Ευριπίδη Μπακιρτζή (1895-1947)",
+      "latitude": 40.574053,
+      "longitude": 22.949839
+    },
+    {
+      "name": "Μνημείο Ηρώων",
+      "latitude": 37.978322,
+      "longitude": 23.768968
+    },
+    {
+      "name": "Μνημείο ηρώων",
+      "latitude": 39.496608,
+      "longitude": 20.275425
+    },
+    {
+      "name": "Μνημείο Ηρώων",
+      "latitude": 40.734135,
+      "longitude": 22.135065
+    },
+    {
+      "name": "Μνημείο Ηρώων",
+      "latitude": 41.161425,
+      "longitude": 23.363367
+    },
+    {
+      "name": "Μνημείο Ηρώων Αιτωλικού",
+      "latitude": 38.436398,
+      "longitude": 21.354222
+    },
+    {
+      "name": "Μνημείο Ηρώων Βοριζανών",
+      "latitude": 35.149529,
+      "longitude": 24.850027
+    },
+    {
+      "name": "Μνημείο Ηρώων Πολυτεχνείου",
+      "latitude": 39.653648,
+      "longitude": 20.847958
+    },
+    {
+      "name": "Μνημείο Ηρώων Σουλίου",
+      "latitude": 39.359566,
+      "longitude": 20.641531
+    },
+    {
+      "name": "Μνημείο θαλασσομάχων",
+      "latitude": 40.620694,
+      "longitude": 22.952228
+    },
+    {
+      "name": "Μνημείο θανάτου από το ψύχος μητέρας και των τριών θυγατέρων της",
+      "latitude": 38.863586,
+      "longitude": 21.861144
+    },
+    {
+      "name": "Μνημείο Θεσπιέων",
+      "latitude": 38.796714,
+      "longitude": 22.535898
+    },
+    {
+      "name": "Μνημείο Θεόδωρος Κολοκοτρώνη",
+      "latitude": 37.251375,
+      "longitude": 21.884776
+    },
+    {
+      "name": "Μνημείο Θεόδωρου Κολοκοτρώνη",
+      "latitude": 36.266605,
+      "longitude": 23.036848
+    },
+    {
+      "name": "Μνημείο θυμάτων του Ολοκαυτώματος",
+      "latitude": 38.463658,
+      "longitude": 23.602044
+    },
+    {
+      "name": "Μνημείο Ιερολοχιτών",
+      "latitude": 37.767911,
+      "longitude": 27.028646
+    },
+    {
+      "name": "Μνημείο Ιταλών πεσόντων Α' Παγκ. Πολέμου",
+      "latitude": 40.653215,
+      "longitude": 22.932906
+    },
+    {
+      "name": "Μνημείο Ιωάννη Παπάφη",
+      "latitude": 40.619224,
+      "longitude": 22.963467
+    },
+    {
+      "name": "Μνημείο Ιωάννη-Ιάκωβου Μάγερ",
+      "latitude": 38.365577,
+      "longitude": 21.427948
+    },
+    {
+      "name": "Μνημείο Καίτης Αργυροπούλου",
+      "latitude": 37.959681,
+      "longitude": 23.799039
+    },
+    {
+      "name": "Μνημείο Καλλίνικου",
+      "latitude": 39.993297,
+      "longitude": 22.533689
+    },
+    {
+      "name": "Μνημείο κατά του ναζισμού",
+      "latitude": 37.981422,
+      "longitude": 23.728548
+    },
+    {
+      "name": "Μνημείο Κατοχής",
+      "latitude": 37.127839,
+      "longitude": 25.538518
+    },
+    {
+      "name": "Μνημείο Κατσαντώνη",
+      "latitude": 39.446083,
+      "longitude": 21.317353
+    },
+    {
+      "name": "Μνημείο Κοντογιώργου",
+      "latitude": 38.077744,
+      "longitude": 23.804718
+    },
+    {
+      "name": "Μνημείο Κοσμά του Αιτωλού",
+      "latitude": 39.105269,
+      "longitude": 21.149533
+    },
+    {
+      "name": "Μνημείο Κοσμά του Αιτωλού",
+      "latitude": 39.77055,
+      "longitude": 21.182966
+    },
+    {
+      "name": "Μνημείο Κουτσούφλιανης",
+      "latitude": 39.807084,
+      "longitude": 21.327657
+    },
+    {
+      "name": "Μνημείο Κρητών Μακεδονομάχων",
+      "latitude": 40.272142,
+      "longitude": 22.481124
+    },
+    {
+      "name": "Μνημείο Κρητών Μακεδονομάχων",
+      "latitude": 40.726885,
+      "longitude": 22.914525
+    },
+    {
+      "name": "Μνημείο Κυπρίων Ηρώων",
+      "latitude": 37.963032,
+      "longitude": 23.803044
+    },
+    {
+      "name": "Μνημείο Κυπριακού Αγώνα",
+      "latitude": 38.89383,
+      "longitude": 22.445651
+    },
+    {
+      "name": "Μνημείο Κυρ. Μάτση",
+      "latitude": 40.630338,
+      "longitude": 22.957018
+    },
+    {
+      "name": "Μνημείο Κωνσταντίνου Σμολένσκη",
+      "latitude": 39.380518,
+      "longitude": 22.742352
+    },
+    {
+      "name": "Μνημείο Λεωνίδα και των 300 Σπαρτιατών",
+      "latitude": 38.7968,
+      "longitude": 22.536565
+    },
+    {
+      "name": "Μνημείο Λυσικράτους",
+      "latitude": 37.971041,
+      "longitude": 23.729897
+    },
+    {
+      "name": "Μνημείο Μάρκου Μπότσαρη",
+      "latitude": 38.897478,
+      "longitude": 21.782089
+    },
+    {
+      "name": "Μνημείο μάχης Αιτωλών κατά Γαλατών 279 π.χ Κοκκάλια",
+      "latitude": 38.864703,
+      "longitude": 21.876391
+    },
+    {
+      "name": "Μνημείο Μάχης Γραμμένης Οξυάς",
+      "latitude": 38.771917,
+      "longitude": 21.986189
+    },
+    {
+      "name": "Μνημείο Μάχης Κανελλακίων",
+      "latitude": 37.597321,
+      "longitude": 22.15871
+    },
+    {
+      "name": "Μνημείο μάχης Κοκκινογείων",
+      "latitude": 39.48934,
+      "longitude": 23.008507
+    },
+    {
+      "name": "Μνημείο Μάχης Ντολμά",
+      "latitude": 38.41164,
+      "longitude": 21.358873
+    },
+    {
+      "name": "Μνημείο Μάχης Σαρακηνού",
+      "latitude": 39.40023,
+      "longitude": 22.978957
+    },
+    {
+      "name": "Μνημείο Μάχης της Ντρεμίσσας",
+      "latitude": 38.671699,
+      "longitude": 22.289164
+    },
+    {
+      "name": "Μνημείο μάχης του 1821",
+      "latitude": 37.470355,
+      "longitude": 22.026385
+    },
+    {
+      "name": "Μνημείο Μάχης Τραμπάλας",
+      "latitude": 37.225358,
+      "longitude": 22.165194
+    },
+    {
+      "name": "Μνημείο Μακεδονομάχων",
+      "latitude": 40.38009,
+      "longitude": 23.441177
+    },
+    {
+      "name": "Μνημείο Μαρτυρική Πόλης",
+      "latitude": 38.871738,
+      "longitude": 22.244519
+    },
+    {
+      "name": "Μνημείο Μαρτύριων",
+      "latitude": 39.047373,
+      "longitude": 21.03171
+    },
+    {
+      "name": "Μνημείο Μεταπολιτευτικής Επιτροπής",
+      "latitude": 35.375813,
+      "longitude": 24.200975
+    },
+    {
+      "name": "Μνημείο Μικρασιατικού Ελληνισμού",
+      "latitude": 40.301728,
+      "longitude": 21.791619
+    },
+    {
+      "name": "Μνημείο Μιχαηλίδη",
+      "latitude": 37.930757,
+      "longitude": 23.784785
+    },
+    {
+      "name": "Μνημείο Μπουμπουλίνας",
+      "latitude": 37.567074,
+      "longitude": 22.799185
+    },
+    {
+      "name": "Μνημείο Νίκης",
+      "latitude": 39.641874,
+      "longitude": 22.414948
+    },
+    {
+      "name": "Μνημείο Νίκου Τεμπονέρα",
+      "latitude": 38.239585,
+      "longitude": 21.735139
+    },
+    {
+      "name": "Μνημείο Ναυαγίου “Empire Patrol”",
+      "latitude": 36.149474,
+      "longitude": 29.588998
+    },
+    {
+      "name": "Μνημείο ναυτικών",
+      "latitude": 36.758805,
+      "longitude": 22.569427
+    },
+    {
+      "name": "Μνημείο Ναυτικών",
+      "latitude": 37.244838,
+      "longitude": 22.869522
+    },
+    {
+      "name": "Μνημείο Νικόλαου Σιαλμά",
+      "latitude": 39.465751,
+      "longitude": 24.986408
+    },
+    {
+      "name": "Μνημείο ολοκαυτώματος",
+      "latitude": 36.442757,
+      "longitude": 28.229557
+    },
+    {
+      "name": "Μνημείο Ολοκαυτώματος",
+      "latitude": 37.242904,
+      "longitude": 21.827642
+    },
+    {
+      "name": "Μνημείο Ολοκαυτώματος",
+      "latitude": 39.363783,
+      "longitude": 22.940526
+    },
+    {
+      "name": "Μνημείο Ολοκαυτώματος",
+      "latitude": 40.633482,
+      "longitude": 22.938011
+    },
+    {
+      "name": "Μνημείο Ολοκαυτώματος Εβραίων Λάρισας",
+      "latitude": 39.638616,
+      "longitude": 22.413133
+    },
+    {
+      "name": "Μνημείο ολοκαυτώματος Λιγκιάδων",
+      "latitude": 39.690501,
+      "longitude": 20.888453
+    },
+    {
+      "name": "Μνημείο Ομαδικού Τάφου - Στη μνήμη των 120 θυμάτων που εκτελέστηκαν από τους Γερμανούς Ναζι στις 14 Σεπτεμβρίου του 1944",
+      "latitude": 40.794307,
+      "longitude": 22.411887
+    },
+    {
+      "name": "Μνημείο Παναγιώτας Σταθοπούλου",
+      "latitude": 37.993243,
+      "longitude": 23.744112
+    },
+    {
+      "name": "Μνημείο Παύλου Φύσσα",
+      "latitude": 37.967687,
+      "longitude": 23.622493
+    },
+    {
+      "name": "Μνημείο Περσόντων",
+      "latitude": 38.026224,
+      "longitude": 23.718005
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 36.804135,
+      "longitude": 22.851803
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 37.064514,
+      "longitude": 25.485126
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 37.246316,
+      "longitude": 22.860574
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 37.247003,
+      "longitude": 22.86037
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 37.618959,
+      "longitude": 22.770656
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 37.950614,
+      "longitude": 23.689729
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 37.960929,
+      "longitude": 23.752559
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 37.962965,
+      "longitude": 23.494977
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 37.981768,
+      "longitude": 21.72566
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 38.013854,
+      "longitude": 24.41983
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 38.11654,
+      "longitude": 23.873273
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 38.52863,
+      "longitude": 22.377547
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 38.557251,
+      "longitude": 21.794865
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 38.626355,
+      "longitude": 21.410182
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 38.710755,
+      "longitude": 20.592873
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 39.912211,
+      "longitude": 20.664365
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 39.993118,
+      "longitude": 22.62349
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 40.222121,
+      "longitude": 21.021904
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 40.429274,
+      "longitude": 21.200929
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 40.449077,
+      "longitude": 21.261933
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 40.520652,
+      "longitude": 21.682181
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 40.592232,
+      "longitude": 23.031091
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 40.661147,
+      "longitude": 21.555856
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 40.689882,
+      "longitude": 21.678808
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 40.773038,
+      "longitude": 21.413011
+    },
+    {
+      "name": "Μνημείο πεσόντων",
+      "latitude": 40.791811,
+      "longitude": 21.39263
+    },
+    {
+      "name": "Μνημείο Πεσόντων",
+      "latitude": 41.117566,
+      "longitude": 23.91611
+    },
+    {
+      "name": "Μνημείο Πεσόντων  Ευέλπιδων",
+      "latitude": 35.555563,
+      "longitude": 23.777113
+    },
+    {
+      "name": "Μνημείο Πεσόντων 1940-1941",
+      "latitude": 39.946015,
+      "longitude": 20.533655
+    },
+    {
+      "name": "Μνημείο πεσόντων 1947-1949",
+      "latitude": 41.287109,
+      "longitude": 23.034835
+    },
+    {
+      "name": "Μνημείο Πεσόντων 1948",
+      "latitude": 39.772514,
+      "longitude": 20.347989
+    },
+    {
+      "name": "Μνημείο πεσόντων 3ου Σώματος Στρατού",
+      "latitude": 40.622715,
+      "longitude": 22.95685
+    },
+    {
+      "name": "Μνημείο Πεσόντων 9ης Οκτωβρίου 1944",
+      "latitude": 37.894171,
+      "longitude": 23.880433
+    },
+    {
+      "name": "Μνημείο Πεσόντων Αεροπορίας",
+      "latitude": 35.516389,
+      "longitude": 24.031198
+    },
+    {
+      "name": "Μνημείο πεσόντων Αεροπόρων",
+      "latitude": 36.759664,
+      "longitude": 22.565523
+    },
+    {
+      "name": "Μνημείο Πεσόντων Αεροπόρων",
+      "latitude": 38.251917,
+      "longitude": 22.081431
+    },
+    {
+      "name": "Μνημείο πεσόντων αεροπόρων",
+      "latitude": 38.394225,
+      "longitude": 21.840205
+    },
+    {
+      "name": "Μνημείο Πεσόντων Αεροπόρων «Ίκαρος»",
+      "latitude": 37.985619,
+      "longitude": 23.721558
+    },
+    {
+      "name": "Μνημείο Πεσόντων Αεροπόρων Θέρμου",
+      "latitude": 38.590382,
+      "longitude": 21.666341
+    },
+    {
+      "name": "Μνημείο Πεσόντων Αντιστασιακών Φοιτητών",
+      "latitude": 40.631205,
+      "longitude": 22.956106
+    },
+    {
+      "name": "Μνημείο Πεσόντων Αστυνομικών",
+      "latitude": 39.620555,
+      "longitude": 22.401749
+    },
+    {
+      "name": "Μνημείο πεσόντων αστυνομικών",
+      "latitude": 40.623171,
+      "longitude": 22.955994
+    },
+    {
+      "name": "Μνημείο Πεσόντων Αυλών",
+      "latitude": 40.177095,
+      "longitude": 21.96114
+    },
+    {
+      "name": "Μνημείο Πεσόντων Β' Παγκόσμιου πολέμου",
+      "latitude": 37.565161,
+      "longitude": 22.802894
+    },
+    {
+      "name": "Μνημείο Πεσόντων Βρετανών",
+      "latitude": 41.168273,
+      "longitude": 22.762362
+    },
+    {
+      "name": "Μνημείο Πεσόντων για την Πατρίδα",
+      "latitude": 34.834585,
+      "longitude": 24.086383
+    },
+    {
+      "name": "Μνημείο Πεσόντων Γράμμου 1948 - 1949",
+      "latitude": 40.317698,
+      "longitude": 20.82253
+    },
+    {
+      "name": "Μνημείο Πεσόντων εφέδρων Κωνσταντινουπολιτών Β' ΠΠ",
+      "latitude": 37.926489,
+      "longitude": 23.688668
+    },
+    {
+      "name": "Μνημείο Πεσόντων Ηρώων",
+      "latitude": 37.76411,
+      "longitude": 23.480207
+    },
+    {
+      "name": "Μνημείο Πεσόντων Ηρώων",
+      "latitude": 40.106105,
+      "longitude": 22.505302
+    },
+    {
+      "name": "Μνημείο Πεσόντων Θεσσαλών Υγειονομικών Στρατιωτικών",
+      "latitude": 39.634512,
+      "longitude": 22.407334
+    },
+    {
+      "name": "Μνημείο Πεσόντων Ιερού Λόχου",
+      "latitude": 37.99399,
+      "longitude": 23.737049
+    },
+    {
+      "name": "Μνημείο πεσόντων ιππικού 1940",
+      "latitude": 39.767177,
+      "longitude": 21.176491
+    },
+    {
+      "name": "Μνημείο Πεσόντων Ιταλών της Μεραρχίας Acqui",
+      "latitude": 38.18897,
+      "longitude": 20.476441
+    },
+    {
+      "name": "Μνημείο Πεσόντων Καλαμαριάς",
+      "latitude": 40.575766,
+      "longitude": 22.947828
+    },
+    {
+      "name": "Μνημείο Πεσόντων Καπουτζήδων",
+      "latitude": 40.599401,
+      "longitude": 22.987418
+    },
+    {
+      "name": "Μνημείο Πεσόντων Καστανιάς Σερβίων",
+      "latitude": 40.175956,
+      "longitude": 22.024506
+    },
+    {
+      "name": "Μνημείο Πεσόντων Κλείσοβας",
+      "latitude": 38.349237,
+      "longitude": 21.435851
+    },
+    {
+      "name": "Μνημείο Πεσόντων Κυπρίων",
+      "latitude": 39.639173,
+      "longitude": 22.419331
+    },
+    {
+      "name": "Μνημείο Πεσόντων Μάχης Γραβιάς",
+      "latitude": 38.671151,
+      "longitude": 22.428991
+    },
+    {
+      "name": "Μνημείο Πεσόντων Μάχης Πέτα",
+      "latitude": 39.165497,
+      "longitude": 21.036623
+    },
+    {
+      "name": "Μνημείο πεσόντων Μάχης των Γιαννιτσών",
+      "latitude": 40.807665,
+      "longitude": 22.412742
+    },
+    {
+      "name": "Μνημείο Πεσόντων Μπέλλες",
+      "latitude": 41.323984,
+      "longitude": 23.058364
+    },
+    {
+      "name": "Μνημείο Πεσόντων Πολέμων 1912–22",
+      "latitude": 40.271422,
+      "longitude": 22.501143
+    },
+    {
+      "name": "Μνημείο Πεσόντων Πυροσβεστών",
+      "latitude": 38.251919,
+      "longitude": 21.742718
+    },
+    {
+      "name": "Μνημείο Πεσόντων στον Εμφύλιο",
+      "latitude": 40.661126,
+      "longitude": 21.555869
+    },
+    {
+      "name": "Μνημείο Πεσόντων της Μάχης Λαχανά",
+      "latitude": 40.952531,
+      "longitude": 23.206629
+    },
+    {
+      "name": "Μνημείο πεσόντων του Πολυτεχνείου",
+      "latitude": 37.987886,
+      "longitude": 23.730677
+    },
+    {
+      "name": "Μνημείο Πεσόντων Τρίλοφου",
+      "latitude": 40.458549,
+      "longitude": 20.874273
+    },
+    {
+      "name": "Μνημείο πεσόντων Ψηλής Βρύσης",
+      "latitude": 37.422003,
+      "longitude": 22.467635
+    },
+    {
+      "name": "Μνημείο Πιέρ ντε Κουμπερτέν",
+      "latitude": 37.641506,
+      "longitude": 21.635939
+    },
+    {
+      "name": "Μνημείο Πνιγέντων 1959",
+      "latitude": 39.278701,
+      "longitude": 21.734242
+    },
+    {
+      "name": "Μνημείο Πολυτεχνείου",
+      "latitude": 40.628304,
+      "longitude": 22.958296
+    },
+    {
+      "name": "Μνημείο Ποντίων",
+      "latitude": 40.534325,
+      "longitude": 21.181687
+    },
+    {
+      "name": "Μνημείο Ποντίων",
+      "latitude": 40.660509,
+      "longitude": 22.94555
+    },
+    {
+      "name": "Μνημείο Ποντίων",
+      "latitude": 41.283876,
+      "longitude": 22.929155
+    },
+    {
+      "name": "Μνημείο Ποντιακής Λύρας",
+      "latitude": 40.298359,
+      "longitude": 21.673469
+    },
+    {
+      "name": "Μνημείο Ποντιακού Ελληνισμού",
+      "latitude": 40.271262,
+      "longitude": 22.518272
+    },
+    {
+      "name": "Μνημείο Ποντιακού Ελληνισμού",
+      "latitude": 40.453498,
+      "longitude": 21.261391
+    },
+    {
+      "name": "Μνημείο Ποντιακού Ελληνισμού",
+      "latitude": 40.781724,
+      "longitude": 21.401407
+    },
+    {
+      "name": "Μνημείο Ποσειδώνα",
+      "latitude": 39.642107,
+      "longitude": 22.417811
+    },
+    {
+      "name": "Μνημείο Προσφυγικού Ελληνισμού",
+      "latitude": 40.651314,
+      "longitude": 22.928484
+    },
+    {
+      "name": "Μνημείο Προσφυγικού Ελληνισμού",
+      "latitude": 40.799926,
+      "longitude": 22.04938
+    },
+    {
+      "name": "Μνημείο Προσφύγων Θρακικού Ελληνισμού",
+      "latitude": 40.50219,
+      "longitude": 22.541513
+    },
+    {
+      "name": "Μνημείο Πρωτομαγιάς",
+      "latitude": 37.938922,
+      "longitude": 23.649947
+    },
+    {
+      "name": "Μνημείο Πρωτομαγιάς του ’36",
+      "latitude": 40.638383,
+      "longitude": 22.946406
+    },
+    {
+      "name": "Μνημείο Πτολεμαίου Β' και Αρσινόης",
+      "latitude": 37.638553,
+      "longitude": 21.631487
+    },
+    {
+      "name": "Μνημείο Ρήγα Φεραίου",
+      "latitude": 39.363227,
+      "longitude": 22.940824
+    },
+    {
+      "name": "Μνημείο Ρήγα Φεραίου",
+      "latitude": 39.635527,
+      "longitude": 22.414934
+    },
+    {
+      "name": "Μνημείο Ριμινιτών Ιερολοχιτών",
+      "latitude": 40.621538,
+      "longitude": 22.953905
+    },
+    {
+      "name": "Μνημείο Ρώσων πεσόντων Α' Παγκ. Πολέμου",
+      "latitude": 40.654699,
+      "longitude": 22.93289
+    },
+    {
+      "name": "Μνημείο Σέρβων πεσόντων Α' Παγκ. Πολέμου",
+      "latitude": 40.654431,
+      "longitude": 22.932905
+    },
+    {
+      "name": "Μνημείο Σαλαμινομάχων",
+      "latitude": 37.946932,
+      "longitude": 23.55122
+    },
+    {
+      "name": "Μνημείο Σοβιετικών Μαχητών",
+      "latitude": 37.949332,
+      "longitude": 23.706658
+    },
+    {
+      "name": "Μνημείο Σταθά",
+      "latitude": 39.009088,
+      "longitude": 21.268975
+    },
+    {
+      "name": "Μνημείο στους Εδεσσαίους Αεροπόρους",
+      "latitude": 40.812692,
+      "longitude": 22.056882
+    },
+    {
+      "name": "Μνημείο στους Πεσόντες",
+      "latitude": 40.481186,
+      "longitude": 23.048201
+    },
+    {
+      "name": "Μνημείο της Ακροναυπλίας",
+      "latitude": 37.563806,
+      "longitude": 22.793838
+    },
+    {
+      "name": "Μνημείο της Επανάστασης της Καρπάθου",
+      "latitude": 35.489373,
+      "longitude": 27.175299
+    },
+    {
+      "name": "Μνημείο της Ζαγορίσιας Γυναίκας της Πίνδου",
+      "latitude": 39.837969,
+      "longitude": 20.70299
+    },
+    {
+      "name": "Μνημείο του Άγνωστου Στρατιώτη",
+      "latitude": 39.569777,
+      "longitude": 19.875856
+    },
+    {
+      "name": "Μνημείο του Άγνωστου Στρατιώτη",
+      "latitude": 39.626527,
+      "longitude": 19.919971
+    },
+    {
+      "name": "Μνημείο του Ανωγειανού αγωνιστή",
+      "latitude": 35.290954,
+      "longitude": 24.881094
+    },
+    {
+      "name": "Μνημείο του Αφανούς Ναυτικού",
+      "latitude": 37.938946,
+      "longitude": 23.640299
+    },
+    {
+      "name": "Μνημείο του αφανούς Ναύτη",
+      "latitude": 38.012589,
+      "longitude": 24.420675
+    },
+    {
+      "name": "Μνημείο του Γεώργιου Λάιου",
+      "latitude": 39.365461,
+      "longitude": 21.925901
+    },
+    {
+      "name": "Μνημείο του Ιερού Λόχου",
+      "latitude": 37.441993,
+      "longitude": 24.942138
+    },
+    {
+      "name": "Μνημείο του Μπλόκου της Καλογρέζας",
+      "latitude": 38.036953,
+      "longitude": 23.763756
+    },
+    {
+      "name": "Μνημείο του ναυάρχου Ουσάκοφ",
+      "latitude": 39.625861,
+      "longitude": 19.918167
+    },
+    {
+      "name": "Μνημείο του Ναύτη",
+      "latitude": 38.950637,
+      "longitude": 20.756748
+    },
+    {
+      "name": "Μνημείο του Πολέμου της Κορέας",
+      "latitude": 37.98134,
+      "longitude": 23.791111
+    },
+    {
+      "name": "Μνημείο του Πόντιου Μαχητή",
+      "latitude": 40.466642,
+      "longitude": 22.54288
+    },
+    {
+      "name": "Μνημείο των εις Βίτσι Πεσόντων Καταδρομέων 1947-1949",
+      "latitude": 40.674764,
+      "longitude": 21.175523
+    },
+    {
+      "name": "Μνημείο των Εκτελεσμένων",
+      "latitude": 39.108051,
+      "longitude": 26.563045
+    },
+    {
+      "name": "Μνημείο των Ηρώων",
+      "latitude": 39.431921,
+      "longitude": 21.664801
+    },
+    {
+      "name": "Μνημείο των Ινδών Στρατιώτων",
+      "latitude": 40.660891,
+      "longitude": 22.89714
+    },
+    {
+      "name": "Μνημείο των Μικρασιατών",
+      "latitude": 38.532158,
+      "longitude": 22.380986
+    },
+    {
+      "name": "Μνημείο των Σουλιωτών",
+      "latitude": 39.50125,
+      "longitude": 20.26331
+    },
+    {
+      "name": "Μνημείο υπέρ πεσόντων στο καθήκων αστυνομικών",
+      "latitude": 36.847306,
+      "longitude": 22.660851
+    },
+    {
+      "name": "Μνημείο υπέρ πεσόντων στον Α' Παγκόσμιο πόλεμο",
+      "latitude": 39.246286,
+      "longitude": 26.270124
+    },
+    {
+      "name": "Μνημείο Υποβρυχίου Πρωτεύς Ι",
+      "latitude": 39.841142,
+      "longitude": 19.407253
+    },
+    {
+      "name": "Μνημείο Υποσμηναγού Ευάγγελου Γιάνναρη",
+      "latitude": 40.566354,
+      "longitude": 21.43046
+    },
+    {
+      "name": "Μνημείο Φιλίας Hvar-Πάρου",
+      "latitude": 37.085424,
+      "longitude": 25.150998
+    },
+    {
+      "name": "Μνημείο Φράνκ Άμπνει Άστιγξ",
+      "latitude": 38.433272,
+      "longitude": 21.352122
+    },
+    {
+      "name": "Μνημείο Χαμένων Ναυτεργατών",
+      "latitude": 39.841568,
+      "longitude": 19.405609
+    },
+    {
+      "name": "Μνημείο Χαμένων Πατρίδων",
+      "latitude": 40.578946,
+      "longitude": 22.959223
+    },
+    {
+      "name": "Μνημείο Χελιδονάκια",
+      "latitude": 38.025459,
+      "longitude": 23.463606
+    },
+    {
+      "name": "Μνημείοι",
+      "latitude": 41.418748,
+      "longitude": 26.562203
+    },
+    {
+      "name": "Μνημεῖο Σέρβων Στρατιωτῶν Α΄ΠΠ",
+      "latitude": 39.476184,
+      "longitude": 19.896587
+    },
+    {
+      "name": "Μνημειο Γενοκτονιας Ποντιακου Ελληνισμου",
+      "latitude": 40.665217,
+      "longitude": 22.896636
+    },
+    {
+      "name": "Μνημειο εθνικης αντιστασης",
+      "latitude": 40.669972,
+      "longitude": 22.896802
+    },
+    {
+      "name": "Μνημειο Ηρωων",
+      "latitude": 39.542407,
+      "longitude": 21.468256
+    },
+    {
+      "name": "ΜνημεΙο Ολοκαυτώματος",
+      "latitude": 37.977751,
+      "longitude": 23.719515
+    },
+    {
+      "name": "Μνημειο Πεσοντων Βαλκανικων Πολεμων",
+      "latitude": 41.269775,
+      "longitude": 26.383902
+    },
+    {
+      "name": "ΜΝΗΜΕΙΟ ΠΕΣΟΝΤΩΝ ΚΑΤΑΔΡΟΜΕΩΝ",
+      "latitude": 40.908852,
+      "longitude": 21.814739
+    },
+    {
+      "name": "ΜΝΗΜΕΙΟ ΠΕΣΟΝΤΩΝ Λ.Ο.Κ. 1",
+      "latitude": 37.82145,
+      "longitude": 23.772936
+    },
+    {
+      "name": "Μπουμπουλίνα Λασκαρίνα",
+      "latitude": 37.268861,
+      "longitude": 23.154991
+    },
+    {
+      "name": "Μυκηναϊκό κοιμητήριο",
+      "latitude": 36.10948,
+      "longitude": 28.042292
+    },
+    {
+      "name": "ΜΩΥΣ ΜΟΛΧΟ",
+      "latitude": 40.63325,
+      "longitude": 22.936189
+    },
+    {
+      "name": "Νίκη της Σαμοθράκης",
+      "latitude": 38.462796,
+      "longitude": 23.589767
+    },
+    {
+      "name": "Νίκος Γούναρης",
+      "latitude": 38.037563,
+      "longitude": 23.799908
+    },
+    {
+      "name": "Νίκος Κιτσίκης",
+      "latitude": 35.34578,
+      "longitude": 25.138124
+    },
+    {
+      "name": "Νίκος Μπελογιάννης",
+      "latitude": 37.989459,
+      "longitude": 23.770977
+    },
+    {
+      "name": "Νίκος Ξυλούρης",
+      "latitude": 35.334051,
+      "longitude": 25.135295
+    },
+    {
+      "name": "Νίκος Σκαλκώττας",
+      "latitude": 38.462164,
+      "longitude": 23.589809
+    },
+    {
+      "name": "Ναπολέων Ζέρβας",
+      "latitude": 39.502834,
+      "longitude": 20.262965
+    },
+    {
+      "name": "Ναπολέωντας Ζέρβας",
+      "latitude": 39.161603,
+      "longitude": 20.993329
+    },
+    {
+      "name": "Ναυμαχία του Ναβαρίνου",
+      "latitude": 36.913547,
+      "longitude": 21.696493
+    },
+    {
+      "name": "ΝΑΥΜΑΧΙΑ ΜΕΘΩΝΗΣ",
+      "latitude": 36.817665,
+      "longitude": 21.707186
+    },
+    {
+      "name": "Ναύσταθμος Σαλαμίνας",
+      "latitude": 37.985085,
+      "longitude": 23.435247
+    },
+    {
+      "name": "Νεόφυτος (Επίσκοπος Καρύστου)",
+      "latitude": 38.015447,
+      "longitude": 24.420069
+    },
+    {
+      "name": "Νικηταράς",
+      "latitude": 37.249177,
+      "longitude": 22.122293
+    },
+    {
+      "name": "Νικηταράς",
+      "latitude": 37.8032,
+      "longitude": 22.876605
+    },
+    {
+      "name": "Νικηταράς",
+      "latitude": 37.945002,
+      "longitude": 23.653858
+    },
+    {
+      "name": "Νικηταράς",
+      "latitude": 37.993025,
+      "longitude": 23.73526
+    },
+    {
+      "name": "Νικηφόρος Λύτρας",
+      "latitude": 37.541398,
+      "longitude": 25.162701
+    },
+    {
+      "name": "Νικηφόρος Μανδηλαράς",
+      "latitude": 37.119068,
+      "longitude": 25.534147
+    },
+    {
+      "name": "Νικηφόρος Μπουρόζικας",
+      "latitude": 40.264638,
+      "longitude": 22.50887
+    },
+    {
+      "name": "Νικηφόρος Φωκάς",
+      "latitude": 35.336803,
+      "longitude": 25.137724
+    },
+    {
+      "name": "ΝΙΚΟΛΑΟΣ Ι. ΒΟΤΣΗΣ",
+      "latitude": 37.348613,
+      "longitude": 23.465508
+    },
+    {
+      "name": "Νικολαος Κασομουλης",
+      "latitude": 38.912079,
+      "longitude": 22.616574
+    },
+    {
+      "name": "Νικολαος Κων. Κρικος",
+      "latitude": 38.909408,
+      "longitude": 22.126226
+    },
+    {
+      "name": "Νικολαος Στεργ. Δουμπας",
+      "latitude": 40.454363,
+      "longitude": 21.523712
+    },
+    {
+      "name": "Νικος Θεοχαροπουλος (Σκοτιδας)",
+      "latitude": 40.671147,
+      "longitude": 21.148401
+    },
+    {
+      "name": "Νικόλαος Βασιλείου Επισμηναγός",
+      "latitude": 38.302956,
+      "longitude": 24.192321
+    },
+    {
+      "name": "Νικόλαος Βράγκαλης",
+      "latitude": 39.946076,
+      "longitude": 20.533627
+    },
+    {
+      "name": "Νικόλαος Βράγκαλης",
+      "latitude": 39.946191,
+      "longitude": 20.532781
+    },
+    {
+      "name": "Νικόλαος Γύζης",
+      "latitude": 37.541366,
+      "longitude": 25.162697
+    },
+    {
+      "name": "Νικόλαος Κασομούλης",
+      "latitude": 40.627018,
+      "longitude": 22.952844
+    },
+    {
+      "name": "Νικόλαος Κριεζώτης",
+      "latitude": 37.993004,
+      "longitude": 23.73554
+    },
+    {
+      "name": "Νικόλαος Λούβαρις",
+      "latitude": 37.540428,
+      "longitude": 25.162185
+    },
+    {
+      "name": "Νικόλαος Μάμας",
+      "latitude": 38.374329,
+      "longitude": 22.38602
+    },
+    {
+      "name": "Νικόλαος Πλαστήρας",
+      "latitude": 38.062315,
+      "longitude": 23.981412
+    },
+    {
+      "name": "Νικόλαος Πλαστήρας",
+      "latitude": 39.107385,
+      "longitude": 26.56179
+    },
+    {
+      "name": "Νικόλαος Πλαστήρας",
+      "latitude": 39.352282,
+      "longitude": 21.751728
+    },
+    {
+      "name": "Νικόλαος Σελέντης",
+      "latitude": 37.541468,
+      "longitude": 25.162656
+    },
+    {
+      "name": "Νικόλαος Φαρδύς",
+      "latitude": 40.474306,
+      "longitude": 25.525617
+    },
+    {
+      "name": "Νότης Μπότσαρης",
+      "latitude": 37.993099,
+      "longitude": 23.733359
+    },
+    {
+      "name": "Ο Άγιος Κοσμάς ο Άγγωλος",
+      "latitude": 38.346959,
+      "longitude": 21.721128
+    },
+    {
+      "name": "Ο Ακρίτας του Πόντου",
+      "latitude": 40.931228,
+      "longitude": 24.391899
+    },
+    {
+      "name": "Ο Αχιλλέας στο άρμα του",
+      "latitude": 38.947444,
+      "longitude": 21.955915
+    },
+    {
+      "name": "Ο Γαλαξιδιώτης Καπετάνιος",
+      "latitude": 38.378864,
+      "longitude": 22.384125
+    },
+    {
+      "name": "Ο κόσμος της καινοτομίας",
+      "latitude": 40.62666,
+      "longitude": 22.95322
+    },
+    {
+      "name": "Ο μικρός θεριστής",
+      "latitude": 37.63968,
+      "longitude": 25.041074
+    },
+    {
+      "name": "Ο πυρπολητής",
+      "latitude": 37.263747,
+      "longitude": 23.165936
+    },
+    {
+      "name": "Ο ταύρος των Ωρεών",
+      "latitude": 38.949959,
+      "longitude": 23.087653
+    },
+    {
+      "name": "Οδυσσέας Ελύτης",
+      "latitude": 37.978867,
+      "longitude": 23.741605
+    },
+    {
+      "name": "Οδυσσέυς Ανδρούτσος",
+      "latitude": 37.992805,
+      "longitude": 23.73441
+    },
+    {
+      "name": "Οικία Βαλέττα",
+      "latitude": 36.722974,
+      "longitude": 25.281419
+    },
+    {
+      "name": "Οικία γέννησης του Παύλου Μάτεσι",
+      "latitude": 37.857888,
+      "longitude": 21.808021
+    },
+    {
+      "name": "Οικία Ξενοφώντα Γρηγόρη",
+      "latitude": 38.783423,
+      "longitude": 20.671174
+    },
+    {
+      "name": "Οικουμενικός Πατριάρχης Ιερεμίας Α΄",
+      "latitude": 39.75216,
+      "longitude": 20.649086
+    },
+    {
+      "name": "Ολοκαυτώματος Επτακώμης Σάντας Πόντου",
+      "latitude": 40.410105,
+      "longitude": 22.114552
+    },
+    {
+      "name": "Ολυμπιακή Αεροπορία",
+      "latitude": 37.911482,
+      "longitude": 23.745072
+    },
+    {
+      "name": "Ονόματα Θυμάτων Σιδηροδρομικού Δυστυχήματος στα Τέμπη το 2023",
+      "latitude": 37.975343,
+      "longitude": 23.735888
+    },
+    {
+      "name": "Οπλαρχηγός Νταλίπης Δημήτριος",
+      "latitude": 40.624182,
+      "longitude": 21.194762
+    },
+    {
+      "name": "Ορθόδοξος Ρασοφόρος",
+      "latitude": 40.778483,
+      "longitude": 21.405765
+    },
+    {
+      "name": "Οροσειρά Ταΰγετου",
+      "latitude": 38.796798,
+      "longitude": 22.536669
+    },
+    {
+      "name": "Ουρανία Κουσουρελάκη",
+      "latitude": 35.530678,
+      "longitude": 27.134714
+    },
+    {
+      "name": "ΟΧΙ",
+      "latitude": 39.884454,
+      "longitude": 20.631164
+    },
+    {
+      "name": "Οἰκία & Μνημεῖον Ἀκακίου Μοναχοῦ, 3/8/1817",
+      "latitude": 39.57257,
+      "longitude": 19.855503
+    },
+    {
+      "name": "Πάνος Γιαννούλης",
+      "latitude": 38.832687,
+      "longitude": 20.707777
+    },
+    {
+      "name": "Πάρκο του Καναδά - Canada Park - Parc Canada",
+      "latitude": 40.633214,
+      "longitude": 22.945617
+    },
+    {
+      "name": "Πέτρος Α. Μαυρομιχάλης",
+      "latitude": 36.665931,
+      "longitude": 22.381743
+    },
+    {
+      "name": "Πέτρος Βραίλας Αρμένης",
+      "latitude": 39.626181,
+      "longitude": 19.924564
+    },
+    {
+      "name": "Πέτρος Λαμπαδάριος",
+      "latitude": 37.073207,
+      "longitude": 22.424453
+    },
+    {
+      "name": "Παλαιοχριστιανική Βασιλική Αγίου Λεωνίδη",
+      "latitude": 38.867665,
+      "longitude": 21.758039
+    },
+    {
+      "name": "Παλαιό Πολυβολείο Β' Παγκοσμίου Πολέμου (Χαλκίδα)",
+      "latitude": 38.491667,
+      "longitude": 23.633
+    },
+    {
+      "name": "Παλαιών Πατρών Γερμανός",
+      "latitude": 37.939963,
+      "longitude": 23.649426
+    },
+    {
+      "name": "Παλαιών Πατρών Γερμανός",
+      "latitude": 37.992816,
+      "longitude": 23.73429
+    },
+    {
+      "name": "Παλιά Καμπάνα",
+      "latitude": 38.733494,
+      "longitude": 23.4895
+    },
+    {
+      "name": "Παναγής Βαλλιάνος",
+      "latitude": 37.981047,
+      "longitude": 23.73288
+    },
+    {
+      "name": "Παναγία τῶν Δρόμων",
+      "latitude": 39.73931,
+      "longitude": 19.838838
+    },
+    {
+      "name": "Παναγης Παπαληγουρας",
+      "latitude": 37.938758,
+      "longitude": 22.931956
+    },
+    {
+      "name": "Παναγιά Πολέμαρχος",
+      "latitude": 37.657092,
+      "longitude": 23.162637
+    },
+    {
+      "name": "Παναγιωτης Αθ. Γιαννουκος \"Παγιος\"",
+      "latitude": 37.369672,
+      "longitude": 22.7517
+    },
+    {
+      "name": "Παναγιώτης Βλαχάκος",
+      "latitude": 36.483687,
+      "longitude": 22.479599
+    },
+    {
+      "name": "Παναγιώτης Κανελλόπουλος",
+      "latitude": 37.980551,
+      "longitude": 23.734307
+    },
+    {
+      "name": "Παξοί",
+      "latitude": 39.622698,
+      "longitude": 19.924882
+    },
+    {
+      "name": "Παπαφλέσσας",
+      "latitude": 37.075683,
+      "longitude": 21.778524
+    },
+    {
+      "name": "Παπαχαραλάμπους",
+      "latitude": 38.394348,
+      "longitude": 21.831692
+    },
+    {
+      "name": "Παρθένιος Κελαΐδης",
+      "latitude": 35.201051,
+      "longitude": 24.136872
+    },
+    {
+      "name": "Πατριάρχης Γρηγόριος Ε΄",
+      "latitude": 37.980494,
+      "longitude": 23.733842
+    },
+    {
+      "name": "Πατριάρχης Κωνσταντίνος ΣΤ΄",
+      "latitude": 38.033828,
+      "longitude": 23.737325
+    },
+    {
+      "name": "Παυλος Α.Ι.",
+      "latitude": 40.522681,
+      "longitude": 21.265493
+    },
+    {
+      "name": "Παυλος Νεραντζης",
+      "latitude": 40.260084,
+      "longitude": 21.551173
+    },
+    {
+      "name": "Παύλος Βαρδινογιάννης",
+      "latitude": 35.201071,
+      "longitude": 24.136885
+    },
+    {
+      "name": "Παύλος Μελάς",
+      "latitude": 39.642351,
+      "longitude": 22.411194
+    },
+    {
+      "name": "Παύλος Μελάς",
+      "latitude": 39.859407,
+      "longitude": 20.567246
+    },
+    {
+      "name": "Παύλος Μελάς",
+      "latitude": 40.627127,
+      "longitude": 22.948724
+    },
+    {
+      "name": "Παύλος Μελάς",
+      "latitude": 40.673215,
+      "longitude": 22.894065
+    },
+    {
+      "name": "Παύλος Μελάς",
+      "latitude": 40.937183,
+      "longitude": 24.408248
+    },
+    {
+      "name": "Πεζοντες 1940-1944",
+      "latitude": 38.020317,
+      "longitude": 24.006773
+    },
+    {
+      "name": "Πελοποννησιακή Γερουσία - Α' Εθνοσυνέλευση",
+      "latitude": 37.637076,
+      "longitude": 22.722584
+    },
+    {
+      "name": "Περικλής Βαρατάσης",
+      "latitude": 37.993679,
+      "longitude": 23.735985
+    },
+    {
+      "name": "Πεσοντες υπερ πατριδος",
+      "latitude": 36.350143,
+      "longitude": 25.765993
+    },
+    {
+      "name": "Πεσόντες 1940-1949",
+      "latitude": 37.588565,
+      "longitude": 22.744682
+    },
+    {
+      "name": "Πεσόντες υπερ πατρίδος",
+      "latitude": 38.222577,
+      "longitude": 23.922254
+    },
+    {
+      "name": "Πεσόντων 1922 1949",
+      "latitude": 41.078541,
+      "longitude": 22.47838
+    },
+    {
+      "name": "Πετρόμπεης Μαυρομιχάλης",
+      "latitude": 37.993108,
+      "longitude": 23.734315
+    },
+    {
+      "name": "Πηγας Φερραιος",
+      "latitude": 39.978678,
+      "longitude": 21.116828
+    },
+    {
+      "name": "Πλάτων",
+      "latitude": 37.97997,
+      "longitude": 23.733815
+    },
+    {
+      "name": "Πλατεία Ηρώων",
+      "latitude": 38.034727,
+      "longitude": 23.826627
+    },
+    {
+      "name": "Πλατεία Οικουμενικού Πατριάρχου Κωσταντίνου ΣΤ'",
+      "latitude": 38.033681,
+      "longitude": 23.738107
+    },
+    {
+      "name": "Πολεμικό μνημείο",
+      "latitude": 37.051077,
+      "longitude": 25.240196
+    },
+    {
+      "name": "Πολεμικό Μνημείο Πεσόντων Βίτσι",
+      "latitude": 40.634078,
+      "longitude": 21.387755
+    },
+    {
+      "name": "Ποντικό Μνημείο",
+      "latitude": 37.936602,
+      "longitude": 23.752376
+    },
+    {
+      "name": "Προτομές Κολοκοτρώνη, Νικηταρά και Γεωργίου Κίτσου",
+      "latitude": 37.320736,
+      "longitude": 22.145658
+    },
+    {
+      "name": "Προτομές Λάμπρου και Μόσχως Τζαβέλλα",
+      "latitude": 39.361706,
+      "longitude": 20.643949
+    },
+    {
+      "name": "Προτομή",
+      "latitude": 37.982569,
+      "longitude": 23.764693
+    },
+    {
+      "name": "Προτομή Άρη Βελουχιώτη",
+      "latitude": 38.90523,
+      "longitude": 22.127656
+    },
+    {
+      "name": "Προτομή Ίωνα Δραγούμη",
+      "latitude": 40.635338,
+      "longitude": 22.947351
+    },
+    {
+      "name": "Προτομή Αλέξανδρου Δελμούζου",
+      "latitude": 40.635996,
+      "longitude": 22.948224
+    },
+    {
+      "name": "Προτομή Αλέξανδρου Συμεωνίδη",
+      "latitude": 40.617842,
+      "longitude": 22.959693
+    },
+    {
+      "name": "Προτομή Ανδρέα Μιαούλη",
+      "latitude": 38.326431,
+      "longitude": 21.418075
+    },
+    {
+      "name": "Προτομή Ανθυπολοχαγού Κωστή Πούλου",
+      "latitude": 38.598941,
+      "longitude": 21.793137
+    },
+    {
+      "name": "Προτομή Γερμανού Καραβαγγέλη",
+      "latitude": 40.636379,
+      "longitude": 22.943795
+    },
+    {
+      "name": "Προτομή Γεωργάκη Ολύμπιου",
+      "latitude": 39.635077,
+      "longitude": 22.417158
+    },
+    {
+      "name": "Προτομή Γεωργάκη Ολύμπιου",
+      "latitude": 39.894785,
+      "longitude": 22.18879
+    },
+    {
+      "name": "Προτομή Γεωργίου Καραϊσκάκη",
+      "latitude": 38.600239,
+      "longitude": 21.791703
+    },
+    {
+      "name": "Προτομή Γεώργιου Τσόντου",
+      "latitude": 40.636377,
+      "longitude": 22.943846
+    },
+    {
+      "name": "Προτομή ΓΙΑΝΝΗ ΓΑΛΛΟΥ",
+      "latitude": 37.955975,
+      "longitude": 23.702382
+    },
+    {
+      "name": "Προτομή Γιώργος Φτέρης Τσιμπίδαρος",
+      "latitude": 36.682356,
+      "longitude": 22.409296
+    },
+    {
+      "name": "Προτομή Γρηγορίου Δικαίου(Παπαφλέσσα)",
+      "latitude": 37.150763,
+      "longitude": 22.141943
+    },
+    {
+      "name": "Προτομή Γρηγορίου Τσόγκα",
+      "latitude": 39.625685,
+      "longitude": 20.180961
+    },
+    {
+      "name": "Προτομή Δαμασκηνού",
+      "latitude": 38.557177,
+      "longitude": 21.794964
+    },
+    {
+      "name": "Προτομή Δόμνα Βισβίζη",
+      "latitude": 40.844037,
+      "longitude": 25.876426
+    },
+    {
+      "name": "Προτομή Ελευθέριου Βενιζέλου",
+      "latitude": 37.932805,
+      "longitude": 23.756384
+    },
+    {
+      "name": "Προτομή Επίσκοπου Κίτρους Νικόλαου",
+      "latitude": 40.10597,
+      "longitude": 22.505312
+    },
+    {
+      "name": "Προτομή Ευάγγελου Κοροβάγκου",
+      "latitude": 40.10607,
+      "longitude": 22.505463
+    },
+    {
+      "name": "Προτομή Θεοδώρου Κολοκοτρώνη",
+      "latitude": 38.042516,
+      "longitude": 23.683628
+    },
+    {
+      "name": "Προτομή Θεοχάρη Κούγκα",
+      "latitude": 40.63032,
+      "longitude": 22.442992
+    },
+    {
+      "name": "Προτομή Θεόδωρου Κολοκοτρώνη",
+      "latitude": 37.453093,
+      "longitude": 22.16325
+    },
+    {
+      "name": "Προτομή Ιερέως Νικολάου Δάφνη",
+      "latitude": 37.743947,
+      "longitude": 23.004633
+    },
+    {
+      "name": "Προτομή Ιωάννη Θεοφιλόπουλου",
+      "latitude": 39.099255,
+      "longitude": 26.554532
+    },
+    {
+      "name": "Προτομή Ιωάννη Καποδίστρια",
+      "latitude": 37.744335,
+      "longitude": 23.429878
+    },
+    {
+      "name": "Προτομή Ιωάννη Πούλακα",
+      "latitude": 40.636294,
+      "longitude": 22.943829
+    },
+    {
+      "name": "Προτομή Καπετάν Κώττα",
+      "latitude": 40.635345,
+      "longitude": 22.947329
+    },
+    {
+      "name": "Προτομή Καπετάν Λογοθέτη",
+      "latitude": 39.081553,
+      "longitude": 26.182804
+    },
+    {
+      "name": "Προτομή καπετάν Νικηφόρου",
+      "latitude": 40.760079,
+      "longitude": 22.526869
+    },
+    {
+      "name": "Προτομή καπετάν Σπανού",
+      "latitude": 40.705403,
+      "longitude": 21.522469
+    },
+    {
+      "name": "Προτομή Καπετάν Χάψα",
+      "latitude": 40.596941,
+      "longitude": 22.964502
+    },
+    {
+      "name": "Προτομή Κολοκοτρώνη",
+      "latitude": 37.932041,
+      "longitude": 23.75519
+    },
+    {
+      "name": "Προτομή Κοσμά Δουμπιώτη",
+      "latitude": 40.106034,
+      "longitude": 22.50516
+    },
+    {
+      "name": "Προτομή Κοσμά του Αιτωλού",
+      "latitude": 39.637365,
+      "longitude": 22.424263
+    },
+    {
+      "name": "Προτομή Κυράς της Ρω",
+      "latitude": 36.148329,
+      "longitude": 29.594177
+    },
+    {
+      "name": "Προτομή Λάμπρου Κορομηλά",
+      "latitude": 40.625614,
+      "longitude": 22.950282
+    },
+    {
+      "name": "Προτομή Λαμπράκη",
+      "latitude": 40.705402,
+      "longitude": 21.522449
+    },
+    {
+      "name": "Προτομή Μάρκου Μπότσαρη",
+      "latitude": 38.042524,
+      "longitude": 23.683635
+    },
+    {
+      "name": "Προτομή Μίλτου Κουντουρά",
+      "latitude": 40.635966,
+      "longitude": 22.948203
+    },
+    {
+      "name": "Προτομή Μίλτωνα Ιατρίδη",
+      "latitude": 37.940374,
+      "longitude": 22.934887
+    },
+    {
+      "name": "Προτομή Μανόλη Ανδρόνικου",
+      "latitude": 40.625893,
+      "longitude": 22.952551
+    },
+    {
+      "name": "Προτομή Μητροπολίτη Γρηγορίου",
+      "latitude": 38.463644,
+      "longitude": 23.602183
+    },
+    {
+      "name": "Προτομή Μητροπολίτη Ευγένιου Δεπάστα",
+      "latitude": 38.468854,
+      "longitude": 23.588428
+    },
+    {
+      "name": "Προτομή Μητροπολίτη Σμύρνης Χρυσόστομου",
+      "latitude": 40.50678,
+      "longitude": 21.667885
+    },
+    {
+      "name": "Προτομή Μιχαήλ Νικολαράκου",
+      "latitude": 36.475571,
+      "longitude": 22.47873
+    },
+    {
+      "name": "Προτομή Νίκου Καπετανίδη",
+      "latitude": 38.046194,
+      "longitude": 23.802014
+    },
+    {
+      "name": "προτομή Νίκου Καπετανίδη",
+      "latitude": 40.62827,
+      "longitude": 22.94694
+    },
+    {
+      "name": "Προτομή Νίκου Παξιμαδά",
+      "latitude": 38.039923,
+      "longitude": 23.679759
+    },
+    {
+      "name": "Προτομή Ναυάρχου Νικολάου Βότση",
+      "latitude": 40.627106,
+      "longitude": 22.947586
+    },
+    {
+      "name": "Προτομή Νικολάου Λούση",
+      "latitude": 40.478491,
+      "longitude": 22.485268
+    },
+    {
+      "name": "Προτομή Πανουργιά",
+      "latitude": 38.527879,
+      "longitude": 22.375693
+    },
+    {
+      "name": "Προτομή Παπαφλέσσα",
+      "latitude": 38.042519,
+      "longitude": 23.683632
+    },
+    {
+      "name": "Προτομή Παρασκευαΐδη Σπυρίδωνα",
+      "latitude": 40.835246,
+      "longitude": 21.139935
+    },
+    {
+      "name": "Προτομή Παύλου Μελά",
+      "latitude": 40.635331,
+      "longitude": 22.947371
+    },
+    {
+      "name": "Προτομή Σμηναγού Παντελή Γκέλη",
+      "latitude": 38.468536,
+      "longitude": 23.582642
+    },
+    {
+      "name": "Προτομή Σοφίας Βέμπο",
+      "latitude": 40.622276,
+      "longitude": 22.956125
+    },
+    {
+      "name": "Προτομή Σοφίας Μαυροειδή-Παπαδάκη",
+      "latitude": 35.258177,
+      "longitude": 25.66198
+    },
+    {
+      "name": "Προτομή Σοφίας Μπεφόν",
+      "latitude": 37.936361,
+      "longitude": 23.706327
+    },
+    {
+      "name": "Προτομή Σούλης Σουρή",
+      "latitude": 38.030798,
+      "longitude": 23.748036
+    },
+    {
+      "name": "Προτομή Στέφανου Δαμουλάκη",
+      "latitude": 40.652802,
+      "longitude": 22.925272
+    },
+    {
+      "name": "Προτομή Σταύρου Καρατζά",
+      "latitude": 40.586088,
+      "longitude": 22.951022
+    },
+    {
+      "name": "Προτομή Στρατηγού Ν. Ζέρβα",
+      "latitude": 39.662946,
+      "longitude": 20.851205
+    },
+    {
+      "name": "Προτομή Συνταγματάρχη Μαρδοχαίου Φριζή",
+      "latitude": 38.46355,
+      "longitude": 23.601982
+    },
+    {
+      "name": "Προτομή Τάκη Κανελλόπουλου",
+      "latitude": 40.626706,
+      "longitude": 22.94911
+    },
+    {
+      "name": "Προτομή του Αλέξανδρου Πετρίδη",
+      "latitude": 40.635364,
+      "longitude": 22.947275
+    },
+    {
+      "name": "Προτομή του Αναστάσιου Πολυζωίδη",
+      "latitude": 40.639866,
+      "longitude": 22.933343
+    },
+    {
+      "name": "Προτομή του Αριστοτέλη",
+      "latitude": 40.591479,
+      "longitude": 23.783482
+    },
+    {
+      "name": "Προτομή του Γεώργιου Βολάνη",
+      "latitude": 40.635326,
+      "longitude": 22.947386
+    },
+    {
+      "name": "Προτομή του Γεώργιου Δουράτσου",
+      "latitude": 37.444198,
+      "longitude": 24.942454
+    },
+    {
+      "name": "Προτομή του Γεώργιου Τερτσέτη",
+      "latitude": 40.639874,
+      "longitude": 22.933395
+    },
+    {
+      "name": "Προτομή του Δασκαλογίαννη",
+      "latitude": 38.015589,
+      "longitude": 23.705781
+    },
+    {
+      "name": "Προτομή του Δημήτριου Καλαποθάκη",
+      "latitude": 40.635315,
+      "longitude": 22.947418
+    },
+    {
+      "name": "Προτομή του Δημήτριου Παναγιωτίδη",
+      "latitude": 40.661099,
+      "longitude": 21.555894
+    },
+    {
+      "name": "Προτομή του Ευθύμιου Καούδη",
+      "latitude": 40.635358,
+      "longitude": 22.947293
+    },
+    {
+      "name": "Προτομή του Ηλία Δεληγιαννάκη",
+      "latitude": 40.635321,
+      "longitude": 22.947401
+    },
+    {
+      "name": "Προτομή του Θεμιστοκλή",
+      "latitude": 37.960003,
+      "longitude": 23.631819
+    },
+    {
+      "name": "Προτομή του Ιωάννη Καλογεράκη",
+      "latitude": 40.661066,
+      "longitude": 21.555919
+    },
+    {
+      "name": "Προτομή του Κωνσταντίνου Α'",
+      "latitude": 40.790104,
+      "longitude": 22.409205
+    },
+    {
+      "name": "Προτομή του Κωνσταντίνου Κανάρη",
+      "latitude": 37.442626,
+      "longitude": 24.945277
+    },
+    {
+      "name": "Προτομή Του Κωστή Παλαμά",
+      "latitude": 38.015206,
+      "longitude": 23.693059
+    },
+    {
+      "name": "Προτομή του Μενελάου Λουντέμη",
+      "latitude": 40.59171,
+      "longitude": 23.784083
+    },
+    {
+      "name": "προτομή του Νικολάου Τριφύλλη",
+      "latitude": 36.276906,
+      "longitude": 22.965186
+    },
+    {
+      "name": "Προτομή του Παύλου Γύπαρη",
+      "latitude": 40.635351,
+      "longitude": 22.947313
+    },
+    {
+      "name": "Προτομή του Παύλου Μελά",
+      "latitude": 40.517754,
+      "longitude": 21.265673
+    },
+    {
+      "name": "Προτομή Υπολοχαγού Μιχάλη Τσιπούρα",
+      "latitude": 38.598922,
+      "longitude": 21.793156
+    },
+    {
+      "name": "Προτομή Φίλιππου Καβουνίδη",
+      "latitude": 40.506668,
+      "longitude": 21.667936
+    },
+    {
+      "name": "Προτομή Φιλίππου Νίκογλου",
+      "latitude": 40.609267,
+      "longitude": 22.953136
+    },
+    {
+      "name": "Προτομή φιλόσοφου Αριστοτέλη",
+      "latitude": 39.205582,
+      "longitude": 26.210602
+    },
+    {
+      "name": "Πυθαγόρας ο Σάμιος",
+      "latitude": 37.690685,
+      "longitude": 26.942576
+    },
+    {
+      "name": "Πυξίδα",
+      "latitude": 35.187499,
+      "longitude": 25.71663
+    },
+    {
+      "name": "Πυρκαγιά 23 Ιουλίου 2018",
+      "latitude": 38.040869,
+      "longitude": 23.979508
+    },
+    {
+      "name": "Πυροφυλάκιο Αετός",
+      "latitude": 37.911219,
+      "longitude": 24.022036
+    },
+    {
+      "name": "Πυρρίχιο Πέταγμα",
+      "latitude": 37.934203,
+      "longitude": 23.650255
+    },
+    {
+      "name": "Πόντια μάνα",
+      "latitude": 38.013063,
+      "longitude": 23.696648
+    },
+    {
+      "name": "Πόντιος Ακρίτας",
+      "latitude": 40.66419,
+      "longitude": 22.935941
+    },
+    {
+      "name": "Πύργοι του Χρόνου",
+      "latitude": 39.625333,
+      "longitude": 19.925299
+    },
+    {
+      "name": "Πύρρος",
+      "latitude": 38.005663,
+      "longitude": 23.700045
+    },
+    {
+      "name": "Ρήγας Φεραίος",
+      "latitude": 37.980907,
+      "longitude": 23.733489
+    },
+    {
+      "name": "Ρήγας Φεραίος",
+      "latitude": 39.634044,
+      "longitude": 22.413061
+    },
+    {
+      "name": "Ρολόι Παραμυθιάς",
+      "latitude": 39.467522,
+      "longitude": 20.512796
+    },
+    {
+      "name": "Ρουκουτάκης",
+      "latitude": 35.412849,
+      "longitude": 24.244788
+    },
+    {
+      "name": "Ρωμαϊκή σαρκοφάγος",
+      "latitude": 41.194242,
+      "longitude": 23.81789
+    },
+    {
+      "name": "Ρωσικό Μνημείο",
+      "latitude": 40.782179,
+      "longitude": 21.405151
+    },
+    {
+      "name": "Σαπφώ",
+      "latitude": 39.106707,
+      "longitude": 26.55759
+    },
+    {
+      "name": "Σερ Φρέντερικ Άνταμ",
+      "latitude": 39.625395,
+      "longitude": 19.92462
+    },
+    {
+      "name": "Σκάλα τού Μαυρομμάτη",
+      "latitude": 38.397109,
+      "longitude": 21.581235
+    },
+    {
+      "name": "Σκαλίδης",
+      "latitude": 40.86222,
+      "longitude": 21.492506
+    },
+    {
+      "name": "Σμηναγό Γεώργιο Μπαλταδώρο",
+      "latitude": 39.354621,
+      "longitude": 21.741102
+    },
+    {
+      "name": "Σμηναγός Αθανάσιος Μπατσαράς",
+      "latitude": 40.269293,
+      "longitude": 22.515039
+    },
+    {
+      "name": "Σοφία Ευθυμίου",
+      "latitude": 40.27047,
+      "longitude": 22.511075
+    },
+    {
+      "name": "Σοφοκλής",
+      "latitude": 37.973143,
+      "longitude": 23.735118
+    },
+    {
+      "name": "Σοφοκλής Βενιζέλος",
+      "latitude": 38.058901,
+      "longitude": 23.792828
+    },
+    {
+      "name": "Σπήλαιο Καλλέργη",
+      "latitude": 35.24331,
+      "longitude": 24.115239
+    },
+    {
+      "name": "Σπήλαιο Λιμέρι",
+      "latitude": 36.137884,
+      "longitude": 27.736176
+    },
+    {
+      "name": "Σπίτι του Κεμάλ Ατατούρκ",
+      "latitude": 40.635751,
+      "longitude": 22.954292
+    },
+    {
+      "name": "Σπυρίδων Σαμάρας",
+      "latitude": 37.972897,
+      "longitude": 23.735887
+    },
+    {
+      "name": "Σπύρος Λούης",
+      "latitude": 38.05011,
+      "longitude": 23.808759
+    },
+    {
+      "name": "Σπύρος Ματσούκας",
+      "latitude": 38.900208,
+      "longitude": 22.437257
+    },
+    {
+      "name": "Σπύρος Νιάρχος",
+      "latitude": 37.245452,
+      "longitude": 22.551376
+    },
+    {
+      "name": "Σπύρος Πάτσης",
+      "latitude": 37.991335,
+      "longitude": 23.732069
+    },
+    {
+      "name": "Στήλη",
+      "latitude": 39.197698,
+      "longitude": 20.18595
+    },
+    {
+      "name": "Στήλη μνήμης των ψαράδων",
+      "latitude": 40.463579,
+      "longitude": 22.858208
+    },
+    {
+      "name": "Σταμάτιος Χάψας",
+      "latitude": 40.03322,
+      "longitude": 23.472683
+    },
+    {
+      "name": "Σταυροσ Λιλλησ",
+      "latitude": 36.742871,
+      "longitude": 24.434817
+    },
+    {
+      "name": "Σταυρός",
+      "latitude": 39.853591,
+      "longitude": 19.389697
+    },
+    {
+      "name": "Σταύρος Καλέργης",
+      "latitude": 37.97334,
+      "longitude": 23.708108
+    },
+    {
+      "name": "Σταύρος Νιάρχος",
+      "latitude": 37.245505,
+      "longitude": 22.551406
+    },
+    {
+      "name": "Στελιος Κλαπακης",
+      "latitude": 38.068398,
+      "longitude": 23.717531
+    },
+    {
+      "name": "Στεργιος Μιχ. Δουμπας",
+      "latitude": 40.454405,
+      "longitude": 21.523741
+    },
+    {
+      "name": "Στον Άγνωστο Ναύτη",
+      "latitude": 38.252654,
+      "longitude": 20.6484
+    },
+    {
+      "name": "Στον Αστράτευτο Μαχητή της Μάχης της Κρήτης",
+      "latitude": 37.975667,
+      "longitude": 23.745701
+    },
+    {
+      "name": "Στρατηγος Ζερβονικολας",
+      "latitude": 38.076697,
+      "longitude": 23.496079
+    },
+    {
+      "name": "Στρατηγός Σκαρλάτος Σούτσος",
+      "latitude": 39.636884,
+      "longitude": 22.413265
+    },
+    {
+      "name": "Στρατηγός Στέφανος Σαράφης",
+      "latitude": 37.902889,
+      "longitude": 23.719394
+    },
+    {
+      "name": "Στρατηγός Χοσέ ντε Σαν Μαρτίν",
+      "latitude": 37.989293,
+      "longitude": 23.745087
+    },
+    {
+      "name": "Συνταγματάρχης Μαρδοχαίος Φριζής",
+      "latitude": 38.460688,
+      "longitude": 23.59384
+    },
+    {
+      "name": "Συνταγματάρχης Μαρδοχαίος Φριζής",
+      "latitude": 38.462067,
+      "longitude": 23.589756
+    },
+    {
+      "name": "Σωκράτης",
+      "latitude": 37.979928,
+      "longitude": 23.733851
+    },
+    {
+      "name": "Σωτήρης Περάκης",
+      "latitude": 37.939957,
+      "longitude": 23.6991
+    },
+    {
+      "name": "Σωτήριος Κροκιδάς",
+      "latitude": 37.938812,
+      "longitude": 22.833983
+    },
+    {
+      "name": "Τάφος Δουκίσσης της Πλακεντίας",
+      "latitude": 38.048402,
+      "longitude": 23.867942
+    },
+    {
+      "name": "Τάφος Ιωάννη Χόντου",
+      "latitude": 39.112153,
+      "longitude": 21.667282
+    },
+    {
+      "name": "Τάφος Νίκου Καζαντζάκη",
+      "latitude": 35.332685,
+      "longitude": 25.130755
+    },
+    {
+      "name": "Τάφος του Παύλου Μελά",
+      "latitude": 40.516005,
+      "longitude": 21.268119
+    },
+    {
+      "name": "Τίμος Μωραϊτίνης",
+      "latitude": 37.973168,
+      "longitude": 23.734299
+    },
+    {
+      "name": "Τεγεάτισσα μάνα",
+      "latitude": 37.463325,
+      "longitude": 22.428398
+    },
+    {
+      "name": "Τζωρτζ Κάνινγκ",
+      "latitude": 37.985496,
+      "longitude": 23.731251
+    },
+    {
+      "name": "Τιμή στον Σπετσιώτη Ναυτικό",
+      "latitude": 37.262175,
+      "longitude": 23.162668
+    },
+    {
+      "name": "Τιμη στον αγνοουμενο Νικολαο Κρητικο",
+      "latitude": 38.06621,
+      "longitude": 23.717907
+    },
+    {
+      "name": "Το βήμα του Μακεδόνα",
+      "latitude": 40.627003,
+      "longitude": 22.952517
+    },
+    {
+      "name": "Το Δέντρο των Ψυχών - Η Αρχή",
+      "latitude": 37.97734,
+      "longitude": 23.714528
+    },
+    {
+      "name": "Το κολαστήριο της Γκεστάπο",
+      "latitude": 37.976553,
+      "longitude": 23.738584
+    },
+    {
+      "name": "ΤΟ ΠΛΟΙΟ ΤΗΣ ΣΩΤΗΡΙΑΣ",
+      "latitude": 35.492111,
+      "longitude": 27.116654
+    },
+    {
+      "name": "Το σιδηροδρομικό δυστύχημα στον Δοξαρά",
+      "latitude": 39.427192,
+      "longitude": 22.237136
+    },
+    {
+      "name": "Τρεις Έρωτες",
+      "latitude": 37.997669,
+      "longitude": 23.735327
+    },
+    {
+      "name": "Τριανδρία",
+      "latitude": 40.622377,
+      "longitude": 22.969759
+    },
+    {
+      "name": "Τρόπαιο Νίκης Μαραθώνος",
+      "latitude": 38.14076,
+      "longitude": 24.000003
+    },
+    {
+      "name": "Τρύφωνας Ζαχαρόπουλος",
+      "latitude": 37.67026,
+      "longitude": 22.183137
+    },
+    {
+      "name": "Τόπος εκτέλεσης αγωνιστών της Εθνικής Αντίστασης",
+      "latitude": 38.694127,
+      "longitude": 22.410424
+    },
+    {
+      "name": "Τόπος Εκτέλεσης Νίκου Πλουμπίδη",
+      "latitude": 38.009955,
+      "longitude": 23.620788
+    },
+    {
+      "name": "Τύμβος Κλεόβουλου",
+      "latitude": 36.100746,
+      "longitude": 28.096841
+    },
+    {
+      "name": "Υποσμηναγός Στρατάκιας",
+      "latitude": 38.474832,
+      "longitude": 23.604434
+    },
+    {
+      "name": "Φερεκύδης ὁ Σύριος",
+      "latitude": 37.452461,
+      "longitude": 24.934534
+    },
+    {
+      "name": "ΦΟΥΡΝΟΣ ΓΚΟΥΡΑΜΑΝΗ",
+      "latitude": 40.607688,
+      "longitude": 23.099816
+    },
+    {
+      "name": "Φρεντερίκ Μιστράλ",
+      "latitude": 37.951925,
+      "longitude": 23.694587
+    },
+    {
+      "name": "Φώτης Κοντόγλου",
+      "latitude": 38.017343,
+      "longitude": 23.744647
+    },
+    {
+      "name": "Φώτιος Καλπίδης",
+      "latitude": 40.267113,
+      "longitude": 22.497312
+    },
+    {
+      "name": "Χ\"Παύλος Π. Μελιτοπουλος",
+      "latitude": 38.733282,
+      "longitude": 23.490578
+    },
+    {
+      "name": "Χάνι Δελβινάκι",
+      "latitude": 39.90766,
+      "longitude": 20.466495
+    },
+    {
+      "name": "χαίρε ώ χαίρε Ελευθεριά",
+      "latitude": 38.375852,
+      "longitude": 22.62876
+    },
+    {
+      "name": "Χαρίλαος Τρικούπης",
+      "latitude": 37.974808,
+      "longitude": 23.736346
+    },
+    {
+      "name": "Χαρίλαος Τρικούπης",
+      "latitude": 37.977567,
+      "longitude": 23.73313
+    },
+    {
+      "name": "Χαραλ. Γ. Κατσιμητρος",
+      "latitude": 39.088168,
+      "longitude": 21.825877
+    },
+    {
+      "name": "Χαραλαμπος Μεν. Πιπιλης",
+      "latitude": 37.442855,
+      "longitude": 21.770474
+    },
+    {
+      "name": "Χατζηαποστόλου",
+      "latitude": 37.97175,
+      "longitude": 23.73108
+    },
+    {
+      "name": "Χατζηλίας Οικονόμου",
+      "latitude": 35.549908,
+      "longitude": 27.169899
+    },
+    {
+      "name": "ΧΑΤΖΙΜΙΚΑΛΗΣ ΓΙΑΝΝΑΡΗΣ",
+      "latitude": 35.521962,
+      "longitude": 23.847455
+    },
+    {
+      "name": "ΧΑΪΜ ΜΠΕΝΣΟΑΜ",
+      "latitude": 40.633257,
+      "longitude": 22.936214
+    },
+    {
+      "name": "Χελωνοσπηλιά",
+      "latitude": 37.836935,
+      "longitude": 22.163261
+    },
+    {
+      "name": "Χορός του Ζαλόγγου",
+      "latitude": 39.148602,
+      "longitude": 20.684306
+    },
+    {
+      "name": "Χοσέ Μαρτί",
+      "latitude": 37.976963,
+      "longitude": 23.754317
+    },
+    {
+      "name": "Χρήστος Λέκκας",
+      "latitude": 37.914154,
+      "longitude": 23.87498
+    },
+    {
+      "name": "Χρήστος Σάλτας Σαλταγιάννης",
+      "latitude": 39.291627,
+      "longitude": 22.06094
+    },
+    {
+      "name": "Χριστοδουλω Γ. Γαλανω",
+      "latitude": 40.454427,
+      "longitude": 21.523718
+    },
+    {
+      "name": "Χριστόδουλος Χατζηπέτρος",
+      "latitude": 39.705714,
+      "longitude": 21.626074
+    },
+    {
+      "name": "Χριστόφορος Λυτός",
+      "latitude": 35.527224,
+      "longitude": 27.19853
+    },
+    {
+      "name": "Χρυσανθη Ζιτσαια",
+      "latitude": 39.752074,
+      "longitude": 20.649338
+    },
+    {
+      "name": "Χρυσόστομος Β' Δεληγιαννόπουλος",
+      "latitude": 37.63472,
+      "longitude": 22.728151
+    },
+    {
+      "name": "Χρυσόστομος Σμύρνης",
+      "latitude": 37.629396,
+      "longitude": 22.719786
+    },
+    {
+      "name": "Χρυσόστομος Σμύρνης",
+      "latitude": 37.94934,
+      "longitude": 23.709629
+    },
+    {
+      "name": "Χρυσόστομος Ταβλαδωράκης",
+      "latitude": 37.944358,
+      "longitude": 23.64503
+    },
+    {
+      "name": "Ψυχάρη",
+      "latitude": 38.424181,
+      "longitude": 26.136964
+    },
+    {
+      "name": "Όθων της Ελλάδος",
+      "latitude": 37.565814,
+      "longitude": 22.799458
+    },
+    {
+      "name": "Όμηρος",
+      "latitude": 36.722971,
+      "longitude": 25.273813
+    },
+    {
+      "name": "Крст краља Александра",
+      "latitude": 40.347029,
+      "longitude": 24.120074
+    },
+    {
+      "name": "Крст цара Душана",
+      "latitude": 40.349067,
+      "longitude": 24.122225
+    }
+  ],
+  "meta": {
+    "title": "Ηρώα και μνημεία στην Ελλάδα - Δωρεάν λήψη",
+    "description": "Ηρώα και αναμνηστικά μνημεία στην Ελλάδα από δεδομένα OpenStreetMap (historic=memorial). Διακριτό από el-mnimeia-pagkosmias-klironomias-unesco. Όνομα και συντεταγμένες WGS84. Περιέχει 1307 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ηρώα και μνημεία στην Ελλάδα | ListBase",
+    "seo_description": "Λήψη Ηρώα και μνημεία στην Ελλάδα — 1307 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1307 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

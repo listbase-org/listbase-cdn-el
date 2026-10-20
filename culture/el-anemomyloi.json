@@ -1,0 +1,511 @@
+{
+  "id": "el-anemomyloi",
+  "name": "Ανεμόμυλοι της Ελλάδας",
+  "title": "Ανεμόμυλοι της Ελλάδας",
+  "description": "Windmills in Greece from Wikidata (P31=Q38720 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q97500726",
+      "name_el": "",
+      "name_en": "Agios Panteleimonas Wind Mill",
+      "admin_area_el": "Δήμος Αμυνταίου",
+      "admin_area_en": "Amyndeo Municipality",
+      "latitude": 40.723694444,
+      "longitude": 21.748527777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97500726"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q6947604",
+      "name_el": "",
+      "name_en": "Mykonos windmills",
+      "admin_area_el": "Δήμος Μυκόνου",
+      "admin_area_en": "Mykonos Municipality",
+      "latitude": 37.4445,
+      "longitude": 25.3256,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6947604"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q38280163",
+      "name_el": "Ανεμόμυλοι  Σελί Αμπέλου , Οροπέδιο Λασιθίου",
+      "name_en": "Windmills of Seli Ambelou , Oropedio Lasithiou",
+      "admin_area_el": "Δήμος Οροπεδίου Λασιθίου",
+      "admin_area_en": "Orοpedio Lasithi Municipality",
+      "latitude": 35.204765,
+      "longitude": 25.455226,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38280163"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q113571506",
+      "name_el": "Ανεμόμυλοι Ελούντας",
+      "name_en": "Elounda windmills",
+      "admin_area_el": "Δήμος Αγίου Νικολάου",
+      "admin_area_en": "Agios Nikolaos Municipality",
+      "latitude": 35.257454,
+      "longitude": 25.73559,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113571506"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q135738546",
+      "name_el": "Ανεμόμυλοι Καλντέρας, Μεγαλοχώρι",
+      "name_en": "Caldera windmills, Megalochori",
+      "admin_area_el": "Δήμος Θήρας",
+      "admin_area_en": "Thira Municipality",
+      "latitude": 36.375833333,
+      "longitude": 25.426944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135738546"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q113885515",
+      "name_el": "Ανεμόμυλοι Λεωνιδίου",
+      "name_en": "Leonidio windmills",
+      "admin_area_el": "Δήμος Νότιας Κυνουρίας",
+      "admin_area_en": "South Kynouria Municipality",
+      "latitude": 37.164296,
+      "longitude": 22.874044,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113885515"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q113885499",
+      "name_el": "Ανεμόμυλοι Τυρού",
+      "name_en": "Tyros windmills",
+      "admin_area_el": "Δήμος Νότιας Κυνουρίας",
+      "admin_area_en": "South Kynouria Municipality",
+      "latitude": 37.24385,
+      "longitude": 22.874803,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113885499"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q135741974",
+      "name_el": "Ανεμόμυλοι Χώρας Σερίφου",
+      "name_en": "Windmills of Chora of Serifos",
+      "admin_area_el": "Δήμος Σερίφου",
+      "admin_area_en": "Serifos Municipality",
+      "latitude": 37.156944444,
+      "longitude": 24.504722222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135741974"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q135738340",
+      "name_el": "Ανεμόμυλοι λόφου Γαβρίλου",
+      "name_en": "Gavrilos windmills",
+      "admin_area_el": "Δήμος Θήρας",
+      "admin_area_en": "Thira Municipality",
+      "latitude": 36.348611111,
+      "longitude": 25.439166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135738340"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q111027413",
+      "name_el": "Ανεμόμυλοι παραλίας Συκιάς",
+      "name_en": "Windmills of paralia Sykias",
+      "admin_area_el": "Δήμος Σιθωνίας",
+      "admin_area_en": "Sithonia Municipality",
+      "latitude": 40.040541,
+      "longitude": 23.984241,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111027413"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q113006450",
+      "name_el": "Ανεμόμυλοι στο Παντέλι",
+      "name_en": "Panteli windmills",
+      "admin_area_el": "Δήμος Λέρου",
+      "admin_area_en": "Leros Municipality",
+      "latitude": 37.153019,
+      "longitude": 26.863623,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113006450"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q137560695",
+      "name_el": "Ανεμόμυλος",
+      "name_en": "",
+      "admin_area_el": "Κέρκυρα",
+      "admin_area_en": "Corfu",
+      "latitude": 39.6107,
+      "longitude": 19.92834,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137560695"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q104351259",
+      "name_el": "Ανεμόμυλος Καλού Χωριού",
+      "name_en": "Windmill of Kalo Chorio",
+      "admin_area_el": "Δήμος Χερσονήσου",
+      "admin_area_en": "Hersonissos Municipality",
+      "latitude": 35.281118,
+      "longitude": 25.338919,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104351259"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q111029588",
+      "name_el": "Ανεμόμυλος Κασσάνδρειας",
+      "name_en": "Windmill of Kassandreia",
+      "admin_area_el": "Δήμος Κασσάνδρας",
+      "admin_area_en": "Kassandra Municipality",
+      "latitude": 40.052919,
+      "longitude": 23.41526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111029588"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q135905912",
+      "name_el": "Ανεμόμυλος Λάστρου",
+      "name_en": "Lastros windmill",
+      "admin_area_el": "Δήμος Σητείας",
+      "admin_area_en": "Sitia Municipality",
+      "latitude": 35.151111111,
+      "longitude": 25.906388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135905912"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q107225514",
+      "name_el": "Ανεμόμυλος Μαρκόπουλου",
+      "name_en": "Markopoulo Windmill",
+      "admin_area_el": "Δήμος Μαρκόπουλου Μεσογαίας",
+      "admin_area_en": "Markopoulo Mesogaias Municipality",
+      "latitude": 37.884104,
+      "longitude": 23.94045,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107225514"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q111050639",
+      "name_el": "Ανεμόμυλος Μολυβδόπυργου Καλυβών",
+      "name_en": "Windmill of Molyvdopyrgou Kalyvon",
+      "admin_area_el": "Δήμος Πολυγύρου",
+      "admin_area_en": "Polygyros Municipality",
+      "latitude": 40.275752,
+      "longitude": 23.392583,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111050639"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q38279542",
+      "name_el": "Ανεμόμυλος Περάματος Γέρας",
+      "name_en": "Windmill of Perama, Geras",
+      "admin_area_el": "Δήμος Μυτιλήνης",
+      "admin_area_en": "Mytilene Municipality",
+      "latitude": 39.046848,
+      "longitude": 26.503094,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q38279542"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q112727071",
+      "name_el": "Ανεμόμυλος Σώκαρη",
+      "name_en": "Windmill of Sokari",
+      "admin_area_el": "Δήμος Σάμης",
+      "admin_area_en": "Municipality of Sami",
+      "latitude": 38.313621,
+      "longitude": 20.562372,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112727071"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q111154832",
+      "name_el": "Ανεμόμυλος Τρίλοφου",
+      "name_en": "Windmill of Trilofou",
+      "admin_area_el": "Δήμος Θέρμης",
+      "admin_area_en": "Thermi Municipality",
+      "latitude": 40.474077,
+      "longitude": 22.970724,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111154832"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q111026757",
+      "name_el": "Ανεμόμυλος Χουχούτα, Νικήτη",
+      "name_en": "Windmill of Chouchouta, Nikiti",
+      "admin_area_el": "Δήμος Σιθωνίας",
+      "admin_area_en": "Sithonia Municipality",
+      "latitude": 40.227226,
+      "longitude": 23.66713,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111026757"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q111026609",
+      "name_el": "Ανεμόμυλος παραλίας Νικήτης",
+      "name_en": "Windmill of paralias Nikitis",
+      "admin_area_el": "Δήμος Σιθωνίας",
+      "admin_area_en": "Sithonia Municipality",
+      "latitude": 40.22153,
+      "longitude": 23.66238,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111026609"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q105775902",
+      "name_el": "Ανεμόμυλος στην παραλία Γιάλτρων",
+      "name_en": "Windmill of paralia Gialtron",
+      "admin_area_el": "Δήμος Ιστιαίας - Αιδηψού",
+      "admin_area_en": "Istiaia-Aidipsos Municipality",
+      "latitude": 38.87311,
+      "longitude": 22.979649,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q105775902"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q110303053",
+      "name_el": "Ανεμόμυλος στο Ανίτσαιο",
+      "name_en": "Windmill of Anitsaio",
+      "admin_area_el": "Δήμος Αίγινας",
+      "admin_area_en": "Aegina Municipality",
+      "latitude": 37.707899,
+      "longitude": 23.50589,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110303053"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q123668519",
+      "name_el": "Ανεμόμυλος στο Γαλαξίδι",
+      "name_en": "Galaxidi wind mill",
+      "admin_area_el": "Δήμος Δελφών",
+      "admin_area_en": "Delfi Municipality",
+      "latitude": 38.371846,
+      "longitude": 22.387794,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123668519"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q111587931",
+      "name_el": "Ανεμόμυλος, Λουτρά Ωραίας Ελένης",
+      "name_en": "Windmill of Loutra Oraias Elenis",
+      "admin_area_el": "Δήμος Κορινθίων",
+      "admin_area_en": "Corinth Municipality",
+      "latitude": 37.867908,
+      "longitude": 23.000812,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111587931"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q134562037",
+      "name_el": "Ανεμόμυλος, παραλία Θερμής",
+      "name_en": "Windmill at Paralia Thermis",
+      "admin_area_el": "Δήμος Μυτιλήνης",
+      "admin_area_en": "Mytilene Municipality",
+      "latitude": 39.183019832,
+      "longitude": 26.498727321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134562037"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q136406446",
+      "name_el": "Ιπποτικός μύλος, Ακτή Μιαούλη (ΟΤ 1)",
+      "name_en": "Windmill, Akti Mialoi OT1",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.455473639,
+      "longitude": 28.219834327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136406446"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q136406483",
+      "name_el": "Ιπποτικός μύλος, Ακτή Μιαούλη (ΟΤ 12)",
+      "name_en": "Windmill, Akti Miaouli OT12",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.453658854,
+      "longitude": 28.218886971,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136406483"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q136406456",
+      "name_el": "Ιπποτικός μύλος, Ακτή Μιαούλη (ΟΤ 5)",
+      "name_en": "Windmill, Akti Miaouli OT5",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.454718562,
+      "longitude": 28.219539284,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136406456"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q136406476",
+      "name_el": "Ιπποτικός μύλος, Ακτή Μιαούλη (ΟΤ 7)",
+      "name_en": "Windmill, Akti Miaouli OT7",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.454012667,
+      "longitude": 28.219198107,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136406476"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q136406469",
+      "name_el": "Ιπποτικός μύλος, Ακτή Μιαούλη και Πάτμου 1",
+      "name_en": "Windmill, Akti Miaouli & Patmou 1",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.454373382,
+      "longitude": 28.219372987,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136406469"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q136406439",
+      "name_el": "Ιπποτικός μύλος, οδός Κω (ΟΤ 6)",
+      "name_en": "",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.454444444,
+      "longitude": 28.221388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136406439"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q104356663",
+      "name_el": "Μυλοτόπι Βρουχά",
+      "name_en": "Mylotopi Vroucha",
+      "admin_area_el": "Δήμος Αγίου Νικολάου",
+      "admin_area_en": "Agios Nikolaos Municipality",
+      "latitude": 35.313094,
+      "longitude": 25.735472,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104356663"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q104356824",
+      "name_el": "Μυλοτόπι Σκινιά",
+      "name_en": "Mylotopi Skinia",
+      "admin_area_el": "Δήμος Αγίου Νικολάου",
+      "admin_area_en": "Agios Nikolaos Municipality",
+      "latitude": 35.316844,
+      "longitude": 25.698863,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104356824"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q115658776",
+      "name_el": "Μύλοι Ταμπάκικων, Χίος",
+      "name_en": "Tampakika windmills",
+      "admin_area_el": "Δήμος Χίου",
+      "admin_area_en": "Chios Municipality",
+      "latitude": 38.38234,
+      "longitude": 26.13825,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115658776"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q136406252",
+      "name_el": "Μύλοι, λιμενοβραχίονας Μανδρακίου",
+      "name_en": "Windmills of Mandraki, Rhodes",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.449166666,
+      "longitude": 28.228055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136406252"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q104350816",
+      "name_el": "Μύλος Γαζέπη",
+      "name_en": "Mill of Gazepi",
+      "admin_area_el": "Δήμος Μινώα Πεδιάδας",
+      "admin_area_en": "Minoa Pediada Municipality",
+      "latitude": 35.143283,
+      "longitude": 25.317156,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q104350816"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q136401573",
+      "name_el": "Μύλος στο Ξενοδοχείο των Ρόδων",
+      "name_en": "Windmill at Hotel of Roses",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.453758,
+      "longitude": 28.221694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136401573"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q113879295",
+      "name_el": "Τέσσερεις ανεμόμυλοι στο Κρανίδι",
+      "name_en": "Kranidi windmills",
+      "admin_area_el": "Δήμος Ερμιονίδας",
+      "admin_area_en": "Ermionida Municipality",
+      "latitude": 37.38105,
+      "longitude": 23.152033,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113879295"
+    }
+  ],
+  "meta": {
+    "title": "Ανεμόμυλοι της Ελλάδας - Δωρεάν λήψη",
+    "description": "Windmills in Greece from Wikidata (P31=Q38720 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 40 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ανεμόμυλοι της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Ανεμόμυλοι της Ελλάδας — 40 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 40 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

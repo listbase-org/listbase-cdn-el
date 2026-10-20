@@ -1,0 +1,114 @@
+{
+  "id": "el-ionion-nison-ethnikoi-drymoi",
+  "name": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ιονίων Νήσων",
+  "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ιονίων Νήσων",
+  "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Ιονίων Νήσων. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Ιονίων Νήσων.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q3364522",
+      "name_el": "Εθνικός δρυμός Αίνου",
+      "name_en": "Ainos National Park",
+      "latitude": 38.145,
+      "longitude": 20.662222,
+      "established_year": 1962,
+      "area_ha": 28.31,
+      "region": "Περιφέρεια Ιονίων Νήσων",
+      "regional_unit": "",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8C%CF%82_%CE%91%CE%AF%CE%BD%CE%BF%CF%85"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q6879409",
+      "name_el": "Λιμνοθάλασσα Μεσολογγίου-Αιτωλικού",
+      "name_en": "Missolonghi–Aitoliko Lagoons",
+      "latitude": 38.387,
+      "longitude": 21.358,
+      "established_year": "",
+      "area_ha": 44.2,
+      "region": "Περιφέρεια Ιονίων Νήσων",
+      "regional_unit": "",
+      "municipality": "",
+      "wikipedia_el": ""
+    }
+  ],
+  "meta": {
+    "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ιονίων Νήσων - Δωρεάν λήψη",
+    "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Ιονίων Νήσων. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Ιονίων Νήσων.) Περιέχει 2 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ιονίων Νήσων | ListBase",
+    "seo_description": "Λήψη Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ιονίων Νήσων — 2 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 2 εγγραφές / 12 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

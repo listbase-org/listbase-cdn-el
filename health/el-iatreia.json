@@ -1,0 +1,3266 @@
+{
+  "id": "el-iatreia",
+  "name": "Ιατρεία Ελλάδας",
+  "title": "Ιατρεία Ελλάδας",
+  "description": "Ιατρεία και ιατροί σε όλη την Ελλάδα από το OpenStreetMap. Doctors' offices across Greece.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 645,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"ΘΕΡΑΠΕΙΑ ΠΟΝΟΥ\" ΜΟΝΑΔΑ ΗΜΕΡΗΣΙΑΣ ΝΟΣΗΛΕΙΑΣ - ΓΟΥΔΑΣ ΛΕΩΝΙΔΑΣ",
+      "latitude": 38.261352,
+      "longitude": 21.744019
+    },
+    {
+      "name": "\"ΙΑΣΙΣ\" Πολυϊατρείο",
+      "latitude": 41.260773,
+      "longitude": 23.000518
+    },
+    {
+      "name": "1η ΤΟΜΥ Ζωγράφου",
+      "latitude": 37.972009,
+      "longitude": 23.779349
+    },
+    {
+      "name": "2η ΤΟΜΥ Ζωγράφου",
+      "latitude": 37.972531,
+      "longitude": 23.767519
+    },
+    {
+      "name": "2ο Κέντρο Υγείας Περιστερίου",
+      "latitude": 38.011047,
+      "longitude": 23.690395
+    },
+    {
+      "name": "affidea",
+      "latitude": 37.929743,
+      "longitude": 23.746089
+    },
+    {
+      "name": "Affidea",
+      "latitude": 40.621789,
+      "longitude": 22.953481
+    },
+    {
+      "name": "Akron Institute",
+      "latitude": 37.871165,
+      "longitude": 23.765116
+    },
+    {
+      "name": "Anastasios Nitis",
+      "latitude": 40.93704,
+      "longitude": 24.40598
+    },
+    {
+      "name": "Anima & Verba",
+      "latitude": 37.928338,
+      "longitude": 23.745748
+    },
+    {
+      "name": "Anissaras Medical Center",
+      "latitude": 35.337121,
+      "longitude": 25.360942
+    },
+    {
+      "name": "Antonios Peridis",
+      "latitude": 36.892922,
+      "longitude": 27.289506
+    },
+    {
+      "name": "Arztpraxis Dr Nikoletta Lalla",
+      "latitude": 36.885741,
+      "longitude": 27.309759
+    },
+    {
+      "name": "Bioanalysis Β.Δ.Λουλέλης , Ιατρικό Διαγνωστικό Κέντρο , Ακτινολογικό - Μικροβιολογικό",
+      "latitude": 38.247008,
+      "longitude": 21.734603
+    },
+    {
+      "name": "Blood testing - Dimokritos S.A.",
+      "latitude": 41.421717,
+      "longitude": 26.225747
+    },
+    {
+      "name": "Bourneli Margarita",
+      "latitude": 36.74396,
+      "longitude": 24.424239
+    },
+    {
+      "name": "British GP",
+      "latitude": 39.673419,
+      "longitude": 19.717524
+    },
+    {
+      "name": "British Surgery",
+      "latitude": 39.652631,
+      "longitude": 19.842749
+    },
+    {
+      "name": "British Surgery",
+      "latitude": 39.679938,
+      "longitude": 19.838229
+    },
+    {
+      "name": "Corfumedica",
+      "latitude": 39.790512,
+      "longitude": 19.812878
+    },
+    {
+      "name": "Cosmetic Derma Medicine",
+      "latitude": 35.336067,
+      "longitude": 25.132857
+    },
+    {
+      "name": "Cretan Medicare",
+      "latitude": 35.317405,
+      "longitude": 25.390401
+    },
+    {
+      "name": "DARAVALIS CLINIC",
+      "latitude": 38.250097,
+      "longitude": 21.737896
+    },
+    {
+      "name": "Derma Clinic",
+      "latitude": 41.502033,
+      "longitude": 26.532753
+    },
+    {
+      "name": "Derma Lounge Clinic",
+      "latitude": 38.017915,
+      "longitude": 23.795481
+    },
+    {
+      "name": "Derma Med Clinic",
+      "latitude": 38.013363,
+      "longitude": 23.818591
+    },
+    {
+      "name": "Derma Therapy & Laser Clinic -Ιωάννης Κετάνης, Δερματολόγος - Αφροδισιολόγος",
+      "latitude": 40.669728,
+      "longitude": 22.804771
+    },
+    {
+      "name": "Derma-Act",
+      "latitude": 40.632556,
+      "longitude": 22.94187
+    },
+    {
+      "name": "Derma360",
+      "latitude": 37.984593,
+      "longitude": 23.726356
+    },
+    {
+      "name": "Dermamedic",
+      "latitude": 38.013763,
+      "longitude": 23.819746
+    },
+    {
+      "name": "Doctor Dimitris Maliotakis",
+      "latitude": 37.521005,
+      "longitude": 22.859552
+    },
+    {
+      "name": "Doctor Surgeon Hirurg",
+      "latitude": 40.267514,
+      "longitude": 22.596764
+    },
+    {
+      "name": "Doctor Vittorakis",
+      "latitude": 35.517882,
+      "longitude": 23.899291
+    },
+    {
+      "name": "Dr Andreas Kalampalikis Urgent Care",
+      "latitude": 39.651662,
+      "longitude": 19.845061
+    },
+    {
+      "name": "Dr I. Papadopoulos",
+      "latitude": 39.743577,
+      "longitude": 19.65203
+    },
+    {
+      "name": "Dr S Galanis - 24hr surgery",
+      "latitude": 39.547506,
+      "longitude": 19.853823
+    },
+    {
+      "name": "Dr Γκόγκας Δημήτριος",
+      "latitude": 35.350756,
+      "longitude": 24.297992
+    },
+    {
+      "name": "Dr Κυρίτσης Αλέξανδρος",
+      "latitude": 40.637216,
+      "longitude": 22.94126
+    },
+    {
+      "name": "Dr. Andreas Kalampalikis",
+      "latitude": 39.652789,
+      "longitude": 19.84333
+    },
+    {
+      "name": "Dr. Leonidas Palaskas",
+      "latitude": 35.369735,
+      "longitude": 24.471533
+    },
+    {
+      "name": "Dr. med. Balis. N.S.",
+      "latitude": 39.479432,
+      "longitude": 19.926631
+    },
+    {
+      "name": "Dr. med. Costas Lambrianidis",
+      "latitude": 36.884817,
+      "longitude": 27.185803
+    },
+    {
+      "name": "Dr. med. Konstantinos Pantzalis",
+      "latitude": 38.387789,
+      "longitude": 24.083817
+    },
+    {
+      "name": "Dr. Med. Padiotis Spiros",
+      "latitude": 39.284527,
+      "longitude": 20.401218
+    },
+    {
+      "name": "Dr. Roger Heaumon Pathology General medicine Manto",
+      "latitude": 37.085448,
+      "longitude": 25.149475
+    },
+    {
+      "name": "Dr. Stathpoulos",
+      "latitude": 39.989393,
+      "longitude": 23.613583
+    },
+    {
+      "name": "Dr. Άννα Σταθοπούλου",
+      "latitude": 37.993056,
+      "longitude": 23.775127
+    },
+    {
+      "name": "Dr. Αυγούστου Ειρήνη, MD",
+      "latitude": 38.014157,
+      "longitude": 23.819571
+    },
+    {
+      "name": "Dr. Φ. Μυστακιδης",
+      "latitude": 37.935815,
+      "longitude": 22.928972
+    },
+    {
+      "name": "Emm. G. Alexandrakis",
+      "latitude": 35.18756,
+      "longitude": 24.40057
+    },
+    {
+      "name": "Epistimi",
+      "latitude": 38.022727,
+      "longitude": 23.748237
+    },
+    {
+      "name": "Euromedica",
+      "latitude": 37.892667,
+      "longitude": 23.74795
+    },
+    {
+      "name": "Euromedica",
+      "latitude": 38.013712,
+      "longitude": 23.751509
+    },
+    {
+      "name": "Euromedica",
+      "latitude": 40.927356,
+      "longitude": 24.390421
+    },
+    {
+      "name": "family doctor",
+      "latitude": 39.705274,
+      "longitude": 20.791942
+    },
+    {
+      "name": "Gialvalis Dimitrios Thuroid Surgent - χειρουργός θυρεοειδούς",
+      "latitude": 38.021386,
+      "longitude": 23.799467
+    },
+    {
+      "name": "Health Aid",
+      "latitude": 37.88054,
+      "longitude": 23.755487
+    },
+    {
+      "name": "IASIS - Πολυιατρείο Αργολίδας",
+      "latitude": 37.618251,
+      "longitude": 22.76546
+    },
+    {
+      "name": "Iasis ΔΙΑΓΝΩΣΗ",
+      "latitude": 35.232088,
+      "longitude": 23.684256
+    },
+    {
+      "name": "Iassis Emergecy",
+      "latitude": 37.763957,
+      "longitude": 20.92339
+    },
+    {
+      "name": "iassis medical",
+      "latitude": 37.725377,
+      "longitude": 20.864037
+    },
+    {
+      "name": "iassis medical",
+      "latitude": 37.726991,
+      "longitude": 20.863183
+    },
+    {
+      "name": "Iatpeio",
+      "latitude": 37.689195,
+      "longitude": 26.941506
+    },
+    {
+      "name": "Iatpeio Health Center",
+      "latitude": 35.249615,
+      "longitude": 23.810643
+    },
+    {
+      "name": "IKA",
+      "latitude": 39.491435,
+      "longitude": 20.265414
+    },
+    {
+      "name": "IMS",
+      "latitude": 38.022153,
+      "longitude": 23.802213
+    },
+    {
+      "name": "Ioannis N Kachrilas",
+      "latitude": 38.074045,
+      "longitude": 20.796087
+    },
+    {
+      "name": "Karyo",
+      "latitude": 37.987227,
+      "longitude": 23.760256
+    },
+    {
+      "name": "Kavos Emergencies - Surgery",
+      "latitude": 39.385306,
+      "longitude": 20.112503
+    },
+    {
+      "name": "Kavos Emergencies - Surgery",
+      "latitude": 39.38746,
+      "longitude": 20.110092
+    },
+    {
+      "name": "Kokkinou",
+      "latitude": 39.989118,
+      "longitude": 23.612091
+    },
+    {
+      "name": "Koroni Doctors",
+      "latitude": 36.796921,
+      "longitude": 21.959148
+    },
+    {
+      "name": "Kosdiagnosis",
+      "latitude": 36.878249,
+      "longitude": 27.225387
+    },
+    {
+      "name": "KS ιατρικό",
+      "latitude": 38.01948,
+      "longitude": 24.004291
+    },
+    {
+      "name": "Lazarou Olga",
+      "latitude": 38.247581,
+      "longitude": 21.737287
+    },
+    {
+      "name": "Leonidio Health Center",
+      "latitude": 37.168746,
+      "longitude": 22.863574
+    },
+    {
+      "name": "Life Check (Μικροβιολογικό Ιατρείο)",
+      "latitude": 38.46588,
+      "longitude": 23.57593
+    },
+    {
+      "name": "Maleme medical house",
+      "latitude": 35.523263,
+      "longitude": 23.8475
+    },
+    {
+      "name": "Markakis Evangelos",
+      "latitude": 37.153164,
+      "longitude": 26.856809
+    },
+    {
+      "name": "Med Hall",
+      "latitude": 39.644856,
+      "longitude": 19.853984
+    },
+    {
+      "name": "Medical Care",
+      "latitude": 39.284469,
+      "longitude": 20.401288
+    },
+    {
+      "name": "Medical Care",
+      "latitude": 39.285123,
+      "longitude": 20.401017
+    },
+    {
+      "name": "Medical Care Platanias P.C.",
+      "latitude": 35.517535,
+      "longitude": 23.913383
+    },
+    {
+      "name": "Medical Center",
+      "latitude": 37.956812,
+      "longitude": 23.668207
+    },
+    {
+      "name": "Medical Centre",
+      "latitude": 36.341093,
+      "longitude": 28.201719
+    },
+    {
+      "name": "Medical Centre",
+      "latitude": 37.880808,
+      "longitude": 23.761426
+    },
+    {
+      "name": "Medical Diagnosis Argostoliou",
+      "latitude": 38.172342,
+      "longitude": 20.487445
+    },
+    {
+      "name": "Medical Office of Metaxades",
+      "latitude": 41.423558,
+      "longitude": 26.227362
+    },
+    {
+      "name": "Medical Practice I. Paraskeuaidis",
+      "latitude": 37.97416,
+      "longitude": 23.629831
+    },
+    {
+      "name": "Medical Unit of Anaphi",
+      "latitude": 36.350479,
+      "longitude": 25.765653
+    },
+    {
+      "name": "Medical Ραφήνας",
+      "latitude": 38.018977,
+      "longitude": 24.00175
+    },
+    {
+      "name": "Medifirst",
+      "latitude": 38.035883,
+      "longitude": 23.797881
+    },
+    {
+      "name": "Medikon Ιλιωτικι πολυιατρειο",
+      "latitude": 40.635417,
+      "longitude": 22.946172
+    },
+    {
+      "name": "Mediplat",
+      "latitude": 38.038451,
+      "longitude": 23.750505
+    },
+    {
+      "name": "Medoc",
+      "latitude": 37.928941,
+      "longitude": 23.692922
+    },
+    {
+      "name": "Meganalysis",
+      "latitude": 38.014977,
+      "longitude": 23.75377
+    },
+    {
+      "name": "Minisco",
+      "latitude": 38.025017,
+      "longitude": 23.789066
+    },
+    {
+      "name": "My Smile Clinic",
+      "latitude": 38.241762,
+      "longitude": 21.742878
+    },
+    {
+      "name": "Open MRI",
+      "latitude": 39.636835,
+      "longitude": 22.430922
+    },
+    {
+      "name": "Optolook",
+      "latitude": 37.965274,
+      "longitude": 23.725804
+    },
+    {
+      "name": "Palaiochora Medical Care",
+      "latitude": 35.23174,
+      "longitude": 23.682297
+    },
+    {
+      "name": "Pediaris Family Doctor",
+      "latitude": 35.363098,
+      "longitude": 24.259239
+    },
+    {
+      "name": "Pediatric Service",
+      "latitude": 39.989581,
+      "longitude": 23.610686
+    },
+    {
+      "name": "Pelmyplus",
+      "latitude": 38.038565,
+      "longitude": 23.750462
+    },
+    {
+      "name": "Polyclinic Cretan Medi-Help",
+      "latitude": 35.328912,
+      "longitude": 25.306857
+    },
+    {
+      "name": "Rethymno Medical Assistance",
+      "latitude": 35.37267,
+      "longitude": 24.543596
+    },
+    {
+      "name": "Royal Medi-Care",
+      "latitude": 39.384807,
+      "longitude": 20.113029
+    },
+    {
+      "name": "Salamalikis Charalampos",
+      "latitude": 38.247503,
+      "longitude": 21.737112
+    },
+    {
+      "name": "Schamanisches Zentrum",
+      "latitude": 36.802571,
+      "longitude": 21.909107
+    },
+    {
+      "name": "SmileStyle",
+      "latitude": 40.551814,
+      "longitude": 23.018398
+    },
+    {
+      "name": "South Rhodes Mediacl Care",
+      "latitude": 36.023967,
+      "longitude": 27.926433
+    },
+    {
+      "name": "spineart",
+      "latitude": 40.631801,
+      "longitude": 22.946343
+    },
+    {
+      "name": "Spinthaki Rodanthi",
+      "latitude": 37.812437,
+      "longitude": 20.871458
+    },
+    {
+      "name": "Surgery",
+      "latitude": 39.381952,
+      "longitude": 20.116076
+    },
+    {
+      "name": "Surgery",
+      "latitude": 39.383019,
+      "longitude": 20.115744
+    },
+    {
+      "name": "Surgery medical service",
+      "latitude": 39.79112,
+      "longitude": 19.708171
+    },
+    {
+      "name": "ThinkSkin",
+      "latitude": 38.012732,
+      "longitude": 23.816465
+    },
+    {
+      "name": "Thraki Vision",
+      "latitude": 40.848169,
+      "longitude": 25.874286
+    },
+    {
+      "name": "Tsiata Eleni",
+      "latitude": 41.504739,
+      "longitude": 26.534449
+    },
+    {
+      "name": "Ultramedic",
+      "latitude": 38.013784,
+      "longitude": 23.819705
+    },
+    {
+      "name": "V. Tsarouchas",
+      "latitude": 37.726677,
+      "longitude": 24.017438
+    },
+    {
+      "name": "Vasilis Panagiotidis",
+      "latitude": 40.395861,
+      "longitude": 23.881703
+    },
+    {
+      "name": "Village Surgery",
+      "latitude": 36.612008,
+      "longitude": 27.840369
+    },
+    {
+      "name": "Vitae",
+      "latitude": 38.013846,
+      "longitude": 23.749875
+    },
+    {
+      "name": "Vitae",
+      "latitude": 38.033516,
+      "longitude": 23.754021
+    },
+    {
+      "name": "weekly medical office",
+      "latitude": 35.204174,
+      "longitude": 24.380903
+    },
+    {
+      "name": "X-ray διάγνωσις",
+      "latitude": 39.503037,
+      "longitude": 20.266012
+    },
+    {
+      "name": "Younique",
+      "latitude": 38.023266,
+      "longitude": 23.73707
+    },
+    {
+      "name": "Zahnarztpraxis",
+      "latitude": 37.861801,
+      "longitude": 21.204587
+    },
+    {
+      "name": "Zante Medical Care",
+      "latitude": 37.764921,
+      "longitude": 20.923253
+    },
+    {
+      "name": "Zer0-19",
+      "latitude": 38.031013,
+      "longitude": 23.777843
+    },
+    {
+      "name": "Άννα Γ. Μαρτιρόσοβα",
+      "latitude": 38.912469,
+      "longitude": 22.616243
+    },
+    {
+      "name": "Άννα Γεω. Ψαρρού",
+      "latitude": 38.000476,
+      "longitude": 23.815926
+    },
+    {
+      "name": "Άννα Σκλαβενίτη",
+      "latitude": 37.917509,
+      "longitude": 23.711899
+    },
+    {
+      "name": "Άννα-Μαρία Βολανάκη Διαιτολόγος",
+      "latitude": 38.015434,
+      "longitude": 23.826206
+    },
+    {
+      "name": "ίαση - Dr Γιούλη Ταταριδου",
+      "latitude": 40.395114,
+      "longitude": 23.873902
+    },
+    {
+      "name": "Ίλιας Ν. Ταρατορας",
+      "latitude": 39.706047,
+      "longitude": 21.626406
+    },
+    {
+      "name": "Ίνγκα Κεσίδη",
+      "latitude": 40.660604,
+      "longitude": 22.926786
+    },
+    {
+      "name": "Α. Πούλου - Δ. Σαββάλας - Δ. Τσάρτσαλης",
+      "latitude": 38.017658,
+      "longitude": 23.795879
+    },
+    {
+      "name": "Αβραάμ Αληχανίδης",
+      "latitude": 40.614642,
+      "longitude": 22.967011
+    },
+    {
+      "name": "Αγακίδης",
+      "latitude": 40.604088,
+      "longitude": 22.964303
+    },
+    {
+      "name": "Αγγειολογικό Ιατρείο Γ. Ελευθερίου",
+      "latitude": 37.987315,
+      "longitude": 23.762477
+    },
+    {
+      "name": "ΑΓΓΕΛΟΣ ΠΛΟΥΜΠΗΣ ΟΔΟΝΤΙΑΤΡΟΣ",
+      "latitude": 36.891351,
+      "longitude": 27.279258
+    },
+    {
+      "name": "Αγιασωτέλλη Δανάη",
+      "latitude": 39.104883,
+      "longitude": 26.553105
+    },
+    {
+      "name": "Αγροτικο ιατρειο",
+      "latitude": 38.407633,
+      "longitude": 21.641186
+    },
+    {
+      "name": "ΑΓΡΟΤΙΚΟ ΙΑΤΡΕΙΟ",
+      "latitude": 39.5981,
+      "longitude": 20.84597
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 37.576815,
+      "longitude": 25.197838
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 37.837142,
+      "longitude": 21.526187
+    },
+    {
+      "name": "Αγροτικό ιατρείο",
+      "latitude": 38.858522,
+      "longitude": 23.40009
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 39.978961,
+      "longitude": 21.116176
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 40.112685,
+      "longitude": 21.264634
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 40.202259,
+      "longitude": 21.600439
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 40.593355,
+      "longitude": 21.36551
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 40.839793,
+      "longitude": 22.921883
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 40.869652,
+      "longitude": 22.90989
+    },
+    {
+      "name": "Αγροτικό Ιατρείο",
+      "latitude": 40.926674,
+      "longitude": 23.069416
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Δρακόντιου",
+      "latitude": 40.736443,
+      "longitude": 23.15886
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Θεολόγου",
+      "latitude": 38.655274,
+      "longitude": 23.193336
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Καστανούσσας",
+      "latitude": 41.276372,
+      "longitude": 22.895457
+    },
+    {
+      "name": "Αγροτικό ιατρείο Καψάλων",
+      "latitude": 38.142485,
+      "longitude": 24.248814
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Κεφαλαρίου",
+      "latitude": 37.922461,
+      "longitude": 22.511872
+    },
+    {
+      "name": "Αγροτικό ιατρείο Λιβαδίων",
+      "latitude": 36.41419,
+      "longitude": 27.386395
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Μεσορύγου",
+      "latitude": 39.203803,
+      "longitude": 21.339562
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Πλατανίου",
+      "latitude": 38.298766,
+      "longitude": 21.82118
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Στρογγυλής",
+      "latitude": 39.509993,
+      "longitude": 19.908335
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Χιλιοδένδρου",
+      "latitude": 40.48708,
+      "longitude": 21.192721
+    },
+    {
+      "name": "Αγροτικό Ιατρείο Χρυσοκελλαριάς",
+      "latitude": 36.792005,
+      "longitude": 21.887847
+    },
+    {
+      "name": "Αθανάσιος Βασ. Κωταντούλας",
+      "latitude": 38.242452,
+      "longitude": 21.734697
+    },
+    {
+      "name": "Αθανασάκειο - Περιφερειακό Ιατρείο Πορταριάς",
+      "latitude": 39.390656,
+      "longitude": 22.999425
+    },
+    {
+      "name": "Αθανασία Βακαλούδη",
+      "latitude": 38.016302,
+      "longitude": 23.739587
+    },
+    {
+      "name": "Αικατερίνη Χιντοπούλου",
+      "latitude": 38.032664,
+      "longitude": 23.73762
+    },
+    {
+      "name": "Αιμιλία Κ. Στουραΐτου",
+      "latitude": 38.033285,
+      "longitude": 23.737876
+    },
+    {
+      "name": "ΑΚΕΣΤΩΡ Α.Ε.",
+      "latitude": 38.001134,
+      "longitude": 23.747432
+    },
+    {
+      "name": "Ακτινολογικό Αμπατζής",
+      "latitude": 39.104774,
+      "longitude": 26.551321
+    },
+    {
+      "name": "Αλέξανδρος Γκίνης",
+      "latitude": 38.035182,
+      "longitude": 23.82381
+    },
+    {
+      "name": "Αλέξανδρος Καββαδίας",
+      "latitude": 39.421685,
+      "longitude": 20.057581
+    },
+    {
+      "name": "Αλεξάκη Σοφία Ενδοκρινολόγος",
+      "latitude": 38.012284,
+      "longitude": 23.820223
+    },
+    {
+      "name": "Αλεξανδρόπουλος",
+      "latitude": 40.652992,
+      "longitude": 22.922175
+    },
+    {
+      "name": "Αναστασοπούλου Ολγα Μαιευτήρας - Χειρουργός Γυναικολογος",
+      "latitude": 40.626113,
+      "longitude": 22.439631
+    },
+    {
+      "name": "Αναστασόπουλος Ανδρέας, πνευμονολόγος",
+      "latitude": 38.026727,
+      "longitude": 23.796829
+    },
+    {
+      "name": "Ανδριάννα Ν. Βασιλείου",
+      "latitude": 37.950767,
+      "longitude": 23.737311
+    },
+    {
+      "name": "Ανδρολογικό Ινστιτούτο",
+      "latitude": 38.000489,
+      "longitude": 23.772306
+    },
+    {
+      "name": "Αννίνου Αρετή Γ.",
+      "latitude": 38.078995,
+      "longitude": 23.700639
+    },
+    {
+      "name": "Αντωνία Κανακάκη",
+      "latitude": 38.01746,
+      "longitude": 23.796357
+    },
+    {
+      "name": "Αποστολίδης Στ.",
+      "latitude": 41.260111,
+      "longitude": 23.00149
+    },
+    {
+      "name": "Αποστόλου",
+      "latitude": 38.242447,
+      "longitude": 21.734749
+    },
+    {
+      "name": "Αράπογλου",
+      "latitude": 40.496678,
+      "longitude": 22.988427
+    },
+    {
+      "name": "Αργοτικό Ιατρείο",
+      "latitude": 40.488697,
+      "longitude": 21.215597
+    },
+    {
+      "name": "Αρετή Γκατζέλια",
+      "latitude": 38.032977,
+      "longitude": 23.737689
+    },
+    {
+      "name": "Αρχάγγελος",
+      "latitude": 37.93221,
+      "longitude": 23.63381
+    },
+    {
+      "name": "Ασβέστης Χαράλαμπος",
+      "latitude": 37.863806,
+      "longitude": 23.748928
+    },
+    {
+      "name": "Ασημακοπούλου Βασιλική",
+      "latitude": 38.24581,
+      "longitude": 21.736256
+    },
+    {
+      "name": "ΑΥΤΕΠΙΓΝΩΣΗ",
+      "latitude": 40.585379,
+      "longitude": 22.954147
+    },
+    {
+      "name": "Αφροδίτη Μηλοβιανού",
+      "latitude": 40.636378,
+      "longitude": 22.939332
+    },
+    {
+      "name": "Αφροδίτη-Αμαρυλλίς Αϊβαλιώτη (Παθολόγος)",
+      "latitude": 38.006286,
+      "longitude": 23.719421
+    },
+    {
+      "name": "Αϊνούρ Μολλά",
+      "latitude": 41.113077,
+      "longitude": 25.407979
+    },
+    {
+      "name": "Βαμβακίδης Θεόδωρος ΩΡΛ",
+      "latitude": 38.055619,
+      "longitude": 23.810953
+    },
+    {
+      "name": "Βασάκος Δημήτριος Χειρουργός Οφθαλμίατρος",
+      "latitude": 40.59676,
+      "longitude": 22.97171
+    },
+    {
+      "name": "Βασίλειος Α. Καραγιαννίδης",
+      "latitude": 39.423323,
+      "longitude": 20.061833
+    },
+    {
+      "name": "Βασίλειος Γ. Τερζάκης",
+      "latitude": 37.961954,
+      "longitude": 23.734655
+    },
+    {
+      "name": "Βασίλειος Ν. Ορμόνης",
+      "latitude": 38.030087,
+      "longitude": 23.779625
+    },
+    {
+      "name": "Βασίλειος Ροϊλίδης",
+      "latitude": 37.926984,
+      "longitude": 23.692187
+    },
+    {
+      "name": "Βασιλική Καλοκύρη-Κουφού",
+      "latitude": 38.026516,
+      "longitude": 23.717561
+    },
+    {
+      "name": "Βασιλόπουλος Κωνσταντίνος",
+      "latitude": 38.249983,
+      "longitude": 21.737746
+    },
+    {
+      "name": "Βιομορφή",
+      "latitude": 38.031479,
+      "longitude": 23.706018
+    },
+    {
+      "name": "Βοήθεια στο Σπίτι",
+      "latitude": 38.377493,
+      "longitude": 22.631152
+    },
+    {
+      "name": "Βουδούρης Νικόλαος",
+      "latitude": 37.935852,
+      "longitude": 23.75909
+    },
+    {
+      "name": "Βρούλη Θεοδοσία",
+      "latitude": 40.611724,
+      "longitude": 23.103575
+    },
+    {
+      "name": "Βόγιας Ιωάννης",
+      "latitude": 39.635549,
+      "longitude": 22.418184
+    },
+    {
+      "name": "Γέννημα IV",
+      "latitude": 38.028055,
+      "longitude": 23.791204
+    },
+    {
+      "name": "Γερ. Κ. Ζωνισς",
+      "latitude": 38.881513,
+      "longitude": 22.775954
+    },
+    {
+      "name": "Γεωργία Δριμούρα",
+      "latitude": 38.023713,
+      "longitude": 23.790225
+    },
+    {
+      "name": "Γεωργία Ι. Χρόνη",
+      "latitude": 38.001279,
+      "longitude": 23.747234
+    },
+    {
+      "name": "Γεώργιος Γκίζης",
+      "latitude": 38.016545,
+      "longitude": 23.691945
+    },
+    {
+      "name": "Γεώργιος Θ. Μπεσίρης",
+      "latitude": 37.998851,
+      "longitude": 23.735552
+    },
+    {
+      "name": "Γεώργιος Κούρτης",
+      "latitude": 38.833084,
+      "longitude": 20.707136
+    },
+    {
+      "name": "Γεώργιος Ν. Νομικός",
+      "latitude": 38.369735,
+      "longitude": 26.1339
+    },
+    {
+      "name": "Γεώργιος Οικονόμου - Δερματολόγος",
+      "latitude": 37.929888,
+      "longitude": 23.694609
+    },
+    {
+      "name": "Γεώργιος Χαρίτος",
+      "latitude": 39.368994,
+      "longitude": 22.945888
+    },
+    {
+      "name": "ΓΙΑΝΝΑΚΟΠΟΥΛΟΣ ΜΑΡΙΟΣ ΧΕΙΡΟΥΡΓΟΣ ΟΦΘΑΛΜΙΑΤΡΟΣ",
+      "latitude": 38.245375,
+      "longitude": 21.736429
+    },
+    {
+      "name": "Γιατρος",
+      "latitude": 40.707262,
+      "longitude": 24.760678
+    },
+    {
+      "name": "Γιώργος Ν. Βάμβακος",
+      "latitude": 37.946165,
+      "longitude": 23.743952
+    },
+    {
+      "name": "Γιώργος Σπαγάκος",
+      "latitude": 37.843665,
+      "longitude": 23.762739
+    },
+    {
+      "name": "Γκαμπλιά Πολυξένη (ΩΡΛ)",
+      "latitude": 35.366164,
+      "longitude": 24.470727
+    },
+    {
+      "name": "Γραμματοπούλου",
+      "latitude": 40.65314,
+      "longitude": 22.92178
+    },
+    {
+      "name": "Δήμητρα Καλλιμάνη",
+      "latitude": 38.243037,
+      "longitude": 21.733649
+    },
+    {
+      "name": "Δήμητρα Σούλη",
+      "latitude": 37.97853,
+      "longitude": 23.752872
+    },
+    {
+      "name": "Δήμου Νίκη",
+      "latitude": 37.949011,
+      "longitude": 23.740728
+    },
+    {
+      "name": "Δαδούλης Γιάννης",
+      "latitude": 40.612119,
+      "longitude": 23.099548
+    },
+    {
+      "name": "Δαλιεράκης Μάνος",
+      "latitude": 37.943047,
+      "longitude": 23.714151
+    },
+    {
+      "name": "ΔΑΝΙΉΛ ΕΥΑΓΓΕΛΙΑ",
+      "latitude": 37.964335,
+      "longitude": 23.750117
+    },
+    {
+      "name": "Δαρκαδάκη παιδιατρος",
+      "latitude": 36.891809,
+      "longitude": 27.294166
+    },
+    {
+      "name": "Δερματολογικό Ιατρείο Αριστείδης Μπαλιακος",
+      "latitude": 39.36592,
+      "longitude": 21.922574
+    },
+    {
+      "name": "Δερματολόγος - Δρ. Αμαλία Τσακίρη",
+      "latitude": 40.600835,
+      "longitude": 22.955678
+    },
+    {
+      "name": "Δημ. Ντόκολας",
+      "latitude": 38.029293,
+      "longitude": 23.734132
+    },
+    {
+      "name": "Δημήτρης Γκέλης",
+      "latitude": 38.079144,
+      "longitude": 23.701113
+    },
+    {
+      "name": "Δημήτρης Γκιώνης",
+      "latitude": 38.015055,
+      "longitude": 23.827173
+    },
+    {
+      "name": "Δημήτρης Κ. Τσαρπαλής",
+      "latitude": 38.011351,
+      "longitude": 23.822744
+    },
+    {
+      "name": "Δημήτρης Πλασκασοβίτης",
+      "latitude": 39.422363,
+      "longitude": 20.041998
+    },
+    {
+      "name": "Δημήτριος Ζ. Αλεξίου",
+      "latitude": 38.025452,
+      "longitude": 23.721436
+    },
+    {
+      "name": "Δημήτριος Κ. Σκαφίδας",
+      "latitude": 38.03136,
+      "longitude": 23.736211
+    },
+    {
+      "name": "Δημήτριος Μπράμος",
+      "latitude": 38.0775,
+      "longitude": 23.702943
+    },
+    {
+      "name": "Δημήτριος Μόσχοβης",
+      "latitude": 37.993488,
+      "longitude": 23.678763
+    },
+    {
+      "name": "Δηματάτης",
+      "latitude": 40.635241,
+      "longitude": 22.945776
+    },
+    {
+      "name": "Δημητρίου Αλεξανδρος",
+      "latitude": 37.944384,
+      "longitude": 23.747184
+    },
+    {
+      "name": "Δημητρακόπουλου Κωνσταντίνα",
+      "latitude": 38.014846,
+      "longitude": 23.820805
+    },
+    {
+      "name": "Δημητρης Θ. Μουστακας",
+      "latitude": 37.937739,
+      "longitude": 22.936423
+    },
+    {
+      "name": "Δημητρης Παρισης",
+      "latitude": 38.021099,
+      "longitude": 24.006089
+    },
+    {
+      "name": "Δημητριάδης Ηλίας",
+      "latitude": 40.581397,
+      "longitude": 22.951262
+    },
+    {
+      "name": "ΔΗΜΗΤΡΙΑΔΗΣ Α.Ε.",
+      "latitude": 41.116248,
+      "longitude": 25.402249
+    },
+    {
+      "name": "Δημητροκάλλης Ν. Κωνσταντίνος",
+      "latitude": 38.017966,
+      "longitude": 23.79628
+    },
+    {
+      "name": "Δημητρόπουλος Παναγιώτης",
+      "latitude": 37.938347,
+      "longitude": 23.644898
+    },
+    {
+      "name": "Δημοτικό ιατρείο",
+      "latitude": 37.999588,
+      "longitude": 23.73407
+    },
+    {
+      "name": "Δημοτικό Ιατρείο",
+      "latitude": 40.58497,
+      "longitude": 22.951948
+    },
+    {
+      "name": "Δημοτικό Ιατρείο",
+      "latitude": 40.596234,
+      "longitude": 22.953711
+    },
+    {
+      "name": "Δημόκριτος",
+      "latitude": 40.84878,
+      "longitude": 25.890617
+    },
+    {
+      "name": "Διαγνωστικό Κέντρο \"",
+      "latitude": 38.463497,
+      "longitude": 23.600212
+    },
+    {
+      "name": "Διαγνωστικό Κέντρο \"Γιώργος Κουμέλης\"",
+      "latitude": 38.462396,
+      "longitude": 23.592584
+    },
+    {
+      "name": "Διαγνωστικό Κέντρο Φλαμουράκης",
+      "latitude": 38.370381,
+      "longitude": 26.134476
+    },
+    {
+      "name": "Διαγνωστικό Τμήμα Ελληνικού Ινστιτούτου Παστέρ",
+      "latitude": 37.985662,
+      "longitude": 23.759407
+    },
+    {
+      "name": "Δρ Μπουγουλιά Μαρία - ενδοκρινολόγος - διαβητολόγος",
+      "latitude": 40.584868,
+      "longitude": 22.952919
+    },
+    {
+      "name": "Δρ. Κακλαμάνος Γ. Ιωάννης",
+      "latitude": 37.990542,
+      "longitude": 23.765084
+    },
+    {
+      "name": "Δρ. Παρασκευή Φωτάκη (Μαιευτήρας -Χειρουργός- Γυναικολόγος)",
+      "latitude": 37.956389,
+      "longitude": 23.702196
+    },
+    {
+      "name": "Ε.Σ.Υ. ΡΟΔΟΠΟΛΗΣ",
+      "latitude": 41.258854,
+      "longitude": 23.004271
+    },
+    {
+      "name": "Ειδικός Παθολόγος Μιστυλής Παναγιώτης MD, MSc",
+      "latitude": 38.032332,
+      "longitude": 23.745186
+    },
+    {
+      "name": "Ελένη Μπαλάκου",
+      "latitude": 40.669434,
+      "longitude": 22.909772
+    },
+    {
+      "name": "Ελένη Πολιτίδου",
+      "latitude": 38.014124,
+      "longitude": 23.719858
+    },
+    {
+      "name": "Ελίνα Γ. Αθανασούλα",
+      "latitude": 39.705217,
+      "longitude": 21.626432
+    },
+    {
+      "name": "Ελίνα Παπαδοπούλου-FamilyMed Center",
+      "latitude": 37.634084,
+      "longitude": 22.726296
+    },
+    {
+      "name": "Ελειθώ (Νίκος Αποστολόπουλος)",
+      "latitude": 38.052227,
+      "longitude": 23.810737
+    },
+    {
+      "name": "Ελευθέριος Μανωλερης Παθολογος",
+      "latitude": 38.015092,
+      "longitude": 23.735753
+    },
+    {
+      "name": "Ελευθέριος Π. Χατζηδαρέλλης",
+      "latitude": 38.017306,
+      "longitude": 23.799733
+    },
+    {
+      "name": "Ελληνική Αστυνομία: Διεύθυνση Υγειονομικού & Κεντρικό Ιατρείο Αθηνών",
+      "latitude": 37.973542,
+      "longitude": 23.708328
+    },
+    {
+      "name": "Εμμ. Δράκος",
+      "latitude": 37.930684,
+      "longitude": 23.632314
+    },
+    {
+      "name": "ΕΝΔΟΚΡΙΝΟΛΟΓΟΣ ΔΙΑΒΗΤΟΛΟΓΟΣ",
+      "latitude": 37.961697,
+      "longitude": 23.657133
+    },
+    {
+      "name": "ΕΟΠΥΥ",
+      "latitude": 37.990677,
+      "longitude": 23.727333
+    },
+    {
+      "name": "επί Λόγω επί Έργο",
+      "latitude": 37.954762,
+      "longitude": 23.853608
+    },
+    {
+      "name": "Επαμεινώνδας Φούντας",
+      "latitude": 38.014927,
+      "longitude": 23.817449
+    },
+    {
+      "name": "Εργαστηριο Ιωνιας",
+      "latitude": 37.967191,
+      "longitude": 23.646131
+    },
+    {
+      "name": "Ευάγγελος Κουρμπάνης",
+      "latitude": 38.038673,
+      "longitude": 23.756097
+    },
+    {
+      "name": "Ευάγγελος Κούτης",
+      "latitude": 38.022226,
+      "longitude": 23.800676
+    },
+    {
+      "name": "Ευαγγελία Κρόκου",
+      "latitude": 38.02606,
+      "longitude": 23.746951
+    },
+    {
+      "name": "Ευανθία Πεφάνη",
+      "latitude": 38.026003,
+      "longitude": 23.721675
+    },
+    {
+      "name": "Ευδοκία Α. Παπαχαραλάμπους",
+      "latitude": 38.041018,
+      "longitude": 23.750259
+    },
+    {
+      "name": "Ευδοξία Χαλιδιά",
+      "latitude": 39.421668,
+      "longitude": 20.05754
+    },
+    {
+      "name": "Ευθυμία Δέδε",
+      "latitude": 38.079138,
+      "longitude": 23.701059
+    },
+    {
+      "name": "ΕΦΚΑ",
+      "latitude": 39.880737,
+      "longitude": 25.064303
+    },
+    {
+      "name": "Εϊτούτις Ναταλία",
+      "latitude": 37.990728,
+      "longitude": 23.740464
+    },
+    {
+      "name": "Ζωγράφος Χρήστος",
+      "latitude": 38.248325,
+      "longitude": 21.737845
+    },
+    {
+      "name": "Ηλίας Θεοδωρόπουλος",
+      "latitude": 37.97684,
+      "longitude": 23.743354
+    },
+    {
+      "name": "Ηλίας Χουρπουλιάδης Οφθαλμίατρος",
+      "latitude": 40.599598,
+      "longitude": 22.964282
+    },
+    {
+      "name": "Ηλιάδης Θ. Βασίλειος",
+      "latitude": 38.577103,
+      "longitude": 23.642158
+    },
+    {
+      "name": "Ηλιάδης Κοσμάς",
+      "latitude": 37.93719,
+      "longitude": 23.641844
+    },
+    {
+      "name": "ΗΛΙΟΠΟΥΛΟΣ ΑΓΓΕΛΟΣ Καρδιολογικο ιατρείο",
+      "latitude": 38.245206,
+      "longitude": 21.735779
+    },
+    {
+      "name": "Θεόδωρος Κ. Παπαϊωάννης",
+      "latitude": 38.013366,
+      "longitude": 23.818534
+    },
+    {
+      "name": "Θεόδωρος Μήτρας - Καρδιολόγος",
+      "latitude": 40.935827,
+      "longitude": 24.407449
+    },
+    {
+      "name": "Ι.Κ.Α.",
+      "latitude": 40.570682,
+      "longitude": 22.972218
+    },
+    {
+      "name": "Ι.Κ.Α.",
+      "latitude": 40.583642,
+      "longitude": 22.964226
+    },
+    {
+      "name": "Ι.Κ.Α.",
+      "latitude": 40.584165,
+      "longitude": 22.951392
+    },
+    {
+      "name": "ΙΑΣΙΣ",
+      "latitude": 38.021937,
+      "longitude": 23.74579
+    },
+    {
+      "name": "Ιατρείο",
+      "latitude": 35.23088,
+      "longitude": 23.961942
+    },
+    {
+      "name": "Ιατρείο",
+      "latitude": 37.977067,
+      "longitude": 23.784076
+    },
+    {
+      "name": "Ιατρείο",
+      "latitude": 39.068187,
+      "longitude": 21.271395
+    },
+    {
+      "name": "Ιατρείο",
+      "latitude": 39.15862,
+      "longitude": 21.834347
+    },
+    {
+      "name": "Ιατρείο",
+      "latitude": 40.657318,
+      "longitude": 22.803227
+    },
+    {
+      "name": "Ιατρείο Βελονισμού & Διαχείρισης Πόνου | Μητράγκας Α.",
+      "latitude": 40.638805,
+      "longitude": 22.934766
+    },
+    {
+      "name": "Ιατρείο Βυρώνειας",
+      "latitude": 41.26475,
+      "longitude": 23.252059
+    },
+    {
+      "name": "Ιατρείο Γενικής Ιατρικής",
+      "latitude": 39.592186,
+      "longitude": 19.820626
+    },
+    {
+      "name": "Ιατρείο Κιμώλου",
+      "latitude": 36.793169,
+      "longitude": 24.57422
+    },
+    {
+      "name": "Ιατρείο Μελισσοχωρίου",
+      "latitude": 40.768103,
+      "longitude": 22.928213
+    },
+    {
+      "name": "Ιατρείο Πεύκου",
+      "latitude": 40.388813,
+      "longitude": 20.952777
+    },
+    {
+      "name": "ΙΑΤΡΕΙΟ ΑΓΓΕΙΟΧΕΙΡΟΥΡΓΙΚΟ",
+      "latitude": 40.582019,
+      "longitude": 22.965322
+    },
+    {
+      "name": "ΙΑΤΡΕΙΟ ΠΑΘΟΛΟΓΙΚΟ",
+      "latitude": 38.137481,
+      "longitude": 23.855232
+    },
+    {
+      "name": "Ιατρείο Υδρούσας",
+      "latitude": 40.723002,
+      "longitude": 21.459845
+    },
+    {
+      "name": "Ιατρικές Υπηρεσίες Παπανδρέου",
+      "latitude": 37.988502,
+      "longitude": 23.730215
+    },
+    {
+      "name": "Ιατρικές Υπηρεσίες Παπανδρέου",
+      "latitude": 38.021927,
+      "longitude": 23.735612
+    },
+    {
+      "name": "Ιατρική Άσκηση Κέντρο Αποκατάστασης",
+      "latitude": 38.012825,
+      "longitude": 23.818527
+    },
+    {
+      "name": "Ιατρική Απεικόνηση",
+      "latitude": 38.072463,
+      "longitude": 23.815459
+    },
+    {
+      "name": "Ιατρική Μέριμνα",
+      "latitude": 38.038598,
+      "longitude": 23.671245
+    },
+    {
+      "name": "Ιατρικό Κέντρο Τούμπας",
+      "latitude": 40.611379,
+      "longitude": 22.986704
+    },
+    {
+      "name": "Ιατρικό Καστοριάς",
+      "latitude": 40.52099,
+      "longitude": 21.258387
+    },
+    {
+      "name": "Ιατρόπολις",
+      "latitude": 37.978667,
+      "longitude": 23.753069
+    },
+    {
+      "name": "Ιδιωτικό Πολυϊατρείο Διάγνωση",
+      "latitude": 37.116241,
+      "longitude": 25.236028
+    },
+    {
+      "name": "Ιοαννης Αλ. Σκλαβουνος",
+      "latitude": 37.993026,
+      "longitude": 23.340011
+    },
+    {
+      "name": "ΙΣΤΟΛΟΓΙΚΗ  ΚΑΙ  ΜΟΡΙΑΚΗ  ΔΙΑΓΝΩΣΗ  ΙΩΑΝΝΙΝΩΝ",
+      "latitude": 39.66658,
+      "longitude": 20.852362
+    },
+    {
+      "name": "Ιωάννα Αλιακιοζογλου",
+      "latitude": 37.51789,
+      "longitude": 22.85768
+    },
+    {
+      "name": "Ιωάννα Χαρωνίτη",
+      "latitude": 35.330235,
+      "longitude": 25.123034
+    },
+    {
+      "name": "Ιωάννης Κ. Σπυρόπουλος",
+      "latitude": 38.03334,
+      "longitude": 23.737897
+    },
+    {
+      "name": "Ιωάννης Κ. Τηλιάκος",
+      "latitude": 37.94945,
+      "longitude": 23.736033
+    },
+    {
+      "name": "Ιωάννης Μπαλάνος",
+      "latitude": 41.09197,
+      "longitude": 23.55062
+    },
+    {
+      "name": "Ιωάννης Χαλικιάς",
+      "latitude": 39.421769,
+      "longitude": 20.076811
+    },
+    {
+      "name": "Ιωάννου Παναγιώτης",
+      "latitude": 38.635327,
+      "longitude": 21.400166
+    },
+    {
+      "name": "Ιωαν. Αν. Κραβαριτης",
+      "latitude": 38.953669,
+      "longitude": 23.151306
+    },
+    {
+      "name": "Κ Υ Παρανεστίου",
+      "latitude": 41.266919,
+      "longitude": 24.504561
+    },
+    {
+      "name": "Κέντρο Υγείας Άνω Λιωσίων",
+      "latitude": 38.083855,
+      "longitude": 23.697003
+    },
+    {
+      "name": "Κέντρο Υγείας Άργους",
+      "latitude": 37.631475,
+      "longitude": 22.726823
+    },
+    {
+      "name": "Κέντρο Υγείας Αγ. Αναργύρων",
+      "latitude": 38.033036,
+      "longitude": 23.715291
+    },
+    {
+      "name": "Κέντρο Υγείας Αγ. Ιερόθεου",
+      "latitude": 38.025251,
+      "longitude": 23.681829
+    },
+    {
+      "name": "Κέντρο Υγείας Αθήνας",
+      "latitude": 37.98217,
+      "longitude": 23.733995
+    },
+    {
+      "name": "Κέντρο Υγείας Αιγάλεω",
+      "latitude": 37.994779,
+      "longitude": 23.685029
+    },
+    {
+      "name": "Κέντρο Υγείας Αλμυρού",
+      "latitude": 39.187188,
+      "longitude": 22.766469
+    },
+    {
+      "name": "Κέντρο Υγείας Γαλατσίου",
+      "latitude": 38.008958,
+      "longitude": 23.758709
+    },
+    {
+      "name": "Κέντρο Υγείας Ιλίου",
+      "latitude": 38.021775,
+      "longitude": 23.707422
+    },
+    {
+      "name": "Κέντρο Υγείας Καλλιθέας",
+      "latitude": 37.951244,
+      "longitude": 23.706811
+    },
+    {
+      "name": "Κέντρο Υγείας Κεραμεικού",
+      "latitude": 37.975158,
+      "longitude": 23.71131
+    },
+    {
+      "name": "Κέντρο Υγείας Νέου Κόσμου",
+      "latitude": 37.955668,
+      "longitude": 23.724487
+    },
+    {
+      "name": "Κέντρο Υγείας Παγκρατίου",
+      "latitude": 37.967527,
+      "longitude": 23.752952
+    },
+    {
+      "name": "Κέντρο Υγείας Πατησίων",
+      "latitude": 38.023874,
+      "longitude": 23.733894
+    },
+    {
+      "name": "Κέντρο Υγείας Πετρούλης",
+      "latitude": 38.04689,
+      "longitude": 23.690861
+    },
+    {
+      "name": "Κέντρο Υγείας Πλατείας Αττικής",
+      "latitude": 38.008038,
+      "longitude": 23.724205
+    },
+    {
+      "name": "Κέντρο Υγείας Πρώτης",
+      "latitude": 40.946042,
+      "longitude": 23.999869
+    },
+    {
+      "name": "Κέντρο Υγείας Ρόδου",
+      "latitude": 36.415083,
+      "longitude": 28.191722
+    },
+    {
+      "name": "Κέντρο Υγείας Σοχού",
+      "latitude": 40.813794,
+      "longitude": 23.358486
+    },
+    {
+      "name": "Κέντρο Υγείας Χαϊδαρίου",
+      "latitude": 38.012761,
+      "longitude": 23.667754
+    },
+    {
+      "name": "Καγιάς Χρήστος",
+      "latitude": 37.928441,
+      "longitude": 23.75925
+    },
+    {
+      "name": "Καθοπούλης",
+      "latitude": 37.942199,
+      "longitude": 23.646068
+    },
+    {
+      "name": "Καλφοπούλειο Υγειονομικό Κέντρο Δήμου Αθηναίων",
+      "latitude": 37.981726,
+      "longitude": 23.735915
+    },
+    {
+      "name": "Κανδηλιωτησ βαιλειοσ",
+      "latitude": 38.191487,
+      "longitude": 22.197236
+    },
+    {
+      "name": "Καρίπογλου Δέσποινα",
+      "latitude": 37.941833,
+      "longitude": 23.76268
+    },
+    {
+      "name": "Καραμάνης Κωνσταντίνος Ουρολόγος",
+      "latitude": 38.076149,
+      "longitude": 23.803496
+    },
+    {
+      "name": "Καραμάνης Κωσταντίνος Ουρολόγος",
+      "latitude": 37.94183,
+      "longitude": 23.649283
+    },
+    {
+      "name": "Καραούλης Σωκράτης Παθολόγος",
+      "latitude": 37.965392,
+      "longitude": 23.750509
+    },
+    {
+      "name": "Καρδιολογικό",
+      "latitude": 40.659525,
+      "longitude": 22.976392
+    },
+    {
+      "name": "Καρδιολογικό Κέντρο \"Προιονίδης\"",
+      "latitude": 41.259632,
+      "longitude": 23.001269
+    },
+    {
+      "name": "ΚΑΡΔΙΟΛΟΓΟΣ Σταματίου Παναγιώτης",
+      "latitude": 40.6572,
+      "longitude": 22.989346
+    },
+    {
+      "name": "Καρδιολόγος",
+      "latitude": 38.765332,
+      "longitude": 23.320281
+    },
+    {
+      "name": "Καρδιολόγος Παυλίδης Παύλος",
+      "latitude": 37.967068,
+      "longitude": 23.622002
+    },
+    {
+      "name": "Κασούλης",
+      "latitude": 40.653261,
+      "longitude": 22.923014
+    },
+    {
+      "name": "Καταράκης Γ. Ανδρέας",
+      "latitude": 38.013351,
+      "longitude": 23.818556
+    },
+    {
+      "name": "Κατερίνα Βρανού",
+      "latitude": 37.933928,
+      "longitude": 23.633358
+    },
+    {
+      "name": "Κατερίνα Πανδή",
+      "latitude": 38.012265,
+      "longitude": 23.82019
+    },
+    {
+      "name": "Κεντρο Alzheimer",
+      "latitude": 37.996958,
+      "longitude": 23.734053
+    },
+    {
+      "name": "Κεντρο Ποδιού",
+      "latitude": 37.98274,
+      "longitude": 23.735004
+    },
+    {
+      "name": "ΚΕΝΤΡΟ ΦΥΣΙΚΟΘΕΡΑΠΕΙΑΣ",
+      "latitude": 37.881084,
+      "longitude": 23.754002
+    },
+    {
+      "name": "ΚΕΠΑ ΠΕΙΡΑΙΩΣ 181",
+      "latitude": 37.971384,
+      "longitude": 23.704809
+    },
+    {
+      "name": "ΚΗΦΗ Κοσκινού",
+      "latitude": 36.387974,
+      "longitude": 28.215671
+    },
+    {
+      "name": "Κλειούσης Βασίλειος Π.",
+      "latitude": 40.519294,
+      "longitude": 21.255766
+    },
+    {
+      "name": "Κοινοτικό",
+      "latitude": 39.088621,
+      "longitude": 21.825673
+    },
+    {
+      "name": "Κοινοτικό Ιατρείο",
+      "latitude": 39.570846,
+      "longitude": 19.874273
+    },
+    {
+      "name": "Κοινοτικό Ιατρείο Άνω Βελιτσών",
+      "latitude": 37.952855,
+      "longitude": 21.529594
+    },
+    {
+      "name": "Κοινωνικό Ιατρείο Παύλου Μελά - ΤΟΜΥ",
+      "latitude": 40.658578,
+      "longitude": 22.941856
+    },
+    {
+      "name": "Κοινωνικό Ιατρείο Φαρμακείο Αλληλεγγύης Νέας Σμύρνης",
+      "latitude": 37.943308,
+      "longitude": 23.719904
+    },
+    {
+      "name": "Κοινωνικό Ιατρείο-Φαρμακείο Αλληλεγγύης Άρτας",
+      "latitude": 39.160394,
+      "longitude": 20.985059
+    },
+    {
+      "name": "Κοινωνικό ιατρειο φαρμακείο Βύρωνα",
+      "latitude": 37.95684,
+      "longitude": 23.750894
+    },
+    {
+      "name": "Κοσμαρίκου Αλεξάνδρα",
+      "latitude": 38.242074,
+      "longitude": 21.735712
+    },
+    {
+      "name": "κοσμοϊατρική",
+      "latitude": 38.002356,
+      "longitude": 23.712912
+    },
+    {
+      "name": "Κοσμοϊατρική",
+      "latitude": 38.024311,
+      "longitude": 23.734357
+    },
+    {
+      "name": "Κουβαράς Κωνσταντινος",
+      "latitude": 38.573859,
+      "longitude": 21.666983
+    },
+    {
+      "name": "Κουκουλαρης",
+      "latitude": 38.045292,
+      "longitude": 23.751335
+    },
+    {
+      "name": "Κουκουνάρης",
+      "latitude": 38.032366,
+      "longitude": 23.759927
+    },
+    {
+      "name": "ΚΟΥΤΟΥΖΗΣ",
+      "latitude": 36.889068,
+      "longitude": 27.292726
+    },
+    {
+      "name": "Κρανάς Ηλίας",
+      "latitude": 37.888227,
+      "longitude": 23.769486
+    },
+    {
+      "name": "Κρινος Αθανασιος",
+      "latitude": 37.443732,
+      "longitude": 24.94341
+    },
+    {
+      "name": "ΚΡΙΤΩ",
+      "latitude": 36.447245,
+      "longitude": 28.216131
+    },
+    {
+      "name": "Κροντηρά Χαρίκλεια",
+      "latitude": 38.245221,
+      "longitude": 21.737034
+    },
+    {
+      "name": "Κυριακή Παλτατζίδου",
+      "latitude": 37.953602,
+      "longitude": 23.704769
+    },
+    {
+      "name": "Κυριακοπούλου Δήμητρα",
+      "latitude": 37.635022,
+      "longitude": 22.729672
+    },
+    {
+      "name": "Κωνσταντίνα Α. Παπαλεξοπούλου",
+      "latitude": 38.031566,
+      "longitude": 23.737001
+    },
+    {
+      "name": "Κωνσταντίνα Ι. Αντωνοπούλου",
+      "latitude": 37.940265,
+      "longitude": 23.749983
+    },
+    {
+      "name": "Κωνσταντίνος Αυγίκος",
+      "latitude": 40.519391,
+      "longitude": 21.255845
+    },
+    {
+      "name": "Κωνσταντίνος Ι. Δασκολιάς",
+      "latitude": 38.010862,
+      "longitude": 23.690937
+    },
+    {
+      "name": "Κωνσταντίνος Ι. Οικονομάκης",
+      "latitude": 37.940105,
+      "longitude": 22.932477
+    },
+    {
+      "name": "Κωνσταντίνος Μηλεούνης",
+      "latitude": 37.926977,
+      "longitude": 23.692135
+    },
+    {
+      "name": "Κωνσταντίνος Στεφανής",
+      "latitude": 40.748932,
+      "longitude": 23.06372
+    },
+    {
+      "name": "Κωνσταντινος Θ. Σαμαντας",
+      "latitude": 37.483632,
+      "longitude": 21.904132
+    },
+    {
+      "name": "ΚΩΝΣΤΑΝΤΙΝΟΣ Σ ΣΚΑΓΙΑΣ (ορθοπεδικός)",
+      "latitude": 38.001932,
+      "longitude": 23.71417
+    },
+    {
+      "name": "Κωστής Θεόδωρος",
+      "latitude": 38.026158,
+      "longitude": 23.721952
+    },
+    {
+      "name": "Κωστής Κ. Τσαρπαλής",
+      "latitude": 38.011371,
+      "longitude": 23.822752
+    },
+    {
+      "name": "Κόμαρης Στέργιος",
+      "latitude": 40.662103,
+      "longitude": 22.928491
+    },
+    {
+      "name": "Κότσαλος Β. Ανδρέας",
+      "latitude": 38.241839,
+      "longitude": 21.735433
+    },
+    {
+      "name": "Κώστας Λαζαρίδης",
+      "latitude": 39.987985,
+      "longitude": 23.614765
+    },
+    {
+      "name": "Λάμπρος Γιαννίκος",
+      "latitude": 37.983404,
+      "longitude": 23.75885
+    },
+    {
+      "name": "Λίλος",
+      "latitude": 41.259926,
+      "longitude": 22.999151
+    },
+    {
+      "name": "Λίτσας Ιωάννης",
+      "latitude": 40.655435,
+      "longitude": 22.923635
+    },
+    {
+      "name": "Λαμπράκης Γιώργος",
+      "latitude": 39.666573,
+      "longitude": 20.851508
+    },
+    {
+      "name": "Λαμπρινάκος",
+      "latitude": 37.931691,
+      "longitude": 23.634222
+    },
+    {
+      "name": "Λιθοξόπουλος Αναστάσιος",
+      "latitude": 40.606509,
+      "longitude": 22.967712
+    },
+    {
+      "name": "Λογοθεραπεύτρια",
+      "latitude": 40.525168,
+      "longitude": 23.048665
+    },
+    {
+      "name": "Λυγερός Σπύρος",
+      "latitude": 38.247051,
+      "longitude": 21.733951
+    },
+    {
+      "name": "Λυκούρα Χρύσα",
+      "latitude": 38.013329,
+      "longitude": 23.818609
+    },
+    {
+      "name": "Λυμπερόπουλος Γιώργος - Διαγνωστικό Κέντρο Ανδρικής Γονιμότητας",
+      "latitude": 37.989325,
+      "longitude": 23.764569
+    },
+    {
+      "name": "Λυσίτσας Δημήτρης, Αρρυθμιολογικό Καρδιολογικό Κέντρο",
+      "latitude": 40.589828,
+      "longitude": 23.037064
+    },
+    {
+      "name": "Λόγος Ψυχής",
+      "latitude": 38.034002,
+      "longitude": 23.738453
+    },
+    {
+      "name": "Μάλτας",
+      "latitude": 40.652956,
+      "longitude": 22.92215
+    },
+    {
+      "name": "Μάριος Ι. Σταυρόπουλος",
+      "latitude": 38.031625,
+      "longitude": 23.737002
+    },
+    {
+      "name": "Μαίρη Παντζουράνη",
+      "latitude": 38.043782,
+      "longitude": 23.752896
+    },
+    {
+      "name": "Μαγνητική Τομογραφία Αμπατζής",
+      "latitude": 39.104978,
+      "longitude": 26.55126
+    },
+    {
+      "name": "Μαγριπλή Χρυσάνθη",
+      "latitude": 40.612201,
+      "longitude": 23.098727
+    },
+    {
+      "name": "Μαιευτήρας-Γυναικολόγος (Καλιαντζής Παναγιώτης)",
+      "latitude": 37.984588,
+      "longitude": 23.761312
+    },
+    {
+      "name": "ΜΑΙΕΥΤΗΡΑΣ ΓΥΝΑΙΚΟΛΟΓΟΣ",
+      "latitude": 37.961737,
+      "longitude": 23.657161
+    },
+    {
+      "name": "Μαιευτικό - Γυναικολογικό Οφθαλμολογικό",
+      "latitude": 40.659537,
+      "longitude": 22.976053
+    },
+    {
+      "name": "Μακρής Νικόλαος",
+      "latitude": 38.246457,
+      "longitude": 21.73612
+    },
+    {
+      "name": "Μακρυνορη Ελενη",
+      "latitude": 38.018371,
+      "longitude": 24.002473
+    },
+    {
+      "name": "ΜΑΛΙΑΡΟΥ ΚΑΡΔ",
+      "latitude": 39.10483,
+      "longitude": 26.550988
+    },
+    {
+      "name": "Μαρία Αθ. Χρήστου",
+      "latitude": 38.001886,
+      "longitude": 23.790622
+    },
+    {
+      "name": "Μαρία Κοντζήλα",
+      "latitude": 38.021426,
+      "longitude": 23.82034
+    },
+    {
+      "name": "Μαρία Μεράντζα, MSc",
+      "latitude": 38.012595,
+      "longitude": 23.817822
+    },
+    {
+      "name": "Μαρία-Μυρτώ Γρίβα",
+      "latitude": 40.636919,
+      "longitude": 22.943207
+    },
+    {
+      "name": "Μαρια Δ. Δημητροπούλου",
+      "latitude": 37.960041,
+      "longitude": 23.736343
+    },
+    {
+      "name": "ΜΑΡΙΑ Ε. ΠΑΠΑΔΑΚΗ",
+      "latitude": 35.338481,
+      "longitude": 25.135491
+    },
+    {
+      "name": "ΜΑΡΙΑ ΠΑΠΑΔΑΚΗ ΓΝΑΘΟΧΕΙΡΟΥΡΓΟΣ",
+      "latitude": 35.332581,
+      "longitude": 25.136294
+    },
+    {
+      "name": "ΜΑΡΚΟΣ Δ. ΚΑΠΙΡΗΣ",
+      "latitude": 38.022263,
+      "longitude": 23.750077
+    },
+    {
+      "name": "Μαυρομάτη Εύα",
+      "latitude": 38.245606,
+      "longitude": 21.73516
+    },
+    {
+      "name": "Μελετλίδου Ευθυμία",
+      "latitude": 40.610374,
+      "longitude": 23.100023
+    },
+    {
+      "name": "ΜΙΚΡΟΒΙΟΛΟΓΙΚΟ και ΚΑΡΔΙΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ",
+      "latitude": 38.163881,
+      "longitude": 21.66939
+    },
+    {
+      "name": "Μικροβιολογικό",
+      "latitude": 38.765316,
+      "longitude": 23.320546
+    },
+    {
+      "name": "Μικροβιολογικό Εργαστήριο",
+      "latitude": 38.015746,
+      "longitude": 23.834344
+    },
+    {
+      "name": "Μικροβιολογικό Πάνου Μαρία",
+      "latitude": 40.894739,
+      "longitude": 26.171297
+    },
+    {
+      "name": "Μικροβιολόγος",
+      "latitude": 38.016637,
+      "longitude": 23.860118
+    },
+    {
+      "name": "Μιχαήλ Α. Ξυντάρης",
+      "latitude": 37.949458,
+      "longitude": 23.736074
+    },
+    {
+      "name": "Μιχαήλ Β. Παπαβασιλείου",
+      "latitude": 38.030214,
+      "longitude": 23.779372
+    },
+    {
+      "name": "Μιχαηλίδης Εμμανουήλ",
+      "latitude": 37.977901,
+      "longitude": 23.637009
+    },
+    {
+      "name": "ΜΟΥΣΤΑΦΑ ΜΟΥΣΤΑΦΑ ΟΔΟΝΤΙΑΤΡΟΣ",
+      "latitude": 40.854722,
+      "longitude": 25.745141
+    },
+    {
+      "name": "Μπέης Σ. Γεώργιος",
+      "latitude": 37.517908,
+      "longitude": 22.857708
+    },
+    {
+      "name": "Μπέσκος Χρ. Γεώργιος",
+      "latitude": 38.247621,
+      "longitude": 21.737352
+    },
+    {
+      "name": "Μπίνας Αθανάσιος",
+      "latitude": 40.648134,
+      "longitude": 22.928499
+    },
+    {
+      "name": "Μπαλτζής Κωνσταντίνος",
+      "latitude": 40.399918,
+      "longitude": 23.876497
+    },
+    {
+      "name": "Μπαρλίγκα Σπυριδούλα",
+      "latitude": 38.242913,
+      "longitude": 21.733632
+    },
+    {
+      "name": "Μπασονίδης",
+      "latitude": 40.653197,
+      "longitude": 22.921726
+    },
+    {
+      "name": "Μπαστάκης Εμμανουήλ",
+      "latitude": 35.193684,
+      "longitude": 25.711999
+    },
+    {
+      "name": "Μπουγιουκλής Πέτρος - Παιδίατρος",
+      "latitude": 40.676058,
+      "longitude": 22.919414
+    },
+    {
+      "name": "Μπουρλέκας Αθανάσιος",
+      "latitude": 37.959462,
+      "longitude": 23.63476
+    },
+    {
+      "name": "Μπούκιου Ε.",
+      "latitude": 38.014165,
+      "longitude": 23.819602
+    },
+    {
+      "name": "Μπόγλου Παναγιώτης, Πνευμονολόγος - Φυματιολόγος",
+      "latitude": 40.844773,
+      "longitude": 25.875478
+    },
+    {
+      "name": "Μπύρος",
+      "latitude": 40.66095,
+      "longitude": 22.935191
+    },
+    {
+      "name": "Μυλωνάς Δ. Δημήτριος MD, PhD - Ορθοπαιδικός",
+      "latitude": 37.674373,
+      "longitude": 21.436308
+    },
+    {
+      "name": "Μωραΐτης",
+      "latitude": 40.501981,
+      "longitude": 22.541922
+    },
+    {
+      "name": "Μωραΐτης Νικόλαος",
+      "latitude": 40.633757,
+      "longitude": 22.943552
+    },
+    {
+      "name": "Νέλλη Παππά",
+      "latitude": 38.01332,
+      "longitude": 23.818569
+    },
+    {
+      "name": "Νήμα Center",
+      "latitude": 39.637299,
+      "longitude": 22.412264
+    },
+    {
+      "name": "Νίκη Μακρυγιώργου",
+      "latitude": 38.832583,
+      "longitude": 20.707316
+    },
+    {
+      "name": "Νίκος Βαράκης",
+      "latitude": 35.366162,
+      "longitude": 24.478478
+    },
+    {
+      "name": "Νίκος Κόγκας",
+      "latitude": 37.932945,
+      "longitude": 23.728349
+    },
+    {
+      "name": "Νευροδιαγνωστική",
+      "latitude": 37.987169,
+      "longitude": 23.760242
+    },
+    {
+      "name": "Νευρολόγος",
+      "latitude": 40.659643,
+      "longitude": 22.972794
+    },
+    {
+      "name": "Νεφρολόγος Μιχαλόπουλος Απόστολος",
+      "latitude": 41.088719,
+      "longitude": 23.549556
+    },
+    {
+      "name": "Νεφρολόγος Μιχαλόπουλος Απόστολος",
+      "latitude": 41.181922,
+      "longitude": 23.285558
+    },
+    {
+      "name": "Νικολέττα Παπαδάτου",
+      "latitude": 38.031632,
+      "longitude": 23.707313
+    },
+    {
+      "name": "Νικολινάκος Παναγιώτης - Παθολόγος",
+      "latitude": 36.803631,
+      "longitude": 22.852061
+    },
+    {
+      "name": "Νικόλαος Α. Τριαρίδης",
+      "latitude": 38.004578,
+      "longitude": 23.803456
+    },
+    {
+      "name": "Νικόλαος Λαγογιάννης",
+      "latitude": 37.948412,
+      "longitude": 23.688073
+    },
+    {
+      "name": "Νικόλαος Παρζακώνης",
+      "latitude": 38.014043,
+      "longitude": 23.819941
+    },
+    {
+      "name": "Νικόλαος Πολίτης",
+      "latitude": 39.421622,
+      "longitude": 20.057437
+    },
+    {
+      "name": "Νικόλαος Σ. Κολοκύθας",
+      "latitude": 37.960066,
+      "longitude": 23.736302
+    },
+    {
+      "name": "Νικόλαος Τσαρδάκης",
+      "latitude": 40.273861,
+      "longitude": 22.5068
+    },
+    {
+      "name": "Ντάλφος Ανδρέας",
+      "latitude": 40.520227,
+      "longitude": 21.256878
+    },
+    {
+      "name": "Ντούπης Ιωάννης",
+      "latitude": 37.977849,
+      "longitude": 23.641737
+    },
+    {
+      "name": "Ξ. Π. Γιακουμή",
+      "latitude": 37.936096,
+      "longitude": 23.764418
+    },
+    {
+      "name": "οδοντιατρείο",
+      "latitude": 38.017862,
+      "longitude": 23.860215
+    },
+    {
+      "name": "ΟΛΓΑ Γ. ΠΑΝΙΤΣΑ",
+      "latitude": 37.990223,
+      "longitude": 23.758533
+    },
+    {
+      "name": "ΟΡΕΣΤΗΣ ΓΡΙΒΑΣ",
+      "latitude": 39.989895,
+      "longitude": 22.626593
+    },
+    {
+      "name": "ΟΡΘΟΠΑΙΔΙΚΟ ΙΑΤΡΕΙΟ",
+      "latitude": 38.131919,
+      "longitude": 23.859399
+    },
+    {
+      "name": "ΟΡΘΟΠΑΙΔΙΚΟ ΙΑΤΡΕΙΟ ΠΕΡΤΣΕΜΛΙΔΗ ΔΗΜΟΣΘΕΝΗ",
+      "latitude": 37.037981,
+      "longitude": 22.110711
+    },
+    {
+      "name": "Ορθοπαιδικός ενηλίκων - παίδων",
+      "latitude": 40.524096,
+      "longitude": 22.204588
+    },
+    {
+      "name": "Ορθοπεδικα & Ιατρικα Ειδη",
+      "latitude": 40.685913,
+      "longitude": 22.857377
+    },
+    {
+      "name": "ΟΡΘΟΠΕΔΙΚΟ ΙΑΤΡΕΙΟ",
+      "latitude": 37.961712,
+      "longitude": 23.657189
+    },
+    {
+      "name": "Ορθοπεδικό ιατρείο Ε. Μητροπούλου",
+      "latitude": 37.930909,
+      "longitude": 23.695751
+    },
+    {
+      "name": "Ουρανία Πατεράκη",
+      "latitude": 35.007633,
+      "longitude": 25.737115
+    },
+    {
+      "name": "ΟΥΡΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ",
+      "latitude": 37.961773,
+      "longitude": 23.657185
+    },
+    {
+      "name": "Οφθαλμίατρος",
+      "latitude": 39.361309,
+      "longitude": 22.949211
+    },
+    {
+      "name": "Οφθαλμίατρος Αντ.Κοτζάμπασης",
+      "latitude": 38.466008,
+      "longitude": 23.594484
+    },
+    {
+      "name": "ΟΦΘΑΛΜΙΑΤΡΟΣ-ΠΑΘΟΛΟΓΟΣ",
+      "latitude": 41.259446,
+      "longitude": 23.003695
+    },
+    {
+      "name": "ΟΦΘΑΛΜΟΛΟΓΙΚΟ ΙΑΤΡΕΙΟ",
+      "latitude": 38.136506,
+      "longitude": 23.856168
+    },
+    {
+      "name": "Οφθαλμολογικό Ιατρείο ΧΡΙΣΤΟΔΟΥΛΙΔΗ ΜΙΧΑΗΛ",
+      "latitude": 38.002891,
+      "longitude": 23.792841
+    },
+    {
+      "name": "Π Ι ΛΟΥΤΣΙΟΥ",
+      "latitude": 38.553993,
+      "longitude": 23.08231
+    },
+    {
+      "name": "Π. Αποστολίδης",
+      "latitude": 40.669468,
+      "longitude": 22.909781
+    },
+    {
+      "name": "Πlaton Δiagnosis",
+      "latitude": 37.864979,
+      "longitude": 23.748748
+    },
+    {
+      "name": "Πάρις Τυμπαλδός",
+      "latitude": 38.028006,
+      "longitude": 23.751039
+    },
+    {
+      "name": "Πέτρος Πανάγος",
+      "latitude": 37.934479,
+      "longitude": 23.6309
+    },
+    {
+      "name": "Παθολογικό",
+      "latitude": 40.659557,
+      "longitude": 22.975984
+    },
+    {
+      "name": "Παθολογικό Ιατρείο - Κωνσταντίνος Κουτσουφλιανιώτης",
+      "latitude": 40.612155,
+      "longitude": 22.960405
+    },
+    {
+      "name": "παθολόγος",
+      "latitude": 37.929384,
+      "longitude": 23.754794
+    },
+    {
+      "name": "Παθολόγος",
+      "latitude": 40.634897,
+      "longitude": 22.945181
+    },
+    {
+      "name": "Παθολόγος",
+      "latitude": 40.646479,
+      "longitude": 22.948503
+    },
+    {
+      "name": "Παθολόγος Σερετόπουλος Δημήτριος",
+      "latitude": 40.63883,
+      "longitude": 22.941861
+    },
+    {
+      "name": "Παιδίατρος",
+      "latitude": 37.885462,
+      "longitude": 23.937817
+    },
+    {
+      "name": "Παιδίατρος",
+      "latitude": 39.895156,
+      "longitude": 22.190305
+    },
+    {
+      "name": "Παιδιατρος",
+      "latitude": 40.663962,
+      "longitude": 23.699147
+    },
+    {
+      "name": "ΠΑΙΔΙΑΤΡΟΣ ΦΙΤΣΙΟΥ ΕΥΡΥΔΙΚΗ",
+      "latitude": 38.029376,
+      "longitude": 23.748279
+    },
+    {
+      "name": "Παιδικά Χωριά SOS",
+      "latitude": 39.101655,
+      "longitude": 26.554867
+    },
+    {
+      "name": "Παιδοακτινολόγος Μιχαλάκου Μαρία",
+      "latitude": 37.941558,
+      "longitude": 23.649917
+    },
+    {
+      "name": "Παιδοκαρδιολόγος Λιάνα Βογιατζή",
+      "latitude": 40.603184,
+      "longitude": 22.966868
+    },
+    {
+      "name": "Παναγάρης",
+      "latitude": 40.652135,
+      "longitude": 22.922544
+    },
+    {
+      "name": "Παναγιώτα Μ. Χαιρά-Σουφλή",
+      "latitude": 38.013206,
+      "longitude": 23.818076
+    },
+    {
+      "name": "Παναρέτου Ελίνα",
+      "latitude": 38.24776,
+      "longitude": 21.737485
+    },
+    {
+      "name": "ΠΑΝΕΛΙΔΗΣ ΠΑΝΤΕΛΕΗΜΩΝ",
+      "latitude": 37.977091,
+      "longitude": 24.006445
+    },
+    {
+      "name": "Παντελής Α. Τσιμαρης",
+      "latitude": 38.084775,
+      "longitude": 23.735652
+    },
+    {
+      "name": "Παντελής Α. Τσιμαρης",
+      "latitude": 38.10034,
+      "longitude": 23.81163
+    },
+    {
+      "name": "Παπαγεωργίου Ευφροσύνη",
+      "latitude": 37.959462,
+      "longitude": 23.634784
+    },
+    {
+      "name": "Παπαδόπουλος Γ. Αλέξανδρος",
+      "latitude": 40.669144,
+      "longitude": 22.909777
+    },
+    {
+      "name": "Παπανικολάου Δ. Νικόλαος",
+      "latitude": 37.633302,
+      "longitude": 22.729207
+    },
+    {
+      "name": "Παπασάββας Γεώργιος",
+      "latitude": 36.432057,
+      "longitude": 28.223185
+    },
+    {
+      "name": "ΠΑΠΛΑΣ",
+      "latitude": 41.25985,
+      "longitude": 22.999786
+    },
+    {
+      "name": "Παρασκευόπουλος Α. Κωνσταντίνος",
+      "latitude": 38.027885,
+      "longitude": 23.716571
+    },
+    {
+      "name": "Παργιανάς",
+      "latitude": 40.65325,
+      "longitude": 22.921682
+    },
+    {
+      "name": "Πασσάς Βασίλειος",
+      "latitude": 38.245869,
+      "longitude": 21.736348
+    },
+    {
+      "name": "ΠΕΔΥ ΜΥ ΔΡΑΜΑΣ",
+      "latitude": 41.15165,
+      "longitude": 24.1481
+    },
+    {
+      "name": "Πελεγίδου",
+      "latitude": 40.653261,
+      "longitude": 22.921573
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Αγίου Γεωργίου",
+      "latitude": 38.943917,
+      "longitude": 21.960208
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Αδάμαντα",
+      "latitude": 36.725949,
+      "longitude": 24.448583
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Αυλών",
+      "latitude": 40.17739,
+      "longitude": 21.961061
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Βερδικούσας",
+      "latitude": 39.780698,
+      "longitude": 21.977324
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Καλάμου",
+      "latitude": 38.284632,
+      "longitude": 23.863921
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Καταρράκτη",
+      "latitude": 39.449943,
+      "longitude": 21.10334
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Κομποτάδων",
+      "latitude": 38.869941,
+      "longitude": 22.347497
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Λίμνης",
+      "latitude": 38.764325,
+      "longitude": 23.322855
+    },
+    {
+      "name": "Περιφερειακό ιατρείο Μαρμαριου",
+      "latitude": 38.048156,
+      "longitude": 24.32103
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Νέας Ποτίδαιας",
+      "latitude": 40.193581,
+      "longitude": 23.32778
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Παύλου",
+      "latitude": 38.531247,
+      "longitude": 23.093718
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Πελασγίας",
+      "latitude": 38.944554,
+      "longitude": 22.838132
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Πύργου Τήνου",
+      "latitude": 37.639076,
+      "longitude": 25.04156
+    },
+    {
+      "name": "Περιφερειακό Ιατρείο Φιλύρας",
+      "latitude": 41.122506,
+      "longitude": 25.63135
+    },
+    {
+      "name": "Περιφεριακό Ιατρείο Αντίκυρας",
+      "latitude": 38.376628,
+      "longitude": 22.629577
+    },
+    {
+      "name": "Περιφεριακό ιατρείο Βαμβακούς",
+      "latitude": 39.338157,
+      "longitude": 22.418769
+    },
+    {
+      "name": "Περιφεριακό Ιατρείο Ζίτσας",
+      "latitude": 39.751569,
+      "longitude": 20.64892
+    },
+    {
+      "name": "Περτσεμλίδης Δημοσθένης",
+      "latitude": 37.987274,
+      "longitude": 23.762436
+    },
+    {
+      "name": "Πετράκη Μαρίκα (παιδίατρος)",
+      "latitude": 38.038264,
+      "longitude": 23.691803
+    },
+    {
+      "name": "Πετράς Χαράλαμπος",
+      "latitude": 37.969548,
+      "longitude": 23.645456
+    },
+    {
+      "name": "Πετρακοπούλου Πηνελόπη",
+      "latitude": 37.977849,
+      "longitude": 23.641981
+    },
+    {
+      "name": "Πιττάουλη Κατερίνα",
+      "latitude": 40.655481,
+      "longitude": 22.923652
+    },
+    {
+      "name": "Ποδότα Ελευθερία",
+      "latitude": 37.971922,
+      "longitude": 23.654123
+    },
+    {
+      "name": "Πολυδύναμο Περιφερειακό Ιατρείο Δρυοπίδας",
+      "latitude": 37.384022,
+      "longitude": 24.428495
+    },
+    {
+      "name": "Πολυδύναμο Περιφερειακό Ιατρείο Στύρων",
+      "latitude": 38.155503,
+      "longitude": 24.240506
+    },
+    {
+      "name": "Πολυιατρεία Συλλόγου Προσωπικού Alpha Bank",
+      "latitude": 37.982211,
+      "longitude": 23.730086
+    },
+    {
+      "name": "Πολυιατρείο Αττικής",
+      "latitude": 37.983947,
+      "longitude": 23.73539
+    },
+    {
+      "name": "Πράξις Υγείας",
+      "latitude": 38.018114,
+      "longitude": 23.802269
+    },
+    {
+      "name": "ΠΡΟΤΟΒΑΘΜΙΟ ΔΙΑΓΝΩΣΤΙΚΟ & ΘΕΡΑΠΕΥΤΙΚΟ ΙΑΤΡΙΚΟ ΚΕΝΤΡΟ",
+      "latitude": 37.875264,
+      "longitude": 23.932335
+    },
+    {
+      "name": "Πρότυπο Ουρολογικό & Ανδρολογικό Κέντρο",
+      "latitude": 38.002835,
+      "longitude": 23.79252
+    },
+    {
+      "name": "Πρότυπο Ουρολογικό Ιατρείο",
+      "latitude": 39.366149,
+      "longitude": 21.925361
+    },
+    {
+      "name": "Πρότυπο Ουρολογικό Ιατρείο",
+      "latitude": 39.668784,
+      "longitude": 20.849944
+    },
+    {
+      "name": "Ράμμος Γεώργιος",
+      "latitude": 37.949011,
+      "longitude": 23.740706
+    },
+    {
+      "name": "Ρευματολόγος Μαρία Βούλγαρη",
+      "latitude": 38.02816,
+      "longitude": 23.861544
+    },
+    {
+      "name": "Ρηγάκος Γιώργος (Ογκολόγος-Παθολόγος)",
+      "latitude": 38.030627,
+      "longitude": 23.79316
+    },
+    {
+      "name": "ΡΟΔΗΣ Δ. ΠΑΠΑΡΩΔΗΣ",
+      "latitude": 38.245721,
+      "longitude": 21.735909
+    },
+    {
+      "name": "Ρόππα Μαριτίνα",
+      "latitude": 37.980989,
+      "longitude": 23.640057
+    },
+    {
+      "name": "Σ. Σακελλαρίου (παιδίατρος)",
+      "latitude": 37.879449,
+      "longitude": 23.760541
+    },
+    {
+      "name": "ΣΑΚΑΡΕΛΛΟΣ ΔΙΑΓΝΩΣΤΙΚΟ ΚΕΝΤΡΟ",
+      "latitude": 38.134077,
+      "longitude": 23.858795
+    },
+    {
+      "name": "Σαμιωτάκη Α.",
+      "latitude": 40.66945,
+      "longitude": 22.909778
+    },
+    {
+      "name": "Σαπουνά Κωνσταντία",
+      "latitude": 38.080024,
+      "longitude": 23.702626
+    },
+    {
+      "name": "Σαρδελή Ολυμπία",
+      "latitude": 38.017689,
+      "longitude": 23.67287
+    },
+    {
+      "name": "Σιδέρης Σωτήριος",
+      "latitude": 38.027531,
+      "longitude": 23.724494
+    },
+    {
+      "name": "Σιδηρόπουλος",
+      "latitude": 40.659575,
+      "longitude": 22.932237
+    },
+    {
+      "name": "Σκλάβαινας Γιάννης",
+      "latitude": 38.00035,
+      "longitude": 23.415827
+    },
+    {
+      "name": "ΣΜΑΡΑΓΔΑΚΙΣ",
+      "latitude": 35.050082,
+      "longitude": 24.877097
+    },
+    {
+      "name": "Σουρίδης Βασίλειος",
+      "latitude": 38.01348,
+      "longitude": 23.648228
+    },
+    {
+      "name": "Σοφία Κοντόση",
+      "latitude": 38.972687,
+      "longitude": 21.330036
+    },
+    {
+      "name": "Σπανού Αγγελική",
+      "latitude": 38.039487,
+      "longitude": 23.827537
+    },
+    {
+      "name": "Σπηλιωτόπουλος Κωνσταντίνος",
+      "latitude": 38.241879,
+      "longitude": 21.735356
+    },
+    {
+      "name": "ΣΠΥΡΟΠΟΥΛΟΥ ΙΩΑΝΝΑ",
+      "latitude": 38.243701,
+      "longitude": 21.734772
+    },
+    {
+      "name": "Στέφανος Δόκας",
+      "latitude": 40.634162,
+      "longitude": 22.947971
+    },
+    {
+      "name": "ΣΤΑΘΜΟΣ ΠΡΟΣΤΑΣΙΑΣ ΜΑΝΑΣ, ΠΑΙΔΙΟΥ & ΕΦΗΒΟΥ ΝΕΑΣ ΙΩΝΙΑΣ",
+      "latitude": 38.043805,
+      "longitude": 23.760038
+    },
+    {
+      "name": "Σταμάτης Αβράμης",
+      "latitude": 38.078046,
+      "longitude": 23.702814
+    },
+    {
+      "name": "Σταυρούλα Γεωργακοπούλου",
+      "latitude": 38.028292,
+      "longitude": 23.722677
+    },
+    {
+      "name": "Σταυρούλα Παπαδοπούλου",
+      "latitude": 38.249408,
+      "longitude": 21.736989
+    },
+    {
+      "name": "Στεργίου Σωτήριος",
+      "latitude": 40.640927,
+      "longitude": 22.940012
+    },
+    {
+      "name": "Στράτος Ε. Πανσελήνας",
+      "latitude": 37.989731,
+      "longitude": 23.745305
+    },
+    {
+      "name": "Συμεων Δημ. Σπυρου",
+      "latitude": 40.521626,
+      "longitude": 21.259963
+    },
+    {
+      "name": "Συρράκου Ευγενία",
+      "latitude": 37.949881,
+      "longitude": 23.736574
+    },
+    {
+      "name": "Σωτήριος Ι. Σουφλής",
+      "latitude": 38.013229,
+      "longitude": 23.818164
+    },
+    {
+      "name": "ΤΑΒΕΡΝΑΡΑΚΗΣ ΙΩΑΝΝΗΣ",
+      "latitude": 38.260936,
+      "longitude": 21.7428
+    },
+    {
+      "name": "ΤΟΜΟΓΡΑΦΙΑ ΑΕ",
+      "latitude": 40.628289,
+      "longitude": 22.946643
+    },
+    {
+      "name": "Τοπικό Ιατρείο Λένορμαν",
+      "latitude": 37.996599,
+      "longitude": 23.71165
+    },
+    {
+      "name": "Τοπικό Ιατρείο Ν.Σμύρνης",
+      "latitude": 37.947647,
+      "longitude": 23.712081
+    },
+    {
+      "name": "Τοπικό Ιατρείο Περισσού",
+      "latitude": 38.030637,
+      "longitude": 23.749775
+    },
+    {
+      "name": "Τριανταφυλλίδης",
+      "latitude": 40.653034,
+      "longitude": 22.922113
+    },
+    {
+      "name": "Τσάτσαρης Κωνσταντίνος Χ. Δερματολόγος-Αφροδισιολόγος",
+      "latitude": 40.239003,
+      "longitude": 23.288371
+    },
+    {
+      "name": "Τσιαντάς Γεώργιος",
+      "latitude": 40.731071,
+      "longitude": 22.916859
+    },
+    {
+      "name": "Τσολαρίδης Παύλος",
+      "latitude": 37.987347,
+      "longitude": 23.758043
+    },
+    {
+      "name": "Τυρμπάς Ιωάννης",
+      "latitude": 37.976601,
+      "longitude": 23.651329
+    },
+    {
+      "name": "Υγεία Ιατρική Απεικόνιση",
+      "latitude": 39.642676,
+      "longitude": 22.419669
+    },
+    {
+      "name": "Φανή Νικολοπούλου",
+      "latitude": 37.906582,
+      "longitude": 23.753133
+    },
+    {
+      "name": "Φιρινίδης",
+      "latitude": 40.653175,
+      "longitude": 22.921821
+    },
+    {
+      "name": "Φυσικοθεραπεία",
+      "latitude": 38.017913,
+      "longitude": 23.860179
+    },
+    {
+      "name": "Φυσικοθεραπεία",
+      "latitude": 38.255045,
+      "longitude": 21.740839
+    },
+    {
+      "name": "ΦΥΣΙΚΟΘΕΡΑΠΕΥΤΗΡΙΟ",
+      "latitude": 37.794231,
+      "longitude": 26.701307
+    },
+    {
+      "name": "ΦΥΣΙΚΟΘΕΡΑΠΕΥΤΗΡΙΟ ΛΑΜΑΡΗ",
+      "latitude": 38.393701,
+      "longitude": 21.832761
+    },
+    {
+      "name": "Φυσιοθεραπευτής",
+      "latitude": 40.731647,
+      "longitude": 22.915504
+    },
+    {
+      "name": "Φωτιάδης Δημήτριος",
+      "latitude": 40.273514,
+      "longitude": 22.510053
+    },
+    {
+      "name": "Χ. Σπυρόπουλος",
+      "latitude": 38.022362,
+      "longitude": 23.800998
+    },
+    {
+      "name": "Χάρης Καραχριστιανίδης",
+      "latitude": 40.935853,
+      "longitude": 24.40782
+    },
+    {
+      "name": "Χάρης Λάμπρου",
+      "latitude": 38.039959,
+      "longitude": 23.751237
+    },
+    {
+      "name": "Χαράλαμπος Καρακύκλας",
+      "latitude": 37.288525,
+      "longitude": 21.818361
+    },
+    {
+      "name": "Χαρίλαος Ι. Γιαννούκας",
+      "latitude": 38.018412,
+      "longitude": 23.803585
+    },
+    {
+      "name": "Χαραλαμπία Β. Γελαδάρη",
+      "latitude": 38.031005,
+      "longitude": 23.705067
+    },
+    {
+      "name": "Χατζη",
+      "latitude": 38.474376,
+      "longitude": 23.583093
+    },
+    {
+      "name": "Χατζηβλάσιου",
+      "latitude": 40.65316,
+      "longitude": 22.921799
+    },
+    {
+      "name": "Χατζηκυριάκος Λάζαρος",
+      "latitude": 37.965436,
+      "longitude": 23.623337
+    },
+    {
+      "name": "Χειρούργος Ουρολόγος Ανδρολόγος",
+      "latitude": 38.008633,
+      "longitude": 23.859632
+    },
+    {
+      "name": "Χηρας",
+      "latitude": 39.641057,
+      "longitude": 20.863946
+    },
+    {
+      "name": "Χλιάπας",
+      "latitude": 40.300458,
+      "longitude": 21.79967
+    },
+    {
+      "name": "Χρήστος Κούτος",
+      "latitude": 38.258842,
+      "longitude": 21.741794
+    },
+    {
+      "name": "Χρήστος Μεγαπάνος MD",
+      "latitude": 38.012088,
+      "longitude": 23.838433
+    },
+    {
+      "name": "Χρήστος Ράμμος",
+      "latitude": 37.933903,
+      "longitude": 23.633366
+    },
+    {
+      "name": "Χριστίνα Γκετελμαν Καβουριδη Δερματολόγος Αφροδισιολόγος",
+      "latitude": 37.443309,
+      "longitude": 24.940961
+    },
+    {
+      "name": "Χριστίνα Καρίπη",
+      "latitude": 37.933205,
+      "longitude": 23.711163
+    },
+    {
+      "name": "Χριστίνα Μίκου",
+      "latitude": 38.079149,
+      "longitude": 23.701165
+    },
+    {
+      "name": "Χριστιάνα Ιωσηφίδη Δερματολόγος",
+      "latitude": 37.929387,
+      "longitude": 23.694285
+    },
+    {
+      "name": "Χριστόδουλος Ι. Χριστουλάκης",
+      "latitude": 38.028506,
+      "longitude": 23.717948
+    },
+    {
+      "name": "Χροναίου Αικατερίνη (ενδοκρινολόγος)",
+      "latitude": 38.001331,
+      "longitude": 23.780172
+    },
+    {
+      "name": "Χρυσούλα Ι. Κάντα",
+      "latitude": 39.421737,
+      "longitude": 20.060963
+    },
+    {
+      "name": "Ψυχολόγος - Σεξολόγος",
+      "latitude": 40.59745,
+      "longitude": 22.979339
+    },
+    {
+      "name": "Ωτορινολαρυγγολόγος",
+      "latitude": 40.632072,
+      "longitude": 22.947014
+    },
+    {
+      "name": "Ωτορινολαρυγγολόγος",
+      "latitude": 40.632531,
+      "longitude": 22.945402
+    },
+    {
+      "name": "Ωτορινολαρυγγολόγος",
+      "latitude": 40.632646,
+      "longitude": 22.946316
+    },
+    {
+      "name": "Όθων Π. Μιχαήλ",
+      "latitude": 37.953621,
+      "longitude": 23.704793
+    }
+  ],
+  "meta": {
+    "title": "Ιατρεία Ελλάδας - Δωρεάν λήψη",
+    "description": "Ιατρεία και ιατροί σε όλη την Ελλάδα από το OpenStreetMap. Doctors' offices across Greece. Περιέχει 645 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ιατρεία Ελλάδας | ListBase",
+    "seo_description": "Λήψη Ιατρεία Ελλάδας — 645 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 645 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

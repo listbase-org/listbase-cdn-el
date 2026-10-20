@@ -1,0 +1,1966 @@
+{
+  "id": "el-panoramikes-theseis",
+  "name": "Πανοραμικές θέσεις θέας στην Ελλάδα",
+  "title": "Πανοραμικές θέσεις θέας στην Ελλάδα",
+  "description": "Σημεία θέας στην Ελλάδα από δεδομένα OpenStreetMap (tourism=viewpoint). Όνομα και συντεταγμένες WGS84.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 385,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "'Gouves' point",
+      "latitude": 36.958311,
+      "longitude": 22.359733
+    },
+    {
+      "name": "3 windmills",
+      "latitude": 35.267253,
+      "longitude": 25.308095
+    },
+    {
+      "name": "42 Le Balcon",
+      "latitude": 38.555129,
+      "longitude": 23.984994
+    },
+    {
+      "name": "764m",
+      "latitude": 35.408029,
+      "longitude": 23.66064
+    },
+    {
+      "name": "Achladaki",
+      "latitude": 35.192557,
+      "longitude": 24.778242
+    },
+    {
+      "name": "Agathetes",
+      "latitude": 35.193875,
+      "longitude": 24.793066
+    },
+    {
+      "name": "Agia Sophia",
+      "latitude": 36.689716,
+      "longitude": 23.054687
+    },
+    {
+      "name": "Agios Dimitrios",
+      "latitude": 36.698805,
+      "longitude": 25.333613
+    },
+    {
+      "name": "Agios Georgios",
+      "latitude": 36.705163,
+      "longitude": 25.309378
+    },
+    {
+      "name": "Agnadi",
+      "latitude": 37.745304,
+      "longitude": 20.947056
+    },
+    {
+      "name": "Akrotiri Castle",
+      "latitude": 36.358245,
+      "longitude": 25.397209
+    },
+    {
+      "name": "Akrotiri Keriou",
+      "latitude": 37.655592,
+      "longitude": 20.803261
+    },
+    {
+      "name": "Alewrota",
+      "latitude": 35.029935,
+      "longitude": 24.789726
+    },
+    {
+      "name": "Ammoudi Coastline",
+      "latitude": 35.196801,
+      "longitude": 25.713758
+    },
+    {
+      "name": "ancient Agora Amfiklia",
+      "latitude": 38.642476,
+      "longitude": 22.581158
+    },
+    {
+      "name": "Antisamos view point",
+      "latitude": 38.26802,
+      "longitude": 20.67311
+    },
+    {
+      "name": "Arachthos Valley view",
+      "latitude": 39.521198,
+      "longitude": 21.01169
+    },
+    {
+      "name": "Arch of Hadrian",
+      "latitude": 37.970157,
+      "longitude": 23.732148
+    },
+    {
+      "name": "ASTERI",
+      "latitude": 37.885558,
+      "longitude": 20.677653
+    },
+    {
+      "name": "Balos beach trail",
+      "latitude": 35.582707,
+      "longitude": 23.594226
+    },
+    {
+      "name": "Balos View",
+      "latitude": 35.609183,
+      "longitude": 23.601166
+    },
+    {
+      "name": "Bella Vista",
+      "latitude": 39.679449,
+      "longitude": 19.699819
+    },
+    {
+      "name": "Bigla Gras",
+      "latitude": 35.058449,
+      "longitude": 25.975563
+    },
+    {
+      "name": "Birdwatching tower",
+      "latitude": 38.151615,
+      "longitude": 21.385722
+    },
+    {
+      "name": "Caldera view",
+      "latitude": 36.587984,
+      "longitude": 27.157677
+    },
+    {
+      "name": "Caldera view",
+      "latitude": 36.603071,
+      "longitude": 27.176984
+    },
+    {
+      "name": "Canon view",
+      "latitude": 36.723475,
+      "longitude": 25.382114
+    },
+    {
+      "name": "Cape Epanomi",
+      "latitude": 40.372744,
+      "longitude": 22.887508
+    },
+    {
+      "name": "Cape Kommeno",
+      "latitude": 39.66602,
+      "longitude": 19.86143
+    },
+    {
+      "name": "Cape Melissa",
+      "latitude": 35.10091,
+      "longitude": 24.558192
+    },
+    {
+      "name": "Chapel Pantokrator, mt. Stavros",
+      "latitude": 39.518479,
+      "longitude": 19.911772
+    },
+    {
+      "name": "Chora view trail split",
+      "latitude": 36.730967,
+      "longitude": 25.297671
+    },
+    {
+      "name": "City View",
+      "latitude": 37.972396,
+      "longitude": 23.723139
+    },
+    {
+      "name": "Cliff at the Water",
+      "latitude": 40.02124,
+      "longitude": 23.832906
+    },
+    {
+      "name": "Crossing Ridge Track 662m",
+      "latitude": 35.394987,
+      "longitude": 23.651242
+    },
+    {
+      "name": "Dergunov mountain",
+      "latitude": 37.64149,
+      "longitude": 22.965428
+    },
+    {
+      "name": "Diapla Viewpoint",
+      "latitude": 36.364351,
+      "longitude": 25.450783
+    },
+    {
+      "name": "Dog Rock",
+      "latitude": 40.019421,
+      "longitude": 24.011366
+    },
+    {
+      "name": "Drimonaki",
+      "latitude": 38.7744,
+      "longitude": 20.636288
+    },
+    {
+      "name": "Exit Imbros Gorge",
+      "latitude": 35.207829,
+      "longitude": 24.173377
+    },
+    {
+      "name": "Faros Viewpoint",
+      "latitude": 38.244712,
+      "longitude": 21.725448
+    },
+    {
+      "name": "Former Acropolis of Gortys",
+      "latitude": 35.064718,
+      "longitude": 24.943916
+    },
+    {
+      "name": "Fort high point",
+      "latitude": 38.383652,
+      "longitude": 20.534063
+    },
+    {
+      "name": "Fotopoint Lakki",
+      "latitude": 35.401626,
+      "longitude": 23.947056
+    },
+    {
+      "name": "Gorge View",
+      "latitude": 35.41155,
+      "longitude": 23.681497
+    },
+    {
+      "name": "Grimani bastion",
+      "latitude": 37.789035,
+      "longitude": 20.892838
+    },
+    {
+      "name": "H107",
+      "latitude": 35.518649,
+      "longitude": 23.83234
+    },
+    {
+      "name": "Imbros gorge",
+      "latitude": 35.246096,
+      "longitude": 24.166882
+    },
+    {
+      "name": "Ipapánti",
+      "latitude": 39.658721,
+      "longitude": 19.848561
+    },
+    {
+      "name": "Islet Agion Panton View",
+      "latitude": 35.196762,
+      "longitude": 25.713817
+    },
+    {
+      "name": "James Bond, For your eyes only",
+      "latitude": 39.716088,
+      "longitude": 21.63966
+    },
+    {
+      "name": "Kakos Potamos Kloof",
+      "latitude": 35.104543,
+      "longitude": 26.270889
+    },
+    {
+      "name": "Kalambaka valley viewpoint",
+      "latitude": 39.717936,
+      "longitude": 21.637543
+    },
+    {
+      "name": "Kalamos Monastiry view",
+      "latitude": 36.685649,
+      "longitude": 25.35104
+    },
+    {
+      "name": "Kalamos valley view",
+      "latitude": 36.701279,
+      "longitude": 25.351196
+    },
+    {
+      "name": "Kalamos view",
+      "latitude": 36.696501,
+      "longitude": 25.380944
+    },
+    {
+      "name": "Kastellou Charaki",
+      "latitude": 35.044408,
+      "longitude": 25.569805
+    },
+    {
+      "name": "Katakolon",
+      "latitude": 37.649351,
+      "longitude": 21.31449
+    },
+    {
+      "name": "Katakolon",
+      "latitude": 37.66022,
+      "longitude": 21.314654
+    },
+    {
+      "name": "Kefalos",
+      "latitude": 36.743521,
+      "longitude": 26.961515
+    },
+    {
+      "name": "Klima bay view",
+      "latitude": 36.689142,
+      "longitude": 25.313264
+    },
+    {
+      "name": "Klosterblick",
+      "latitude": 40.326482,
+      "longitude": 24.002855
+    },
+    {
+      "name": "Koútra",
+      "latitude": 39.374184,
+      "longitude": 23.18778
+    },
+    {
+      "name": "Kritinia Castle",
+      "latitude": 36.263994,
+      "longitude": 27.808724
+    },
+    {
+      "name": "Large Boulder",
+      "latitude": 39.714246,
+      "longitude": 21.632917
+    },
+    {
+      "name": "Lava rock formations",
+      "latitude": 39.99592,
+      "longitude": 25.238162
+    },
+    {
+      "name": "Lindos view",
+      "latitude": 36.100031,
+      "longitude": 28.080397
+    },
+    {
+      "name": "Lipsi 360",
+      "latitude": 37.298578,
+      "longitude": 26.776272
+    },
+    {
+      "name": "Little Xigia beach",
+      "latitude": 37.863863,
+      "longitude": 20.738762
+    },
+    {
+      "name": "Manari railway bridge (disused)",
+      "latitude": 37.408372,
+      "longitude": 22.311671
+    },
+    {
+      "name": "Manganari view",
+      "latitude": 36.667524,
+      "longitude": 25.370855
+    },
+    {
+      "name": "Melpo Axioti Statue",
+      "latitude": 37.445197,
+      "longitude": 25.326962
+    },
+    {
+      "name": "Micro Horio",
+      "latitude": 36.421725,
+      "longitude": 27.372202
+    },
+    {
+      "name": "Milia Plateau",
+      "latitude": 35.414887,
+      "longitude": 23.656253
+    },
+    {
+      "name": "Mizithres View",
+      "latitude": 37.654977,
+      "longitude": 20.807378
+    },
+    {
+      "name": "Mt. Didimo",
+      "latitude": 37.475901,
+      "longitude": 23.212802
+    },
+    {
+      "name": "Mylopotas view",
+      "latitude": 36.711624,
+      "longitude": 25.320857
+    },
+    {
+      "name": "Myrtos Beach viewpoint",
+      "latitude": 38.338005,
+      "longitude": 20.532928
+    },
+    {
+      "name": "Nami's Viewpoint",
+      "latitude": 38.384543,
+      "longitude": 23.924331
+    },
+    {
+      "name": "Nami's Viewpoint",
+      "latitude": 38.587966,
+      "longitude": 24.10805
+    },
+    {
+      "name": "Nea Kameni",
+      "latitude": 36.404592,
+      "longitude": 25.394959
+    },
+    {
+      "name": "Never bay",
+      "latitude": 36.652927,
+      "longitude": 25.383351
+    },
+    {
+      "name": "Overwiew of the Navagio beach",
+      "latitude": 37.864709,
+      "longitude": 20.624774
+    },
+    {
+      "name": "Pachnes Track",
+      "latitude": 35.290035,
+      "longitude": 24.069775
+    },
+    {
+      "name": "Palaios Panteleimonas viewpoint",
+      "latitude": 39.990774,
+      "longitude": 22.572015
+    },
+    {
+      "name": "Pallas",
+      "latitude": 40.509922,
+      "longitude": 22.209442
+    },
+    {
+      "name": "Panagia Kiras view",
+      "latitude": 36.583449,
+      "longitude": 27.193026
+    },
+    {
+      "name": "Panoramic point",
+      "latitude": 39.17634,
+      "longitude": 23.462792
+    },
+    {
+      "name": "Panoramic View",
+      "latitude": 38.146075,
+      "longitude": 23.246784
+    },
+    {
+      "name": "panoramic view",
+      "latitude": 38.465048,
+      "longitude": 23.585797
+    },
+    {
+      "name": "panoramic view",
+      "latitude": 38.773409,
+      "longitude": 22.756929
+    },
+    {
+      "name": "Panoramic view",
+      "latitude": 40.327472,
+      "longitude": 23.70628
+    },
+    {
+      "name": "Panoramic view",
+      "latitude": 41.278151,
+      "longitude": 23.167398
+    },
+    {
+      "name": "Panoramic view to Athos",
+      "latitude": 40.528839,
+      "longitude": 23.748449
+    },
+    {
+      "name": "Panoramic view to Molyvos",
+      "latitude": 39.351713,
+      "longitude": 26.173841
+    },
+    {
+      "name": "Paralia Mitikas",
+      "latitude": 36.742174,
+      "longitude": 24.476866
+    },
+    {
+      "name": "Parking facing the Poseidon Temple",
+      "latitude": 37.656393,
+      "longitude": 24.013872
+    },
+    {
+      "name": "Patras castle view",
+      "latitude": 38.249241,
+      "longitude": 21.741461
+    },
+    {
+      "name": "Patras Marina Boulders Sea View",
+      "latitude": 38.264411,
+      "longitude": 21.73776
+    },
+    {
+      "name": "Pefkochori antenna viewpoint",
+      "latitude": 39.982943,
+      "longitude": 23.596141
+    },
+    {
+      "name": "Pink Flamingo Watch Kiosk",
+      "latitude": 39.914944,
+      "longitude": 25.376833
+    },
+    {
+      "name": "Plane watching spot",
+      "latitude": 37.739652,
+      "longitude": 20.888936
+    },
+    {
+      "name": "Point of view to Vathia",
+      "latitude": 36.450697,
+      "longitude": 22.465669
+    },
+    {
+      "name": "Poros view to Argolida",
+      "latitude": 37.499207,
+      "longitude": 23.457793
+    },
+    {
+      "name": "prieplauka",
+      "latitude": 36.364179,
+      "longitude": 27.977513
+    },
+    {
+      "name": "Profiti Elias Panorama",
+      "latitude": 38.298707,
+      "longitude": 26.065134
+    },
+    {
+      "name": "Profiti Ilias view",
+      "latitude": 36.603961,
+      "longitude": 27.166271
+    },
+    {
+      "name": "Profiti Ilias view",
+      "latitude": 36.60561,
+      "longitude": 27.12918
+    },
+    {
+      "name": "Prophitis Ilias",
+      "latitude": 35.727927,
+      "longitude": 27.175908
+    },
+    {
+      "name": "Pylos Bay viewpoint",
+      "latitude": 36.95923,
+      "longitude": 21.657824
+    },
+    {
+      "name": "Red Beach",
+      "latitude": 36.347341,
+      "longitude": 25.394816
+    },
+    {
+      "name": "rock arch",
+      "latitude": 36.221381,
+      "longitude": 23.058999
+    },
+    {
+      "name": "Rock Formation",
+      "latitude": 40.021304,
+      "longitude": 23.995362
+    },
+    {
+      "name": "rock formations",
+      "latitude": 37.272782,
+      "longitude": 26.736451
+    },
+    {
+      "name": "rock formations",
+      "latitude": 37.589582,
+      "longitude": 25.179072
+    },
+    {
+      "name": "rowing center",
+      "latitude": 40.728172,
+      "longitude": 22.408245
+    },
+    {
+      "name": "Santorini View",
+      "latitude": 36.672965,
+      "longitude": 25.368391
+    },
+    {
+      "name": "Sceanic drive and views",
+      "latitude": 35.402561,
+      "longitude": 23.985721
+    },
+    {
+      "name": "scenic viewpoint",
+      "latitude": 41.344442,
+      "longitude": 24.807609
+    },
+    {
+      "name": "Seli",
+      "latitude": 35.223402,
+      "longitude": 24.789706
+    },
+    {
+      "name": "Shaded view of a Roman agora",
+      "latitude": 37.973931,
+      "longitude": 23.727035
+    },
+    {
+      "name": "Skaros",
+      "latitude": 38.7359,
+      "longitude": 20.716041
+    },
+    {
+      "name": "Skinakas Observatory",
+      "latitude": 35.211901,
+      "longitude": 24.89772
+    },
+    {
+      "name": "Sotirios",
+      "latitude": 38.031436,
+      "longitude": 23.981749
+    },
+    {
+      "name": "Sphacteria Island and Ionian Sea Viewpoint",
+      "latitude": 36.957318,
+      "longitude": 21.656933
+    },
+    {
+      "name": "spinalogna view",
+      "latitude": 35.297243,
+      "longitude": 25.727667
+    },
+    {
+      "name": "Spiti",
+      "latitude": 40.598939,
+      "longitude": 22.955187
+    },
+    {
+      "name": "stone staircase",
+      "latitude": 39.890489,
+      "longitude": 20.7859
+    },
+    {
+      "name": "Strand",
+      "latitude": 35.962213,
+      "longitude": 27.73389
+    },
+    {
+      "name": "Strand",
+      "latitude": 37.655136,
+      "longitude": 24.023715
+    },
+    {
+      "name": "Sunset point",
+      "latitude": 35.009906,
+      "longitude": 24.761095
+    },
+    {
+      "name": "Sunset Viewpoint",
+      "latitude": 39.72097,
+      "longitude": 19.658772
+    },
+    {
+      "name": "Swim spot",
+      "latitude": 37.446603,
+      "longitude": 24.9465
+    },
+    {
+      "name": "Theatraki Viewpoint",
+      "latitude": 38.259681,
+      "longitude": 21.737577
+    },
+    {
+      "name": "Top Snorkeling Spot",
+      "latitude": 40.17557,
+      "longitude": 23.713664
+    },
+    {
+      "name": "Topcon",
+      "latitude": 37.934457,
+      "longitude": 23.698615
+    },
+    {
+      "name": "Townview",
+      "latitude": 39.163141,
+      "longitude": 23.50207
+    },
+    {
+      "name": "Treis Eklissies View",
+      "latitude": 36.679024,
+      "longitude": 25.36819
+    },
+    {
+      "name": "Triopetra Rocks",
+      "latitude": 35.115262,
+      "longitude": 24.548495
+    },
+    {
+      "name": "Trulida",
+      "latitude": 35.099933,
+      "longitude": 24.701986
+    },
+    {
+      "name": "Tsampika Mt.",
+      "latitude": 36.235652,
+      "longitude": 28.149813
+    },
+    {
+      "name": "Tunnel Topolia",
+      "latitude": 35.417265,
+      "longitude": 23.687365
+    },
+    {
+      "name": "unique view to volcano",
+      "latitude": 36.36231,
+      "longitude": 25.418544
+    },
+    {
+      "name": "University Grounds and Rio-Antirio Bridge View",
+      "latitude": 38.283608,
+      "longitude": 21.790588
+    },
+    {
+      "name": "View",
+      "latitude": 36.247018,
+      "longitude": 28.005634
+    },
+    {
+      "name": "View",
+      "latitude": 39.487015,
+      "longitude": 19.873317
+    },
+    {
+      "name": "View",
+      "latitude": 39.487669,
+      "longitude": 19.872995
+    },
+    {
+      "name": "View at the Zaga Beach",
+      "latitude": 36.793489,
+      "longitude": 21.961368
+    },
+    {
+      "name": "View from Kos Town to Marmari",
+      "latitude": 36.85377,
+      "longitude": 27.262017
+    },
+    {
+      "name": "View of the Klousouria gorge",
+      "latitude": 38.692007,
+      "longitude": 20.636247
+    },
+    {
+      "name": "view on ancient Stageira",
+      "latitude": 40.59064,
+      "longitude": 23.7903
+    },
+    {
+      "name": "View on Tsilivi",
+      "latitude": 37.815994,
+      "longitude": 20.879852
+    },
+    {
+      "name": "View over Kipina Monastery",
+      "latitude": 39.561877,
+      "longitude": 21.13111
+    },
+    {
+      "name": "View Point",
+      "latitude": 34.820603,
+      "longitude": 24.114992
+    },
+    {
+      "name": "View point",
+      "latitude": 38.477002,
+      "longitude": 22.596469
+    },
+    {
+      "name": "View to E75",
+      "latitude": 38.226543,
+      "longitude": 23.796658
+    },
+    {
+      "name": "View to Myrtos Bay",
+      "latitude": 38.347634,
+      "longitude": 20.541408
+    },
+    {
+      "name": "View to northern and southern Patras!",
+      "latitude": 38.249093,
+      "longitude": 21.760749
+    },
+    {
+      "name": "view to south coast",
+      "latitude": 36.851487,
+      "longitude": 27.265836
+    },
+    {
+      "name": "View to Sunio",
+      "latitude": 37.65604,
+      "longitude": 24.008505
+    },
+    {
+      "name": "Viewpoint",
+      "latitude": 35.253003,
+      "longitude": 26.265656
+    },
+    {
+      "name": "Viewpoint",
+      "latitude": 36.786325,
+      "longitude": 27.124297
+    },
+    {
+      "name": "Viewpoint",
+      "latitude": 36.838894,
+      "longitude": 27.158432
+    },
+    {
+      "name": "Viewpoint",
+      "latitude": 36.858035,
+      "longitude": 27.296651
+    },
+    {
+      "name": "Viewpoint Vlatos",
+      "latitude": 35.397075,
+      "longitude": 23.649694
+    },
+    {
+      "name": "Viewpoint west & east",
+      "latitude": 37.117933,
+      "longitude": 22.872317
+    },
+    {
+      "name": "Viglia Manganariou and Viglia Kalamou view",
+      "latitude": 36.679627,
+      "longitude": 25.358099
+    },
+    {
+      "name": "Villa Luna",
+      "latitude": 40.586774,
+      "longitude": 23.029594
+    },
+    {
+      "name": "Villa Sviggos",
+      "latitude": 36.940663,
+      "longitude": 24.75123
+    },
+    {
+      "name": "Vlachata",
+      "latitude": 38.254876,
+      "longitude": 20.602761
+    },
+    {
+      "name": "Watch Tower",
+      "latitude": 39.145053,
+      "longitude": 23.669964
+    },
+    {
+      "name": "Wind mill",
+      "latitude": 38.40036,
+      "longitude": 26.135638
+    },
+    {
+      "name": "Windmills",
+      "latitude": 36.72342,
+      "longitude": 25.285104
+    },
+    {
+      "name": "Z2 näköalatasanne",
+      "latitude": 37.708643,
+      "longitude": 20.978168
+    },
+    {
+      "name": "Άγιος Αιμιλιανός",
+      "latitude": 37.291198,
+      "longitude": 23.199767
+    },
+    {
+      "name": "Άι Λιάς",
+      "latitude": 41.125502,
+      "longitude": 25.782707
+    },
+    {
+      "name": "Άνδηρο",
+      "latitude": 37.969012,
+      "longitude": 23.720225
+    },
+    {
+      "name": "Άποψη της Αθήνας",
+      "latitude": 37.988582,
+      "longitude": 23.625561
+    },
+    {
+      "name": "Άποψη του φαραγγιού του Βικάκης",
+      "latitude": 39.886787,
+      "longitude": 20.813384
+    },
+    {
+      "name": "Άποψη του φαραγγιού του Βικάκι",
+      "latitude": 39.887799,
+      "longitude": 20.818338
+    },
+    {
+      "name": "Έγκοιλο Χάος",
+      "latitude": 37.720101,
+      "longitude": 24.02131
+    },
+    {
+      "name": "Αγίασμα viewpoint",
+      "latitude": 41.170403,
+      "longitude": 25.370653
+    },
+    {
+      "name": "Αγνάντιο",
+      "latitude": 37.763061,
+      "longitude": 21.613136
+    },
+    {
+      "name": "Αδριατική Θάλασσα (Δ) - Αιγαίο Πέλαγος (A)",
+      "latitude": 39.794535,
+      "longitude": 21.229652
+    },
+    {
+      "name": "Αεράκι",
+      "latitude": 37.549843,
+      "longitude": 22.065399
+    },
+    {
+      "name": "Αιωνόβιοι πλάτανοι",
+      "latitude": 37.296217,
+      "longitude": 22.498138
+    },
+    {
+      "name": "Ακώλυτα",
+      "latitude": 35.201082,
+      "longitude": 24.810463
+    },
+    {
+      "name": "Αλυκές",
+      "latitude": 36.701423,
+      "longitude": 24.469538
+    },
+    {
+      "name": "Αλωνια",
+      "latitude": 40.266331,
+      "longitude": 20.737546
+    },
+    {
+      "name": "Αλώνια",
+      "latitude": 38.873248,
+      "longitude": 21.664644
+    },
+    {
+      "name": "Ανεμοδούρι",
+      "latitude": 38.088954,
+      "longitude": 20.716733
+    },
+    {
+      "name": "ΑΝΩ ΛΙΒΑΔΙ",
+      "latitude": 39.780291,
+      "longitude": 22.691483
+    },
+    {
+      "name": "Αρμενιστής",
+      "latitude": 40.157239,
+      "longitude": 23.915248
+    },
+    {
+      "name": "Αρχαία Ακρόπολη",
+      "latitude": 39.630532,
+      "longitude": 20.915378
+    },
+    {
+      "name": "Ασκαμνιά (Μουριές)",
+      "latitude": 40.147137,
+      "longitude": 23.837649
+    },
+    {
+      "name": "Αστεροσκοπείο Πεντέλης",
+      "latitude": 38.047311,
+      "longitude": 23.864503
+    },
+    {
+      "name": "Αχλαδόρεμα",
+      "latitude": 41.53038,
+      "longitude": 24.516201
+    },
+    {
+      "name": "Βάθρες",
+      "latitude": 39.895742,
+      "longitude": 21.116352
+    },
+    {
+      "name": "Βίκος (N) - Άραχθος (S)",
+      "latitude": 39.83604,
+      "longitude": 20.864438
+    },
+    {
+      "name": "Βίκος (N) - Άραχθος (S)",
+      "latitude": 39.839747,
+      "longitude": 20.867668
+    },
+    {
+      "name": "Βράχος",
+      "latitude": 38.816884,
+      "longitude": 20.797687
+    },
+    {
+      "name": "Βράχος του Αετού",
+      "latitude": 40.600461,
+      "longitude": 23.099401
+    },
+    {
+      "name": "Γέφυρα Βοϊδομάτη (Αρίστης)",
+      "latitude": 39.944664,
+      "longitude": 20.68758
+    },
+    {
+      "name": "Γέφυρα Ματσουκίου",
+      "latitude": 38.713033,
+      "longitude": 21.338302
+    },
+    {
+      "name": "Γεφύρι Ροβοάμ",
+      "latitude": 39.413731,
+      "longitude": 23.165209
+    },
+    {
+      "name": "Γεωδαιτικό σημείο Γ.Υ.Σ.",
+      "latitude": 39.517493,
+      "longitude": 20.774659
+    },
+    {
+      "name": "Γεωδαιτικό σημείο ΔΕΗ",
+      "latitude": 39.591866,
+      "longitude": 21.245919
+    },
+    {
+      "name": "Γκρούνια",
+      "latitude": 39.884703,
+      "longitude": 20.754863
+    },
+    {
+      "name": "Δίαυλος Τηγάνι",
+      "latitude": 36.548126,
+      "longitude": 26.447395
+    },
+    {
+      "name": "Δασικό Πυροφυλάκιο Σελαδίου",
+      "latitude": 40.650871,
+      "longitude": 23.73507
+    },
+    {
+      "name": "Διάσελο",
+      "latitude": 40.139796,
+      "longitude": 22.429732
+    },
+    {
+      "name": "Δρακοντόσχισμα",
+      "latitude": 39.073693,
+      "longitude": 23.728104
+    },
+    {
+      "name": "Δρακόλιμνη",
+      "latitude": 39.994137,
+      "longitude": 20.785971
+    },
+    {
+      "name": "Ελευθεροχωρι",
+      "latitude": 38.743656,
+      "longitude": 22.491216
+    },
+    {
+      "name": "Επίδαυρος Λιμηρά",
+      "latitude": 36.731717,
+      "longitude": 23.025686
+    },
+    {
+      "name": "Θέα",
+      "latitude": 38.153921,
+      "longitude": 23.241284
+    },
+    {
+      "name": "Θέα",
+      "latitude": 38.155467,
+      "longitude": 23.240246
+    },
+    {
+      "name": "Θέα Αγίου Νικολάου",
+      "latitude": 38.244953,
+      "longitude": 21.739855
+    },
+    {
+      "name": "θέα Ακρόπολης",
+      "latitude": 37.972349,
+      "longitude": 23.722569
+    },
+    {
+      "name": "θέα από Σπηλιά Νταβέλη",
+      "latitude": 38.070625,
+      "longitude": 23.876972
+    },
+    {
+      "name": "Θέα γέφυρας Χαρίλαος Τρικούπης",
+      "latitude": 38.312883,
+      "longitude": 21.779695
+    },
+    {
+      "name": "θέα Κακιάς Θάλασσας",
+      "latitude": 37.8317,
+      "longitude": 24.0459
+    },
+    {
+      "name": "Θέα Καλαμπάκας",
+      "latitude": 39.70982,
+      "longitude": 21.636015
+    },
+    {
+      "name": "θέα καταρράκτη",
+      "latitude": 38.10463,
+      "longitude": 24.476933
+    },
+    {
+      "name": "Θέα προς Αγίο Γόρδη",
+      "latitude": 39.55225,
+      "longitude": 19.851834
+    },
+    {
+      "name": "θέα προς Μοναστήρι",
+      "latitude": 38.750203,
+      "longitude": 21.660912
+    },
+    {
+      "name": "Θέα προς Φαληρικό Δέλτα",
+      "latitude": 37.939993,
+      "longitude": 23.690361
+    },
+    {
+      "name": "Θέα προσγείωσης αεροδρομίου",
+      "latitude": 39.589596,
+      "longitude": 19.915501
+    },
+    {
+      "name": "Θέα στα νησιά",
+      "latitude": 37.030153,
+      "longitude": 25.502721
+    },
+    {
+      "name": "Θέα στην παραλία",
+      "latitude": 38.602927,
+      "longitude": 20.548473
+    },
+    {
+      "name": "Θέα τού Λευκάτα (γκρεμός)",
+      "latitude": 38.566825,
+      "longitude": 20.546744
+    },
+    {
+      "name": "Θέα των Μυζήθρων",
+      "latitude": 37.651282,
+      "longitude": 20.816853
+    },
+    {
+      "name": "Θέα Φαραγγιού",
+      "latitude": 39.951277,
+      "longitude": 20.70841
+    },
+    {
+      "name": "Θέση Μπελόη",
+      "latitude": 39.905641,
+      "longitude": 20.765772
+    },
+    {
+      "name": "Θειωρυχεία",
+      "latitude": 36.693774,
+      "longitude": 24.543884
+    },
+    {
+      "name": "Ιωάννου Λαβαντ",
+      "latitude": 38.103176,
+      "longitude": 23.900879
+    },
+    {
+      "name": "Κάστελος",
+      "latitude": 35.416469,
+      "longitude": 23.671348
+    },
+    {
+      "name": "Καμπάνες",
+      "latitude": 36.769265,
+      "longitude": 24.413649
+    },
+    {
+      "name": "Καμπαναριό",
+      "latitude": 36.7927,
+      "longitude": 21.87977
+    },
+    {
+      "name": "Κανάλι του Έρωτα",
+      "latitude": 39.797076,
+      "longitude": 19.698488
+    },
+    {
+      "name": "Καράβι",
+      "latitude": 37.950846,
+      "longitude": 23.791909
+    },
+    {
+      "name": "Καραρράκτης",
+      "latitude": 36.983505,
+      "longitude": 21.85459
+    },
+    {
+      "name": "Καρμπιά",
+      "latitude": 39.250962,
+      "longitude": 23.178588
+    },
+    {
+      "name": "Καρφί",
+      "latitude": 35.217958,
+      "longitude": 25.471469
+    },
+    {
+      "name": "Καταρράκτες",
+      "latitude": 40.076438,
+      "longitude": 21.206609
+    },
+    {
+      "name": "Καταρράκτες Δρυμώνα",
+      "latitude": 38.872305,
+      "longitude": 23.293547
+    },
+    {
+      "name": "Καταρράκτες Ενιπέα",
+      "latitude": 40.083197,
+      "longitude": 22.405794
+    },
+    {
+      "name": "Καταρράκτες Ενιππέα",
+      "latitude": 40.091216,
+      "longitude": 22.422276
+    },
+    {
+      "name": "Καταρράκτες Λεπίδας",
+      "latitude": 37.337917,
+      "longitude": 22.635942
+    },
+    {
+      "name": "Καταρράκτες Μπόζα Συρράκο",
+      "latitude": 39.591894,
+      "longitude": 21.108389
+    },
+    {
+      "name": "Καταρράκτες Τζουμέρκων",
+      "latitude": 39.457723,
+      "longitude": 21.123456
+    },
+    {
+      "name": "Καταρράκτης",
+      "latitude": 39.426508,
+      "longitude": 21.224745
+    },
+    {
+      "name": "Καταρράκτης \"Της Στεργιάνως ο Βυρός\"",
+      "latitude": 40.110156,
+      "longitude": 21.146571
+    },
+    {
+      "name": "Καταρράκτης Μάστωρα",
+      "latitude": 35.083919,
+      "longitude": 25.838142
+    },
+    {
+      "name": "Καταρράκτης Σούδα",
+      "latitude": 39.440225,
+      "longitude": 21.189398
+    },
+    {
+      "name": "Καταρρακτες AllFunny",
+      "latitude": 38.666289,
+      "longitude": 24.120274
+    },
+    {
+      "name": "Κλήμα Παυσανία",
+      "latitude": 37.827019,
+      "longitude": 22.154631
+    },
+    {
+      "name": "Κορακόπετρα",
+      "latitude": 40.635149,
+      "longitude": 23.692429
+    },
+    {
+      "name": "κορυφή (1584μ)",
+      "latitude": 40.46545,
+      "longitude": 25.582083
+    },
+    {
+      "name": "Κορυφή Θάλασσας",
+      "latitude": 39.623575,
+      "longitude": 19.931607
+    },
+    {
+      "name": "Κορυφή Ξηράς",
+      "latitude": 39.623378,
+      "longitude": 19.929129
+    },
+    {
+      "name": "κορυφή Φεγγαρι (1611μ)",
+      "latitude": 40.462385,
+      "longitude": 25.584703
+    },
+    {
+      "name": "Κουμουτσου",
+      "latitude": 38.854451,
+      "longitude": 20.980149
+    },
+    {
+      "name": "κουμπές Μπραγκάρος",
+      "latitude": 35.316641,
+      "longitude": 25.040259
+    },
+    {
+      "name": "Κουνόπετρα",
+      "latitude": 38.148651,
+      "longitude": 20.388519
+    },
+    {
+      "name": "Κόκκινα Πατερά",
+      "latitude": 37.096182,
+      "longitude": 21.619272
+    },
+    {
+      "name": "ΚΌΜΒΟΣ",
+      "latitude": 40.970837,
+      "longitude": 21.836348
+    },
+    {
+      "name": "Λίμνη Κάδη",
+      "latitude": 36.983605,
+      "longitude": 21.853839
+    },
+    {
+      "name": "Λίμνη Καδούλα",
+      "latitude": 36.983713,
+      "longitude": 21.854704
+    },
+    {
+      "name": "Λίμνη Μαραθώνα",
+      "latitude": 38.16847,
+      "longitude": 23.906229
+    },
+    {
+      "name": "Λυκαβηττός",
+      "latitude": 37.981896,
+      "longitude": 23.743183
+    },
+    {
+      "name": "Λυκόλακα",
+      "latitude": 41.529564,
+      "longitude": 24.518047
+    },
+    {
+      "name": "Λόφος Επισκοπής",
+      "latitude": 39.374704,
+      "longitude": 22.980777
+    },
+    {
+      "name": "Μαιάνδρος του Ζαγορίτικου",
+      "latitude": 39.769413,
+      "longitude": 20.885365
+    },
+    {
+      "name": "Μαντράκια",
+      "latitude": 36.750745,
+      "longitude": 24.446246
+    },
+    {
+      "name": "Μαρίνα Ολυμπιάδας",
+      "latitude": 40.590989,
+      "longitude": 23.789533
+    },
+    {
+      "name": "Μαυρολίμνα",
+      "latitude": 36.981759,
+      "longitude": 21.850238
+    },
+    {
+      "name": "Μετέωρα",
+      "latitude": 39.794255,
+      "longitude": 21.229628
+    },
+    {
+      "name": "Μπαλκόνι Γλυφάδας",
+      "latitude": 37.863613,
+      "longitude": 23.77188
+    },
+    {
+      "name": "Μπαλκόνι Οξυάς",
+      "latitude": 40.240622,
+      "longitude": 20.822046
+    },
+    {
+      "name": "Μπαλτα ντι στριγκα",
+      "latitude": 39.975036,
+      "longitude": 20.917264
+    },
+    {
+      "name": "Μπόκοβο",
+      "latitude": 39.898637,
+      "longitude": 20.887584
+    },
+    {
+      "name": "Μύλος",
+      "latitude": 36.789015,
+      "longitude": 21.888413
+    },
+    {
+      "name": "Ναυάγιο",
+      "latitude": 37.861839,
+      "longitude": 20.625623
+    },
+    {
+      "name": "οδος αγιου θωμα",
+      "latitude": 35.295479,
+      "longitude": 25.094254
+    },
+    {
+      "name": "Οξιά",
+      "latitude": 39.907154,
+      "longitude": 20.752619
+    },
+    {
+      "name": "Οχυρωματικό χωριό Βάθεια",
+      "latitude": 36.453555,
+      "longitude": 22.465962
+    },
+    {
+      "name": "Π5",
+      "latitude": 40.755428,
+      "longitude": 22.896554
+    },
+    {
+      "name": "Πάρκο Κεραιών",
+      "latitude": 37.958596,
+      "longitude": 23.817617
+    },
+    {
+      "name": "Πάχνες",
+      "latitude": 35.291932,
+      "longitude": 24.032113
+    },
+    {
+      "name": "Πέτρινο γεφύρι Αγίας Παρασκευής",
+      "latitude": 39.27051,
+      "longitude": 26.253168
+    },
+    {
+      "name": "Πέτρος",
+      "latitude": 40.157261,
+      "longitude": 23.755187
+    },
+    {
+      "name": "Παγκάκι με Θέα",
+      "latitude": 37.521323,
+      "longitude": 22.733236
+    },
+    {
+      "name": "Παλαιόκαστρο",
+      "latitude": 36.745689,
+      "longitude": 25.344184
+    },
+    {
+      "name": "Παλιό στρατιωτικό φυλακιο",
+      "latitude": 40.319689,
+      "longitude": 20.764919
+    },
+    {
+      "name": "Παναγιά των βράχων",
+      "latitude": 38.089334,
+      "longitude": 22.409075
+    },
+    {
+      "name": "Πανοραμική θέα",
+      "latitude": 40.641696,
+      "longitude": 22.954919
+    },
+    {
+      "name": "Πανόραμα",
+      "latitude": 41.526433,
+      "longitude": 24.524151
+    },
+    {
+      "name": "Παπάφραγκας",
+      "latitude": 36.754305,
+      "longitude": 24.502657
+    },
+    {
+      "name": "παραλία Τηγανάκια",
+      "latitude": 37.366599,
+      "longitude": 26.746247
+    },
+    {
+      "name": "Παρατηρητήριο",
+      "latitude": 37.691094,
+      "longitude": 23.434631
+    },
+    {
+      "name": "Παρατηρητήριο",
+      "latitude": 39.237406,
+      "longitude": 21.737478
+    },
+    {
+      "name": "Παρατηρητήριο Λυκόλοφου",
+      "latitude": 41.236076,
+      "longitude": 23.550084
+    },
+    {
+      "name": "Παρατηρητήριο του Κάιζερ",
+      "latitude": 39.59477,
+      "longitude": 19.821369
+    },
+    {
+      "name": "Παχιές Αμμουδιές (Αμμοθίνες)",
+      "latitude": 39.991252,
+      "longitude": 25.131816
+    },
+    {
+      "name": "Περγάρη",
+      "latitude": 38.660468,
+      "longitude": 21.916011
+    },
+    {
+      "name": "Περτουλιώτικα Λειβάδια",
+      "latitude": 39.555168,
+      "longitude": 21.508501
+    },
+    {
+      "name": "πεσμένες κεραίες",
+      "latitude": 41.178755,
+      "longitude": 23.720916
+    },
+    {
+      "name": "Πευκόφυτον",
+      "latitude": 40.644984,
+      "longitude": 22.980221
+    },
+    {
+      "name": "Πηγές Κρύας",
+      "latitude": 38.431663,
+      "longitude": 22.874949
+    },
+    {
+      "name": "Πηγών του Αώου",
+      "latitude": 39.794792,
+      "longitude": 21.229316
+    },
+    {
+      "name": "Πλαγούλια",
+      "latitude": 36.787262,
+      "longitude": 21.888648
+    },
+    {
+      "name": "Πλατεία",
+      "latitude": 39.401769,
+      "longitude": 22.985839
+    },
+    {
+      "name": "Πολυβολείο",
+      "latitude": 41.103767,
+      "longitude": 23.573087
+    },
+    {
+      "name": "Πολυβολείο",
+      "latitude": 41.107759,
+      "longitude": 23.579045
+    },
+    {
+      "name": "Πολυβολείο",
+      "latitude": 41.112839,
+      "longitude": 23.576782
+    },
+    {
+      "name": "Πολυλίμνιο",
+      "latitude": 36.984598,
+      "longitude": 21.855135
+    },
+    {
+      "name": "Ποτάμι Λευκίμμης",
+      "latitude": 39.421212,
+      "longitude": 20.078841
+    },
+    {
+      "name": "Προβλήτα Αγίου Νικολάου",
+      "latitude": 38.466194,
+      "longitude": 23.592679
+    },
+    {
+      "name": "Προβλήτα Κύκνου",
+      "latitude": 38.464651,
+      "longitude": 23.588655
+    },
+    {
+      "name": "Προς Βακούφι.",
+      "latitude": 41.124782,
+      "longitude": 22.16991
+    },
+    {
+      "name": "Προς πλάτσα",
+      "latitude": 41.10787,
+      "longitude": 21.972936
+    },
+    {
+      "name": "Προφήτης Ηλίας",
+      "latitude": 36.72957,
+      "longitude": 25.305317
+    },
+    {
+      "name": "Προφήτης Ηλίας",
+      "latitude": 38.059026,
+      "longitude": 23.854548
+    },
+    {
+      "name": "Προφήτης Ηλίας",
+      "latitude": 40.652802,
+      "longitude": 23.69763
+    },
+    {
+      "name": "Πὐργος παρατήρησης",
+      "latitude": 38.15389,
+      "longitude": 24.016863
+    },
+    {
+      "name": "Πυραμίδα",
+      "latitude": 40.326998,
+      "longitude": 20.762108
+    },
+    {
+      "name": "Πυργάκια",
+      "latitude": 38.57344,
+      "longitude": 22.526133
+    },
+    {
+      "name": "Πυροφυλάκειο Πρ. Ηλία",
+      "latitude": 41.257417,
+      "longitude": 23.601829
+    },
+    {
+      "name": "Πυροφυλάκιο",
+      "latitude": 38.035274,
+      "longitude": 23.969538
+    },
+    {
+      "name": "Πυροφυλάκιο \"Ιωάννης Δαμιανόγλου\"",
+      "latitude": 38.05114,
+      "longitude": 23.977956
+    },
+    {
+      "name": "Πυροφυλάκιο Ακραμύτη",
+      "latitude": 36.158669,
+      "longitude": 27.762726
+    },
+    {
+      "name": "Πόρτες",
+      "latitude": 38.110137,
+      "longitude": 22.161212
+    },
+    {
+      "name": "Πύργος",
+      "latitude": 36.436693,
+      "longitude": 22.465829
+    },
+    {
+      "name": "Πύργος Γρηγοράκη",
+      "latitude": 36.428927,
+      "longitude": 22.479071
+    },
+    {
+      "name": "Σαρακήνικο",
+      "latitude": 36.742595,
+      "longitude": 24.458252
+    },
+    {
+      "name": "Σημείο Θέας",
+      "latitude": 39.396443,
+      "longitude": 21.279167
+    },
+    {
+      "name": "σημείο θέας",
+      "latitude": 39.446227,
+      "longitude": 21.317242
+    },
+    {
+      "name": "Σημείο θέας",
+      "latitude": 40.138518,
+      "longitude": 22.443286
+    },
+    {
+      "name": "Σημείο θέας",
+      "latitude": 40.83744,
+      "longitude": 21.123252
+    },
+    {
+      "name": "Σημείο Θέας",
+      "latitude": 41.117156,
+      "longitude": 24.74852
+    },
+    {
+      "name": "Σημείο θέας \"Σαντορίνη\"",
+      "latitude": 38.049997,
+      "longitude": 23.84718
+    },
+    {
+      "name": "Σημείο θέας λόφου Ταξιαρχών",
+      "latitude": 37.960222,
+      "longitude": 23.793152
+    },
+    {
+      "name": "Σημείο Θέας: Ανάληψη",
+      "latitude": 41.254141,
+      "longitude": 23.591913
+    },
+    {
+      "name": "Σημείο Θέας: Βράχος Κατίγκως",
+      "latitude": 41.274341,
+      "longitude": 23.602928
+    },
+    {
+      "name": "Σημείο Θέας: Καλλιθέα",
+      "latitude": 41.278155,
+      "longitude": 23.596235
+    },
+    {
+      "name": "Σημείο θέασης Στραβολαγκάδας",
+      "latitude": 37.119799,
+      "longitude": 25.549842
+    },
+    {
+      "name": "Σκάλα Βραδέτου",
+      "latitude": 39.893925,
+      "longitude": 20.785472
+    },
+    {
+      "name": "Σκάλα Περαίας",
+      "latitude": 40.510922,
+      "longitude": 22.924397
+    },
+    {
+      "name": "Σκάλες Τριών Ναυάρχων",
+      "latitude": 38.240888,
+      "longitude": 21.733393
+    },
+    {
+      "name": "ΣΚΑ (Σιδηροδρομικό Κέντρο Αχαρνών)",
+      "latitude": 38.068188,
+      "longitude": 23.737473
+    },
+    {
+      "name": "Σκαλιά Αγράφων",
+      "latitude": 38.243386,
+      "longitude": 21.744711
+    },
+    {
+      "name": "Σκαλιά Ελικώνος",
+      "latitude": 38.243179,
+      "longitude": 21.744756
+    },
+    {
+      "name": "Σπήλαιο Λεντίνου",
+      "latitude": 37.480589,
+      "longitude": 24.899831
+    },
+    {
+      "name": "Σπηλιά Δράκου",
+      "latitude": 37.805928,
+      "longitude": 23.874734
+    },
+    {
+      "name": "Σταυρός",
+      "latitude": 36.399297,
+      "longitude": 28.139419
+    },
+    {
+      "name": "Σταυρός",
+      "latitude": 38.300889,
+      "longitude": 22.850466
+    },
+    {
+      "name": "Στρογγυλό",
+      "latitude": 38.464497,
+      "longitude": 23.591778
+    },
+    {
+      "name": "Σχισμενη Πετρα",
+      "latitude": 40.425718,
+      "longitude": 23.506883
+    },
+    {
+      "name": "Σχολείο Ρήγα Φερραίου",
+      "latitude": 39.442301,
+      "longitude": 23.106633
+    },
+    {
+      "name": "Τίμιος Σταυρός",
+      "latitude": 35.168965,
+      "longitude": 24.44387
+    },
+    {
+      "name": "Τούνελ Αγίου Στεφάνου",
+      "latitude": 38.156831,
+      "longitude": 23.870158
+    },
+    {
+      "name": "Τρεις καμπάνας των Φηρών",
+      "latitude": 36.42333,
+      "longitude": 25.428546
+    },
+    {
+      "name": "Τρυπητός (Καμάρα)",
+      "latitude": 39.178977,
+      "longitude": 20.183415
+    },
+    {
+      "name": "Τσαγκαράλωνα",
+      "latitude": 38.873925,
+      "longitude": 21.650754
+    },
+    {
+      "name": "Τσιμέντο με θέα",
+      "latitude": 38.023596,
+      "longitude": 23.767838
+    },
+    {
+      "name": "Τσούκα",
+      "latitude": 39.400992,
+      "longitude": 23.174075
+    },
+    {
+      "name": "Τύρια (N) - Αχέρων (S)",
+      "latitude": 39.486815,
+      "longitude": 20.790271
+    },
+    {
+      "name": "Τύρια (N) - Αχέρων (S)",
+      "latitude": 39.488734,
+      "longitude": 20.779022
+    },
+    {
+      "name": "Υψηλή Γέφυρα Χαλκίδας",
+      "latitude": 38.44496,
+      "longitude": 23.590791
+    },
+    {
+      "name": "Φάρος Ηραίου",
+      "latitude": 38.02854,
+      "longitude": 22.850167
+    },
+    {
+      "name": "Φαράγγι Δέσης-Μπουντρούμι",
+      "latitude": 38.22984,
+      "longitude": 21.798928
+    },
+    {
+      "name": "Φαράγγι Πάντα Βρέχει",
+      "latitude": 38.758747,
+      "longitude": 21.749282
+    },
+    {
+      "name": "Φρόντζος",
+      "latitude": 39.665336,
+      "longitude": 20.841544
+    },
+    {
+      "name": "ΦΥΛΑΚΙΟ ΑΕΤΟΣ 4",
+      "latitude": 40.926791,
+      "longitude": 25.861499
+    },
+    {
+      "name": "Φυροπόταμος",
+      "latitude": 36.758629,
+      "longitude": 24.428516
+    },
+    {
+      "name": "Χωράφι Οικογένειας Παπαγεωργίου",
+      "latitude": 37.7403,
+      "longitude": 26.886012
+    },
+    {
+      "name": "Ψυχάρη",
+      "latitude": 38.42407,
+      "longitude": 26.136983
+    },
+    {
+      "name": "Όλυμπος",
+      "latitude": 39.073691,
+      "longitude": 26.354085
+    },
+    {
+      "name": "Όλυμπος",
+      "latitude": 39.796665,
+      "longitude": 21.22919
+    },
+    {
+      "name": "Вишката",
+      "latitude": 41.524262,
+      "longitude": 24.296672
+    },
+    {
+      "name": "Зелен Брег",
+      "latitude": 41.16198,
+      "longitude": 22.205547
+    },
+    {
+      "name": "Остров Грамвуса",
+      "latitude": 35.641872,
+      "longitude": 23.587637
+    },
+    {
+      "name": "یونان یونان",
+      "latitude": 39.620307,
+      "longitude": 20.8307
+    },
+    {
+      "name": "Ἐξωκκλήσιον Ταξιάρχου",
+      "latitude": 39.726265,
+      "longitude": 19.850506
+    }
+  ],
+  "meta": {
+    "title": "Πανοραμικές θέσεις θέας στην Ελλάδα - Δωρεάν λήψη",
+    "description": "Σημεία θέας στην Ελλάδα από δεδομένα OpenStreetMap (tourism=viewpoint). Όνομα και συντεταγμένες WGS84. Περιέχει 385 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πανοραμικές θέσεις θέας στην Ελλάδα | ListBase",
+    "seo_description": "Λήψη Πανοραμικές θέσεις θέας στην Ελλάδα — 385 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 385 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "id": "el-limnoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Λημνου (33)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Λημνου (33)",
+  "description": "Οι 33 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λημνου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "350301",
+      "name": "Αγιου Ευστρατιου",
+      "municipality": "Αγιου Ευστρατιου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350401",
+      "name": "Αγιου Δημητριου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350402",
+      "name": "Ατσικης",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350403",
+      "name": "Βαρους",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350404",
+      "name": "Δαφνης",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350405",
+      "name": "Καρπασιου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350406",
+      "name": "Καταλακκου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350407",
+      "name": "Σαρδων",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351205",
+      "name": "Μουδρου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351201",
+      "name": "Καλλιοπης",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351202",
+      "name": "Καμινιων",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351203",
+      "name": "Κοντοπουλιου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351204",
+      "name": "Λυχνων",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351206",
+      "name": "Παναγιας",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351207",
+      "name": "Πλακας",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351208",
+      "name": "Ρεπανιδιου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351209",
+      "name": "Ρουσσοπουλιου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351210",
+      "name": "Ρωμανου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351211",
+      "name": "Σκανδαλιου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351212",
+      "name": "Φισινης",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351304",
+      "name": "Μυριναιων",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351301",
+      "name": "Θανους",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351302",
+      "name": "Κασπακα",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351303",
+      "name": "Κορνου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351305",
+      "name": "Πλατεος",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351501",
+      "name": "Αγκαρυωνων",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351502",
+      "name": "Καλλιθεας",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351503",
+      "name": "Κοντια",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351504",
+      "name": "Λιβαδοχωριου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351505",
+      "name": "Νεας Κουταλης",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351506",
+      "name": "Πεδινου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351507",
+      "name": "Πορτιανου",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351508",
+      "name": "Τσιμανδριων",
+      "municipality": "Λημνου",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Λημνου (33) - Δωρεάν λήψη",
+    "description": "Οι 33 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λημνου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 33 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Λημνου (33) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Λημνου (33) — 33 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 33 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,1286 @@
+{
+  "id": "el-chores",
+  "name": "Χώρες του Κόσμου",
+  "title": "Χώρες του Κόσμου",
+  "description": "Κατάλογος χωρών του κόσμου στα ελληνικά και αγγλικά. Κωδικός ISO 3166-1 alpha-2.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 249,
+  "columns": [
+    {
+      "key": "iso_3166_1",
+      "label": "Iso 3166 1",
+      "type": "string"
+    },
+    {
+      "key": "nazov_el",
+      "label": "Nazov El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "iso_3166_1": "AD",
+      "nazov_el": "Ανδόρα",
+      "name_en": "Andorra"
+    },
+    {
+      "iso_3166_1": "AE",
+      "nazov_el": "Ηνωμένα Αραβικά Εμιράτα",
+      "name_en": "United Arab Emirates"
+    },
+    {
+      "iso_3166_1": "AF",
+      "nazov_el": "Αφγανιστάν",
+      "name_en": "Afghanistan"
+    },
+    {
+      "iso_3166_1": "AG",
+      "nazov_el": "Αντίγκουα και Μπαρμπούντα",
+      "name_en": "Antigua & Barbuda"
+    },
+    {
+      "iso_3166_1": "AI",
+      "nazov_el": "Ανγκουίλα",
+      "name_en": "Anguilla"
+    },
+    {
+      "iso_3166_1": "AL",
+      "nazov_el": "Αλβανία",
+      "name_en": "Albania"
+    },
+    {
+      "iso_3166_1": "AM",
+      "nazov_el": "Αρμενία",
+      "name_en": "Armenia"
+    },
+    {
+      "iso_3166_1": "AO",
+      "nazov_el": "Αγκόλα",
+      "name_en": "Angola"
+    },
+    {
+      "iso_3166_1": "AQ",
+      "nazov_el": "Ανταρκτική",
+      "name_en": "Antarctica"
+    },
+    {
+      "iso_3166_1": "AR",
+      "nazov_el": "Αργεντινή",
+      "name_en": "Argentina"
+    },
+    {
+      "iso_3166_1": "AS",
+      "nazov_el": "Αμερικανική Σαμόα",
+      "name_en": "American Samoa"
+    },
+    {
+      "iso_3166_1": "AT",
+      "nazov_el": "Αυστρία",
+      "name_en": "Austria"
+    },
+    {
+      "iso_3166_1": "AU",
+      "nazov_el": "Αυστραλία",
+      "name_en": "Australia"
+    },
+    {
+      "iso_3166_1": "AW",
+      "nazov_el": "Αρούμπα",
+      "name_en": "Aruba"
+    },
+    {
+      "iso_3166_1": "AX",
+      "nazov_el": "Νήσοι Όλαντ",
+      "name_en": "Åland Islands"
+    },
+    {
+      "iso_3166_1": "AZ",
+      "nazov_el": "Αζερμπαϊτζάν",
+      "name_en": "Azerbaijan"
+    },
+    {
+      "iso_3166_1": "BA",
+      "nazov_el": "Βοσνία - Ερζεγοβίνη",
+      "name_en": "Bosnia & Herzegovina"
+    },
+    {
+      "iso_3166_1": "BB",
+      "nazov_el": "Μπαρμπέιντος",
+      "name_en": "Barbados"
+    },
+    {
+      "iso_3166_1": "BD",
+      "nazov_el": "Μπανγκλαντές",
+      "name_en": "Bangladesh"
+    },
+    {
+      "iso_3166_1": "BE",
+      "nazov_el": "Βέλγιο",
+      "name_en": "Belgium"
+    },
+    {
+      "iso_3166_1": "BF",
+      "nazov_el": "Μπουρκίνα Φάσο",
+      "name_en": "Burkina Faso"
+    },
+    {
+      "iso_3166_1": "BG",
+      "nazov_el": "Βουλγαρία",
+      "name_en": "Bulgaria"
+    },
+    {
+      "iso_3166_1": "BH",
+      "nazov_el": "Μπαχρέιν",
+      "name_en": "Bahrain"
+    },
+    {
+      "iso_3166_1": "BI",
+      "nazov_el": "Μπουρούντι",
+      "name_en": "Burundi"
+    },
+    {
+      "iso_3166_1": "BJ",
+      "nazov_el": "Μπενίν",
+      "name_en": "Benin"
+    },
+    {
+      "iso_3166_1": "BL",
+      "nazov_el": "Άγιος Βαρθολομαίος",
+      "name_en": "St. Barthélemy"
+    },
+    {
+      "iso_3166_1": "BM",
+      "nazov_el": "Βερμούδες",
+      "name_en": "Bermuda"
+    },
+    {
+      "iso_3166_1": "BN",
+      "nazov_el": "Μπρουνέι",
+      "name_en": "Brunei"
+    },
+    {
+      "iso_3166_1": "BO",
+      "nazov_el": "Βολιβία",
+      "name_en": "Bolivia"
+    },
+    {
+      "iso_3166_1": "BQ",
+      "nazov_el": "Ολλανδία Καραϊβικής",
+      "name_en": "Caribbean Netherlands"
+    },
+    {
+      "iso_3166_1": "BR",
+      "nazov_el": "Βραζιλία",
+      "name_en": "Brazil"
+    },
+    {
+      "iso_3166_1": "BS",
+      "nazov_el": "Μπαχάμες",
+      "name_en": "Bahamas"
+    },
+    {
+      "iso_3166_1": "BT",
+      "nazov_el": "Μπουτάν",
+      "name_en": "Bhutan"
+    },
+    {
+      "iso_3166_1": "BV",
+      "nazov_el": "Νήσος Μπουβέ",
+      "name_en": "Bouvet Island"
+    },
+    {
+      "iso_3166_1": "BW",
+      "nazov_el": "Μποτσουάνα",
+      "name_en": "Botswana"
+    },
+    {
+      "iso_3166_1": "BY",
+      "nazov_el": "Λευκορωσία",
+      "name_en": "Belarus"
+    },
+    {
+      "iso_3166_1": "BZ",
+      "nazov_el": "Μπελίζ",
+      "name_en": "Belize"
+    },
+    {
+      "iso_3166_1": "CA",
+      "nazov_el": "Καναδάς",
+      "name_en": "Canada"
+    },
+    {
+      "iso_3166_1": "CC",
+      "nazov_el": "Νήσοι Κόκος (Κίλινγκ)",
+      "name_en": "Cocos (Keeling) Islands"
+    },
+    {
+      "iso_3166_1": "CD",
+      "nazov_el": "Κονγκό - Κινσάσα",
+      "name_en": "Congo - Kinshasa"
+    },
+    {
+      "iso_3166_1": "CF",
+      "nazov_el": "Κεντροαφρικανική Δημοκρατία",
+      "name_en": "Central African Republic"
+    },
+    {
+      "iso_3166_1": "CG",
+      "nazov_el": "Κονγκό - Μπραζαβίλ",
+      "name_en": "Congo - Brazzaville"
+    },
+    {
+      "iso_3166_1": "CH",
+      "nazov_el": "Ελβετία",
+      "name_en": "Switzerland"
+    },
+    {
+      "iso_3166_1": "CI",
+      "nazov_el": "Ακτή Ελεφαντοστού",
+      "name_en": "Côte d’Ivoire"
+    },
+    {
+      "iso_3166_1": "CK",
+      "nazov_el": "Νήσοι Κουκ",
+      "name_en": "Cook Islands"
+    },
+    {
+      "iso_3166_1": "CL",
+      "nazov_el": "Χιλή",
+      "name_en": "Chile"
+    },
+    {
+      "iso_3166_1": "CM",
+      "nazov_el": "Καμερούν",
+      "name_en": "Cameroon"
+    },
+    {
+      "iso_3166_1": "CN",
+      "nazov_el": "Κίνα",
+      "name_en": "China"
+    },
+    {
+      "iso_3166_1": "CO",
+      "nazov_el": "Κολομβία",
+      "name_en": "Colombia"
+    },
+    {
+      "iso_3166_1": "CR",
+      "nazov_el": "Κόστα Ρίκα",
+      "name_en": "Costa Rica"
+    },
+    {
+      "iso_3166_1": "CU",
+      "nazov_el": "Κούβα",
+      "name_en": "Cuba"
+    },
+    {
+      "iso_3166_1": "CV",
+      "nazov_el": "Πράσινο Ακρωτήριο",
+      "name_en": "Cape Verde"
+    },
+    {
+      "iso_3166_1": "CW",
+      "nazov_el": "Κουρασάο",
+      "name_en": "Curaçao"
+    },
+    {
+      "iso_3166_1": "CX",
+      "nazov_el": "Νήσος των Χριστουγέννων",
+      "name_en": "Christmas Island"
+    },
+    {
+      "iso_3166_1": "CY",
+      "nazov_el": "Κύπρος",
+      "name_en": "Cyprus"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "nazov_el": "Τσεχία",
+      "name_en": "Czechia"
+    },
+    {
+      "iso_3166_1": "DE",
+      "nazov_el": "Γερμανία",
+      "name_en": "Germany"
+    },
+    {
+      "iso_3166_1": "DJ",
+      "nazov_el": "Τζιμπουτί",
+      "name_en": "Djibouti"
+    },
+    {
+      "iso_3166_1": "DK",
+      "nazov_el": "Δανία",
+      "name_en": "Denmark"
+    },
+    {
+      "iso_3166_1": "DM",
+      "nazov_el": "Ντομίνικα",
+      "name_en": "Dominica"
+    },
+    {
+      "iso_3166_1": "DO",
+      "nazov_el": "Δομινικανή Δημοκρατία",
+      "name_en": "Dominican Republic"
+    },
+    {
+      "iso_3166_1": "DZ",
+      "nazov_el": "Αλγερία",
+      "name_en": "Algeria"
+    },
+    {
+      "iso_3166_1": "EC",
+      "nazov_el": "Ισημερινός",
+      "name_en": "Ecuador"
+    },
+    {
+      "iso_3166_1": "EE",
+      "nazov_el": "Εσθονία",
+      "name_en": "Estonia"
+    },
+    {
+      "iso_3166_1": "EG",
+      "nazov_el": "Αίγυπτος",
+      "name_en": "Egypt"
+    },
+    {
+      "iso_3166_1": "EH",
+      "nazov_el": "Δυτική Σαχάρα",
+      "name_en": "Western Sahara"
+    },
+    {
+      "iso_3166_1": "ER",
+      "nazov_el": "Ερυθραία",
+      "name_en": "Eritrea"
+    },
+    {
+      "iso_3166_1": "ES",
+      "nazov_el": "Ισπανία",
+      "name_en": "Spain"
+    },
+    {
+      "iso_3166_1": "ET",
+      "nazov_el": "Αιθιοπία",
+      "name_en": "Ethiopia"
+    },
+    {
+      "iso_3166_1": "FI",
+      "nazov_el": "Φινλανδία",
+      "name_en": "Finland"
+    },
+    {
+      "iso_3166_1": "FJ",
+      "nazov_el": "Φίτζι",
+      "name_en": "Fiji"
+    },
+    {
+      "iso_3166_1": "FK",
+      "nazov_el": "Νήσοι Φόκλαντ",
+      "name_en": "Falkland Islands"
+    },
+    {
+      "iso_3166_1": "FM",
+      "nazov_el": "Μικρονησία",
+      "name_en": "Micronesia"
+    },
+    {
+      "iso_3166_1": "FO",
+      "nazov_el": "Νήσοι Φερόες",
+      "name_en": "Faroe Islands"
+    },
+    {
+      "iso_3166_1": "FR",
+      "nazov_el": "Γαλλία",
+      "name_en": "France"
+    },
+    {
+      "iso_3166_1": "GA",
+      "nazov_el": "Γκαμπόν",
+      "name_en": "Gabon"
+    },
+    {
+      "iso_3166_1": "GB",
+      "nazov_el": "Ηνωμένο Βασίλειο",
+      "name_en": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "GD",
+      "nazov_el": "Γρενάδα",
+      "name_en": "Grenada"
+    },
+    {
+      "iso_3166_1": "GE",
+      "nazov_el": "Γεωργία",
+      "name_en": "Georgia"
+    },
+    {
+      "iso_3166_1": "GF",
+      "nazov_el": "Γαλλική Γουιάνα",
+      "name_en": "French Guiana"
+    },
+    {
+      "iso_3166_1": "GG",
+      "nazov_el": "Γκέρνζι",
+      "name_en": "Guernsey"
+    },
+    {
+      "iso_3166_1": "GH",
+      "nazov_el": "Γκάνα",
+      "name_en": "Ghana"
+    },
+    {
+      "iso_3166_1": "GI",
+      "nazov_el": "Γιβραλτάρ",
+      "name_en": "Gibraltar"
+    },
+    {
+      "iso_3166_1": "GL",
+      "nazov_el": "Γροιλανδία",
+      "name_en": "Greenland"
+    },
+    {
+      "iso_3166_1": "GM",
+      "nazov_el": "Γκάμπια",
+      "name_en": "Gambia"
+    },
+    {
+      "iso_3166_1": "GN",
+      "nazov_el": "Γουινέα",
+      "name_en": "Guinea"
+    },
+    {
+      "iso_3166_1": "GP",
+      "nazov_el": "Γουαδελούπη",
+      "name_en": "Guadeloupe"
+    },
+    {
+      "iso_3166_1": "GQ",
+      "nazov_el": "Ισημερινή Γουινέα",
+      "name_en": "Equatorial Guinea"
+    },
+    {
+      "iso_3166_1": "GR",
+      "nazov_el": "Ελλάδα",
+      "name_en": "Greece"
+    },
+    {
+      "iso_3166_1": "GS",
+      "nazov_el": "Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς",
+      "name_en": "South Georgia & South Sandwich Islands"
+    },
+    {
+      "iso_3166_1": "GT",
+      "nazov_el": "Γουατεμάλα",
+      "name_en": "Guatemala"
+    },
+    {
+      "iso_3166_1": "GU",
+      "nazov_el": "Γκουάμ",
+      "name_en": "Guam"
+    },
+    {
+      "iso_3166_1": "GW",
+      "nazov_el": "Γουινέα Μπισάου",
+      "name_en": "Guinea-Bissau"
+    },
+    {
+      "iso_3166_1": "GY",
+      "nazov_el": "Γουιάνα",
+      "name_en": "Guyana"
+    },
+    {
+      "iso_3166_1": "HK",
+      "nazov_el": "Χονγκ Κονγκ ΕΔΠ Κίνας",
+      "name_en": "Hong Kong SAR China"
+    },
+    {
+      "iso_3166_1": "HM",
+      "nazov_el": "Νήσοι Χερντ και Μακντόναλντ",
+      "name_en": "Heard & McDonald Islands"
+    },
+    {
+      "iso_3166_1": "HN",
+      "nazov_el": "Ονδούρα",
+      "name_en": "Honduras"
+    },
+    {
+      "iso_3166_1": "HR",
+      "nazov_el": "Κροατία",
+      "name_en": "Croatia"
+    },
+    {
+      "iso_3166_1": "HT",
+      "nazov_el": "Αϊτή",
+      "name_en": "Haiti"
+    },
+    {
+      "iso_3166_1": "HU",
+      "nazov_el": "Ουγγαρία",
+      "name_en": "Hungary"
+    },
+    {
+      "iso_3166_1": "ID",
+      "nazov_el": "Ινδονησία",
+      "name_en": "Indonesia"
+    },
+    {
+      "iso_3166_1": "IE",
+      "nazov_el": "Ιρλανδία",
+      "name_en": "Ireland"
+    },
+    {
+      "iso_3166_1": "IL",
+      "nazov_el": "Ισραήλ",
+      "name_en": "Israel"
+    },
+    {
+      "iso_3166_1": "IM",
+      "nazov_el": "Νήσος του Μαν",
+      "name_en": "Isle of Man"
+    },
+    {
+      "iso_3166_1": "IN",
+      "nazov_el": "Ινδία",
+      "name_en": "India"
+    },
+    {
+      "iso_3166_1": "IO",
+      "nazov_el": "Βρετανικά Εδάφη Ινδικού Ωκεανού",
+      "name_en": "British Indian Ocean Territory"
+    },
+    {
+      "iso_3166_1": "IQ",
+      "nazov_el": "Ιράκ",
+      "name_en": "Iraq"
+    },
+    {
+      "iso_3166_1": "IR",
+      "nazov_el": "Ιράν",
+      "name_en": "Iran"
+    },
+    {
+      "iso_3166_1": "IS",
+      "nazov_el": "Ισλανδία",
+      "name_en": "Iceland"
+    },
+    {
+      "iso_3166_1": "IT",
+      "nazov_el": "Ιταλία",
+      "name_en": "Italy"
+    },
+    {
+      "iso_3166_1": "JE",
+      "nazov_el": "Τζέρζι",
+      "name_en": "Jersey"
+    },
+    {
+      "iso_3166_1": "JM",
+      "nazov_el": "Τζαμάικα",
+      "name_en": "Jamaica"
+    },
+    {
+      "iso_3166_1": "JO",
+      "nazov_el": "Ιορδανία",
+      "name_en": "Jordan"
+    },
+    {
+      "iso_3166_1": "JP",
+      "nazov_el": "Ιαπωνία",
+      "name_en": "Japan"
+    },
+    {
+      "iso_3166_1": "KE",
+      "nazov_el": "Κένυα",
+      "name_en": "Kenya"
+    },
+    {
+      "iso_3166_1": "KG",
+      "nazov_el": "Κιργιστάν",
+      "name_en": "Kyrgyzstan"
+    },
+    {
+      "iso_3166_1": "KH",
+      "nazov_el": "Καμπότζη",
+      "name_en": "Cambodia"
+    },
+    {
+      "iso_3166_1": "KI",
+      "nazov_el": "Κιριμπάτι",
+      "name_en": "Kiribati"
+    },
+    {
+      "iso_3166_1": "KM",
+      "nazov_el": "Κομόρες",
+      "name_en": "Comoros"
+    },
+    {
+      "iso_3166_1": "KN",
+      "nazov_el": "Σεν Κιτς και Νέβις",
+      "name_en": "St. Kitts & Nevis"
+    },
+    {
+      "iso_3166_1": "KP",
+      "nazov_el": "Βόρεια Κορέα",
+      "name_en": "North Korea"
+    },
+    {
+      "iso_3166_1": "KR",
+      "nazov_el": "Νότια Κορέα",
+      "name_en": "South Korea"
+    },
+    {
+      "iso_3166_1": "KW",
+      "nazov_el": "Κουβέιτ",
+      "name_en": "Kuwait"
+    },
+    {
+      "iso_3166_1": "KY",
+      "nazov_el": "Νήσοι Κέιμαν",
+      "name_en": "Cayman Islands"
+    },
+    {
+      "iso_3166_1": "KZ",
+      "nazov_el": "Καζακστάν",
+      "name_en": "Kazakhstan"
+    },
+    {
+      "iso_3166_1": "LA",
+      "nazov_el": "Λάος",
+      "name_en": "Laos"
+    },
+    {
+      "iso_3166_1": "LB",
+      "nazov_el": "Λίβανος",
+      "name_en": "Lebanon"
+    },
+    {
+      "iso_3166_1": "LC",
+      "nazov_el": "Αγία Λουκία",
+      "name_en": "St. Lucia"
+    },
+    {
+      "iso_3166_1": "LI",
+      "nazov_el": "Λιχτενστάιν",
+      "name_en": "Liechtenstein"
+    },
+    {
+      "iso_3166_1": "LK",
+      "nazov_el": "Σρι Λάνκα",
+      "name_en": "Sri Lanka"
+    },
+    {
+      "iso_3166_1": "LR",
+      "nazov_el": "Λιβερία",
+      "name_en": "Liberia"
+    },
+    {
+      "iso_3166_1": "LS",
+      "nazov_el": "Λεσότο",
+      "name_en": "Lesotho"
+    },
+    {
+      "iso_3166_1": "LT",
+      "nazov_el": "Λιθουανία",
+      "name_en": "Lithuania"
+    },
+    {
+      "iso_3166_1": "LU",
+      "nazov_el": "Λουξεμβούργο",
+      "name_en": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "LV",
+      "nazov_el": "Λετονία",
+      "name_en": "Latvia"
+    },
+    {
+      "iso_3166_1": "LY",
+      "nazov_el": "Λιβύη",
+      "name_en": "Libya"
+    },
+    {
+      "iso_3166_1": "MA",
+      "nazov_el": "Μαρόκο",
+      "name_en": "Morocco"
+    },
+    {
+      "iso_3166_1": "MC",
+      "nazov_el": "Μονακό",
+      "name_en": "Monaco"
+    },
+    {
+      "iso_3166_1": "MD",
+      "nazov_el": "Μολδαβία",
+      "name_en": "Moldova"
+    },
+    {
+      "iso_3166_1": "ME",
+      "nazov_el": "Μαυροβούνιο",
+      "name_en": "Montenegro"
+    },
+    {
+      "iso_3166_1": "MF",
+      "nazov_el": "Άγιος Μαρτίνος (Γαλλικό τμήμα)",
+      "name_en": "St. Martin"
+    },
+    {
+      "iso_3166_1": "MG",
+      "nazov_el": "Μαδαγασκάρη",
+      "name_en": "Madagascar"
+    },
+    {
+      "iso_3166_1": "MH",
+      "nazov_el": "Νήσοι Μάρσαλ",
+      "name_en": "Marshall Islands"
+    },
+    {
+      "iso_3166_1": "MK",
+      "nazov_el": "Βόρεια Μακεδονία",
+      "name_en": "North Macedonia"
+    },
+    {
+      "iso_3166_1": "ML",
+      "nazov_el": "Μάλι",
+      "name_en": "Mali"
+    },
+    {
+      "iso_3166_1": "MM",
+      "nazov_el": "Μιανμάρ (Βιρμανία)",
+      "name_en": "Myanmar (Burma)"
+    },
+    {
+      "iso_3166_1": "MN",
+      "nazov_el": "Μογγολία",
+      "name_en": "Mongolia"
+    },
+    {
+      "iso_3166_1": "MO",
+      "nazov_el": "Μακάο ΕΔΠ Κίνας",
+      "name_en": "Macao SAR China"
+    },
+    {
+      "iso_3166_1": "MP",
+      "nazov_el": "Νήσοι Βόρειες Μαριάνες",
+      "name_en": "Northern Mariana Islands"
+    },
+    {
+      "iso_3166_1": "MQ",
+      "nazov_el": "Μαρτινίκα",
+      "name_en": "Martinique"
+    },
+    {
+      "iso_3166_1": "MR",
+      "nazov_el": "Μαυριτανία",
+      "name_en": "Mauritania"
+    },
+    {
+      "iso_3166_1": "MS",
+      "nazov_el": "Μονσεράτ",
+      "name_en": "Montserrat"
+    },
+    {
+      "iso_3166_1": "MT",
+      "nazov_el": "Μάλτα",
+      "name_en": "Malta"
+    },
+    {
+      "iso_3166_1": "MU",
+      "nazov_el": "Μαυρίκιος",
+      "name_en": "Mauritius"
+    },
+    {
+      "iso_3166_1": "MV",
+      "nazov_el": "Μαλδίβες",
+      "name_en": "Maldives"
+    },
+    {
+      "iso_3166_1": "MW",
+      "nazov_el": "Μαλάουι",
+      "name_en": "Malawi"
+    },
+    {
+      "iso_3166_1": "MX",
+      "nazov_el": "Μεξικό",
+      "name_en": "Mexico"
+    },
+    {
+      "iso_3166_1": "MY",
+      "nazov_el": "Μαλαισία",
+      "name_en": "Malaysia"
+    },
+    {
+      "iso_3166_1": "MZ",
+      "nazov_el": "Μοζαμβίκη",
+      "name_en": "Mozambique"
+    },
+    {
+      "iso_3166_1": "NA",
+      "nazov_el": "Ναμίμπια",
+      "name_en": "Namibia"
+    },
+    {
+      "iso_3166_1": "NC",
+      "nazov_el": "Νέα Καληδονία",
+      "name_en": "New Caledonia"
+    },
+    {
+      "iso_3166_1": "NE",
+      "nazov_el": "Νίγηρας",
+      "name_en": "Niger"
+    },
+    {
+      "iso_3166_1": "NF",
+      "nazov_el": "Νήσος Νόρφολκ",
+      "name_en": "Norfolk Island"
+    },
+    {
+      "iso_3166_1": "NG",
+      "nazov_el": "Νιγηρία",
+      "name_en": "Nigeria"
+    },
+    {
+      "iso_3166_1": "NI",
+      "nazov_el": "Νικαράγουα",
+      "name_en": "Nicaragua"
+    },
+    {
+      "iso_3166_1": "NL",
+      "nazov_el": "Ολλανδία",
+      "name_en": "Netherlands"
+    },
+    {
+      "iso_3166_1": "NO",
+      "nazov_el": "Νορβηγία",
+      "name_en": "Norway"
+    },
+    {
+      "iso_3166_1": "NP",
+      "nazov_el": "Νεπάλ",
+      "name_en": "Nepal"
+    },
+    {
+      "iso_3166_1": "NR",
+      "nazov_el": "Ναουρού",
+      "name_en": "Nauru"
+    },
+    {
+      "iso_3166_1": "NU",
+      "nazov_el": "Νιούε",
+      "name_en": "Niue"
+    },
+    {
+      "iso_3166_1": "NZ",
+      "nazov_el": "Νέα Ζηλανδία",
+      "name_en": "New Zealand"
+    },
+    {
+      "iso_3166_1": "OM",
+      "nazov_el": "Ομάν",
+      "name_en": "Oman"
+    },
+    {
+      "iso_3166_1": "PA",
+      "nazov_el": "Παναμάς",
+      "name_en": "Panama"
+    },
+    {
+      "iso_3166_1": "PE",
+      "nazov_el": "Περού",
+      "name_en": "Peru"
+    },
+    {
+      "iso_3166_1": "PF",
+      "nazov_el": "Γαλλική Πολυνησία",
+      "name_en": "French Polynesia"
+    },
+    {
+      "iso_3166_1": "PG",
+      "nazov_el": "Παπούα Νέα Γουινέα",
+      "name_en": "Papua New Guinea"
+    },
+    {
+      "iso_3166_1": "PH",
+      "nazov_el": "Φιλιππίνες",
+      "name_en": "Philippines"
+    },
+    {
+      "iso_3166_1": "PK",
+      "nazov_el": "Πακιστάν",
+      "name_en": "Pakistan"
+    },
+    {
+      "iso_3166_1": "PL",
+      "nazov_el": "Πολωνία",
+      "name_en": "Poland"
+    },
+    {
+      "iso_3166_1": "PM",
+      "nazov_el": "Σεν Πιερ και Μικελόν",
+      "name_en": "St. Pierre & Miquelon"
+    },
+    {
+      "iso_3166_1": "PN",
+      "nazov_el": "Νήσοι Πίτκερν",
+      "name_en": "Pitcairn Islands"
+    },
+    {
+      "iso_3166_1": "PR",
+      "nazov_el": "Πουέρτο Ρίκο",
+      "name_en": "Puerto Rico"
+    },
+    {
+      "iso_3166_1": "PS",
+      "nazov_el": "Παλαιστινιακά Εδάφη",
+      "name_en": "Palestinian Territories"
+    },
+    {
+      "iso_3166_1": "PT",
+      "nazov_el": "Πορτογαλία",
+      "name_en": "Portugal"
+    },
+    {
+      "iso_3166_1": "PW",
+      "nazov_el": "Παλάου",
+      "name_en": "Palau"
+    },
+    {
+      "iso_3166_1": "PY",
+      "nazov_el": "Παραγουάη",
+      "name_en": "Paraguay"
+    },
+    {
+      "iso_3166_1": "QA",
+      "nazov_el": "Κατάρ",
+      "name_en": "Qatar"
+    },
+    {
+      "iso_3166_1": "RE",
+      "nazov_el": "Ρεϊνιόν",
+      "name_en": "Réunion"
+    },
+    {
+      "iso_3166_1": "RO",
+      "nazov_el": "Ρουμανία",
+      "name_en": "Romania"
+    },
+    {
+      "iso_3166_1": "RS",
+      "nazov_el": "Σερβία",
+      "name_en": "Serbia"
+    },
+    {
+      "iso_3166_1": "RU",
+      "nazov_el": "Ρωσία",
+      "name_en": "Russia"
+    },
+    {
+      "iso_3166_1": "RW",
+      "nazov_el": "Ρουάντα",
+      "name_en": "Rwanda"
+    },
+    {
+      "iso_3166_1": "SA",
+      "nazov_el": "Σαουδική Αραβία",
+      "name_en": "Saudi Arabia"
+    },
+    {
+      "iso_3166_1": "SB",
+      "nazov_el": "Νήσοι Σολομώντος",
+      "name_en": "Solomon Islands"
+    },
+    {
+      "iso_3166_1": "SC",
+      "nazov_el": "Σεϋχέλλες",
+      "name_en": "Seychelles"
+    },
+    {
+      "iso_3166_1": "SD",
+      "nazov_el": "Σουδάν",
+      "name_en": "Sudan"
+    },
+    {
+      "iso_3166_1": "SE",
+      "nazov_el": "Σουηδία",
+      "name_en": "Sweden"
+    },
+    {
+      "iso_3166_1": "SG",
+      "nazov_el": "Σιγκαπούρη",
+      "name_en": "Singapore"
+    },
+    {
+      "iso_3166_1": "SH",
+      "nazov_el": "Αγία Ελένη",
+      "name_en": "St. Helena"
+    },
+    {
+      "iso_3166_1": "SI",
+      "nazov_el": "Σλοβενία",
+      "name_en": "Slovenia"
+    },
+    {
+      "iso_3166_1": "SJ",
+      "nazov_el": "Σβάλμπαρντ και Γιαν Μαγιέν",
+      "name_en": "Svalbard & Jan Mayen"
+    },
+    {
+      "iso_3166_1": "SK",
+      "nazov_el": "Σλοβακία",
+      "name_en": "Slovakia"
+    },
+    {
+      "iso_3166_1": "SL",
+      "nazov_el": "Σιέρα Λεόνε",
+      "name_en": "Sierra Leone"
+    },
+    {
+      "iso_3166_1": "SM",
+      "nazov_el": "Άγιος Μαρίνος",
+      "name_en": "San Marino"
+    },
+    {
+      "iso_3166_1": "SN",
+      "nazov_el": "Σενεγάλη",
+      "name_en": "Senegal"
+    },
+    {
+      "iso_3166_1": "SO",
+      "nazov_el": "Σομαλία",
+      "name_en": "Somalia"
+    },
+    {
+      "iso_3166_1": "SR",
+      "nazov_el": "Σουρινάμ",
+      "name_en": "Suriname"
+    },
+    {
+      "iso_3166_1": "SS",
+      "nazov_el": "Νότιο Σουδάν",
+      "name_en": "South Sudan"
+    },
+    {
+      "iso_3166_1": "ST",
+      "nazov_el": "Σάο Τομέ και Πρίνσιπε",
+      "name_en": "São Tomé & Príncipe"
+    },
+    {
+      "iso_3166_1": "SV",
+      "nazov_el": "Ελ Σαλβαδόρ",
+      "name_en": "El Salvador"
+    },
+    {
+      "iso_3166_1": "SX",
+      "nazov_el": "Άγιος Μαρτίνος (Ολλανδικό τμήμα)",
+      "name_en": "Sint Maarten"
+    },
+    {
+      "iso_3166_1": "SY",
+      "nazov_el": "Συρία",
+      "name_en": "Syria"
+    },
+    {
+      "iso_3166_1": "SZ",
+      "nazov_el": "Σουαζιλάνδη",
+      "name_en": "Eswatini"
+    },
+    {
+      "iso_3166_1": "TC",
+      "nazov_el": "Νήσοι Τερκς και Κάικος",
+      "name_en": "Turks & Caicos Islands"
+    },
+    {
+      "iso_3166_1": "TD",
+      "nazov_el": "Τσαντ",
+      "name_en": "Chad"
+    },
+    {
+      "iso_3166_1": "TF",
+      "nazov_el": "Γαλλικά Νότια Εδάφη",
+      "name_en": "French Southern Territories"
+    },
+    {
+      "iso_3166_1": "TG",
+      "nazov_el": "Τόγκο",
+      "name_en": "Togo"
+    },
+    {
+      "iso_3166_1": "TH",
+      "nazov_el": "Ταϊλάνδη",
+      "name_en": "Thailand"
+    },
+    {
+      "iso_3166_1": "TJ",
+      "nazov_el": "Τατζικιστάν",
+      "name_en": "Tajikistan"
+    },
+    {
+      "iso_3166_1": "TK",
+      "nazov_el": "Τοκελάου",
+      "name_en": "Tokelau"
+    },
+    {
+      "iso_3166_1": "TL",
+      "nazov_el": "Τιμόρ-Λέστε",
+      "name_en": "Timor-Leste"
+    },
+    {
+      "iso_3166_1": "TM",
+      "nazov_el": "Τουρκμενιστάν",
+      "name_en": "Turkmenistan"
+    },
+    {
+      "iso_3166_1": "TN",
+      "nazov_el": "Τυνησία",
+      "name_en": "Tunisia"
+    },
+    {
+      "iso_3166_1": "TO",
+      "nazov_el": "Τόνγκα",
+      "name_en": "Tonga"
+    },
+    {
+      "iso_3166_1": "TR",
+      "nazov_el": "Τουρκία",
+      "name_en": "Turkey"
+    },
+    {
+      "iso_3166_1": "TT",
+      "nazov_el": "Τρινιντάντ και Τομπάγκο",
+      "name_en": "Trinidad & Tobago"
+    },
+    {
+      "iso_3166_1": "TV",
+      "nazov_el": "Τουβαλού",
+      "name_en": "Tuvalu"
+    },
+    {
+      "iso_3166_1": "TW",
+      "nazov_el": "Ταϊβάν",
+      "name_en": "Taiwan"
+    },
+    {
+      "iso_3166_1": "TZ",
+      "nazov_el": "Τανζανία",
+      "name_en": "Tanzania"
+    },
+    {
+      "iso_3166_1": "UA",
+      "nazov_el": "Ουκρανία",
+      "name_en": "Ukraine"
+    },
+    {
+      "iso_3166_1": "UG",
+      "nazov_el": "Ουγκάντα",
+      "name_en": "Uganda"
+    },
+    {
+      "iso_3166_1": "UM",
+      "nazov_el": "Απομακρυσμένες Νησίδες ΗΠΑ",
+      "name_en": "U.S. Outlying Islands"
+    },
+    {
+      "iso_3166_1": "US",
+      "nazov_el": "Ηνωμένες Πολιτείες",
+      "name_en": "United States"
+    },
+    {
+      "iso_3166_1": "UY",
+      "nazov_el": "Ουρουγουάη",
+      "name_en": "Uruguay"
+    },
+    {
+      "iso_3166_1": "UZ",
+      "nazov_el": "Ουζμπεκιστάν",
+      "name_en": "Uzbekistan"
+    },
+    {
+      "iso_3166_1": "VA",
+      "nazov_el": "Βατικανό",
+      "name_en": "Vatican City"
+    },
+    {
+      "iso_3166_1": "VC",
+      "nazov_el": "Άγιος Βικέντιος και Γρεναδίνες",
+      "name_en": "St. Vincent & Grenadines"
+    },
+    {
+      "iso_3166_1": "VE",
+      "nazov_el": "Βενεζουέλα",
+      "name_en": "Venezuela"
+    },
+    {
+      "iso_3166_1": "VG",
+      "nazov_el": "Βρετανικές Παρθένες Νήσοι",
+      "name_en": "British Virgin Islands"
+    },
+    {
+      "iso_3166_1": "VI",
+      "nazov_el": "Αμερικανικές Παρθένες Νήσοι",
+      "name_en": "U.S. Virgin Islands"
+    },
+    {
+      "iso_3166_1": "VN",
+      "nazov_el": "Βιετνάμ",
+      "name_en": "Vietnam"
+    },
+    {
+      "iso_3166_1": "VU",
+      "nazov_el": "Βανουάτου",
+      "name_en": "Vanuatu"
+    },
+    {
+      "iso_3166_1": "WF",
+      "nazov_el": "Γουάλις και Φουτούνα",
+      "name_en": "Wallis & Futuna"
+    },
+    {
+      "iso_3166_1": "WS",
+      "nazov_el": "Σαμόα",
+      "name_en": "Samoa"
+    },
+    {
+      "iso_3166_1": "YE",
+      "nazov_el": "Υεμένη",
+      "name_en": "Yemen"
+    },
+    {
+      "iso_3166_1": "YT",
+      "nazov_el": "Μαγιότ",
+      "name_en": "Mayotte"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "nazov_el": "Νότια Αφρική",
+      "name_en": "South Africa"
+    },
+    {
+      "iso_3166_1": "ZM",
+      "nazov_el": "Ζάμπια",
+      "name_en": "Zambia"
+    },
+    {
+      "iso_3166_1": "ZW",
+      "nazov_el": "Ζιμπάμπουε",
+      "name_en": "Zimbabwe"
+    }
+  ],
+  "meta": {
+    "title": "Χώρες του Κόσμου - Δωρεάν λήψη",
+    "description": "Κατάλογος χωρών του κόσμου στα ελληνικά και αγγλικά. Κωδικός ISO 3166-1 alpha-2. Περιέχει 249 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Χώρες του Κόσμου | ListBase",
+    "seo_description": "Λήψη Χώρες του Κόσμου — 249 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 249 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

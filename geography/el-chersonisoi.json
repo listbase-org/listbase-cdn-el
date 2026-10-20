@@ -1,0 +1,511 @@
+{
+  "id": "el-chersonisoi",
+  "name": "Χερσόνησοι της Ελλάδας",
+  "title": "Χερσόνησοι της Ελλάδας",
+  "description": "Peninsulas in Greece from Wikidata (P31=Q34763 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q2937026",
+      "name_el": "",
+      "name_en": "Drapanos Peninsula",
+      "admin_area_el": "Δήμος Βάμου",
+      "admin_area_en": "Vamos",
+      "latitude": 35.4689,
+      "longitude": 24.24,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2937026"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q97667013",
+      "name_el": "",
+      "name_en": "Pelion peninsula",
+      "admin_area_el": "Δήμος Νοτίου Πηλίου",
+      "admin_area_en": "Southern Pelion Municipality",
+      "latitude": 39.266666666,
+      "longitude": 23.166666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97667013"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q2281795",
+      "name_el": "",
+      "name_en": "Sideros",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.329444444,
+      "longitude": 26.3075,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2281795"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q29840513",
+      "name_el": "",
+      "name_en": "Ákra Parathíra",
+      "admin_area_el": "Δήμος Ακτίου - Βόνιτσας",
+      "admin_area_en": "Aktio-Vonitsa Municipality",
+      "latitude": 38.75,
+      "longitude": 20.78333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29840513"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q25023159",
+      "name_el": "Άκρα Κλιμός",
+      "name_en": "Ákra Klimós",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 39.098055555,
+      "longitude": 22.982222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25023159"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q26266265",
+      "name_el": "Άκρα Τούρλος",
+      "name_en": "Tourlos cape",
+      "admin_area_el": "Δήμος Θήρας",
+      "admin_area_en": "Thira Municipality",
+      "latitude": 36.4298,
+      "longitude": 25.41394,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26266265"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q61060143",
+      "name_el": "Έρισσος",
+      "name_en": "Erissos peninsula",
+      "admin_area_el": "Δήμος Σάμης",
+      "admin_area_en": "Municipality of Sami",
+      "latitude": 38.40427094,
+      "longitude": 20.573150838,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61060143"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q421226",
+      "name_el": "Ακρωτήρι Κρήτης",
+      "name_en": "Akrotiri, Crete",
+      "admin_area_el": "Δήμος Χανίων",
+      "admin_area_en": "Chania Municipality",
+      "latitude": 35.53333333,
+      "longitude": 24.13333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q421226"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q25452977",
+      "name_el": "Ακρωτήρι Ροδωπού",
+      "name_en": "Rodopos promontory",
+      "admin_area_el": "Δήμος Πλατανιά",
+      "admin_area_en": "Platanias Municipality",
+      "latitude": 35.5627,
+      "longitude": 23.7535,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25452977"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q25044670",
+      "name_el": "Αργολική χερσόνησος",
+      "name_en": "Argolid Peninsula",
+      "admin_area_el": "Περιφερειακή Ενότητα Αργολίδας",
+      "admin_area_en": "Argolida Regional Unit",
+      "latitude": 37.6,
+      "longitude": 23,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25044670"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q121314557",
+      "name_el": "Καβούρι",
+      "name_en": "Kavouri",
+      "admin_area_el": "Βουλιαγμένη Αττικής",
+      "admin_area_en": "Vouliagmeni",
+      "latitude": 37.81576,
+      "longitude": 23.763446,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121314557"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q2625955",
+      "name_el": "Κασσάνδρα",
+      "name_en": "Kassandra Peninsula",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 40.01955,
+      "longitude": 23.46071,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2625955"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q131400675",
+      "name_el": "Κυνόσουρα Σαλαμίνας (χερσόνησος)",
+      "name_en": "Kynosoura",
+      "admin_area_el": "Δήμος Σαλαμίνας",
+      "admin_area_en": "Salamina Municipality",
+      "latitude": 37.944611111,
+      "longitude": 23.5595,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131400675"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q19359581",
+      "name_el": "Κόπραινα",
+      "name_en": "Koprena",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 39.038,
+      "longitude": 21.0737,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19359581"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q25023339",
+      "name_el": "Κώρυκος",
+      "name_en": "Gramvousa Peninsula",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.570853,
+      "longitude": 23.593626,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25023339"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q25020855",
+      "name_el": "Λαγονήσι",
+      "name_en": "Lagonisi",
+      "admin_area_el": "Δήμος Σαρωνικού Αττικής",
+      "admin_area_en": "Saronikos Municipality",
+      "latitude": 37.778055555,
+      "longitude": 23.888333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25020855"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q745295",
+      "name_el": "Μάνη",
+      "name_en": "Mani Peninsula",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 36.559,
+      "longitude": 22.4303,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q745295"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q1196055",
+      "name_el": "Μοριάς",
+      "name_en": "Morea",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.349722222,
+      "longitude": 22.352222222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1196055"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q29015637",
+      "name_el": "Μπούρτζι Σκιάθου",
+      "name_en": "Bourtzi of Skiathos",
+      "admin_area_el": "Περιφερειακή Ενότητα Μαγνησίας",
+      "admin_area_en": "Magnesia Regional Unit",
+      "latitude": 39.161088,
+      "longitude": 23.490833,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29015637"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q1142642",
+      "name_el": "Παλική",
+      "name_en": "Paliki",
+      "admin_area_el": "Δήμος Ληξουρίου",
+      "admin_area_en": "Lixouri Municipality",
+      "latitude": 38.3,
+      "longitude": 20.41666667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1142642"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q78967",
+      "name_el": "Πελοπόννησος",
+      "name_en": "Peloponnese",
+      "admin_area_el": "Ελλάδα",
+      "admin_area_en": "Greece",
+      "latitude": 37.4,
+      "longitude": 22.3,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q78967"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q1226893",
+      "name_el": "Πρασονήσι Ρόδου",
+      "name_en": "Prasonisi",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 35.8825,
+      "longitude": 27.761111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1226893"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q922342",
+      "name_el": "Σιθωνία",
+      "name_en": "Sithonia",
+      "admin_area_el": "Δήμος Σιθωνίας",
+      "admin_area_en": "Sithonia Municipality",
+      "latitude": 40.097777777,
+      "longitude": 23.868333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q922342"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q24896610",
+      "name_el": "Τηγάνι",
+      "name_en": "Tigani",
+      "admin_area_el": "Δήμος Κισσάμου",
+      "admin_area_en": "Kissamos Municipality",
+      "latitude": 35.587777777,
+      "longitude": 23.581111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24896610"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q12885719",
+      "name_el": "Φακός Λήμνου",
+      "name_en": "Fakos",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 39.823055555,
+      "longitude": 25.178888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12885719"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q204728",
+      "name_el": "Χαλκιδική",
+      "name_en": "Chalkidiki",
+      "admin_area_el": "Περιφερειακή Ενότητα Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Regional Unit",
+      "latitude": 40.583333,
+      "longitude": 23.5,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q204728"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q25113909",
+      "name_el": "Χερσόνησος Ακρωτήρι",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.553333333,
+      "longitude": 24.132777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25113909"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q106368044",
+      "name_el": "Χερσόνησος Κυνοσούρας.",
+      "name_en": "Chersonisos Kynosouras",
+      "admin_area_el": "Περιφέρεια Αττικής",
+      "admin_area_en": "Attica Region",
+      "latitude": 38.13486,
+      "longitude": 24.05595,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106368044"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q25024762",
+      "name_el": "Χερσόνησος Λιχάδας",
+      "name_en": "Khersónisos Likhás",
+      "admin_area_el": "Περιφερειακή Ενότητα Ευβοίας",
+      "admin_area_en": "Euboea regional unit",
+      "latitude": 38.86163,
+      "longitude": 22.90976,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25024762"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q25117271",
+      "name_el": "Χερσόνησος Μαγνησίας",
+      "name_en": "Magnesia peninsula",
+      "admin_area_el": "Περιφερειακή Ενότητα Μαγνησίας",
+      "admin_area_en": "Magnesia Regional Unit",
+      "latitude": 39.25,
+      "longitude": 23.25,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25117271"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q25017110",
+      "name_el": "Χερσόνησος Μεθάνων",
+      "name_en": "Methana Peninsula",
+      "admin_area_el": "Δήμος Τροιζηνίας-Μεθάνων",
+      "admin_area_en": "Troizinia-Methana Municipality",
+      "latitude": 37.60397,
+      "longitude": 23.36613,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25017110"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q25159982",
+      "name_el": "Χερσόνησος Παλαιοκαστρίτσης",
+      "name_en": "Palaiokastritsa peninsula",
+      "admin_area_el": "Δήμος Κέρκυρας",
+      "admin_area_en": "Corfu Municipality",
+      "latitude": 39.6725,
+      "longitude": 19.703055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25159982"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q110920176",
+      "name_el": "Χερσόνησος Περαχώρας",
+      "name_en": "Perachora Peninsula",
+      "admin_area_el": "Δήμος Λουτρακίου - Περαχώρας - Αγίων Θεοδώρων",
+      "admin_area_en": "Loutraki-Perachora-Agioi Theodoroi Municipality",
+      "latitude": 38.0353,
+      "longitude": 22.9685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110920176"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q24990548",
+      "name_el": "Χερσόνησος Ροδωπού",
+      "name_en": "Chersonisos Rodopou",
+      "admin_area_el": "Περιφέρεια Κρήτης",
+      "admin_area_en": "Crete Region",
+      "latitude": 35.66111111,
+      "longitude": 23.73944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24990548"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q25014799",
+      "name_el": "Χερσόνησος Σέλινο Καστέλλι",
+      "name_en": "Selino Kastelli Peninsula",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.2275,
+      "longitude": 23.680555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25014799"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q25117273",
+      "name_el": "Χερσόνησος Τρίκερι",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 39.109444444,
+      "longitude": 23.151388888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25117273"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q18047547",
+      "name_el": "Χερσόνησος της Κυλλήνης",
+      "name_en": "Kyllini peninsula",
+      "admin_area_el": "Περιφερειακή Ενότητα Ηλείας",
+      "admin_area_en": "Elis Regional Unit",
+      "latitude": 37.891,
+      "longitude": 21.127,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18047547"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q2310706",
+      "name_el": "Χερσόνησος της Σπιναλόγκας",
+      "name_en": "Spinalonga peninsula",
+      "admin_area_el": "δημοτική κοινότητα Ελούντας Λασιθίου",
+      "admin_area_en": "Commune of Elounta",
+      "latitude": 35.27166667,
+      "longitude": 25.74666667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2310706"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q18524242",
+      "name_el": "Χερσόνησος του Άθω",
+      "name_en": "Athos peninsula",
+      "admin_area_el": "Αυτόνομη Μοναστική Πολιτεία Αγἰου Όρους",
+      "admin_area_en": "monastic community of Mount Athos",
+      "latitude": 40.278055555,
+      "longitude": 24.215,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18524242"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q25094444",
+      "name_el": "χερσόνησος Διόνι",
+      "name_en": "Dioni peninsula",
+      "admin_area_el": "Δήμος Ιεράς Πόλεως Μεσολογγίου",
+      "admin_area_en": "Missolonghi Municipality",
+      "latitude": 38.36972,
+      "longitude": 21.0975,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25094444"
+    }
+  ],
+  "meta": {
+    "title": "Χερσόνησοι της Ελλάδας - Δωρεάν λήψη",
+    "description": "Peninsulas in Greece from Wikidata (P31=Q34763 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 40 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Χερσόνησοι της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Χερσόνησοι της Ελλάδας — 40 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 40 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

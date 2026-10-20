@@ -1,0 +1,632 @@
+{
+  "id": "el-artas-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Αρτας (83)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Αρτας (83)",
+  "description": "Οι 83 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Αρτας (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 83,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "060301",
+      "name": "Ανεζης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060302",
+      "name": "Βιγλας",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060303",
+      "name": "Γαβριας",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060304",
+      "name": "Καλογερικου",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060305",
+      "name": "Κορωνησιας",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060306",
+      "name": "Πολυδροσου",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060307",
+      "name": "Ραχης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060308",
+      "name": "Στρογγυλης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060309",
+      "name": "Ψαθοτοπιου",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060501",
+      "name": "Αρταιων",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060502",
+      "name": "Κεραματων",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060503",
+      "name": "Κωστακιων",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060504",
+      "name": "Λιμινης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060601",
+      "name": "Βλαχερνας",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060602",
+      "name": "Γραμμενιτσης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060603",
+      "name": "Γριμποβου",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060604",
+      "name": "Κορφοβουνιου",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061301",
+      "name": "Αμμοτοπου",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061302",
+      "name": "Δαφνωτης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061303",
+      "name": "Καμπης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061304",
+      "name": "Παντανασσης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061305",
+      "name": "Πιστιανων",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061306",
+      "name": "Ροδαυγης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061307",
+      "name": "Σκουπας",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061308",
+      "name": "Φανερωμενης",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061601",
+      "name": "Αγιου Σπυριδωνος",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061602",
+      "name": "Καλαμιας",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061603",
+      "name": "Καλοβατου",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061604",
+      "name": "Κιρκιζατων",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061605",
+      "name": "Ροκκας",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061606",
+      "name": "Χαλκιαδων",
+      "municipality": "Αρταιων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060701",
+      "name": "Δημαριου",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060702",
+      "name": "Διασελλου",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060703",
+      "name": "Κλειδιου",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060704",
+      "name": "Πετρας",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060705",
+      "name": "Σκουληκαριας",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060801",
+      "name": "Ανω Καλεντινης",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060802",
+      "name": "Βελεντζικου",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060803",
+      "name": "Διχομοιριου",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060804",
+      "name": "Ρετσιανων",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061501",
+      "name": "Αστροχωριου",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061502",
+      "name": "Ελατης",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061503",
+      "name": "Καστανεας",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061504",
+      "name": "Μεγαλοχαρης",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061505",
+      "name": "Μεσοπυργου",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061506",
+      "name": "Μηλιανων",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061507",
+      "name": "Πηγων",
+      "municipality": "Γεωργιου Καραϊσκακη",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060101",
+      "name": "Αγναντων",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060102",
+      "name": "Γραικικου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060103",
+      "name": "Καταρρακτου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060104",
+      "name": "Κουκκουλιων",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060105",
+      "name": "Κτισταδων",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060106",
+      "name": "Λεπιανων",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060107",
+      "name": "Μικροσπηλιας",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060108",
+      "name": "Ραμιας",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060201",
+      "name": "Αθαμανιου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060202",
+      "name": "Ανεμορραχης",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060203",
+      "name": "Βουργαρελιου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060204",
+      "name": "Διστρατου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060205",
+      "name": "Κατω Αθαμανιου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060206",
+      "name": "Κατω Καλεντινης",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060207",
+      "name": "Καψαλων",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060208",
+      "name": "Κεντρικου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060209",
+      "name": "Κυψελης",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060210",
+      "name": "Μεσουντας",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060211",
+      "name": "Παλαιοκατουνου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060212",
+      "name": "Τετρακωμου",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060901",
+      "name": "Θεοδωριανων",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061201",
+      "name": "Μελισσουργων",
+      "municipality": "Κεντρικων Τζουμερκων",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060404",
+      "name": "Νεοχωριου",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060401",
+      "name": "Αγιας Παρασκευης",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060402",
+      "name": "Ακροποταμιας",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060403",
+      "name": "Λουτροτοπου",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060405",
+      "name": "Παχυκαλαμου",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060406",
+      "name": "Περανθης",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "060407",
+      "name": "Συκεων",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061001",
+      "name": "Κομμενου",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061101",
+      "name": "Κομποτιου",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061102",
+      "name": "Σελλαδων",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061103",
+      "name": "Φωτεινου",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061403",
+      "name": "Πετα",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061401",
+      "name": "Μαρκινιαδας",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "061402",
+      "name": "Μεγαρχης",
+      "municipality": "Νικολαου Σκουφα",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Αρτας (83) - Δωρεάν λήψη",
+    "description": "Οι 83 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Αρτας (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη. Περιέχει 83 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Αρτας (83) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Αρτας (83) — 83 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 83 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

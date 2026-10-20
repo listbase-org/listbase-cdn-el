@@ -1,0 +1,203 @@
+{
+  "id": "el-voreiou-aigaiou-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Βορείου Αιγαίου",
+  "title": "Αεροδρόμια — Περιφέρεια Βορείου Αιγαίου",
+  "description": "Αεροδρόμια στην «Περιφέρεια Βορείου Αιγαίου» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (North Aegean Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LG56",
+      "iata": "",
+      "name": "Olimboi Airport",
+      "name_slug": "olimboi-airport",
+      "city": "Chios Island",
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "perifereia_source": "North-Aegean",
+      "perifereia_slug": "voreiou-aigaiou",
+      "perifereia_en": "North Aegean Region",
+      "country": "GR",
+      "elevation_ft": 656,
+      "lat": 38.2360992432,
+      "lon": 25.9391994476,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGHI",
+      "iata": "JKH",
+      "name": "Chios Island National Airport",
+      "name_slug": "chios-island-national-airport",
+      "city": "Chios Island",
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "perifereia_source": "North-Aegean",
+      "perifereia_slug": "voreiou-aigaiou",
+      "perifereia_en": "North Aegean Region",
+      "country": "GR",
+      "elevation_ft": 15,
+      "lat": 38.3432006836,
+      "lon": 26.1406002045,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGIK",
+      "iata": "JIK",
+      "name": "Ikaria Airport",
+      "name_slug": "ikaria-airport",
+      "city": "Ikaria Island",
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "perifereia_source": "North-Aegean",
+      "perifereia_slug": "voreiou-aigaiou",
+      "perifereia_en": "North Aegean Region",
+      "country": "GR",
+      "elevation_ft": 79,
+      "lat": 37.6827011108,
+      "lon": 26.3470993042,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGLM",
+      "iata": "LXS",
+      "name": "Limnos Airport",
+      "name_slug": "limnos-airport",
+      "city": "Limnos Island",
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "perifereia_source": "North-Aegean",
+      "perifereia_slug": "voreiou-aigaiou",
+      "perifereia_en": "North Aegean Region",
+      "country": "GR",
+      "elevation_ft": 14,
+      "lat": 39.917098999,
+      "lon": 25.2362995148,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGMT",
+      "iata": "MJT",
+      "name": "Mytilene International Airport",
+      "name_slug": "mytilene-international-airport",
+      "city": "Mytilene",
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "perifereia_source": "North-Aegean",
+      "perifereia_slug": "voreiou-aigaiou",
+      "perifereia_en": "North Aegean Region",
+      "country": "GR",
+      "elevation_ft": 60,
+      "lat": 39.0567016602,
+      "lon": 26.5983009338,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGSM",
+      "iata": "SMI",
+      "name": "Samos Airport",
+      "name_slug": "samos-airport",
+      "city": "Samos Island",
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "perifereia_source": "North-Aegean",
+      "perifereia_slug": "voreiou-aigaiou",
+      "perifereia_en": "North Aegean Region",
+      "country": "GR",
+      "elevation_ft": 19,
+      "lat": 37.6899986267,
+      "lon": 26.911699295,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Βορείου Αιγαίου - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Βορείου Αιγαίου» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (North Aegean Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 6 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Βορείου Αιγαίου | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Βορείου Αιγαίου — 6 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 6 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

@@ -1,0 +1,1220 @@
+{
+  "id": "el-larisas-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Λαρισας (167)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Λαρισας (167)",
+  "description": "Οι 167 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λαρισας (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 167,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "330101",
+      "name": "Αγιας",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330102",
+      "name": "Αετολοφου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330103",
+      "name": "Αναβρας",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330104",
+      "name": "Γερακαριου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330105",
+      "name": "Ελαφου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330106",
+      "name": "Μεγαλοβρυσου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330107",
+      "name": "Μεταξοχωριου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330108",
+      "name": "Νερομυλων",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330109",
+      "name": "Ποταμιας",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331101",
+      "name": "Καριτσης",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331102",
+      "name": "Ομολιου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331103",
+      "name": "Παλαιοπυργου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331104",
+      "name": "Στομιου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331701",
+      "name": "Αμυγδαλης",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331702",
+      "name": "Ανατολης",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331703",
+      "name": "Δημητρας",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331704",
+      "name": "Καστριου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331705",
+      "name": "Μαρμαρινης",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332101",
+      "name": "Μελιβοιας",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332102",
+      "name": "Σκητης",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332103",
+      "name": "Σκληθρου",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332104",
+      "name": "Σωτηριτσης",
+      "municipality": "Αγιας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330402",
+      "name": "Κρανεας Ελασσονος",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330401",
+      "name": "Ακρης",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330403",
+      "name": "Λουτρου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330601",
+      "name": "Βερδικουσσης",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330904",
+      "name": "Ελασσονος",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330901",
+      "name": "Βαλανιδας",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330902",
+      "name": "Γαλανοβρυσης",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330903",
+      "name": "Δρυμου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330905",
+      "name": "Ευαγγελισμου  Ελλασονος",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330906",
+      "name": "Κεφαλοβρυσου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330907",
+      "name": "Παλαιοκαστρου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330908",
+      "name": "Στεφανοβουνου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331201",
+      "name": "Καρυας",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331202",
+      "name": "Κρυοβρυσης",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331203",
+      "name": "Συκαμινεας",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331902",
+      "name": "Λιβαδιου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331901",
+      "name": "Δολιχης",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332501",
+      "name": "Καλλιθεας  Ελλασονος",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332502",
+      "name": "Κοκκινογειου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332503",
+      "name": "Κοκκινοπηλου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332504",
+      "name": "Λοφου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332505",
+      "name": "Ολυμπιαδος",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332506",
+      "name": "Πυθιου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332507",
+      "name": "Φλαμπουρου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332801",
+      "name": "Αμουριου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332802",
+      "name": "Βλαχογιαννιου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332803",
+      "name": "Δομενικου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332804",
+      "name": "Μαγουλας",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332805",
+      "name": "Μεγαλου Ελευθεροχωριου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332806",
+      "name": "Μεσοχωριου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332807",
+      "name": "Πραιτωριου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332808",
+      "name": "Συκεας",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332901",
+      "name": "Αζωρου(Βουβαλας)",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332902",
+      "name": "Γερανιων",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332903",
+      "name": "Γιαννωτων",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332904",
+      "name": "Λυκουδιου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332905",
+      "name": "Μηλεας",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332906",
+      "name": "Σαρανταπορου",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332907",
+      "name": "Τσαπουρνιας",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333201",
+      "name": "Τσαριτσανης",
+      "municipality": "Ελασσονας",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330501",
+      "name": "Αρμενιου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330502",
+      "name": "Μεγαλου Μοναστηριου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330503",
+      "name": "Νικης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330504",
+      "name": "Σωτηριου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331401",
+      "name": "Αγναντερης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331402",
+      "name": "Καλαμακιου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331403",
+      "name": "Κιλελερ (Κυψελης)",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331404",
+      "name": "Μελισσης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331405",
+      "name": "Νεου Περιβολιου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331601",
+      "name": "Αγιου Γεωργιου Λαρισης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331602",
+      "name": "Αγιων Αναργυρων",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331603",
+      "name": "Βουναινων",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331604",
+      "name": "Δοξαρα",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331605",
+      "name": "Κραννωνος",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331606",
+      "name": "Κυπαρισσου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331607",
+      "name": "Μαυροβουνιου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331608",
+      "name": "Μικρου Βουνου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331609",
+      "name": "Ψυχικου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332407",
+      "name": "Νικαιας",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332401",
+      "name": "Διλοφου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332402",
+      "name": "Ζαππειου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332403",
+      "name": "Μοσχοχωριου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332404",
+      "name": "Μυρων",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332405",
+      "name": "Νεας Λευκης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332406",
+      "name": "Νεων Καρυων",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332408",
+      "name": "Χαρας",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332601",
+      "name": "Γαληνης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332602",
+      "name": "Γλαυκης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332603",
+      "name": "Ελευθεριου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332604",
+      "name": "Μελιας",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332605",
+      "name": "Μελισσοχωριου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332606",
+      "name": "Ναματων",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332607",
+      "name": "Ομορφοχωριου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332608",
+      "name": "Πλατυκαμπου",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332609",
+      "name": "Χαλκης",
+      "municipality": "Κιλελερ",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330701",
+      "name": "Γιαννουλης",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330702",
+      "name": "Φαλαννης",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331501",
+      "name": "Αμυγδαλεας",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331502",
+      "name": "Ελευθερων",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331503",
+      "name": "Κοιλαδος",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331504",
+      "name": "Κουτσοχερου",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331505",
+      "name": "Λουτρου Λαρισης",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331506",
+      "name": "Μανδρας",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331507",
+      "name": "Ραχουλας",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331801",
+      "name": "1Ο Διαμερισμα Λαρισης",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331801",
+      "name": "2Ο Διαμερισμα Λαρισης",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331801",
+      "name": "3Ο Διαμερισμα Λαρισης(Συμπεριλαμβάνονται Οι Οικισμοί Κουλουρίου Και Αμφιθέας",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331801",
+      "name": "4Ο Διαμερισμα Λαρισης",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331802",
+      "name": "Τερψιθεας",
+      "municipality": "Λαρισαιων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330201",
+      "name": "Αμπελακιων",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330202",
+      "name": "Τεμπων",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330801",
+      "name": "Γοννων",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330802",
+      "name": "Ιτεας",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330803",
+      "name": "Καλλιπευκης",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331301",
+      "name": "Αιγανης",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331302",
+      "name": "Κρανεας",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331303",
+      "name": "Πυργετου",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331304",
+      "name": "Ραψανης",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332001",
+      "name": "Ελατειας",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332002",
+      "name": "Ευαγγελισμου Λαρισης",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332003",
+      "name": "Μακρυχωριου",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332004",
+      "name": "Παραποταμου",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332307",
+      "name": "Συκουριου",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332301",
+      "name": "Καλοχωριου",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332302",
+      "name": "Κυψελοχωριου",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332303",
+      "name": "Νεσσωνος",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332304",
+      "name": "Οσσης",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332305",
+      "name": "Πουρναριου",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332306",
+      "name": "Σπηλιας",
+      "municipality": "Τεμπων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330301",
+      "name": "Αμπελωνος",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330302",
+      "name": "Βρυοτοπου",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330303",
+      "name": "Δελεριων",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "330304",
+      "name": "Ροδιας",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333004",
+      "name": "Τυρναβου",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333001",
+      "name": "Αργυροπουλειου",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333002",
+      "name": "Δαμασιου",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333003",
+      "name": "Δενδρων",
+      "municipality": "Τυρναβου",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331001",
+      "name": "Αγιου Γεωργιου Φαρσαλων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331002",
+      "name": "Βασιλη",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331003",
+      "name": "Κατωχωριου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331004",
+      "name": "Κρηνης",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331005",
+      "name": "Μεγαλου Ευυδριου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331006",
+      "name": "Πολυνεριου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331007",
+      "name": "Σταυρου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "331008",
+      "name": "Υπερειας",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332201",
+      "name": "Δενδρων  Φαρσαλων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332202",
+      "name": "Διλοφου  Φαρσαλων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332203",
+      "name": "Καλλιθεας  Φαρσαλων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332204",
+      "name": "Ναρθακιου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332205",
+      "name": "Σκοπιας",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332701",
+      "name": "Αμπελειας",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332702",
+      "name": "Βαμβακους",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332703",
+      "name": "Δασολοφου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332704",
+      "name": "Ερετριας",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332705",
+      "name": "Ζωοδοχου Πηγης",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332706",
+      "name": "Κατω Βασιλικων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332707",
+      "name": "Νεραϊδας",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332708",
+      "name": "Πολυδαμειου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332709",
+      "name": "Ρευματιας",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332710",
+      "name": "Σιτοχωρου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332711",
+      "name": "Σκοτουσσης",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "332712",
+      "name": "Χαλκιαδων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333103",
+      "name": "Φαρσαλων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333101",
+      "name": "Αχιλλειου",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "333102",
+      "name": "Βρυσιων",
+      "municipality": "Φαρσαλων",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Λαρισας (167) - Δωρεάν λήψη",
+    "description": "Οι 167 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λαρισας (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη. Περιέχει 167 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Λαρισας (167) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Λαρισας (167) — 167 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 167 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "id": "el-piges",
+  "name": "Πηγές της Ελλάδας",
+  "title": "Πηγές της Ελλάδας",
+  "description": "Springs in Greece from Wikidata (P31=Q124714 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q25164280",
+      "name_el": "",
+      "name_en": "Almyros Spring",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.33309,
+      "longitude": 25.04685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25164280"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q124616543",
+      "name_el": "",
+      "name_en": "Galakô fountain near Las  polis",
+      "admin_area_el": "Αρχαία Λακωνία",
+      "admin_area_en": "Laconia",
+      "latitude": 36.7255,
+      "longitude": 22.4982,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124616543"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q25167256",
+      "name_el": "",
+      "name_en": "Naghos Springs",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.55823,
+      "longitude": 26.07983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25167256"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q124616544",
+      "name_el": "",
+      "name_en": "Naia spring at Teuthrone",
+      "admin_area_el": "Αρχαία Λακωνία",
+      "admin_area_en": "Laconia",
+      "latitude": 36.6211,
+      "longitude": 22.4891,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124616544"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q79965174",
+      "name_el": "",
+      "name_en": "Poria well",
+      "admin_area_el": "Κως",
+      "admin_area_en": "Kos",
+      "latitude": 36.803889,
+      "longitude": 27.098056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q79965174"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q124644581",
+      "name_el": "",
+      "name_en": "Spring of Amphiaraos",
+      "admin_area_el": "Αττική",
+      "admin_area_en": "Attica",
+      "latitude": 38.2911,
+      "longitude": 23.8461,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124644581"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q123419310",
+      "name_el": "",
+      "name_en": "Αcheron Springs",
+      "admin_area_el": "Δήμος Σουλίου",
+      "admin_area_en": "Souli Municipality",
+      "latitude": 39.32898,
+      "longitude": 20.62162,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q123419310"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q106380502",
+      "name_el": "Αρέθουσα (Χαλκίδα)",
+      "name_en": "Arethousa",
+      "admin_area_el": "Χαλκίδα",
+      "admin_area_en": "Chalkída",
+      "latitude": 38.456388888,
+      "longitude": 23.610833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106380502"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q25120344",
+      "name_el": "Δεσπότη Βρύση",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.71861,
+      "longitude": 26.79306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25120344"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q25120146",
+      "name_el": "Δρυμή Βρύση",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.2625,
+      "longitude": 26.01806,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25120146"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q195848",
+      "name_el": "Ιπποκρήνη",
+      "name_en": "Hippocrene",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.32004444,
+      "longitude": 23.03116389,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q195848"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q25120138",
+      "name_el": "Καλοβότση Βρύση",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.26056,
+      "longitude": 26.08778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25120138"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q117826120",
+      "name_el": "Κλεψύδρα",
+      "name_en": "Klepsydra",
+      "admin_area_el": "Δήμος Μεσσήνης",
+      "admin_area_en": "Municipality of Messene",
+      "latitude": 37.17963,
+      "longitude": 21.92223,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117826120"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q25120115",
+      "name_el": "Κορακονέρι",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.350277777,
+      "longitude": 26.053055555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25120115"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q106226259",
+      "name_el": "Κρήνη της Δίρκης",
+      "name_en": "Dirke spring",
+      "admin_area_el": "Δήμος Θηβαίων",
+      "admin_area_en": "Thiva Municipality",
+      "latitude": 38.3183,
+      "longitude": 23.3143,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106226259"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q110754669",
+      "name_el": "Λέρνα",
+      "name_en": "Lerna",
+      "admin_area_el": "Δήμος Άργους - Μυκηνών",
+      "admin_area_en": "Argos-Mykines Municipality",
+      "latitude": 37.55285,
+      "longitude": 22.71738,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q110754669"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q24204699",
+      "name_el": "Μυκηναϊκή Κρήνη",
+      "name_en": "Mycenean fountain",
+      "admin_area_el": "Αθήνα",
+      "admin_area_en": "Athens",
+      "latitude": 37.9725,
+      "longitude": 23.72611111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q24204699"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q106391783",
+      "name_el": "Πηγές Τριών Χαρίτων",
+      "name_en": "Springs of the Melas river",
+      "admin_area_el": "Περιφερειακή ενότητα Βοιωτίας",
+      "admin_area_en": "Boeotia Regional Unit",
+      "latitude": 38.49783,
+      "longitude": 22.96482,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q106391783"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q4952634",
+      "name_el": "Πηγή Γαργαφιάς",
+      "name_en": "Gargaphia",
+      "admin_area_el": "Περιφερειακή ενότητα Βοιωτίας",
+      "admin_area_en": "Boeotia Regional Unit",
+      "latitude": 38.239,
+      "longitude": 23.309,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4952634"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q25120031",
+      "name_el": "Συλημά Βρύση",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.453333333,
+      "longitude": 25.975833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25120031"
+    }
+  ],
+  "meta": {
+    "title": "Πηγές της Ελλάδας - Δωρεάν λήψη",
+    "description": "Springs in Greece from Wikidata (P31=Q124714 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 20 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πηγές της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Πηγές της Ελλάδας — 20 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 20 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

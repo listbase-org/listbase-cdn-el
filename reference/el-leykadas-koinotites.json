@@ -1,0 +1,366 @@
+{
+  "id": "el-leykadas-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Λευκαδας (45)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Λευκαδας (45)",
+  "description": "Οι 45 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λευκαδας (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 45,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "360101",
+      "name": "Αγιου Ηλια",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360102",
+      "name": "Αγιου Πετρου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360103",
+      "name": "Αθανιου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360104",
+      "name": "Βασιλικης",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360105",
+      "name": "Βουρνικα",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360106",
+      "name": "Δραγανου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360107",
+      "name": "Ευγηρου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360108",
+      "name": "Κομηλιου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360109",
+      "name": "Κονταραινης",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360110",
+      "name": "Μαραντοχωριου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360111",
+      "name": "Νικολη",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360112",
+      "name": "Συβρου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360113",
+      "name": "Χορτατων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360205",
+      "name": "Νυδριου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360201",
+      "name": "Βαυκερης",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360202",
+      "name": "Βλυχου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360203",
+      "name": "Κατωχωριου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360204",
+      "name": "Νεοχωριου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360206",
+      "name": "Πλατυστομων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360207",
+      "name": "Πορου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360208",
+      "name": "Φτερνου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360209",
+      "name": "Χαραδιατικων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360302",
+      "name": "Καλαμου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360401",
+      "name": "Εγκλουβης",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360402",
+      "name": "Καρυας",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360403",
+      "name": "Πηγαδησανων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360501",
+      "name": "Καστου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360607",
+      "name": "Λευκαδος",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360601",
+      "name": "Αγιου Νικητα",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360602",
+      "name": "Αλεξανδρου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360603",
+      "name": "Απολπαινης",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360604",
+      "name": "Καλαμιτσιου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360605",
+      "name": "Καριωτων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360606",
+      "name": "Κατουνης",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360608",
+      "name": "Τσουκαλαδων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360801",
+      "name": "Ασπρογερακατων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360802",
+      "name": "Δρυμωνος",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360803",
+      "name": "Εξανθειας",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360804",
+      "name": "Καβαλου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360805",
+      "name": "Λαζαρατων",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360806",
+      "name": "Πινακοχωριου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360807",
+      "name": "Σπανοχωριου",
+      "municipality": "Λευκαδας",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360701",
+      "name": "Βαθεως",
+      "municipality": "Μεγανησιου",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360702",
+      "name": "Κατωμεριου",
+      "municipality": "Μεγανησιου",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "360703",
+      "name": "Σπαρτοχωριου",
+      "municipality": "Μεγανησιου",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Λευκαδας (45) - Δωρεάν λήψη",
+    "description": "Οι 45 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λευκαδας (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη. Περιέχει 45 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Λευκαδας (45) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Λευκαδας (45) — 45 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 45 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

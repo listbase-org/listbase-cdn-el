@@ -1,0 +1,936 @@
+{
+  "id": "el-ktiniatreia",
+  "name": "Κτηνιατρεία Ελλάδας",
+  "title": "Κτηνιατρεία Ελλάδας",
+  "description": "Κτηνιατρεία σε όλη την Ελλάδα από το OpenStreetMap. Veterinary clinics across Greece.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 179,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "AkesisVet",
+      "latitude": 37.877429,
+      "longitude": 23.757969
+    },
+    {
+      "name": "animal doctor",
+      "latitude": 39.707017,
+      "longitude": 20.794788
+    },
+    {
+      "name": "Animal medical & spa care",
+      "latitude": 37.978171,
+      "longitude": 23.741112
+    },
+    {
+      "name": "Animal Medical Center",
+      "latitude": 38.003067,
+      "longitude": 23.791744
+    },
+    {
+      "name": "Animal's H&C",
+      "latitude": 37.931074,
+      "longitude": 23.695808
+    },
+    {
+      "name": "Animed",
+      "latitude": 40.302458,
+      "longitude": 21.798935
+    },
+    {
+      "name": "Caring vet",
+      "latitude": 37.994771,
+      "longitude": 23.761737
+    },
+    {
+      "name": "Clinica Veterinaria",
+      "latitude": 35.32452,
+      "longitude": 25.11582
+    },
+    {
+      "name": "hospetal",
+      "latitude": 37.952431,
+      "longitude": 23.710515
+    },
+    {
+      "name": "Humanimal",
+      "latitude": 38.005744,
+      "longitude": 23.796821
+    },
+    {
+      "name": "Lesbian Wildlife Hospital",
+      "latitude": 39.248355,
+      "longitude": 26.268062
+    },
+    {
+      "name": "MD VET",
+      "latitude": 37.933751,
+      "longitude": 23.72976
+    },
+    {
+      "name": "Med Vet Clinic",
+      "latitude": 37.064646,
+      "longitude": 22.433037
+    },
+    {
+      "name": "Medical center",
+      "latitude": 38.057122,
+      "longitude": 23.80823
+    },
+    {
+      "name": "Messaria Vet Clinic",
+      "latitude": 36.402729,
+      "longitude": 25.447834
+    },
+    {
+      "name": "My Pet Care",
+      "latitude": 38.007342,
+      "longitude": 23.791909
+    },
+    {
+      "name": "MY VET CLINIC / ΚΤΗΝΙΑΤΡΕΙΟ",
+      "latitude": 40.247756,
+      "longitude": 23.28201
+    },
+    {
+      "name": "NP Vet",
+      "latitude": 37.918118,
+      "longitude": 23.750761
+    },
+    {
+      "name": "Ohana Pets",
+      "latitude": 38.046711,
+      "longitude": 23.750717
+    },
+    {
+      "name": "Papaioannou",
+      "latitude": 37.895763,
+      "longitude": 23.944601
+    },
+    {
+      "name": "PAWsitive",
+      "latitude": 38.01653,
+      "longitude": 23.812836
+    },
+    {
+      "name": "Pawsitive steps",
+      "latitude": 37.999702,
+      "longitude": 23.711294
+    },
+    {
+      "name": "Pefki Vet",
+      "latitude": 38.059526,
+      "longitude": 23.787157
+    },
+    {
+      "name": "Pet & Vet",
+      "latitude": 40.521001,
+      "longitude": 21.257401
+    },
+    {
+      "name": "Pet Clinic",
+      "latitude": 40.630624,
+      "longitude": 22.943453
+    },
+    {
+      "name": "Pet Vet West",
+      "latitude": 37.997305,
+      "longitude": 23.682267
+    },
+    {
+      "name": "Pet+Vet",
+      "latitude": 37.967831,
+      "longitude": 23.644687
+    },
+    {
+      "name": "Pets Friends",
+      "latitude": 37.981171,
+      "longitude": 23.727429
+    },
+    {
+      "name": "petvet24.gr",
+      "latitude": 38.015959,
+      "longitude": 23.740274
+    },
+    {
+      "name": "Resou Vet Care",
+      "latitude": 37.942048,
+      "longitude": 23.708692
+    },
+    {
+      "name": "Seaside Vets",
+      "latitude": 37.943557,
+      "longitude": 23.661838
+    },
+    {
+      "name": "Skyros Vet Center",
+      "latitude": 38.905096,
+      "longitude": 24.566151
+    },
+    {
+      "name": "Spetses Cares For Animals",
+      "latitude": 37.266311,
+      "longitude": 23.155603
+    },
+    {
+      "name": "Teddy's pet house Πλούμης",
+      "latitude": 38.39724,
+      "longitude": 21.846706
+    },
+    {
+      "name": "Vet Avenue",
+      "latitude": 38.014764,
+      "longitude": 23.7403
+    },
+    {
+      "name": "Vet Care",
+      "latitude": 36.439361,
+      "longitude": 28.233697
+    },
+    {
+      "name": "Vet care",
+      "latitude": 37.133016,
+      "longitude": 26.849981
+    },
+    {
+      "name": "Vet Clinic",
+      "latitude": 35.187329,
+      "longitude": 25.713669
+    },
+    {
+      "name": "Vet Clinic",
+      "latitude": 35.520707,
+      "longitude": 23.853101
+    },
+    {
+      "name": "Vet Clinic",
+      "latitude": 37.885783,
+      "longitude": 23.928087
+    },
+    {
+      "name": "Vet Clinic",
+      "latitude": 38.019152,
+      "longitude": 23.756897
+    },
+    {
+      "name": "Vet Diagnosis",
+      "latitude": 38.038814,
+      "longitude": 23.757124
+    },
+    {
+      "name": "Vet O'clock",
+      "latitude": 37.864776,
+      "longitude": 23.748513
+    },
+    {
+      "name": "Vet-Spot",
+      "latitude": 37.939196,
+      "longitude": 23.73613
+    },
+    {
+      "name": "Veterani office",
+      "latitude": 35.491729,
+      "longitude": 23.666273
+    },
+    {
+      "name": "Vetology",
+      "latitude": 38.028409,
+      "longitude": 23.733289
+    },
+    {
+      "name": "Vets4pets",
+      "latitude": 37.834748,
+      "longitude": 23.789595
+    },
+    {
+      "name": "Vetsurgery gr",
+      "latitude": 38.001108,
+      "longitude": 23.805029
+    },
+    {
+      "name": "Vicky's Vet Clinic",
+      "latitude": 40.583225,
+      "longitude": 22.948829
+    },
+    {
+      "name": "Άγγελος Σαντοριναίος",
+      "latitude": 38.012907,
+      "longitude": 23.752517
+    },
+    {
+      "name": "Ίασις Ζώων",
+      "latitude": 37.990362,
+      "longitude": 23.738719
+    },
+    {
+      "name": "Αγγελάκη Έλενα",
+      "latitude": 38.017797,
+      "longitude": 23.800667
+    },
+    {
+      "name": "ΑΓΡΟΤΙΚΟ ΚΤΗΝΙΑΤΡΕΙΟ ΚΟΠΑΝΑΚΙΟΥ",
+      "latitude": 37.285083,
+      "longitude": 21.815442
+    },
+    {
+      "name": "Αγροτικό Κτηνιατρείο",
+      "latitude": 39.360814,
+      "longitude": 21.934091
+    },
+    {
+      "name": "Αγροτικό κτηνιατρείο Μολάων",
+      "latitude": 36.807139,
+      "longitude": 22.855476
+    },
+    {
+      "name": "Αγροτικό Κτηνιατρείο Πιερίας",
+      "latitude": 40.268519,
+      "longitude": 22.513573
+    },
+    {
+      "name": "Αγροτικό Κτηνιατρείο Τρικάλων",
+      "latitude": 39.5506,
+      "longitude": 21.776347
+    },
+    {
+      "name": "Αθανάσιος Παπαστεργίου",
+      "latitude": 39.640851,
+      "longitude": 22.41916
+    },
+    {
+      "name": "Αμαζόνιος",
+      "latitude": 39.634405,
+      "longitude": 22.429465
+    },
+    {
+      "name": "ΑΝΙΜΑ",
+      "latitude": 38.895911,
+      "longitude": 22.442919
+    },
+    {
+      "name": "Αχμέτ Ταϊφούν",
+      "latitude": 41.122244,
+      "longitude": 25.402432
+    },
+    {
+      "name": "Γ. Καπελέρης - Ι.Νικολέντζος;Γ.Καπελιέρης Ι.Νικολέντζος",
+      "latitude": 38.469136,
+      "longitude": 23.561562
+    },
+    {
+      "name": "Γαλάνης",
+      "latitude": 37.674995,
+      "longitude": 21.433318
+    },
+    {
+      "name": "Γεωργία Καραμπέτσου - Στεφανοπούλου",
+      "latitude": 37.654205,
+      "longitude": 22.727263
+    },
+    {
+      "name": "Γεώργιος Σ. Τζανίδης",
+      "latitude": 40.851806,
+      "longitude": 25.830454
+    },
+    {
+      "name": "Γιώργος Κιόσης",
+      "latitude": 40.621375,
+      "longitude": 22.968118
+    },
+    {
+      "name": "Δ. Πανταζης",
+      "latitude": 39.663298,
+      "longitude": 20.856663
+    },
+    {
+      "name": "Δασκαλόπουλος Νίκος",
+      "latitude": 40.595693,
+      "longitude": 22.958006
+    },
+    {
+      "name": "Δημόσιο Λυσσιατρείο",
+      "latitude": 37.983031,
+      "longitude": 23.707401
+    },
+    {
+      "name": "Εκμεκτσόγλου Αχιλλέας",
+      "latitude": 40.93947,
+      "longitude": 24.407321
+    },
+    {
+      "name": "Ελένη Γ. Τζώρτζη",
+      "latitude": 38.015959,
+      "longitude": 23.83526
+    },
+    {
+      "name": "Ελίνα Πολίτου",
+      "latitude": 38.008397,
+      "longitude": 23.812501
+    },
+    {
+      "name": "Ζηρας Βασίλης",
+      "latitude": 39.629906,
+      "longitude": 19.893729
+    },
+    {
+      "name": "Ζιώγας Ιωάννης",
+      "latitude": 40.57347,
+      "longitude": 22.955286
+    },
+    {
+      "name": "ΖΩΟΪΑΣΗ",
+      "latitude": 38.005387,
+      "longitude": 23.717382
+    },
+    {
+      "name": "Θ. Λαζούρας",
+      "latitude": 38.015033,
+      "longitude": 23.745689
+    },
+    {
+      "name": "Ιατρείο Ζώων Συντροφιάς",
+      "latitude": 37.844044,
+      "longitude": 23.927416
+    },
+    {
+      "name": "Ιατρείο Μικρων Ζωων",
+      "latitude": 39.664516,
+      "longitude": 20.858444
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 36.802047,
+      "longitude": 22.855112
+    },
+    {
+      "name": "Ιατρείο μικρών ζώων",
+      "latitude": 37.930015,
+      "longitude": 23.632496
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 37.950265,
+      "longitude": 23.736485
+    },
+    {
+      "name": "Ιατρείο μικρών ζώων",
+      "latitude": 37.953684,
+      "longitude": 23.723101
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 37.957481,
+      "longitude": 23.704588
+    },
+    {
+      "name": "Ιατρείο μικρών ζώων",
+      "latitude": 37.975303,
+      "longitude": 23.766717
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 38.010655,
+      "longitude": 23.735991
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 38.025748,
+      "longitude": 23.728866
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 38.033882,
+      "longitude": 23.757313
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 40.611882,
+      "longitude": 22.984317
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 40.629722,
+      "longitude": 22.953211
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων",
+      "latitude": 41.147694,
+      "longitude": 24.152746
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων - Dr. Νικόλαος Δημ.Τσάτσας, Κτηνίατρος, MRCVS",
+      "latitude": 38.023128,
+      "longitude": 23.74925
+    },
+    {
+      "name": "Ιατρείο Μικρών Ζώων - Δημητριάδης Πάνος",
+      "latitude": 40.516709,
+      "longitude": 21.253287
+    },
+    {
+      "name": "Ιατρείο Σκύλων",
+      "latitude": 40.618819,
+      "longitude": 22.977442
+    },
+    {
+      "name": "ιατρειο",
+      "latitude": 38.020162,
+      "longitude": 23.754014
+    },
+    {
+      "name": "ΙΑΤΡΕΙΟ ΖΩΩΝ -Λαφτσίδης",
+      "latitude": 40.558231,
+      "longitude": 23.021155
+    },
+    {
+      "name": "ΙΑΤΡΕΙΟ ΜΙΚΡΩΝ ΖΩΩΝ",
+      "latitude": 40.631334,
+      "longitude": 22.965893
+    },
+    {
+      "name": "ΙΑΤΡΕΙΟ ΜΙΚΡΩΝ ΖΩΩΝ Ιωάννης Φιλιππάκης",
+      "latitude": 35.331589,
+      "longitude": 25.134866
+    },
+    {
+      "name": "Ιατρειο Μικρων Ζωωνς",
+      "latitude": 37.964827,
+      "longitude": 23.649823
+    },
+    {
+      "name": "Ιατρικό κέντρο μικρών ζώων",
+      "latitude": 37.832813,
+      "longitude": 23.781214
+    },
+    {
+      "name": "Ιατρικό Κέντρο Μικρών Ζώων",
+      "latitude": 37.960015,
+      "longitude": 23.92495
+    },
+    {
+      "name": "Καλανόψης",
+      "latitude": 38.077929,
+      "longitude": 23.733434
+    },
+    {
+      "name": "Καλογερόπουλος",
+      "latitude": 37.674205,
+      "longitude": 21.440513
+    },
+    {
+      "name": "Καλός Χαρ., Παπαχρήστου Κων/να",
+      "latitude": 38.831905,
+      "longitude": 20.707956
+    },
+    {
+      "name": "Καμπούρης Ιωάννης Ιατρείο Μικρών Ζώων",
+      "latitude": 37.949649,
+      "longitude": 23.703994
+    },
+    {
+      "name": "Καντζιλέρη",
+      "latitude": 37.027466,
+      "longitude": 22.113393
+    },
+    {
+      "name": "Κατσαμπής Ιωάννης",
+      "latitude": 37.635063,
+      "longitude": 22.723776
+    },
+    {
+      "name": "ΚΑΤΣΙΑΟΥΝΗΣ ΘΕΟΧΑΡΗΣ",
+      "latitude": 38.908691,
+      "longitude": 22.429148
+    },
+    {
+      "name": "ΚΛΙΝΙΚΉ ΜΙΚΡΩΝ ΖΏΩΝ",
+      "latitude": 38.016003,
+      "longitude": 23.793093
+    },
+    {
+      "name": "Κορινθιακό Κτηνιατρικό Κέντρο",
+      "latitude": 37.938135,
+      "longitude": 22.925658
+    },
+    {
+      "name": "Κτηνιατρείο",
+      "latitude": 37.933794,
+      "longitude": 23.642095
+    },
+    {
+      "name": "Κτηνιατρείο Βραυρώνος",
+      "latitude": 37.936145,
+      "longitude": 24.01209
+    },
+    {
+      "name": "Κτηνιατρείο Γεωργία Γιώγα",
+      "latitude": 37.893588,
+      "longitude": 24.010315
+    },
+    {
+      "name": "Κτηνιατρείο Δήμου Αθηναίων",
+      "latitude": 37.989286,
+      "longitude": 23.769452
+    },
+    {
+      "name": "Κτηνιατρείο Νίκος Π. Φλώρος",
+      "latitude": 38.633146,
+      "longitude": 21.406537
+    },
+    {
+      "name": "Κτηνιατρείο Πατακου Καλλιόπη",
+      "latitude": 36.890847,
+      "longitude": 27.291029
+    },
+    {
+      "name": "Κτηνιατρείο Χαλβατζής",
+      "latitude": 40.294343,
+      "longitude": 21.784014
+    },
+    {
+      "name": "Κτηνιατρείο Χαριλάου",
+      "latitude": 40.604893,
+      "longitude": 22.968347
+    },
+    {
+      "name": "Κτηνιατρειο",
+      "latitude": 40.278985,
+      "longitude": 22.495434
+    },
+    {
+      "name": "ΚΤΗΝΙΑΤΡΕΙΟ",
+      "latitude": 40.683211,
+      "longitude": 22.949034
+    },
+    {
+      "name": "Κτηνιατρειο Ζ.Γ. Γιαννικη",
+      "latitude": 40.274205,
+      "longitude": 22.491559
+    },
+    {
+      "name": "ΚΤΗΝΙΑΤΡΕΙΟ ΝΙΚΟΛΑΟΥ ΜΠΑΜΠΑ",
+      "latitude": 37.377103,
+      "longitude": 23.160737
+    },
+    {
+      "name": "Κτηνιατρική",
+      "latitude": 38.007208,
+      "longitude": 23.687867
+    },
+    {
+      "name": "Κτηνιατρική βοήθεια",
+      "latitude": 38.239123,
+      "longitude": 21.732987
+    },
+    {
+      "name": "Κτηνιατρική Κλινική Κατερίνης",
+      "latitude": 40.269219,
+      "longitude": 22.521629
+    },
+    {
+      "name": "Κτηνιατρική Κλινική Μακρογκίκας Σύμος",
+      "latitude": 38.008404,
+      "longitude": 23.698557
+    },
+    {
+      "name": "Κτηνιατρική Κλινική Πλακεντία",
+      "latitude": 38.019421,
+      "longitude": 23.838513
+    },
+    {
+      "name": "Κτηνιατρική Λάρισας",
+      "latitude": 39.637841,
+      "longitude": 22.430697
+    },
+    {
+      "name": "ΚΤΗΝΙΑΤΡΙΚΗ ΕΠΕ - ΣΩΤΗΡΙΟΥ",
+      "latitude": 38.894515,
+      "longitude": 22.443199
+    },
+    {
+      "name": "ΚΤΗΝΙΑΤΡΙΚΗ ΦΡΟΝΤΙΔΑ",
+      "latitude": 38.895495,
+      "longitude": 22.429137
+    },
+    {
+      "name": "Κτηνιατρικο κεντρο",
+      "latitude": 40.662785,
+      "longitude": 22.931015
+    },
+    {
+      "name": "ΚΤΗΝΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+      "latitude": 37.9432,
+      "longitude": 23.738271
+    },
+    {
+      "name": "ΚΤΗΝΙΑΤΡΙΚΟ ΚΕΝΤΡΟ ΛΑΜΙΑΣ",
+      "latitude": 38.896464,
+      "longitude": 22.436667
+    },
+    {
+      "name": "Κτηνιατρικό κέντρο",
+      "latitude": 37.835574,
+      "longitude": 24.931452
+    },
+    {
+      "name": "Κτηνιατρικό Κέντρο",
+      "latitude": 38.00935,
+      "longitude": 23.849486
+    },
+    {
+      "name": "Κτηνιατρικό Κέντρο Αμαρουσίου",
+      "latitude": 38.055036,
+      "longitude": 23.803162
+    },
+    {
+      "name": "Κτηνιατρικό Κέντρο Αξιούπολης",
+      "latitude": 40.988074,
+      "longitude": 22.550014
+    },
+    {
+      "name": "Κτηνιατρικό Κέντρο Θεσσαλονίκης",
+      "latitude": 40.599994,
+      "longitude": 22.996709
+    },
+    {
+      "name": "Κτηνιατρικό κέντρο Καλλονής",
+      "latitude": 39.229214,
+      "longitude": 26.206827
+    },
+    {
+      "name": "Κτηνιατρικό Κέντρο Κω - Γιάννης θαλασσινός",
+      "latitude": 36.893205,
+      "longitude": 27.285744
+    },
+    {
+      "name": "Κτηνιατρικό Κέντρο Πειραιά",
+      "latitude": 37.945052,
+      "longitude": 23.653323
+    },
+    {
+      "name": "Κτηνιατρικό Κέντρο Περιστερίου",
+      "latitude": 38.008942,
+      "longitude": 23.698406
+    },
+    {
+      "name": "Λέγος Αθανάσιος",
+      "latitude": 37.077153,
+      "longitude": 22.428614
+    },
+    {
+      "name": "Λευκαδίτης Μενέλαος",
+      "latitude": 40.604369,
+      "longitude": 22.959587
+    },
+    {
+      "name": "Μίλτος Σβανιάς",
+      "latitude": 38.036486,
+      "longitude": 23.675822
+    },
+    {
+      "name": "Μαρία Ντεβέ",
+      "latitude": 38.020278,
+      "longitude": 23.678862
+    },
+    {
+      "name": "Μαρία Χριστοδουλάκη",
+      "latitude": 40.582203,
+      "longitude": 22.958107
+    },
+    {
+      "name": "ΜΑΡΙΑ ΧΑΛΚΙΔΙΟΥ VET+PET",
+      "latitude": 36.87509,
+      "longitude": 27.201127
+    },
+    {
+      "name": "Μηνάς Μινασιάν",
+      "latitude": 40.672436,
+      "longitude": 22.905578
+    },
+    {
+      "name": "Μπάμπαλη Βασιλική & Ανδριανόπουλος Παναγιώτης",
+      "latitude": 38.028838,
+      "longitude": 23.752054
+    },
+    {
+      "name": "Μωραΐτης",
+      "latitude": 40.633298,
+      "longitude": 22.947535
+    },
+    {
+      "name": "Ντελήθεος Ι. Γεώργιος",
+      "latitude": 38.000222,
+      "longitude": 23.71876
+    },
+    {
+      "name": "Παλαμίδα Χρυσάνθη",
+      "latitude": 38.460217,
+      "longitude": 23.60073
+    },
+    {
+      "name": "Παντελάκης",
+      "latitude": 37.94055,
+      "longitude": 22.929268
+    },
+    {
+      "name": "Παπαγιαννούλη Φανή",
+      "latitude": 40.270767,
+      "longitude": 22.504907
+    },
+    {
+      "name": "Παπαδοπούλου",
+      "latitude": 37.967161,
+      "longitude": 23.755019
+    },
+    {
+      "name": "Παπαδόπουλος",
+      "latitude": 40.272399,
+      "longitude": 22.509379
+    },
+    {
+      "name": "Παπαϊωάννου",
+      "latitude": 37.911615,
+      "longitude": 23.753882
+    },
+    {
+      "name": "Παπαϊωάννου",
+      "latitude": 37.985458,
+      "longitude": 23.74039
+    },
+    {
+      "name": "Παπαϊωάννου",
+      "latitude": 38.093574,
+      "longitude": 23.823064
+    },
+    {
+      "name": "Πολυϊατρείο Μικρών & Εξωτικών Ζώων",
+      "latitude": 40.604009,
+      "longitude": 22.951613
+    },
+    {
+      "name": "Πουρλιώτης Κωνσταντίνος Δ.",
+      "latitude": 40.105408,
+      "longitude": 22.511786
+    },
+    {
+      "name": "Πρότυπο κτηνιατρείο Λέσβου (ιδιωτικό)",
+      "latitude": 39.099472,
+      "longitude": 26.553727
+    },
+    {
+      "name": "Σαμολαδάς Γιάννης",
+      "latitude": 37.941783,
+      "longitude": 23.765198
+    },
+    {
+      "name": "Σαπουντζόγλου",
+      "latitude": 37.931421,
+      "longitude": 23.697447
+    },
+    {
+      "name": "Σαπφώ Ταμουτσίδου",
+      "latitude": 39.094012,
+      "longitude": 26.554074
+    },
+    {
+      "name": "ΣΠΥΡΟΠΟΥΛΟΣ",
+      "latitude": 38.894276,
+      "longitude": 22.440257
+    },
+    {
+      "name": "Σταματέκου Λοβούλινα",
+      "latitude": 40.715806,
+      "longitude": 24.729263
+    },
+    {
+      "name": "Σταυρουλάκης",
+      "latitude": 37.9349,
+      "longitude": 23.638803
+    },
+    {
+      "name": "Σύγχρονο κτηνιατρείο",
+      "latitude": 40.621582,
+      "longitude": 22.95716
+    },
+    {
+      "name": "Σύγχρονο Κτηνιατρικό Κέντρο",
+      "latitude": 40.601955,
+      "longitude": 22.962895
+    },
+    {
+      "name": "Ταγκλή Βασιλική",
+      "latitude": 37.834075,
+      "longitude": 23.787067
+    },
+    {
+      "name": "Τεκελης",
+      "latitude": 37.975488,
+      "longitude": 23.625993
+    },
+    {
+      "name": "Υγεία των ζώων",
+      "latitude": 37.935575,
+      "longitude": 23.646787
+    },
+    {
+      "name": "Φλέσσας Σωτήρης",
+      "latitude": 38.393627,
+      "longitude": 21.836411
+    },
+    {
+      "name": "Χ. ΣΙΖΙΟΚΠΟΥ",
+      "latitude": 40.597445,
+      "longitude": 22.964448
+    },
+    {
+      "name": "Χαρλαυτη",
+      "latitude": 37.931377,
+      "longitude": 23.702622
+    },
+    {
+      "name": "Χατζή Μάρθα",
+      "latitude": 40.570524,
+      "longitude": 22.95769
+    },
+    {
+      "name": "Χρύσα Δραμπιδου - Κατσαουνης Γιώργος",
+      "latitude": 41.110453,
+      "longitude": 25.394903
+    },
+    {
+      "name": "Χρύσα Καλτσά",
+      "latitude": 38.023993,
+      "longitude": 23.752704
+    }
+  ],
+  "meta": {
+    "title": "Κτηνιατρεία Ελλάδας - Δωρεάν λήψη",
+    "description": "Κτηνιατρεία σε όλη την Ελλάδα από το OpenStreetMap. Veterinary clinics across Greece. Περιέχει 179 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κτηνιατρεία Ελλάδας | ListBase",
+    "seo_description": "Λήψη Κτηνιατρεία Ελλάδας — 179 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 179 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

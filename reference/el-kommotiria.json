@@ -1,0 +1,9061 @@
+{
+  "id": "el-kommotiria",
+  "name": "Κομμωτήρια Ελλάδας",
+  "title": "Κομμωτήρια Ελλάδας",
+  "description": "Κομμωτήρια και κουρεία σε όλη την Ελλάδα από το OpenStreetMap. Hairdressers and barbershops across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1804,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Γρηγόρης\"",
+      "latitude": 41.260421,
+      "longitude": 22.998812
+    },
+    {
+      "name": "\"Κική\"",
+      "latitude": 41.260241,
+      "longitude": 23.000222
+    },
+    {
+      "name": "101 Hair",
+      "latitude": 38.018654,
+      "longitude": 23.806829
+    },
+    {
+      "name": "23 twentythree",
+      "latitude": 35.361464,
+      "longitude": 24.259658
+    },
+    {
+      "name": "383 HairPlay",
+      "latitude": 38.051814,
+      "longitude": 23.766215
+    },
+    {
+      "name": "51 street",
+      "latitude": 40.657993,
+      "longitude": 22.925138
+    },
+    {
+      "name": "A Style",
+      "latitude": 38.067712,
+      "longitude": 23.717108
+    },
+    {
+      "name": "A-ΟΠΕ",
+      "latitude": 40.634146,
+      "longitude": 22.950673
+    },
+    {
+      "name": "A120str.",
+      "latitude": 37.988592,
+      "longitude": 23.748676
+    },
+    {
+      "name": "Abige Hair&Style",
+      "latitude": 38.238501,
+      "longitude": 21.729721
+    },
+    {
+      "name": "About Hair",
+      "latitude": 40.668984,
+      "longitude": 22.909251
+    },
+    {
+      "name": "about hair..",
+      "latitude": 37.949211,
+      "longitude": 23.735881
+    },
+    {
+      "name": "Absolute Hair",
+      "latitude": 40.600197,
+      "longitude": 22.960313
+    },
+    {
+      "name": "Acajoo",
+      "latitude": 40.61079,
+      "longitude": 22.982592
+    },
+    {
+      "name": "Adore LP",
+      "latitude": 37.991165,
+      "longitude": 23.766693
+    },
+    {
+      "name": "Afroditi Hair Care",
+      "latitude": 37.941035,
+      "longitude": 23.745729
+    },
+    {
+      "name": "AG Barber Shop",
+      "latitude": 37.938502,
+      "longitude": 22.937205
+    },
+    {
+      "name": "Aggeliki",
+      "latitude": 41.150887,
+      "longitude": 24.139312
+    },
+    {
+      "name": "Aggelos",
+      "latitude": 40.669862,
+      "longitude": 22.900703
+    },
+    {
+      "name": "Air For Hair",
+      "latitude": 40.610145,
+      "longitude": 22.971422
+    },
+    {
+      "name": "Aki Pierro",
+      "latitude": 37.980157,
+      "longitude": 23.736853
+    },
+    {
+      "name": "akis",
+      "latitude": 37.968119,
+      "longitude": 23.708232
+    },
+    {
+      "name": "Akis Coiffure",
+      "latitude": 38.010728,
+      "longitude": 23.794577
+    },
+    {
+      "name": "Al Karam",
+      "latitude": 37.985509,
+      "longitude": 23.727207
+    },
+    {
+      "name": "Alberto",
+      "latitude": 40.635017,
+      "longitude": 22.954326
+    },
+    {
+      "name": "Alekos Stamatis Paintroom",
+      "latitude": 38.003127,
+      "longitude": 23.791838
+    },
+    {
+      "name": "ALEX",
+      "latitude": 39.637856,
+      "longitude": 22.408719
+    },
+    {
+      "name": "Alex men‘s hair club",
+      "latitude": 40.219322,
+      "longitude": 23.667107
+    },
+    {
+      "name": "Alexandra",
+      "latitude": 37.98624,
+      "longitude": 23.757207
+    },
+    {
+      "name": "Alexandra",
+      "latitude": 38.021772,
+      "longitude": 23.731511
+    },
+    {
+      "name": "Alexandros Hair Salon",
+      "latitude": 37.976914,
+      "longitude": 23.716277
+    },
+    {
+      "name": "Alexia",
+      "latitude": 38.03405,
+      "longitude": 23.754706
+    },
+    {
+      "name": "Alexia Hair",
+      "latitude": 38.026064,
+      "longitude": 23.746564
+    },
+    {
+      "name": "Alexis",
+      "latitude": 38.917193,
+      "longitude": 22.427187
+    },
+    {
+      "name": "Aliona",
+      "latitude": 40.638453,
+      "longitude": 22.935078
+    },
+    {
+      "name": "Alis Diem",
+      "latitude": 39.105552,
+      "longitude": 26.555547
+    },
+    {
+      "name": "Allure",
+      "latitude": 38.905957,
+      "longitude": 22.43119
+    },
+    {
+      "name": "Ama lounge",
+      "latitude": 38.073558,
+      "longitude": 23.815256
+    },
+    {
+      "name": "Amalias hair styling",
+      "latitude": 38.257631,
+      "longitude": 21.741507
+    },
+    {
+      "name": "Amarilda",
+      "latitude": 38.010113,
+      "longitude": 23.73467
+    },
+    {
+      "name": "Amazing Hair Venia",
+      "latitude": 37.167628,
+      "longitude": 22.858224
+    },
+    {
+      "name": "Amazon Beauty",
+      "latitude": 38.044107,
+      "longitude": 23.755876
+    },
+    {
+      "name": "Amoon",
+      "latitude": 37.997274,
+      "longitude": 23.727678
+    },
+    {
+      "name": "Anahita",
+      "latitude": 37.99338,
+      "longitude": 23.727747
+    },
+    {
+      "name": "Anastasia",
+      "latitude": 38.000903,
+      "longitude": 23.738039
+    },
+    {
+      "name": "Anastasiou Matina",
+      "latitude": 38.012815,
+      "longitude": 23.734741
+    },
+    {
+      "name": "Anber",
+      "latitude": 37.976852,
+      "longitude": 23.733702
+    },
+    {
+      "name": "Andreas",
+      "latitude": 38.019778,
+      "longitude": 23.797028
+    },
+    {
+      "name": "Andronis",
+      "latitude": 38.008462,
+      "longitude": 23.825706
+    },
+    {
+      "name": "Angel's Saloon",
+      "latitude": 41.14912,
+      "longitude": 24.149408
+    },
+    {
+      "name": "Angelino Hair Design",
+      "latitude": 39.637935,
+      "longitude": 22.414472
+    },
+    {
+      "name": "Angelopoulos",
+      "latitude": 37.862733,
+      "longitude": 23.752266
+    },
+    {
+      "name": "Angelopoulos",
+      "latitude": 39.10785,
+      "longitude": 26.557733
+    },
+    {
+      "name": "Angelopoulos Brazilian Keratin Experts",
+      "latitude": 37.991839,
+      "longitude": 23.760626
+    },
+    {
+      "name": "Angelos",
+      "latitude": 37.979547,
+      "longitude": 23.735794
+    },
+    {
+      "name": "Angelos coiffures",
+      "latitude": 37.977103,
+      "longitude": 23.741352
+    },
+    {
+      "name": "Angels beauty",
+      "latitude": 37.834328,
+      "longitude": 24.931456
+    },
+    {
+      "name": "Anita Ververi",
+      "latitude": 39.097545,
+      "longitude": 26.551297
+    },
+    {
+      "name": "Anna",
+      "latitude": 37.964444,
+      "longitude": 23.750044
+    },
+    {
+      "name": "Anna",
+      "latitude": 40.636424,
+      "longitude": 22.948791
+    },
+    {
+      "name": "Anna Liz",
+      "latitude": 37.989668,
+      "longitude": 23.745687
+    },
+    {
+      "name": "Anna Q",
+      "latitude": 39.636516,
+      "longitude": 22.425665
+    },
+    {
+      "name": "anna's hairstyling",
+      "latitude": 35.236492,
+      "longitude": 25.159049
+    },
+    {
+      "name": "Anne J. J.",
+      "latitude": 38.015344,
+      "longitude": 23.834257
+    },
+    {
+      "name": "Anny",
+      "latitude": 37.932883,
+      "longitude": 23.699457
+    },
+    {
+      "name": "Ansia",
+      "latitude": 38.005085,
+      "longitude": 23.812535
+    },
+    {
+      "name": "Antigoni",
+      "latitude": 38.055513,
+      "longitude": 23.807654
+    },
+    {
+      "name": "Antonios",
+      "latitude": 37.9406,
+      "longitude": 22.930525
+    },
+    {
+      "name": "Antoniou Kali",
+      "latitude": 39.634447,
+      "longitude": 22.417544
+    },
+    {
+      "name": "Antonis Tsamakis",
+      "latitude": 38.051382,
+      "longitude": 23.836328
+    },
+    {
+      "name": "Apostolos",
+      "latitude": 37.941858,
+      "longitude": 23.649478
+    },
+    {
+      "name": "ARD",
+      "latitude": 37.658775,
+      "longitude": 24.311446
+    },
+    {
+      "name": "Argiris",
+      "latitude": 39.637139,
+      "longitude": 22.420033
+    },
+    {
+      "name": "Ariana",
+      "latitude": 37.995749,
+      "longitude": 23.727147
+    },
+    {
+      "name": "Ariane",
+      "latitude": 40.602144,
+      "longitude": 22.964486
+    },
+    {
+      "name": "Ariane",
+      "latitude": 40.611345,
+      "longitude": 22.98581
+    },
+    {
+      "name": "Ariane",
+      "latitude": 40.620259,
+      "longitude": 22.953883
+    },
+    {
+      "name": "Aris",
+      "latitude": 37.948523,
+      "longitude": 23.629145
+    },
+    {
+      "name": "Arkan",
+      "latitude": 37.981391,
+      "longitude": 23.726543
+    },
+    {
+      "name": "Armelinos",
+      "latitude": 38.037514,
+      "longitude": 23.766363
+    },
+    {
+      "name": "Ars",
+      "latitude": 38.903616,
+      "longitude": 22.431623
+    },
+    {
+      "name": "Art",
+      "latitude": 39.640137,
+      "longitude": 22.419902
+    },
+    {
+      "name": "Art Hair",
+      "latitude": 38.38409,
+      "longitude": 23.629646
+    },
+    {
+      "name": "Art Hair Studio by Barberissa",
+      "latitude": 36.842552,
+      "longitude": 27.156868
+    },
+    {
+      "name": "Art N Hair",
+      "latitude": 37.595845,
+      "longitude": 22.041586
+    },
+    {
+      "name": "Art's Hair",
+      "latitude": 38.078597,
+      "longitude": 23.705146
+    },
+    {
+      "name": "Arte Capelli",
+      "latitude": 40.570487,
+      "longitude": 22.957594
+    },
+    {
+      "name": "ARTE salon",
+      "latitude": 38.040592,
+      "longitude": 23.687438
+    },
+    {
+      "name": "Arvas Hairstyle & Barbershop",
+      "latitude": 40.605795,
+      "longitude": 22.963288
+    },
+    {
+      "name": "Asia Hair Salon",
+      "latitude": 35.511385,
+      "longitude": 24.017282
+    },
+    {
+      "name": "Aslanoglou",
+      "latitude": 37.958757,
+      "longitude": 23.619786
+    },
+    {
+      "name": "Aster",
+      "latitude": 38.009691,
+      "longitude": 23.737497
+    },
+    {
+      "name": "Astrid's Beauty Bar",
+      "latitude": 36.071832,
+      "longitude": 28.052204
+    },
+    {
+      "name": "AT Hair Touch",
+      "latitude": 38.023234,
+      "longitude": 23.738134
+    },
+    {
+      "name": "ATH BARBERCLUB",
+      "latitude": 38.063949,
+      "longitude": 23.77614
+    },
+    {
+      "name": "Athenian Barber Shop",
+      "latitude": 37.963089,
+      "longitude": 23.723961
+    },
+    {
+      "name": "Athens Gentlemen",
+      "latitude": 37.983633,
+      "longitude": 23.732735
+    },
+    {
+      "name": "Athens House",
+      "latitude": 38.025322,
+      "longitude": 23.749481
+    },
+    {
+      "name": "Augoustinos",
+      "latitude": 37.947096,
+      "longitude": 23.75211
+    },
+    {
+      "name": "Avant Garde",
+      "latitude": 37.93112,
+      "longitude": 23.695842
+    },
+    {
+      "name": "Aveda Teo",
+      "latitude": 38.088816,
+      "longitude": 23.816036
+    },
+    {
+      "name": "AVGERI",
+      "latitude": 37.978399,
+      "longitude": 23.730255
+    },
+    {
+      "name": "B",
+      "latitude": 40.639565,
+      "longitude": 22.93964
+    },
+    {
+      "name": "b.e.coup",
+      "latitude": 38.036632,
+      "longitude": 23.739554
+    },
+    {
+      "name": "Babis",
+      "latitude": 38.019368,
+      "longitude": 23.805156
+    },
+    {
+      "name": "Backstage",
+      "latitude": 38.054699,
+      "longitude": 23.805021
+    },
+    {
+      "name": "Badhon saloon",
+      "latitude": 37.975049,
+      "longitude": 23.764545
+    },
+    {
+      "name": "Badon Saloon",
+      "latitude": 37.987629,
+      "longitude": 23.729196
+    },
+    {
+      "name": "Ballooxx",
+      "latitude": 37.93307,
+      "longitude": 23.644803
+    },
+    {
+      "name": "Bang Bang",
+      "latitude": 37.946749,
+      "longitude": 23.643731
+    },
+    {
+      "name": "Bar Berico",
+      "latitude": 40.634329,
+      "longitude": 22.952891
+    },
+    {
+      "name": "Bar-b",
+      "latitude": 38.073585,
+      "longitude": 23.813629
+    },
+    {
+      "name": "Barbafella's",
+      "latitude": 38.020543,
+      "longitude": 23.741907
+    },
+    {
+      "name": "Barber Art",
+      "latitude": 40.036352,
+      "longitude": 23.361802
+    },
+    {
+      "name": "Barber Code",
+      "latitude": 38.015218,
+      "longitude": 23.833489
+    },
+    {
+      "name": "Barber Company",
+      "latitude": 37.871286,
+      "longitude": 23.76599
+    },
+    {
+      "name": "Barber Corner",
+      "latitude": 38.90335,
+      "longitude": 22.432162
+    },
+    {
+      "name": "Barber Hall",
+      "latitude": 37.404832,
+      "longitude": 22.72359
+    },
+    {
+      "name": "Barber Hall",
+      "latitude": 37.991038,
+      "longitude": 23.766009
+    },
+    {
+      "name": "Barber mission",
+      "latitude": 37.972321,
+      "longitude": 23.754665
+    },
+    {
+      "name": "Barber Saloon",
+      "latitude": 37.996977,
+      "longitude": 23.682038
+    },
+    {
+      "name": "Barber Shop",
+      "latitude": 37.972483,
+      "longitude": 23.767961
+    },
+    {
+      "name": "Barber shop",
+      "latitude": 37.981202,
+      "longitude": 23.737477
+    },
+    {
+      "name": "Barber shop",
+      "latitude": 38.022762,
+      "longitude": 23.739863
+    },
+    {
+      "name": "Barber shop",
+      "latitude": 39.109524,
+      "longitude": 26.557669
+    },
+    {
+      "name": "Barber shop",
+      "latitude": 39.790843,
+      "longitude": 19.813044
+    },
+    {
+      "name": "Barber Shop",
+      "latitude": 39.791021,
+      "longitude": 19.708637
+    },
+    {
+      "name": "Barber Shop Edy",
+      "latitude": 37.941918,
+      "longitude": 23.729938
+    },
+    {
+      "name": "Barber square",
+      "latitude": 37.930921,
+      "longitude": 23.639673
+    },
+    {
+      "name": "Barber Station",
+      "latitude": 38.033665,
+      "longitude": 23.83435
+    },
+    {
+      "name": "Barber Stories",
+      "latitude": 37.940718,
+      "longitude": 23.6481
+    },
+    {
+      "name": "Barber Street",
+      "latitude": 40.602621,
+      "longitude": 22.966273
+    },
+    {
+      "name": "Barber team",
+      "latitude": 38.043624,
+      "longitude": 23.753753
+    },
+    {
+      "name": "Barber Vag",
+      "latitude": 39.63173,
+      "longitude": 22.41529
+    },
+    {
+      "name": "Barber's & Co",
+      "latitude": 38.073688,
+      "longitude": 23.815305
+    },
+    {
+      "name": "Barber's Project",
+      "latitude": 38.021859,
+      "longitude": 24.006099
+    },
+    {
+      "name": "Barber's Salon",
+      "latitude": 38.61893,
+      "longitude": 21.410316
+    },
+    {
+      "name": "Barber's Shop",
+      "latitude": 37.972149,
+      "longitude": 23.750222
+    },
+    {
+      "name": "Barber's Shop",
+      "latitude": 37.991155,
+      "longitude": 23.765571
+    },
+    {
+      "name": "Barber's Shop",
+      "latitude": 39.637948,
+      "longitude": 22.413211
+    },
+    {
+      "name": "Barber's soul",
+      "latitude": 37.978801,
+      "longitude": 23.765837
+    },
+    {
+      "name": "Barberadiko",
+      "latitude": 38.02001,
+      "longitude": 23.717761
+    },
+    {
+      "name": "Barberadiko",
+      "latitude": 38.026911,
+      "longitude": 23.725296
+    },
+    {
+      "name": "Barberails",
+      "latitude": 38.029919,
+      "longitude": 23.714085
+    },
+    {
+      "name": "Barberañio",
+      "latitude": 37.946744,
+      "longitude": 23.746542
+    },
+    {
+      "name": "Barberia 90",
+      "latitude": 37.939411,
+      "longitude": 23.712574
+    },
+    {
+      "name": "Barberia Leon",
+      "latitude": 39.634296,
+      "longitude": 22.41543
+    },
+    {
+      "name": "Barberian",
+      "latitude": 37.942987,
+      "longitude": 23.6519
+    },
+    {
+      "name": "Barberian",
+      "latitude": 38.051006,
+      "longitude": 23.765496
+    },
+    {
+      "name": "Barberico Artistico",
+      "latitude": 37.929769,
+      "longitude": 23.694922
+    },
+    {
+      "name": "Barberista",
+      "latitude": 39.63583,
+      "longitude": 22.416134
+    },
+    {
+      "name": "Barberista",
+      "latitude": 40.673451,
+      "longitude": 22.928403
+    },
+    {
+      "name": "Barberitos",
+      "latitude": 37.941383,
+      "longitude": 23.642388
+    },
+    {
+      "name": "Barbershop",
+      "latitude": 38.033512,
+      "longitude": 23.759542
+    },
+    {
+      "name": "Barbershop 1963",
+      "latitude": 40.522303,
+      "longitude": 21.261091
+    },
+    {
+      "name": "Barbershop Tasos",
+      "latitude": 40.600474,
+      "longitude": 22.959388
+    },
+    {
+      "name": "Barbershop Αλεξιάδης Πέτρος",
+      "latitude": 40.631882,
+      "longitude": 22.949966
+    },
+    {
+      "name": "BarberStar",
+      "latitude": 37.985044,
+      "longitude": 23.732478
+    },
+    {
+      "name": "Barberstry",
+      "latitude": 38.021639,
+      "longitude": 23.738126
+    },
+    {
+      "name": "Barbertudio",
+      "latitude": 39.638952,
+      "longitude": 22.42084
+    },
+    {
+      "name": "Basement 164 Barbershop",
+      "latitude": 37.940864,
+      "longitude": 23.649212
+    },
+    {
+      "name": "Basil",
+      "latitude": 37.948381,
+      "longitude": 23.709942
+    },
+    {
+      "name": "Basil",
+      "latitude": 39.100766,
+      "longitude": 26.551562
+    },
+    {
+      "name": "Basw Nona",
+      "latitude": 40.572133,
+      "longitude": 22.963901
+    },
+    {
+      "name": "Be Glam",
+      "latitude": 38.055423,
+      "longitude": 23.730403
+    },
+    {
+      "name": "Be Queened",
+      "latitude": 37.9768,
+      "longitude": 23.711797
+    },
+    {
+      "name": "be2in",
+      "latitude": 40.631949,
+      "longitude": 22.941913
+    },
+    {
+      "name": "Beauty",
+      "latitude": 37.991953,
+      "longitude": 23.748591
+    },
+    {
+      "name": "Beauty Angels",
+      "latitude": 38.043665,
+      "longitude": 23.684445
+    },
+    {
+      "name": "Beauty Code",
+      "latitude": 38.006561,
+      "longitude": 23.792777
+    },
+    {
+      "name": "Beauty Factory",
+      "latitude": 40.638591,
+      "longitude": 22.940689
+    },
+    {
+      "name": "Beauty Hall",
+      "latitude": 39.146074,
+      "longitude": 23.864609
+    },
+    {
+      "name": "Beauty House",
+      "latitude": 37.997092,
+      "longitude": 23.726424
+    },
+    {
+      "name": "beauty land",
+      "latitude": 37.972196,
+      "longitude": 23.754019
+    },
+    {
+      "name": "Beauty Loft",
+      "latitude": 37.963933,
+      "longitude": 23.75025
+    },
+    {
+      "name": "Beauty Studio",
+      "latitude": 40.588934,
+      "longitude": 22.959979
+    },
+    {
+      "name": "Beauty Team",
+      "latitude": 38.006483,
+      "longitude": 23.734918
+    },
+    {
+      "name": "BeautyHub",
+      "latitude": 38.016154,
+      "longitude": 23.691153
+    },
+    {
+      "name": "Beautyroom",
+      "latitude": 37.969318,
+      "longitude": 23.75419
+    },
+    {
+      "name": "Beauté Box",
+      "latitude": 37.978222,
+      "longitude": 23.753367
+    },
+    {
+      "name": "Belezza",
+      "latitude": 37.93149,
+      "longitude": 23.696118
+    },
+    {
+      "name": "Believe",
+      "latitude": 38.041932,
+      "longitude": 23.753133
+    },
+    {
+      "name": "Bella Donna",
+      "latitude": 38.022655,
+      "longitude": 23.800618
+    },
+    {
+      "name": "Bella Donna",
+      "latitude": 38.056247,
+      "longitude": 23.806112
+    },
+    {
+      "name": "Bella Donna",
+      "latitude": 38.237253,
+      "longitude": 21.725979
+    },
+    {
+      "name": "Bella hair",
+      "latitude": 37.969031,
+      "longitude": 23.707273
+    },
+    {
+      "name": "Belle Coiffure",
+      "latitude": 40.60465,
+      "longitude": 22.968443
+    },
+    {
+      "name": "Belle Epoque",
+      "latitude": 37.930719,
+      "longitude": 23.636316
+    },
+    {
+      "name": "Bellezza",
+      "latitude": 38.020136,
+      "longitude": 23.753373
+    },
+    {
+      "name": "Betty",
+      "latitude": 37.942324,
+      "longitude": 23.649304
+    },
+    {
+      "name": "Beyond The Chair",
+      "latitude": 40.637469,
+      "longitude": 22.940232
+    },
+    {
+      "name": "Bhai Bhai",
+      "latitude": 37.960351,
+      "longitude": 23.753851
+    },
+    {
+      "name": "Biggie's",
+      "latitude": 37.931939,
+      "longitude": 23.642513
+    },
+    {
+      "name": "Bili",
+      "latitude": 38.027164,
+      "longitude": 23.717487
+    },
+    {
+      "name": "Billy Barbero",
+      "latitude": 40.631402,
+      "longitude": 22.950799
+    },
+    {
+      "name": "BK",
+      "latitude": 35.016532,
+      "longitude": 24.77954
+    },
+    {
+      "name": "Black Beard",
+      "latitude": 40.633254,
+      "longitude": 22.947494
+    },
+    {
+      "name": "Black Box",
+      "latitude": 37.985718,
+      "longitude": 23.734707
+    },
+    {
+      "name": "Black Lotus",
+      "latitude": 37.962895,
+      "longitude": 23.714277
+    },
+    {
+      "name": "Black Pearl",
+      "latitude": 40.673099,
+      "longitude": 22.933865
+    },
+    {
+      "name": "Black Rose Barbershop",
+      "latitude": 37.940119,
+      "longitude": 23.750962
+    },
+    {
+      "name": "Black spaghetti",
+      "latitude": 37.978334,
+      "longitude": 23.738326
+    },
+    {
+      "name": "Blackwave Barber Shop",
+      "latitude": 38.881517,
+      "longitude": 22.775714
+    },
+    {
+      "name": "Blanc",
+      "latitude": 40.601206,
+      "longitude": 22.964102
+    },
+    {
+      "name": "Blessed",
+      "latitude": 37.954478,
+      "longitude": 23.679692
+    },
+    {
+      "name": "Blessed Men's Hair Salon",
+      "latitude": 37.930969,
+      "longitude": 23.695742
+    },
+    {
+      "name": "Blinders The Barbershop",
+      "latitude": 38.030396,
+      "longitude": 23.702138
+    },
+    {
+      "name": "Blondies Hair Salon",
+      "latitude": 37.987267,
+      "longitude": 23.753036
+    },
+    {
+      "name": "Blow",
+      "latitude": 38.012189,
+      "longitude": 23.693672
+    },
+    {
+      "name": "BLOW",
+      "latitude": 38.020226,
+      "longitude": 23.801848
+    },
+    {
+      "name": "Blow",
+      "latitude": 38.054123,
+      "longitude": 23.806945
+    },
+    {
+      "name": "blowdrybar",
+      "latitude": 36.449727,
+      "longitude": 28.222599
+    },
+    {
+      "name": "Blues barber",
+      "latitude": 40.238977,
+      "longitude": 23.283479
+    },
+    {
+      "name": "Bob hair",
+      "latitude": 37.992893,
+      "longitude": 23.726873
+    },
+    {
+      "name": "Bobby Pin Salon Care",
+      "latitude": 40.621426,
+      "longitude": 22.953014
+    },
+    {
+      "name": "Bolek Barber Shop",
+      "latitude": 37.957788,
+      "longitude": 23.726779
+    },
+    {
+      "name": "Bonobos",
+      "latitude": 39.107301,
+      "longitude": 26.557917
+    },
+    {
+      "name": "BOUCLA LOCA",
+      "latitude": 40.629602,
+      "longitude": 22.949846
+    },
+    {
+      "name": "Boudoir",
+      "latitude": 38.009529,
+      "longitude": 23.825202
+    },
+    {
+      "name": "Box",
+      "latitude": 37.980929,
+      "longitude": 23.731797
+    },
+    {
+      "name": "Brazor",
+      "latitude": 38.019665,
+      "longitude": 23.752459
+    },
+    {
+      "name": "BROTHERHOOD BARBER SHOP",
+      "latitude": 38.011878,
+      "longitude": 23.692022
+    },
+    {
+      "name": "Brothers & Barbers",
+      "latitude": 38.02422,
+      "longitude": 23.733575
+    },
+    {
+      "name": "Brothers In Hood",
+      "latitude": 40.634972,
+      "longitude": 22.954738
+    },
+    {
+      "name": "Brumel",
+      "latitude": 38.073237,
+      "longitude": 23.815061
+    },
+    {
+      "name": "Butt",
+      "latitude": 38.001741,
+      "longitude": 23.719876
+    },
+    {
+      "name": "By M&G",
+      "latitude": 37.987003,
+      "longitude": 23.752615
+    },
+    {
+      "name": "Capelli Altro",
+      "latitude": 37.952965,
+      "longitude": 23.681012
+    },
+    {
+      "name": "Carmen's",
+      "latitude": 38.005474,
+      "longitude": 23.735007
+    },
+    {
+      "name": "Carpe diem",
+      "latitude": 37.994887,
+      "longitude": 23.722688
+    },
+    {
+      "name": "Casablanca",
+      "latitude": 37.990636,
+      "longitude": 23.726574
+    },
+    {
+      "name": "Center Art Barbery",
+      "latitude": 38.409206,
+      "longitude": 21.275616
+    },
+    {
+      "name": "Central",
+      "latitude": 38.000603,
+      "longitude": 23.736136
+    },
+    {
+      "name": "Central Barber Shop",
+      "latitude": 40.630017,
+      "longitude": 22.953245
+    },
+    {
+      "name": "Changes",
+      "latitude": 38.000529,
+      "longitude": 23.729459
+    },
+    {
+      "name": "chapel hair & nails",
+      "latitude": 38.257,
+      "longitude": 21.743813
+    },
+    {
+      "name": "Characters",
+      "latitude": 40.604031,
+      "longitude": 22.970513
+    },
+    {
+      "name": "cheveux d'anγe",
+      "latitude": 40.633186,
+      "longitude": 22.95064
+    },
+    {
+      "name": "Chic shock",
+      "latitude": 37.930415,
+      "longitude": 23.639767
+    },
+    {
+      "name": "Chic Shock",
+      "latitude": 37.990058,
+      "longitude": 23.711233
+    },
+    {
+      "name": "Chic Tres Chic",
+      "latitude": 37.966338,
+      "longitude": 23.755179
+    },
+    {
+      "name": "Choppy Chop",
+      "latitude": 39.636086,
+      "longitude": 22.416086
+    },
+    {
+      "name": "Chris",
+      "latitude": 37.976918,
+      "longitude": 23.759534
+    },
+    {
+      "name": "Chris",
+      "latitude": 38.001507,
+      "longitude": 23.774462
+    },
+    {
+      "name": "Chris Tzantzalos",
+      "latitude": 39.366819,
+      "longitude": 21.925559
+    },
+    {
+      "name": "Christi",
+      "latitude": 37.944367,
+      "longitude": 23.651225
+    },
+    {
+      "name": "Christiano",
+      "latitude": 38.3649,
+      "longitude": 26.130597
+    },
+    {
+      "name": "Christin",
+      "latitude": 38.04332,
+      "longitude": 23.75323
+    },
+    {
+      "name": "Christina",
+      "latitude": 39.640126,
+      "longitude": 22.42039
+    },
+    {
+      "name": "Christodoulou",
+      "latitude": 38.072331,
+      "longitude": 23.815212
+    },
+    {
+      "name": "Christos Nikolaidis",
+      "latitude": 40.611647,
+      "longitude": 22.958084
+    },
+    {
+      "name": "Christos Nikolaou Hair Art",
+      "latitude": 37.96834,
+      "longitude": 23.709306
+    },
+    {
+      "name": "Chryssa´s",
+      "latitude": 38.023724,
+      "longitude": 23.7467
+    },
+    {
+      "name": "City Hair & Beauty Studio",
+      "latitude": 40.635424,
+      "longitude": 22.947944
+    },
+    {
+      "name": "Classic Rules",
+      "latitude": 39.109142,
+      "longitude": 26.557508
+    },
+    {
+      "name": "Clippers",
+      "latitude": 37.930869,
+      "longitude": 23.631539
+    },
+    {
+      "name": "Code Zero",
+      "latitude": 37.967462,
+      "longitude": 23.757801
+    },
+    {
+      "name": "Coiff1rst",
+      "latitude": 38.258421,
+      "longitude": 21.742141
+    },
+    {
+      "name": "Coiffure",
+      "latitude": 37.670921,
+      "longitude": 21.439683
+    },
+    {
+      "name": "Coiffure",
+      "latitude": 37.673355,
+      "longitude": 21.433889
+    },
+    {
+      "name": "Coiffure Elsa",
+      "latitude": 40.635651,
+      "longitude": 22.95156
+    },
+    {
+      "name": "Coiffure Experience",
+      "latitude": 37.926829,
+      "longitude": 23.691083
+    },
+    {
+      "name": "Coiffure Experience",
+      "latitude": 37.973526,
+      "longitude": 23.652597
+    },
+    {
+      "name": "Coiffure Vicky",
+      "latitude": 38.079275,
+      "longitude": 23.704054
+    },
+    {
+      "name": "Colore hair",
+      "latitude": 38.000479,
+      "longitude": 23.740052
+    },
+    {
+      "name": "Colour Masters",
+      "latitude": 37.944114,
+      "longitude": 23.646662
+    },
+    {
+      "name": "Colour Salon",
+      "latitude": 40.654944,
+      "longitude": 22.923006
+    },
+    {
+      "name": "Comi",
+      "latitude": 38.025748,
+      "longitude": 23.721558
+    },
+    {
+      "name": "Como 5",
+      "latitude": 37.944085,
+      "longitude": 23.647086
+    },
+    {
+      "name": "Contes Barbershop",
+      "latitude": 38.012584,
+      "longitude": 23.817856
+    },
+    {
+      "name": "Cool Art",
+      "latitude": 37.994391,
+      "longitude": 23.761915
+    },
+    {
+      "name": "Cosmopolita",
+      "latitude": 37.984075,
+      "longitude": 23.75678
+    },
+    {
+      "name": "Costas",
+      "latitude": 37.988649,
+      "longitude": 23.764104
+    },
+    {
+      "name": "Costas",
+      "latitude": 38.07173,
+      "longitude": 23.812006
+    },
+    {
+      "name": "Coup therapy",
+      "latitude": 37.974864,
+      "longitude": 23.766187
+    },
+    {
+      "name": "Cristyle",
+      "latitude": 40.937157,
+      "longitude": 24.405835
+    },
+    {
+      "name": "Cube",
+      "latitude": 37.978504,
+      "longitude": 23.74389
+    },
+    {
+      "name": "CUBO",
+      "latitude": 37.981447,
+      "longitude": 23.653727
+    },
+    {
+      "name": "CULT",
+      "latitude": 35.328457,
+      "longitude": 25.130396
+    },
+    {
+      "name": "Culter Barber Shop",
+      "latitude": 40.556245,
+      "longitude": 22.993049
+    },
+    {
+      "name": "Cut & chemistry",
+      "latitude": 37.929565,
+      "longitude": 23.642075
+    },
+    {
+      "name": "Cut & Chemistry",
+      "latitude": 37.941165,
+      "longitude": 23.6483
+    },
+    {
+      "name": "cut & color",
+      "latitude": 37.940497,
+      "longitude": 23.647696
+    },
+    {
+      "name": "Cut & Go",
+      "latitude": 37.950775,
+      "longitude": 23.737658
+    },
+    {
+      "name": "Cut by Kat",
+      "latitude": 39.106036,
+      "longitude": 26.554821
+    },
+    {
+      "name": "Cut N' Go",
+      "latitude": 37.992762,
+      "longitude": 23.729804
+    },
+    {
+      "name": "Cut off & dye",
+      "latitude": 38.056513,
+      "longitude": 23.808115
+    },
+    {
+      "name": "Cut's 'N Shaves",
+      "latitude": 39.636538,
+      "longitude": 22.415703
+    },
+    {
+      "name": "Cuts",
+      "latitude": 40.634459,
+      "longitude": 22.948208
+    },
+    {
+      "name": "Cutwalk",
+      "latitude": 37.934677,
+      "longitude": 23.694063
+    },
+    {
+      "name": "D K",
+      "latitude": 36.886509,
+      "longitude": 27.274606
+    },
+    {
+      "name": "D&D",
+      "latitude": 40.653921,
+      "longitude": 22.939873
+    },
+    {
+      "name": "D+J",
+      "latitude": 37.987503,
+      "longitude": 23.727104
+    },
+    {
+      "name": "d.p",
+      "latitude": 37.990134,
+      "longitude": 23.732057
+    },
+    {
+      "name": "Dada Hairworks",
+      "latitude": 40.273385,
+      "longitude": 22.505949
+    },
+    {
+      "name": "Dafni's",
+      "latitude": 37.998651,
+      "longitude": 23.720912
+    },
+    {
+      "name": "Dallis",
+      "latitude": 39.365904,
+      "longitude": 26.176629
+    },
+    {
+      "name": "Danae Kotsis",
+      "latitude": 37.976209,
+      "longitude": 23.731896
+    },
+    {
+      "name": "Danos Barbershop",
+      "latitude": 40.612904,
+      "longitude": 23.099361
+    },
+    {
+      "name": "Dawood",
+      "latitude": 37.937667,
+      "longitude": 22.936522
+    },
+    {
+      "name": "de poupoute",
+      "latitude": 40.549856,
+      "longitude": 23.019038
+    },
+    {
+      "name": "De Rouge",
+      "latitude": 38.02834,
+      "longitude": 23.716358
+    },
+    {
+      "name": "Deja Vu",
+      "latitude": 37.993342,
+      "longitude": 23.762856
+    },
+    {
+      "name": "Delirio",
+      "latitude": 37.934532,
+      "longitude": 23.642177
+    },
+    {
+      "name": "Despina",
+      "latitude": 37.966744,
+      "longitude": 23.726022
+    },
+    {
+      "name": "Despina",
+      "latitude": 40.632548,
+      "longitude": 22.946583
+    },
+    {
+      "name": "Despina Hair Studio",
+      "latitude": 37.103268,
+      "longitude": 25.377422
+    },
+    {
+      "name": "Despina's",
+      "latitude": 37.985703,
+      "longitude": 23.680133
+    },
+    {
+      "name": "Diamond Beauty",
+      "latitude": 37.95289,
+      "longitude": 23.697126
+    },
+    {
+      "name": "Dimitris",
+      "latitude": 37.96489,
+      "longitude": 23.707215
+    },
+    {
+      "name": "Dimitris",
+      "latitude": 38.029138,
+      "longitude": 23.734818
+    },
+    {
+      "name": "Dimitris",
+      "latitude": 38.832523,
+      "longitude": 20.707364
+    },
+    {
+      "name": "Dimitris Hairstyling",
+      "latitude": 38.022417,
+      "longitude": 23.748958
+    },
+    {
+      "name": "Dimitris Ioanoo",
+      "latitude": 37.974213,
+      "longitude": 23.766292
+    },
+    {
+      "name": "Dimitris Kaklias",
+      "latitude": 38.031331,
+      "longitude": 23.704876
+    },
+    {
+      "name": "Dimitris Loukos",
+      "latitude": 37.939662,
+      "longitude": 23.646638
+    },
+    {
+      "name": "Dimokritos",
+      "latitude": 40.597645,
+      "longitude": 22.956025
+    },
+    {
+      "name": "Dimosthenis",
+      "latitude": 37.11906,
+      "longitude": 25.235957
+    },
+    {
+      "name": "DINA",
+      "latitude": 37.96035,
+      "longitude": 23.73584
+    },
+    {
+      "name": "Diomi",
+      "latitude": 38.030345,
+      "longitude": 23.701941
+    },
+    {
+      "name": "Dirty Rabbit",
+      "latitude": 37.938442,
+      "longitude": 23.645655
+    },
+    {
+      "name": "diss Hair Design",
+      "latitude": 35.332387,
+      "longitude": 25.140437
+    },
+    {
+      "name": "DK",
+      "latitude": 38.04263,
+      "longitude": 23.685517
+    },
+    {
+      "name": "DK",
+      "latitude": 40.850828,
+      "longitude": 25.894007
+    },
+    {
+      "name": "DM Hair Salon",
+      "latitude": 38.004537,
+      "longitude": 23.822428
+    },
+    {
+      "name": "DMH",
+      "latitude": 38.029701,
+      "longitude": 23.714729
+    },
+    {
+      "name": "Do Not Disturb",
+      "latitude": 37.978683,
+      "longitude": 23.736155
+    },
+    {
+      "name": "DON",
+      "latitude": 37.978838,
+      "longitude": 23.736131
+    },
+    {
+      "name": "Don Boshku",
+      "latitude": 38.021012,
+      "longitude": 23.75112
+    },
+    {
+      "name": "Dora Daniel",
+      "latitude": 37.943443,
+      "longitude": 23.651972
+    },
+    {
+      "name": "Double D",
+      "latitude": 38.07349,
+      "longitude": 23.815704
+    },
+    {
+      "name": "Double G",
+      "latitude": 40.257645,
+      "longitude": 21.552932
+    },
+    {
+      "name": "Downtown",
+      "latitude": 37.985536,
+      "longitude": 23.731664
+    },
+    {
+      "name": "Doxopoulos",
+      "latitude": 37.963741,
+      "longitude": 23.723804
+    },
+    {
+      "name": "Dream Hair Style",
+      "latitude": 37.939912,
+      "longitude": 23.642518
+    },
+    {
+      "name": "Dream style",
+      "latitude": 37.944866,
+      "longitude": 23.654514
+    },
+    {
+      "name": "Edgy Cuts",
+      "latitude": 38.236697,
+      "longitude": 21.733351
+    },
+    {
+      "name": "EFI Hair Design",
+      "latitude": 39.167798,
+      "longitude": 23.491869
+    },
+    {
+      "name": "Efiel",
+      "latitude": 38.027854,
+      "longitude": 23.71658
+    },
+    {
+      "name": "El Barbero",
+      "latitude": 40.575856,
+      "longitude": 22.950066
+    },
+    {
+      "name": "El Barbero Loco",
+      "latitude": 38.026045,
+      "longitude": 23.749356
+    },
+    {
+      "name": "El Hombre",
+      "latitude": 37.923703,
+      "longitude": 23.750595
+    },
+    {
+      "name": "El señor barbero",
+      "latitude": 37.934459,
+      "longitude": 23.633946
+    },
+    {
+      "name": "Element",
+      "latitude": 37.996796,
+      "longitude": 23.745439
+    },
+    {
+      "name": "Elen's",
+      "latitude": 39.624052,
+      "longitude": 19.920099
+    },
+    {
+      "name": "Elena",
+      "latitude": 35.367012,
+      "longitude": 24.491225
+    },
+    {
+      "name": "Elena",
+      "latitude": 39.477618,
+      "longitude": 19.928013
+    },
+    {
+      "name": "Elena Petri Hairdesign",
+      "latitude": 36.890995,
+      "longitude": 27.289029
+    },
+    {
+      "name": "Elena silk hair",
+      "latitude": 38.03153,
+      "longitude": 23.70538
+    },
+    {
+      "name": "Elena's Beauty Hall",
+      "latitude": 38.021112,
+      "longitude": 23.793698
+    },
+    {
+      "name": "Elena's Hair Saloon",
+      "latitude": 38.181792,
+      "longitude": 20.486874
+    },
+    {
+      "name": "Elena-Vagelis",
+      "latitude": 38.080811,
+      "longitude": 23.738527
+    },
+    {
+      "name": "Eleni",
+      "latitude": 37.972763,
+      "longitude": 23.750624
+    },
+    {
+      "name": "Eleni",
+      "latitude": 38.02283,
+      "longitude": 23.73924
+    },
+    {
+      "name": "Eleonora",
+      "latitude": 39.638623,
+      "longitude": 22.421331
+    },
+    {
+      "name": "ELEPHANT AND CASTLE",
+      "latitude": 37.977468,
+      "longitude": 23.731638
+    },
+    {
+      "name": "Elevate barbershop",
+      "latitude": 37.939987,
+      "longitude": 23.713227
+    },
+    {
+      "name": "Eli's",
+      "latitude": 37.957862,
+      "longitude": 23.698162
+    },
+    {
+      "name": "Elias Kitsos",
+      "latitude": 38.019162,
+      "longitude": 23.756874
+    },
+    {
+      "name": "Elias'",
+      "latitude": 38.015188,
+      "longitude": 23.737838
+    },
+    {
+      "name": "Elite",
+      "latitude": 37.950354,
+      "longitude": 23.718833
+    },
+    {
+      "name": "Elite",
+      "latitude": 38.0101,
+      "longitude": 23.729617
+    },
+    {
+      "name": "Elizabeth",
+      "latitude": 40.609771,
+      "longitude": 22.990243
+    },
+    {
+      "name": "Elizabeth's haircuts",
+      "latitude": 37.963478,
+      "longitude": 23.75117
+    },
+    {
+      "name": "Elle",
+      "latitude": 38.059481,
+      "longitude": 23.79428
+    },
+    {
+      "name": "elle",
+      "latitude": 38.393472,
+      "longitude": 21.830068
+    },
+    {
+      "name": "Elle´s",
+      "latitude": 38.056329,
+      "longitude": 23.805824
+    },
+    {
+      "name": "Ellis",
+      "latitude": 37.975303,
+      "longitude": 23.656191
+    },
+    {
+      "name": "Eloise",
+      "latitude": 38.007719,
+      "longitude": 23.734943
+    },
+    {
+      "name": "Elsa's",
+      "latitude": 37.959053,
+      "longitude": 23.707424
+    },
+    {
+      "name": "Email Style",
+      "latitude": 38.019283,
+      "longitude": 23.731861
+    },
+    {
+      "name": "Emilios",
+      "latitude": 37.941637,
+      "longitude": 23.644771
+    },
+    {
+      "name": "Emily Coiffure",
+      "latitude": 35.368507,
+      "longitude": 24.530461
+    },
+    {
+      "name": "Emma",
+      "latitude": 37.998465,
+      "longitude": 23.741283
+    },
+    {
+      "name": "Empire",
+      "latitude": 37.943163,
+      "longitude": 23.645335
+    },
+    {
+      "name": "Ennea",
+      "latitude": 37.928315,
+      "longitude": 23.745672
+    },
+    {
+      "name": "Erieta Hair Salon",
+      "latitude": 37.931252,
+      "longitude": 23.696987
+    },
+    {
+      "name": "Erion's hair studio",
+      "latitude": 38.042352,
+      "longitude": 23.737929
+    },
+    {
+      "name": "Essentiel",
+      "latitude": 38.013797,
+      "longitude": 23.756929
+    },
+    {
+      "name": "Estel",
+      "latitude": 37.962768,
+      "longitude": 23.72129
+    },
+    {
+      "name": "Esther's Haircutting",
+      "latitude": 39.791862,
+      "longitude": 19.816943
+    },
+    {
+      "name": "Estrella Hairhouse",
+      "latitude": 41.13426,
+      "longitude": 24.885268
+    },
+    {
+      "name": "Eugenios",
+      "latitude": 37.964583,
+      "longitude": 23.704835
+    },
+    {
+      "name": "EV Hair Studio",
+      "latitude": 39.634532,
+      "longitude": 22.4142
+    },
+    {
+      "name": "EVA",
+      "latitude": 40.606751,
+      "longitude": 22.968802
+    },
+    {
+      "name": "Evagelos",
+      "latitude": 37.933086,
+      "longitude": 23.635537
+    },
+    {
+      "name": "Evelyn",
+      "latitude": 37.989906,
+      "longitude": 23.681834
+    },
+    {
+      "name": "Evi",
+      "latitude": 36.811195,
+      "longitude": 21.912861
+    },
+    {
+      "name": "evi salon",
+      "latitude": 37.995588,
+      "longitude": 23.733197
+    },
+    {
+      "name": "Evo Barber",
+      "latitude": 39.107805,
+      "longitude": 26.557162
+    },
+    {
+      "name": "Excellence Hair Style",
+      "latitude": 38.257522,
+      "longitude": 21.745443
+    },
+    {
+      "name": "Expressions 10",
+      "latitude": 37.990916,
+      "longitude": 23.682219
+    },
+    {
+      "name": "Extravaganza",
+      "latitude": 37.977392,
+      "longitude": 23.770321
+    },
+    {
+      "name": "Extreme hair",
+      "latitude": 37.933667,
+      "longitude": 23.638628
+    },
+    {
+      "name": "FA",
+      "latitude": 38.019633,
+      "longitude": 23.745336
+    },
+    {
+      "name": "Face to face",
+      "latitude": 37.943189,
+      "longitude": 23.714282
+    },
+    {
+      "name": "Fade Room",
+      "latitude": 40.631999,
+      "longitude": 22.964605
+    },
+    {
+      "name": "Faidon Papazoglou",
+      "latitude": 38.036543,
+      "longitude": 23.693448
+    },
+    {
+      "name": "Fame",
+      "latitude": 37.988062,
+      "longitude": 23.728026
+    },
+    {
+      "name": "Fanis",
+      "latitude": 38.120909,
+      "longitude": 23.860371
+    },
+    {
+      "name": "Fantasy",
+      "latitude": 37.978818,
+      "longitude": 23.756944
+    },
+    {
+      "name": "Farhan",
+      "latitude": 38.014535,
+      "longitude": 23.735164
+    },
+    {
+      "name": "Fashion style",
+      "latitude": 38.02261,
+      "longitude": 23.747581
+    },
+    {
+      "name": "Father",
+      "latitude": 38.012882,
+      "longitude": 23.723346
+    },
+    {
+      "name": "FD",
+      "latitude": 37.439863,
+      "longitude": 24.938558
+    },
+    {
+      "name": "Felix",
+      "latitude": 38.011302,
+      "longitude": 23.813661
+    },
+    {
+      "name": "Ferdinando's",
+      "latitude": 39.665351,
+      "longitude": 20.858381
+    },
+    {
+      "name": "FF",
+      "latitude": 38.024403,
+      "longitude": 23.750204
+    },
+    {
+      "name": "figaro",
+      "latitude": 37.961541,
+      "longitude": 23.752655
+    },
+    {
+      "name": "Final cut",
+      "latitude": 40.239239,
+      "longitude": 23.285448
+    },
+    {
+      "name": "Flash",
+      "latitude": 39.622105,
+      "longitude": 19.916823
+    },
+    {
+      "name": "Flat 20",
+      "latitude": 37.994364,
+      "longitude": 23.763787
+    },
+    {
+      "name": "flavio valerio coiffure",
+      "latitude": 38.025755,
+      "longitude": 23.841737
+    },
+    {
+      "name": "Fleet Street Barbershop",
+      "latitude": 40.664759,
+      "longitude": 22.935821
+    },
+    {
+      "name": "For All",
+      "latitude": 40.500201,
+      "longitude": 21.165486
+    },
+    {
+      "name": "for ME",
+      "latitude": 35.350705,
+      "longitude": 24.300998
+    },
+    {
+      "name": "FOREVER BEAUTY ROOM Hair • Nails",
+      "latitude": 37.94543,
+      "longitude": 23.701166
+    },
+    {
+      "name": "Free Style Hair Resort & Nails",
+      "latitude": 37.101472,
+      "longitude": 25.380443
+    },
+    {
+      "name": "Frendy",
+      "latitude": 37.988358,
+      "longitude": 23.760982
+    },
+    {
+      "name": "Friseur",
+      "latitude": 38.018873,
+      "longitude": 23.755637
+    },
+    {
+      "name": "Frisfur",
+      "latitude": 40.610977,
+      "longitude": 24.605686
+    },
+    {
+      "name": "frou frou",
+      "latitude": 37.939903,
+      "longitude": 23.647982
+    },
+    {
+      "name": "FX",
+      "latitude": 37.984384,
+      "longitude": 23.760912
+    },
+    {
+      "name": "G point",
+      "latitude": 40.632171,
+      "longitude": 22.948363
+    },
+    {
+      "name": "G&K",
+      "latitude": 37.988798,
+      "longitude": 23.757769
+    },
+    {
+      "name": "G. Milonas",
+      "latitude": 37.947869,
+      "longitude": 23.698502
+    },
+    {
+      "name": "G.M.D",
+      "latitude": 37.932985,
+      "longitude": 23.630665
+    },
+    {
+      "name": "G2 Hair Salon",
+      "latitude": 40.595936,
+      "longitude": 22.98551
+    },
+    {
+      "name": "Galicius Coiffure",
+      "latitude": 37.985454,
+      "longitude": 23.733273
+    },
+    {
+      "name": "GB coiffure",
+      "latitude": 37.632755,
+      "longitude": 22.728621
+    },
+    {
+      "name": "Genny genny",
+      "latitude": 38.044762,
+      "longitude": 23.751982
+    },
+    {
+      "name": "Gentleman",
+      "latitude": 37.976538,
+      "longitude": 23.771178
+    },
+    {
+      "name": "Gentleman's",
+      "latitude": 39.638328,
+      "longitude": 22.419247
+    },
+    {
+      "name": "Gentleman's Revolution",
+      "latitude": 37.949656,
+      "longitude": 23.73642
+    },
+    {
+      "name": "Gentlemen's Barbershop - George Mittas",
+      "latitude": 40.614109,
+      "longitude": 23.098312
+    },
+    {
+      "name": "Gentlemen's Hair Code",
+      "latitude": 40.597533,
+      "longitude": 22.960285
+    },
+    {
+      "name": "Gents Barber Club",
+      "latitude": 37.964698,
+      "longitude": 23.623107
+    },
+    {
+      "name": "George",
+      "latitude": 40.522899,
+      "longitude": 21.263152
+    },
+    {
+      "name": "George & Bill",
+      "latitude": 38.050875,
+      "longitude": 23.764916
+    },
+    {
+      "name": "George & Georgia",
+      "latitude": 37.96267,
+      "longitude": 23.722523
+    },
+    {
+      "name": "George Christofidis",
+      "latitude": 38.023018,
+      "longitude": 23.749983
+    },
+    {
+      "name": "George coiffures",
+      "latitude": 37.929671,
+      "longitude": 23.635634
+    },
+    {
+      "name": "George Petratos",
+      "latitude": 38.257394,
+      "longitude": 21.743573
+    },
+    {
+      "name": "George Zervas",
+      "latitude": 39.502172,
+      "longitude": 20.263446
+    },
+    {
+      "name": "Georgia",
+      "latitude": 37.940145,
+      "longitude": 22.929871
+    },
+    {
+      "name": "Giannis",
+      "latitude": 37.978947,
+      "longitude": 23.650477
+    },
+    {
+      "name": "Gil",
+      "latitude": 38.042893,
+      "longitude": 23.7549
+    },
+    {
+      "name": "Gina Andrikogiannopoulou",
+      "latitude": 38.030959,
+      "longitude": 23.736321
+    },
+    {
+      "name": "Gina's Studio",
+      "latitude": 39.098245,
+      "longitude": 26.552575
+    },
+    {
+      "name": "Gino",
+      "latitude": 37.860604,
+      "longitude": 23.753716
+    },
+    {
+      "name": "Gino",
+      "latitude": 37.947118,
+      "longitude": 23.714959
+    },
+    {
+      "name": "gino",
+      "latitude": 37.975463,
+      "longitude": 23.752501
+    },
+    {
+      "name": "gino",
+      "latitude": 37.976759,
+      "longitude": 23.739169
+    },
+    {
+      "name": "Gino",
+      "latitude": 38.057007,
+      "longitude": 23.803865
+    },
+    {
+      "name": "Giolanta",
+      "latitude": 39.639877,
+      "longitude": 22.427033
+    },
+    {
+      "name": "Giorgio",
+      "latitude": 37.923881,
+      "longitude": 23.755784
+    },
+    {
+      "name": "Giorgio Colors",
+      "latitude": 38.059474,
+      "longitude": 23.787563
+    },
+    {
+      "name": "Giorgio Style",
+      "latitude": 37.936289,
+      "longitude": 23.729662
+    },
+    {
+      "name": "Giorgos Symeonidis GS",
+      "latitude": 40.63465,
+      "longitude": 22.947395
+    },
+    {
+      "name": "Giota Karaviti",
+      "latitude": 40.796406,
+      "longitude": 21.832069
+    },
+    {
+      "name": "Giota's",
+      "latitude": 37.990991,
+      "longitude": 23.680275
+    },
+    {
+      "name": "Giouli Provida",
+      "latitude": 38.02463,
+      "longitude": 23.748702
+    },
+    {
+      "name": "GK",
+      "latitude": 37.991396,
+      "longitude": 23.753771
+    },
+    {
+      "name": "GK",
+      "latitude": 38.915782,
+      "longitude": 22.427306
+    },
+    {
+      "name": "Glam",
+      "latitude": 40.290382,
+      "longitude": 21.866984
+    },
+    {
+      "name": "GLAM & SHINE",
+      "latitude": 40.603473,
+      "longitude": 22.957361
+    },
+    {
+      "name": "Glam Glo",
+      "latitude": 38.007337,
+      "longitude": 23.82736
+    },
+    {
+      "name": "Glamour",
+      "latitude": 39.421659,
+      "longitude": 20.059235
+    },
+    {
+      "name": "Gloss",
+      "latitude": 38.059901,
+      "longitude": 23.79678
+    },
+    {
+      "name": "Glow",
+      "latitude": 35.521797,
+      "longitude": 23.849751
+    },
+    {
+      "name": "GLOW",
+      "latitude": 37.167416,
+      "longitude": 22.85743
+    },
+    {
+      "name": "Glow Time 4 Hair",
+      "latitude": 38.028383,
+      "longitude": 23.717828
+    },
+    {
+      "name": "Glow Up",
+      "latitude": 40.66048,
+      "longitude": 22.954995
+    },
+    {
+      "name": "GLteam",
+      "latitude": 37.991735,
+      "longitude": 23.72976
+    },
+    {
+      "name": "Glyfada Hair Salon",
+      "latitude": 37.864007,
+      "longitude": 23.749121
+    },
+    {
+      "name": "GM",
+      "latitude": 37.959514,
+      "longitude": 23.753857
+    },
+    {
+      "name": "GMS Salon+The Academy",
+      "latitude": 38.022472,
+      "longitude": 23.795162
+    },
+    {
+      "name": "GN Hair Passion",
+      "latitude": 37.930949,
+      "longitude": 23.642681
+    },
+    {
+      "name": "gns",
+      "latitude": 38.046335,
+      "longitude": 23.758968
+    },
+    {
+      "name": "Gold Line",
+      "latitude": 37.944076,
+      "longitude": 23.65248
+    },
+    {
+      "name": "Golden Chic Hair",
+      "latitude": 38.260065,
+      "longitude": 21.738935
+    },
+    {
+      "name": "Golden Fade",
+      "latitude": 38.037611,
+      "longitude": 23.739643
+    },
+    {
+      "name": "Golden hair salon",
+      "latitude": 37.935734,
+      "longitude": 23.64133
+    },
+    {
+      "name": "Golden touches",
+      "latitude": 38.000382,
+      "longitude": 23.731983
+    },
+    {
+      "name": "Goldenhair Studio",
+      "latitude": 40.65657,
+      "longitude": 22.91263
+    },
+    {
+      "name": "Good Fellas",
+      "latitude": 37.940019,
+      "longitude": 22.929309
+    },
+    {
+      "name": "Gp Hair Nail Bar",
+      "latitude": 36.243586,
+      "longitude": 28.156136
+    },
+    {
+      "name": "GR",
+      "latitude": 38.079024,
+      "longitude": 23.70515
+    },
+    {
+      "name": "GT Hair Salon",
+      "latitude": 37.422863,
+      "longitude": 25.324363
+    },
+    {
+      "name": "Hair & Barber Salon",
+      "latitude": 38.097616,
+      "longitude": 23.738158
+    },
+    {
+      "name": "Hair & Beaute",
+      "latitude": 37.953571,
+      "longitude": 23.715528
+    },
+    {
+      "name": "Hair & Beauty",
+      "latitude": 37.937483,
+      "longitude": 23.764432
+    },
+    {
+      "name": "HAIR & COLOR",
+      "latitude": 40.587658,
+      "longitude": 22.961772
+    },
+    {
+      "name": "Hair & Flair",
+      "latitude": 39.622825,
+      "longitude": 19.922766
+    },
+    {
+      "name": "Hair & nails",
+      "latitude": 37.964084,
+      "longitude": 23.748138
+    },
+    {
+      "name": "Hair & Nails",
+      "latitude": 37.975479,
+      "longitude": 23.763231
+    },
+    {
+      "name": "Hair & Nails",
+      "latitude": 38.019781,
+      "longitude": 23.796149
+    },
+    {
+      "name": "Hair & Nails",
+      "latitude": 38.046279,
+      "longitude": 23.765473
+    },
+    {
+      "name": "Hair & Style",
+      "latitude": 37.86432,
+      "longitude": 23.748036
+    },
+    {
+      "name": "Hair affair",
+      "latitude": 39.50522,
+      "longitude": 20.26372
+    },
+    {
+      "name": "Hair and Nail Maria",
+      "latitude": 39.14634,
+      "longitude": 23.864499
+    },
+    {
+      "name": "Hair Appeal",
+      "latitude": 40.573356,
+      "longitude": 22.955527
+    },
+    {
+      "name": "Hair art",
+      "latitude": 38.022847,
+      "longitude": 23.746093
+    },
+    {
+      "name": "Hair Arte + more",
+      "latitude": 37.864658,
+      "longitude": 23.748395
+    },
+    {
+      "name": "Hair Artist",
+      "latitude": 37.991481,
+      "longitude": 23.760152
+    },
+    {
+      "name": "Hair bar",
+      "latitude": 37.93931,
+      "longitude": 23.641619
+    },
+    {
+      "name": "Hair Beauty by Viky",
+      "latitude": 38.998951,
+      "longitude": 20.707541
+    },
+    {
+      "name": "Hair Believe",
+      "latitude": 38.012288,
+      "longitude": 23.735403
+    },
+    {
+      "name": "Hair by M",
+      "latitude": 40.586107,
+      "longitude": 22.952504
+    },
+    {
+      "name": "Hair Care",
+      "latitude": 37.892836,
+      "longitude": 23.753384
+    },
+    {
+      "name": "Hair Club",
+      "latitude": 37.97662,
+      "longitude": 23.761752
+    },
+    {
+      "name": "Hair Club",
+      "latitude": 39.692304,
+      "longitude": 20.846116
+    },
+    {
+      "name": "Hair Club",
+      "latitude": 40.293369,
+      "longitude": 21.785888
+    },
+    {
+      "name": "Hair Concept",
+      "latitude": 39.635475,
+      "longitude": 22.418034
+    },
+    {
+      "name": "Hair corner",
+      "latitude": 37.982862,
+      "longitude": 23.731996
+    },
+    {
+      "name": "Hair creation",
+      "latitude": 37.983808,
+      "longitude": 23.72541
+    },
+    {
+      "name": "Hair Cut",
+      "latitude": 41.118241,
+      "longitude": 25.394388
+    },
+    {
+      "name": "Hair Cuttery",
+      "latitude": 39.106339,
+      "longitude": 26.547398
+    },
+    {
+      "name": "Hair Cutting",
+      "latitude": 37.991358,
+      "longitude": 23.723788
+    },
+    {
+      "name": "Hair deluxe",
+      "latitude": 37.976056,
+      "longitude": 23.743593
+    },
+    {
+      "name": "Hair Design",
+      "latitude": 39.285769,
+      "longitude": 20.399176
+    },
+    {
+      "name": "Hair Experts",
+      "latitude": 38.006141,
+      "longitude": 23.828241
+    },
+    {
+      "name": "Hair factory",
+      "latitude": 38.011134,
+      "longitude": 23.789339
+    },
+    {
+      "name": "Hair Flair",
+      "latitude": 40.630194,
+      "longitude": 22.95127
+    },
+    {
+      "name": "hair gallery",
+      "latitude": 35.347871,
+      "longitude": 24.297632
+    },
+    {
+      "name": "Hair gallery",
+      "latitude": 40.638893,
+      "longitude": 22.948644
+    },
+    {
+      "name": "Hair Heaven",
+      "latitude": 37.964944,
+      "longitude": 23.725943
+    },
+    {
+      "name": "Hair holic",
+      "latitude": 37.946616,
+      "longitude": 23.758935
+    },
+    {
+      "name": "Hair Identity",
+      "latitude": 38.022852,
+      "longitude": 24.005015
+    },
+    {
+      "name": "Hair Idol",
+      "latitude": 39.640062,
+      "longitude": 22.417599
+    },
+    {
+      "name": "Hair Inspiration",
+      "latitude": 40.59841,
+      "longitude": 22.957567
+    },
+    {
+      "name": "Hair Jordan",
+      "latitude": 35.513061,
+      "longitude": 24.019077
+    },
+    {
+      "name": "Hair Lab",
+      "latitude": 35.518067,
+      "longitude": 24.023734
+    },
+    {
+      "name": "Hair Lab",
+      "latitude": 39.310485,
+      "longitude": 26.219763
+    },
+    {
+      "name": "Hair Life",
+      "latitude": 35.363247,
+      "longitude": 24.259916
+    },
+    {
+      "name": "Hair Line",
+      "latitude": 38.041125,
+      "longitude": 23.755759
+    },
+    {
+      "name": "Hair Line",
+      "latitude": 40.649355,
+      "longitude": 22.946451
+    },
+    {
+      "name": "Hair Loft",
+      "latitude": 37.945321,
+      "longitude": 23.644827
+    },
+    {
+      "name": "Hair Majesty",
+      "latitude": 39.094662,
+      "longitude": 26.552789
+    },
+    {
+      "name": "Hair Majesty",
+      "latitude": 39.635567,
+      "longitude": 22.419793
+    },
+    {
+      "name": "Hair Palace",
+      "latitude": 37.975379,
+      "longitude": 23.777102
+    },
+    {
+      "name": "Hair place",
+      "latitude": 38.021836,
+      "longitude": 23.750812
+    },
+    {
+      "name": "Hair Play",
+      "latitude": 38.36852,
+      "longitude": 26.134782
+    },
+    {
+      "name": "Hair Play",
+      "latitude": 40.671455,
+      "longitude": 22.804375
+    },
+    {
+      "name": "Hair Point",
+      "latitude": 40.611234,
+      "longitude": 22.986229
+    },
+    {
+      "name": "Hair Profile",
+      "latitude": 37.94923,
+      "longitude": 23.688717
+    },
+    {
+      "name": "Hair Salon",
+      "latitude": 36.051156,
+      "longitude": 27.968242
+    },
+    {
+      "name": "Hair salon",
+      "latitude": 37.940394,
+      "longitude": 23.7538
+    },
+    {
+      "name": "Hair salon - Matziouroudi Vaia",
+      "latitude": 41.422004,
+      "longitude": 26.226361
+    },
+    {
+      "name": "Hair Salon ANEL",
+      "latitude": 36.048448,
+      "longitude": 27.951328
+    },
+    {
+      "name": "Hair salon Babel Antzelina's",
+      "latitude": 35.329447,
+      "longitude": 25.306632
+    },
+    {
+      "name": "Hair Salon By Despina Zarkali",
+      "latitude": 38.014524,
+      "longitude": 23.696907
+    },
+    {
+      "name": "Hair Salon by Lantzou Maria",
+      "latitude": 41.091768,
+      "longitude": 23.553886
+    },
+    {
+      "name": "Hair salon Georgia",
+      "latitude": 39.327646,
+      "longitude": 26.175219
+    },
+    {
+      "name": "Hair Salon Karagianni",
+      "latitude": 40.640966,
+      "longitude": 22.939995
+    },
+    {
+      "name": "hair salon para trixa",
+      "latitude": 36.357269,
+      "longitude": 25.445631
+    },
+    {
+      "name": "Hair Selection by Soumma",
+      "latitude": 39.638666,
+      "longitude": 22.421262
+    },
+    {
+      "name": "Hair Spa Mary",
+      "latitude": 40.610714,
+      "longitude": 24.60924
+    },
+    {
+      "name": "Hair Spot",
+      "latitude": 40.522532,
+      "longitude": 21.262432
+    },
+    {
+      "name": "Hair Stage",
+      "latitude": 38.035155,
+      "longitude": 23.765994
+    },
+    {
+      "name": "Hair Stories",
+      "latitude": 37.103356,
+      "longitude": 25.375791
+    },
+    {
+      "name": "Hair stories",
+      "latitude": 37.935984,
+      "longitude": 23.642463
+    },
+    {
+      "name": "Hair Studio",
+      "latitude": 37.998082,
+      "longitude": 23.737703
+    },
+    {
+      "name": "Hair studio",
+      "latitude": 39.502454,
+      "longitude": 20.263428
+    },
+    {
+      "name": "Hair Studio",
+      "latitude": 40.639822,
+      "longitude": 22.944219
+    },
+    {
+      "name": "Hair Studio 52",
+      "latitude": 37.923639,
+      "longitude": 23.751698
+    },
+    {
+      "name": "Hair Studio by Dimitra",
+      "latitude": 38.000772,
+      "longitude": 23.727289
+    },
+    {
+      "name": "Hair Studio Illusions",
+      "latitude": 39.436589,
+      "longitude": 19.976264
+    },
+    {
+      "name": "Hair Studio Maria",
+      "latitude": 39.927208,
+      "longitude": 25.33334
+    },
+    {
+      "name": "Hair Studio Δημήτρης",
+      "latitude": 37.96201,
+      "longitude": 23.752331
+    },
+    {
+      "name": "Hair studio Θεανώ",
+      "latitude": 40.270593,
+      "longitude": 22.531498
+    },
+    {
+      "name": "Hair Style",
+      "latitude": 35.417589,
+      "longitude": 24.690984
+    },
+    {
+      "name": "Hair Style",
+      "latitude": 37.936454,
+      "longitude": 23.64472
+    },
+    {
+      "name": "Hair Style",
+      "latitude": 38.035418,
+      "longitude": 23.755385
+    },
+    {
+      "name": "Hair Style Χρύσα",
+      "latitude": 39.633394,
+      "longitude": 22.417775
+    },
+    {
+      "name": "Hair Styling Μαριά Αξιώτου",
+      "latitude": 37.69195,
+      "longitude": 26.943947
+    },
+    {
+      "name": "Hair Touch",
+      "latitude": 38.056791,
+      "longitude": 23.803789
+    },
+    {
+      "name": "Hair Traffic",
+      "latitude": 38.05318,
+      "longitude": 23.808673
+    },
+    {
+      "name": "Hair Vogue",
+      "latitude": 37.939873,
+      "longitude": 23.756314
+    },
+    {
+      "name": "Hair Way",
+      "latitude": 38.040983,
+      "longitude": 23.750286
+    },
+    {
+      "name": "Hair2go",
+      "latitude": 37.975291,
+      "longitude": 23.763856
+    },
+    {
+      "name": "Hair4You",
+      "latitude": 37.949911,
+      "longitude": 23.718353
+    },
+    {
+      "name": "Haircat",
+      "latitude": 37.98626,
+      "longitude": 23.738384
+    },
+    {
+      "name": "HairClubHarris",
+      "latitude": 41.088527,
+      "longitude": 23.542949
+    },
+    {
+      "name": "Haircut by Kandrali",
+      "latitude": 40.635602,
+      "longitude": 22.952916
+    },
+    {
+      "name": "Haircuts & More",
+      "latitude": 39.621643,
+      "longitude": 19.912496
+    },
+    {
+      "name": "Haircuts & Shaves",
+      "latitude": 37.938324,
+      "longitude": 23.640885
+    },
+    {
+      "name": "Hairday - Rena Loizou",
+      "latitude": 37.93905,
+      "longitude": 23.711995
+    },
+    {
+      "name": "HairDom",
+      "latitude": 37.948832,
+      "longitude": 23.741225
+    },
+    {
+      "name": "Hairdresser",
+      "latitude": 38.004281,
+      "longitude": 23.822276
+    },
+    {
+      "name": "Hairdresser Salon",
+      "latitude": 36.423063,
+      "longitude": 28.152697
+    },
+    {
+      "name": "HAIRDRESSING",
+      "latitude": 38.02319,
+      "longitude": 23.739962
+    },
+    {
+      "name": "Hairetic",
+      "latitude": 41.139456,
+      "longitude": 24.889789
+    },
+    {
+      "name": "Hairlab",
+      "latitude": 37.969071,
+      "longitude": 23.754356
+    },
+    {
+      "name": "Hairmania",
+      "latitude": 37.909005,
+      "longitude": 23.752023
+    },
+    {
+      "name": "Hairmine",
+      "latitude": 37.940818,
+      "longitude": 23.649343
+    },
+    {
+      "name": "HairPlanet",
+      "latitude": 40.599994,
+      "longitude": 22.957185
+    },
+    {
+      "name": "Hairplus Gala",
+      "latitude": 38.24017,
+      "longitude": 21.745625
+    },
+    {
+      "name": "Hairstyle Patistas",
+      "latitude": 38.027603,
+      "longitude": 23.720068
+    },
+    {
+      "name": "Hairstyle Χατζηνικολάου",
+      "latitude": 40.638594,
+      "longitude": 22.943458
+    },
+    {
+      "name": "Hairtale Workshop",
+      "latitude": 38.912346,
+      "longitude": 22.617051
+    },
+    {
+      "name": "Hairworks",
+      "latitude": 37.983652,
+      "longitude": 23.738294
+    },
+    {
+      "name": "HAIRYTALES",
+      "latitude": 40.551346,
+      "longitude": 23.018784
+    },
+    {
+      "name": "Handsome2b",
+      "latitude": 38.03752,
+      "longitude": 23.749302
+    },
+    {
+      "name": "Haniey",
+      "latitude": 37.997768,
+      "longitude": 23.734895
+    },
+    {
+      "name": "Happy Beauty Station",
+      "latitude": 37.974056,
+      "longitude": 23.773851
+    },
+    {
+      "name": "Happy hair",
+      "latitude": 38.021643,
+      "longitude": 23.749435
+    },
+    {
+      "name": "Haris Nikolakopoulos",
+      "latitude": 37.929769,
+      "longitude": 23.698149
+    },
+    {
+      "name": "Haritos Barbershop",
+      "latitude": 35.328851,
+      "longitude": 25.30651
+    },
+    {
+      "name": "Head Lus",
+      "latitude": 37.937358,
+      "longitude": 22.937322
+    },
+    {
+      "name": "Head Master",
+      "latitude": 37.93766,
+      "longitude": 22.930097
+    },
+    {
+      "name": "Head Start",
+      "latitude": 37.964746,
+      "longitude": 23.723699
+    },
+    {
+      "name": "Helena Milanou",
+      "latitude": 37.941974,
+      "longitude": 23.650137
+    },
+    {
+      "name": "Helena Milanou",
+      "latitude": 37.9786,
+      "longitude": 23.746069
+    },
+    {
+      "name": "Helena Milanou",
+      "latitude": 37.990627,
+      "longitude": 23.681153
+    },
+    {
+      "name": "Helena More",
+      "latitude": 37.926198,
+      "longitude": 23.693384
+    },
+    {
+      "name": "Hell Cuts",
+      "latitude": 38.034254,
+      "longitude": 23.7385
+    },
+    {
+      "name": "Hermes",
+      "latitude": 38.039069,
+      "longitude": 23.829859
+    },
+    {
+      "name": "HisMajesty Barbershop",
+      "latitude": 39.093471,
+      "longitude": 26.552757
+    },
+    {
+      "name": "Hollywood",
+      "latitude": 38.002272,
+      "longitude": 23.728104
+    },
+    {
+      "name": "Hollywood",
+      "latitude": 38.081578,
+      "longitude": 23.704443
+    },
+    {
+      "name": "Holt HairLab",
+      "latitude": 40.631902,
+      "longitude": 22.950406
+    },
+    {
+      "name": "Hood Branded",
+      "latitude": 38.041191,
+      "longitude": 23.74893
+    },
+    {
+      "name": "Hood Branded",
+      "latitude": 38.056063,
+      "longitude": 23.807327
+    },
+    {
+      "name": "House of Barber",
+      "latitude": 39.63483,
+      "longitude": 22.417465
+    },
+    {
+      "name": "House of Hair",
+      "latitude": 38.033623,
+      "longitude": 23.834077
+    },
+    {
+      "name": "HS",
+      "latitude": 37.983832,
+      "longitude": 23.724946
+    },
+    {
+      "name": "Hustle barber shop",
+      "latitude": 37.966822,
+      "longitude": 23.730752
+    },
+    {
+      "name": "Iboga",
+      "latitude": 39.636088,
+      "longitude": 22.416618
+    },
+    {
+      "name": "Ibru Beauty",
+      "latitude": 37.995522,
+      "longitude": 23.733605
+    },
+    {
+      "name": "Il barbere",
+      "latitude": 37.991514,
+      "longitude": 23.679274
+    },
+    {
+      "name": "Il Barbiere",
+      "latitude": 40.661203,
+      "longitude": 22.945896
+    },
+    {
+      "name": "Iliana",
+      "latitude": 38.015778,
+      "longitude": 23.734649
+    },
+    {
+      "name": "Ilias Zarbalis",
+      "latitude": 37.978209,
+      "longitude": 23.743761
+    },
+    {
+      "name": "Image",
+      "latitude": 37.933659,
+      "longitude": 23.634996
+    },
+    {
+      "name": "Image",
+      "latitude": 37.950229,
+      "longitude": 23.73648
+    },
+    {
+      "name": "Image",
+      "latitude": 38.033614,
+      "longitude": 23.739144
+    },
+    {
+      "name": "In Style",
+      "latitude": 37.93586,
+      "longitude": 23.650502
+    },
+    {
+      "name": "Infinity",
+      "latitude": 37.991396,
+      "longitude": 23.740095
+    },
+    {
+      "name": "Inoku Beauty Salon",
+      "latitude": 38.049686,
+      "longitude": 23.763748
+    },
+    {
+      "name": "Inter nos",
+      "latitude": 37.989183,
+      "longitude": 23.722993
+    },
+    {
+      "name": "INTERLOOK",
+      "latitude": 40.606981,
+      "longitude": 22.97971
+    },
+    {
+      "name": "Internos",
+      "latitude": 37.987518,
+      "longitude": 23.720048
+    },
+    {
+      "name": "IOANNIS team cc",
+      "latitude": 37.443611,
+      "longitude": 24.944807
+    },
+    {
+      "name": "Iristyle",
+      "latitude": 35.191607,
+      "longitude": 25.717729
+    },
+    {
+      "name": "Isabelle",
+      "latitude": 38.020406,
+      "longitude": 23.731569
+    },
+    {
+      "name": "Izabell",
+      "latitude": 38.024864,
+      "longitude": 23.743423
+    },
+    {
+      "name": "J&P Haute Coiffure",
+      "latitude": 40.60304,
+      "longitude": 22.968519
+    },
+    {
+      "name": "JA",
+      "latitude": 37.986213,
+      "longitude": 23.756792
+    },
+    {
+      "name": "Jackie",
+      "latitude": 38.01907,
+      "longitude": 23.754731
+    },
+    {
+      "name": "Jag and Gaj",
+      "latitude": 37.943285,
+      "longitude": 23.648911
+    },
+    {
+      "name": "Jean & Avraam",
+      "latitude": 37.935824,
+      "longitude": 23.637356
+    },
+    {
+      "name": "Jenny",
+      "latitude": 38.019474,
+      "longitude": 23.734847
+    },
+    {
+      "name": "Jerry's Barbershop",
+      "latitude": 38.011755,
+      "longitude": 23.739456
+    },
+    {
+      "name": "Jessie",
+      "latitude": 35.014867,
+      "longitude": 24.781363
+    },
+    {
+      "name": "Jeta & Ευθύμης",
+      "latitude": 37.995581,
+      "longitude": 23.737888
+    },
+    {
+      "name": "JG Salons",
+      "latitude": 38.059292,
+      "longitude": 23.795096
+    },
+    {
+      "name": "Jimmy beauty center",
+      "latitude": 37.98384,
+      "longitude": 23.724884
+    },
+    {
+      "name": "Jimmy Cut Hairplace",
+      "latitude": 37.93264,
+      "longitude": 23.696529
+    },
+    {
+      "name": "JJ",
+      "latitude": 37.98716,
+      "longitude": 23.744579
+    },
+    {
+      "name": "JK",
+      "latitude": 37.95035,
+      "longitude": 23.719607
+    },
+    {
+      "name": "Jo",
+      "latitude": 37.833972,
+      "longitude": 23.785853
+    },
+    {
+      "name": "JO",
+      "latitude": 37.97586,
+      "longitude": 23.65333
+    },
+    {
+      "name": "John",
+      "latitude": 38.000505,
+      "longitude": 23.720052
+    },
+    {
+      "name": "John's hair shop",
+      "latitude": 39.19678,
+      "longitude": 20.18596
+    },
+    {
+      "name": "Johny's Barbershop",
+      "latitude": 38.243559,
+      "longitude": 21.734583
+    },
+    {
+      "name": "Jonotar",
+      "latitude": 38.001197,
+      "longitude": 23.724025
+    },
+    {
+      "name": "Joy",
+      "latitude": 37.942838,
+      "longitude": 23.654072
+    },
+    {
+      "name": "Joy",
+      "latitude": 37.98,
+      "longitude": 23.759299
+    },
+    {
+      "name": "Joy",
+      "latitude": 37.994751,
+      "longitude": 23.750112
+    },
+    {
+      "name": "Joy Salon",
+      "latitude": 38.00766,
+      "longitude": 23.735237
+    },
+    {
+      "name": "Joysalon",
+      "latitude": 38.003143,
+      "longitude": 23.734092
+    },
+    {
+      "name": "Just Impress",
+      "latitude": 37.975828,
+      "longitude": 23.65294
+    },
+    {
+      "name": "Just Stella",
+      "latitude": 37.940986,
+      "longitude": 23.64646
+    },
+    {
+      "name": "Kaizer",
+      "latitude": 37.986056,
+      "longitude": 23.729724
+    },
+    {
+      "name": "Kare kare",
+      "latitude": 37.932129,
+      "longitude": 23.759212
+    },
+    {
+      "name": "Karine",
+      "latitude": 40.671003,
+      "longitude": 22.905155
+    },
+    {
+      "name": "Karousos",
+      "latitude": 37.934839,
+      "longitude": 23.631695
+    },
+    {
+      "name": "Katerina",
+      "latitude": 37.938583,
+      "longitude": 22.92882
+    },
+    {
+      "name": "Katerina Mpanou",
+      "latitude": 37.946942,
+      "longitude": 23.746352
+    },
+    {
+      "name": "Katerina's Beautyland",
+      "latitude": 38.02807,
+      "longitude": 23.716919
+    },
+    {
+      "name": "Kathrin Hair Beauty",
+      "latitude": 38.000854,
+      "longitude": 23.740609
+    },
+    {
+      "name": "Katrin",
+      "latitude": 37.862511,
+      "longitude": 23.754903
+    },
+    {
+      "name": "Kema",
+      "latitude": 37.941069,
+      "longitude": 23.648782
+    },
+    {
+      "name": "Kerk's",
+      "latitude": 37.988538,
+      "longitude": 23.757969
+    },
+    {
+      "name": "Khan",
+      "latitude": 37.984628,
+      "longitude": 23.72698
+    },
+    {
+      "name": "Kiki",
+      "latitude": 36.796637,
+      "longitude": 21.956768
+    },
+    {
+      "name": "King Barber shop",
+      "latitude": 38.459068,
+      "longitude": 23.596478
+    },
+    {
+      "name": "King hair Konstantine",
+      "latitude": 37.941951,
+      "longitude": 23.645393
+    },
+    {
+      "name": "King of Rock",
+      "latitude": 38.061558,
+      "longitude": 23.774125
+    },
+    {
+      "name": "Kings & Queens",
+      "latitude": 37.927049,
+      "longitude": 23.693084
+    },
+    {
+      "name": "Klena",
+      "latitude": 37.406276,
+      "longitude": 22.723683
+    },
+    {
+      "name": "Klimis Haircut",
+      "latitude": 35.34255,
+      "longitude": 25.133745
+    },
+    {
+      "name": "KMHair",
+      "latitude": 38.043511,
+      "longitude": 23.752155
+    },
+    {
+      "name": "Kommoseis",
+      "latitude": 37.989863,
+      "longitude": 23.763145
+    },
+    {
+      "name": "Kommothpio Hair and Beauty Studio",
+      "latitude": 39.414722,
+      "longitude": 20.014342
+    },
+    {
+      "name": "Kommotirio Star Marousi",
+      "latitude": 38.054705,
+      "longitude": 23.808031
+    },
+    {
+      "name": "Konstadinidis",
+      "latitude": 38.030519,
+      "longitude": 23.697832
+    },
+    {
+      "name": "Konstadinos",
+      "latitude": 39.63702,
+      "longitude": 22.420613
+    },
+    {
+      "name": "Konstantinos",
+      "latitude": 37.988891,
+      "longitude": 23.764274
+    },
+    {
+      "name": "Konstantinos",
+      "latitude": 37.990904,
+      "longitude": 23.73202
+    },
+    {
+      "name": "Konstantinos",
+      "latitude": 39.621583,
+      "longitude": 19.916888
+    },
+    {
+      "name": "Konstantinos Di Art Hair Studio",
+      "latitude": 40.461292,
+      "longitude": 22.86024
+    },
+    {
+      "name": "Koronis",
+      "latitude": 38.018549,
+      "longitude": 23.735064
+    },
+    {
+      "name": "Kosmas",
+      "latitude": 38.017999,
+      "longitude": 23.735357
+    },
+    {
+      "name": "Koulis",
+      "latitude": 37.941398,
+      "longitude": 23.647966
+    },
+    {
+      "name": "Koureio Antonis",
+      "latitude": 37.992771,
+      "longitude": 23.746827
+    },
+    {
+      "name": "Koureion Zisis",
+      "latitude": 38.019697,
+      "longitude": 23.803924
+    },
+    {
+      "name": "Kourepsou",
+      "latitude": 35.230138,
+      "longitude": 23.681704
+    },
+    {
+      "name": "Koypeion",
+      "latitude": 40.778991,
+      "longitude": 24.710528
+    },
+    {
+      "name": "Koypeion Barbershop",
+      "latitude": 37.97523,
+      "longitude": 23.718108
+    },
+    {
+      "name": "Krishna",
+      "latitude": 37.963151,
+      "longitude": 23.722307
+    },
+    {
+      "name": "Krishna",
+      "latitude": 37.975404,
+      "longitude": 23.764362
+    },
+    {
+      "name": "Krishna",
+      "latitude": 37.990496,
+      "longitude": 23.748289
+    },
+    {
+      "name": "KSM",
+      "latitude": 37.979333,
+      "longitude": 23.640246
+    },
+    {
+      "name": "Ktenion",
+      "latitude": 39.636212,
+      "longitude": 22.417927
+    },
+    {
+      "name": "Kyr L'Artiste",
+      "latitude": 38.368869,
+      "longitude": 26.13187
+    },
+    {
+      "name": "L' Art de Coiffure",
+      "latitude": 38.032264,
+      "longitude": 23.714238
+    },
+    {
+      "name": "L'art de coiffure",
+      "latitude": 37.961908,
+      "longitude": 23.751241
+    },
+    {
+      "name": "L'atelier",
+      "latitude": 38.035944,
+      "longitude": 23.749058
+    },
+    {
+      "name": "L'uomo",
+      "latitude": 37.943121,
+      "longitude": 23.649626
+    },
+    {
+      "name": "l. boboris",
+      "latitude": 37.992495,
+      "longitude": 23.766799
+    },
+    {
+      "name": "L.K. Haircut",
+      "latitude": 37.961242,
+      "longitude": 23.697582
+    },
+    {
+      "name": "La Barba",
+      "latitude": 37.90815,
+      "longitude": 23.748519
+    },
+    {
+      "name": "La Barberia",
+      "latitude": 38.175731,
+      "longitude": 20.4899
+    },
+    {
+      "name": "La Barberia",
+      "latitude": 39.623536,
+      "longitude": 19.920748
+    },
+    {
+      "name": "La Barberia",
+      "latitude": 40.29967,
+      "longitude": 21.797093
+    },
+    {
+      "name": "La Beaute",
+      "latitude": 40.268427,
+      "longitude": 22.508857
+    },
+    {
+      "name": "La Belle",
+      "latitude": 38.36948,
+      "longitude": 26.13399
+    },
+    {
+      "name": "La belle dame",
+      "latitude": 37.991574,
+      "longitude": 23.727032
+    },
+    {
+      "name": "La Casa Del Barberie",
+      "latitude": 38.022706,
+      "longitude": 23.795557
+    },
+    {
+      "name": "La Coupe",
+      "latitude": 38.000662,
+      "longitude": 23.729763
+    },
+    {
+      "name": "La Kosta",
+      "latitude": 37.992798,
+      "longitude": 23.798696
+    },
+    {
+      "name": "La Petit Salon",
+      "latitude": 37.990485,
+      "longitude": 23.724135
+    },
+    {
+      "name": "La Ren",
+      "latitude": 37.990188,
+      "longitude": 23.681708
+    },
+    {
+      "name": "Labros",
+      "latitude": 38.059182,
+      "longitude": 23.795042
+    },
+    {
+      "name": "Ladies & Gents by Mr. Christos",
+      "latitude": 38.019834,
+      "longitude": 23.796154
+    },
+    {
+      "name": "Lahori",
+      "latitude": 37.998995,
+      "longitude": 23.723676
+    },
+    {
+      "name": "Lak",
+      "latitude": 37.957614,
+      "longitude": 23.631057
+    },
+    {
+      "name": "Land of eagles",
+      "latitude": 36.251614,
+      "longitude": 28.164977
+    },
+    {
+      "name": "Laura",
+      "latitude": 37.930046,
+      "longitude": 23.638523
+    },
+    {
+      "name": "Le Barbier d'Athènes",
+      "latitude": 38.029748,
+      "longitude": 23.735096
+    },
+    {
+      "name": "Le Boudoir",
+      "latitude": 38.128295,
+      "longitude": 23.856939
+    },
+    {
+      "name": "Le Petit",
+      "latitude": 38.013226,
+      "longitude": 23.817234
+    },
+    {
+      "name": "Le Tif",
+      "latitude": 40.583352,
+      "longitude": 22.948676
+    },
+    {
+      "name": "Lemon Poppy Seed",
+      "latitude": 37.978139,
+      "longitude": 23.725816
+    },
+    {
+      "name": "Lemon Poppy seed",
+      "latitude": 38.003065,
+      "longitude": 23.735484
+    },
+    {
+      "name": "Lena's",
+      "latitude": 39.166784,
+      "longitude": 21.033777
+    },
+    {
+      "name": "Lia",
+      "latitude": 37.980253,
+      "longitude": 23.759774
+    },
+    {
+      "name": "Liberis Barber Shop",
+      "latitude": 36.448703,
+      "longitude": 28.219897
+    },
+    {
+      "name": "Liberis' Lobby",
+      "latitude": 38.053274,
+      "longitude": 23.810406
+    },
+    {
+      "name": "Like",
+      "latitude": 37.8923,
+      "longitude": 23.751481
+    },
+    {
+      "name": "Like A Sir",
+      "latitude": 37.962082,
+      "longitude": 23.730826
+    },
+    {
+      "name": "Lili",
+      "latitude": 37.99061,
+      "longitude": 23.735566
+    },
+    {
+      "name": "Line Up",
+      "latitude": 37.937992,
+      "longitude": 23.642925
+    },
+    {
+      "name": "Linea Capelli",
+      "latitude": 38.04397,
+      "longitude": 23.752218
+    },
+    {
+      "name": "Lioras Barbershop",
+      "latitude": 40.622693,
+      "longitude": 22.959988
+    },
+    {
+      "name": "Litsa Salon",
+      "latitude": 38.041489,
+      "longitude": 23.748707
+    },
+    {
+      "name": "Live Hair",
+      "latitude": 38.045928,
+      "longitude": 23.753103
+    },
+    {
+      "name": "Liza Markaki",
+      "latitude": 37.943451,
+      "longitude": 23.649333
+    },
+    {
+      "name": "Lliz",
+      "latitude": 40.584448,
+      "longitude": 22.952112
+    },
+    {
+      "name": "Loca",
+      "latitude": 37.945836,
+      "longitude": 23.71209
+    },
+    {
+      "name": "Loft",
+      "latitude": 39.363219,
+      "longitude": 21.922049
+    },
+    {
+      "name": "Loknath",
+      "latitude": 37.978814,
+      "longitude": 23.766865
+    },
+    {
+      "name": "Lord of Blades",
+      "latitude": 37.990138,
+      "longitude": 23.758945
+    },
+    {
+      "name": "Lorén",
+      "latitude": 40.605197,
+      "longitude": 22.961745
+    },
+    {
+      "name": "Los Hermanos",
+      "latitude": 39.634635,
+      "longitude": 22.417216
+    },
+    {
+      "name": "Lovely",
+      "latitude": 38.003048,
+      "longitude": 23.737636
+    },
+    {
+      "name": "Lovely Salon",
+      "latitude": 38.009479,
+      "longitude": 23.736164
+    },
+    {
+      "name": "Lucille",
+      "latitude": 38.056682,
+      "longitude": 23.803863
+    },
+    {
+      "name": "Lucky",
+      "latitude": 38.028301,
+      "longitude": 23.722854
+    },
+    {
+      "name": "Lucky Cut",
+      "latitude": 38.012462,
+      "longitude": 23.820499
+    },
+    {
+      "name": "LuEl Coiffure",
+      "latitude": 38.035762,
+      "longitude": 23.769156
+    },
+    {
+      "name": "Lui e Lei",
+      "latitude": 36.431464,
+      "longitude": 28.221092
+    },
+    {
+      "name": "Lui Lua",
+      "latitude": 37.932391,
+      "longitude": 23.631638
+    },
+    {
+      "name": "Lulu",
+      "latitude": 37.940883,
+      "longitude": 23.64587
+    },
+    {
+      "name": "Lumberjack",
+      "latitude": 38.004815,
+      "longitude": 23.81224
+    },
+    {
+      "name": "Lunar",
+      "latitude": 39.669225,
+      "longitude": 20.857072
+    },
+    {
+      "name": "Lux Lab",
+      "latitude": 38.022169,
+      "longitude": 24.005824
+    },
+    {
+      "name": "Lydia Professional Hair Salon",
+      "latitude": 40.632712,
+      "longitude": 22.950542
+    },
+    {
+      "name": "m & m",
+      "latitude": 40.659567,
+      "longitude": 22.932319
+    },
+    {
+      "name": "M & S",
+      "latitude": 37.973491,
+      "longitude": 23.778582
+    },
+    {
+      "name": "M Hair & Nailbar",
+      "latitude": 38.834258,
+      "longitude": 20.707394
+    },
+    {
+      "name": "madis hairdress",
+      "latitude": 38.245277,
+      "longitude": 21.736545
+    },
+    {
+      "name": "MAG",
+      "latitude": 40.630458,
+      "longitude": 22.952615
+    },
+    {
+      "name": "Magic hair",
+      "latitude": 38.0598,
+      "longitude": 23.797243
+    },
+    {
+      "name": "Magic Hair",
+      "latitude": 39.638872,
+      "longitude": 22.412878
+    },
+    {
+      "name": "Magic Mirror",
+      "latitude": 39.390747,
+      "longitude": 20.067484
+    },
+    {
+      "name": "Magic Tale",
+      "latitude": 37.93999,
+      "longitude": 22.930118
+    },
+    {
+      "name": "Magic Touch",
+      "latitude": 38.011869,
+      "longitude": 23.816176
+    },
+    {
+      "name": "Magic Touch",
+      "latitude": 40.250874,
+      "longitude": 23.251256
+    },
+    {
+      "name": "Magnetic",
+      "latitude": 37.975611,
+      "longitude": 23.772184
+    },
+    {
+      "name": "Maira",
+      "latitude": 38.023103,
+      "longitude": 23.748686
+    },
+    {
+      "name": "Majestic",
+      "latitude": 37.984008,
+      "longitude": 23.738232
+    },
+    {
+      "name": "makhs barber shop",
+      "latitude": 37.977259,
+      "longitude": 23.771673
+    },
+    {
+      "name": "Makis",
+      "latitude": 38.022497,
+      "longitude": 23.75387
+    },
+    {
+      "name": "Makis Raptodimos",
+      "latitude": 38.034596,
+      "longitude": 23.739071
+    },
+    {
+      "name": "Malaphrakis mavos",
+      "latitude": 35.003874,
+      "longitude": 25.585014
+    },
+    {
+      "name": "MALI LIMA",
+      "latitude": 40.599375,
+      "longitude": 22.971749
+    },
+    {
+      "name": "Malou",
+      "latitude": 37.984541,
+      "longitude": 23.756921
+    },
+    {
+      "name": "Mango Hair",
+      "latitude": 37.952501,
+      "longitude": 23.737362
+    },
+    {
+      "name": "Manhattan",
+      "latitude": 37.97749,
+      "longitude": 23.770171
+    },
+    {
+      "name": "Mani House",
+      "latitude": 38.016526,
+      "longitude": 23.821124
+    },
+    {
+      "name": "Mankind",
+      "latitude": 40.570457,
+      "longitude": 22.959224
+    },
+    {
+      "name": "Manos",
+      "latitude": 39.101549,
+      "longitude": 26.555034
+    },
+    {
+      "name": "Mansfield",
+      "latitude": 37.978239,
+      "longitude": 23.741752
+    },
+    {
+      "name": "Mant Aster",
+      "latitude": 40.609858,
+      "longitude": 22.986576
+    },
+    {
+      "name": "Mao",
+      "latitude": 38.016432,
+      "longitude": 23.751684
+    },
+    {
+      "name": "Marathon",
+      "latitude": 37.937572,
+      "longitude": 23.735538
+    },
+    {
+      "name": "Marcelle",
+      "latitude": 37.864416,
+      "longitude": 23.748139
+    },
+    {
+      "name": "Marcy",
+      "latitude": 38.369609,
+      "longitude": 26.134322
+    },
+    {
+      "name": "Maria",
+      "latitude": 35.098151,
+      "longitude": 24.685669
+    },
+    {
+      "name": "Maria",
+      "latitude": 35.290944,
+      "longitude": 25.44069
+    },
+    {
+      "name": "Maria Iatridou",
+      "latitude": 38.019151,
+      "longitude": 23.7394
+    },
+    {
+      "name": "Maria Mylonaki",
+      "latitude": 38.031567,
+      "longitude": 23.744495
+    },
+    {
+      "name": "Maria Tsirigotaki",
+      "latitude": 35.332202,
+      "longitude": 25.305972
+    },
+    {
+      "name": "Marianna's",
+      "latitude": 37.947189,
+      "longitude": 23.694375
+    },
+    {
+      "name": "Marias",
+      "latitude": 40.607073,
+      "longitude": 22.955901
+    },
+    {
+      "name": "Marie",
+      "latitude": 38.039038,
+      "longitude": 23.670813
+    },
+    {
+      "name": "Marina's",
+      "latitude": 37.94022,
+      "longitude": 23.651755
+    },
+    {
+      "name": "Marte Barbershop",
+      "latitude": 40.568484,
+      "longitude": 22.961399
+    },
+    {
+      "name": "Mary's",
+      "latitude": 38.014643,
+      "longitude": 23.735511
+    },
+    {
+      "name": "Mary's and Nia's",
+      "latitude": 38.238845,
+      "longitude": 21.734212
+    },
+    {
+      "name": "Mast",
+      "latitude": 37.973935,
+      "longitude": 23.660954
+    },
+    {
+      "name": "Master Barber",
+      "latitude": 37.968075,
+      "longitude": 23.710108
+    },
+    {
+      "name": "Masters Hair Salon",
+      "latitude": 37.954881,
+      "longitude": 23.699524
+    },
+    {
+      "name": "Mat Hatter",
+      "latitude": 37.99513,
+      "longitude": 23.732309
+    },
+    {
+      "name": "Maya's",
+      "latitude": 38.01963,
+      "longitude": 23.756688
+    },
+    {
+      "name": "MCh Hair Idols",
+      "latitude": 37.949752,
+      "longitude": 23.734876
+    },
+    {
+      "name": "MD Minas",
+      "latitude": 38.000688,
+      "longitude": 23.728226
+    },
+    {
+      "name": "Medusa",
+      "latitude": 37.943586,
+      "longitude": 23.65242
+    },
+    {
+      "name": "MEDUSA",
+      "latitude": 40.60189,
+      "longitude": 22.971458
+    },
+    {
+      "name": "Medusa",
+      "latitude": 40.635691,
+      "longitude": 22.953212
+    },
+    {
+      "name": "Medusa",
+      "latitude": 40.638534,
+      "longitude": 22.949856
+    },
+    {
+      "name": "Medusa",
+      "latitude": 40.65671,
+      "longitude": 22.987057
+    },
+    {
+      "name": "Medusa",
+      "latitude": 40.657016,
+      "longitude": 22.924363
+    },
+    {
+      "name": "Medusa",
+      "latitude": 40.671602,
+      "longitude": 22.905095
+    },
+    {
+      "name": "Medusa barber",
+      "latitude": 37.943584,
+      "longitude": 23.652418
+    },
+    {
+      "name": "Melina's Coiffure",
+      "latitude": 38.088102,
+      "longitude": 23.739899
+    },
+    {
+      "name": "Melina's House Of Hair",
+      "latitude": 37.996517,
+      "longitude": 23.732253
+    },
+    {
+      "name": "Melina´s Hair Studio",
+      "latitude": 37.996769,
+      "longitude": 23.770352
+    },
+    {
+      "name": "Men Stories",
+      "latitude": 37.938293,
+      "longitude": 22.936558
+    },
+    {
+      "name": "Men's Case",
+      "latitude": 38.037172,
+      "longitude": 23.67533
+    },
+    {
+      "name": "Men's Classic Barber Shop",
+      "latitude": 38.370086,
+      "longitude": 26.136438
+    },
+    {
+      "name": "Men's club",
+      "latitude": 38.021865,
+      "longitude": 23.803044
+    },
+    {
+      "name": "Men's Haircut",
+      "latitude": 40.600283,
+      "longitude": 22.970479
+    },
+    {
+      "name": "Men's Lobb",
+      "latitude": 38.271001,
+      "longitude": 21.744684
+    },
+    {
+      "name": "Metamorphose",
+      "latitude": 38.000474,
+      "longitude": 23.739773
+    },
+    {
+      "name": "Metropolis",
+      "latitude": 37.975,
+      "longitude": 23.73077
+    },
+    {
+      "name": "MG",
+      "latitude": 37.949913,
+      "longitude": 23.738666
+    },
+    {
+      "name": "Michael",
+      "latitude": 40.650115,
+      "longitude": 22.94542
+    },
+    {
+      "name": "michaelis alexandrakis",
+      "latitude": 37.979215,
+      "longitude": 23.745891
+    },
+    {
+      "name": "Michail",
+      "latitude": 35.207771,
+      "longitude": 26.105831
+    },
+    {
+      "name": "Michalelis",
+      "latitude": 37.979126,
+      "longitude": 23.736494
+    },
+    {
+      "name": "Michalelis",
+      "latitude": 38.07326,
+      "longitude": 23.814834
+    },
+    {
+      "name": "Michalis",
+      "latitude": 37.958217,
+      "longitude": 23.762979
+    },
+    {
+      "name": "Michalis Maragkoudakis",
+      "latitude": 38.014751,
+      "longitude": 23.832588
+    },
+    {
+      "name": "MICHELANGELO",
+      "latitude": 41.259714,
+      "longitude": 22.999693
+    },
+    {
+      "name": "Migas",
+      "latitude": 39.636888,
+      "longitude": 22.415781
+    },
+    {
+      "name": "Mika",
+      "latitude": 36.338042,
+      "longitude": 28.198389
+    },
+    {
+      "name": "Mika",
+      "latitude": 36.341585,
+      "longitude": 28.198281
+    },
+    {
+      "name": "Mika",
+      "latitude": 37.987372,
+      "longitude": 23.757966
+    },
+    {
+      "name": "Mike Matala",
+      "latitude": 34.993155,
+      "longitude": 24.750931
+    },
+    {
+      "name": "Milonaki's Team",
+      "latitude": 38.051539,
+      "longitude": 23.748736
+    },
+    {
+      "name": "MIND THE CUT",
+      "latitude": 35.297637,
+      "longitude": 25.422691
+    },
+    {
+      "name": "Mind Your Head",
+      "latitude": 35.510276,
+      "longitude": 23.974701
+    },
+    {
+      "name": "Mira cle beautique",
+      "latitude": 37.949192,
+      "longitude": 23.736313
+    },
+    {
+      "name": "Miroir de beaute",
+      "latitude": 37.965093,
+      "longitude": 23.635504
+    },
+    {
+      "name": "Mirror",
+      "latitude": 37.972264,
+      "longitude": 23.768108
+    },
+    {
+      "name": "Mirror",
+      "latitude": 40.615074,
+      "longitude": 22.9628
+    },
+    {
+      "name": "Mise en plis",
+      "latitude": 40.379262,
+      "longitude": 23.442656
+    },
+    {
+      "name": "Mitsaras",
+      "latitude": 38.251444,
+      "longitude": 21.741048
+    },
+    {
+      "name": "Miva",
+      "latitude": 40.084139,
+      "longitude": 21.426821
+    },
+    {
+      "name": "Mix & mar",
+      "latitude": 37.932951,
+      "longitude": 23.644997
+    },
+    {
+      "name": "Mix Mar",
+      "latitude": 37.933065,
+      "longitude": 23.643839
+    },
+    {
+      "name": "Mixaloudis Pavlos",
+      "latitude": 39.180525,
+      "longitude": 22.758792
+    },
+    {
+      "name": "Mk hair professionals",
+      "latitude": 38.008208,
+      "longitude": 23.860621
+    },
+    {
+      "name": "MK Wellness",
+      "latitude": 40.631518,
+      "longitude": 22.946006
+    },
+    {
+      "name": "mld",
+      "latitude": 38.063307,
+      "longitude": 23.779188
+    },
+    {
+      "name": "mmiri ozuzo",
+      "latitude": 37.97761,
+      "longitude": 23.731433
+    },
+    {
+      "name": "Mod's hair",
+      "latitude": 37.978332,
+      "longitude": 23.72756
+    },
+    {
+      "name": "Mod's Hair",
+      "latitude": 38.000406,
+      "longitude": 23.731815
+    },
+    {
+      "name": "Mod's hair",
+      "latitude": 38.056378,
+      "longitude": 23.80318
+    },
+    {
+      "name": "Mods hair",
+      "latitude": 37.512023,
+      "longitude": 22.374241
+    },
+    {
+      "name": "Mods hair",
+      "latitude": 38.043193,
+      "longitude": 23.753828
+    },
+    {
+      "name": "modshair",
+      "latitude": 41.3477,
+      "longitude": 26.495715
+    },
+    {
+      "name": "Mohammad",
+      "latitude": 38.00633,
+      "longitude": 23.734888
+    },
+    {
+      "name": "Moi jolie",
+      "latitude": 37.944044,
+      "longitude": 23.660697
+    },
+    {
+      "name": "Mon Hair Cutting",
+      "latitude": 37.967865,
+      "longitude": 23.745423
+    },
+    {
+      "name": "Mona Lisa",
+      "latitude": 38.022448,
+      "longitude": 23.797823
+    },
+    {
+      "name": "Monika",
+      "latitude": 38.013855,
+      "longitude": 23.741766
+    },
+    {
+      "name": "Mousse",
+      "latitude": 38.01593,
+      "longitude": 23.758207
+    },
+    {
+      "name": "Mouzikos",
+      "latitude": 39.104853,
+      "longitude": 26.559545
+    },
+    {
+      "name": "move your hair",
+      "latitude": 38.046542,
+      "longitude": 23.759317
+    },
+    {
+      "name": "Moyses",
+      "latitude": 37.349667,
+      "longitude": 23.466067
+    },
+    {
+      "name": "Mr & Mrs Barber",
+      "latitude": 35.515132,
+      "longitude": 24.038448
+    },
+    {
+      "name": "Mr Barber shop",
+      "latitude": 37.939974,
+      "longitude": 23.647442
+    },
+    {
+      "name": "Mr Lenorman",
+      "latitude": 37.997372,
+      "longitude": 23.710679
+    },
+    {
+      "name": "Mr Slick",
+      "latitude": 38.0597,
+      "longitude": 23.772872
+    },
+    {
+      "name": "Mr. Barber",
+      "latitude": 35.339053,
+      "longitude": 25.135917
+    },
+    {
+      "name": "Mr. Bro",
+      "latitude": 37.072589,
+      "longitude": 22.430714
+    },
+    {
+      "name": "Mr. Cuts",
+      "latitude": 37.981381,
+      "longitude": 23.724611
+    },
+    {
+      "name": "MS",
+      "latitude": 38.017602,
+      "longitude": 23.755665
+    },
+    {
+      "name": "MS Hair & Beauty Spa",
+      "latitude": 37.927775,
+      "longitude": 23.693206
+    },
+    {
+      "name": "MS Hairdresser",
+      "latitude": 37.993786,
+      "longitude": 23.762448
+    },
+    {
+      "name": "My CUTWALK",
+      "latitude": 38.24859,
+      "longitude": 21.736846
+    },
+    {
+      "name": "My hair",
+      "latitude": 39.100623,
+      "longitude": 26.554052
+    },
+    {
+      "name": "My Hair",
+      "latitude": 39.636199,
+      "longitude": 22.418691
+    },
+    {
+      "name": "MyStyleGroup",
+      "latitude": 37.956867,
+      "longitude": 23.724526
+    },
+    {
+      "name": "N & J",
+      "latitude": 37.934593,
+      "longitude": 23.711015
+    },
+    {
+      "name": "Nansy's",
+      "latitude": 39.637349,
+      "longitude": 22.421303
+    },
+    {
+      "name": "Nantia",
+      "latitude": 38.428908,
+      "longitude": 22.441998
+    },
+    {
+      "name": "Naos Barber & Groom",
+      "latitude": 38.010956,
+      "longitude": 23.810756
+    },
+    {
+      "name": "Natasa",
+      "latitude": 36.667463,
+      "longitude": 22.381557
+    },
+    {
+      "name": "Natasa",
+      "latitude": 37.975063,
+      "longitude": 23.751837
+    },
+    {
+      "name": "Navaz",
+      "latitude": 38.014213,
+      "longitude": 23.735454
+    },
+    {
+      "name": "near RENAISSANCE ΚΟΜΜΩΤΗΡΙΟ",
+      "latitude": 37.926336,
+      "longitude": 23.756006
+    },
+    {
+      "name": "Nektarios",
+      "latitude": 37.969312,
+      "longitude": 23.708318
+    },
+    {
+      "name": "New Hairstyles",
+      "latitude": 37.967239,
+      "longitude": 23.747608
+    },
+    {
+      "name": "New Look",
+      "latitude": 37.99342,
+      "longitude": 23.724166
+    },
+    {
+      "name": "new look",
+      "latitude": 38.033572,
+      "longitude": 21.364866
+    },
+    {
+      "name": "New style",
+      "latitude": 37.935708,
+      "longitude": 23.643307
+    },
+    {
+      "name": "New Style",
+      "latitude": 37.980436,
+      "longitude": 23.76169
+    },
+    {
+      "name": "New Style",
+      "latitude": 37.990271,
+      "longitude": 23.75652
+    },
+    {
+      "name": "New Style",
+      "latitude": 38.000848,
+      "longitude": 23.726992
+    },
+    {
+      "name": "New Style",
+      "latitude": 40.575206,
+      "longitude": 22.953088
+    },
+    {
+      "name": "New Wave",
+      "latitude": 39.09805,
+      "longitude": 26.553133
+    },
+    {
+      "name": "NG",
+      "latitude": 38.03648,
+      "longitude": 23.750652
+    },
+    {
+      "name": "Nick",
+      "latitude": 38.027235,
+      "longitude": 23.719869
+    },
+    {
+      "name": "Nicola",
+      "latitude": 38.025316,
+      "longitude": 23.732584
+    },
+    {
+      "name": "Nicolaou",
+      "latitude": 37.969439,
+      "longitude": 23.71105
+    },
+    {
+      "name": "Nicolas",
+      "latitude": 38.020072,
+      "longitude": 23.802585
+    },
+    {
+      "name": "Nicolas Coiffure",
+      "latitude": 37.996118,
+      "longitude": 23.772156
+    },
+    {
+      "name": "Nicolas Expressions",
+      "latitude": 35.338974,
+      "longitude": 25.135724
+    },
+    {
+      "name": "Nicolas Expressions",
+      "latitude": 37.992919,
+      "longitude": 23.749317
+    },
+    {
+      "name": "Nicos Grecas",
+      "latitude": 37.986022,
+      "longitude": 23.762896
+    },
+    {
+      "name": "Nikitas Barber",
+      "latitude": 35.013599,
+      "longitude": 25.000571
+    },
+    {
+      "name": "Nikos Kriseas",
+      "latitude": 36.796989,
+      "longitude": 21.958124
+    },
+    {
+      "name": "Nikos Mathesis",
+      "latitude": 37.932167,
+      "longitude": 23.634393
+    },
+    {
+      "name": "No Rules Barber Shop",
+      "latitude": 40.301946,
+      "longitude": 21.786914
+    },
+    {
+      "name": "No. 4",
+      "latitude": 40.628609,
+      "longitude": 22.946981
+    },
+    {
+      "name": "NOEL ARTIST COIFFURE",
+      "latitude": 39.665629,
+      "longitude": 22.395313
+    },
+    {
+      "name": "Noir",
+      "latitude": 40.573047,
+      "longitude": 22.955072
+    },
+    {
+      "name": "Nomadic salon",
+      "latitude": 37.97853,
+      "longitude": 23.738382
+    },
+    {
+      "name": "Nonito",
+      "latitude": 38.243502,
+      "longitude": 21.732299
+    },
+    {
+      "name": "Nopi&Mpampis",
+      "latitude": 41.103695,
+      "longitude": 24.899591
+    },
+    {
+      "name": "Northside",
+      "latitude": 37.943396,
+      "longitude": 23.658524
+    },
+    {
+      "name": "Not just hair",
+      "latitude": 38.0415,
+      "longitude": 23.751714
+    },
+    {
+      "name": "Not the same",
+      "latitude": 40.639297,
+      "longitude": 22.941916
+    },
+    {
+      "name": "Notas",
+      "latitude": 38.015495,
+      "longitude": 23.735859
+    },
+    {
+      "name": "Notis",
+      "latitude": 37.976167,
+      "longitude": 23.742715
+    },
+    {
+      "name": "Notorious",
+      "latitude": 38.024449,
+      "longitude": 23.748889
+    },
+    {
+      "name": "Nour",
+      "latitude": 38.009559,
+      "longitude": 23.734979
+    },
+    {
+      "name": "OB hair salon",
+      "latitude": 35.338283,
+      "longitude": 25.133448
+    },
+    {
+      "name": "Obsessed Hair Studio",
+      "latitude": 37.941519,
+      "longitude": 23.761465
+    },
+    {
+      "name": "Odisseas Hair Stylist",
+      "latitude": 40.582736,
+      "longitude": 22.953341
+    },
+    {
+      "name": "Old School",
+      "latitude": 37.974088,
+      "longitude": 23.774051
+    },
+    {
+      "name": "Olia's Hair Sculpture",
+      "latitude": 37.997242,
+      "longitude": 23.807519
+    },
+    {
+      "name": "OLSIONS HAIR STUDIO",
+      "latitude": 40.628914,
+      "longitude": 22.94714
+    },
+    {
+      "name": "Olympia's",
+      "latitude": 39.101925,
+      "longitude": 26.554318
+    },
+    {
+      "name": "Omerta",
+      "latitude": 38.248285,
+      "longitude": 22.080689
+    },
+    {
+      "name": "On Beauty",
+      "latitude": 37.942604,
+      "longitude": 23.645598
+    },
+    {
+      "name": "Open Hair Club",
+      "latitude": 40.608139,
+      "longitude": 22.96393
+    },
+    {
+      "name": "Orea Mallia",
+      "latitude": 37.944293,
+      "longitude": 23.747183
+    },
+    {
+      "name": "Organic Hair Spa",
+      "latitude": 37.973154,
+      "longitude": 23.775046
+    },
+    {
+      "name": "Ou beauty",
+      "latitude": 37.942167,
+      "longitude": 23.645003
+    },
+    {
+      "name": "Oz",
+      "latitude": 37.940494,
+      "longitude": 23.646887
+    },
+    {
+      "name": "P & B",
+      "latitude": 37.937159,
+      "longitude": 23.645608
+    },
+    {
+      "name": "P.Mylonas",
+      "latitude": 37.985338,
+      "longitude": 23.737802
+    },
+    {
+      "name": "Padre",
+      "latitude": 37.951399,
+      "longitude": 23.738576
+    },
+    {
+      "name": "Pano's barber",
+      "latitude": 37.941162,
+      "longitude": 23.646579
+    },
+    {
+      "name": "Panos",
+      "latitude": 37.967016,
+      "longitude": 23.699451
+    },
+    {
+      "name": "Panos",
+      "latitude": 38.01763,
+      "longitude": 23.691979
+    },
+    {
+      "name": "Panos Krippas",
+      "latitude": 38.055238,
+      "longitude": 23.804659
+    },
+    {
+      "name": "Panos Tzakos",
+      "latitude": 37.975053,
+      "longitude": 23.731337
+    },
+    {
+      "name": "Panourgias",
+      "latitude": 37.968119,
+      "longitude": 23.744871
+    },
+    {
+      "name": "Panourgias",
+      "latitude": 37.99006,
+      "longitude": 23.758911
+    },
+    {
+      "name": "Papastylianos",
+      "latitude": 37.994735,
+      "longitude": 23.768929
+    },
+    {
+      "name": "Par Anna",
+      "latitude": 40.549109,
+      "longitude": 23.018622
+    },
+    {
+      "name": "Paraskevi Mpouzioka",
+      "latitude": 37.931531,
+      "longitude": 23.757341
+    },
+    {
+      "name": "Paris Palais De Beautè",
+      "latitude": 37.443715,
+      "longitude": 24.943801
+    },
+    {
+      "name": "Parisienne",
+      "latitude": 37.984144,
+      "longitude": 23.724895
+    },
+    {
+      "name": "Passion Hair",
+      "latitude": 37.954094,
+      "longitude": 23.679818
+    },
+    {
+      "name": "Passion of hair",
+      "latitude": 37.950284,
+      "longitude": 23.738223
+    },
+    {
+      "name": "Passion of Hair",
+      "latitude": 38.013707,
+      "longitude": 23.694656
+    },
+    {
+      "name": "Patsis",
+      "latitude": 37.945849,
+      "longitude": 23.755565
+    },
+    {
+      "name": "Paul's",
+      "latitude": 37.939962,
+      "longitude": 23.648031
+    },
+    {
+      "name": "PBK Barber Shop",
+      "latitude": 37.930964,
+      "longitude": 23.755909
+    },
+    {
+      "name": "Peaky barbers",
+      "latitude": 37.965616,
+      "longitude": 23.724846
+    },
+    {
+      "name": "Pell mell",
+      "latitude": 38.020161,
+      "longitude": 23.745444
+    },
+    {
+      "name": "Pelo bello",
+      "latitude": 37.993068,
+      "longitude": 23.716958
+    },
+    {
+      "name": "Peppetony",
+      "latitude": 38.019592,
+      "longitude": 23.756716
+    },
+    {
+      "name": "Perfect Hair",
+      "latitude": 39.638444,
+      "longitude": 22.419669
+    },
+    {
+      "name": "PERFECTIVE",
+      "latitude": 40.601894,
+      "longitude": 22.965771
+    },
+    {
+      "name": "Perfetti Capelli",
+      "latitude": 38.008609,
+      "longitude": 23.790075
+    },
+    {
+      "name": "Peter",
+      "latitude": 38.023787,
+      "longitude": 23.735512
+    },
+    {
+      "name": "Peter",
+      "latitude": 38.092226,
+      "longitude": 23.796961
+    },
+    {
+      "name": "Petit Cure",
+      "latitude": 37.981251,
+      "longitude": 23.736212
+    },
+    {
+      "name": "Petros",
+      "latitude": 37.943607,
+      "longitude": 23.65291
+    },
+    {
+      "name": "Petros & Panos Ladies and Gents",
+      "latitude": 37.956371,
+      "longitude": 23.701036
+    },
+    {
+      "name": "Philippos",
+      "latitude": 37.967202,
+      "longitude": 23.72744
+    },
+    {
+      "name": "PHS",
+      "latitude": 40.608911,
+      "longitude": 22.989119
+    },
+    {
+      "name": "PK",
+      "latitude": 37.970825,
+      "longitude": 23.747317
+    },
+    {
+      "name": "pkc",
+      "latitude": 38.015673,
+      "longitude": 23.746594
+    },
+    {
+      "name": "Plastiras 1955",
+      "latitude": 37.862676,
+      "longitude": 23.752104
+    },
+    {
+      "name": "Platinium Boy",
+      "latitude": 38.001452,
+      "longitude": 23.727865
+    },
+    {
+      "name": "PnG",
+      "latitude": 37.968573,
+      "longitude": 23.753444
+    },
+    {
+      "name": "Point cut",
+      "latitude": 39.501589,
+      "longitude": 20.264651
+    },
+    {
+      "name": "Pop Colors",
+      "latitude": 40.657379,
+      "longitude": 22.924668
+    },
+    {
+      "name": "Prapopoulos Georgios Hair Salon Bar",
+      "latitude": 37.966872,
+      "longitude": 23.728045
+    },
+    {
+      "name": "Pre Street",
+      "latitude": 40.672935,
+      "longitude": 22.905526
+    },
+    {
+      "name": "Precious",
+      "latitude": 37.980036,
+      "longitude": 23.758736
+    },
+    {
+      "name": "Precious Hair",
+      "latitude": 39.418633,
+      "longitude": 20.082318
+    },
+    {
+      "name": "Prestige",
+      "latitude": 35.408356,
+      "longitude": 25.015522
+    },
+    {
+      "name": "Prestige",
+      "latitude": 38.018656,
+      "longitude": 23.708788
+    },
+    {
+      "name": "Prestige",
+      "latitude": 38.029039,
+      "longitude": 23.733754
+    },
+    {
+      "name": "PRIME BEAUTY SALON SKG",
+      "latitude": 40.629152,
+      "longitude": 22.949223
+    },
+    {
+      "name": "Prince",
+      "latitude": 38.0143,
+      "longitude": 23.686806
+    },
+    {
+      "name": "Probin",
+      "latitude": 37.994731,
+      "longitude": 23.727034
+    },
+    {
+      "name": "Profile",
+      "latitude": 35.337764,
+      "longitude": 25.160553
+    },
+    {
+      "name": "Profile haute coiffure",
+      "latitude": 37.970256,
+      "longitude": 23.744723
+    },
+    {
+      "name": "Psarrou",
+      "latitude": 37.979113,
+      "longitude": 23.735294
+    },
+    {
+      "name": "Pure hair",
+      "latitude": 37.924426,
+      "longitude": 23.759622
+    },
+    {
+      "name": "Q Factor",
+      "latitude": 38.021835,
+      "longitude": 23.796639
+    },
+    {
+      "name": "Que Belle",
+      "latitude": 40.629614,
+      "longitude": 22.949153
+    },
+    {
+      "name": "queen house",
+      "latitude": 40.602695,
+      "longitude": 22.957937
+    },
+    {
+      "name": "Queen's",
+      "latitude": 37.997238,
+      "longitude": 23.736855
+    },
+    {
+      "name": "Raheem",
+      "latitude": 37.931714,
+      "longitude": 23.70328
+    },
+    {
+      "name": "Rai 2",
+      "latitude": 37.987985,
+      "longitude": 23.745975
+    },
+    {
+      "name": "Rania",
+      "latitude": 38.024551,
+      "longitude": 23.72294
+    },
+    {
+      "name": "Rania Vlachou",
+      "latitude": 37.943399,
+      "longitude": 23.714349
+    },
+    {
+      "name": "Rare",
+      "latitude": 38.069059,
+      "longitude": 23.81249
+    },
+    {
+      "name": "Raw Silk",
+      "latitude": 40.67314,
+      "longitude": 22.905569
+    },
+    {
+      "name": "Razor Lines",
+      "latitude": 37.936866,
+      "longitude": 23.639071
+    },
+    {
+      "name": "Rehan",
+      "latitude": 37.990665,
+      "longitude": 23.726986
+    },
+    {
+      "name": "Renata",
+      "latitude": 37.978672,
+      "longitude": 23.736829
+    },
+    {
+      "name": "Renouveau",
+      "latitude": 38.021889,
+      "longitude": 23.801784
+    },
+    {
+      "name": "RG hairstories",
+      "latitude": 38.024726,
+      "longitude": 23.744475
+    },
+    {
+      "name": "Rich hair",
+      "latitude": 37.833794,
+      "longitude": 23.803747
+    },
+    {
+      "name": "Rizki",
+      "latitude": 37.996949,
+      "longitude": 23.739633
+    },
+    {
+      "name": "Rockabilly Barber Κουρειο",
+      "latitude": 37.794994,
+      "longitude": 21.349243
+    },
+    {
+      "name": "Rogé",
+      "latitude": 38.003309,
+      "longitude": 23.746547
+    },
+    {
+      "name": "Romylos",
+      "latitude": 38.014721,
+      "longitude": 23.832082
+    },
+    {
+      "name": "Romylos",
+      "latitude": 38.016434,
+      "longitude": 23.818956
+    },
+    {
+      "name": "Rooster's",
+      "latitude": 37.97065,
+      "longitude": 23.74726
+    },
+    {
+      "name": "Rooster's",
+      "latitude": 37.986981,
+      "longitude": 23.759985
+    },
+    {
+      "name": "Royal hair",
+      "latitude": 37.990852,
+      "longitude": 23.764802
+    },
+    {
+      "name": "S & M Coiffures",
+      "latitude": 38.012164,
+      "longitude": 23.727954
+    },
+    {
+      "name": "S G HAIR",
+      "latitude": 38.015114,
+      "longitude": 23.746001
+    },
+    {
+      "name": "S&M Hair",
+      "latitude": 38.01885,
+      "longitude": 23.756546
+    },
+    {
+      "name": "Sadhu",
+      "latitude": 37.936193,
+      "longitude": 23.652652
+    },
+    {
+      "name": "Saitis Nektarios",
+      "latitude": 37.977852,
+      "longitude": 23.739266
+    },
+    {
+      "name": "Saitis Nektarios",
+      "latitude": 38.071911,
+      "longitude": 23.814139
+    },
+    {
+      "name": "Sak my hair",
+      "latitude": 38.027254,
+      "longitude": 23.732851
+    },
+    {
+      "name": "Sakir",
+      "latitude": 37.993418,
+      "longitude": 23.728799
+    },
+    {
+      "name": "Sakis Team",
+      "latitude": 40.730865,
+      "longitude": 22.917342
+    },
+    {
+      "name": "Salon Blanc",
+      "latitude": 37.988374,
+      "longitude": 23.850247
+    },
+    {
+      "name": "Salon Cult",
+      "latitude": 38.037484,
+      "longitude": 23.7508
+    },
+    {
+      "name": "Salon de beauté",
+      "latitude": 38.034,
+      "longitude": 23.757315
+    },
+    {
+      "name": "Salon de la poupee",
+      "latitude": 37.90656,
+      "longitude": 23.743503
+    },
+    {
+      "name": "Salon de Maya´s",
+      "latitude": 38.032054,
+      "longitude": 23.737243
+    },
+    {
+      "name": "Salon9",
+      "latitude": 37.936304,
+      "longitude": 23.640419
+    },
+    {
+      "name": "Salvation",
+      "latitude": 40.610589,
+      "longitude": 22.985589
+    },
+    {
+      "name": "Samir",
+      "latitude": 38.019502,
+      "longitude": 23.753921
+    },
+    {
+      "name": "Sandri",
+      "latitude": 38.01546,
+      "longitude": 23.750466
+    },
+    {
+      "name": "Sanfilippo Gianni",
+      "latitude": 38.247073,
+      "longitude": 21.734639
+    },
+    {
+      "name": "Santo Barrio",
+      "latitude": 38.029456,
+      "longitude": 23.723367
+    },
+    {
+      "name": "Sara",
+      "latitude": 37.965472,
+      "longitude": 23.748889
+    },
+    {
+      "name": "Sarmin",
+      "latitude": 37.9878,
+      "longitude": 23.73532
+    },
+    {
+      "name": "Sasa Domna",
+      "latitude": 38.079781,
+      "longitude": 23.737844
+    },
+    {
+      "name": "SASSOON",
+      "latitude": 37.976346,
+      "longitude": 23.732369
+    },
+    {
+      "name": "Savidis",
+      "latitude": 38.039542,
+      "longitude": 23.762083
+    },
+    {
+      "name": "Scisor Hand",
+      "latitude": 39.633536,
+      "longitude": 22.417547
+    },
+    {
+      "name": "Scissor",
+      "latitude": 40.61086,
+      "longitude": 22.987336
+    },
+    {
+      "name": "Scissor Brothers",
+      "latitude": 37.89351,
+      "longitude": 23.763502
+    },
+    {
+      "name": "Scissor Hands",
+      "latitude": 37.999705,
+      "longitude": 23.683819
+    },
+    {
+      "name": "Scissors and razors",
+      "latitude": 38.043208,
+      "longitude": 23.752121
+    },
+    {
+      "name": "Scissors by Effi",
+      "latitude": 39.611222,
+      "longitude": 19.882553
+    },
+    {
+      "name": "Scissors Palace",
+      "latitude": 37.991841,
+      "longitude": 23.727278
+    },
+    {
+      "name": "Scissor’s Place",
+      "latitude": 37.957073,
+      "longitude": 23.70418
+    },
+    {
+      "name": "SCiZZORS hair lab",
+      "latitude": 37.946719,
+      "longitude": 23.710142
+    },
+    {
+      "name": "SD",
+      "latitude": 40.271707,
+      "longitude": 22.503247
+    },
+    {
+      "name": "Seasonshair",
+      "latitude": 38.0047,
+      "longitude": 23.803336
+    },
+    {
+      "name": "Seba",
+      "latitude": 38.010847,
+      "longitude": 23.735059
+    },
+    {
+      "name": "SEDE",
+      "latitude": 40.614647,
+      "longitude": 22.978145
+    },
+    {
+      "name": "Semi",
+      "latitude": 38.00137,
+      "longitude": 23.73619
+    },
+    {
+      "name": "Sensation Hair",
+      "latitude": 38.019855,
+      "longitude": 23.756851
+    },
+    {
+      "name": "Senses",
+      "latitude": 40.274324,
+      "longitude": 22.506699
+    },
+    {
+      "name": "Sexy Hair",
+      "latitude": 40.851847,
+      "longitude": 25.830326
+    },
+    {
+      "name": "Shampoo",
+      "latitude": 37.940734,
+      "longitude": 23.646991
+    },
+    {
+      "name": "Shani",
+      "latitude": 38.00036,
+      "longitude": 23.732202
+    },
+    {
+      "name": "Shani",
+      "latitude": 38.004139,
+      "longitude": 23.732564
+    },
+    {
+      "name": "Shelter",
+      "latitude": 38.032015,
+      "longitude": 23.749489
+    },
+    {
+      "name": "Shiny hair Ioanna",
+      "latitude": 38.058279,
+      "longitude": 23.710511
+    },
+    {
+      "name": "Shiny Star",
+      "latitude": 37.941575,
+      "longitude": 23.650324
+    },
+    {
+      "name": "Shoot the Curl",
+      "latitude": 37.443989,
+      "longitude": 24.941715
+    },
+    {
+      "name": "Shortcut",
+      "latitude": 37.966228,
+      "longitude": 23.75145
+    },
+    {
+      "name": "Shotgun",
+      "latitude": 39.327422,
+      "longitude": 26.174838
+    },
+    {
+      "name": "Showtime",
+      "latitude": 37.977779,
+      "longitude": 23.73915
+    },
+    {
+      "name": "Showtime",
+      "latitude": 37.992775,
+      "longitude": 23.766361
+    },
+    {
+      "name": "Silver Cut",
+      "latitude": 38.046962,
+      "longitude": 23.754768
+    },
+    {
+      "name": "Simitsis Barber House",
+      "latitude": 38.014711,
+      "longitude": 23.746419
+    },
+    {
+      "name": "Simplicity Hair Studio",
+      "latitude": 40.612614,
+      "longitude": 24.604925
+    },
+    {
+      "name": "SIR Barber",
+      "latitude": 37.976788,
+      "longitude": 23.733297
+    },
+    {
+      "name": "Sixty Nine",
+      "latitude": 38.005844,
+      "longitude": 23.826749
+    },
+    {
+      "name": "SK",
+      "latitude": 38.026064,
+      "longitude": 23.749312
+    },
+    {
+      "name": "SkalpVandal",
+      "latitude": 38.24414,
+      "longitude": 21.73583
+    },
+    {
+      "name": "sloop",
+      "latitude": 38.037192,
+      "longitude": 23.751011
+    },
+    {
+      "name": "Smart + glam",
+      "latitude": 38.003579,
+      "longitude": 23.746906
+    },
+    {
+      "name": "Socratis Barber Shop",
+      "latitude": 40.652287,
+      "longitude": 22.922156
+    },
+    {
+      "name": "Sofia Hair Gallery",
+      "latitude": 39.635838,
+      "longitude": 22.414779
+    },
+    {
+      "name": "Solo Per Uomo",
+      "latitude": 40.61095,
+      "longitude": 22.982201
+    },
+    {
+      "name": "Sonia",
+      "latitude": 37.991509,
+      "longitude": 23.678083
+    },
+    {
+      "name": "Sou",
+      "latitude": 37.935856,
+      "longitude": 23.636055
+    },
+    {
+      "name": "Soubecas Looks",
+      "latitude": 40.93724,
+      "longitude": 24.406882
+    },
+    {
+      "name": "Space Hair",
+      "latitude": 38.030915,
+      "longitude": 23.735749
+    },
+    {
+      "name": "Spiros BarberShop",
+      "latitude": 39.637234,
+      "longitude": 22.421053
+    },
+    {
+      "name": "Sports man",
+      "latitude": 37.94053,
+      "longitude": 23.646519
+    },
+    {
+      "name": "SPS Coiffure",
+      "latitude": 38.022534,
+      "longitude": 23.736103
+    },
+    {
+      "name": "Square",
+      "latitude": 37.6339,
+      "longitude": 22.728192
+    },
+    {
+      "name": "St. Ardoúnis",
+      "latitude": 38.020229,
+      "longitude": 23.802
+    },
+    {
+      "name": "Stag",
+      "latitude": 37.962596,
+      "longitude": 23.720089
+    },
+    {
+      "name": "Star",
+      "latitude": 37.971316,
+      "longitude": 23.652539
+    },
+    {
+      "name": "Star",
+      "latitude": 37.993663,
+      "longitude": 23.729213
+    },
+    {
+      "name": "Star",
+      "latitude": 38.043058,
+      "longitude": 23.752613
+    },
+    {
+      "name": "Star Barber Shop",
+      "latitude": 38.027354,
+      "longitude": 23.7509
+    },
+    {
+      "name": "Stavroula",
+      "latitude": 36.613029,
+      "longitude": 27.840753
+    },
+    {
+      "name": "Stefania",
+      "latitude": 37.970023,
+      "longitude": 23.75184
+    },
+    {
+      "name": "Stefano Nadine",
+      "latitude": 38.016049,
+      "longitude": 23.820034
+    },
+    {
+      "name": "Stefanos",
+      "latitude": 37.966666,
+      "longitude": 23.655848
+    },
+    {
+      "name": "STEFANOS AGGELIDIS",
+      "latitude": 40.629659,
+      "longitude": 22.948483
+    },
+    {
+      "name": "Stelios",
+      "latitude": 35.325121,
+      "longitude": 25.13896
+    },
+    {
+      "name": "Stelios Andreas",
+      "latitude": 35.514974,
+      "longitude": 24.030935
+    },
+    {
+      "name": "Stevi",
+      "latitude": 37.978605,
+      "longitude": 23.757083
+    },
+    {
+      "name": "Stratis Barber Shop",
+      "latitude": 38.233877,
+      "longitude": 21.729675
+    },
+    {
+      "name": "Studio J",
+      "latitude": 37.943552,
+      "longitude": 23.648895
+    },
+    {
+      "name": "Studio M",
+      "latitude": 37.944616,
+      "longitude": 23.65015
+    },
+    {
+      "name": "Studio Nancy & After",
+      "latitude": 38.242947,
+      "longitude": 21.730394
+    },
+    {
+      "name": "Studio Π",
+      "latitude": 40.63073,
+      "longitude": 22.947686
+    },
+    {
+      "name": "Style in style",
+      "latitude": 37.905786,
+      "longitude": 23.753105
+    },
+    {
+      "name": "Style Studio",
+      "latitude": 37.975996,
+      "longitude": 23.762439
+    },
+    {
+      "name": "Stylecare",
+      "latitude": 40.583425,
+      "longitude": 22.961061
+    },
+    {
+      "name": "Styles & Smiles",
+      "latitude": 37.96136,
+      "longitude": 23.752805
+    },
+    {
+      "name": "Styles- Κομμώσεις ανδρών",
+      "latitude": 40.605566,
+      "longitude": 22.968069
+    },
+    {
+      "name": "Sultan Shahzad",
+      "latitude": 38.043275,
+      "longitude": 23.753038
+    },
+    {
+      "name": "Surreal Damaskou",
+      "latitude": 38.025844,
+      "longitude": 23.723875
+    },
+    {
+      "name": "Svetlana",
+      "latitude": 38.033953,
+      "longitude": 23.679438
+    },
+    {
+      "name": "Syriano",
+      "latitude": 37.995071,
+      "longitude": 23.730866
+    },
+    {
+      "name": "T Style",
+      "latitude": 37.971269,
+      "longitude": 23.711848
+    },
+    {
+      "name": "TAGLIO CORTO",
+      "latitude": 40.629561,
+      "longitude": 22.953138
+    },
+    {
+      "name": "Taki",
+      "latitude": 37.988506,
+      "longitude": 23.71587
+    },
+    {
+      "name": "Takis Barber Shop Since 2004",
+      "latitude": 38.259381,
+      "longitude": 21.742777
+    },
+    {
+      "name": "Talking hair",
+      "latitude": 40.598954,
+      "longitude": 22.986062
+    },
+    {
+      "name": "tana naki",
+      "latitude": 38.035468,
+      "longitude": 23.75765
+    },
+    {
+      "name": "Tasos & Nikos Piliouras",
+      "latitude": 38.006078,
+      "longitude": 23.687688
+    },
+    {
+      "name": "Tasoulis",
+      "latitude": 37.928733,
+      "longitude": 23.751137
+    },
+    {
+      "name": "Te box",
+      "latitude": 37.977033,
+      "longitude": 23.73078
+    },
+    {
+      "name": "Techny art",
+      "latitude": 37.997774,
+      "longitude": 23.737506
+    },
+    {
+      "name": "TenPlus",
+      "latitude": 37.930281,
+      "longitude": 23.694876
+    },
+    {
+      "name": "Teo",
+      "latitude": 37.978221,
+      "longitude": 23.741953
+    },
+    {
+      "name": "Teo",
+      "latitude": 38.120891,
+      "longitude": 23.858824
+    },
+    {
+      "name": "Tete a tete",
+      "latitude": 40.654724,
+      "longitude": 22.923631
+    },
+    {
+      "name": "Tg's",
+      "latitude": 37.982139,
+      "longitude": 23.736468
+    },
+    {
+      "name": "Thalassinos Hair Salon",
+      "latitude": 37.97737,
+      "longitude": 23.755584
+    },
+    {
+      "name": "The 2 Barbers",
+      "latitude": 39.63984,
+      "longitude": 22.416061
+    },
+    {
+      "name": "The Aces",
+      "latitude": 40.639816,
+      "longitude": 22.944348
+    },
+    {
+      "name": "The Art of Hair",
+      "latitude": 38.039434,
+      "longitude": 23.755681
+    },
+    {
+      "name": "The art of hair",
+      "latitude": 38.243802,
+      "longitude": 21.728456
+    },
+    {
+      "name": "The Barber Club - Christos",
+      "latitude": 40.610204,
+      "longitude": 22.975065
+    },
+    {
+      "name": "The Barber Man",
+      "latitude": 38.019543,
+      "longitude": 23.755838
+    },
+    {
+      "name": "The Barber Shop",
+      "latitude": 37.634546,
+      "longitude": 22.732081
+    },
+    {
+      "name": "The Barber Shop",
+      "latitude": 37.957214,
+      "longitude": 23.73522
+    },
+    {
+      "name": "The barber shop",
+      "latitude": 40.598533,
+      "longitude": 22.954801
+    },
+    {
+      "name": "The barbers",
+      "latitude": 37.964032,
+      "longitude": 23.751356
+    },
+    {
+      "name": "The barbers",
+      "latitude": 40.640276,
+      "longitude": 22.938496
+    },
+    {
+      "name": "The Beautique",
+      "latitude": 37.977688,
+      "longitude": 23.738095
+    },
+    {
+      "name": "The Beauty Loft",
+      "latitude": 37.948369,
+      "longitude": 23.699219
+    },
+    {
+      "name": "The Blind Dandies",
+      "latitude": 38.020797,
+      "longitude": 23.801084
+    },
+    {
+      "name": "The Century barber shop",
+      "latitude": 37.93923,
+      "longitude": 23.646816
+    },
+    {
+      "name": "The Cult",
+      "latitude": 37.949839,
+      "longitude": 23.736004
+    },
+    {
+      "name": "The Cutman",
+      "latitude": 40.629716,
+      "longitude": 22.948661
+    },
+    {
+      "name": "The Dream Room",
+      "latitude": 37.931372,
+      "longitude": 23.754152
+    },
+    {
+      "name": "The English Hair",
+      "latitude": 40.602552,
+      "longitude": 22.968095
+    },
+    {
+      "name": "The fellas",
+      "latitude": 37.937609,
+      "longitude": 23.642208
+    },
+    {
+      "name": "The Football Hair",
+      "latitude": 40.603015,
+      "longitude": 22.968348
+    },
+    {
+      "name": "The george",
+      "latitude": 37.858564,
+      "longitude": 23.754597
+    },
+    {
+      "name": "The Groom Room",
+      "latitude": 38.01845,
+      "longitude": 23.68946
+    },
+    {
+      "name": "The hair boss",
+      "latitude": 38.001419,
+      "longitude": 23.740795
+    },
+    {
+      "name": "The Hair House",
+      "latitude": 39.637784,
+      "longitude": 22.412728
+    },
+    {
+      "name": "The hair space",
+      "latitude": 37.974533,
+      "longitude": 23.655194
+    },
+    {
+      "name": "The King Cherry",
+      "latitude": 37.976173,
+      "longitude": 23.771589
+    },
+    {
+      "name": "The KUT",
+      "latitude": 38.009688,
+      "longitude": 23.781356
+    },
+    {
+      "name": "The legend",
+      "latitude": 38.000589,
+      "longitude": 23.728841
+    },
+    {
+      "name": "The Locals",
+      "latitude": 37.974504,
+      "longitude": 23.661504
+    },
+    {
+      "name": "The luxe",
+      "latitude": 38.006577,
+      "longitude": 23.735228
+    },
+    {
+      "name": "The Magic Touch Hair Style",
+      "latitude": 36.433525,
+      "longitude": 28.202934
+    },
+    {
+      "name": "The Mens Room",
+      "latitude": 38.369448,
+      "longitude": 26.133945
+    },
+    {
+      "name": "The Mens room",
+      "latitude": 40.730798,
+      "longitude": 22.920268
+    },
+    {
+      "name": "The Old Square Barber",
+      "latitude": 38.199871,
+      "longitude": 20.438005
+    },
+    {
+      "name": "The Parlor",
+      "latitude": 38.247424,
+      "longitude": 21.734381
+    },
+    {
+      "name": "The Pelicans",
+      "latitude": 37.967059,
+      "longitude": 23.743757
+    },
+    {
+      "name": "The Professor",
+      "latitude": 38.000689,
+      "longitude": 23.71976
+    },
+    {
+      "name": "The Razorist",
+      "latitude": 38.039678,
+      "longitude": 23.762346
+    },
+    {
+      "name": "The Scissorist",
+      "latitude": 37.930641,
+      "longitude": 23.633233
+    },
+    {
+      "name": "The vintage hair salon",
+      "latitude": 38.089027,
+      "longitude": 23.798211
+    },
+    {
+      "name": "Themis",
+      "latitude": 40.732555,
+      "longitude": 22.60123
+    },
+    {
+      "name": "Theo Hair Styling",
+      "latitude": 37.979922,
+      "longitude": 23.637879
+    },
+    {
+      "name": "Thomas",
+      "latitude": 38.035993,
+      "longitude": 23.693957
+    },
+    {
+      "name": "Tina",
+      "latitude": 37.978228,
+      "longitude": 23.768118
+    },
+    {
+      "name": "TL By Loutriotis",
+      "latitude": 37.96191,
+      "longitude": 23.719797
+    },
+    {
+      "name": "Together",
+      "latitude": 37.992096,
+      "longitude": 23.725307
+    },
+    {
+      "name": "Tonia",
+      "latitude": 39.635714,
+      "longitude": 22.41553
+    },
+    {
+      "name": "Tony Barbiero",
+      "latitude": 37.978364,
+      "longitude": 23.72299
+    },
+    {
+      "name": "Top",
+      "latitude": 37.940402,
+      "longitude": 23.651389
+    },
+    {
+      "name": "TOP",
+      "latitude": 38.021451,
+      "longitude": 23.756794
+    },
+    {
+      "name": "Top Cut",
+      "latitude": 35.284097,
+      "longitude": 25.462743
+    },
+    {
+      "name": "Top Hair",
+      "latitude": 40.270207,
+      "longitude": 22.508265
+    },
+    {
+      "name": "Top Hair",
+      "latitude": 40.270442,
+      "longitude": 22.512184
+    },
+    {
+      "name": "Touch Hair",
+      "latitude": 39.637239,
+      "longitude": 22.414154
+    },
+    {
+      "name": "Touch Hair Salloon",
+      "latitude": 39.637771,
+      "longitude": 22.421169
+    },
+    {
+      "name": "Touch Hair Salloon by Sofia Simou",
+      "latitude": 39.641662,
+      "longitude": 22.418925
+    },
+    {
+      "name": "Trap",
+      "latitude": 35.368161,
+      "longitude": 24.47652
+    },
+    {
+      "name": "Tress",
+      "latitude": 40.630525,
+      "longitude": 22.950971
+    },
+    {
+      "name": "Trifonas",
+      "latitude": 37.949,
+      "longitude": 23.740644
+    },
+    {
+      "name": "Trim",
+      "latitude": 35.515252,
+      "longitude": 24.0307
+    },
+    {
+      "name": "Trim & Treat",
+      "latitude": 38.021425,
+      "longitude": 23.751946
+    },
+    {
+      "name": "Tsardoulias",
+      "latitude": 37.991756,
+      "longitude": 23.730024
+    },
+    {
+      "name": "Twins barbershop",
+      "latitude": 37.941621,
+      "longitude": 23.648123
+    },
+    {
+      "name": "Twins Bros",
+      "latitude": 38.017907,
+      "longitude": 23.690209
+    },
+    {
+      "name": "Two Gents Barbershop",
+      "latitude": 40.520858,
+      "longitude": 21.262862
+    },
+    {
+      "name": "Tzavaris",
+      "latitude": 38.008629,
+      "longitude": 23.825973
+    },
+    {
+      "name": "Tzioka Maria Hair Designer",
+      "latitude": 39.63668,
+      "longitude": 22.412907
+    },
+    {
+      "name": "Uniq",
+      "latitude": 38.024193,
+      "longitude": 23.720854
+    },
+    {
+      "name": "Unique",
+      "latitude": 37.960422,
+      "longitude": 23.707364
+    },
+    {
+      "name": "Urban cuts",
+      "latitude": 37.862562,
+      "longitude": 23.755676
+    },
+    {
+      "name": "Urban Cuts",
+      "latitude": 37.928548,
+      "longitude": 23.694085
+    },
+    {
+      "name": "Urbani Capelli",
+      "latitude": 39.670989,
+      "longitude": 20.854988
+    },
+    {
+      "name": "V & S",
+      "latitude": 38.032876,
+      "longitude": 23.743589
+    },
+    {
+      "name": "V&M",
+      "latitude": 38.021239,
+      "longitude": 23.801535
+    },
+    {
+      "name": "V&M Liberis",
+      "latitude": 37.946634,
+      "longitude": 23.71059
+    },
+    {
+      "name": "V&M Liberis Salons - Hair & Nail Art",
+      "latitude": 36.44862,
+      "longitude": 28.220039
+    },
+    {
+      "name": "VA Alexandrakis",
+      "latitude": 40.575773,
+      "longitude": 22.964505
+    },
+    {
+      "name": "Vaggos King",
+      "latitude": 38.028304,
+      "longitude": 23.71762
+    },
+    {
+      "name": "VaK Barbershop",
+      "latitude": 38.009328,
+      "longitude": 23.824868
+    },
+    {
+      "name": "Valentinos Eythymiou",
+      "latitude": 39.63777,
+      "longitude": 22.421304
+    },
+    {
+      "name": "VALIA D",
+      "latitude": 37.633317,
+      "longitude": 22.72848
+    },
+    {
+      "name": "VALIA D",
+      "latitude": 37.633522,
+      "longitude": 22.727166
+    },
+    {
+      "name": "Valkanis",
+      "latitude": 40.788541,
+      "longitude": 22.410026
+    },
+    {
+      "name": "Valmira's fairy braid",
+      "latitude": 38.041127,
+      "longitude": 23.755287
+    },
+    {
+      "name": "Vanity",
+      "latitude": 41.15202,
+      "longitude": 24.148456
+    },
+    {
+      "name": "VARITIMI",
+      "latitude": 40.642598,
+      "longitude": 22.939728
+    },
+    {
+      "name": "Vasiliki",
+      "latitude": 37.991905,
+      "longitude": 23.765927
+    },
+    {
+      "name": "Vasilios Maimaris",
+      "latitude": 39.636203,
+      "longitude": 22.424288
+    },
+    {
+      "name": "Vasilis",
+      "latitude": 37.948391,
+      "longitude": 23.693657
+    },
+    {
+      "name": "VASILIS",
+      "latitude": 40.666638,
+      "longitude": 22.921616
+    },
+    {
+      "name": "Vasilis Vrettos",
+      "latitude": 37.928821,
+      "longitude": 23.748037
+    },
+    {
+      "name": "Vaso",
+      "latitude": 38.023412,
+      "longitude": 23.743239
+    },
+    {
+      "name": "Vaso Hair & Beauty - Κομμωτήριο & Κέντρο Ομορφιάς",
+      "latitude": 40.685673,
+      "longitude": 22.952825
+    },
+    {
+      "name": "Vassilis P. Diamandopoulos",
+      "latitude": 38.071079,
+      "longitude": 23.812692
+    },
+    {
+      "name": "Veloudia",
+      "latitude": 38.043387,
+      "longitude": 23.757223
+    },
+    {
+      "name": "Venus",
+      "latitude": 37.972133,
+      "longitude": 23.754842
+    },
+    {
+      "name": "VG",
+      "latitude": 38.019506,
+      "longitude": 23.754907
+    },
+    {
+      "name": "Victor",
+      "latitude": 39.622349,
+      "longitude": 19.916895
+    },
+    {
+      "name": "Vintage cuts",
+      "latitude": 39.107306,
+      "longitude": 26.558414
+    },
+    {
+      "name": "Vinyl",
+      "latitude": 38.390082,
+      "longitude": 21.820934
+    },
+    {
+      "name": "Virginia Constantine",
+      "latitude": 37.991747,
+      "longitude": 23.760493
+    },
+    {
+      "name": "Virginia Constantine",
+      "latitude": 37.998996,
+      "longitude": 23.732859
+    },
+    {
+      "name": "Vista Le Vie",
+      "latitude": 37.989819,
+      "longitude": 23.748165
+    },
+    {
+      "name": "Vita",
+      "latitude": 40.644374,
+      "longitude": 22.948792
+    },
+    {
+      "name": "Vivi",
+      "latitude": 37.970105,
+      "longitude": 23.742306
+    },
+    {
+      "name": "Vivi",
+      "latitude": 37.998885,
+      "longitude": 23.68355
+    },
+    {
+      "name": "VK",
+      "latitude": 38.034355,
+      "longitude": 23.738817
+    },
+    {
+      "name": "VK",
+      "latitude": 40.651716,
+      "longitude": 22.931467
+    },
+    {
+      "name": "Vlora",
+      "latitude": 37.995501,
+      "longitude": 23.727123
+    },
+    {
+      "name": "VNP",
+      "latitude": 37.983657,
+      "longitude": 23.730751
+    },
+    {
+      "name": "Vogue",
+      "latitude": 38.037427,
+      "longitude": 23.74749
+    },
+    {
+      "name": "Vogue Salon",
+      "latitude": 40.598093,
+      "longitude": 22.960298
+    },
+    {
+      "name": "Voulgarelli hair studio",
+      "latitude": 37.925342,
+      "longitude": 23.693457
+    },
+    {
+      "name": "Vouros",
+      "latitude": 39.179914,
+      "longitude": 26.484917
+    },
+    {
+      "name": "VP Premium Hair Salon",
+      "latitude": 37.797119,
+      "longitude": 20.833054
+    },
+    {
+      "name": "VST",
+      "latitude": 38.006561,
+      "longitude": 23.8024
+    },
+    {
+      "name": "VuArSo",
+      "latitude": 38.236454,
+      "longitude": 21.736955
+    },
+    {
+      "name": "West Hill",
+      "latitude": 38.011252,
+      "longitude": 23.688142
+    },
+    {
+      "name": "West Side Barber Shop",
+      "latitude": 40.502417,
+      "longitude": 21.247603
+    },
+    {
+      "name": "Westhill",
+      "latitude": 38.026971,
+      "longitude": 23.697826
+    },
+    {
+      "name": "Xara's Hairstyle",
+      "latitude": 37.933465,
+      "longitude": 23.642071
+    },
+    {
+      "name": "XDEFINES",
+      "latitude": 38.019075,
+      "longitude": 23.999924
+    },
+    {
+      "name": "Xenia",
+      "latitude": 37.958773,
+      "longitude": 23.699503
+    },
+    {
+      "name": "Xenia",
+      "latitude": 37.990115,
+      "longitude": 23.735122
+    },
+    {
+      "name": "Yanni Hair Spa",
+      "latitude": 40.583005,
+      "longitude": 22.948602
+    },
+    {
+      "name": "Yannis - Nikos",
+      "latitude": 40.571335,
+      "longitude": 22.958355
+    },
+    {
+      "name": "Yannis Aristeidou",
+      "latitude": 40.668336,
+      "longitude": 22.912538
+    },
+    {
+      "name": "Yannis Hair Proposal",
+      "latitude": 38.088324,
+      "longitude": 23.739292
+    },
+    {
+      "name": "Yasi Beauty",
+      "latitude": 38.000517,
+      "longitude": 23.734153
+    },
+    {
+      "name": "Yiannis Hairstyling",
+      "latitude": 37.975033,
+      "longitude": 22.977066
+    },
+    {
+      "name": "Yolanda's",
+      "latitude": 37.928762,
+      "longitude": 23.706887
+    },
+    {
+      "name": "Yota's style",
+      "latitude": 38.030095,
+      "longitude": 23.750712
+    },
+    {
+      "name": "You",
+      "latitude": 38.053744,
+      "longitude": 23.811952
+    },
+    {
+      "name": "Zakir",
+      "latitude": 37.944777,
+      "longitude": 23.653095
+    },
+    {
+      "name": "Zanna Ioannidou",
+      "latitude": 37.961547,
+      "longitude": 23.710611
+    },
+    {
+      "name": "Zariya",
+      "latitude": 38.000305,
+      "longitude": 23.743288
+    },
+    {
+      "name": "Zaros",
+      "latitude": 37.964405,
+      "longitude": 23.751879
+    },
+    {
+      "name": "Zen Coiffure",
+      "latitude": 40.618788,
+      "longitude": 22.95811
+    },
+    {
+      "name": "Zoe Vassilopoulou",
+      "latitude": 37.939874,
+      "longitude": 23.76442
+    },
+    {
+      "name": "Zoe's hair",
+      "latitude": 38.020041,
+      "longitude": 23.753928
+    },
+    {
+      "name": "Zozo",
+      "latitude": 37.990164,
+      "longitude": 23.729125
+    },
+    {
+      "name": "Άγγελος",
+      "latitude": 37.96167,
+      "longitude": 23.704182
+    },
+    {
+      "name": "Άγγελος",
+      "latitude": 37.988781,
+      "longitude": 23.761482
+    },
+    {
+      "name": "Άγγελος",
+      "latitude": 39.311103,
+      "longitude": 26.220889
+    },
+    {
+      "name": "Άδωνις",
+      "latitude": 37.933332,
+      "longitude": 23.642187
+    },
+    {
+      "name": "Άκης",
+      "latitude": 39.423067,
+      "longitude": 20.062684
+    },
+    {
+      "name": "Άλκηστη",
+      "latitude": 37.995744,
+      "longitude": 23.7317
+    },
+    {
+      "name": "Άννα",
+      "latitude": 37.976382,
+      "longitude": 23.74143
+    },
+    {
+      "name": "Άννα",
+      "latitude": 37.990186,
+      "longitude": 23.760503
+    },
+    {
+      "name": "Άννα",
+      "latitude": 40.659653,
+      "longitude": 22.929519
+    },
+    {
+      "name": "Άννα",
+      "latitude": 41.141318,
+      "longitude": 24.146831
+    },
+    {
+      "name": "Άννα Ζούκοβα",
+      "latitude": 37.959009,
+      "longitude": 23.709374
+    },
+    {
+      "name": "Άννα-Μαρία",
+      "latitude": 38.012138,
+      "longitude": 23.735405
+    },
+    {
+      "name": "Άποψη",
+      "latitude": 38.022123,
+      "longitude": 23.750356
+    },
+    {
+      "name": "άψε σβήσε",
+      "latitude": 37.974851,
+      "longitude": 23.767335
+    },
+    {
+      "name": "Έκτωρας",
+      "latitude": 37.930287,
+      "longitude": 23.63816
+    },
+    {
+      "name": "Έλενα",
+      "latitude": 38.020836,
+      "longitude": 23.731616
+    },
+    {
+      "name": "Έλενα",
+      "latitude": 38.021213,
+      "longitude": 23.75195
+    },
+    {
+      "name": "Έλενα",
+      "latitude": 38.04882,
+      "longitude": 23.799642
+    },
+    {
+      "name": "Έλενα",
+      "latitude": 39.10811,
+      "longitude": 26.557615
+    },
+    {
+      "name": "Έλενα",
+      "latitude": 40.570038,
+      "longitude": 22.958997
+    },
+    {
+      "name": "Έλλη",
+      "latitude": 37.945031,
+      "longitude": 23.651642
+    },
+    {
+      "name": "Έμη",
+      "latitude": 38.019117,
+      "longitude": 23.735362
+    },
+    {
+      "name": "Έφη",
+      "latitude": 37.938369,
+      "longitude": 23.711781
+    },
+    {
+      "name": "Έφη",
+      "latitude": 38.004482,
+      "longitude": 23.81233
+    },
+    {
+      "name": "Έφη",
+      "latitude": 39.091518,
+      "longitude": 26.556038
+    },
+    {
+      "name": "Ήλα",
+      "latitude": 37.935107,
+      "longitude": 22.927359
+    },
+    {
+      "name": "Ίριδα",
+      "latitude": 38.015141,
+      "longitude": 23.821061
+    },
+    {
+      "name": "Α & Μ",
+      "latitude": 38.015938,
+      "longitude": 23.733632
+    },
+    {
+      "name": "Αβέλ",
+      "latitude": 40.669694,
+      "longitude": 22.907003
+    },
+    {
+      "name": "Αγγελική & Νίκη",
+      "latitude": 38.023269,
+      "longitude": 23.748307
+    },
+    {
+      "name": "Αδάμ",
+      "latitude": 37.94051,
+      "longitude": 23.64791
+    },
+    {
+      "name": "Αιμιλία",
+      "latitude": 36.732,
+      "longitude": 22.8552
+    },
+    {
+      "name": "Αλέκα",
+      "latitude": 37.97545,
+      "longitude": 23.660863
+    },
+    {
+      "name": "Αλέξανδρος",
+      "latitude": 37.954543,
+      "longitude": 23.679599
+    },
+    {
+      "name": "Αλέξανδρος",
+      "latitude": 38.017099,
+      "longitude": 23.741287
+    },
+    {
+      "name": "Αλεξάκης",
+      "latitude": 37.94218,
+      "longitude": 23.649725
+    },
+    {
+      "name": "Αλεξάνδρα",
+      "latitude": 38.035288,
+      "longitude": 23.758552
+    },
+    {
+      "name": "Αλεξάνδρα Βλαζάκη",
+      "latitude": 38.036681,
+      "longitude": 23.675833
+    },
+    {
+      "name": "ΑΛΕΞΑΝΔΡΟΣ",
+      "latitude": 40.506746,
+      "longitude": 22.921963
+    },
+    {
+      "name": "Αλχημείες",
+      "latitude": 37.947754,
+      "longitude": 23.627352
+    },
+    {
+      "name": "Αλἐξανδρος",
+      "latitude": 40.522386,
+      "longitude": 21.26191
+    },
+    {
+      "name": "Αναστασία",
+      "latitude": 40.645454,
+      "longitude": 22.949484
+    },
+    {
+      "name": "Ανδρικές κομμώσεις",
+      "latitude": 37.988873,
+      "longitude": 23.747414
+    },
+    {
+      "name": "Ανδρικές Κομμώσεις",
+      "latitude": 38.038661,
+      "longitude": 23.764212
+    },
+    {
+      "name": "Ανδρικό",
+      "latitude": 40.647157,
+      "longitude": 22.946592
+    },
+    {
+      "name": "Ανδρονίκη Νίκο",
+      "latitude": 37.990522,
+      "longitude": 23.758486
+    },
+    {
+      "name": "Ανθούλα Αφροδίτη",
+      "latitude": 39.09698,
+      "longitude": 26.550379
+    },
+    {
+      "name": "Αννέτα",
+      "latitude": 38.020732,
+      "longitude": 23.693603
+    },
+    {
+      "name": "Αννίτα",
+      "latitude": 38.019406,
+      "longitude": 23.73725
+    },
+    {
+      "name": "Αντρικό",
+      "latitude": 37.936679,
+      "longitude": 23.641771
+    },
+    {
+      "name": "Αντώνης",
+      "latitude": 37.930542,
+      "longitude": 23.635098
+    },
+    {
+      "name": "Αντώνης",
+      "latitude": 38.015209,
+      "longitude": 23.754491
+    },
+    {
+      "name": "Αποστόλης",
+      "latitude": 37.930593,
+      "longitude": 23.751674
+    },
+    {
+      "name": "Απόστολος",
+      "latitude": 37.972916,
+      "longitude": 23.747146
+    },
+    {
+      "name": "Αρβανίτη",
+      "latitude": 37.979767,
+      "longitude": 23.737371
+    },
+    {
+      "name": "Αργύρης",
+      "latitude": 37.072695,
+      "longitude": 22.431404
+    },
+    {
+      "name": "Αρματάς",
+      "latitude": 37.634487,
+      "longitude": 22.729648
+    },
+    {
+      "name": "Ασιμινα",
+      "latitude": 37.635033,
+      "longitude": 22.729614
+    },
+    {
+      "name": "Αφροδίτη",
+      "latitude": 38.36708,
+      "longitude": 26.131667
+    },
+    {
+      "name": "ΑΧΙΛΛΕΑΣ",
+      "latitude": 40.604244,
+      "longitude": 22.965002
+    },
+    {
+      "name": "Β. Μάριζα",
+      "latitude": 37.976019,
+      "longitude": 23.762132
+    },
+    {
+      "name": "Β.Κ.",
+      "latitude": 40.619594,
+      "longitude": 22.96896
+    },
+    {
+      "name": "Βίκτωρας",
+      "latitude": 39.64254,
+      "longitude": 22.417641
+    },
+    {
+      "name": "Βίκυ Coiffures",
+      "latitude": 37.907233,
+      "longitude": 23.749514
+    },
+    {
+      "name": "Βίκυ κομμωτήριο",
+      "latitude": 37.078773,
+      "longitude": 25.145474
+    },
+    {
+      "name": "Βαγγέλης - Ζωή",
+      "latitude": 38.019993,
+      "longitude": 23.756241
+    },
+    {
+      "name": "Βαλεντίνα",
+      "latitude": 38.014468,
+      "longitude": 23.732863
+    },
+    {
+      "name": "Βαλλας",
+      "latitude": 39.704525,
+      "longitude": 21.627208
+    },
+    {
+      "name": "Βαμβακίδου Αικατερίνη",
+      "latitude": 37.974788,
+      "longitude": 23.765284
+    },
+    {
+      "name": "Βασίλης",
+      "latitude": 37.934615,
+      "longitude": 23.64687
+    },
+    {
+      "name": "Βασίλης Μαυρόπουλος",
+      "latitude": 40.274873,
+      "longitude": 22.507041
+    },
+    {
+      "name": "Βασιλάκης",
+      "latitude": 38.01492,
+      "longitude": 23.749749
+    },
+    {
+      "name": "Βασιλάκος Κώστας",
+      "latitude": 37.957893,
+      "longitude": 23.702286
+    },
+    {
+      "name": "Βασω",
+      "latitude": 40.913993,
+      "longitude": 22.873086
+    },
+    {
+      "name": "Βερόνικα",
+      "latitude": 40.301927,
+      "longitude": 21.786692
+    },
+    {
+      "name": "Βικυ",
+      "latitude": 38.905302,
+      "longitude": 22.12621
+    },
+    {
+      "name": "Βουλα",
+      "latitude": 38.039142,
+      "longitude": 23.748506
+    },
+    {
+      "name": "Βούλα - Γεωργία",
+      "latitude": 40.647129,
+      "longitude": 22.95043
+    },
+    {
+      "name": "Γ&Μ",
+      "latitude": 38.042785,
+      "longitude": 23.755565
+    },
+    {
+      "name": "Γεωκοπή",
+      "latitude": 37.985152,
+      "longitude": 23.734262
+    },
+    {
+      "name": "Γεωργία",
+      "latitude": 37.931346,
+      "longitude": 23.642289
+    },
+    {
+      "name": "Γεωργία",
+      "latitude": 39.080545,
+      "longitude": 26.182109
+    },
+    {
+      "name": "Γεωργία-Ρίτα",
+      "latitude": 37.952089,
+      "longitude": 23.690886
+    },
+    {
+      "name": "ΓΕΩΡΓΙΑ",
+      "latitude": 36.875766,
+      "longitude": 27.203916
+    },
+    {
+      "name": "Γεωργια",
+      "latitude": 41.269523,
+      "longitude": 26.386753
+    },
+    {
+      "name": "Γεώργιος Μουλιανάκης",
+      "latitude": 38.022672,
+      "longitude": 23.721038
+    },
+    {
+      "name": "Γιάννα",
+      "latitude": 37.985766,
+      "longitude": 23.734685
+    },
+    {
+      "name": "Γιάννα",
+      "latitude": 39.636273,
+      "longitude": 22.421612
+    },
+    {
+      "name": "Γιάννα",
+      "latitude": 40.938581,
+      "longitude": 24.40487
+    },
+    {
+      "name": "Γιάννα-Θάνος",
+      "latitude": 37.945641,
+      "longitude": 23.682445
+    },
+    {
+      "name": "Γιάννης",
+      "latitude": 35.366319,
+      "longitude": 24.507196
+    },
+    {
+      "name": "Γιάννης",
+      "latitude": 37.941891,
+      "longitude": 23.650231
+    },
+    {
+      "name": "Γιάννης",
+      "latitude": 37.982471,
+      "longitude": 23.763789
+    },
+    {
+      "name": "Γιάννης",
+      "latitude": 39.107459,
+      "longitude": 26.556735
+    },
+    {
+      "name": "Γιάννης",
+      "latitude": 40.522633,
+      "longitude": 21.262365
+    },
+    {
+      "name": "Γιάννης",
+      "latitude": 40.569213,
+      "longitude": 22.95971
+    },
+    {
+      "name": "Γιάννης & Ελένη - Confession of a Haircut",
+      "latitude": 37.935277,
+      "longitude": 23.633864
+    },
+    {
+      "name": "Γιάννης Παλαιολόγος",
+      "latitude": 37.440515,
+      "longitude": 24.939418
+    },
+    {
+      "name": "Γιούλη",
+      "latitude": 37.986721,
+      "longitude": 23.652062
+    },
+    {
+      "name": "Γιούλη",
+      "latitude": 38.057179,
+      "longitude": 23.808243
+    },
+    {
+      "name": "Γιώργος",
+      "latitude": 38.039539,
+      "longitude": 23.754505
+    },
+    {
+      "name": "Γιώργος Χρυσοχοΐδης",
+      "latitude": 40.628164,
+      "longitude": 22.950888
+    },
+    {
+      "name": "Γιώτα",
+      "latitude": 37.978982,
+      "longitude": 23.758028
+    },
+    {
+      "name": "Γκροτέσκο",
+      "latitude": 39.635212,
+      "longitude": 22.428898
+    },
+    {
+      "name": "Γρηγόρης",
+      "latitude": 40.620787,
+      "longitude": 22.961271
+    },
+    {
+      "name": "Δέσποινα",
+      "latitude": 39.634689,
+      "longitude": 22.42562
+    },
+    {
+      "name": "Δέσποινα",
+      "latitude": 40.518824,
+      "longitude": 21.256149
+    },
+    {
+      "name": "Δήμητρα",
+      "latitude": 37.990812,
+      "longitude": 23.757201
+    },
+    {
+      "name": "Δήμητρα",
+      "latitude": 38.054803,
+      "longitude": 23.804626
+    },
+    {
+      "name": "Δήμητρα",
+      "latitude": 39.08062,
+      "longitude": 26.181135
+    },
+    {
+      "name": "Δήμητρα",
+      "latitude": 40.599672,
+      "longitude": 22.955432
+    },
+    {
+      "name": "Δημήτρης",
+      "latitude": 37.94211,
+      "longitude": 23.649881
+    },
+    {
+      "name": "Δημήτρης",
+      "latitude": 37.95809,
+      "longitude": 23.633733
+    },
+    {
+      "name": "Δημήτρης",
+      "latitude": 37.964185,
+      "longitude": 23.627876
+    },
+    {
+      "name": "Δημήτρης",
+      "latitude": 38.032606,
+      "longitude": 23.759801
+    },
+    {
+      "name": "Δημήτρης Κουτρής",
+      "latitude": 38.035026,
+      "longitude": 23.738551
+    },
+    {
+      "name": "Δημητρης",
+      "latitude": 39.661707,
+      "longitude": 20.856371
+    },
+    {
+      "name": "Δημητρης Αγνατος",
+      "latitude": 39.458495,
+      "longitude": 21.616728
+    },
+    {
+      "name": "Διαμαντής",
+      "latitude": 37.982262,
+      "longitude": 23.736379
+    },
+    {
+      "name": "Διονύσης",
+      "latitude": 38.015894,
+      "longitude": 23.735732
+    },
+    {
+      "name": "Διονύσης",
+      "latitude": 40.630906,
+      "longitude": 22.952807
+    },
+    {
+      "name": "Δραγώνης",
+      "latitude": 37.944118,
+      "longitude": 23.649144
+    },
+    {
+      "name": "ΔΣ",
+      "latitude": 38.459887,
+      "longitude": 23.601524
+    },
+    {
+      "name": "Δώρα",
+      "latitude": 40.940342,
+      "longitude": 24.403103
+    },
+    {
+      "name": "Ειρήνη",
+      "latitude": 38.89616,
+      "longitude": 22.27568
+    },
+    {
+      "name": "Ελένη",
+      "latitude": 35.36636,
+      "longitude": 24.506441
+    },
+    {
+      "name": "Ελένη",
+      "latitude": 37.979366,
+      "longitude": 23.763915
+    },
+    {
+      "name": "Ελένη",
+      "latitude": 38.032141,
+      "longitude": 23.745993
+    },
+    {
+      "name": "Ελένη Λιώνη",
+      "latitude": 37.990282,
+      "longitude": 23.729318
+    },
+    {
+      "name": "Ελένη Μπουζέκη",
+      "latitude": 39.705822,
+      "longitude": 21.62456
+    },
+    {
+      "name": "Ελένη Χατζή",
+      "latitude": 38.007399,
+      "longitude": 23.687877
+    },
+    {
+      "name": "Ελβίρα",
+      "latitude": 37.988188,
+      "longitude": 23.760585
+    },
+    {
+      "name": "Ελισάβετ",
+      "latitude": 41.150203,
+      "longitude": 24.150299
+    },
+    {
+      "name": "Ελπίδα",
+      "latitude": 40.525827,
+      "longitude": 22.206063
+    },
+    {
+      "name": "Επί κεφαλής",
+      "latitude": 37.966231,
+      "longitude": 23.710417
+    },
+    {
+      "name": "ΕπίΚεφαλής",
+      "latitude": 35.32753,
+      "longitude": 25.113114
+    },
+    {
+      "name": "Ευαγγελία - Νίκος",
+      "latitude": 38.078593,
+      "longitude": 23.701981
+    },
+    {
+      "name": "Εφη",
+      "latitude": 37.967912,
+      "longitude": 23.707651
+    },
+    {
+      "name": "ΕΦΗ",
+      "latitude": 38.020585,
+      "longitude": 23.745535
+    },
+    {
+      "name": "Εφη",
+      "latitude": 39.659569,
+      "longitude": 20.938924
+    },
+    {
+      "name": "Εόπ",
+      "latitude": 40.25018,
+      "longitude": 23.247701
+    },
+    {
+      "name": "Εύη",
+      "latitude": 38.077197,
+      "longitude": 23.740178
+    },
+    {
+      "name": "Ζιώγα-Κουτσιαρίδα Βέτα",
+      "latitude": 39.362684,
+      "longitude": 21.925158
+    },
+    {
+      "name": "Ζωή",
+      "latitude": 37.954109,
+      "longitude": 23.704725
+    },
+    {
+      "name": "Ζωή",
+      "latitude": 37.993572,
+      "longitude": 23.723322
+    },
+    {
+      "name": "Ζωή",
+      "latitude": 38.036516,
+      "longitude": 23.758463
+    },
+    {
+      "name": "Ζωή",
+      "latitude": 41.149336,
+      "longitude": 24.150829
+    },
+    {
+      "name": "ΖΩΡΖ ΚΟΜΜΩΤΗΡΙΟ",
+      "latitude": 39.093983,
+      "longitude": 26.555053
+    },
+    {
+      "name": "Η Βαρβάρα",
+      "latitude": 41.177113,
+      "longitude": 23.394951
+    },
+    {
+      "name": "Η Κική",
+      "latitude": 38.371341,
+      "longitude": 23.105832
+    },
+    {
+      "name": "Η Λέσβος",
+      "latitude": 37.990564,
+      "longitude": 23.757435
+    },
+    {
+      "name": "Η παράδοση",
+      "latitude": 39.108038,
+      "longitude": 26.557293
+    },
+    {
+      "name": "Η Φρόσω",
+      "latitude": 41.276231,
+      "longitude": 23.294591
+    },
+    {
+      "name": "Ηλίας",
+      "latitude": 37.931416,
+      "longitude": 23.631908
+    },
+    {
+      "name": "Ηλίας",
+      "latitude": 37.945168,
+      "longitude": 23.649746
+    },
+    {
+      "name": "Ηλίας",
+      "latitude": 38.020473,
+      "longitude": 23.80172
+    },
+    {
+      "name": "Ηλιάνα",
+      "latitude": 37.97226,
+      "longitude": 23.768842
+    },
+    {
+      "name": "Ηλιασ",
+      "latitude": 37.38635,
+      "longitude": 23.247323
+    },
+    {
+      "name": "Ηρώ",
+      "latitude": 38.032013,
+      "longitude": 23.749575
+    },
+    {
+      "name": "Θάνος",
+      "latitude": 38.025289,
+      "longitude": 23.743799
+    },
+    {
+      "name": "Θεόδωρος Φαχουρίδης",
+      "latitude": 40.633979,
+      "longitude": 22.951339
+    },
+    {
+      "name": "Θριξ+Όνυξ",
+      "latitude": 38.011104,
+      "longitude": 23.811973
+    },
+    {
+      "name": "Ιλαρίων",
+      "latitude": 40.602474,
+      "longitude": 22.9569
+    },
+    {
+      "name": "Ιωάννα",
+      "latitude": 39.636338,
+      "longitude": 22.425746
+    },
+    {
+      "name": "Ιωάννης",
+      "latitude": 37.978737,
+      "longitude": 23.740497
+    },
+    {
+      "name": "Κ & Σ",
+      "latitude": 36.685235,
+      "longitude": 23.037251
+    },
+    {
+      "name": "Κ&Ε",
+      "latitude": 37.997414,
+      "longitude": 23.73409
+    },
+    {
+      "name": "ΚΑΙΤΗ",
+      "latitude": 36.876417,
+      "longitude": 27.206067
+    },
+    {
+      "name": "Καλλυντικα",
+      "latitude": 37.405305,
+      "longitude": 22.723679
+    },
+    {
+      "name": "Καρνέζης",
+      "latitude": 37.511455,
+      "longitude": 22.374294
+    },
+    {
+      "name": "Κασσαβέτης",
+      "latitude": 37.985605,
+      "longitude": 23.755998
+    },
+    {
+      "name": "Κατερίνα",
+      "latitude": 37.938002,
+      "longitude": 23.656326
+    },
+    {
+      "name": "Κατερίνα",
+      "latitude": 37.994308,
+      "longitude": 23.730368
+    },
+    {
+      "name": "Κατερίνα",
+      "latitude": 38.01509,
+      "longitude": 23.832819
+    },
+    {
+      "name": "Κατερίνα",
+      "latitude": 38.02598,
+      "longitude": 23.749667
+    },
+    {
+      "name": "Κατερίνα",
+      "latitude": 40.946024,
+      "longitude": 22.45116
+    },
+    {
+      "name": "Κατερίνα Σταθοπούλου",
+      "latitude": 38.259206,
+      "longitude": 21.742479
+    },
+    {
+      "name": "Κατερινα",
+      "latitude": 38.578174,
+      "longitude": 23.642642
+    },
+    {
+      "name": "Κατερινα",
+      "latitude": 39.707421,
+      "longitude": 21.623913
+    },
+    {
+      "name": "Κεχαγιά hair design",
+      "latitude": 40.599806,
+      "longitude": 22.959846
+    },
+    {
+      "name": "Κική",
+      "latitude": 38.055848,
+      "longitude": 23.80689
+    },
+    {
+      "name": "Κική",
+      "latitude": 40.670583,
+      "longitude": 22.904069
+    },
+    {
+      "name": "ΚΙΚΗ",
+      "latitude": 40.378909,
+      "longitude": 23.443881
+    },
+    {
+      "name": "ΚΙΚΗ - ΑΓΑΠΙΟΣ",
+      "latitude": 41.259833,
+      "longitude": 22.998811
+    },
+    {
+      "name": "Κιρμασαν",
+      "latitude": 37.989132,
+      "longitude": 23.727733
+    },
+    {
+      "name": "ΚΟΜΜΘΣΕΙΣ ΙΘΑΝΝΑ",
+      "latitude": 35.232148,
+      "longitude": 23.682908
+    },
+    {
+      "name": "Κομμοτηριο",
+      "latitude": 38.004042,
+      "longitude": 23.737651
+    },
+    {
+      "name": "ΚΟΜΜΩΣΕΙΣ LEFTERIS - 'LK'",
+      "latitude": 38.262566,
+      "longitude": 21.743567
+    },
+    {
+      "name": "Κομμωσεις Γιτσα",
+      "latitude": 40.659304,
+      "longitude": 24.692162
+    },
+    {
+      "name": "ΚΟΜΜΩΣΕΙΣ ΡΟΥΛΑ",
+      "latitude": 35.051248,
+      "longitude": 24.872626
+    },
+    {
+      "name": "Κομμωτήριο",
+      "latitude": 37.980474,
+      "longitude": 23.738077
+    },
+    {
+      "name": "Κομμωτήριο",
+      "latitude": 37.982434,
+      "longitude": 23.737115
+    },
+    {
+      "name": "Κομμωτήριο",
+      "latitude": 38.032318,
+      "longitude": 23.751295
+    },
+    {
+      "name": "Κομμωτήριο \"Μαίρη\"",
+      "latitude": 37.850472,
+      "longitude": 21.253841
+    },
+    {
+      "name": "Κομμωτήριο Como Como",
+      "latitude": 40.628857,
+      "longitude": 22.946808
+    },
+    {
+      "name": "Κομμωτήριο manos",
+      "latitude": 38.021012,
+      "longitude": 23.746437
+    },
+    {
+      "name": "Κομμωτήριο ανδρών",
+      "latitude": 40.615392,
+      "longitude": 22.959613
+    },
+    {
+      "name": "Κομμωτήριο Αστέρης",
+      "latitude": 40.271772,
+      "longitude": 22.501322
+    },
+    {
+      "name": "Κομμωτήριο Δανάη",
+      "latitude": 40.601106,
+      "longitude": 22.954636
+    },
+    {
+      "name": "Κομμωτήριο Δεσποινα",
+      "latitude": 35.03153,
+      "longitude": 25.952865
+    },
+    {
+      "name": "Κομμωτήριο Κεραστάσε",
+      "latitude": 40.646692,
+      "longitude": 22.949874
+    },
+    {
+      "name": "Κομμωτήριο ΚΟΓΙΑ",
+      "latitude": 40.61536,
+      "longitude": 22.966767
+    },
+    {
+      "name": "Κομμωτήριο Μαρία",
+      "latitude": 39.996572,
+      "longitude": 23.387102
+    },
+    {
+      "name": "Κομμωτήριο Μαρία",
+      "latitude": 40.270115,
+      "longitude": 22.528755
+    },
+    {
+      "name": "Κομμωτήριο μικρών ζώων",
+      "latitude": 35.510473,
+      "longitude": 24.021719
+    },
+    {
+      "name": "Κομμωτήριο Μουζενίδης",
+      "latitude": 38.259628,
+      "longitude": 21.742638
+    },
+    {
+      "name": "Κομμωτήριο Νίκος",
+      "latitude": 40.522021,
+      "longitude": 21.26
+    },
+    {
+      "name": "Κομμωτήριο Ντενίς",
+      "latitude": 41.121472,
+      "longitude": 25.404532
+    },
+    {
+      "name": "Κομμωτήριο ο Κώστας",
+      "latitude": 38.233698,
+      "longitude": 21.731384
+    },
+    {
+      "name": "Κομμωτήριο Ρίτα Πάπα",
+      "latitude": 40.609107,
+      "longitude": 22.957959
+    },
+    {
+      "name": "Κομμωτήριο Σουρωτής",
+      "latitude": 40.472626,
+      "longitude": 23.092139
+    },
+    {
+      "name": "Κομμωτήριο Στέργιος",
+      "latitude": 40.610259,
+      "longitude": 23.100087
+    },
+    {
+      "name": "ΚΟΜΜΩΤΗΡΙΟ by Anna Kourinaki",
+      "latitude": 35.362405,
+      "longitude": 24.261503
+    },
+    {
+      "name": "ΚΟΜΜΩΤΗΡΙΟ ΕΛΛΗ",
+      "latitude": 37.992899,
+      "longitude": 23.748427
+    },
+    {
+      "name": "Κομμωτικές προτάσεις",
+      "latitude": 38.003461,
+      "longitude": 23.734179
+    },
+    {
+      "name": "Κομμώσεις \"ΒΙΒΗ\"",
+      "latitude": 38.23353,
+      "longitude": 21.729866
+    },
+    {
+      "name": "Κομμώσεις Andie",
+      "latitude": 40.606368,
+      "longitude": 22.95814
+    },
+    {
+      "name": "Κομμώσεις CE",
+      "latitude": 41.122522,
+      "longitude": 25.409274
+    },
+    {
+      "name": "Κομμώσεις «Rita»",
+      "latitude": 39.407401,
+      "longitude": 20.243953
+    },
+    {
+      "name": "Κομμώσεις Αθανασόπουλος",
+      "latitude": 38.392534,
+      "longitude": 21.827416
+    },
+    {
+      "name": "Κομμώσεις Βίκυ",
+      "latitude": 37.955582,
+      "longitude": 23.711229
+    },
+    {
+      "name": "Κομμώσεις Βασίλης",
+      "latitude": 40.608996,
+      "longitude": 22.959775
+    },
+    {
+      "name": "Κομμώσεις Βιβή",
+      "latitude": 38.055484,
+      "longitude": 23.804187
+    },
+    {
+      "name": "Κομμώσεις Βλάσης",
+      "latitude": 38.237645,
+      "longitude": 21.736867
+    },
+    {
+      "name": "Κομμώσεις Γιώτα",
+      "latitude": 40.648799,
+      "longitude": 22.947168
+    },
+    {
+      "name": "Κομμώσεις Νούλα",
+      "latitude": 40.274684,
+      "longitude": 22.541771
+    },
+    {
+      "name": "Κομμώσεις Σταύρος",
+      "latitude": 40.271585,
+      "longitude": 22.509742
+    },
+    {
+      "name": "Κομμώσεις Τούλα",
+      "latitude": 40.272277,
+      "longitude": 22.511732
+    },
+    {
+      "name": "Κοπής έργον",
+      "latitude": 38.028833,
+      "longitude": 23.716058
+    },
+    {
+      "name": "Κουρέας",
+      "latitude": 39.878566,
+      "longitude": 25.061807
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 37.634906,
+      "longitude": 22.730438
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 37.930734,
+      "longitude": 23.642505
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 38.022156,
+      "longitude": 23.802038
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 38.034833,
+      "longitude": 23.754901
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 38.040777,
+      "longitude": 23.755402
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 38.05967,
+      "longitude": 23.793569
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 38.296124,
+      "longitude": 21.791091
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 38.461517,
+      "longitude": 23.596571
+    },
+    {
+      "name": "Κουρείο",
+      "latitude": 39.102663,
+      "longitude": 26.556466
+    },
+    {
+      "name": "Κουρείο 5€",
+      "latitude": 38.042259,
+      "longitude": 23.757064
+    },
+    {
+      "name": "Κουρείο Asian",
+      "latitude": 37.947216,
+      "longitude": 23.642621
+    },
+    {
+      "name": "Κουρείο Αθανασιάδης Θεόδωρος",
+      "latitude": 40.691527,
+      "longitude": 23.003197
+    },
+    {
+      "name": "Κουρείο Βαγγέλης",
+      "latitude": 40.271778,
+      "longitude": 22.501045
+    },
+    {
+      "name": "Κουρείο Γιάννης",
+      "latitude": 39.635914,
+      "longitude": 22.420598
+    },
+    {
+      "name": "Κουρείο Δημ. Ν. Μπέλλη",
+      "latitude": 40.270326,
+      "longitude": 22.508078
+    },
+    {
+      "name": "Κουρείο Δημήτρης",
+      "latitude": 40.60105,
+      "longitude": 22.954663
+    },
+    {
+      "name": "Κουρείο Θεσσαλονίκη",
+      "latitude": 40.600717,
+      "longitude": 22.956711
+    },
+    {
+      "name": "Κουρείο ο Κώστας",
+      "latitude": 40.270048,
+      "longitude": 22.528302
+    },
+    {
+      "name": "Κουρείο Οδυσσέας",
+      "latitude": 40.597961,
+      "longitude": 22.957455
+    },
+    {
+      "name": "ΚΟΥΡΕΊΟ ΠΕΤΣΙΝΟΣ",
+      "latitude": 38.623536,
+      "longitude": 21.410109
+    },
+    {
+      "name": "Κουρείο Σάκης",
+      "latitude": 39.368454,
+      "longitude": 22.952467
+    },
+    {
+      "name": "Κουρείο του '78",
+      "latitude": 39.633574,
+      "longitude": 22.415435
+    },
+    {
+      "name": "Κουρείον",
+      "latitude": 37.512343,
+      "longitude": 22.373096
+    },
+    {
+      "name": "Κουρείον",
+      "latitude": 37.936017,
+      "longitude": 23.756221
+    },
+    {
+      "name": "Κουρείον",
+      "latitude": 38.004536,
+      "longitude": 23.821988
+    },
+    {
+      "name": "Κουρείον",
+      "latitude": 38.015319,
+      "longitude": 23.833107
+    },
+    {
+      "name": "Κουρείον",
+      "latitude": 40.274451,
+      "longitude": 22.506703
+    },
+    {
+      "name": "Κουρείον",
+      "latitude": 40.278421,
+      "longitude": 22.504497
+    },
+    {
+      "name": "Κουρείον 114",
+      "latitude": 37.960169,
+      "longitude": 23.748167
+    },
+    {
+      "name": "Κουρείον Ο «Θείος» Μπιλ",
+      "latitude": 39.419974,
+      "longitude": 20.082823
+    },
+    {
+      "name": "Κουρείον Ο Σίμος",
+      "latitude": 40.523123,
+      "longitude": 21.263663
+    },
+    {
+      "name": "Κουρείον της Κηφισιάς",
+      "latitude": 38.07151,
+      "longitude": 23.811744
+    },
+    {
+      "name": "Κουρειον",
+      "latitude": 37.48404,
+      "longitude": 21.90485
+    },
+    {
+      "name": "ΚΟΥΡΕΟ Johnny the Barber",
+      "latitude": 38.388428,
+      "longitude": 23.891332
+    },
+    {
+      "name": "Κούλα",
+      "latitude": 41.259808,
+      "longitude": 23.00123
+    },
+    {
+      "name": "Κούρος",
+      "latitude": 37.942157,
+      "longitude": 23.65045
+    },
+    {
+      "name": "Κούρος",
+      "latitude": 37.998838,
+      "longitude": 23.722096
+    },
+    {
+      "name": "Κούρος",
+      "latitude": 38.00128,
+      "longitude": 23.725006
+    },
+    {
+      "name": "Κούρος",
+      "latitude": 38.087171,
+      "longitude": 23.745258
+    },
+    {
+      "name": "Κρεόλη",
+      "latitude": 37.999082,
+      "longitude": 23.741943
+    },
+    {
+      "name": "Κτείς",
+      "latitude": 40.616366,
+      "longitude": 22.970402
+    },
+    {
+      "name": "Κυριακος",
+      "latitude": 38.913664,
+      "longitude": 22.61621
+    },
+    {
+      "name": "Κωνσταντίνα",
+      "latitude": 39.636429,
+      "longitude": 22.425871
+    },
+    {
+      "name": "Κωνσταντίνα",
+      "latitude": 39.704783,
+      "longitude": 21.624817
+    },
+    {
+      "name": "Κωνσταντίνος",
+      "latitude": 37.959587,
+      "longitude": 23.696198
+    },
+    {
+      "name": "Κωνσταντίνος",
+      "latitude": 40.652872,
+      "longitude": 22.925909
+    },
+    {
+      "name": "Κωνσταντίνος & Νικόλας",
+      "latitude": 38.084563,
+      "longitude": 23.73871
+    },
+    {
+      "name": "Κωνσταντόπουλος",
+      "latitude": 38.032804,
+      "longitude": 23.737116
+    },
+    {
+      "name": "κόμης έργα",
+      "latitude": 40.628498,
+      "longitude": 22.947151
+    },
+    {
+      "name": "Κώστας",
+      "latitude": 37.942698,
+      "longitude": 23.652234
+    },
+    {
+      "name": "Κώστας",
+      "latitude": 37.975699,
+      "longitude": 23.763348
+    },
+    {
+      "name": "Κώστας",
+      "latitude": 37.990825,
+      "longitude": 23.72669
+    },
+    {
+      "name": "Λάζαρος",
+      "latitude": 41.075176,
+      "longitude": 24.246079
+    },
+    {
+      "name": "Λάζαρος Κ",
+      "latitude": 37.908485,
+      "longitude": 23.752435
+    },
+    {
+      "name": "Λάμπρος",
+      "latitude": 38.009993,
+      "longitude": 23.736184
+    },
+    {
+      "name": "Λία Κομμωτηριο",
+      "latitude": 38.060081,
+      "longitude": 23.79772
+    },
+    {
+      "name": "Λίνα",
+      "latitude": 37.945162,
+      "longitude": 23.758459
+    },
+    {
+      "name": "Λίνα Μήλου",
+      "latitude": 38.017865,
+      "longitude": 23.735634
+    },
+    {
+      "name": "Λίτσα",
+      "latitude": 37.988966,
+      "longitude": 23.680295
+    },
+    {
+      "name": "Λίτσα",
+      "latitude": 39.075701,
+      "longitude": 26.571479
+    },
+    {
+      "name": "Λίτσα",
+      "latitude": 40.609877,
+      "longitude": 22.983273
+    },
+    {
+      "name": "Λίτσα Γραμπή",
+      "latitude": 40.599345,
+      "longitude": 22.957408
+    },
+    {
+      "name": "Λαζαρος",
+      "latitude": 40.521736,
+      "longitude": 21.262236
+    },
+    {
+      "name": "Λαμπρος Τουρκανης",
+      "latitude": 37.794029,
+      "longitude": 21.350097
+    },
+    {
+      "name": "ΛΕΝΑ",
+      "latitude": 40.731039,
+      "longitude": 22.921292
+    },
+    {
+      "name": "Λευτέρης",
+      "latitude": 38.02081,
+      "longitude": 23.739118
+    },
+    {
+      "name": "Λιαράκος",
+      "latitude": 38.016267,
+      "longitude": 23.692264
+    },
+    {
+      "name": "Μάγδα",
+      "latitude": 37.986933,
+      "longitude": 23.737824
+    },
+    {
+      "name": "Μάγδα",
+      "latitude": 37.997147,
+      "longitude": 23.724052
+    },
+    {
+      "name": "Μάκης Αφροδίτη",
+      "latitude": 37.870322,
+      "longitude": 23.765029
+    },
+    {
+      "name": "Μάκης Τάρλας",
+      "latitude": 38.019204,
+      "longitude": 23.825167
+    },
+    {
+      "name": "Μάνος",
+      "latitude": 37.933968,
+      "longitude": 23.641493
+    },
+    {
+      "name": "Μάριος",
+      "latitude": 37.949804,
+      "longitude": 23.735334
+    },
+    {
+      "name": "Μέλη",
+      "latitude": 38.059792,
+      "longitude": 23.796397
+    },
+    {
+      "name": "Μένη",
+      "latitude": 37.982683,
+      "longitude": 23.733943
+    },
+    {
+      "name": "Μίλτος",
+      "latitude": 37.959657,
+      "longitude": 23.75407
+    },
+    {
+      "name": "Μίχα Κλημεντίνη",
+      "latitude": 39.502754,
+      "longitude": 20.265507
+    },
+    {
+      "name": "Μαίρη",
+      "latitude": 37.954639,
+      "longitude": 23.853321
+    },
+    {
+      "name": "Μαίρη",
+      "latitude": 37.996795,
+      "longitude": 23.731323
+    },
+    {
+      "name": "Μαίρη",
+      "latitude": 38.027938,
+      "longitude": 23.722286
+    },
+    {
+      "name": "Μαίρη",
+      "latitude": 38.058628,
+      "longitude": 23.792941
+    },
+    {
+      "name": "Μαίρη",
+      "latitude": 39.09137,
+      "longitude": 26.555941
+    },
+    {
+      "name": "Μαίρη",
+      "latitude": 39.637131,
+      "longitude": 22.423385
+    },
+    {
+      "name": "ΜΑΙΡΗ BEAUTH",
+      "latitude": 38.031742,
+      "longitude": 21.363876
+    },
+    {
+      "name": "Μαλλί-Μαλλί",
+      "latitude": 37.399761,
+      "longitude": 22.133156
+    },
+    {
+      "name": "Μαλλιος",
+      "latitude": 37.992711,
+      "longitude": 23.76741
+    },
+    {
+      "name": "Μαρία",
+      "latitude": 38.08438,
+      "longitude": 23.738201
+    },
+    {
+      "name": "Μαρία",
+      "latitude": 38.129772,
+      "longitude": 23.78885
+    },
+    {
+      "name": "Μαρία",
+      "latitude": 38.277377,
+      "longitude": 23.588599
+    },
+    {
+      "name": "Μαρία",
+      "latitude": 38.425642,
+      "longitude": 23.670736
+    },
+    {
+      "name": "Μαρία Μπαλίου",
+      "latitude": 37.965373,
+      "longitude": 23.749308
+    },
+    {
+      "name": "Μαρίβα & Φειδίας",
+      "latitude": 38.042516,
+      "longitude": 23.754271
+    },
+    {
+      "name": "Μαρίνα",
+      "latitude": 38.080636,
+      "longitude": 23.735903
+    },
+    {
+      "name": "Μαρίνα",
+      "latitude": 41.15149,
+      "longitude": 24.148592
+    },
+    {
+      "name": "Μαρίνος",
+      "latitude": 37.95554,
+      "longitude": 23.635089
+    },
+    {
+      "name": "Μαρκέλλα",
+      "latitude": 41.150484,
+      "longitude": 24.149572
+    },
+    {
+      "name": "Μαρνέλου",
+      "latitude": 35.193689,
+      "longitude": 25.712041
+    },
+    {
+      "name": "Ματέο",
+      "latitude": 38.013652,
+      "longitude": 23.735134
+    },
+    {
+      "name": "Μαύρο διαμάντι",
+      "latitude": 38.002262,
+      "longitude": 23.733201
+    },
+    {
+      "name": "Μελίντα",
+      "latitude": 38.000754,
+      "longitude": 23.73338
+    },
+    {
+      "name": "Μεϊμάρη Μιχ. Άννα",
+      "latitude": 40.647752,
+      "longitude": 22.9509
+    },
+    {
+      "name": "Μηλιώνης",
+      "latitude": 37.950374,
+      "longitude": 23.711375
+    },
+    {
+      "name": "Μιμή",
+      "latitude": 37.946159,
+      "longitude": 23.711488
+    },
+    {
+      "name": "Μιράντα",
+      "latitude": 37.942646,
+      "longitude": 23.650078
+    },
+    {
+      "name": "Μιράντα",
+      "latitude": 38.00247,
+      "longitude": 23.735366
+    },
+    {
+      "name": "Μιχάλης",
+      "latitude": 36.804729,
+      "longitude": 22.851776
+    },
+    {
+      "name": "Μιχάλης",
+      "latitude": 37.938925,
+      "longitude": 23.735451
+    },
+    {
+      "name": "Μορφέας",
+      "latitude": 37.934869,
+      "longitude": 23.640382
+    },
+    {
+      "name": "Μορφή",
+      "latitude": 38.37661,
+      "longitude": 22.629414
+    },
+    {
+      "name": "Μουσες",
+      "latitude": 37.34976,
+      "longitude": 23.466038
+    },
+    {
+      "name": "Μπάκουρας",
+      "latitude": 39.635286,
+      "longitude": 22.415755
+    },
+    {
+      "name": "Μπάμπης",
+      "latitude": 38.032438,
+      "longitude": 23.750474
+    },
+    {
+      "name": "Μπαλατσος Θανασης",
+      "latitude": 38.914007,
+      "longitude": 22.616093
+    },
+    {
+      "name": "Μπαλκάμου Παρασκευή",
+      "latitude": 38.215735,
+      "longitude": 21.734645
+    },
+    {
+      "name": "ΜπαρμΠέρης",
+      "latitude": 40.6226,
+      "longitude": 22.440693
+    },
+    {
+      "name": "Μπαρμπέρικο",
+      "latitude": 38.237238,
+      "longitude": 21.736799
+    },
+    {
+      "name": "Μπαρμπέρικο",
+      "latitude": 39.636137,
+      "longitude": 22.420573
+    },
+    {
+      "name": "Μπαρμπέρικο",
+      "latitude": 40.629094,
+      "longitude": 22.949691
+    },
+    {
+      "name": "Μπαρμπερικο",
+      "latitude": 38.572859,
+      "longitude": 21.666615
+    },
+    {
+      "name": "Μπασινάς",
+      "latitude": 38.00725,
+      "longitude": 23.727998
+    },
+    {
+      "name": "μπικουτί",
+      "latitude": 38.243885,
+      "longitude": 21.735054
+    },
+    {
+      "name": "Μόνικα",
+      "latitude": 37.437997,
+      "longitude": 24.934132
+    },
+    {
+      "name": "Μόνικα",
+      "latitude": 40.648138,
+      "longitude": 22.948594
+    },
+    {
+      "name": "Νάνου Μαρία",
+      "latitude": 38.460826,
+      "longitude": 23.597372
+    },
+    {
+      "name": "Νάσος",
+      "latitude": 37.906916,
+      "longitude": 23.753423
+    },
+    {
+      "name": "Νάσος - Μαρία",
+      "latitude": 37.954937,
+      "longitude": 23.680499
+    },
+    {
+      "name": "Νάσσος Men's Hairclub",
+      "latitude": 38.253811,
+      "longitude": 23.694241
+    },
+    {
+      "name": "Νίκος",
+      "latitude": 37.938083,
+      "longitude": 22.92489
+    },
+    {
+      "name": "Νίκος",
+      "latitude": 37.940883,
+      "longitude": 23.642949
+    },
+    {
+      "name": "Νίκος",
+      "latitude": 39.36271,
+      "longitude": 22.947574
+    },
+    {
+      "name": "Νίνα",
+      "latitude": 41.074046,
+      "longitude": 24.241644
+    },
+    {
+      "name": "Νίτσα",
+      "latitude": 37.968208,
+      "longitude": 23.710088
+    },
+    {
+      "name": "Νανά",
+      "latitude": 37.984882,
+      "longitude": 23.73215
+    },
+    {
+      "name": "Νανα",
+      "latitude": 37.984699,
+      "longitude": 23.731922
+    },
+    {
+      "name": "Νατάσσα",
+      "latitude": 39.105529,
+      "longitude": 26.555142
+    },
+    {
+      "name": "Νεκτάριος",
+      "latitude": 36.804652,
+      "longitude": 22.852205
+    },
+    {
+      "name": "Νικόλ",
+      "latitude": 37.441331,
+      "longitude": 24.940437
+    },
+    {
+      "name": "Νικόλας",
+      "latitude": 37.957281,
+      "longitude": 23.734872
+    },
+    {
+      "name": "Ξένια",
+      "latitude": 37.998812,
+      "longitude": 23.726718
+    },
+    {
+      "name": "Ξανθή",
+      "latitude": 40.630435,
+      "longitude": 22.947762
+    },
+    {
+      "name": "Ξενια",
+      "latitude": 41.269449,
+      "longitude": 26.386335
+    },
+    {
+      "name": "ΞΕΝΟΦΩΝ ΚΟΜΜΩΣΕΙΣ",
+      "latitude": 40.631637,
+      "longitude": 22.946199
+    },
+    {
+      "name": "Ξενόπουλος",
+      "latitude": 37.443552,
+      "longitude": 24.942239
+    },
+    {
+      "name": "Ο Άλεξ",
+      "latitude": 38.0929,
+      "longitude": 23.688344
+    },
+    {
+      "name": "Ο Βασίλης",
+      "latitude": 38.01323,
+      "longitude": 23.797265
+    },
+    {
+      "name": "Ο Γιάννης",
+      "latitude": 37.932265,
+      "longitude": 23.699074
+    },
+    {
+      "name": "Ο Γιάννης",
+      "latitude": 39.36568,
+      "longitude": 21.920064
+    },
+    {
+      "name": "Ο Δημήτρης",
+      "latitude": 38.031854,
+      "longitude": 23.747772
+    },
+    {
+      "name": "Ο Θωμάς",
+      "latitude": 38.018509,
+      "longitude": 23.807041
+    },
+    {
+      "name": "Ο Ιάκωβος",
+      "latitude": 37.933597,
+      "longitude": 23.631548
+    },
+    {
+      "name": "Ο κοριάκος",
+      "latitude": 39.987961,
+      "longitude": 23.612837
+    },
+    {
+      "name": "Ο Κώστας",
+      "latitude": 39.33309,
+      "longitude": 26.310866
+    },
+    {
+      "name": "Ο Μιχάλης",
+      "latitude": 38.028131,
+      "longitude": 23.688036
+    },
+    {
+      "name": "Ο Τίμος",
+      "latitude": 37.996583,
+      "longitude": 23.726321
+    },
+    {
+      "name": "Ολυμπία & Ελένη",
+      "latitude": 40.611642,
+      "longitude": 22.973102
+    },
+    {
+      "name": "Πάνος",
+      "latitude": 37.979149,
+      "longitude": 23.633751
+    },
+    {
+      "name": "Πάρης Μαίρη",
+      "latitude": 39.107191,
+      "longitude": 26.555647
+    },
+    {
+      "name": "Πέγκυ",
+      "latitude": 37.935234,
+      "longitude": 23.641443
+    },
+    {
+      "name": "Πέννυ",
+      "latitude": 37.929144,
+      "longitude": 23.632743
+    },
+    {
+      "name": "Πέντε",
+      "latitude": 37.978349,
+      "longitude": 23.768585
+    },
+    {
+      "name": "Παγκάλου Ελένη",
+      "latitude": 35.191643,
+      "longitude": 25.717461
+    },
+    {
+      "name": "Παναγιώτης",
+      "latitude": 37.981469,
+      "longitude": 23.761405
+    },
+    {
+      "name": "Παναγιώτης",
+      "latitude": 38.078621,
+      "longitude": 23.704308
+    },
+    {
+      "name": "Παπαξενιδης Θεόδωρος - Barber Shop",
+      "latitude": 40.582672,
+      "longitude": 22.956638
+    },
+    {
+      "name": "Παρα Τρίχα",
+      "latitude": 37.973401,
+      "longitude": 23.713176
+    },
+    {
+      "name": "Παραδοσιακό Κουρείο Διαμαντάρας-Τερζής",
+      "latitude": 38.090209,
+      "longitude": 23.81854
+    },
+    {
+      "name": "Παύλος Δημητριάδης",
+      "latitude": 40.601433,
+      "longitude": 22.956742
+    },
+    {
+      "name": "Περί Ομορφιάς",
+      "latitude": 38.033099,
+      "longitude": 23.753125
+    },
+    {
+      "name": "Περικλής-Δημήτρης",
+      "latitude": 37.945085,
+      "longitude": 23.649911
+    },
+    {
+      "name": "ΠΟΥΛΙΔΑ ΟΛΓΑ",
+      "latitude": 38.238994,
+      "longitude": 21.728536
+    },
+    {
+      "name": "Πράσινο κομμωτήριο",
+      "latitude": 37.982908,
+      "longitude": 23.764769
+    },
+    {
+      "name": "Πριτση Αικατερινη",
+      "latitude": 39.503168,
+      "longitude": 20.264873
+    },
+    {
+      "name": "Ράνια",
+      "latitude": 39.367725,
+      "longitude": 26.17484
+    },
+    {
+      "name": "Ρέιζορ",
+      "latitude": 37.996943,
+      "longitude": 23.737685
+    },
+    {
+      "name": "Ρένα",
+      "latitude": 38.014468,
+      "longitude": 23.749254
+    },
+    {
+      "name": "Ρένα",
+      "latitude": 40.520234,
+      "longitude": 21.257204
+    },
+    {
+      "name": "Ρίτσα",
+      "latitude": 41.074933,
+      "longitude": 24.242915
+    },
+    {
+      "name": "Ροβέννα",
+      "latitude": 37.976644,
+      "longitude": 23.775267
+    },
+    {
+      "name": "Ρουλα",
+      "latitude": 40.670817,
+      "longitude": 22.803597
+    },
+    {
+      "name": "Ρούλα",
+      "latitude": 38.021679,
+      "longitude": 23.736279
+    },
+    {
+      "name": "Ρούλα",
+      "latitude": 38.048329,
+      "longitude": 24.321721
+    },
+    {
+      "name": "Σάββας",
+      "latitude": 40.640249,
+      "longitude": 22.940583
+    },
+    {
+      "name": "Σίμος",
+      "latitude": 37.944559,
+      "longitude": 23.651117
+    },
+    {
+      "name": "Σαρηγιαννης",
+      "latitude": 38.576774,
+      "longitude": 23.641692
+    },
+    {
+      "name": "Σβέτα",
+      "latitude": 37.965208,
+      "longitude": 23.725352
+    },
+    {
+      "name": "Σβερκοσηνιαρίσματα",
+      "latitude": 39.641551,
+      "longitude": 22.417672
+    },
+    {
+      "name": "Σοκράτης",
+      "latitude": 39.66295,
+      "longitude": 20.855776
+    },
+    {
+      "name": "Σοφία",
+      "latitude": 37.938757,
+      "longitude": 22.929605
+    },
+    {
+      "name": "Σοφία",
+      "latitude": 40.649769,
+      "longitude": 22.951301
+    },
+    {
+      "name": "Σοφία",
+      "latitude": 40.66835,
+      "longitude": 22.899394
+    },
+    {
+      "name": "Σπυρος",
+      "latitude": 37.940432,
+      "longitude": 22.932848
+    },
+    {
+      "name": "Στάθης",
+      "latitude": 37.976255,
+      "longitude": 23.760953
+    },
+    {
+      "name": "Στέλιος",
+      "latitude": 36.685528,
+      "longitude": 23.037479
+    },
+    {
+      "name": "Στέλιος",
+      "latitude": 39.555927,
+      "longitude": 21.769151
+    },
+    {
+      "name": "Στέλλα",
+      "latitude": 41.144713,
+      "longitude": 23.906496
+    },
+    {
+      "name": "Σταύρος",
+      "latitude": 38.01395,
+      "longitude": 23.816994
+    },
+    {
+      "name": "Σταύρος",
+      "latitude": 38.022179,
+      "longitude": 23.796029
+    },
+    {
+      "name": "Σταύρος Ματθαίος",
+      "latitude": 37.940734,
+      "longitude": 23.647382
+    },
+    {
+      "name": "Στουντιο Μπετυ",
+      "latitude": 39.362919,
+      "longitude": 21.929444
+    },
+    {
+      "name": "Στράτος",
+      "latitude": 39.106077,
+      "longitude": 26.55498
+    },
+    {
+      "name": "Σωτήρης",
+      "latitude": 37.940691,
+      "longitude": 23.646761
+    },
+    {
+      "name": "Σωτήρης",
+      "latitude": 37.972263,
+      "longitude": 23.769295
+    },
+    {
+      "name": "Σωτήρης",
+      "latitude": 40.939598,
+      "longitude": 24.407307
+    },
+    {
+      "name": "Σωτηρία",
+      "latitude": 40.609988,
+      "longitude": 23.099968
+    },
+    {
+      "name": "Σόφη",
+      "latitude": 39.309157,
+      "longitude": 26.215034
+    },
+    {
+      "name": "Σόφη",
+      "latitude": 40.660696,
+      "longitude": 22.931755
+    },
+    {
+      "name": "Τo κουρείον του Johnny",
+      "latitude": 40.521909,
+      "longitude": 21.26319
+    },
+    {
+      "name": "Τάκης",
+      "latitude": 38.024018,
+      "longitude": 23.73524
+    },
+    {
+      "name": "Τάσος",
+      "latitude": 37.957849,
+      "longitude": 23.710355
+    },
+    {
+      "name": "Τέλης Κίκερης",
+      "latitude": 37.988494,
+      "longitude": 23.746945
+    },
+    {
+      "name": "Τέλης Κικέρης",
+      "latitude": 38.000684,
+      "longitude": 23.734384
+    },
+    {
+      "name": "Τέλης Κικερης",
+      "latitude": 37.940648,
+      "longitude": 23.649885
+    },
+    {
+      "name": "Τέσσερις Εποχές",
+      "latitude": 37.994469,
+      "longitude": 23.73041
+    },
+    {
+      "name": "Τέχνη & Στυλ",
+      "latitude": 37.027449,
+      "longitude": 22.114464
+    },
+    {
+      "name": "Τέχνη & Στύλ",
+      "latitude": 37.481416,
+      "longitude": 21.649811
+    },
+    {
+      "name": "ΤΕΛΗΣ ΚΙΚΕΡΗΣ",
+      "latitude": 37.953895,
+      "longitude": 23.69938
+    },
+    {
+      "name": "ΤΕΛΗΣ ΚΙΚΕΡΗΣ",
+      "latitude": 38.054308,
+      "longitude": 23.808451
+    },
+    {
+      "name": "Τζούλι",
+      "latitude": 38.012492,
+      "longitude": 23.735097
+    },
+    {
+      "name": "Τζώρτζη",
+      "latitude": 37.908138,
+      "longitude": 23.752694
+    },
+    {
+      "name": "Το classic",
+      "latitude": 39.5027,
+      "longitude": 20.264617
+    },
+    {
+      "name": "Το βαφείο των Μαλλιών του Ζωρζ",
+      "latitude": 38.05592,
+      "longitude": 23.808074
+    },
+    {
+      "name": "Το κεντρί",
+      "latitude": 37.937569,
+      "longitude": 23.643475
+    },
+    {
+      "name": "Το Κλασσικόν Κουρείον",
+      "latitude": 39.634268,
+      "longitude": 22.418053
+    },
+    {
+      "name": "Το Κουρείο της Κόμησσας",
+      "latitude": 39.637243,
+      "longitude": 22.413832
+    },
+    {
+      "name": "Το κουρείο του Πάνου",
+      "latitude": 37.991295,
+      "longitude": 23.7481
+    },
+    {
+      "name": "Το κουρείον",
+      "latitude": 37.958608,
+      "longitude": 23.623869
+    },
+    {
+      "name": "Το κουρείον",
+      "latitude": 38.075159,
+      "longitude": 23.496424
+    },
+    {
+      "name": "Το Μαγικό Καπέλο",
+      "latitude": 37.98543,
+      "longitude": 23.738367
+    },
+    {
+      "name": "Το Μπαρμπέρικο",
+      "latitude": 35.514949,
+      "longitude": 24.041819
+    },
+    {
+      "name": "Το Μπαρμπεράκι",
+      "latitude": 40.572475,
+      "longitude": 22.956185
+    },
+    {
+      "name": "Το Σεσουάρ",
+      "latitude": 40.713939,
+      "longitude": 22.725737
+    },
+    {
+      "name": "Τουλ",
+      "latitude": 37.923417,
+      "longitude": 23.754982
+    },
+    {
+      "name": "ΤΡΙΧΟΚΟΠΤΕΙΟΝ (Κλαρομένος Βασίλειος)",
+      "latitude": 37.953696,
+      "longitude": 23.746578
+    },
+    {
+      "name": "Τριχομπερδέματα",
+      "latitude": 39.418669,
+      "longitude": 23.134819
+    },
+    {
+      "name": "Τσατσάρα",
+      "latitude": 35.188237,
+      "longitude": 25.716516
+    },
+    {
+      "name": "Τόλης",
+      "latitude": 37.969866,
+      "longitude": 23.707717
+    },
+    {
+      "name": "Τόνια",
+      "latitude": 39.633933,
+      "longitude": 22.428033
+    },
+    {
+      "name": "Φίλιππος",
+      "latitude": 40.661805,
+      "longitude": 22.93279
+    },
+    {
+      "name": "Φίλιππος The Barber",
+      "latitude": 40.66862,
+      "longitude": 22.908846
+    },
+    {
+      "name": "Φαραώ",
+      "latitude": 37.990447,
+      "longitude": 23.727196
+    },
+    {
+      "name": "Φωτεινή",
+      "latitude": 37.996676,
+      "longitude": 23.742949
+    },
+    {
+      "name": "Φώτης Μανιώτης",
+      "latitude": 38.020602,
+      "longitude": 23.735455
+    },
+    {
+      "name": "Χάιδω",
+      "latitude": 39.637418,
+      "longitude": 22.410253
+    },
+    {
+      "name": "Χάρης",
+      "latitude": 37.037386,
+      "longitude": 22.111845
+    },
+    {
+      "name": "Χάρης",
+      "latitude": 38.024288,
+      "longitude": 23.748762
+    },
+    {
+      "name": "Χάρης",
+      "latitude": 38.08973,
+      "longitude": 23.739481
+    },
+    {
+      "name": "Χαρά",
+      "latitude": 38.053448,
+      "longitude": 23.801645
+    },
+    {
+      "name": "Χαρούλα",
+      "latitude": 38.915109,
+      "longitude": 22.427357
+    },
+    {
+      "name": "ΧΑΪ malli",
+      "latitude": 40.649737,
+      "longitude": 22.950395
+    },
+    {
+      "name": "Χουρά Ρένα",
+      "latitude": 40.656858,
+      "longitude": 22.961732
+    },
+    {
+      "name": "Χρήστος",
+      "latitude": 37.964423,
+      "longitude": 23.626101
+    },
+    {
+      "name": "Χρήστος Δημήτρης",
+      "latitude": 41.14904,
+      "longitude": 24.148713
+    },
+    {
+      "name": "Χρήστος Σκόρδος",
+      "latitude": 39.622145,
+      "longitude": 19.917235
+    },
+    {
+      "name": "Χρηστος",
+      "latitude": 40.671613,
+      "longitude": 22.806124
+    },
+    {
+      "name": "Χριστίνα",
+      "latitude": 37.956716,
+      "longitude": 23.708527
+    },
+    {
+      "name": "Χριστίνα",
+      "latitude": 37.965014,
+      "longitude": 23.724208
+    },
+    {
+      "name": "Χριστίνα",
+      "latitude": 38.01155,
+      "longitude": 23.735066
+    },
+    {
+      "name": "Χριστίνα",
+      "latitude": 38.834404,
+      "longitude": 20.709606
+    },
+    {
+      "name": "Χριστίνα",
+      "latitude": 39.663512,
+      "longitude": 20.856722
+    },
+    {
+      "name": "Χρυσούλα Πετράκη",
+      "latitude": 37.859792,
+      "longitude": 23.75175
+    },
+    {
+      "name": "Χρυσό Γεράκι",
+      "latitude": 38.00129,
+      "longitude": 23.727465
+    },
+    {
+      "name": "Χρυσό ψαλίδι",
+      "latitude": 37.99814,
+      "longitude": 23.737988
+    },
+    {
+      "name": "Χρύσα",
+      "latitude": 40.250194,
+      "longitude": 23.248673
+    },
+    {
+      "name": "Χρώμα και στυλ μαλλιών",
+      "latitude": 37.947199,
+      "longitude": 23.746622
+    },
+    {
+      "name": "Χτένα Ψαλίδι",
+      "latitude": 40.605253,
+      "longitude": 22.961055
+    },
+    {
+      "name": "Χώροσ Κομμωτικήσ",
+      "latitude": 35.515641,
+      "longitude": 24.021581
+    },
+    {
+      "name": "Όλγα",
+      "latitude": 38.018651,
+      "longitude": 23.731631
+    },
+    {
+      "name": "💈BARBER SHOP (KOSTAS)💈",
+      "latitude": 39.666141,
+      "longitude": 22.394033
+    }
+  ],
+  "meta": {
+    "title": "Κομμωτήρια Ελλάδας - Δωρεάν λήψη",
+    "description": "Κομμωτήρια και κουρεία σε όλη την Ελλάδα από το OpenStreetMap. Hairdressers and barbershops across Greece. Περιέχει 1804 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κομμωτήρια Ελλάδας | ListBase",
+    "seo_description": "Λήψη Κομμωτήρια Ελλάδας — 1804 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1804 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

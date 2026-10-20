@@ -1,0 +1,100 @@
+{
+  "id": "el-kentrikis-makedonias-ethnikoi-drymoi",
+  "name": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Κεντρικής Μακεδονίας",
+  "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Κεντρικής Μακεδονίας",
+  "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Κεντρικής Μακεδονίας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Κεντρικής Μακεδονίας.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4121671",
+      "name_el": "Εθνικό Πάρκο Αξιού - Λουδία - Αλιάκμονα",
+      "name_en": "Axios-Loudias-Aliakmonas Delta National Park",
+      "latitude": 40.509713,
+      "longitude": 22.666263,
+      "established_year": 1971,
+      "area_ha": 337.79,
+      "region": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Πιερίας",
+      "municipality": "Δήμος Δέλτα",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A0%CE%AC%CF%81%CE%BA%CE%BF_%CE%94%CE%AD%CE%BB%CF%84%CE%B1_%CE%91%CE%BE%CE%B9%CE%BF%CF%8D"
+    }
+  ],
+  "meta": {
+    "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Κεντρικής Μακεδονίας - Δωρεάν λήψη",
+    "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Κεντρικής Μακεδονίας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Κεντρικής Μακεδονίας.) Περιέχει 1 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Κεντρικής Μακεδονίας | ListBase",
+    "seo_description": "Λήψη Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Κεντρικής Μακεδονίας — 1 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1 εγγραφές / 12 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

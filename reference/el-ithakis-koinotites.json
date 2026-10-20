@@ -1,0 +1,107 @@
+{
+  "id": "el-ithakis-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Ιθακης (8)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Ιθακης (8)",
+  "description": "Οι 8 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ιθακης (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "270403",
+      "name": "Ιθακης",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "270401",
+      "name": "Ανωγης",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "270402",
+      "name": "Εξωγης",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "270404",
+      "name": "Κιονιου",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "270405",
+      "name": "Λευκης",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "270406",
+      "name": "Περαχωριου",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "270407",
+      "name": "Πλατρειθια (Πλατηθρια)",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "270408",
+      "name": "Σταυρου",
+      "municipality": "Ιθακης",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Ιθακης (8) - Δωρεάν λήψη",
+    "description": "Οι 8 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ιθακης (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη. Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Ιθακης (8) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Ιθακης (8) — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

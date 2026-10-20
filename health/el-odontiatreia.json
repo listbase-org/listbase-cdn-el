@@ -1,0 +1,1076 @@
+{
+  "id": "el-odontiatreia",
+  "name": "Οδοντιατρεία Ελλάδας",
+  "title": "Οδοντιατρεία Ελλάδας",
+  "description": "Οδοντιατρεία σε όλη την Ελλάδα από το OpenStreetMap. Dental practices across Greece.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "321 Smile",
+      "latitude": 37.104734,
+      "longitude": 25.38103
+    },
+    {
+      "name": "Aesthetic Dental Clinic",
+      "latitude": 38.052487,
+      "longitude": 23.816462
+    },
+    {
+      "name": "Afendouli Dental Care",
+      "latitude": 38.369397,
+      "longitude": 26.133825
+    },
+    {
+      "name": "All Dental Care",
+      "latitude": 38.000549,
+      "longitude": 23.818236
+    },
+    {
+      "name": "ANDREAS ANDREOU",
+      "latitude": 35.522486,
+      "longitude": 23.848316
+    },
+    {
+      "name": "Anna",
+      "latitude": 38.47278,
+      "longitude": 23.513848
+    },
+    {
+      "name": "Attica Dental",
+      "latitude": 37.988138,
+      "longitude": 23.750978
+    },
+    {
+      "name": "Dental aesthetic",
+      "latitude": 37.948655,
+      "longitude": 23.738243
+    },
+    {
+      "name": "Dental Art Clinic",
+      "latitude": 39.637148,
+      "longitude": 22.423923
+    },
+    {
+      "name": "Dental Center",
+      "latitude": 37.938572,
+      "longitude": 22.937089
+    },
+    {
+      "name": "Dental Clinic",
+      "latitude": 37.988582,
+      "longitude": 23.748822
+    },
+    {
+      "name": "Dental Clinic",
+      "latitude": 38.013301,
+      "longitude": 23.817738
+    },
+    {
+      "name": "Dental Clinic",
+      "latitude": 39.285354,
+      "longitude": 20.399949
+    },
+    {
+      "name": "Dental Clinic Τριγώνης",
+      "latitude": 37.910171,
+      "longitude": 23.747307
+    },
+    {
+      "name": "Dental Family",
+      "latitude": 38.027542,
+      "longitude": 23.722548
+    },
+    {
+      "name": "Dental Lab",
+      "latitude": 40.573167,
+      "longitude": 22.954296
+    },
+    {
+      "name": "Dental Oasis Kids",
+      "latitude": 38.023338,
+      "longitude": 23.739258
+    },
+    {
+      "name": "Dentimed Clinic",
+      "latitude": 38.018968,
+      "longitude": 23.795925
+    },
+    {
+      "name": "Dentist Dr. Kachrimanis",
+      "latitude": 37.9935,
+      "longitude": 23.763623
+    },
+    {
+      "name": "Dentotech",
+      "latitude": 38.024218,
+      "longitude": 23.746642
+    },
+    {
+      "name": "Dr Αθανάσιος Γρέτσιας",
+      "latitude": 40.554414,
+      "longitude": 23.019155
+    },
+    {
+      "name": "Dr Παπαϊωάννου Στέργιος",
+      "latitude": 39.637425,
+      "longitude": 22.421842
+    },
+    {
+      "name": "Dr. Angelos Ploumpis - Dental Surgeon, DDS",
+      "latitude": 36.891321,
+      "longitude": 27.279287
+    },
+    {
+      "name": "Dr. Ανδρομάχη Η. Σπηλιοπούλου",
+      "latitude": 37.484314,
+      "longitude": 21.648219
+    },
+    {
+      "name": "Dr. Τηνιακος Ιωαννης",
+      "latitude": 38.048244,
+      "longitude": 24.321141
+    },
+    {
+      "name": "Elzbieta Malgorzata Derva",
+      "latitude": 37.992871,
+      "longitude": 23.729203
+    },
+    {
+      "name": "Evia Dental Care",
+      "latitude": 38.576743,
+      "longitude": 23.643975
+    },
+    {
+      "name": "Galaxidi smile",
+      "latitude": 38.37528,
+      "longitude": 22.384934
+    },
+    {
+      "name": "Gordana Rakovic",
+      "latitude": 40.602525,
+      "longitude": 22.968764
+    },
+    {
+      "name": "Ioannis Floros",
+      "latitude": 38.030453,
+      "longitude": 23.735916
+    },
+    {
+      "name": "just smile - Οδοντιατρείο Γεράσιμος Κρίθυμος",
+      "latitude": 40.603172,
+      "longitude": 22.969583
+    },
+    {
+      "name": "La Perla",
+      "latitude": 40.662543,
+      "longitude": 22.931269
+    },
+    {
+      "name": "Memodent",
+      "latitude": 37.985394,
+      "longitude": 23.730235
+    },
+    {
+      "name": "Mpaka Despina",
+      "latitude": 40.084661,
+      "longitude": 21.428905
+    },
+    {
+      "name": "Odontiatreio",
+      "latitude": 37.427057,
+      "longitude": 25.333708
+    },
+    {
+      "name": "Oδοντιατρείο",
+      "latitude": 37.95728,
+      "longitude": 23.631129
+    },
+    {
+      "name": "Papachristou",
+      "latitude": 37.995317,
+      "longitude": 23.778369
+    },
+    {
+      "name": "Pdental",
+      "latitude": 38.059702,
+      "longitude": 23.793593
+    },
+    {
+      "name": "PureSmile",
+      "latitude": 38.390226,
+      "longitude": 21.820653
+    },
+    {
+      "name": "Raptou-Kottaki",
+      "latitude": 37.791188,
+      "longitude": 26.704505
+    },
+    {
+      "name": "Scandinavian Dental Group",
+      "latitude": 40.543562,
+      "longitude": 22.985741
+    },
+    {
+      "name": "Smile",
+      "latitude": 38.499789,
+      "longitude": 24.110562
+    },
+    {
+      "name": "Smile esthetics",
+      "latitude": 38.07116,
+      "longitude": 23.812551
+    },
+    {
+      "name": "Smile Garden Dental Care",
+      "latitude": 38.0197,
+      "longitude": 23.737341
+    },
+    {
+      "name": "SmileClinic DentalCare",
+      "latitude": 40.710209,
+      "longitude": 22.929294
+    },
+    {
+      "name": "The Dental Hub",
+      "latitude": 38.036522,
+      "longitude": 23.738715
+    },
+    {
+      "name": "The Smile Designers",
+      "latitude": 40.589921,
+      "longitude": 22.954316
+    },
+    {
+      "name": "THEOCHARIS LYRATZAKIS",
+      "latitude": 35.338402,
+      "longitude": 25.131015
+    },
+    {
+      "name": "Tsanidis Smile Center",
+      "latitude": 41.115157,
+      "longitude": 25.407885
+    },
+    {
+      "name": "Tsipiras Dental Clinic",
+      "latitude": 38.063751,
+      "longitude": 23.755551
+    },
+    {
+      "name": "Α. Ματθαίου",
+      "latitude": 38.02841,
+      "longitude": 23.733174
+    },
+    {
+      "name": "Αγαπητοπούλου",
+      "latitude": 40.496597,
+      "longitude": 22.988671
+    },
+    {
+      "name": "Αγγελική Α. Ανθούλη",
+      "latitude": 38.029104,
+      "longitude": 23.733968
+    },
+    {
+      "name": "Αθ. Διαμαντίδης",
+      "latitude": 37.998856,
+      "longitude": 23.735457
+    },
+    {
+      "name": "Αθ. Σχιζάς",
+      "latitude": 38.013906,
+      "longitude": 23.82126
+    },
+    {
+      "name": "Αθανάσιος Δημητριάδης",
+      "latitude": 38.078208,
+      "longitude": 23.70508
+    },
+    {
+      "name": "Αθανάσιος Παλούκας",
+      "latitude": 37.967688,
+      "longitude": 23.711215
+    },
+    {
+      "name": "Ακτινες Χ",
+      "latitude": 38.574701,
+      "longitude": 21.667646
+    },
+    {
+      "name": "Αναστασία Χουρπουλιάδου",
+      "latitude": 40.599632,
+      "longitude": 22.964212
+    },
+    {
+      "name": "Αντώνης Σφαντός",
+      "latitude": 38.031768,
+      "longitude": 23.736382
+    },
+    {
+      "name": "Ανυφαντάκης Μυρ. Στυλιανός",
+      "latitude": 37.96289,
+      "longitude": 23.733992
+    },
+    {
+      "name": "Απόστολος Δ. Κοσμάς",
+      "latitude": 39.458448,
+      "longitude": 21.619063
+    },
+    {
+      "name": "Αρετή Τραγάρα",
+      "latitude": 38.034385,
+      "longitude": 23.737788
+    },
+    {
+      "name": "Αφροδίτη Κεσσίδη",
+      "latitude": 40.660612,
+      "longitude": 22.926743
+    },
+    {
+      "name": "Βασίλης Βουγιατζής",
+      "latitude": 40.600404,
+      "longitude": 22.956511
+    },
+    {
+      "name": "Βασιλικη Α. Φρουσιουνιωτη",
+      "latitude": 37.52095,
+      "longitude": 22.859512
+    },
+    {
+      "name": "Γ. Κορκονικητας",
+      "latitude": 38.799213,
+      "longitude": 23.477416
+    },
+    {
+      "name": "Γαλανάκη",
+      "latitude": 37.93098,
+      "longitude": 23.753821
+    },
+    {
+      "name": "ΓΕΩΡΓΙΟΣ ΑΝΤ.ΚΕΦΑΛΟΥΚΟΣ",
+      "latitude": 35.339944,
+      "longitude": 25.15757
+    },
+    {
+      "name": "Γεώργιος Ελ. Γαρυφαλάκης",
+      "latitude": 35.370228,
+      "longitude": 24.700162
+    },
+    {
+      "name": "Γεώργιος Σούκας",
+      "latitude": 37.950335,
+      "longitude": 23.737399
+    },
+    {
+      "name": "Γεώργιος Στυλιανός",
+      "latitude": 38.018292,
+      "longitude": 23.808256
+    },
+    {
+      "name": "Δήμα Παναγιώτα",
+      "latitude": 37.632925,
+      "longitude": 22.727176
+    },
+    {
+      "name": "Δαυρής",
+      "latitude": 38.37551,
+      "longitude": 23.632798
+    },
+    {
+      "name": "ΔΗΜ. ΒΡΕΤΤΟΣ",
+      "latitude": 37.989633,
+      "longitude": 23.756331
+    },
+    {
+      "name": "Δημήτρης Χιώτος",
+      "latitude": 38.01512,
+      "longitude": 23.816992
+    },
+    {
+      "name": "Δημήτριος Κυριακόπουλος",
+      "latitude": 37.917741,
+      "longitude": 23.734739
+    },
+    {
+      "name": "Δρ. ΔΗΜΗΤΡΙΑΔΗΣ ΟΔΟΝΤΙΑΤΡΟΣ",
+      "latitude": 40.600668,
+      "longitude": 22.953715
+    },
+    {
+      "name": "Δρακάκης",
+      "latitude": 35.204719,
+      "longitude": 26.105784
+    },
+    {
+      "name": "Δρόσος",
+      "latitude": 37.932397,
+      "longitude": 23.64359
+    },
+    {
+      "name": "Ε. Νικολετοπούλου",
+      "latitude": 37.958,
+      "longitude": 23.742962
+    },
+    {
+      "name": "Ελένη Γεροντάρα",
+      "latitude": 39.878211,
+      "longitude": 25.061235
+    },
+    {
+      "name": "Ελίνα Σουργκούνη",
+      "latitude": 40.472985,
+      "longitude": 23.092361
+    },
+    {
+      "name": "Ελισάβετ Πρέκα",
+      "latitude": 38.007439,
+      "longitude": 23.820224
+    },
+    {
+      "name": "Ευγ. Ι. Καρπαδάκη",
+      "latitude": 38.028651,
+      "longitude": 23.722691
+    },
+    {
+      "name": "Εφη Παπαϊωάννου",
+      "latitude": 37.932248,
+      "longitude": 23.72804
+    },
+    {
+      "name": "Η ορθοδοντικός σας στην Καλαμαριά",
+      "latitude": 40.580952,
+      "longitude": 22.95178
+    },
+    {
+      "name": "Ηλίας Σμαραγδάς",
+      "latitude": 37.991393,
+      "longitude": 23.76716
+    },
+    {
+      "name": "Ηλιόπουλος Ανδρέας",
+      "latitude": 38.240938,
+      "longitude": 21.728642
+    },
+    {
+      "name": "Θεοδοσίου",
+      "latitude": 37.946089,
+      "longitude": 23.713324
+    },
+    {
+      "name": "Ιωάννα Λαγανά",
+      "latitude": 38.000812,
+      "longitude": 23.787623
+    },
+    {
+      "name": "Ιωάννης Γ. Κόλλιας",
+      "latitude": 38.029245,
+      "longitude": 23.734572
+    },
+    {
+      "name": "Ιωάννης Κοντός",
+      "latitude": 37.930356,
+      "longitude": 23.635616
+    },
+    {
+      "name": "Ιωάννης Μπαλλής",
+      "latitude": 37.972754,
+      "longitude": 23.750691
+    },
+    {
+      "name": "Ιωάννης Παπαδόπουλος",
+      "latitude": 37.94867,
+      "longitude": 23.738262
+    },
+    {
+      "name": "Κ.Τσαμη",
+      "latitude": 37.976341,
+      "longitude": 23.753411
+    },
+    {
+      "name": "Κέντρο Ολοκληρωμένης Οδοντικής Φροντίδας",
+      "latitude": 38.041732,
+      "longitude": 23.75471
+    },
+    {
+      "name": "Καιμακαμίδου-@Οδοντίατρος",
+      "latitude": 40.618964,
+      "longitude": 22.962992
+    },
+    {
+      "name": "Κακαλέτρη Ζαφειρία",
+      "latitude": 37.073534,
+      "longitude": 22.427693
+    },
+    {
+      "name": "Καλλιόπη Κυριακάκη",
+      "latitude": 37.960083,
+      "longitude": 23.736379
+    },
+    {
+      "name": "Κανετίδου",
+      "latitude": 40.6727,
+      "longitude": 22.934853
+    },
+    {
+      "name": "Κιτσοπούλου",
+      "latitude": 38.040052,
+      "longitude": 23.755499
+    },
+    {
+      "name": "Κληρονόμου Ιωάννα",
+      "latitude": 37.938152,
+      "longitude": 23.643907
+    },
+    {
+      "name": "Κονδουλάκη Μαρινέλα",
+      "latitude": 35.053818,
+      "longitude": 25.408512
+    },
+    {
+      "name": "Κοντόπουλος",
+      "latitude": 38.015081,
+      "longitude": 23.817009
+    },
+    {
+      "name": "Κουσουλάκου Δέσποινα",
+      "latitude": 38.022008,
+      "longitude": 23.797296
+    },
+    {
+      "name": "Κουταλίδου",
+      "latitude": 40.654625,
+      "longitude": 22.923666
+    },
+    {
+      "name": "Κων. Γκουρμπάτσης",
+      "latitude": 37.520201,
+      "longitude": 22.858843
+    },
+    {
+      "name": "Κωνσταντίνος Ακριτίδης",
+      "latitude": 38.090528,
+      "longitude": 23.707631
+    },
+    {
+      "name": "Κωνσταντίνος Γ. Βελαετης",
+      "latitude": 39.707365,
+      "longitude": 21.622683
+    },
+    {
+      "name": "Κωνσταντίνος Μασούρας",
+      "latitude": 38.021893,
+      "longitude": 23.793917
+    },
+    {
+      "name": "Κωνσταντίνος Πάσχος",
+      "latitude": 37.956696,
+      "longitude": 23.73615
+    },
+    {
+      "name": "Κώστας Ι. Σπύρος",
+      "latitude": 37.947288,
+      "longitude": 23.746453
+    },
+    {
+      "name": "Λεβεντακης Α. Ιωαννης",
+      "latitude": 35.511375,
+      "longitude": 24.016982
+    },
+    {
+      "name": "ΛΙΩΛΙΑΚΗΣ ΑΝΔΡΕΑΣ",
+      "latitude": 37.992054,
+      "longitude": 23.683519
+    },
+    {
+      "name": "Μaria Karamouza dental surgery",
+      "latitude": 38.346189,
+      "longitude": 23.580344
+    },
+    {
+      "name": "Μάνος Ιακώβου",
+      "latitude": 38.01049,
+      "longitude": 23.812301
+    },
+    {
+      "name": "Μαντάλιας Δημήτρης",
+      "latitude": 38.015099,
+      "longitude": 23.816974
+    },
+    {
+      "name": "Μαντζούφας Μιχαήλ",
+      "latitude": 40.661998,
+      "longitude": 22.92828
+    },
+    {
+      "name": "Μαρία Καρυδάκη",
+      "latitude": 38.021918,
+      "longitude": 23.757597
+    },
+    {
+      "name": "Μερεντίτης Λάμπρος",
+      "latitude": 37.980114,
+      "longitude": 23.637568
+    },
+    {
+      "name": "Μιχάλης Χαρ. Κρεμμυδάς",
+      "latitude": 38.036157,
+      "longitude": 23.739708
+    },
+    {
+      "name": "Μιχαλης Παντελεων",
+      "latitude": 38.57725,
+      "longitude": 23.642126
+    },
+    {
+      "name": "Μπάκος Νικόλαος",
+      "latitude": 38.024579,
+      "longitude": 23.750249
+    },
+    {
+      "name": "Μπαμπης Τυπαλδος",
+      "latitude": 38.027606,
+      "longitude": 23.747241
+    },
+    {
+      "name": "Μπισύλλας Άγγελος",
+      "latitude": 36.744255,
+      "longitude": 24.42465
+    },
+    {
+      "name": "Μωυσιάδης Παναγιώτης",
+      "latitude": 37.991378,
+      "longitude": 23.76768
+    },
+    {
+      "name": "Νάνου Μαντζικοπούλου",
+      "latitude": 38.063244,
+      "longitude": 23.794978
+    },
+    {
+      "name": "Νίκη Α. Ράδου",
+      "latitude": 38.013363,
+      "longitude": 23.818645
+    },
+    {
+      "name": "Νικολαος Μ. Τσαμοπουλος",
+      "latitude": 38.507954,
+      "longitude": 24.109047
+    },
+    {
+      "name": "Νικόλαος Λεφάκης",
+      "latitude": 38.03563,
+      "longitude": 23.754487
+    },
+    {
+      "name": "Νισήρη Αθηνά",
+      "latitude": 40.569447,
+      "longitude": 22.959533
+    },
+    {
+      "name": "Ξενίδης",
+      "latitude": 38.039387,
+      "longitude": 23.755687
+    },
+    {
+      "name": "Ξηνταρόπουλος Λεόντιος",
+      "latitude": 37.631278,
+      "longitude": 22.726709
+    },
+    {
+      "name": "Οδοντίατρος Κώστας Χατζής",
+      "latitude": 40.691406,
+      "longitude": 23.003017
+    },
+    {
+      "name": "Οδοντίατρος Μπάρμπας Γεώργιος",
+      "latitude": 40.655141,
+      "longitude": 22.923826
+    },
+    {
+      "name": "Οδοντιατρείο",
+      "latitude": 35.49481,
+      "longitude": 23.654211
+    },
+    {
+      "name": "Οδοντιατρείο",
+      "latitude": 40.608355,
+      "longitude": 23.100642
+    },
+    {
+      "name": "Οδοντιατρείο",
+      "latitude": 40.994485,
+      "longitude": 22.571691
+    },
+    {
+      "name": "Οδοντιατρείο Αλέξανδρου Τολούμη",
+      "latitude": 39.338408,
+      "longitude": 22.095102
+    },
+    {
+      "name": "Οδοντιατρείο Νικηφόρου",
+      "latitude": 39.364981,
+      "longitude": 22.940393
+    },
+    {
+      "name": "Οδοντιατρείο Φρουράς Αθήνας",
+      "latitude": 37.987485,
+      "longitude": 23.772037
+    },
+    {
+      "name": "ΟΔΟΝΤΙΑΤΡΕΙΟ",
+      "latitude": 35.129603,
+      "longitude": 24.904218
+    },
+    {
+      "name": "Οδοντιατρειο",
+      "latitude": 36.390106,
+      "longitude": 25.46317
+    },
+    {
+      "name": "Οδοντιατρειο",
+      "latitude": 36.408899,
+      "longitude": 25.443821
+    },
+    {
+      "name": "ΟΔΟΝΤΙΑΤΡΕΙΟ",
+      "latitude": 37.103668,
+      "longitude": 25.376306
+    },
+    {
+      "name": "ΟΔΟΝΤΙΑΤΡΕΙΟ",
+      "latitude": 40.72529,
+      "longitude": 22.913528
+    },
+    {
+      "name": "Οδοντιατρειο - Dental Clinic",
+      "latitude": 35.284148,
+      "longitude": 25.464063
+    },
+    {
+      "name": "Οδοντιατρική κλινική Lyro Dental Clinic",
+      "latitude": 35.329447,
+      "longitude": 25.119383
+    },
+    {
+      "name": "Οδοντιατρική κλινική Πετρογιαννη",
+      "latitude": 38.008252,
+      "longitude": 23.783442
+    },
+    {
+      "name": "Οδοντιατρική Φροντίδα Πάτρα Νούσης - Ξενάκη",
+      "latitude": 38.23882,
+      "longitude": 21.728224
+    },
+    {
+      "name": "Οδοντιατρος",
+      "latitude": 40.664224,
+      "longitude": 23.699278
+    },
+    {
+      "name": "Οδοντοτεχνικό Εργαστήριο",
+      "latitude": 38.042188,
+      "longitude": 23.755362
+    },
+    {
+      "name": "Οδοντοτεχνικό εργαστήριο Αναστάσιος Κων. Πολυχρόνης",
+      "latitude": 37.936503,
+      "longitude": 23.754552
+    },
+    {
+      "name": "Π. Η. Αλμπανόπουλος",
+      "latitude": 38.003132,
+      "longitude": 23.723423
+    },
+    {
+      "name": "Π. Μωραΐτη - Κ. Κρικλάνη",
+      "latitude": 37.989567,
+      "longitude": 23.74594
+    },
+    {
+      "name": "Πέτρος Β. Μιχαλόπουλος",
+      "latitude": 38.027978,
+      "longitude": 23.722768
+    },
+    {
+      "name": "Παιδοδοντιατρική Φροντίδα",
+      "latitude": 38.015493,
+      "longitude": 23.789334
+    },
+    {
+      "name": "Παιδοοδοντίατρος Γιαννούλη Αθηνά",
+      "latitude": 36.431262,
+      "longitude": 28.222286
+    },
+    {
+      "name": "Παιδοοδοντίατρος Χρυσόπουλος Κοσμάς",
+      "latitude": 36.429788,
+      "longitude": 28.216176
+    },
+    {
+      "name": "Παναγιώτα Μητώση",
+      "latitude": 40.396646,
+      "longitude": 23.879097
+    },
+    {
+      "name": "Παναγιώτης Γ. Θυμόπουλος",
+      "latitude": 37.441874,
+      "longitude": 21.770912
+    },
+    {
+      "name": "Παναγιώτης Γκρίτζαλης",
+      "latitude": 37.96005,
+      "longitude": 23.735072
+    },
+    {
+      "name": "Παναγιώτης Γρ. Συρράκος",
+      "latitude": 37.939263,
+      "longitude": 23.739012
+    },
+    {
+      "name": "Παντελής Σπυρόπουλος DDS",
+      "latitude": 38.022008,
+      "longitude": 23.796425
+    },
+    {
+      "name": "Παρασκευή Μόσχου",
+      "latitude": 40.673322,
+      "longitude": 22.80153
+    },
+    {
+      "name": "Παρασκευαΐδης Χαράλαμπος",
+      "latitude": 40.270241,
+      "longitude": 22.529419
+    },
+    {
+      "name": "Πεππας Θανασης",
+      "latitude": 38.076594,
+      "longitude": 23.495662
+    },
+    {
+      "name": "Πετρίχος Χαράλαμπος",
+      "latitude": 40.894716,
+      "longitude": 26.171282
+    },
+    {
+      "name": "Πολύζου Μαρία",
+      "latitude": 38.048906,
+      "longitude": 23.800744
+    },
+    {
+      "name": "Ποταμίνου",
+      "latitude": 37.808329,
+      "longitude": 23.979415
+    },
+    {
+      "name": "Πωγωνίδου Βικτωρία",
+      "latitude": 40.271131,
+      "longitude": 22.505939
+    },
+    {
+      "name": "Πόπη Αλεξάνδρου",
+      "latitude": 38.046212,
+      "longitude": 23.752946
+    },
+    {
+      "name": "Πόπη Πρωτόπαπα",
+      "latitude": 37.931507,
+      "longitude": 23.636431
+    },
+    {
+      "name": "Σακαρέλλος Dental Imaging",
+      "latitude": 37.980735,
+      "longitude": 23.755236
+    },
+    {
+      "name": "Σκέντζος Βασίλειος",
+      "latitude": 38.20263,
+      "longitude": 21.70596
+    },
+    {
+      "name": "Σμαράγδα Ρούγγου",
+      "latitude": 39.036919,
+      "longitude": 26.455908
+    },
+    {
+      "name": "Σοφία Βασιλαρά",
+      "latitude": 37.972936,
+      "longitude": 23.750747
+    },
+    {
+      "name": "Σπύρος Καρατζέας",
+      "latitude": 37.043108,
+      "longitude": 22.111097
+    },
+    {
+      "name": "Στέλα Παπανάκου Παιδοδοντίατρος",
+      "latitude": 38.013367,
+      "longitude": 23.818676
+    },
+    {
+      "name": "Σταυρούλα Ζώρζου",
+      "latitude": 37.962902,
+      "longitude": 23.622173
+    },
+    {
+      "name": "Σταύρος Ντόκολας – Οδοντίατρος",
+      "latitude": 38.044127,
+      "longitude": 23.543714
+    },
+    {
+      "name": "Συρόγιαννη Ελένη",
+      "latitude": 38.277458,
+      "longitude": 23.587914
+    },
+    {
+      "name": "Σωτήριος Βρεττός DDS, Msc",
+      "latitude": 38.013262,
+      "longitude": 23.818282
+    },
+    {
+      "name": "Σύγχρονη Οδοντιατρική Αγωγή",
+      "latitude": 38.034616,
+      "longitude": 23.739672
+    },
+    {
+      "name": "Τ. Μηνιοπούλου",
+      "latitude": 37.714448,
+      "longitude": 24.054296
+    },
+    {
+      "name": "Τάνουλας",
+      "latitude": 40.467503,
+      "longitude": 22.969875
+    },
+    {
+      "name": "Τέγος",
+      "latitude": 40.566141,
+      "longitude": 22.589633
+    },
+    {
+      "name": "Τζήμας Ελευθέριος",
+      "latitude": 38.010186,
+      "longitude": 23.73879
+    },
+    {
+      "name": "Τζαγκαράκη Έλλη",
+      "latitude": 37.966688,
+      "longitude": 23.7105
+    },
+    {
+      "name": "Τογιοπούλου Κ.",
+      "latitude": 38.031458,
+      "longitude": 23.710964
+    },
+    {
+      "name": "Τσιγκούνης Ιωάννης",
+      "latitude": 38.028115,
+      "longitude": 23.719157
+    },
+    {
+      "name": "Τσικρίκου Ελένη",
+      "latitude": 38.043637,
+      "longitude": 23.75592
+    },
+    {
+      "name": "Φακίτσας - Στοματική και Γναθοπροσωπική Χειρουργική",
+      "latitude": 38.028511,
+      "longitude": 23.791564
+    },
+    {
+      "name": "Φαρούχ Α.",
+      "latitude": 37.990225,
+      "longitude": 23.739525
+    },
+    {
+      "name": "Φλώρα Κουζή",
+      "latitude": 37.040059,
+      "longitude": 22.111074
+    },
+    {
+      "name": "Φωτεινη Σ. Ταψη",
+      "latitude": 38.576766,
+      "longitude": 23.641841
+    },
+    {
+      "name": "Χαρ. Π. Κουζής",
+      "latitude": 37.040038,
+      "longitude": 22.111071
+    },
+    {
+      "name": "Χαρά Παρασκευοπούλου",
+      "latitude": 38.004929,
+      "longitude": 23.823088
+    },
+    {
+      "name": "Χαράλαμπος Ι. Τσιρακίδης",
+      "latitude": 38.028906,
+      "longitude": 23.732005
+    },
+    {
+      "name": "Χαρίτου",
+      "latitude": 40.650747,
+      "longitude": 22.938907
+    },
+    {
+      "name": "Χατζόπουλος Γεώργιος",
+      "latitude": 40.651268,
+      "longitude": 22.922746
+    },
+    {
+      "name": "Χρήστος Φωτόπουλος",
+      "latitude": 38.027588,
+      "longitude": 23.732926
+    },
+    {
+      "name": "Χριστίνα Ι. Βροχίδου",
+      "latitude": 38.040688,
+      "longitude": 23.750429
+    },
+    {
+      "name": "Χριστακούδη Δήμητρα",
+      "latitude": 40.593185,
+      "longitude": 22.950198
+    },
+    {
+      "name": "Χρυσοχόου",
+      "latitude": 40.656908,
+      "longitude": 22.92462
+    },
+    {
+      "name": "Χόρτη Αικατερίνη",
+      "latitude": 37.963512,
+      "longitude": 23.730581
+    }
+  ],
+  "meta": {
+    "title": "Οδοντιατρεία Ελλάδας - Δωρεάν λήψη",
+    "description": "Οδοντιατρεία σε όλη την Ελλάδα από το OpenStreetMap. Dental practices across Greece. Περιέχει 207 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Οδοντιατρεία Ελλάδας | ListBase",
+    "seo_description": "Λήψη Οδοντιατρεία Ελλάδας — 207 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 207 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,744 @@
+{
+  "id": "el-attikis-astynomika-tmimata",
+  "name": "Αστυνομικά τμήματα — Περιφέρεια Αττικής",
+  "title": "Αστυνομικά τμήματα — Περιφέρεια Αττικής",
+  "description": "Σημεία αστυνομικών τμημάτων και σταθμών στην Περιφέρεια Αττικής με ελληνική ονομασία και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository. (Police station locations in Attica.)",
+  "category": "society",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 99,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 445,
+      "name": "Α.Τ. Νέας Φιλαδέλφειας",
+      "name_en": "",
+      "latitude": 38.0403823,
+      "longitude": 23.7381447
+    },
+    {
+      "source_id": 651,
+      "name": "Διεύθυνση Αστυνομικών Επιχειρήσεων Αττικής",
+      "name_en": "",
+      "latitude": 37.9709306,
+      "longitude": 23.7550348
+    },
+    {
+      "source_id": 801,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8631771,
+      "longitude": 23.7514301
+    },
+    {
+      "source_id": 833,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.2574329,
+      "longitude": 23.7501625
+    },
+    {
+      "source_id": 883,
+      "name": "Α.Τ. Αχαρνών",
+      "name_en": "",
+      "latitude": 38.0882983,
+      "longitude": 23.7480123
+    },
+    {
+      "source_id": 930,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8885335,
+      "longitude": 23.74191
+    },
+    {
+      "source_id": 1019,
+      "name": "Λιμεναρχείο Πόρτο Ράφτη",
+      "name_en": "",
+      "latitude": 37.8863682,
+      "longitude": 24.0155965
+    },
+    {
+      "source_id": 1106,
+      "name": "Α.Τ. Μελισσίων",
+      "name_en": "",
+      "latitude": 38.0578705,
+      "longitude": 23.8356479
+    },
+    {
+      "source_id": 1637,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0750069,
+      "longitude": 23.5050477
+    },
+    {
+      "source_id": 1829,
+      "name": "Αστυνομικό Τμήμα Αγίου Στεφάνου",
+      "name_en": "",
+      "latitude": 38.1371321,
+      "longitude": 23.85663
+    },
+    {
+      "source_id": 1904,
+      "name": "Γενική Αστυνομική Διεύθυνση Αττικής",
+      "name_en": "General Police Directorate of Attica",
+      "latitude": 37.9879516,
+      "longitude": 23.7561911
+    },
+    {
+      "source_id": 1952,
+      "name": "Ασφάλεια Ολυμπιακού Χωριού",
+      "name_en": "Olympic Village's Police Department",
+      "latitude": 38.1081217,
+      "longitude": 23.767169
+    },
+    {
+      "source_id": 1976,
+      "name": "Α Τμήμα Τροχαίας Δυτικής Αττικής",
+      "name_en": "",
+      "latitude": 37.9995874,
+      "longitude": 23.6955954
+    },
+    {
+      "source_id": 2101,
+      "name": "Διεύθυνση Αλλοδαπών Αττικής",
+      "name_en": "Aliens Division of Attica",
+      "latitude": 37.977248,
+      "longitude": 23.6877635
+    },
+    {
+      "source_id": 2140,
+      "name": "Διεύθυνση Εσωτερικών Υποθέσεων",
+      "name_en": "",
+      "latitude": 38.0291964,
+      "longitude": 23.7906102
+    },
+    {
+      "source_id": 2504,
+      "name": "ΛΑ Αστυνομικό Τμήμα Ζωγράφου",
+      "name_en": "Zografou Police Department",
+      "latitude": 37.978207,
+      "longitude": 23.773734
+    },
+    {
+      "source_id": 2821,
+      "name": "Αστυνομικό Τμήμα Χαλανδρίου",
+      "name_en": "",
+      "latitude": 38.0200892,
+      "longitude": 23.8041282
+    },
+    {
+      "source_id": 3146,
+      "name": "Αστυνομικό Τμήμα Αμαρουσίου",
+      "name_en": "",
+      "latitude": 38.0318296,
+      "longitude": 23.7891426
+    },
+    {
+      "source_id": 3163,
+      "name": "Αστυνομικό Τμήμα Πεντέλης",
+      "name_en": "",
+      "latitude": 38.0543889,
+      "longitude": 23.8691228
+    },
+    {
+      "source_id": 3216,
+      "name": "Τμήμα Τροχαίας Πειραιά",
+      "name_en": "",
+      "latitude": 37.9487886,
+      "longitude": 23.6549866
+    },
+    {
+      "source_id": 3330,
+      "name": "Αστυνομικό Τμήμα Ομονοίας",
+      "name_en": "",
+      "latitude": 37.9858136,
+      "longitude": 23.7278033
+    },
+    {
+      "source_id": 3421,
+      "name": "Διεύθυνση Τροχαίας Αθηνών",
+      "name_en": "",
+      "latitude": 37.9877522,
+      "longitude": 23.7203642
+    },
+    {
+      "source_id": 3481,
+      "name": "Σκοπιά Όρχου",
+      "name_en": "",
+      "latitude": 37.9536827,
+      "longitude": 23.6434791
+    },
+    {
+      "source_id": 3495,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.008057,
+      "longitude": 23.8592259
+    },
+    {
+      "source_id": 3506,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9860841,
+      "longitude": 23.6801253
+    },
+    {
+      "source_id": 3656,
+      "name": "Αστυνομικό Τμήμα Κυψέλης",
+      "name_en": "",
+      "latitude": 38.0012492,
+      "longitude": 23.7343356
+    },
+    {
+      "source_id": 3913,
+      "name": "ΑΤ Γαλατσίου",
+      "name_en": "",
+      "latitude": 38.0142591,
+      "longitude": 23.7542704
+    },
+    {
+      "source_id": 4036,
+      "name": "Αστυνομικό Τμήμα Πατησίων",
+      "name_en": "",
+      "latitude": 38.0171081,
+      "longitude": 23.7391351
+    },
+    {
+      "source_id": 4228,
+      "name": "Αστυνομικό Τμήμα Συντάγματος",
+      "name_en": "",
+      "latitude": 37.9721602,
+      "longitude": 23.7419699
+    },
+    {
+      "source_id": 4362,
+      "name": "Αστυνομία Λαυρίου",
+      "name_en": "",
+      "latitude": 37.7153287,
+      "longitude": 24.0570306
+    },
+    {
+      "source_id": 4855,
+      "name": "Αστυνομικό Τμήμα Κολωνού",
+      "name_en": "Police Department at Kolonos",
+      "latitude": 38.0002578,
+      "longitude": 23.7175746
+    },
+    {
+      "source_id": 4917,
+      "name": "Αστυνομικό Τμήμα Παλαιού Φαλήρου",
+      "name_en": "",
+      "latitude": 37.9207854,
+      "longitude": 23.7003029
+    },
+    {
+      "source_id": 4936,
+      "name": "3o Τμήμα Τροχαίας ΒορειοΑνατολικής Αττικής",
+      "name_en": "",
+      "latitude": 38.0569516,
+      "longitude": 23.7495396
+    },
+    {
+      "source_id": 5006,
+      "name": "Αστυνομικό Τμήμα Κερατσινίου-Δραπετσώνας",
+      "name_en": "",
+      "latitude": 37.9505428,
+      "longitude": 23.6331657
+    },
+    {
+      "source_id": 5314,
+      "name": "Αστυνομικό Τμήμα Κηφησιάς",
+      "name_en": "",
+      "latitude": 38.0747027,
+      "longitude": 23.8131725
+    },
+    {
+      "source_id": 5406,
+      "name": "Αστυνομικό Τμήμα Βριλησσίων",
+      "name_en": "Vrilissia Police Station",
+      "latitude": 38.0362588,
+      "longitude": 23.8282731
+    },
+    {
+      "source_id": 5433,
+      "name": "Αστυνομικό Τμήμα Σαλαμίνας",
+      "name_en": "",
+      "latitude": 37.9663668,
+      "longitude": 23.4907536
+    },
+    {
+      "source_id": 5445,
+      "name": "Αστ/κό Τμήμα Ν.Ιωνίας - Τμήμα Ασφαλείας Ν. Ιωνίας",
+      "name_en": "",
+      "latitude": 38.0322446,
+      "longitude": 23.7533553
+    },
+    {
+      "source_id": 5852,
+      "name": "Αστυνομικός Σταθμός φρουράς Τατοϊου",
+      "name_en": "",
+      "latitude": 38.1575078,
+      "longitude": 23.7964081
+    },
+    {
+      "source_id": 6151,
+      "name": "Αστυνομικό Τμήμα Αγίας Παρασκευής",
+      "name_en": "",
+      "latitude": 38.0165156,
+      "longitude": 23.8214845
+    },
+    {
+      "source_id": 6157,
+      "name": "Αστυνομικό Τμήμα Βύρωνα",
+      "name_en": "",
+      "latitude": 37.9581756,
+      "longitude": 23.7599084
+    },
+    {
+      "source_id": 6162,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0396726,
+      "longitude": 23.7463931
+    },
+    {
+      "source_id": 6458,
+      "name": "Αστυνομικό Τμήμα Νέας Σμύρνης",
+      "name_en": "",
+      "latitude": 37.9463428,
+      "longitude": 23.7055756
+    },
+    {
+      "source_id": 6483,
+      "name": "ΑΤ Νέας Μάκρης",
+      "name_en": "",
+      "latitude": 38.0875863,
+      "longitude": 23.975138
+    },
+    {
+      "source_id": 6927,
+      "name": "Αστυνομικό Τμήμα Ωρωπού",
+      "name_en": "",
+      "latitude": 38.3238365,
+      "longitude": 23.774508
+    },
+    {
+      "source_id": 7014,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.3520775,
+      "longitude": 23.4668158
+    },
+    {
+      "source_id": 7030,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0924471,
+      "longitude": 23.7964866
+    },
+    {
+      "source_id": 7443,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9707725,
+      "longitude": 23.7481068
+    },
+    {
+      "source_id": 7627,
+      "name": "Τ. Α. Κερατσινίου",
+      "name_en": "",
+      "latitude": 37.9684909,
+      "longitude": 23.6187057
+    },
+    {
+      "source_id": 7698,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9197788,
+      "longitude": 23.9306599
+    },
+    {
+      "source_id": 7699,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9194954,
+      "longitude": 23.9309358
+    },
+    {
+      "source_id": 7965,
+      "name": "Αστυνομικό Τμήμα Δάφνης - Υμηττού",
+      "name_en": "",
+      "latitude": 37.9475257,
+      "longitude": 23.7347833
+    },
+    {
+      "source_id": 8072,
+      "name": "Αστυνομικό Τμήμα Αγίου Παντελεήμονα",
+      "name_en": "Police Department at Aghios Panteleimonas",
+      "latitude": 37.9961576,
+      "longitude": 23.7253492
+    },
+    {
+      "source_id": 8086,
+      "name": "ΑΣΤΥΝΟΜΙΚΟ ΤΜΗΜΑ ΜΕΓΑΡΩΝ",
+      "name_en": "",
+      "latitude": 37.9963826,
+      "longitude": 23.3440326
+    },
+    {
+      "source_id": 8109,
+      "name": "ΑΤ Αρτέμιδος",
+      "name_en": "",
+      "latitude": 37.9336795,
+      "longitude": 24.0111464
+    },
+    {
+      "source_id": 8143,
+      "name": "Αστυνομικό Τμήμα Εξαρχείων",
+      "name_en": "",
+      "latitude": 37.9852539,
+      "longitude": 23.7395109
+    },
+    {
+      "source_id": 8319,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.500529,
+      "longitude": 23.4551227
+    },
+    {
+      "source_id": 8356,
+      "name": "ΑΤ Ιλίου",
+      "name_en": "",
+      "latitude": 38.0243515,
+      "longitude": 23.710673
+    },
+    {
+      "source_id": 8390,
+      "name": "Αστυνομικό Τμήμα Σαρωνίδας",
+      "name_en": "Saronida Police Department",
+      "latitude": 37.7469891,
+      "longitude": 23.9097004
+    },
+    {
+      "source_id": 8606,
+      "name": "Αστυνομικό Τμήμα Ηρακλείου",
+      "name_en": "",
+      "latitude": 38.0533941,
+      "longitude": 23.7689145
+    },
+    {
+      "source_id": 8911,
+      "name": "Αστυνομικό Τμήμα Αμπελοκήπων",
+      "name_en": "Ampelokipi Police Station",
+      "latitude": 37.9868929,
+      "longitude": 23.7635354
+    },
+    {
+      "source_id": 8956,
+      "name": "Τμήμα Τροχαίας Νέας Ιωνίας",
+      "name_en": "",
+      "latitude": 38.0568376,
+      "longitude": 23.7494337
+    },
+    {
+      "source_id": 9084,
+      "name": "Αστυνομικό Τμήμα Ασπροπύργου",
+      "name_en": "",
+      "latitude": 38.0656374,
+      "longitude": 23.5958649
+    },
+    {
+      "source_id": 9096,
+      "name": "Αστυνομια Ελευσινας",
+      "name_en": "",
+      "latitude": 38.0471171,
+      "longitude": 23.5406915
+    },
+    {
+      "source_id": 9205,
+      "name": "Αστυνομικό Τμήμα Καλάμου",
+      "name_en": "",
+      "latitude": 38.2833935,
+      "longitude": 23.8650178
+    },
+    {
+      "source_id": 9454,
+      "name": "Αστυνομικό Τμήμα Αυλώνα",
+      "name_en": "",
+      "latitude": 38.2485706,
+      "longitude": 23.7026692
+    },
+    {
+      "source_id": 9470,
+      "name": "Αστυνομικό Τμήμα Δημοτικού Θεάτρου",
+      "name_en": "",
+      "latitude": 37.9435924,
+      "longitude": 23.6477792
+    },
+    {
+      "source_id": 9608,
+      "name": "Τμήμα Καπανδριτίου",
+      "name_en": "",
+      "latitude": 38.2174881,
+      "longitude": 23.8765197
+    },
+    {
+      "source_id": 9933,
+      "name": "Αστυνομικό Τμήμα Σπετσών",
+      "name_en": "",
+      "latitude": 37.2680507,
+      "longitude": 23.1549561
+    },
+    {
+      "source_id": 10029,
+      "name": "Αστυνομικό Τμήμα",
+      "name_en": "Police Station",
+      "latitude": 37.3498906,
+      "longitude": 23.4676091
+    },
+    {
+      "source_id": 10030,
+      "name": "Λιμεναρχείο - Port Police Station",
+      "name_en": "",
+      "latitude": 37.3520316,
+      "longitude": 23.4668386
+    },
+    {
+      "source_id": 10939,
+      "name": "Αστυνομικό Τμήμα Καλλιθέας",
+      "name_en": "",
+      "latitude": 37.9608411,
+      "longitude": 23.7047842
+    },
+    {
+      "source_id": 11562,
+      "name": "Τροχαία Κερατέας",
+      "name_en": "",
+      "latitude": 37.8118668,
+      "longitude": 23.9673881
+    },
+    {
+      "source_id": 12036,
+      "name": "Αστυνομικό Τμήμα Νίκαιας",
+      "name_en": "",
+      "latitude": 37.9700795,
+      "longitude": 23.6406494
+    },
+    {
+      "source_id": 12044,
+      "name": "Αστυνομικό Τμήμα Καισαριανής",
+      "name_en": "Kaisariani Police Department",
+      "latitude": 37.9680691,
+      "longitude": 23.7550514
+    },
+    {
+      "source_id": 13259,
+      "name": "Αστυνομικό τμήμα Πόρτο Ράφτη",
+      "name_en": "",
+      "latitude": 37.8844385,
+      "longitude": 24.0106334
+    },
+    {
+      "source_id": 13316,
+      "name": "Αστυνομικό Τμήμα Ψυχικού",
+      "name_en": "",
+      "latitude": 38.0073428,
+      "longitude": 23.7689606
+    },
+    {
+      "source_id": 15506,
+      "name": "Αστυνομικό Τμήμα Κορωπίου",
+      "name_en": "",
+      "latitude": 37.9098527,
+      "longitude": 23.8767461
+    },
+    {
+      "source_id": 15918,
+      "name": "Αστυνομικό Τμήμα Αργυρούπολης",
+      "name_en": "",
+      "latitude": 37.915034,
+      "longitude": 23.7552392
+    },
+    {
+      "source_id": 16180,
+      "name": "Αστυνομικό Τμήμα Χαϊδαρίου",
+      "name_en": "",
+      "latitude": 38.0125868,
+      "longitude": 23.6670015
+    },
+    {
+      "source_id": 16537,
+      "name": "ΑΤ Χολαργού",
+      "name_en": "Cholargos police station",
+      "latitude": 37.9982177,
+      "longitude": 23.7962302
+    },
+    {
+      "source_id": 16979,
+      "name": "Εγκληματολογικό ΕΛΑΣ",
+      "name_en": "",
+      "latitude": 37.9936116,
+      "longitude": 23.698919
+    },
+    {
+      "source_id": 17069,
+      "name": "Τροχαία Αττικής Οδού",
+      "name_en": "",
+      "latitude": 37.9576644,
+      "longitude": 23.8878125
+    },
+    {
+      "source_id": 17291,
+      "name": "Αστυνομικό Τμήμα Ηλιούπολης",
+      "name_en": "Ilioupoli Police Station",
+      "latitude": 37.9393645,
+      "longitude": 23.7434191
+    },
+    {
+      "source_id": 17301,
+      "name": "ΑΝΩ ΛΙΟΣΙΩΝ",
+      "name_en": "",
+      "latitude": 38.0824957,
+      "longitude": 23.6980679
+    },
+    {
+      "source_id": 17803,
+      "name": "Αστυνομικό Τμήμα Μοσχάτου-Ταύρου",
+      "name_en": "",
+      "latitude": 37.9605021,
+      "longitude": 23.6868208
+    },
+    {
+      "source_id": 17832,
+      "name": "Τμήμα Τροχαίας Αγίας Παρασκευής",
+      "name_en": "",
+      "latitude": 37.9843841,
+      "longitude": 23.8506735
+    },
+    {
+      "source_id": 18394,
+      "name": "Αστυνομικό τμήμα Κερατέας",
+      "name_en": "",
+      "latitude": 37.8065364,
+      "longitude": 23.9838278
+    },
+    {
+      "source_id": 18787,
+      "name": "Τουριστική Αστυνομία Αθήνας",
+      "name_en": "Tourist Police of Athens",
+      "latitude": 37.9799316,
+      "longitude": 23.7309586
+    },
+    {
+      "source_id": 19248,
+      "name": "Αστυνομικό Τμήμα Αγίων Αναργύρων",
+      "name_en": "",
+      "latitude": 38.0289001,
+      "longitude": 23.7191458
+    },
+    {
+      "source_id": 19661,
+      "name": "Αστυνομικό Τμήμα Περάματος",
+      "name_en": "",
+      "latitude": 37.9637272,
+      "longitude": 23.5704966
+    },
+    {
+      "source_id": 22205,
+      "name": "Α.Τ. Νέας Ιωνίας",
+      "name_en": "",
+      "latitude": 38.0419806,
+      "longitude": 23.7518434
+    },
+    {
+      "source_id": 23165,
+      "name": "Αστυνομικό Τμήμα Αλίμου",
+      "name_en": "Alimos Police Station",
+      "latitude": 37.918151,
+      "longitude": 23.7287902
+    },
+    {
+      "source_id": 27144,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9877496,
+      "longitude": 23.3407599
+    },
+    {
+      "source_id": 27374,
+      "name": "",
+      "name_en": "",
+      "latitude": 36.147676,
+      "longitude": 22.9895401
+    },
+    {
+      "source_id": 28459,
+      "name": "Αστυνομικό Τμήμα Κορυδαλλού",
+      "name_en": "",
+      "latitude": 37.9783798,
+      "longitude": 23.6473313
+    },
+    {
+      "source_id": 29143,
+      "name": "ΑΤ Ακροπόλεως",
+      "name_en": "",
+      "latitude": 37.9607509,
+      "longitude": 23.7223972
+    },
+    {
+      "source_id": 30214,
+      "name": "Αστυνομικό Τμήμα Αγίου Δημητρίου",
+      "name_en": "Agios Dimitrios Police Station",
+      "latitude": 37.924799,
+      "longitude": 23.728971
+    },
+    {
+      "source_id": 31198,
+      "name": "Β' Αστυνομικό Τμήμα Περιστερίου - Τμήμα Αλλοδαπών Δυτικής Αττικής",
+      "name_en": "",
+      "latitude": 38.025819,
+      "longitude": 23.6843663
+    }
+  ],
+  "meta": {
+    "title": "Αστυνομικά τμήματα — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Σημεία αστυνομικών τμημάτων και σταθμών στην Περιφέρεια Αττικής με ελληνική ονομασία και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository. (Police station locations in Attica.) Περιέχει 99 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αστυνομικά τμήματα — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Αστυνομικά τμήματα — Περιφέρεια Αττικής — 99 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 99 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,555 @@
+{
+  "id": "el-prevezas-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Πρεβεζας (72)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Πρεβεζας (72)",
+  "description": "Οι 72 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Πρεβεζας (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 72,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "430101",
+      "name": "Ανωγειου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430102",
+      "name": "Γοργομυλου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430103",
+      "name": "Τσαγκαροπουλου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430301",
+      "name": "Ασσου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430302",
+      "name": "Γαλατα",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430303",
+      "name": "Θεσπρωτικου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430304",
+      "name": "Μελιανων",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430305",
+      "name": "Νικολιτσιου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430306",
+      "name": "Παππαδατων",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430307",
+      "name": "Πολυσταφυλου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430308",
+      "name": "Ριζοβουνιου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430401",
+      "name": "Κρανεας",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430910",
+      "name": "Φιλιππιαδος",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430901",
+      "name": "Αγιου Γεωργιου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430902",
+      "name": "Γυμνοτοπου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430903",
+      "name": "Δρυοφυτου",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430904",
+      "name": "Κερασωνος",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430905",
+      "name": "Κλεισουρας",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430906",
+      "name": "Νεας Κερασουντος",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430907",
+      "name": "Παναγιας",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430908",
+      "name": "Πετρας",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430909",
+      "name": "Ρωμιας",
+      "municipality": "Ζηρου",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430604",
+      "name": "Παργας",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430601",
+      "name": "Αγιας",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430602",
+      "name": "Ανθουσης",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430603",
+      "name": "Λιβαδαριου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430810",
+      "name": "Καναλλακιου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430801",
+      "name": "Αηδονιας",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430802",
+      "name": "Αμμουδιας",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430803",
+      "name": "Ανω Σκαφιδωτης",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430804",
+      "name": "Αχερουσιας",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430805",
+      "name": "Βαλανιδοραχης",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430806",
+      "name": "Βαλανιδουσσας",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430807",
+      "name": "Βουβοποταμου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430808",
+      "name": "Δεσποτικου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430809",
+      "name": "Θεμελου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430811",
+      "name": "Καστριου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430812",
+      "name": "Κορυφουλα",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430813",
+      "name": "Κορωνης",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430814",
+      "name": "Κουκκουλιου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430815",
+      "name": "Κυψελης",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430816",
+      "name": "Λουτσης",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430817",
+      "name": "Μεσοποταμου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430818",
+      "name": "Μουζακαιικων",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430819",
+      "name": "Ναρκισσου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430820",
+      "name": "Σκεπαστου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430821",
+      "name": "Σταυροχωριου",
+      "municipality": "Παργας",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430201",
+      "name": "Βραχου",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430202",
+      "name": "Εκκλησιων",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430203",
+      "name": "Καμαρινας",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430204",
+      "name": "Καναλιου",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430205",
+      "name": "Κρυοπηγης",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430206",
+      "name": "Μυρσινης",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430207",
+      "name": "Νεας Σαμψουντος",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430208",
+      "name": "Νεας Σινωπης",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430209",
+      "name": "Ριζων",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430210",
+      "name": "Χειμαδιου",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430504",
+      "name": "Λουρου",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430501",
+      "name": "Ανω Ραχη",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430502",
+      "name": "Βρυσουλας",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430503",
+      "name": "Κοτσανοπουλου",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430505",
+      "name": "Νεου Σφηνωτου(Σφηνωτου)",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430506",
+      "name": "Ρευματιας",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430507",
+      "name": "Σκιαδα",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430508",
+      "name": "Στεφανης",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430509",
+      "name": "Τρικαστρον",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430510",
+      "name": "Ωρωπου",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430704",
+      "name": "Πρεβεζης",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430701",
+      "name": "Μιχαλιτσιου",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430702",
+      "name": "Μυτικα",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430703",
+      "name": "Νικοπολεως",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "430705",
+      "name": "Φλαμπουρων",
+      "municipality": "Πρεβεζης",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Πρεβεζας (72) - Δωρεάν λήψη",
+    "description": "Οι 72 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Πρεβεζας (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη. Περιέχει 72 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Πρεβεζας (72) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Πρεβεζας (72) — 72 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 72 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

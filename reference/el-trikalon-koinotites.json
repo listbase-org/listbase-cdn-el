@@ -1,0 +1,1073 @@
+{
+  "id": "el-trikalon-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Τρικαλων (146)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Τρικαλων (146)",
+  "description": "Οι 146 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Τρικαλων (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 146,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "480201",
+      "name": "Αγιας Παρασκευης",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480202",
+      "name": "Ανθουσης",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480203",
+      "name": "Καλλιρροης",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480204",
+      "name": "Καταφυτου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480205",
+      "name": "Κρανεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480206",
+      "name": "Πολυθεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480207",
+      "name": "Στεφανιου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480208",
+      "name": "Χαλικιου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480301",
+      "name": "Βασιλικης",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480302",
+      "name": "Θεοπετρας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480303",
+      "name": "Περιστερας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480604",
+      "name": "Καλαμπακας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480601",
+      "name": "Αυρας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480602",
+      "name": "Βλαχαβας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480603",
+      "name": "Διαβας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480605",
+      "name": "Καστρακιου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480606",
+      "name": "Κρυας Βρυσης",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480607",
+      "name": "Μεγαλης Κερασεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480608",
+      "name": "Ορθοβουνιου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480609",
+      "name": "Σαρακηνας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480801",
+      "name": "Αμαραντου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480802",
+      "name": "Αμπελοχωριου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480803",
+      "name": "Καλομοιρας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480804",
+      "name": "Καστανεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480805",
+      "name": "Ματονεριου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480901",
+      "name": "Αηδονος",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480902",
+      "name": "Γλυκομηλεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480903",
+      "name": "Καλογριανης",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480904",
+      "name": "Κλεινου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480905",
+      "name": "Παλαιοχωριου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480906",
+      "name": "Χρυσομηλεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481101",
+      "name": "Κορυδαλλου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481102",
+      "name": "Μαλακασιου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481103",
+      "name": "Παναγιας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481104",
+      "name": "Πευκης",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481105",
+      "name": "Τρυγονος",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482301",
+      "name": "Γερακαριου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482302",
+      "name": "Καλλιθεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482303",
+      "name": "Κονισκου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482304",
+      "name": "Λογγας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482305",
+      "name": "Μαυρελιου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482306",
+      "name": "Φλαμπουρεσιου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482307",
+      "name": "Φωτεινου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482601",
+      "name": "Αγιοφυλλου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482602",
+      "name": "Αγναντιας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482603",
+      "name": "Ασπροκκλησιας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482604",
+      "name": "Αχλαδεας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482605",
+      "name": "Γαβρου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482606",
+      "name": "Κακοπλευριου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482607",
+      "name": "Οξυνειας",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482608",
+      "name": "Σκεπαριου",
+      "municipality": "Καλαμπακας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480101",
+      "name": "Αγιου Νικολαου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480102",
+      "name": "Αθαμανιας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480103",
+      "name": "Βροντερου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480104",
+      "name": "Γαρδικιου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480105",
+      "name": "Δεσης",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480106",
+      "name": "Δροσοχωριου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480107",
+      "name": "Ελατης",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480108",
+      "name": "Καλογηρων",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480109",
+      "name": "Νεραϊδοχωριου(Χατζηπετριου)",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480110",
+      "name": "Περτουλιου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480111",
+      "name": "Πυρρας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480401",
+      "name": "Γομφων",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480402",
+      "name": "Δροσερου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480403",
+      "name": "Λυγαριας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480404",
+      "name": "Μουριας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480405",
+      "name": "Παλαιομοναστηρου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480406",
+      "name": "Πηγης",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481301",
+      "name": "Μυροφυλλου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481401",
+      "name": "Αρματολικου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481402",
+      "name": "Κορυφης",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481403",
+      "name": "Νεραιδας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481404",
+      "name": "Παχτουριου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481901",
+      "name": "Ελευθεροχωριου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481902",
+      "name": "Παραποταμου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481903",
+      "name": "Πιαλειας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481904",
+      "name": "Φηκης",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481905",
+      "name": "Φιλυρας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482101",
+      "name": "Βαθυρρευματος",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482102",
+      "name": "Βαλκανου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482103",
+      "name": "Λιβαδοχωριου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482104",
+      "name": "Μεσοχωρας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482105",
+      "name": "Μοσχοφυτου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482106",
+      "name": "Νεας Πευκης",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482107",
+      "name": "Παραμερου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482108",
+      "name": "Πολυνεριου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482109",
+      "name": "Στουρναραιικων",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482001",
+      "name": "Αγιου Βησσαριωνος",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482002",
+      "name": "Αγιου Προκοπιου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482003",
+      "name": "Κοτρωνιου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482004",
+      "name": "Παλαιοκαρυας",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482005",
+      "name": "Πετροχωριου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482006",
+      "name": "Πυλης",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482007",
+      "name": "Ροποτου",
+      "municipality": "Πυλης",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480501",
+      "name": "Λογγου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480502",
+      "name": "Μεγαλοχωριου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480503",
+      "name": "Πατουλιας",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480504",
+      "name": "Χρυσαυγης",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480701",
+      "name": "Βαλτινου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480702",
+      "name": "Δενδροχωριου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480703",
+      "name": "Κατω Ελατης",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "480704",
+      "name": "Φωταδας",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481001",
+      "name": "Γενεσιου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481002",
+      "name": "Γοργογυριου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481003",
+      "name": "Ξυλοπαροικου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481004",
+      "name": "Πρινου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481005",
+      "name": "Προδρομου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481203",
+      "name": "Μεγαλων Καλυβιων",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481201",
+      "name": "Αγιας Κυριακης",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481202",
+      "name": "Γλινου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481601",
+      "name": "Αγρελιας",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481602",
+      "name": "Αρδανιου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481603",
+      "name": "Ζηλευτης",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481604",
+      "name": "Κουμαριας",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481605",
+      "name": "Κρηνιτσης",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481606",
+      "name": "Λιοπρασου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481607",
+      "name": "Παλαιοπυργου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481701",
+      "name": "Ελληνοκαστρου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481702",
+      "name": "Πλατανου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481703",
+      "name": "Ραξας",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481704",
+      "name": "Ριζωματος",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481705",
+      "name": "Σπαθαδων",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482201",
+      "name": "Τρικκαιων",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482401",
+      "name": "Διαλεκτου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482402",
+      "name": "Διποταμου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482403",
+      "name": "Κεφαλοβρυσου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482404",
+      "name": "Μεγαλου Κεφαλοβρυσου",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482405",
+      "name": "Μεγαρχης",
+      "municipality": "Τρικκαιων",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481504",
+      "name": "Οιχαλιας",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481501",
+      "name": "Γεωργαναδων",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481502",
+      "name": "Κλοκοτου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481503",
+      "name": "Κρηνης",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481505",
+      "name": "Πετρωτου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481801",
+      "name": "Νομης",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481802",
+      "name": "Πετροπορου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481803",
+      "name": "Σερβωτων",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481804",
+      "name": "Ταξιαρχων",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "481805",
+      "name": "Φανερωμενης",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482508",
+      "name": "Φαρκαδονος",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482501",
+      "name": "Αχλαδοχωριου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482502",
+      "name": "Γριζανου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482503",
+      "name": "Διασελλου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482504",
+      "name": "Ζαρκου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482505",
+      "name": "Κεραμιδιου",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482506",
+      "name": "Παναγιτσας",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "482507",
+      "name": "Πηνειαδος",
+      "municipality": "Φαρκαδονας",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Τρικαλων (146) - Δωρεάν λήψη",
+    "description": "Οι 146 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Τρικαλων (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη. Περιέχει 146 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Τρικαλων (146) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Τρικαλων (146) — 146 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 146 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

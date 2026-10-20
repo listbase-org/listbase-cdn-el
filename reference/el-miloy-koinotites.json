@@ -1,0 +1,114 @@
+{
+  "id": "el-miloy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Μηλου (9)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Μηλου (9)",
+  "description": "Οι 9 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Μηλου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "311401",
+      "name": "Κιμωλου",
+      "municipality": "Κιμωλου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311801",
+      "name": "Αδαμαντος",
+      "municipality": "Μηλου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311804",
+      "name": "Τριοβασαλου",
+      "municipality": "Μηλου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311802",
+      "name": "Μηλου",
+      "municipality": "Μηλου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311803",
+      "name": "Περαν Τριοβασαλου",
+      "municipality": "Μηλου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311805",
+      "name": "Τρυπητης",
+      "municipality": "Μηλου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312501",
+      "name": "Σεριφου",
+      "municipality": "Σεριφου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312701",
+      "name": "Απολλωνιας",
+      "municipality": "Σιφνου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312702",
+      "name": "Αρτεμωνος",
+      "municipality": "Σιφνου",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Μηλου (9) - Δωρεάν λήψη",
+    "description": "Οι 9 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Μηλου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 9 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Μηλου (9) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Μηλου (9) — 9 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 9 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

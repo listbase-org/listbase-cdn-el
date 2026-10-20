@@ -1,0 +1,786 @@
+{
+  "id": "el-agalmata",
+  "name": "Αγάλματα της Ελλάδας",
+  "title": "Αγάλματα της Ελλάδας",
+  "description": "Statues in Greece from Wikidata (P31=Q179700 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q113131392",
+      "name_el": "",
+      "name_en": "Artemis (statue in Sidirokastro)",
+      "admin_area_el": "Δήμος Αυλώνα Μεσσηνίας",
+      "admin_area_en": "Avlonas",
+      "latitude": 37.3373,
+      "longitude": 21.77126,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113131392"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q107307241",
+      "name_el": "",
+      "name_en": "Athena Hygieia statue on the Acropolis",
+      "admin_area_el": "Αθήνα",
+      "admin_area_en": "Athens",
+      "latitude": 37.97166,
+      "longitude": 23.72533,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107307241"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q107043630",
+      "name_el": "",
+      "name_en": "Endymion statue at Olympia",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.638,
+      "longitude": 21.6306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107043630"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q107043516",
+      "name_el": "",
+      "name_en": "Nike statue at Olympia",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.638,
+      "longitude": 21.6306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107043516"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q26265299",
+      "name_el": "",
+      "name_en": "Nike statue, Olympia",
+      "admin_area_el": "Δήμος Αρχαίας Ολυμπίας",
+      "admin_area_en": "Ancient Olympia Municipality",
+      "latitude": 37.643119444,
+      "longitude": 21.635394444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q26265299"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q115217750",
+      "name_el": "",
+      "name_en": "Pontian Memorial, Drosia",
+      "admin_area_el": "Δήμος Διονύσου",
+      "admin_area_en": "Dionisos Municipality",
+      "latitude": 38.11887,
+      "longitude": 23.85936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115217750"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q66361327",
+      "name_el": "",
+      "name_en": "Statue",
+      "admin_area_el": "Δήμος Σύρου - Ερμούπολης",
+      "admin_area_en": "Syros-Ermoupoli Municipality",
+      "latitude": 37.444688946,
+      "longitude": 24.945021271,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66361327"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q66361358",
+      "name_el": "",
+      "name_en": "Statue",
+      "admin_area_el": "Δήμος Σύρου - Ερμούπολης",
+      "admin_area_en": "Syros-Ermoupoli Municipality",
+      "latitude": 37.443300489,
+      "longitude": 24.9432832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q66361358"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q113437156",
+      "name_el": "",
+      "name_en": "Statue of Justice, Athens Audit Court",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.98546,
+      "longitude": 23.75646,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113437156"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q121744553",
+      "name_el": "",
+      "name_en": "Statue of King Eurotas, Skala",
+      "admin_area_el": "Δήμος Ευρώτα",
+      "admin_area_en": "Evrotas Municipality",
+      "latitude": 36.8481,
+      "longitude": 22.65934,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q121744553"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q107045874",
+      "name_el": "",
+      "name_en": "Statue of Krokon's horse at Olympia",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.638,
+      "longitude": 21.6306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107045874"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q113172220",
+      "name_el": "",
+      "name_en": "Statue of a Woman, Agios Dimitrios",
+      "admin_area_el": "Δήμος Αγίου Δημητρίου Αττικής",
+      "admin_area_en": "Agios Dimitrios Municipality",
+      "latitude": 37.94349,
+      "longitude": 23.73292,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113172220"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q107043532",
+      "name_el": "",
+      "name_en": "Statue of a horse at Olympia",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.638,
+      "longitude": 21.6306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q107043532"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q56237232",
+      "name_el": "Άγαλμα Αθηνάς στο σιδηροδρομικό σταθμό Βόλου",
+      "name_en": "Athena statue in Volos",
+      "admin_area_el": "Δήμος Βόλου",
+      "admin_area_en": "Volos Municipality",
+      "latitude": 39.364334,
+      "longitude": 22.937423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56237232"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q117742828",
+      "name_el": "Άγαλμα Η Αγρότισσα, Ιεράπετρα",
+      "name_en": "Statue, Farm Woman, Ierapetra",
+      "admin_area_el": "Δήμος Ιεράπετρας",
+      "admin_area_en": "Ierapetra Municipality",
+      "latitude": 35.0118,
+      "longitude": 25.74167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117742828"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q117742851",
+      "name_el": "Άγαλμα Ποσειδώνα, Κάλυμνος",
+      "name_en": "Statue of Poseidon, Kalymnos",
+      "admin_area_el": "Δήμος Καλυμνίων",
+      "admin_area_en": "Kalymnos municipality",
+      "latitude": 36.94753,
+      "longitude": 26.98321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117742851"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q1454362",
+      "name_el": "Άγαλμα της Ελευθερίας",
+      "name_en": "Statue of Liberty, Mytilini",
+      "admin_area_el": "Δήμος Μυτιλήνης",
+      "admin_area_en": "Mytilene Municipality",
+      "latitude": 39.1058117,
+      "longitude": 26.5632505,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1454362"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q117742852",
+      "name_el": "Άγαλμα της Ελευθερίας, Κάλυμνος",
+      "name_en": "Statue of Liberty, Kalymnos",
+      "admin_area_el": "Δήμος Καλυμνίων",
+      "admin_area_en": "Kalymnos municipality",
+      "latitude": 36.94888,
+      "longitude": 26.9832,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117742852"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q113134136",
+      "name_el": "Άγαλμα του Δρομέα Λάσε Βίρεν",
+      "name_en": "statue of Lasse Viren",
+      "admin_area_el": "Δημοτική Ενότητα Χολαργού",
+      "admin_area_en": "Cholargos Municipal Unit",
+      "latitude": 37.99767,
+      "longitude": 23.80775,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113134136"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q117742842",
+      "name_el": "Άγαλμα του σφουγγαρά, Καλύμνος",
+      "name_en": "Statue of Sponge-diver, Kalymnos",
+      "admin_area_el": "Δήμος Καλυμνίων",
+      "admin_area_en": "Kalymnos municipality",
+      "latitude": 36.95073,
+      "longitude": 26.98596,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117742842"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q117742838",
+      "name_el": "Άγαλμα του σφουγγαρά, αεροδρόμιο της Καλύμνου",
+      "name_en": "Statue of Sponge-diver, Kalymnos airport",
+      "admin_area_el": "Δήμος Καλυμνίων",
+      "admin_area_en": "Kalymnos municipality",
+      "latitude": 36.96483,
+      "longitude": 26.9412,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q117742838"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q535277",
+      "name_el": "Αγγέλητος Αθηνά",
+      "name_en": "Angelitos Athena",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.969108333,
+      "longitude": 23.728297222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q535277"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q111707954",
+      "name_el": "Αθηνά Προμάχος",
+      "name_en": "Athena Promachos",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.98018,
+      "longitude": 23.73393,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111707954"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q113116176",
+      "name_el": "Αμαρυσία Άρτεμις Κυνηγέτις",
+      "name_en": "Artemis Amarysia Huntress statue",
+      "admin_area_el": "Δήμος Αμαρουσίου",
+      "admin_area_en": "Amarusio Municipality",
+      "latitude": 38.05463,
+      "longitude": 23.80773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113116176"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q97467352",
+      "name_el": "Αναδούμενος",
+      "name_en": "Statue of youth binding his head",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.638,
+      "longitude": 21.6306,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q97467352"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q112999347",
+      "name_el": "Ανδριάντας Κωνσταντίνου ΙΑ' Δραγάτσης Παλαιολόγος",
+      "name_en": "Konstantinos XI Dragatsis Palaiologos statue",
+      "admin_area_el": "Πειραιάς",
+      "admin_area_en": "Piraeus",
+      "latitude": 37.9445,
+      "longitude": 23.6451,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112999347"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q100588043",
+      "name_el": "Αφανής ναύτης",
+      "name_en": "Unknown sailor statue, Andros",
+      "admin_area_el": "Δήμος Άνδρου",
+      "admin_area_en": "Andros Municipality",
+      "latitude": 37.84016,
+      "longitude": 24.94268,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100588043"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q1550994",
+      "name_el": "Αφροδίτη και Πάνας",
+      "name_en": "Group of Aphrodite, Pan and Eros",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.98872,
+      "longitude": 23.7321,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1550994"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q618530",
+      "name_el": "Αφροδίτη των Συρακουσών",
+      "name_en": "Aphrodite of Syracuse",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.9891,
+      "longitude": 23.7318,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q618530"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q111356704",
+      "name_el": "Γυναίκα μετά το μόχθο",
+      "name_en": "Woman after toil",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.9825,
+      "longitude": 23.7563,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111356704"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q116953920",
+      "name_el": "Δισκοβόλος γλυπτό, Αθήνα",
+      "name_en": "Discus-thrower statue, Athens",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.97009,
+      "longitude": 23.73966,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q116953920"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q1540923",
+      "name_el": "Επιτύμβια στήλη του Αριστοναύτη",
+      "name_en": "Funerary naiskos of Aristonautes",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.97833,
+      "longitude": 23.71861,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1540923"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q1518432",
+      "name_el": "Ερμής του Πραξιτέλους",
+      "name_en": "Hermes and the Infant Dionysus",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.64379,
+      "longitude": 21.62983,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1518432"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q114704056",
+      "name_el": "Η Ηρωίδα Μανιάτισσα (γλυπτό)",
+      "name_en": "Maniatissa Heroine (sculpture)",
+      "admin_area_el": "Δήμος Πειραιά",
+      "admin_area_en": "Piraeus Municipality",
+      "latitude": 37.95964,
+      "longitude": 23.6401,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114704056"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q1230882",
+      "name_el": "Ηνίοχος",
+      "name_en": "Charioteer of Delphi",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.48030556,
+      "longitude": 22.49980556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1230882"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q113462731",
+      "name_el": "Ηρώον Πεσόντων (Νέο Ψυχικό)",
+      "name_en": "War dead memorial, Neo Psychiko",
+      "admin_area_el": "Δήμος Φιλοθέης-Ψυχικού",
+      "admin_area_en": "Filothei-Psychiko Municipality",
+      "latitude": 38.00121,
+      "longitude": 23.77682,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113462731"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q111736300",
+      "name_el": "Θηλάζουσα Μητέρα (άγαλμα)",
+      "name_en": "Nursing Mother (artwork)",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.98452,
+      "longitude": 23.76812,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111736300"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q1779651",
+      "name_el": "Κολοσσός των Ναξίων",
+      "name_en": "Colossus of the Naxians",
+      "admin_area_el": "Δήμος Μυκόνου",
+      "admin_area_en": "Mykonos Municipality",
+      "latitude": 37.40038,
+      "longitude": 25.2668,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1779651"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q571971",
+      "name_el": "Κόρη του Αντήνορος",
+      "name_en": "Antenor Kore",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.969108333,
+      "longitude": 23.728297222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q571971"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q113127947",
+      "name_el": "Μητρότητα (γλυπτό)",
+      "name_en": "Maternity (sculpture in Athens)",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.98012,
+      "longitude": 23.7556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113127947"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q111722814",
+      "name_el": "Μνήμη",
+      "name_en": "Mneme (Memory)",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.97062,
+      "longitude": 23.73301,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111722814"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q113119439",
+      "name_el": "Μνημείο στους μαρτυρήσαντες κληρικούς",
+      "name_en": "Memorial to slain priests",
+      "admin_area_el": "Δήμος Φιλοθέης-Ψυχικού",
+      "admin_area_en": "Filothei-Psychiko Municipality",
+      "latitude": 38.00077,
+      "longitude": 23.77793,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113119439"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q80900438",
+      "name_el": "Μνημείο του Αφανούς Ναυτικού",
+      "name_en": "Lost Seaman monument",
+      "admin_area_el": "Πειραιάς",
+      "admin_area_en": "Piraeus",
+      "latitude": 37.938887308,
+      "longitude": 23.640387654,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q80900438"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q113119710",
+      "name_el": "Μνημείο των Πεσόντων, Χαλάνδρι",
+      "name_en": "Memorial to the Fallen, Chalandri",
+      "admin_area_el": "Δήμος Χαλανδρίου",
+      "admin_area_en": "Chalandri Municipality",
+      "latitude": 38.02155,
+      "longitude": 23.79749,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113119710"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q1722117",
+      "name_el": "Μοσχοφόρος",
+      "name_en": "Moschophoros",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.96844444,
+      "longitude": 23.7285,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1722117"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q1365951",
+      "name_el": "Νίκη του Καλλιμάχου",
+      "name_en": "Nike of Callimachus",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.969108333,
+      "longitude": 23.728297222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1365951"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q124153501",
+      "name_el": "Νίκη του Μαραθώνα",
+      "name_en": "Nike of Marathon",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.14936,
+      "longitude": 23.96379,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124153501"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q113071399",
+      "name_el": "Νίκη του Παρμακέλη",
+      "name_en": "Nike statue in Ag. Ioannis Rentis",
+      "admin_area_el": "Δήμος Νίκαιας - Αγίου Ιωάννη Ρέντη",
+      "admin_area_en": "Nikaia-Agios Ioannis Renti Municipality",
+      "latitude": 37.9619,
+      "longitude": 23.674,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113071399"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q476532",
+      "name_el": "Ξανθός έφηβος",
+      "name_en": "Blond Kouros's Head of the Acropolis",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.969108333,
+      "longitude": 23.728297222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q476532"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q113115882",
+      "name_el": "Πάρις (άγαλμα)",
+      "name_en": "statue of Paris",
+      "admin_area_el": "Δήμος Αμαρουσίου",
+      "admin_area_en": "Amarusio Municipality",
+      "latitude": 38.0648,
+      "longitude": 23.812,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113115882"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q492894",
+      "name_el": "Πεπλοφόρος κόρη",
+      "name_en": "Peplos Kore",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.969108333,
+      "longitude": 23.728297222,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q492894"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q112960311",
+      "name_el": "Ποντοπόρος Έφηβος",
+      "name_en": "Seagoing Youth (statue)",
+      "admin_area_el": "Πειραιάς",
+      "admin_area_en": "Piraeus",
+      "latitude": 37.94354,
+      "longitude": 23.64456,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112960311"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q115105814",
+      "name_el": "Πόντιος Ακρίτας",
+      "name_en": "Statue of Pontian Akritas, Thessaloniki",
+      "admin_area_el": "Δήμος Παύλου Μελά",
+      "admin_area_en": "Pavlos Melas Municipality",
+      "latitude": 40.66431,
+      "longitude": 22.93591,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q115105814"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q113046111",
+      "name_el": "Σάλπισμα της Ειρήνης",
+      "name_en": "Trumpet of Peace",
+      "admin_area_el": "Δήμος Γλυφάδας",
+      "admin_area_en": "Glyfada Municipality",
+      "latitude": 37.86462,
+      "longitude": 23.74462,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113046111"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q111738004",
+      "name_el": "Σάτυρος στο βράχο",
+      "name_en": "Satyr on a Rock (statue)",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.97229,
+      "longitude": 23.7346,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111738004"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q114140671",
+      "name_el": "Σπορέα, ασπροπυργος",
+      "name_en": "Sower (statue), Aspropyrgos",
+      "admin_area_el": "Δήμος Ασπροπύργου",
+      "admin_area_en": "Aspropyrgos Municipality",
+      "latitude": 38.0553,
+      "longitude": 23.5873,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114140671"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q131678056",
+      "name_el": "Σταυρός της Φλώρινας",
+      "name_en": "Cross of Florina",
+      "admin_area_el": "Δήμος Φλώρινας",
+      "admin_area_en": "Florina Municipality",
+      "latitude": 40.770782,
+      "longitude": 21.403808,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131678056"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q56875982",
+      "name_el": "Τσολιάς του 17",
+      "name_en": "Tsolias of 1917, Arta, Greece",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 39.153634,
+      "longitude": 20.978235,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56875982"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q111976937",
+      "name_el": "άγαλμα Αρτέμιδος Αμαρυσίας",
+      "name_en": "Artemis Amarysia statue",
+      "admin_area_el": "Δήμος Αμαρουσίου",
+      "admin_area_en": "Amarusio Municipality",
+      "latitude": 38.05255,
+      "longitude": 23.80856,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111976937"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q113171966",
+      "name_el": "άγαλμα γυναίκας, Δαφνή",
+      "name_en": "Statue of a Woman, Dafni",
+      "admin_area_el": "Δήμος Δάφνης-Υμηττού",
+      "admin_area_en": "Dafni-Ymittos Municipality",
+      "latitude": 37.95094,
+      "longitude": 23.73496,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113171966"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q112998918",
+      "name_el": "άγαλμα της Αρτέμιδος Μουνύχιας",
+      "name_en": "Artemis Mounychia statue",
+      "admin_area_el": "Πειραιάς",
+      "admin_area_en": "Piraeus",
+      "latitude": 37.9354,
+      "longitude": 23.659,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112998918"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q75157859",
+      "name_el": "άγαλμα της Ηρώς Π. Κωνσταντοπούλου",
+      "name_en": "Iro Konstantopoulou statue",
+      "admin_area_el": "Πειραιάς",
+      "admin_area_en": "Piraeus",
+      "latitude": 37.94031386,
+      "longitude": 23.645367622,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q75157859"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q113171879",
+      "name_el": "άγαλμα της Μητέρας, Νἐα Ιωνία",
+      "name_en": "Mother statue in Nea Ionia",
+      "admin_area_el": "Δήμος Νέας Ιωνίας",
+      "admin_area_en": "Nea Ionia Municipality",
+      "latitude": 38.0449,
+      "longitude": 23.75167,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113171879"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q114140558",
+      "name_el": "άγαλμα του Ελευσίνιου Eργάτη, Ελευσίνα",
+      "name_en": "Statue, the Eleusinian Worker, Eleusis",
+      "admin_area_el": "Δήμος Ελευσίνας",
+      "admin_area_en": "Elefsina Municipality",
+      "latitude": 38.04449,
+      "longitude": 23.54439,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q114140558"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q113434905",
+      "name_el": "ανδριάντας του Κλεισθένη",
+      "name_en": "Statue of Cleisthenes, Aigaleo",
+      "admin_area_el": "Δήμος Αιγάλεω",
+      "admin_area_en": "Aegaleo Municipality",
+      "latitude": 37.99737,
+      "longitude": 23.66804,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q113434905"
+    }
+  ],
+  "meta": {
+    "title": "Αγάλματα της Ελλάδας - Δωρεάν λήψη",
+    "description": "Statues in Greece from Wikidata (P31=Q179700 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 65 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αγάλματα της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Αγάλματα της Ελλάδας — 65 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 65 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

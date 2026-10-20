@@ -1,0 +1,100 @@
+{
+  "id": "el-thessalias-ethnikoi-drymoi",
+  "name": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Θεσσαλίας",
+  "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Θεσσαλίας",
+  "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Θεσσαλίας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Θεσσαλίας.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q80344",
+      "name_el": "Όλυμπος",
+      "name_en": "Mount Olympus",
+      "latitude": 40.083333,
+      "longitude": 22.35,
+      "established_year": 1938,
+      "area_ha": 19139.59,
+      "region": "Περιφέρεια Θεσσαλίας",
+      "regional_unit": "Περιφερειακή Ενότητα Λάρισας",
+      "municipality": "Δήμος Ελασσόνας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%8C%CE%BB%CF%85%CE%BC%CF%80%CE%BF%CF%82"
+    }
+  ],
+  "meta": {
+    "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Θεσσαλίας - Δωρεάν λήψη",
+    "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Θεσσαλίας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Θεσσαλίας.) Περιέχει 1 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Θεσσαλίας | ListBase",
+    "seo_description": "Λήψη Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Θεσσαλίας — 1 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1 εγγραφές / 12 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

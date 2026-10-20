@@ -1,0 +1,128 @@
+{
+  "id": "el-anatolikis-makedonias-thrakis-ethnikoi-drymoi",
+  "name": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+  "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+  "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Ανατολικής Μακεδονίας και Θράκης. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Ανατολικής Μακεδονίας και Θράκης.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q56254242",
+      "name_el": "National Park of Nestos Delta and lakes Vistonida-Ismarida",
+      "name_en": "National Park of Nestos Delta and lakes Vistonida-Ismarida",
+      "latitude": 40.985,
+      "longitude": 24.715,
+      "established_year": "",
+      "area_ha": "",
+      "region": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "regional_unit": "",
+      "municipality": "",
+      "wikipedia_el": ""
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q12876742",
+      "name_el": "Εθνικό Πάρκο Ανατολικής Μακεδονίας - Θράκης",
+      "name_en": "National Park of Eastern Macedonia and Thrace",
+      "latitude": 41.007861,
+      "longitude": 25.105386,
+      "established_year": 2008,
+      "area_ha": 929.47,
+      "region": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "regional_unit": "",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A0%CE%AC%CF%81%CE%BA%CE%BF_%CE%91%CE%BD%CE%B1%CF%84%CE%BF%CE%BB%CE%B9%CE%BA%CE%AE%CF%82_%CE%9C%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1%CF%82_-_%CE%98%CF%81%CE%AC%CE%BA%CE%B7%CF%82"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q24953272",
+      "name_el": "Εθνικό Πάρκο Δάσους Δαδιάς-Λευκίμμης-Σουφλίου",
+      "name_en": "Dadia-Lefkimi-Soufli Forest National Park",
+      "latitude": 41.13,
+      "longitude": 26.216944,
+      "established_year": 2006,
+      "area_ha": 428,
+      "region": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "regional_unit": "Περιφερειακή Ενότητα Έβρου",
+      "municipality": "Δήμος Σουφλίου",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A0%CE%AC%CF%81%CE%BA%CE%BF_%CE%94%CE%AC%CF%83%CE%BF%CF%85%CF%82_%CE%94%CE%B1%CE%B4%CE%B9%CE%AC%CF%82-%CE%9B%CE%B5%CF%85%CE%BA%CE%AF%CE%BC%CE%BC%CE%B7%CF%82-%CE%A3%CE%BF%CF%85%CF%86%CE%BB%CE%AF%CE%BF%CF%85"
+    }
+  ],
+  "meta": {
+    "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ανατολικής Μακεδονίας και Θράκης - Δωρεάν λήψη",
+    "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Ανατολικής Μακεδονίας και Θράκης. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Ανατολικής Μακεδονίας και Θράκης.) Περιέχει 3 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ανατολικής Μακεδονίας και Θράκης | ListBase",
+    "seo_description": "Λήψη Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ανατολικής Μακεδονίας και Θράκης — 3 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 3 εγγραφές / 12 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

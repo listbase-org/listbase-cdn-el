@@ -1,0 +1,356 @@
+{
+  "id": "el-notiou-aigaiou-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Νοτίου Αιγαίου",
+  "title": "Αεροδρόμια — Περιφέρεια Νοτίου Αιγαίου",
+  "description": "Αεροδρόμια στην «Περιφέρεια Νοτίου Αιγαίου» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (South Aegean Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LGKJ",
+      "iata": "KZS",
+      "name": "Kastelorizo Airport",
+      "name_slug": "kastelorizo-airport",
+      "city": "Kastelorizo Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 489,
+      "lat": 36.1417007446,
+      "lon": 29.5764007568,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKO",
+      "iata": "KGS",
+      "name": "Kos Airport",
+      "name_slug": "kos-airport",
+      "city": "Kos Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 412,
+      "lat": 36.7933006287,
+      "lon": 27.0916996002,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKP",
+      "iata": "AOK",
+      "name": "Karpathos Airport",
+      "name_slug": "karpathos-airport",
+      "city": "Karpathos Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 66,
+      "lat": 35.4213981628,
+      "lon": 27.1459999084,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKS",
+      "iata": "KSJ",
+      "name": "Kasos Airport",
+      "name_slug": "kasos-airport",
+      "city": "Kasos Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 35,
+      "lat": 35.4213981628,
+      "lon": 26.9099998474,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKY",
+      "iata": "JKL",
+      "name": "Kalymnos Airport",
+      "name_slug": "kalymnos-airport",
+      "city": "Kalymnos Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 771,
+      "lat": 36.9632987976,
+      "lon": 26.9405994415,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGLE",
+      "iata": "LRS",
+      "name": "Leros Airport",
+      "name_slug": "leros-airport",
+      "city": "Leros Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 39,
+      "lat": 37.1848983765,
+      "lon": 26.8003005981,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGMK",
+      "iata": "JMK",
+      "name": "Mikonos Airport",
+      "name_slug": "mikonos-airport",
+      "city": "Mykonos Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 405,
+      "lat": 37.4351005554,
+      "lon": 25.3481006622,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGML",
+      "iata": "MLO",
+      "name": "Milos Airport",
+      "name_slug": "milos-airport",
+      "city": "Milos Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 10,
+      "lat": 36.6968994141,
+      "lon": 24.4769001007,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGNX",
+      "iata": "JNX",
+      "name": "Naxos Airport",
+      "name_slug": "naxos-airport",
+      "city": "Naxos Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 10,
+      "lat": 37.0811004639,
+      "lon": 25.3680992126,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGPA",
+      "iata": "PAS",
+      "name": "Paros Airport",
+      "name_slug": "paros-airport",
+      "city": "Paros Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 131,
+      "lat": 37.0102996826,
+      "lon": 25.1280994415,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGPL",
+      "iata": "JTY",
+      "name": "Astypalaia Airport",
+      "name_slug": "astypalaia-airport",
+      "city": "Astypalaia Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 165,
+      "lat": 36.5798988342,
+      "lon": 26.3757991791,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGRD",
+      "iata": "",
+      "name": "Maritsa Airport",
+      "name_slug": "maritsa-airport",
+      "city": "Rodes Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 204,
+      "lat": 36.3830986023,
+      "lon": 28.1089000702,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGRP",
+      "iata": "RHO",
+      "name": "Diagoras Airport",
+      "name_slug": "diagoras-airport",
+      "city": "Rodes Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 17,
+      "lat": 36.4053993225,
+      "lon": 28.0862007141,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGSO",
+      "iata": "JSY",
+      "name": "Syros Airport",
+      "name_slug": "syros-airport",
+      "city": "Syros Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 236,
+      "lat": 37.4227981567,
+      "lon": 24.9508991241,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGSR",
+      "iata": "JTR",
+      "name": "Santorini Airport",
+      "name_slug": "santorini-airport",
+      "city": "Santorini Island",
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "perifereia_source": "South-Aegean",
+      "perifereia_slug": "notiou-aigaiou",
+      "perifereia_en": "South Aegean Region",
+      "country": "GR",
+      "elevation_ft": 127,
+      "lat": 36.3992004395,
+      "lon": 25.4792995453,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Νοτίου Αιγαίου - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Νοτίου Αιγαίου» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (South Aegean Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 15 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Νοτίου Αιγαίου | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Νοτίου Αιγαίου — 15 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 15 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

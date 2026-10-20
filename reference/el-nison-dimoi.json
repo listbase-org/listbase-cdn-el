@@ -1,0 +1,107 @@
+{
+  "id": "el-nison-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Νησων (8)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Νησων (8)",
+  "description": "Οι 8 δήμοι της Περιφερειακής Ενότητας Νησων (Περιφέρεια Αττικης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9207",
+      "name": "Αγκιστριου",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9208",
+      "name": "Αιγινας",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9209",
+      "name": "Κυθηρων",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9210",
+      "name": "Πορου",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9211",
+      "name": "Σαλαμινος",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9212",
+      "name": "Σπετσων",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9213",
+      "name": "Τροιζηνιας",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9214",
+      "name": "Υδρας",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Νησων (8) - Δωρεάν λήψη",
+    "description": "Οι 8 δήμοι της Περιφερειακής Ενότητας Νησων (Περιφέρεια Αττικης) σύμφωνα με τον Καλλικράτη. Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Νησων (8) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Νησων (8) — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

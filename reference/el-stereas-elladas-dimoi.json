@@ -1,0 +1,406 @@
+{
+  "id": "el-stereas-elladas-dimoi",
+  "name": "Δήμοι — Περιφέρεια Στερεάς Ελλάδας",
+  "title": "Δήμοι — Περιφέρεια Στερεάς Ελλάδας",
+  "description": "Οι δήμοι της Περιφέρειας Στερεάς Ελλάδας (Central Greece) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 25 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9142",
+      "name": "Αλιαρτου",
+      "slug": "aliartoy",
+      "regional_unit_id": "0801",
+      "regional_unit_name": "Βοιωτιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 2,
+      "communities_count": 10
+    },
+    {
+      "id": "9143",
+      "name": "Διστομου - Αραχοβας - Αντικυρας",
+      "slug": "distomoy-arachovas-antikyras",
+      "regional_unit_id": "0801",
+      "regional_unit_name": "Βοιωτιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 4
+    },
+    {
+      "id": "9144",
+      "name": "Θηβαιων",
+      "slug": "thivaion",
+      "regional_unit_id": "0801",
+      "regional_unit_name": "Βοιωτιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 17
+    },
+    {
+      "id": "9145",
+      "name": "Λεβαδεων",
+      "slug": "levadeon",
+      "regional_unit_id": "0801",
+      "regional_unit_name": "Βοιωτιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 5,
+      "communities_count": 20
+    },
+    {
+      "id": "9146",
+      "name": "Ορχομενου",
+      "slug": "orchomenoy",
+      "regional_unit_id": "0801",
+      "regional_unit_name": "Βοιωτιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 2,
+      "communities_count": 11
+    },
+    {
+      "id": "9147",
+      "name": "Ταναγρας",
+      "slug": "tanagras",
+      "regional_unit_id": "0801",
+      "regional_unit_name": "Βοιωτιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 12
+    },
+    {
+      "id": "9148",
+      "name": "Διρφυων-Μεσσαπιων",
+      "slug": "dirfyon-messapion",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 2,
+      "communities_count": 27
+    },
+    {
+      "id": "9149",
+      "name": "Ερετριας",
+      "slug": "eretrias",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 2,
+      "communities_count": 6
+    },
+    {
+      "id": "9150",
+      "name": "Ιστιαιας-Αιδηψου",
+      "slug": "istiaias-aidipsoy",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 5,
+      "communities_count": 26
+    },
+    {
+      "id": "9151",
+      "name": "Καρυστου",
+      "slug": "karystoy",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 22
+    },
+    {
+      "id": "9152",
+      "name": "Κυμης-Αλιβεριου",
+      "slug": "kymis-aliverioy",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 5,
+      "communities_count": 47
+    },
+    {
+      "id": "9153",
+      "name": "Μαντουδιου-Λιμνης-Αγιας Αννας",
+      "slug": "mantoydioy-limnis-agias-annas",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 22
+    },
+    {
+      "id": "9154",
+      "name": "Σκυρου",
+      "slug": "skyroy",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9155",
+      "name": "Χαλκιδεων",
+      "slug": "chalkideon",
+      "regional_unit_id": "0802",
+      "regional_unit_name": "Ευβοιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 5,
+      "communities_count": 14
+    },
+    {
+      "id": "9156",
+      "name": "Αγραφων",
+      "slug": "agrafon",
+      "regional_unit_id": "0803",
+      "regional_unit_name": "Ευρυτανιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 5,
+      "communities_count": 32
+    },
+    {
+      "id": "9157",
+      "name": "Καρπενησιου",
+      "slug": "karpenisioy",
+      "regional_unit_id": "0803",
+      "regional_unit_name": "Ευρυτανιας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 6,
+      "communities_count": 50
+    },
+    {
+      "id": "9158",
+      "name": "Αμφικλειας - Ελατειας",
+      "slug": "amfikleias-elateias",
+      "regional_unit_id": "0804",
+      "regional_unit_name": "Φθιωτιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 16
+    },
+    {
+      "id": "9159",
+      "name": "Δομοκου",
+      "slug": "domokoy",
+      "regional_unit_id": "0804",
+      "regional_unit_name": "Φθιωτιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 32
+    },
+    {
+      "id": "9160",
+      "name": "Λαμιεων",
+      "slug": "lamieon",
+      "regional_unit_id": "0804",
+      "regional_unit_name": "Φθιωτιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 5,
+      "communities_count": 46
+    },
+    {
+      "id": "9161",
+      "name": "Λοκρων",
+      "slug": "lokron",
+      "regional_unit_id": "0804",
+      "regional_unit_name": "Φθιωτιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 14
+    },
+    {
+      "id": "9162",
+      "name": "Μακρακωμης",
+      "slug": "makrakomis",
+      "regional_unit_id": "0804",
+      "regional_unit_name": "Φθιωτιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 49
+    },
+    {
+      "id": "9163",
+      "name": "Μωλου - Αγιου Κωνσταντινου",
+      "slug": "moloy-agioy-konstantinoy",
+      "regional_unit_id": "0804",
+      "regional_unit_name": "Φθιωτιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 14
+    },
+    {
+      "id": "9164",
+      "name": "Στυλιδος",
+      "slug": "stylidos",
+      "regional_unit_id": "0804",
+      "regional_unit_name": "Φθιωτιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 16
+    },
+    {
+      "id": "9165",
+      "name": "Δελφων",
+      "slug": "delfon",
+      "regional_unit_id": "0805",
+      "regional_unit_name": "Φωκιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 8,
+      "communities_count": 36
+    },
+    {
+      "id": "9166",
+      "name": "Δωριδος",
+      "slug": "doridos",
+      "regional_unit_id": "0805",
+      "regional_unit_name": "Φωκιδας",
+      "periphery_id": 8,
+      "periphery_name": "Στερεας Ελλαδας",
+      "periphery_name_native": "Στερεάς Ελλάδας",
+      "periphery_slug": "stereas-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 55
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Στερεάς Ελλάδας - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Στερεάς Ελλάδας (Central Greece) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 25 δήμοι. Περιέχει 25 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Στερεάς Ελλάδας | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Στερεάς Ελλάδας — 25 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 25 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

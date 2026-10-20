@@ -1,0 +1,186 @@
+{
+  "id": "el-kritis-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Κρήτης",
+  "title": "Αεροδρόμια — Περιφέρεια Κρήτης",
+  "description": "Αεροδρόμια στην «Περιφέρεια Κρήτης» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Crete Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LG54",
+      "iata": "",
+      "name": "Tympaki Airport",
+      "name_slug": "tympaki-airport",
+      "city": "Crete Island",
+      "perifereia": "Περιφέρεια Κρήτης",
+      "perifereia_source": "Crete",
+      "perifereia_slug": "kritis",
+      "perifereia_en": "Crete Region",
+      "country": "GR",
+      "elevation_ft": 7,
+      "lat": 35.0637016296,
+      "lon": 24.7674007416,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGIR",
+      "iata": "HER",
+      "name": "Heraklion International Nikos Kazantzakis Airport",
+      "name_slug": "heraklion-international-nikos-kazantzakis-airport",
+      "city": "Heraklion",
+      "perifereia": "Περιφέρεια Κρήτης",
+      "perifereia_source": "Crete",
+      "perifereia_slug": "kritis",
+      "perifereia_en": "Crete Region",
+      "country": "GR",
+      "elevation_ft": 115,
+      "lat": 35.3396987915,
+      "lon": 25.1802997589,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGSA",
+      "iata": "CHQ",
+      "name": "Chania International Airport",
+      "name_slug": "chania-international-airport",
+      "city": "Souda",
+      "perifereia": "Περιφέρεια Κρήτης",
+      "perifereia_source": "Crete",
+      "perifereia_slug": "kritis",
+      "perifereia_en": "Crete Region",
+      "country": "GR",
+      "elevation_ft": 490,
+      "lat": 35.5317001343,
+      "lon": 24.1497001648,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGST",
+      "iata": "JSH",
+      "name": "Sitia Airport",
+      "name_slug": "sitia-airport",
+      "city": "Crete Island",
+      "perifereia": "Περιφέρεια Κρήτης",
+      "perifereia_source": "Crete",
+      "perifereia_slug": "kritis",
+      "perifereia_en": "Crete Region",
+      "country": "GR",
+      "elevation_ft": 376,
+      "lat": 35.2160987854,
+      "lon": 26.1012992859,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGTL",
+      "iata": "",
+      "name": "Kasteli Airport",
+      "name_slug": "kasteli-airport",
+      "city": "Crete Island",
+      "perifereia": "Περιφέρεια Κρήτης",
+      "perifereia_source": "Crete",
+      "perifereia_slug": "kritis",
+      "perifereia_en": "Crete Region",
+      "country": "GR",
+      "elevation_ft": 1180,
+      "lat": 35.1920013428,
+      "lon": 25.3269996643,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Κρήτης - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Κρήτης» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Crete Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 5 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Κρήτης | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Κρήτης — 5 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 5 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

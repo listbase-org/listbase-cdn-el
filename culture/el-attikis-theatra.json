@@ -1,0 +1,1052 @@
+{
+  "id": "el-attikis-theatra",
+  "name": "Θέατρα — Περιφέρεια Αττικής",
+  "title": "Θέατρα — Περιφέρεια Αττικής",
+  "description": "Σημεία θεάτρων στην Περιφέρεια Αττικής με ελληνική ονομασία, αγγλική ονομασία (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-03-04). (Theatres in Attica with Greek/English names and WGS84 coordinates.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 1,
+      "name": "Θέατρο της Ημέρας",
+      "name_en": "",
+      "latitude": 37.9941409,
+      "longitude": 23.7646443
+    },
+    {
+      "source_id": 2,
+      "name": "Ζίνα",
+      "name_en": "",
+      "latitude": 37.9898684,
+      "longitude": 23.741755
+    },
+    {
+      "source_id": 3,
+      "name": "Θέατρο Λαμπέτη",
+      "name_en": "",
+      "latitude": 37.9889104,
+      "longitude": 23.7469955
+    },
+    {
+      "source_id": 4,
+      "name": "Φούρνος",
+      "name_en": "",
+      "latitude": 37.9879803,
+      "longitude": 23.7446619
+    },
+    {
+      "source_id": 5,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9663627,
+      "longitude": 23.7197749
+    },
+    {
+      "source_id": 6,
+      "name": "Coronet",
+      "name_en": "",
+      "latitude": 37.9664421,
+      "longitude": 23.7475275
+    },
+    {
+      "source_id": 7,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1007484,
+      "longitude": 23.97341
+    },
+    {
+      "source_id": 8,
+      "name": "Αμφιθέατρο",
+      "name_en": "",
+      "latitude": 38.0442991,
+      "longitude": 23.787522
+    },
+    {
+      "source_id": 9,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0313603,
+      "longitude": 23.7864678
+    },
+    {
+      "source_id": 10,
+      "name": "Μπάγκειον Ξενοδοχείο",
+      "name_en": "",
+      "latitude": 37.9835588,
+      "longitude": 23.7281101
+    },
+    {
+      "source_id": 11,
+      "name": "ΘΕΑΤΡΟ",
+      "name_en": "",
+      "latitude": 37.9738664,
+      "longitude": 23.7330978
+    },
+    {
+      "source_id": 12,
+      "name": "Παράρτημα Αθηναϊκής Σχολής Κάλβου-Καλαμπόκη",
+      "name_en": "",
+      "latitude": 37.9689122,
+      "longitude": 23.730691
+    },
+    {
+      "source_id": 13,
+      "name": "Δημοτικό Θέατρο \"Μίκης Θεοδωράκης\"",
+      "name_en": "",
+      "latitude": 37.9652079,
+      "longitude": 23.5571251
+    },
+    {
+      "source_id": 14,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.968995,
+      "longitude": 23.7241487
+    },
+    {
+      "source_id": 15,
+      "name": "Νέος Ακάδημος",
+      "name_en": "",
+      "latitude": 37.9821997,
+      "longitude": 23.7342602
+    },
+    {
+      "source_id": 16,
+      "name": "Αλκυονίς",
+      "name_en": "",
+      "latitude": 37.9918531,
+      "longitude": 23.7283418
+    },
+    {
+      "source_id": 17,
+      "name": "Θέατρο Στοά",
+      "name_en": "",
+      "latitude": 37.9782164,
+      "longitude": 23.7658147
+    },
+    {
+      "source_id": 18,
+      "name": "Χοροθέατρο Δόρας Στράτου",
+      "name_en": "Greek Dances Theatre \"Dora Stratou\"",
+      "latitude": 37.9678426,
+      "longitude": 23.7175946
+    },
+    {
+      "source_id": 19,
+      "name": "Θέατρο Βρετάνια",
+      "name_en": "Theater Vretania",
+      "latitude": 37.9769302,
+      "longitude": 23.7356172
+    },
+    {
+      "source_id": 20,
+      "name": "Ακροπόλ",
+      "name_en": "",
+      "latitude": 37.9817034,
+      "longitude": 23.7330889
+    },
+    {
+      "source_id": 21,
+      "name": "Θέατρο Παλλάς",
+      "name_en": "Pallas Theatre",
+      "latitude": 37.9771041,
+      "longitude": 23.7350517
+    },
+    {
+      "source_id": 22,
+      "name": "Πόρτα",
+      "name_en": "",
+      "latitude": 37.9877047,
+      "longitude": 23.766034
+    },
+    {
+      "source_id": 23,
+      "name": "Θέατρο Κάτιας Δανδουλάκη",
+      "name_en": "",
+      "latitude": 37.9999592,
+      "longitude": 23.7329082
+    },
+    {
+      "source_id": 24,
+      "name": "Γκλόρια",
+      "name_en": "",
+      "latitude": 37.9815556,
+      "longitude": 23.7329254
+    },
+    {
+      "source_id": 25,
+      "name": "Θέατρο Τέχνης Καρόλου Κουν",
+      "name_en": "",
+      "latitude": 37.9811853,
+      "longitude": 23.7311212
+    },
+    {
+      "source_id": 26,
+      "name": "Θέατρο Δημήτρης Χορν",
+      "name_en": "",
+      "latitude": 37.9782899,
+      "longitude": 23.7355772
+    },
+    {
+      "source_id": 27,
+      "name": "Θέατρο Ήβη",
+      "name_en": "",
+      "latitude": 37.9788068,
+      "longitude": 23.7223753
+    },
+    {
+      "source_id": 28,
+      "name": "Θέατρο Αποθήκη",
+      "name_en": "",
+      "latitude": 37.9785651,
+      "longitude": 23.7217723
+    },
+    {
+      "source_id": 29,
+      "name": "Αθηναΐς",
+      "name_en": "",
+      "latitude": 37.9834636,
+      "longitude": 23.7108987
+    },
+    {
+      "source_id": 30,
+      "name": "Θέατρο Παραμυθιάς",
+      "name_en": "",
+      "latitude": 37.9824257,
+      "longitude": 23.7145445
+    },
+    {
+      "source_id": 31,
+      "name": "104 εκατοντέσσερα",
+      "name_en": "",
+      "latitude": 37.9798371,
+      "longitude": 23.7114858
+    },
+    {
+      "source_id": 32,
+      "name": "Altera Pars",
+      "name_en": "",
+      "latitude": 37.9810631,
+      "longitude": 23.7134404
+    },
+    {
+      "source_id": 33,
+      "name": "Θέατρο Χυτήριο",
+      "name_en": "",
+      "latitude": 37.9805855,
+      "longitude": 23.7127857
+    },
+    {
+      "source_id": 34,
+      "name": "Κιβωτός",
+      "name_en": "",
+      "latitude": 37.975764,
+      "longitude": 23.7112474
+    },
+    {
+      "source_id": 35,
+      "name": "Θέατρο Αθηνών",
+      "name_en": "",
+      "latitude": 37.9770567,
+      "longitude": 23.7354297
+    },
+    {
+      "source_id": 36,
+      "name": "Ιλίσια",
+      "name_en": "",
+      "latitude": 37.9780344,
+      "longitude": 23.7526672
+    },
+    {
+      "source_id": 37,
+      "name": "Βέμπο",
+      "name_en": "",
+      "latitude": 37.9860169,
+      "longitude": 23.7224856
+    },
+    {
+      "source_id": 38,
+      "name": "Βεάκη",
+      "name_en": "",
+      "latitude": 37.9877631,
+      "longitude": 23.729575
+    },
+    {
+      "source_id": 39,
+      "name": "Διάνα",
+      "name_en": "",
+      "latitude": 37.9816069,
+      "longitude": 23.7329497
+    },
+    {
+      "source_id": 40,
+      "name": "Θέατρο Προσκήνιο",
+      "name_en": "",
+      "latitude": 37.9881872,
+      "longitude": 23.7270051
+    },
+    {
+      "source_id": 41,
+      "name": "Θέατρο Κνωσός",
+      "name_en": "",
+      "latitude": 38.0058877,
+      "longitude": 23.733595
+    },
+    {
+      "source_id": 42,
+      "name": "Θέατρο κάτω από τη γέφυρα",
+      "name_en": "",
+      "latitude": 37.9455571,
+      "longitude": 23.666428
+    },
+    {
+      "source_id": 43,
+      "name": "Θέατρο Καρέζη",
+      "name_en": "",
+      "latitude": 37.9768319,
+      "longitude": 23.7376051
+    },
+    {
+      "source_id": 44,
+      "name": "Αγγέλων Βήμα",
+      "name_en": "",
+      "latitude": 37.9854185,
+      "longitude": 23.7260957
+    },
+    {
+      "source_id": 45,
+      "name": "Γυάλινο Μουσικό Θέατρο",
+      "name_en": "",
+      "latitude": 37.9541548,
+      "longitude": 23.7140832
+    },
+    {
+      "source_id": 46,
+      "name": "BIOS Πολυχώρος",
+      "name_en": "",
+      "latitude": 37.97982,
+      "longitude": 23.7180653
+    },
+    {
+      "source_id": 47,
+      "name": "Θέατρο Πορεία",
+      "name_en": "",
+      "latitude": 37.9911301,
+      "longitude": 23.7292697
+    },
+    {
+      "source_id": 48,
+      "name": "Θέατρο Νέου Κόσμου",
+      "name_en": "",
+      "latitude": 37.9623993,
+      "longitude": 23.7265762
+    },
+    {
+      "source_id": 49,
+      "name": "Από μηχανής Θέατρο",
+      "name_en": "",
+      "latitude": 37.9819779,
+      "longitude": 23.7203675
+    },
+    {
+      "source_id": 50,
+      "name": "Θέατρο Μεταξουργείο",
+      "name_en": "",
+      "latitude": 37.9821048,
+      "longitude": 23.7205921
+    },
+    {
+      "source_id": 51,
+      "name": "Θέατρο Θησείο",
+      "name_en": "",
+      "latitude": 37.9785279,
+      "longitude": 23.7209395
+    },
+    {
+      "source_id": 52,
+      "name": "Tin Pan Alley (Modular Events Space)",
+      "name_en": "",
+      "latitude": 37.9783641,
+      "longitude": 23.7211286
+    },
+    {
+      "source_id": 53,
+      "name": "Rex – Πειραματική σκηνή",
+      "name_en": "",
+      "latitude": 37.9828526,
+      "longitude": 23.7312034
+    },
+    {
+      "source_id": 54,
+      "name": "Rex – Σκηνή «Μαρίκα Κοτοπούλη»",
+      "name_en": "",
+      "latitude": 37.9827585,
+      "longitude": 23.7312788
+    },
+    {
+      "source_id": 55,
+      "name": "Κεντρική σκηνή",
+      "name_en": "National Theatre",
+      "latitude": 37.9848047,
+      "longitude": 23.7252039
+    },
+    {
+      "source_id": 56,
+      "name": "Σκηνή «Νίκος Κούρκουλος»",
+      "name_en": "",
+      "latitude": 37.9847807,
+      "longitude": 23.7254626
+    },
+    {
+      "source_id": 57,
+      "name": "Θέατρο Μπρόντγουαιη",
+      "name_en": "",
+      "latitude": 37.999816,
+      "longitude": 23.7327764
+    },
+    {
+      "source_id": 58,
+      "name": "Διάχρονο θέατρο (Μ. Βιδάλη)",
+      "name_en": "",
+      "latitude": 37.9610523,
+      "longitude": 23.7327948
+    },
+    {
+      "source_id": 59,
+      "name": "Θέατρο Αλίκη",
+      "name_en": "",
+      "latitude": 37.977692,
+      "longitude": 23.7344109
+    },
+    {
+      "source_id": 60,
+      "name": "Θεατρική Σκηνή Α. Αντωνίου",
+      "name_en": "",
+      "latitude": 38.0114272,
+      "longitude": 23.7371395
+    },
+    {
+      "source_id": 61,
+      "name": "Τόπος Αλλού",
+      "name_en": "",
+      "latitude": 37.9985859,
+      "longitude": 23.7362722
+    },
+    {
+      "source_id": 62,
+      "name": "Θέατρο Οδού Κεφαλληνίας",
+      "name_en": "",
+      "latitude": 37.9987783,
+      "longitude": 23.7362186
+    },
+    {
+      "source_id": 63,
+      "name": "Θέατρο Οδού Κυκλάδων «Λευτέρης Βογιατζής» - Νέα Σκηνή",
+      "name_en": "",
+      "latitude": 37.9988533,
+      "longitude": 23.7363703
+    },
+    {
+      "source_id": 64,
+      "name": "Θέατρο Κάππα",
+      "name_en": "",
+      "latitude": 37.9956766,
+      "longitude": 23.734538
+    },
+    {
+      "source_id": 65,
+      "name": "Θέατρο Ελεύθερη Έκφραση",
+      "name_en": "",
+      "latitude": 38.0056458,
+      "longitude": 23.7355887
+    },
+    {
+      "source_id": 66,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8249221,
+      "longitude": 23.7698715
+    },
+    {
+      "source_id": 67,
+      "name": "ΕΜΠΟΡΙΚΟΝ",
+      "name_en": "",
+      "latitude": 37.9794688,
+      "longitude": 23.7234363
+    },
+    {
+      "source_id": 68,
+      "name": "Ορφέας",
+      "name_en": "",
+      "latitude": 37.9816033,
+      "longitude": 23.7321893
+    },
+    {
+      "source_id": 69,
+      "name": "Θέατρο Νταμάρι «Αλίκη Βουγιουκλάκη»",
+      "name_en": "",
+      "latitude": 38.048719,
+      "longitude": 23.8449555
+    },
+    {
+      "source_id": 70,
+      "name": "Εθνική Λυρική Σκηνή",
+      "name_en": "Greek National Opera",
+      "latitude": 37.9394457,
+      "longitude": 23.691161
+    },
+    {
+      "source_id": 71,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.964247,
+      "longitude": 23.6352683
+    },
+    {
+      "source_id": 72,
+      "name": "Άλφα.Ιδέα",
+      "name_en": "Alfa.Idea",
+      "latitude": 37.9873323,
+      "longitude": 23.7298428
+    },
+    {
+      "source_id": 73,
+      "name": "Ένεκα Παιδείας",
+      "name_en": "",
+      "latitude": 37.9065075,
+      "longitude": 23.7549638
+    },
+    {
+      "source_id": 74,
+      "name": "Θέατρο Σκιών  -Σπυροπούλειο Μουσείο",
+      "name_en": "",
+      "latitude": 38.038643,
+      "longitude": 23.731934
+    },
+    {
+      "source_id": 75,
+      "name": "Σύγχρονο Θέατρο",
+      "name_en": "",
+      "latitude": 37.9798846,
+      "longitude": 23.7113195
+    },
+    {
+      "source_id": 76,
+      "name": "Underground",
+      "name_en": "",
+      "latitude": 37.9799077,
+      "longitude": 23.7326707
+    },
+    {
+      "source_id": 77,
+      "name": "Αυλαία",
+      "name_en": "",
+      "latitude": 37.9394253,
+      "longitude": 23.6467874
+    },
+    {
+      "source_id": 78,
+      "name": "Δημοτικό θέατρο Ν. Ιωνίας",
+      "name_en": "",
+      "latitude": 38.0351665,
+      "longitude": 23.7530056
+    },
+    {
+      "source_id": 79,
+      "name": "Attis",
+      "name_en": "",
+      "latitude": 37.9837684,
+      "longitude": 23.7221327
+    },
+    {
+      "source_id": 80,
+      "name": "Επί Κολωνώ",
+      "name_en": "",
+      "latitude": 37.9905317,
+      "longitude": 23.7162092
+    },
+    {
+      "source_id": 81,
+      "name": "Ανοιχτό θεατράκι",
+      "name_en": "",
+      "latitude": 37.954638,
+      "longitude": 23.7521193
+    },
+    {
+      "source_id": 82,
+      "name": "Vault Theatre Plus",
+      "name_en": "",
+      "latitude": 37.9837672,
+      "longitude": 23.7117264
+    },
+    {
+      "source_id": 83,
+      "name": "Μέγαρο Διεθνές Συνεδριακό Κέντρο Αθηνών",
+      "name_en": "Megaron Athens International Conference Centre",
+      "latitude": 37.9805874,
+      "longitude": 23.7540192
+    },
+    {
+      "source_id": 84,
+      "name": "Skrow Theater",
+      "name_en": "",
+      "latitude": 37.9705752,
+      "longitude": 23.746775
+    },
+    {
+      "source_id": 85,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8399926,
+      "longitude": 23.763876
+    },
+    {
+      "source_id": 86,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9092889,
+      "longitude": 23.7376585
+    },
+    {
+      "source_id": 87,
+      "name": "Ευριπίδειο Θέατρο Ρεματιάς Χαλανδρίου",
+      "name_en": "",
+      "latitude": 38.0275185,
+      "longitude": 23.8090618
+    },
+    {
+      "source_id": 88,
+      "name": "Θέατρο Πολιτών",
+      "name_en": "",
+      "latitude": 38.0138406,
+      "longitude": 23.7153204
+    },
+    {
+      "source_id": 89,
+      "name": "θέατρο Ριάλτο Αλέκος Αλεξανδράκης",
+      "name_en": "",
+      "latitude": 37.9991404,
+      "longitude": 23.7386702
+    },
+    {
+      "source_id": 90,
+      "name": "Αίθουσα Ιωνία",
+      "name_en": "",
+      "latitude": 37.836095,
+      "longitude": 23.7671286
+    },
+    {
+      "source_id": 91,
+      "name": "Theatro Odou Ermour",
+      "name_en": "",
+      "latitude": 37.9773424,
+      "longitude": 23.7238325
+    },
+    {
+      "source_id": 92,
+      "name": "Θεατράκι Ρεμίζας",
+      "name_en": "",
+      "latitude": 37.7141219,
+      "longitude": 24.0572863
+    },
+    {
+      "source_id": 93,
+      "name": "Σταθμός",
+      "name_en": "",
+      "latitude": 37.9866156,
+      "longitude": 23.7205471
+    },
+    {
+      "source_id": 94,
+      "name": "Θέατρο \"Αλκμήνη\"",
+      "name_en": "",
+      "latitude": 37.9745072,
+      "longitude": 23.7103556
+    },
+    {
+      "source_id": 95,
+      "name": "Άλμα",
+      "name_en": "",
+      "latitude": 37.9855083,
+      "longitude": 23.7229887
+    },
+    {
+      "source_id": 96,
+      "name": "Θέατρο \"Αργώ\"",
+      "name_en": "",
+      "latitude": 37.986937,
+      "longitude": 23.7194953
+    },
+    {
+      "source_id": 97,
+      "name": "Κινητήρας Στούντιο",
+      "name_en": "",
+      "latitude": 37.9675361,
+      "longitude": 23.7253881
+    },
+    {
+      "source_id": 98,
+      "name": "Φιλολογικός Σύλλογος Παρνασσός",
+      "name_en": "",
+      "latitude": 37.9778637,
+      "longitude": 23.7319489
+    },
+    {
+      "source_id": 99,
+      "name": "Τεχνοχώρος Φάμπρικα",
+      "name_en": "",
+      "latitude": 37.9809963,
+      "longitude": 23.7133289
+    },
+    {
+      "source_id": 100,
+      "name": "θεατράκι εργατικών κατοικιών Κηφισιάς",
+      "name_en": "",
+      "latitude": 38.071814,
+      "longitude": 23.796747
+    },
+    {
+      "source_id": 101,
+      "name": "θέατρο Περοκέ",
+      "name_en": "",
+      "latitude": 37.9862735,
+      "longitude": 23.7209543
+    },
+    {
+      "source_id": 102,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0175692,
+      "longitude": 24.0122931
+    },
+    {
+      "source_id": 103,
+      "name": "Κλειστό Δημοτικό Θέατρο Δήμου Ηλιουπόλεως",
+      "name_en": "",
+      "latitude": 37.9324787,
+      "longitude": 23.7583112
+    },
+    {
+      "source_id": 104,
+      "name": "Διθύραμβος",
+      "name_en": "",
+      "latitude": 38.0531537,
+      "longitude": 23.8101593
+    },
+    {
+      "source_id": 105,
+      "name": "Θεατράκι πλατείας Καρύλλου",
+      "name_en": "",
+      "latitude": 37.9482272,
+      "longitude": 23.7144253
+    },
+    {
+      "source_id": 106,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.92287,
+      "longitude": 23.7351467
+    },
+    {
+      "source_id": 107,
+      "name": "Κόκκινη κλωστή…",
+      "name_en": "",
+      "latitude": 37.9717721,
+      "longitude": 23.7067957
+    },
+    {
+      "source_id": 108,
+      "name": "Θέατρο Εκστάν",
+      "name_en": "",
+      "latitude": 38.015761,
+      "longitude": 23.7347768
+    },
+    {
+      "source_id": 109,
+      "name": "Αντιθέατρο",
+      "name_en": "",
+      "latitude": 37.9776306,
+      "longitude": 23.7232571
+    },
+    {
+      "source_id": 110,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.146986,
+      "longitude": 23.6464447
+    },
+    {
+      "source_id": 111,
+      "name": "Cartel Τεχνοχώρος",
+      "name_en": "",
+      "latitude": 37.983468,
+      "longitude": 23.6907674
+    },
+    {
+      "source_id": 112,
+      "name": "Δημοτικό Θέατρο Βάρης",
+      "name_en": "",
+      "latitude": 37.8309543,
+      "longitude": 23.8044579
+    },
+    {
+      "source_id": 113,
+      "name": "Από Κοινού Θέατρο",
+      "name_en": "",
+      "latitude": 37.9798846,
+      "longitude": 23.7131497
+    },
+    {
+      "source_id": 114,
+      "name": "Κηποθέατρο Παπάγου",
+      "name_en": "",
+      "latitude": 37.992652,
+      "longitude": 23.7967233
+    },
+    {
+      "source_id": 115,
+      "name": "Ανοιχτό θεατράκι",
+      "name_en": "",
+      "latitude": 37.9939711,
+      "longitude": 23.7407713
+    },
+    {
+      "source_id": 116,
+      "name": "Άλσος",
+      "name_en": "",
+      "latitude": 37.9944599,
+      "longitude": 23.7387401
+    },
+    {
+      "source_id": 117,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1010087,
+      "longitude": 23.9739195
+    },
+    {
+      "source_id": 118,
+      "name": "Ανοιχτό θεατράκι",
+      "name_en": "",
+      "latitude": 37.9451567,
+      "longitude": 23.7521617
+    },
+    {
+      "source_id": 119,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9977408,
+      "longitude": 23.7640724
+    },
+    {
+      "source_id": 120,
+      "name": "Θέατρο Κατερίνα Βασιλάκου",
+      "name_en": "",
+      "latitude": 37.9829915,
+      "longitude": 23.7145733
+    },
+    {
+      "source_id": 121,
+      "name": "Attis [νέοςχώρος]",
+      "name_en": "",
+      "latitude": 37.9838993,
+      "longitude": 23.7220421
+    },
+    {
+      "source_id": 122,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9655693,
+      "longitude": 23.6366036
+    },
+    {
+      "source_id": 123,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9998188,
+      "longitude": 23.3325284
+    },
+    {
+      "source_id": 124,
+      "name": "Καφεθέατρο",
+      "name_en": "",
+      "latitude": 37.9954671,
+      "longitude": 23.7338885
+    },
+    {
+      "source_id": 125,
+      "name": "Dora Stratou",
+      "name_en": "",
+      "latitude": 37.9725236,
+      "longitude": 23.7298319
+    },
+    {
+      "source_id": 126,
+      "name": "Δημοτικό Θέατρο Καλλιθέας",
+      "name_en": "",
+      "latitude": 37.9571361,
+      "longitude": 23.6986843
+    },
+    {
+      "source_id": 127,
+      "name": "Θέατρο art 63",
+      "name_en": "",
+      "latitude": 37.9907176,
+      "longitude": 23.729499
+    },
+    {
+      "source_id": 128,
+      "name": "Coronet",
+      "name_en": "",
+      "latitude": 37.9667395,
+      "longitude": 23.7480893
+    },
+    {
+      "source_id": 129,
+      "name": "Ark",
+      "name_en": "",
+      "latitude": 38.01074,
+      "longitude": 23.7359639
+    },
+    {
+      "source_id": 130,
+      "name": "Αμφιθέατρο «Μιλτιάδης Έβερτ»",
+      "name_en": "",
+      "latitude": 37.9780917,
+      "longitude": 23.7144868
+    },
+    {
+      "source_id": 131,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9757931,
+      "longitude": 23.2837928
+    },
+    {
+      "source_id": 132,
+      "name": "Θεατρική Σκήνή Γκαράζ",
+      "name_en": "",
+      "latitude": 37.9809049,
+      "longitude": 23.6540451
+    },
+    {
+      "source_id": 133,
+      "name": "Αλάμπρα",
+      "name_en": "",
+      "latitude": 37.9875319,
+      "longitude": 23.729591
+    },
+    {
+      "source_id": 134,
+      "name": "Θέατρο Μπέλλος",
+      "name_en": "",
+      "latitude": 37.9730371,
+      "longitude": 23.7313519
+    },
+    {
+      "source_id": 135,
+      "name": "Λοσάντζελε",
+      "name_en": "",
+      "latitude": 37.9668044,
+      "longitude": 23.7303583
+    },
+    {
+      "source_id": 136,
+      "name": "Kallitechnio",
+      "name_en": "Kallitechnio",
+      "latitude": 38.0809657,
+      "longitude": 23.7342852
+    },
+    {
+      "source_id": 137,
+      "name": "Σημείο",
+      "name_en": "",
+      "latitude": 37.9609337,
+      "longitude": 23.7178254
+    },
+    {
+      "source_id": 138,
+      "name": "Θέατρο Χώρα (Chora theater)",
+      "name_en": "",
+      "latitude": 38.0081329,
+      "longitude": 23.7368412
+    },
+    {
+      "source_id": 139,
+      "name": "Αμάλειο Θέατρο - Αίθριο Θέατρο Αμαρουσίου",
+      "name_en": "",
+      "latitude": 38.0607539,
+      "longitude": 23.8080988
+    },
+    {
+      "source_id": 140,
+      "name": "Ρόδα",
+      "name_en": "",
+      "latitude": 38.0332265,
+      "longitude": 23.7741966
+    },
+    {
+      "source_id": 141,
+      "name": "ΦΙΛΙΠ",
+      "name_en": "",
+      "latitude": 38.003745,
+      "longitude": 23.7354004
+    },
+    {
+      "source_id": 142,
+      "name": "Red Jasper",
+      "name_en": "",
+      "latitude": 37.9987821,
+      "longitude": 23.7360858
+    },
+    {
+      "source_id": 143,
+      "name": "Θέατρο Καλλιρόης",
+      "name_en": "",
+      "latitude": 37.966988,
+      "longitude": 23.7317603
+    }
+  ],
+  "meta": {
+    "title": "Θέατρα — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Σημεία θεάτρων στην Περιφέρεια Αττικής με ελληνική ονομασία, αγγλική ονομασία (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-03-04). (Theatres in Attica with Greek/English names and WGS84 coordinates.) Περιέχει 143 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Θέατρα — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Θέατρα — Περιφέρεια Αττικής — 143 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 143 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

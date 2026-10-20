@@ -1,0 +1,100 @@
+{
+  "id": "el-dytikis-makedonias-ethnikoi-drymoi",
+  "name": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Μακεδονίας",
+  "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Μακεδονίας",
+  "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Δυτικής Μακεδονίας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Δυτικής Μακεδονίας.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q1988901",
+      "name_el": "Εθνικός Δρυμός Πρεσπών",
+      "name_en": "Prespes National Park",
+      "latitude": 40.772222,
+      "longitude": 21.077222,
+      "established_year": 1974,
+      "area_ha": 250,
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "",
+      "municipality": "",
+      "wikipedia_el": ""
+    }
+  ],
+  "meta": {
+    "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Μακεδονίας - Δωρεάν λήψη",
+    "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Δυτικής Μακεδονίας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Δυτικής Μακεδονίας.) Περιέχει 1 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Μακεδονίας | ListBase",
+    "seo_description": "Λήψη Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Μακεδονίας — 1 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1 εγγραφές / 12 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

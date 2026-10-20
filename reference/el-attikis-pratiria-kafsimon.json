@@ -1,0 +1,7961 @@
+{
+  "id": "el-attikis-pratiria-kafsimon",
+  "name": "Πρατήρια καυσίμων — Περιφέρεια Αττικής",
+  "title": "Πρατήρια καυσίμων — Περιφέρεια Αττικής",
+  "description": "Σημεία πρατηρίων καυσίμων στην Περιφέρεια Αττικής με ονομασία/brand (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (uploaded 2025-12-09 per info note). (Fuel/petrol station locations in Attica.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1130,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 5,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9746641,
+      "longitude": 23.7779535
+    },
+    {
+      "source_id": 26,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0924521,
+      "longitude": 23.6058972
+    },
+    {
+      "source_id": 62,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9409909,
+      "longitude": 23.7365475
+    },
+    {
+      "source_id": 187,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0934672,
+      "longitude": 23.6042815
+    },
+    {
+      "source_id": 419,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8865186,
+      "longitude": 23.7503099
+    },
+    {
+      "source_id": 428,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8829472,
+      "longitude": 23.7591488
+    },
+    {
+      "source_id": 734,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.2130614,
+      "longitude": 23.8550236
+    },
+    {
+      "source_id": 784,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8830262,
+      "longitude": 23.7539421
+    },
+    {
+      "source_id": 884,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0459598,
+      "longitude": 23.7825385
+    },
+    {
+      "source_id": 895,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0777432,
+      "longitude": 23.7391005
+    },
+    {
+      "source_id": 907,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8760757,
+      "longitude": 23.7640728
+    },
+    {
+      "source_id": 913,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8712151,
+      "longitude": 23.7645046
+    },
+    {
+      "source_id": 916,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.8709413,
+      "longitude": 23.7650026
+    },
+    {
+      "source_id": 974,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9600478,
+      "longitude": 23.6806263
+    },
+    {
+      "source_id": 985,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0293457,
+      "longitude": 23.7921761
+    },
+    {
+      "source_id": 997,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9256199,
+      "longitude": 23.9326271
+    },
+    {
+      "source_id": 1272,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.7251913,
+      "longitude": 24.014249
+    },
+    {
+      "source_id": 1445,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0545331,
+      "longitude": 23.8118927
+    },
+    {
+      "source_id": 1498,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0766221,
+      "longitude": 23.7397751
+    },
+    {
+      "source_id": 1518,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.9509837,
+      "longitude": 23.7170726
+    },
+    {
+      "source_id": 1617,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9939476,
+      "longitude": 23.7750775
+    },
+    {
+      "source_id": 1805,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9439643,
+      "longitude": 23.6617465
+    },
+    {
+      "source_id": 1807,
+      "name": "Κουφός Δημήτριος και ΣΙΑ ΑΕ",
+      "name_en": "",
+      "latitude": 37.9438892,
+      "longitude": 23.6617597
+    },
+    {
+      "source_id": 1838,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0616266,
+      "longitude": 23.756596
+    },
+    {
+      "source_id": 1848,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.140663,
+      "longitude": 23.8421046
+    },
+    {
+      "source_id": 1929,
+      "name": "Avin",
+      "name_en": "",
+      "latitude": 37.8924234,
+      "longitude": 23.8813886
+    },
+    {
+      "source_id": 2050,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9726292,
+      "longitude": 23.7451773
+    },
+    {
+      "source_id": 2105,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9911335,
+      "longitude": 23.7989696
+    },
+    {
+      "source_id": 2184,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.1369824,
+      "longitude": 23.8562471
+    },
+    {
+      "source_id": 2267,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9701921,
+      "longitude": 23.7022062
+    },
+    {
+      "source_id": 2294,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0158474,
+      "longitude": 23.7911523
+    },
+    {
+      "source_id": 2302,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0194705,
+      "longitude": 23.7943316
+    },
+    {
+      "source_id": 2304,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.020805,
+      "longitude": 23.7932969
+    },
+    {
+      "source_id": 2370,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8442975,
+      "longitude": 23.9287615
+    },
+    {
+      "source_id": 2371,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8361297,
+      "longitude": 23.9202986
+    },
+    {
+      "source_id": 2397,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0115627,
+      "longitude": 23.7857918
+    },
+    {
+      "source_id": 2460,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0346855,
+      "longitude": 23.7107982
+    },
+    {
+      "source_id": 2725,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 37.9172605,
+      "longitude": 23.7018051
+    },
+    {
+      "source_id": 2726,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9173304,
+      "longitude": 23.7017619
+    },
+    {
+      "source_id": 2824,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0230532,
+      "longitude": 23.794643
+    },
+    {
+      "source_id": 2826,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0227814,
+      "longitude": 23.7953715
+    },
+    {
+      "source_id": 2829,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0267568,
+      "longitude": 23.8118295
+    },
+    {
+      "source_id": 2917,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0358286,
+      "longitude": 23.8247383
+    },
+    {
+      "source_id": 2934,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0002181,
+      "longitude": 23.7872708
+    },
+    {
+      "source_id": 2950,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0114824,
+      "longitude": 23.8381315
+    },
+    {
+      "source_id": 2968,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0101468,
+      "longitude": 23.8007969
+    },
+    {
+      "source_id": 2972,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0065146,
+      "longitude": 23.797386
+    },
+    {
+      "source_id": 2977,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0096497,
+      "longitude": 23.7889824
+    },
+    {
+      "source_id": 2978,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0097649,
+      "longitude": 23.7887048
+    },
+    {
+      "source_id": 3016,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0130394,
+      "longitude": 23.8357628
+    },
+    {
+      "source_id": 3034,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0118855,
+      "longitude": 23.8147294
+    },
+    {
+      "source_id": 3081,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0113577,
+      "longitude": 23.8127669
+    },
+    {
+      "source_id": 3097,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0087812,
+      "longitude": 23.8057061
+    },
+    {
+      "source_id": 3098,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0106856,
+      "longitude": 23.8096254
+    },
+    {
+      "source_id": 3109,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0003842,
+      "longitude": 23.7726035
+    },
+    {
+      "source_id": 3111,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0059023,
+      "longitude": 23.7768443
+    },
+    {
+      "source_id": 3131,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9954661,
+      "longitude": 23.7788498
+    },
+    {
+      "source_id": 3143,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0152952,
+      "longitude": 23.8438981
+    },
+    {
+      "source_id": 3144,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0266131,
+      "longitude": 23.7857034
+    },
+    {
+      "source_id": 3145,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.028323,
+      "longitude": 23.782881
+    },
+    {
+      "source_id": 3153,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0362835,
+      "longitude": 23.7731601
+    },
+    {
+      "source_id": 3167,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9071287,
+      "longitude": 23.7529716
+    },
+    {
+      "source_id": 3170,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.909557,
+      "longitude": 23.7516565
+    },
+    {
+      "source_id": 3203,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.027355,
+      "longitude": 23.8437207
+    },
+    {
+      "source_id": 3227,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0361769,
+      "longitude": 23.8196369
+    },
+    {
+      "source_id": 3240,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0447106,
+      "longitude": 23.8105177
+    },
+    {
+      "source_id": 3293,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0592789,
+      "longitude": 23.7945117
+    },
+    {
+      "source_id": 3296,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9943734,
+      "longitude": 23.7689125
+    },
+    {
+      "source_id": 3302,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.000769,
+      "longitude": 23.7608641
+    },
+    {
+      "source_id": 3309,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0751486,
+      "longitude": 23.7958086
+    },
+    {
+      "source_id": 3336,
+      "name": "Πετρογκαζ",
+      "name_en": "",
+      "latitude": 37.8942584,
+      "longitude": 23.747678
+    },
+    {
+      "source_id": 3352,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9904271,
+      "longitude": 23.7385314
+    },
+    {
+      "source_id": 3362,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9973851,
+      "longitude": 23.6964317
+    },
+    {
+      "source_id": 3399,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9816215,
+      "longitude": 23.7591881
+    },
+    {
+      "source_id": 3528,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9631592,
+      "longitude": 23.7001929
+    },
+    {
+      "source_id": 3532,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9631141,
+      "longitude": 23.6997595
+    },
+    {
+      "source_id": 3561,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.0976706,
+      "longitude": 23.7483145
+    },
+    {
+      "source_id": 3594,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9492728,
+      "longitude": 23.6803315
+    },
+    {
+      "source_id": 3600,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9556212,
+      "longitude": 23.6773452
+    },
+    {
+      "source_id": 3607,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9336495,
+      "longitude": 23.7013902
+    },
+    {
+      "source_id": 3609,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9366541,
+      "longitude": 23.6988693
+    },
+    {
+      "source_id": 3611,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9380189,
+      "longitude": 23.7006596
+    },
+    {
+      "source_id": 3647,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8932724,
+      "longitude": 23.761992
+    },
+    {
+      "source_id": 3653,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9385201,
+      "longitude": 23.7010786
+    },
+    {
+      "source_id": 3659,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.935378,
+      "longitude": 23.7015484
+    },
+    {
+      "source_id": 3660,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9362317,
+      "longitude": 23.7014595
+    },
+    {
+      "source_id": 3674,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0507477,
+      "longitude": 23.7651387
+    },
+    {
+      "source_id": 3675,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9334408,
+      "longitude": 23.7039739
+    },
+    {
+      "source_id": 3678,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9322562,
+      "longitude": 23.7102606
+    },
+    {
+      "source_id": 3679,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9300928,
+      "longitude": 23.7027894
+    },
+    {
+      "source_id": 3686,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9303838,
+      "longitude": 23.7097115
+    },
+    {
+      "source_id": 3706,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9867725,
+      "longitude": 23.7553229
+    },
+    {
+      "source_id": 3709,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9286642,
+      "longitude": 23.7078034
+    },
+    {
+      "source_id": 3715,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9303472,
+      "longitude": 23.7129497
+    },
+    {
+      "source_id": 3724,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9327777,
+      "longitude": 23.7145195
+    },
+    {
+      "source_id": 3725,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.94091,
+      "longitude": 23.7163521
+    },
+    {
+      "source_id": 3739,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9488887,
+      "longitude": 23.721373
+    },
+    {
+      "source_id": 3742,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8691319,
+      "longitude": 23.7395147
+    },
+    {
+      "source_id": 3743,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.8701132,
+      "longitude": 23.7384579
+    },
+    {
+      "source_id": 3757,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9609095,
+      "longitude": 23.734008
+    },
+    {
+      "source_id": 3758,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9590789,
+      "longitude": 23.7352155
+    },
+    {
+      "source_id": 3768,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0394033,
+      "longitude": 23.7623638
+    },
+    {
+      "source_id": 3772,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9635702,
+      "longitude": 23.7427062
+    },
+    {
+      "source_id": 3776,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9711433,
+      "longitude": 23.7561457
+    },
+    {
+      "source_id": 3865,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.0052034,
+      "longitude": 23.7489085
+    },
+    {
+      "source_id": 3876,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0121677,
+      "longitude": 23.7388526
+    },
+    {
+      "source_id": 3882,
+      "name": "Avin",
+      "name_en": "",
+      "latitude": 38.015611,
+      "longitude": 23.7395997
+    },
+    {
+      "source_id": 3888,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0138668,
+      "longitude": 23.7480682
+    },
+    {
+      "source_id": 3899,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0133704,
+      "longitude": 23.7510793
+    },
+    {
+      "source_id": 3901,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0139438,
+      "longitude": 23.7492669
+    },
+    {
+      "source_id": 3911,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0121154,
+      "longitude": 23.7553118
+    },
+    {
+      "source_id": 3916,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0168717,
+      "longitude": 23.7552231
+    },
+    {
+      "source_id": 3937,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0145828,
+      "longitude": 23.7466175
+    },
+    {
+      "source_id": 4071,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0211808,
+      "longitude": 23.7299863
+    },
+    {
+      "source_id": 4133,
+      "name": "ETEKA",
+      "name_en": "",
+      "latitude": 38.0051286,
+      "longitude": 23.7218992
+    },
+    {
+      "source_id": 4162,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.7160465,
+      "longitude": 24.0546492
+    },
+    {
+      "source_id": 4192,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0156688,
+      "longitude": 23.7224435
+    },
+    {
+      "source_id": 4200,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0206847,
+      "longitude": 23.7292775
+    },
+    {
+      "source_id": 4213,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0299976,
+      "longitude": 23.7297909
+    },
+    {
+      "source_id": 4326,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9554554,
+      "longitude": 23.7604327
+    },
+    {
+      "source_id": 4331,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9629456,
+      "longitude": 23.7582119
+    },
+    {
+      "source_id": 4366,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 37.9560946,
+      "longitude": 23.7512508
+    },
+    {
+      "source_id": 4371,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9597352,
+      "longitude": 23.7404863
+    },
+    {
+      "source_id": 4374,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.953199,
+      "longitude": 23.7390136
+    },
+    {
+      "source_id": 4376,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9527829,
+      "longitude": 23.7482447
+    },
+    {
+      "source_id": 4377,
+      "name": "Olympic Fuels",
+      "name_en": "",
+      "latitude": 37.9542598,
+      "longitude": 23.7501825
+    },
+    {
+      "source_id": 4378,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9538332,
+      "longitude": 23.7524206
+    },
+    {
+      "source_id": 4418,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9521632,
+      "longitude": 23.7297024
+    },
+    {
+      "source_id": 4460,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.948033,
+      "longitude": 23.7384423
+    },
+    {
+      "source_id": 4467,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9415612,
+      "longitude": 23.7399921
+    },
+    {
+      "source_id": 4471,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9404395,
+      "longitude": 23.7402849
+    },
+    {
+      "source_id": 4479,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9488373,
+      "longitude": 23.7428894
+    },
+    {
+      "source_id": 4519,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9480309,
+      "longitude": 23.7679028
+    },
+    {
+      "source_id": 4529,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9463741,
+      "longitude": 23.7667158
+    },
+    {
+      "source_id": 4536,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9437244,
+      "longitude": 23.7481873
+    },
+    {
+      "source_id": 4545,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9344869,
+      "longitude": 23.7445554
+    },
+    {
+      "source_id": 4546,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9457673,
+      "longitude": 23.7477299
+    },
+    {
+      "source_id": 4547,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9441734,
+      "longitude": 23.7485731
+    },
+    {
+      "source_id": 4548,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9426502,
+      "longitude": 23.7491488
+    },
+    {
+      "source_id": 4550,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8752482,
+      "longitude": 23.7334626
+    },
+    {
+      "source_id": 4553,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8945297,
+      "longitude": 23.7622603
+    },
+    {
+      "source_id": 4557,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9401115,
+      "longitude": 23.7558288
+    },
+    {
+      "source_id": 4558,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9395119,
+      "longitude": 23.7604189
+    },
+    {
+      "source_id": 4560,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.93727,
+      "longitude": 23.7589513
+    },
+    {
+      "source_id": 4572,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.9331767,
+      "longitude": 23.7590323
+    },
+    {
+      "source_id": 4581,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9318014,
+      "longitude": 23.7548652
+    },
+    {
+      "source_id": 4591,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9352433,
+      "longitude": 23.7501296
+    },
+    {
+      "source_id": 4658,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9153876,
+      "longitude": 23.7551019
+    },
+    {
+      "source_id": 4666,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9151958,
+      "longitude": 23.7546045
+    },
+    {
+      "source_id": 4667,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9134857,
+      "longitude": 23.7479604
+    },
+    {
+      "source_id": 4670,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9089034,
+      "longitude": 23.7473582
+    },
+    {
+      "source_id": 4676,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.9118886,
+      "longitude": 23.7543162
+    },
+    {
+      "source_id": 4680,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9131178,
+      "longitude": 23.7543807
+    },
+    {
+      "source_id": 4701,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.9002692,
+      "longitude": 23.7563323
+    },
+    {
+      "source_id": 4708,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9006804,
+      "longitude": 23.7467021
+    },
+    {
+      "source_id": 4712,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8970172,
+      "longitude": 23.7472172
+    },
+    {
+      "source_id": 4717,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.8960144,
+      "longitude": 23.7472401
+    },
+    {
+      "source_id": 4795,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9072871,
+      "longitude": 23.7245598
+    },
+    {
+      "source_id": 4824,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9095695,
+      "longitude": 23.7392256
+    },
+    {
+      "source_id": 4959,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9161709,
+      "longitude": 23.7177405
+    },
+    {
+      "source_id": 4995,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 37.9220876,
+      "longitude": 23.7147787
+    },
+    {
+      "source_id": 5000,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0052049,
+      "longitude": 23.7168219
+    },
+    {
+      "source_id": 5001,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0079049,
+      "longitude": 23.7156697
+    },
+    {
+      "source_id": 5024,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0125117,
+      "longitude": 23.72007
+    },
+    {
+      "source_id": 5045,
+      "name": "Fisikon",
+      "name_en": "",
+      "latitude": 37.9752147,
+      "longitude": 23.6703101
+    },
+    {
+      "source_id": 5046,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9609061,
+      "longitude": 23.6557961
+    },
+    {
+      "source_id": 5047,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.968464,
+      "longitude": 23.6561459
+    },
+    {
+      "source_id": 5050,
+      "name": "Open",
+      "name_en": "",
+      "latitude": 37.9590592,
+      "longitude": 23.6186344
+    },
+    {
+      "source_id": 5051,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 38.0209449,
+      "longitude": 23.8470901
+    },
+    {
+      "source_id": 5052,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.0207875,
+      "longitude": 23.8469523
+    },
+    {
+      "source_id": 5053,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9587683,
+      "longitude": 23.6196317
+    },
+    {
+      "source_id": 5060,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9250412,
+      "longitude": 23.7247165
+    },
+    {
+      "source_id": 5062,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0160926,
+      "longitude": 23.8604031
+    },
+    {
+      "source_id": 5064,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9617315,
+      "longitude": 23.5776974
+    },
+    {
+      "source_id": 5065,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0142558,
+      "longitude": 23.8429389
+    },
+    {
+      "source_id": 5068,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9590664,
+      "longitude": 23.6691754
+    },
+    {
+      "source_id": 5069,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9588395,
+      "longitude": 23.671527
+    },
+    {
+      "source_id": 5070,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 37.9707137,
+      "longitude": 23.6206099
+    },
+    {
+      "source_id": 5071,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9577646,
+      "longitude": 23.664398
+    },
+    {
+      "source_id": 5073,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.970669,
+      "longitude": 23.7035832
+    },
+    {
+      "source_id": 5076,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0487834,
+      "longitude": 23.8012436
+    },
+    {
+      "source_id": 5077,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0242644,
+      "longitude": 23.7014951
+    },
+    {
+      "source_id": 5079,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0896083,
+      "longitude": 23.7405337
+    },
+    {
+      "source_id": 5081,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0019817,
+      "longitude": 23.9401082
+    },
+    {
+      "source_id": 5085,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0745497,
+      "longitude": 23.7971839
+    },
+    {
+      "source_id": 5087,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9540545,
+      "longitude": 23.6773933
+    },
+    {
+      "source_id": 5088,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.056131,
+      "longitude": 23.738102
+    },
+    {
+      "source_id": 5095,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0710131,
+      "longitude": 23.7856097
+    },
+    {
+      "source_id": 5096,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0600377,
+      "longitude": 23.7973775
+    },
+    {
+      "source_id": 5097,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0704138,
+      "longitude": 23.7839203
+    },
+    {
+      "source_id": 5098,
+      "name": "ΑΡΓΩ",
+      "name_en": "",
+      "latitude": 38.0607112,
+      "longitude": 23.7849962
+    },
+    {
+      "source_id": 5099,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0593528,
+      "longitude": 23.7937541
+    },
+    {
+      "source_id": 5100,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0092967,
+      "longitude": 23.9727547
+    },
+    {
+      "source_id": 5102,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0881728,
+      "longitude": 23.8177571
+    },
+    {
+      "source_id": 5104,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9995201,
+      "longitude": 23.9160491
+    },
+    {
+      "source_id": 5107,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0760825,
+      "longitude": 23.811901
+    },
+    {
+      "source_id": 5109,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0977442,
+      "longitude": 23.7341811
+    },
+    {
+      "source_id": 5122,
+      "name": "EGas",
+      "name_en": "",
+      "latitude": 38.0079905,
+      "longitude": 23.7122094
+    },
+    {
+      "source_id": 5126,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.1393225,
+      "longitude": 23.8509361
+    },
+    {
+      "source_id": 5130,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9748572,
+      "longitude": 23.8538985
+    },
+    {
+      "source_id": 5131,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9734555,
+      "longitude": 23.8532187
+    },
+    {
+      "source_id": 5132,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9716662,
+      "longitude": 23.8536113
+    },
+    {
+      "source_id": 5133,
+      "name": "Avin",
+      "name_en": "",
+      "latitude": 38.0818812,
+      "longitude": 23.7968265
+    },
+    {
+      "source_id": 5136,
+      "name": "Pearl Gas",
+      "name_en": "",
+      "latitude": 38.0031049,
+      "longitude": 23.9022278
+    },
+    {
+      "source_id": 5138,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.1337397,
+      "longitude": 23.8586357
+    },
+    {
+      "source_id": 5139,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0007443,
+      "longitude": 23.937856
+    },
+    {
+      "source_id": 5140,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9986454,
+      "longitude": 23.9328931
+    },
+    {
+      "source_id": 5142,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0038098,
+      "longitude": 23.9461381
+    },
+    {
+      "source_id": 5144,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0761796,
+      "longitude": 23.7399225
+    },
+    {
+      "source_id": 5149,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.131215,
+      "longitude": 23.8592511
+    },
+    {
+      "source_id": 5150,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1039725,
+      "longitude": 23.7637583
+    },
+    {
+      "source_id": 5151,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0053513,
+      "longitude": 23.9532435
+    },
+    {
+      "source_id": 5152,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0133936,
+      "longitude": 23.9752675
+    },
+    {
+      "source_id": 5153,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0846657,
+      "longitude": 23.764015
+    },
+    {
+      "source_id": 5154,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0159321,
+      "longitude": 23.9782267
+    },
+    {
+      "source_id": 5155,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0124278,
+      "longitude": 23.9748351
+    },
+    {
+      "source_id": 5159,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0274174,
+      "longitude": 23.7233897
+    },
+    {
+      "source_id": 5160,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.023567,
+      "longitude": 23.7220335
+    },
+    {
+      "source_id": 5161,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0254805,
+      "longitude": 23.7235113
+    },
+    {
+      "source_id": 5162,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.1191594,
+      "longitude": 23.8575567
+    },
+    {
+      "source_id": 5163,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0666198,
+      "longitude": 23.760256
+    },
+    {
+      "source_id": 5165,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0913738,
+      "longitude": 23.7969214
+    },
+    {
+      "source_id": 5166,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.066542,
+      "longitude": 23.7670367
+    },
+    {
+      "source_id": 5167,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0684461,
+      "longitude": 23.7711763
+    },
+    {
+      "source_id": 5168,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0593339,
+      "longitude": 23.772249
+    },
+    {
+      "source_id": 5169,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.031822,
+      "longitude": 23.7100042
+    },
+    {
+      "source_id": 5170,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0312412,
+      "longitude": 23.7110774
+    },
+    {
+      "source_id": 5171,
+      "name": "CYCLON",
+      "name_en": "",
+      "latitude": 38.0603864,
+      "longitude": 23.7731948
+    },
+    {
+      "source_id": 5172,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9361497,
+      "longitude": 23.732685
+    },
+    {
+      "source_id": 5173,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9364921,
+      "longitude": 23.729652
+    },
+    {
+      "source_id": 5176,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8830083,
+      "longitude": 23.7545272
+    },
+    {
+      "source_id": 5177,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8762998,
+      "longitude": 23.7564848
+    },
+    {
+      "source_id": 5178,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0281758,
+      "longitude": 23.7133268
+    },
+    {
+      "source_id": 5179,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9406807,
+      "longitude": 23.7010612
+    },
+    {
+      "source_id": 5180,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8817861,
+      "longitude": 23.7630933
+    },
+    {
+      "source_id": 5181,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8654008,
+      "longitude": 23.744769
+    },
+    {
+      "source_id": 5183,
+      "name": "Del",
+      "name_en": "",
+      "latitude": 37.8786121,
+      "longitude": 23.7637397
+    },
+    {
+      "source_id": 5184,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8744505,
+      "longitude": 23.7549425
+    },
+    {
+      "source_id": 5185,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9320259,
+      "longitude": 23.7279186
+    },
+    {
+      "source_id": 5186,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9288016,
+      "longitude": 23.726428
+    },
+    {
+      "source_id": 5187,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9196421,
+      "longitude": 23.7067997
+    },
+    {
+      "source_id": 5188,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9515039,
+      "longitude": 23.7313902
+    },
+    {
+      "source_id": 5193,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8328489,
+      "longitude": 23.7817498
+    },
+    {
+      "source_id": 5194,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9493847,
+      "longitude": 23.7389909
+    },
+    {
+      "source_id": 5196,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9557581,
+      "longitude": 23.7355838
+    },
+    {
+      "source_id": 5197,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8581931,
+      "longitude": 23.7650152
+    },
+    {
+      "source_id": 5198,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8741473,
+      "longitude": 23.7575055
+    },
+    {
+      "source_id": 5199,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9294047,
+      "longitude": 23.7372145
+    },
+    {
+      "source_id": 5200,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8335065,
+      "longitude": 23.7742953
+    },
+    {
+      "source_id": 5203,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9537724,
+      "longitude": 23.7232596
+    },
+    {
+      "source_id": 5206,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.877263,
+      "longitude": 23.8673426
+    },
+    {
+      "source_id": 5208,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9946952,
+      "longitude": 23.777539
+    },
+    {
+      "source_id": 5209,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9394523,
+      "longitude": 23.713018
+    },
+    {
+      "source_id": 5210,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9494022,
+      "longitude": 23.7440407
+    },
+    {
+      "source_id": 5211,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9281761,
+      "longitude": 23.7511284
+    },
+    {
+      "source_id": 5213,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9150582,
+      "longitude": 23.7158909
+    },
+    {
+      "source_id": 5214,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9196196,
+      "longitude": 23.7439852
+    },
+    {
+      "source_id": 5216,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8846763,
+      "longitude": 23.9277914
+    },
+    {
+      "source_id": 5217,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.0252454,
+      "longitude": 23.8400881
+    },
+    {
+      "source_id": 5218,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 38.0231124,
+      "longitude": 23.8485942
+    },
+    {
+      "source_id": 5219,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8426025,
+      "longitude": 23.9293878
+    },
+    {
+      "source_id": 5220,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.8393806,
+      "longitude": 23.9273216
+    },
+    {
+      "source_id": 5221,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.1395837,
+      "longitude": 23.8592851
+    },
+    {
+      "source_id": 5231,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8878212,
+      "longitude": 23.9435477
+    },
+    {
+      "source_id": 5238,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9961569,
+      "longitude": 23.7480319
+    },
+    {
+      "source_id": 5239,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8953001,
+      "longitude": 23.7613598
+    },
+    {
+      "source_id": 5240,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.901413,
+      "longitude": 23.7561373
+    },
+    {
+      "source_id": 5241,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.8923417,
+      "longitude": 23.7603708
+    },
+    {
+      "source_id": 5242,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9835622,
+      "longitude": 23.7632779
+    },
+    {
+      "source_id": 5243,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9812632,
+      "longitude": 23.7587619
+    },
+    {
+      "source_id": 5244,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0543909,
+      "longitude": 23.746728
+    },
+    {
+      "source_id": 5245,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.053215,
+      "longitude": 23.7477991
+    },
+    {
+      "source_id": 5247,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0500102,
+      "longitude": 23.7524146
+    },
+    {
+      "source_id": 5248,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 38.0490655,
+      "longitude": 23.762164
+    },
+    {
+      "source_id": 5249,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0393487,
+      "longitude": 23.7688349
+    },
+    {
+      "source_id": 5253,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0313906,
+      "longitude": 23.7433934
+    },
+    {
+      "source_id": 5254,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0468945,
+      "longitude": 23.7374308
+    },
+    {
+      "source_id": 5257,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0517451,
+      "longitude": 23.7510562
+    },
+    {
+      "source_id": 5258,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0524984,
+      "longitude": 23.7513383
+    },
+    {
+      "source_id": 5259,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.0582401,
+      "longitude": 23.7551897
+    },
+    {
+      "source_id": 5264,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0537125,
+      "longitude": 23.7681166
+    },
+    {
+      "source_id": 5265,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0551711,
+      "longitude": 23.7698416
+    },
+    {
+      "source_id": 5266,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0136971,
+      "longitude": 23.8275547
+    },
+    {
+      "source_id": 5267,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9917952,
+      "longitude": 23.6962252
+    },
+    {
+      "source_id": 5268,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.036499,
+      "longitude": 23.7677668
+    },
+    {
+      "source_id": 5290,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 38.0313457,
+      "longitude": 23.7614314
+    },
+    {
+      "source_id": 5291,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0413808,
+      "longitude": 23.7758622
+    },
+    {
+      "source_id": 5292,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0479812,
+      "longitude": 23.7554562
+    },
+    {
+      "source_id": 5300,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0365575,
+      "longitude": 23.7484228
+    },
+    {
+      "source_id": 5393,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0509005,
+      "longitude": 23.7501008
+    },
+    {
+      "source_id": 5416,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9428698,
+      "longitude": 23.7490096
+    },
+    {
+      "source_id": 5751,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1029169,
+      "longitude": 23.9697657
+    },
+    {
+      "source_id": 5759,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9240081,
+      "longitude": 23.7385574
+    },
+    {
+      "source_id": 5767,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9178666,
+      "longitude": 23.7334786
+    },
+    {
+      "source_id": 5781,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9719247,
+      "longitude": 23.879181
+    },
+    {
+      "source_id": 5782,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9704018,
+      "longitude": 23.8789736
+    },
+    {
+      "source_id": 5883,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0401043,
+      "longitude": 23.5509162
+    },
+    {
+      "source_id": 6001,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9995054,
+      "longitude": 23.8175072
+    },
+    {
+      "source_id": 6551,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9572137,
+      "longitude": 23.6818954
+    },
+    {
+      "source_id": 6606,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9760732,
+      "longitude": 23.7062718
+    },
+    {
+      "source_id": 6872,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0958548,
+      "longitude": 23.7943575
+    },
+    {
+      "source_id": 6894,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9346513,
+      "longitude": 23.8794502
+    },
+    {
+      "source_id": 6895,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.945768,
+      "longitude": 23.867239
+    },
+    {
+      "source_id": 6905,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0062176,
+      "longitude": 23.3373824
+    },
+    {
+      "source_id": 6968,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 38.0154125,
+      "longitude": 23.7209296
+    },
+    {
+      "source_id": 7038,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.0023134,
+      "longitude": 23.7322034
+    },
+    {
+      "source_id": 7308,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.7202279,
+      "longitude": 23.9175614
+    },
+    {
+      "source_id": 7311,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.7507649,
+      "longitude": 23.9038204
+    },
+    {
+      "source_id": 7608,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0781503,
+      "longitude": 23.49942
+    },
+    {
+      "source_id": 7637,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9170063,
+      "longitude": 23.7501826
+    },
+    {
+      "source_id": 7638,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.911044,
+      "longitude": 23.7426334
+    },
+    {
+      "source_id": 7887,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1071504,
+      "longitude": 23.7433131
+    },
+    {
+      "source_id": 7993,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9522039,
+      "longitude": 23.7458006
+    },
+    {
+      "source_id": 8080,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9624005,
+      "longitude": 23.7169956
+    },
+    {
+      "source_id": 8081,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.976721,
+      "longitude": 23.6805865
+    },
+    {
+      "source_id": 8083,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.999247,
+      "longitude": 23.3603412
+    },
+    {
+      "source_id": 8090,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9910388,
+      "longitude": 23.7556677
+    },
+    {
+      "source_id": 8094,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9303584,
+      "longitude": 23.759054
+    },
+    {
+      "source_id": 8107,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.945759,
+      "longitude": 23.6828059
+    },
+    {
+      "source_id": 8145,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9855118,
+      "longitude": 23.7412275
+    },
+    {
+      "source_id": 8171,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9886402,
+      "longitude": 23.7182407
+    },
+    {
+      "source_id": 8173,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9977085,
+      "longitude": 23.7211371
+    },
+    {
+      "source_id": 8254,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9879744,
+      "longitude": 23.3465925
+    },
+    {
+      "source_id": 8255,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.0533372,
+      "longitude": 23.8082256
+    },
+    {
+      "source_id": 8301,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0008111,
+      "longitude": 23.3346473
+    },
+    {
+      "source_id": 8305,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9942717,
+      "longitude": 23.3395624
+    },
+    {
+      "source_id": 8321,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.5072915,
+      "longitude": 23.458341
+    },
+    {
+      "source_id": 8322,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.5073697,
+      "longitude": 23.4614315
+    },
+    {
+      "source_id": 8369,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9800239,
+      "longitude": 23.7625901
+    },
+    {
+      "source_id": 8531,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0154775,
+      "longitude": 23.7446257
+    },
+    {
+      "source_id": 8532,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0152466,
+      "longitude": 23.7440464
+    },
+    {
+      "source_id": 8541,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 37.9741188,
+      "longitude": 23.7740131
+    },
+    {
+      "source_id": 8575,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9754292,
+      "longitude": 23.7521435
+    },
+    {
+      "source_id": 8655,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.3217013,
+      "longitude": 23.7837598
+    },
+    {
+      "source_id": 8670,
+      "name": "JETOIL",
+      "name_en": "",
+      "latitude": 38.1459645,
+      "longitude": 23.8492993
+    },
+    {
+      "source_id": 8685,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0334284,
+      "longitude": 23.7561035
+    },
+    {
+      "source_id": 8686,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0318233,
+      "longitude": 23.7443695
+    },
+    {
+      "source_id": 8697,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0636685,
+      "longitude": 23.8293221
+    },
+    {
+      "source_id": 8722,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 36.2942849,
+      "longitude": 22.964355
+    },
+    {
+      "source_id": 8728,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0339504,
+      "longitude": 23.7585326
+    },
+    {
+      "source_id": 8780,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9917454,
+      "longitude": 23.7734926
+    },
+    {
+      "source_id": 8794,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0867284,
+      "longitude": 23.7478917
+    },
+    {
+      "source_id": 8797,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0283365,
+      "longitude": 23.3146495
+    },
+    {
+      "source_id": 8798,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0386148,
+      "longitude": 23.7745878
+    },
+    {
+      "source_id": 8819,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.2380425,
+      "longitude": 23.7869019
+    },
+    {
+      "source_id": 8837,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.7717383,
+      "longitude": 24.0541415
+    },
+    {
+      "source_id": 8853,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.1045293,
+      "longitude": 23.755392
+    },
+    {
+      "source_id": 8888,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9422685,
+      "longitude": 23.6859473
+    },
+    {
+      "source_id": 8889,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9431928,
+      "longitude": 23.6835574
+    },
+    {
+      "source_id": 8890,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9478865,
+      "longitude": 23.6896641
+    },
+    {
+      "source_id": 8894,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9133167,
+      "longitude": 23.7091901
+    },
+    {
+      "source_id": 8904,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8223761,
+      "longitude": 23.7755691
+    },
+    {
+      "source_id": 8913,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.091985,
+      "longitude": 23.7952038
+    },
+    {
+      "source_id": 8953,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0141183,
+      "longitude": 23.7180621
+    },
+    {
+      "source_id": 8958,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0917437,
+      "longitude": 23.7381154
+    },
+    {
+      "source_id": 8963,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9155044,
+      "longitude": 23.7174831
+    },
+    {
+      "source_id": 8964,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9204836,
+      "longitude": 23.7216831
+    },
+    {
+      "source_id": 8966,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.05897,
+      "longitude": 23.7918762
+    },
+    {
+      "source_id": 8973,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9815844,
+      "longitude": 23.6717647
+    },
+    {
+      "source_id": 8983,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9522557,
+      "longitude": 23.6656437
+    },
+    {
+      "source_id": 8984,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9462146,
+      "longitude": 23.6543267
+    },
+    {
+      "source_id": 8985,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9501001,
+      "longitude": 23.6591179
+    },
+    {
+      "source_id": 8987,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0156307,
+      "longitude": 23.7922225
+    },
+    {
+      "source_id": 8988,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0165541,
+      "longitude": 23.7941162
+    },
+    {
+      "source_id": 8989,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0173804,
+      "longitude": 23.7949449
+    },
+    {
+      "source_id": 8998,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0009845,
+      "longitude": 23.7255449
+    },
+    {
+      "source_id": 9004,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.0139825,
+      "longitude": 23.7202196
+    },
+    {
+      "source_id": 9005,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0479543,
+      "longitude": 23.8034508
+    },
+    {
+      "source_id": 9006,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0563484,
+      "longitude": 23.7791444
+    },
+    {
+      "source_id": 9020,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0919324,
+      "longitude": 23.6057955
+    },
+    {
+      "source_id": 9023,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9951148,
+      "longitude": 23.3664084
+    },
+    {
+      "source_id": 9024,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9956771,
+      "longitude": 23.3653515
+    },
+    {
+      "source_id": 9027,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0018014,
+      "longitude": 23.7233426
+    },
+    {
+      "source_id": 9031,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0451295,
+      "longitude": 23.7380635
+    },
+    {
+      "source_id": 9040,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9121466,
+      "longitude": 23.7493982
+    },
+    {
+      "source_id": 9051,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9567914,
+      "longitude": 23.6530213
+    },
+    {
+      "source_id": 9058,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1045458,
+      "longitude": 23.668922
+    },
+    {
+      "source_id": 9065,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0910123,
+      "longitude": 23.688974
+    },
+    {
+      "source_id": 9083,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0714719,
+      "longitude": 23.6001336
+    },
+    {
+      "source_id": 9085,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.06546,
+      "longitude": 23.5957522
+    },
+    {
+      "source_id": 9086,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0642888,
+      "longitude": 23.595229
+    },
+    {
+      "source_id": 9087,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0592034,
+      "longitude": 23.5931818
+    },
+    {
+      "source_id": 9088,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0557443,
+      "longitude": 23.5882631
+    },
+    {
+      "source_id": 9089,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0525879,
+      "longitude": 23.5867749
+    },
+    {
+      "source_id": 9090,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0522129,
+      "longitude": 23.5867228
+    },
+    {
+      "source_id": 9091,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.0484068,
+      "longitude": 23.5543613
+    },
+    {
+      "source_id": 9092,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0500149,
+      "longitude": 23.5261149
+    },
+    {
+      "source_id": 9122,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0059668,
+      "longitude": 23.8659523
+    },
+    {
+      "source_id": 9135,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0411223,
+      "longitude": 23.7347717
+    },
+    {
+      "source_id": 9150,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0335114,
+      "longitude": 23.9843985
+    },
+    {
+      "source_id": 9155,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.2065238,
+      "longitude": 23.866285
+    },
+    {
+      "source_id": 9156,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.2105278,
+      "longitude": 23.8822925
+    },
+    {
+      "source_id": 9167,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9140432,
+      "longitude": 23.7088102
+    },
+    {
+      "source_id": 9168,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9244587,
+      "longitude": 23.6922926
+    },
+    {
+      "source_id": 9187,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9663275,
+      "longitude": 23.6786807
+    },
+    {
+      "source_id": 9191,
+      "name": "Εμμανουήλ και Αντωνία Τσερκάκη ΟΕ",
+      "name_en": "",
+      "latitude": 37.9405645,
+      "longitude": 23.6432638
+    },
+    {
+      "source_id": 9193,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9563953,
+      "longitude": 23.6504162
+    },
+    {
+      "source_id": 9195,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9434566,
+      "longitude": 23.6563305
+    },
+    {
+      "source_id": 9203,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.2138919,
+      "longitude": 23.8749434
+    },
+    {
+      "source_id": 9204,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.210496,
+      "longitude": 23.8725399
+    },
+    {
+      "source_id": 9207,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.2749595,
+      "longitude": 23.8608544
+    },
+    {
+      "source_id": 9209,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.2861058,
+      "longitude": 23.8701941
+    },
+    {
+      "source_id": 9210,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.2944481,
+      "longitude": 23.8995047
+    },
+    {
+      "source_id": 9211,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.3074731,
+      "longitude": 23.8572032
+    },
+    {
+      "source_id": 9212,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.3290989,
+      "longitude": 23.7412895
+    },
+    {
+      "source_id": 9250,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0479323,
+      "longitude": 23.7289787
+    },
+    {
+      "source_id": 9265,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0137646,
+      "longitude": 23.6531958
+    },
+    {
+      "source_id": 9297,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9223329,
+      "longitude": 23.7224388
+    },
+    {
+      "source_id": 9312,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0087174,
+      "longitude": 23.6883703
+    },
+    {
+      "source_id": 9313,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0075383,
+      "longitude": 23.6878886
+    },
+    {
+      "source_id": 9314,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0042335,
+      "longitude": 23.6868893
+    },
+    {
+      "source_id": 9325,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0393278,
+      "longitude": 23.7388424
+    },
+    {
+      "source_id": 9328,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0194278,
+      "longitude": 23.7353664
+    },
+    {
+      "source_id": 9329,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0233079,
+      "longitude": 23.7308343
+    },
+    {
+      "source_id": 9330,
+      "name": "ΕΛΙΝ",
+      "name_en": "",
+      "latitude": 38.0281292,
+      "longitude": 23.7333499
+    },
+    {
+      "source_id": 9342,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.8904739,
+      "longitude": 23.7611831
+    },
+    {
+      "source_id": 9343,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8881959,
+      "longitude": 23.7606615
+    },
+    {
+      "source_id": 9344,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.8859179,
+      "longitude": 23.7599975
+    },
+    {
+      "source_id": 9345,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9109937,
+      "longitude": 23.7426569
+    },
+    {
+      "source_id": 9372,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.9379286,
+      "longitude": 23.6580726
+    },
+    {
+      "source_id": 9373,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9385582,
+      "longitude": 23.6468285
+    },
+    {
+      "source_id": 9375,
+      "name": "CYCLON",
+      "name_en": "",
+      "latitude": 38.0969557,
+      "longitude": 23.7975
+    },
+    {
+      "source_id": 9376,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0999656,
+      "longitude": 23.8057522
+    },
+    {
+      "source_id": 9390,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0799354,
+      "longitude": 23.7327966
+    },
+    {
+      "source_id": 9406,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0067727,
+      "longitude": 23.6878142
+    },
+    {
+      "source_id": 9412,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0350097,
+      "longitude": 23.7164011
+    },
+    {
+      "source_id": 9413,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0379804,
+      "longitude": 23.7160214
+    },
+    {
+      "source_id": 9423,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0291172,
+      "longitude": 23.6955324
+    },
+    {
+      "source_id": 9450,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9900201,
+      "longitude": 23.7205395
+    },
+    {
+      "source_id": 9452,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.2544154,
+      "longitude": 23.6931123
+    },
+    {
+      "source_id": 9453,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.2587815,
+      "longitude": 23.6880219
+    },
+    {
+      "source_id": 9457,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0128319,
+      "longitude": 23.7248699
+    },
+    {
+      "source_id": 9492,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.0236927,
+      "longitude": 23.7348523
+    },
+    {
+      "source_id": 9535,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.7382331,
+      "longitude": 23.517418
+    },
+    {
+      "source_id": 9539,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.7457967,
+      "longitude": 23.4433389
+    },
+    {
+      "source_id": 9543,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.7513747,
+      "longitude": 23.4360563
+    },
+    {
+      "source_id": 9544,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 37.7516069,
+      "longitude": 23.4334517
+    },
+    {
+      "source_id": 9545,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.7664009,
+      "longitude": 23.4480148
+    },
+    {
+      "source_id": 9553,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.085735,
+      "longitude": 23.8099707
+    },
+    {
+      "source_id": 9571,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.6913527,
+      "longitude": 23.4579857
+    },
+    {
+      "source_id": 9601,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.202473,
+      "longitude": 23.8408945
+    },
+    {
+      "source_id": 9613,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.7553537,
+      "longitude": 23.5220058
+    },
+    {
+      "source_id": 9637,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1508369,
+      "longitude": 23.8566354
+    },
+    {
+      "source_id": 9639,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.1437952,
+      "longitude": 23.9723657
+    },
+    {
+      "source_id": 9663,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0751778,
+      "longitude": 23.5254588
+    },
+    {
+      "source_id": 9664,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0479985,
+      "longitude": 23.5860645
+    },
+    {
+      "source_id": 9665,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0558841,
+      "longitude": 23.6008865
+    },
+    {
+      "source_id": 9666,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0564078,
+      "longitude": 23.5998341
+    },
+    {
+      "source_id": 9667,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0646508,
+      "longitude": 23.6351859
+    },
+    {
+      "source_id": 9668,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.064897,
+      "longitude": 23.6360833
+    },
+    {
+      "source_id": 9669,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0665305,
+      "longitude": 23.6281569
+    },
+    {
+      "source_id": 9670,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0711126,
+      "longitude": 23.6947331
+    },
+    {
+      "source_id": 9671,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0711635,
+      "longitude": 23.6963617
+    },
+    {
+      "source_id": 9673,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0737635,
+      "longitude": 23.7073279
+    },
+    {
+      "source_id": 9674,
+      "name": "CYCLON",
+      "name_en": "",
+      "latitude": 38.0797403,
+      "longitude": 23.7138845
+    },
+    {
+      "source_id": 9675,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0798194,
+      "longitude": 23.7150341
+    },
+    {
+      "source_id": 9679,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9789206,
+      "longitude": 23.3346486
+    },
+    {
+      "source_id": 9681,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.000061,
+      "longitude": 23.4147593
+    },
+    {
+      "source_id": 9683,
+      "name": "BP",
+      "name_en": "BP",
+      "latitude": 38.0037149,
+      "longitude": 23.4221714
+    },
+    {
+      "source_id": 9684,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0088546,
+      "longitude": 23.4298327
+    },
+    {
+      "source_id": 9685,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0138568,
+      "longitude": 23.4401067
+    },
+    {
+      "source_id": 9686,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0163542,
+      "longitude": 23.4425213
+    },
+    {
+      "source_id": 9687,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0259846,
+      "longitude": 23.4704493
+    },
+    {
+      "source_id": 9688,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.05565,
+      "longitude": 23.5249715
+    },
+    {
+      "source_id": 9693,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9687532,
+      "longitude": 23.2123913
+    },
+    {
+      "source_id": 9826,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9451062,
+      "longitude": 23.695108
+    },
+    {
+      "source_id": 9827,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9439228,
+      "longitude": 23.6986262
+    },
+    {
+      "source_id": 9835,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0031151,
+      "longitude": 23.7031029
+    },
+    {
+      "source_id": 9863,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9437205,
+      "longitude": 23.6897433
+    },
+    {
+      "source_id": 9879,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0229147,
+      "longitude": 23.7465884
+    },
+    {
+      "source_id": 9922,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.5237282,
+      "longitude": 23.3526154
+    },
+    {
+      "source_id": 9923,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.5394454,
+      "longitude": 23.3008428
+    },
+    {
+      "source_id": 9935,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9976567,
+      "longitude": 23.7694519
+    },
+    {
+      "source_id": 9936,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0717116,
+      "longitude": 23.5097686
+    },
+    {
+      "source_id": 9937,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.078957,
+      "longitude": 23.4942134
+    },
+    {
+      "source_id": 9938,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0796139,
+      "longitude": 23.4938202
+    },
+    {
+      "source_id": 9939,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 38.0833411,
+      "longitude": 23.491938
+    },
+    {
+      "source_id": 9942,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1063196,
+      "longitude": 23.4286671
+    },
+    {
+      "source_id": 9948,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0060345,
+      "longitude": 23.6036062
+    },
+    {
+      "source_id": 9949,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0109488,
+      "longitude": 23.6044584
+    },
+    {
+      "source_id": 9950,
+      "name": "ETEKA",
+      "name_en": "",
+      "latitude": 38.0128433,
+      "longitude": 23.6024579
+    },
+    {
+      "source_id": 9951,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0358109,
+      "longitude": 23.5939242
+    },
+    {
+      "source_id": 9952,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0366679,
+      "longitude": 23.5934697
+    },
+    {
+      "source_id": 9953,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0380922,
+      "longitude": 23.5921539
+    },
+    {
+      "source_id": 9954,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0381611,
+      "longitude": 23.591345
+    },
+    {
+      "source_id": 9955,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0405445,
+      "longitude": 23.5891429
+    },
+    {
+      "source_id": 9957,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9619456,
+      "longitude": 23.5964033
+    },
+    {
+      "source_id": 9958,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9623994,
+      "longitude": 23.5948163
+    },
+    {
+      "source_id": 9960,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9750729,
+      "longitude": 23.6524527
+    },
+    {
+      "source_id": 9961,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9754343,
+      "longitude": 23.6406402
+    },
+    {
+      "source_id": 9962,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9807705,
+      "longitude": 23.6397354
+    },
+    {
+      "source_id": 9985,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0049719,
+      "longitude": 23.7008818
+    },
+    {
+      "source_id": 9987,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0101316,
+      "longitude": 23.7574371
+    },
+    {
+      "source_id": 9990,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 38.0260374,
+      "longitude": 23.732874
+    },
+    {
+      "source_id": 10016,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0143351,
+      "longitude": 23.8180121
+    },
+    {
+      "source_id": 10020,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9858271,
+      "longitude": 23.7632318
+    },
+    {
+      "source_id": 10036,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9651318,
+      "longitude": 23.9859817
+    },
+    {
+      "source_id": 10095,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.1427503,
+      "longitude": 23.9654577
+    },
+    {
+      "source_id": 10096,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.1541223,
+      "longitude": 23.9636454
+    },
+    {
+      "source_id": 10172,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.9455514,
+      "longitude": 23.6869139
+    },
+    {
+      "source_id": 10260,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9762736,
+      "longitude": 23.7533356
+    },
+    {
+      "source_id": 10264,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9806927,
+      "longitude": 23.7576414
+    },
+    {
+      "source_id": 10305,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9685281,
+      "longitude": 23.7261879
+    },
+    {
+      "source_id": 10411,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9472195,
+      "longitude": 23.6984372
+    },
+    {
+      "source_id": 10412,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9592926,
+      "longitude": 23.7072822
+    },
+    {
+      "source_id": 10442,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9509706,
+      "longitude": 23.693773
+    },
+    {
+      "source_id": 10443,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.950169,
+      "longitude": 23.692744
+    },
+    {
+      "source_id": 10634,
+      "name": "JETOIL",
+      "name_en": "",
+      "latitude": 37.9441944,
+      "longitude": 23.6945704
+    },
+    {
+      "source_id": 10647,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0880975,
+      "longitude": 23.9761793
+    },
+    {
+      "source_id": 10653,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0875429,
+      "longitude": 23.9703852
+    },
+    {
+      "source_id": 10654,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0880322,
+      "longitude": 23.9631253
+    },
+    {
+      "source_id": 10686,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.959054,
+      "longitude": 23.6858194
+    },
+    {
+      "source_id": 10725,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8578686,
+      "longitude": 23.8397732
+    },
+    {
+      "source_id": 10812,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9261183,
+      "longitude": 23.7022415
+    },
+    {
+      "source_id": 10813,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 37.938785,
+      "longitude": 23.6411872
+    },
+    {
+      "source_id": 10843,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9112315,
+      "longitude": 23.7440891
+    },
+    {
+      "source_id": 10848,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0482019,
+      "longitude": 23.5717828
+    },
+    {
+      "source_id": 10849,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0706719,
+      "longitude": 23.5100547
+    },
+    {
+      "source_id": 10855,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1691489,
+      "longitude": 23.3931046
+    },
+    {
+      "source_id": 10858,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.1648173,
+      "longitude": 23.4201564
+    },
+    {
+      "source_id": 10912,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8520415,
+      "longitude": 23.7528642
+    },
+    {
+      "source_id": 10954,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9591442,
+      "longitude": 23.695199
+    },
+    {
+      "source_id": 10955,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9564554,
+      "longitude": 23.6888288
+    },
+    {
+      "source_id": 10987,
+      "name": "Avin",
+      "name_en": "",
+      "latitude": 37.9521818,
+      "longitude": 23.6666676
+    },
+    {
+      "source_id": 11060,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0122128,
+      "longitude": 23.6056105
+    },
+    {
+      "source_id": 11086,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.070701,
+      "longitude": 23.5101093
+    },
+    {
+      "source_id": 11087,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8352171,
+      "longitude": 23.7899859
+    },
+    {
+      "source_id": 11088,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9506779,
+      "longitude": 23.633706
+    },
+    {
+      "source_id": 11115,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9641869,
+      "longitude": 23.6273424
+    },
+    {
+      "source_id": 11119,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0119647,
+      "longitude": 23.6068553
+    },
+    {
+      "source_id": 11120,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 38.1688931,
+      "longitude": 23.3930763
+    },
+    {
+      "source_id": 11156,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9645359,
+      "longitude": 23.6339878
+    },
+    {
+      "source_id": 11173,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9637283,
+      "longitude": 23.6301089
+    },
+    {
+      "source_id": 11258,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9946477,
+      "longitude": 23.71267
+    },
+    {
+      "source_id": 11270,
+      "name": "Eteka",
+      "name_en": "",
+      "latitude": 37.9848629,
+      "longitude": 23.7149101
+    },
+    {
+      "source_id": 11383,
+      "name": "Σταθμός Αυτοκινήτων Σπουρδαλάκη",
+      "name_en": "",
+      "latitude": 37.9388877,
+      "longitude": 23.6437225
+    },
+    {
+      "source_id": 11451,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.948066,
+      "longitude": 23.6889586
+    },
+    {
+      "source_id": 11706,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0455119,
+      "longitude": 23.7155355
+    },
+    {
+      "source_id": 11707,
+      "name": "VALIN",
+      "name_en": "",
+      "latitude": 38.0745362,
+      "longitude": 23.7195451
+    },
+    {
+      "source_id": 11794,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0557846,
+      "longitude": 23.7304289
+    },
+    {
+      "source_id": 11961,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0628278,
+      "longitude": 23.9819544
+    },
+    {
+      "source_id": 11962,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0690307,
+      "longitude": 23.9824482
+    },
+    {
+      "source_id": 11966,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0776012,
+      "longitude": 23.7018468
+    },
+    {
+      "source_id": 11971,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.042756,
+      "longitude": 23.7733854
+    },
+    {
+      "source_id": 12020,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 37.9362949,
+      "longitude": 23.6417622
+    },
+    {
+      "source_id": 12739,
+      "name": "Best Oil",
+      "name_en": "",
+      "latitude": 37.9093391,
+      "longitude": 23.7396
+    },
+    {
+      "source_id": 12741,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9055776,
+      "longitude": 23.737918
+    },
+    {
+      "source_id": 12976,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0307274,
+      "longitude": 23.8183144
+    },
+    {
+      "source_id": 12977,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0198426,
+      "longitude": 23.8106634
+    },
+    {
+      "source_id": 12995,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.95012,
+      "longitude": 23.6399585
+    },
+    {
+      "source_id": 12996,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9501259,
+      "longitude": 23.6410587
+    },
+    {
+      "source_id": 13030,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9636469,
+      "longitude": 23.751046
+    },
+    {
+      "source_id": 13132,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0152331,
+      "longitude": 23.8157224
+    },
+    {
+      "source_id": 13135,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9077133,
+      "longitude": 23.7360249
+    },
+    {
+      "source_id": 13137,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0183111,
+      "longitude": 23.8054244
+    },
+    {
+      "source_id": 13138,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0174553,
+      "longitude": 23.8009492
+    },
+    {
+      "source_id": 13143,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.015226,
+      "longitude": 23.7907447
+    },
+    {
+      "source_id": 13152,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 38.0070581,
+      "longitude": 23.7992346
+    },
+    {
+      "source_id": 13177,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 38.0141038,
+      "longitude": 23.8286857
+    },
+    {
+      "source_id": 13295,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0477606,
+      "longitude": 23.8074792
+    },
+    {
+      "source_id": 13337,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0019729,
+      "longitude": 23.7854482
+    },
+    {
+      "source_id": 13555,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0387452,
+      "longitude": 23.7752853
+    },
+    {
+      "source_id": 13753,
+      "name": "CNG",
+      "name_en": "",
+      "latitude": 38.0557226,
+      "longitude": 23.74628
+    },
+    {
+      "source_id": 13754,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.07736,
+      "longitude": 23.8129658
+    },
+    {
+      "source_id": 13755,
+      "name": "CNG ",
+      "name_en": "",
+      "latitude": 38.0938288,
+      "longitude": 23.6925548
+    },
+    {
+      "source_id": 13756,
+      "name": "CNG",
+      "name_en": "",
+      "latitude": 38.0126077,
+      "longitude": 23.8683825
+    },
+    {
+      "source_id": 14173,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8557487,
+      "longitude": 23.752223
+    },
+    {
+      "source_id": 14254,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9687508,
+      "longitude": 23.4739325
+    },
+    {
+      "source_id": 14583,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9683588,
+      "longitude": 23.7542859
+    },
+    {
+      "source_id": 14765,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9810814,
+      "longitude": 23.7596605
+    },
+    {
+      "source_id": 14810,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0248952,
+      "longitude": 23.7414646
+    },
+    {
+      "source_id": 14961,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9514512,
+      "longitude": 23.8620871
+    },
+    {
+      "source_id": 15095,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9763278,
+      "longitude": 23.6812896
+    },
+    {
+      "source_id": 15129,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0009591,
+      "longitude": 23.7630388
+    },
+    {
+      "source_id": 15135,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9948178,
+      "longitude": 23.7674162
+    },
+    {
+      "source_id": 15145,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9221575,
+      "longitude": 23.7162141
+    },
+    {
+      "source_id": 15146,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9228742,
+      "longitude": 23.7186502
+    },
+    {
+      "source_id": 15148,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9246109,
+      "longitude": 23.7051071
+    },
+    {
+      "source_id": 15150,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9324488,
+      "longitude": 23.6976942
+    },
+    {
+      "source_id": 15170,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.9720866,
+      "longitude": 23.7530052
+    },
+    {
+      "source_id": 15174,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8466816,
+      "longitude": 23.9366051
+    },
+    {
+      "source_id": 15175,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8516171,
+      "longitude": 23.9339619
+    },
+    {
+      "source_id": 15176,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8847344,
+      "longitude": 23.9297943
+    },
+    {
+      "source_id": 15194,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9572023,
+      "longitude": 23.7328845
+    },
+    {
+      "source_id": 15259,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0495225,
+      "longitude": 23.7296863
+    },
+    {
+      "source_id": 15285,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9597258,
+      "longitude": 23.6762688
+    },
+    {
+      "source_id": 15379,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0370316,
+      "longitude": 23.6751373
+    },
+    {
+      "source_id": 15425,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9666123,
+      "longitude": 23.7092268
+    },
+    {
+      "source_id": 15485,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9904505,
+      "longitude": 23.6953203
+    },
+    {
+      "source_id": 15880,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9361677,
+      "longitude": 23.7009856
+    },
+    {
+      "source_id": 15940,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9441875,
+      "longitude": 23.7635302
+    },
+    {
+      "source_id": 15956,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 37.9618821,
+      "longitude": 23.691003
+    },
+    {
+      "source_id": 15964,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9390557,
+      "longitude": 23.706587
+    },
+    {
+      "source_id": 16077,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.927094,
+      "longitude": 23.7037184
+    },
+    {
+      "source_id": 16170,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9327647,
+      "longitude": 23.7145249
+    },
+    {
+      "source_id": 16239,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8109185,
+      "longitude": 23.9713633
+    },
+    {
+      "source_id": 16242,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8105884,
+      "longitude": 23.97279
+    },
+    {
+      "source_id": 16321,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9627699,
+      "longitude": 23.7234141
+    },
+    {
+      "source_id": 16437,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0946925,
+      "longitude": 23.7249763
+    },
+    {
+      "source_id": 16530,
+      "name": "Shell",
+      "name_en": "Shell",
+      "latitude": 38.0038873,
+      "longitude": 23.7929619
+    },
+    {
+      "source_id": 16721,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0180453,
+      "longitude": 23.8089155
+    },
+    {
+      "source_id": 16804,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.6967831,
+      "longitude": 24.058304
+    },
+    {
+      "source_id": 16877,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0262862,
+      "longitude": 23.742417
+    },
+    {
+      "source_id": 16885,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0495212,
+      "longitude": 23.8170159
+    },
+    {
+      "source_id": 16886,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0494521,
+      "longitude": 23.8172377
+    },
+    {
+      "source_id": 16890,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.7486353,
+      "longitude": 24.0510539
+    },
+    {
+      "source_id": 16955,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.9928747,
+      "longitude": 23.6968316
+    },
+    {
+      "source_id": 16956,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0227684,
+      "longitude": 23.7393777
+    },
+    {
+      "source_id": 16959,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.021412,
+      "longitude": 23.7430597
+    },
+    {
+      "source_id": 16968,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0184033,
+      "longitude": 23.7430872
+    },
+    {
+      "source_id": 17263,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.997247,
+      "longitude": 23.6933037
+    },
+    {
+      "source_id": 17407,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9606156,
+      "longitude": 23.7605128
+    },
+    {
+      "source_id": 17425,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.955163,
+      "longitude": 23.7668978
+    },
+    {
+      "source_id": 17570,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.001568,
+      "longitude": 23.7279274
+    },
+    {
+      "source_id": 17676,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9535971,
+      "longitude": 23.6811768
+    },
+    {
+      "source_id": 17679,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9467272,
+      "longitude": 23.6793905
+    },
+    {
+      "source_id": 17743,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9728433,
+      "longitude": 23.6597215
+    },
+    {
+      "source_id": 17748,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0754896,
+      "longitude": 23.7335045
+    },
+    {
+      "source_id": 17750,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9446089,
+      "longitude": 23.7267418
+    },
+    {
+      "source_id": 17759,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0043135,
+      "longitude": 23.6643322
+    },
+    {
+      "source_id": 17790,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9461689,
+      "longitude": 23.7351398
+    },
+    {
+      "source_id": 17872,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.944534,
+      "longitude": 23.7404981
+    },
+    {
+      "source_id": 17944,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.99925,
+      "longitude": 23.7078268
+    },
+    {
+      "source_id": 17983,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9977887,
+      "longitude": 23.7233518
+    },
+    {
+      "source_id": 18020,
+      "name": "ETEKA",
+      "name_en": "",
+      "latitude": 38.0169104,
+      "longitude": 23.6909606
+    },
+    {
+      "source_id": 18329,
+      "name": "VALIN",
+      "name_en": "",
+      "latitude": 38.0273332,
+      "longitude": 23.6886118
+    },
+    {
+      "source_id": 18330,
+      "name": "VALIN",
+      "name_en": "",
+      "latitude": 38.0238518,
+      "longitude": 23.6840644
+    },
+    {
+      "source_id": 18331,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0139116,
+      "longitude": 23.6331505
+    },
+    {
+      "source_id": 18333,
+      "name": "Agip",
+      "name_en": "",
+      "latitude": 38.0111432,
+      "longitude": 23.6525123
+    },
+    {
+      "source_id": 18382,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9193875,
+      "longitude": 23.7504589
+    },
+    {
+      "source_id": 18422,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.8203448,
+      "longitude": 23.9600213
+    },
+    {
+      "source_id": 18458,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9077306,
+      "longitude": 23.74598
+    },
+    {
+      "source_id": 18762,
+      "name": "",
+      "name_en": "Las Gas (butane, LPG)",
+      "latitude": 38.0811176,
+      "longitude": 23.9796019
+    },
+    {
+      "source_id": 18953,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0783656,
+      "longitude": 23.7031907
+    },
+    {
+      "source_id": 19115,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9486894,
+      "longitude": 23.7058258
+    },
+    {
+      "source_id": 19231,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0633659,
+      "longitude": 23.7634923
+    },
+    {
+      "source_id": 19903,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9932716,
+      "longitude": 23.7444674
+    },
+    {
+      "source_id": 19943,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9374401,
+      "longitude": 23.7351633
+    },
+    {
+      "source_id": 19975,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9463677,
+      "longitude": 23.7537423
+    },
+    {
+      "source_id": 20004,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9710397,
+      "longitude": 23.6548902
+    },
+    {
+      "source_id": 20046,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9792933,
+      "longitude": 23.7463191
+    },
+    {
+      "source_id": 20086,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9797885,
+      "longitude": 23.6459112
+    },
+    {
+      "source_id": 20171,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9663932,
+      "longitude": 23.6376611
+    },
+    {
+      "source_id": 20338,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0393491,
+      "longitude": 23.729082
+    },
+    {
+      "source_id": 20442,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.010216,
+      "longitude": 23.72922
+    },
+    {
+      "source_id": 20462,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.9302339,
+      "longitude": 23.7519171
+    },
+    {
+      "source_id": 20525,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.3052699,
+      "longitude": 23.7558982
+    },
+    {
+      "source_id": 20555,
+      "name": "Ελιν",
+      "name_en": "",
+      "latitude": 37.9875445,
+      "longitude": 23.7525836
+    },
+    {
+      "source_id": 20559,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9611554,
+      "longitude": 23.7340482
+    },
+    {
+      "source_id": 20576,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9669659,
+      "longitude": 23.6956263
+    },
+    {
+      "source_id": 20609,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.8857964,
+      "longitude": 23.938226
+    },
+    {
+      "source_id": 20843,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9833609,
+      "longitude": 23.769024
+    },
+    {
+      "source_id": 20881,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 37.9998954,
+      "longitude": 23.7070665
+    },
+    {
+      "source_id": 20882,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 37.9999889,
+      "longitude": 23.7069196
+    },
+    {
+      "source_id": 20932,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9998848,
+      "longitude": 23.7076646
+    },
+    {
+      "source_id": 20968,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0156204,
+      "longitude": 23.7285917
+    },
+    {
+      "source_id": 20997,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0002738,
+      "longitude": 23.7395681
+    },
+    {
+      "source_id": 21023,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 38.0297089,
+      "longitude": 23.6979706
+    },
+    {
+      "source_id": 21113,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0040494,
+      "longitude": 23.6966857
+    },
+    {
+      "source_id": 21159,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0866863,
+      "longitude": 23.7079992
+    },
+    {
+      "source_id": 21303,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0205985,
+      "longitude": 23.8374071
+    },
+    {
+      "source_id": 21308,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9408739,
+      "longitude": 23.726717
+    },
+    {
+      "source_id": 21379,
+      "name": "My market",
+      "name_en": "",
+      "latitude": 38.074953,
+      "longitude": 23.7956323
+    },
+    {
+      "source_id": 21384,
+      "name": "Café",
+      "name_en": "",
+      "latitude": 37.9494501,
+      "longitude": 23.615652
+    },
+    {
+      "source_id": 21688,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.7065356,
+      "longitude": 24.0528331
+    },
+    {
+      "source_id": 21693,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 37.8621942,
+      "longitude": 23.930945
+    },
+    {
+      "source_id": 22127,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0140064,
+      "longitude": 23.6732228
+    },
+    {
+      "source_id": 22147,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.2568927,
+      "longitude": 23.7492109
+    },
+    {
+      "source_id": 22148,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.2553874,
+      "longitude": 23.7508605
+    },
+    {
+      "source_id": 22149,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.112984,
+      "longitude": 23.8239529
+    },
+    {
+      "source_id": 22207,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8132142,
+      "longitude": 23.9794543
+    },
+    {
+      "source_id": 22491,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.7093621,
+      "longitude": 23.3552972
+    },
+    {
+      "source_id": 22959,
+      "name": "ETEKA",
+      "name_en": "",
+      "latitude": 38.0316037,
+      "longitude": 23.6821087
+    },
+    {
+      "source_id": 23052,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9971703,
+      "longitude": 23.7313696
+    },
+    {
+      "source_id": 23143,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 36.1822942,
+      "longitude": 22.9838089
+    },
+    {
+      "source_id": 23144,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 36.1985667,
+      "longitude": 22.9790123
+    },
+    {
+      "source_id": 23145,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 36.2905524,
+      "longitude": 22.9646208
+    },
+    {
+      "source_id": 23164,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9653381,
+      "longitude": 23.9062969
+    },
+    {
+      "source_id": 23413,
+      "name": "EKO - Temporarily Closed",
+      "name_en": "",
+      "latitude": 38.0128807,
+      "longitude": 23.8436701
+    },
+    {
+      "source_id": 23414,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.013306,
+      "longitude": 23.8437111
+    },
+    {
+      "source_id": 23415,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0063489,
+      "longitude": 23.8459641
+    },
+    {
+      "source_id": 23416,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8916107,
+      "longitude": 23.9947698
+    },
+    {
+      "source_id": 23448,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 37.986212,
+      "longitude": 23.7653714
+    },
+    {
+      "source_id": 23453,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9848043,
+      "longitude": 23.7232902
+    },
+    {
+      "source_id": 23455,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0115904,
+      "longitude": 23.652275
+    },
+    {
+      "source_id": 23456,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0347973,
+      "longitude": 23.5946155
+    },
+    {
+      "source_id": 23458,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0000621,
+      "longitude": 23.8612895
+    },
+    {
+      "source_id": 23459,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9680493,
+      "longitude": 23.9123397
+    },
+    {
+      "source_id": 23460,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9678997,
+      "longitude": 23.9070374
+    },
+    {
+      "source_id": 23461,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9646088,
+      "longitude": 23.9064032
+    },
+    {
+      "source_id": 23924,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8159623,
+      "longitude": 23.778628
+    },
+    {
+      "source_id": 23968,
+      "name": "Aegean",
+      "name_en": "",
+      "latitude": 37.9741842,
+      "longitude": 23.7343864
+    },
+    {
+      "source_id": 23970,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0027918,
+      "longitude": 23.7328774
+    },
+    {
+      "source_id": 23987,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.1658504,
+      "longitude": 23.4163525
+    },
+    {
+      "source_id": 24048,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0278821,
+      "longitude": 23.6785249
+    },
+    {
+      "source_id": 24050,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.0318495,
+      "longitude": 23.681501
+    },
+    {
+      "source_id": 24078,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.887259,
+      "longitude": 24.0033471
+    },
+    {
+      "source_id": 24482,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.0253805,
+      "longitude": 23.4404908
+    },
+    {
+      "source_id": 24718,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9509813,
+      "longitude": 23.707284
+    },
+    {
+      "source_id": 24790,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0721178,
+      "longitude": 23.5961814
+    },
+    {
+      "source_id": 24791,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0634793,
+      "longitude": 23.64258
+    },
+    {
+      "source_id": 24809,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.7845677,
+      "longitude": 23.9223005
+    },
+    {
+      "source_id": 24939,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.0100581,
+      "longitude": 23.7125214
+    },
+    {
+      "source_id": 24940,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0121295,
+      "longitude": 23.7093523
+    },
+    {
+      "source_id": 25583,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9346837,
+      "longitude": 23.8795288
+    },
+    {
+      "source_id": 25672,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0273997,
+      "longitude": 23.7248218
+    },
+    {
+      "source_id": 25940,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.3209799,
+      "longitude": 23.8007156
+    },
+    {
+      "source_id": 25941,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.3162335,
+      "longitude": 23.8135752
+    },
+    {
+      "source_id": 25942,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.3168889,
+      "longitude": 23.8093961
+    },
+    {
+      "source_id": 25966,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.256093,
+      "longitude": 23.1625546
+    },
+    {
+      "source_id": 25967,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.4976986,
+      "longitude": 23.4431093
+    },
+    {
+      "source_id": 25968,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.4987039,
+      "longitude": 23.4075406
+    },
+    {
+      "source_id": 25969,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.5017167,
+      "longitude": 23.3959926
+    },
+    {
+      "source_id": 25970,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.5113509,
+      "longitude": 23.3836147
+    },
+    {
+      "source_id": 25972,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.5824365,
+      "longitude": 23.3925554
+    },
+    {
+      "source_id": 25973,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8832314,
+      "longitude": 23.876061
+    },
+    {
+      "source_id": 25975,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.2234102,
+      "longitude": 23.3212572
+    },
+    {
+      "source_id": 25976,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.1693822,
+      "longitude": 23.3446953
+    },
+    {
+      "source_id": 25977,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.301797,
+      "longitude": 23.7322403
+    },
+    {
+      "source_id": 25978,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.305207,
+      "longitude": 23.7288779
+    },
+    {
+      "source_id": 25979,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.3350316,
+      "longitude": 23.7261203
+    },
+    {
+      "source_id": 26242,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8061725,
+      "longitude": 23.983453
+    },
+    {
+      "source_id": 26243,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.7052025,
+      "longitude": 24.0538919
+    },
+    {
+      "source_id": 26244,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.7864104,
+      "longitude": 24.0575347
+    },
+    {
+      "source_id": 26245,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.8042602,
+      "longitude": 23.9869595
+    },
+    {
+      "source_id": 26246,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8233206,
+      "longitude": 23.9575163
+    },
+    {
+      "source_id": 26247,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.7247037,
+      "longitude": 23.9437231
+    },
+    {
+      "source_id": 26248,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.7352985,
+      "longitude": 23.9503077
+    },
+    {
+      "source_id": 26249,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.7372606,
+      "longitude": 23.9517971
+    },
+    {
+      "source_id": 26250,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8219455,
+      "longitude": 23.8475569
+    },
+    {
+      "source_id": 26251,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.8250517,
+      "longitude": 23.853899
+    },
+    {
+      "source_id": 26252,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8349864,
+      "longitude": 23.7939059
+    },
+    {
+      "source_id": 26253,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8339877,
+      "longitude": 23.7996756
+    },
+    {
+      "source_id": 26254,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.8346004,
+      "longitude": 23.8052921
+    },
+    {
+      "source_id": 26255,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.835184,
+      "longitude": 23.805596
+    },
+    {
+      "source_id": 26256,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8444372,
+      "longitude": 23.821043
+    },
+    {
+      "source_id": 26257,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9320898,
+      "longitude": 23.8710927
+    },
+    {
+      "source_id": 26258,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8942802,
+      "longitude": 23.8798254
+    },
+    {
+      "source_id": 26259,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9067934,
+      "longitude": 23.8729543
+    },
+    {
+      "source_id": 26260,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.912098,
+      "longitude": 23.8738023
+    },
+    {
+      "source_id": 26261,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9457454,
+      "longitude": 23.8672168
+    },
+    {
+      "source_id": 26262,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9452846,
+      "longitude": 23.867354
+    },
+    {
+      "source_id": 26263,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9572141,
+      "longitude": 23.8574105
+    },
+    {
+      "source_id": 26264,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9666902,
+      "longitude": 23.9063916
+    },
+    {
+      "source_id": 26265,
+      "name": "ΕΚΟ",
+      "name_en": "",
+      "latitude": 37.9676896,
+      "longitude": 23.9142159
+    },
+    {
+      "source_id": 26266,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8851246,
+      "longitude": 23.9233888
+    },
+    {
+      "source_id": 26267,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.8458485,
+      "longitude": 23.9291153
+    },
+    {
+      "source_id": 26268,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 37.9443591,
+      "longitude": 24.0080533
+    },
+    {
+      "source_id": 26269,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9540059,
+      "longitude": 24.0065356
+    },
+    {
+      "source_id": 26270,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.968688,
+      "longitude": 23.999958
+    },
+    {
+      "source_id": 26271,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9689826,
+      "longitude": 24.0023505
+    },
+    {
+      "source_id": 26272,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.000449,
+      "longitude": 23.9363991
+    },
+    {
+      "source_id": 26273,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9787956,
+      "longitude": 23.9156152
+    },
+    {
+      "source_id": 26274,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0791055,
+      "longitude": 23.9810212
+    },
+    {
+      "source_id": 26275,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.1838826,
+      "longitude": 23.9766485
+    },
+    {
+      "source_id": 26276,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0974376,
+      "longitude": 23.9717664
+    },
+    {
+      "source_id": 26277,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.1132704,
+      "longitude": 23.9699886
+    },
+    {
+      "source_id": 26278,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1464668,
+      "longitude": 23.9672356
+    },
+    {
+      "source_id": 26279,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.1743848,
+      "longitude": 23.8540437
+    },
+    {
+      "source_id": 26280,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1514611,
+      "longitude": 23.8570923
+    },
+    {
+      "source_id": 26281,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.1305233,
+      "longitude": 23.8586834
+    },
+    {
+      "source_id": 26282,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1217076,
+      "longitude": 23.8643243
+    },
+    {
+      "source_id": 26283,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.104349,
+      "longitude": 23.8719514
+    },
+    {
+      "source_id": 26284,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1052563,
+      "longitude": 23.868155
+    },
+    {
+      "source_id": 26285,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1389139,
+      "longitude": 23.8550747
+    },
+    {
+      "source_id": 26290,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0810286,
+      "longitude": 23.8144515
+    },
+    {
+      "source_id": 26291,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0563908,
+      "longitude": 23.811099
+    },
+    {
+      "source_id": 26292,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.056092,
+      "longitude": 23.8121303
+    },
+    {
+      "source_id": 26293,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.087703,
+      "longitude": 23.8097006
+    },
+    {
+      "source_id": 26294,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0908838,
+      "longitude": 23.8091288
+    },
+    {
+      "source_id": 26295,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0893827,
+      "longitude": 23.8093143
+    },
+    {
+      "source_id": 26296,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0638618,
+      "longitude": 23.8091087
+    },
+    {
+      "source_id": 26297,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0780268,
+      "longitude": 23.8133691
+    },
+    {
+      "source_id": 26298,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0386177,
+      "longitude": 23.8283254
+    },
+    {
+      "source_id": 26299,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0526726,
+      "longitude": 23.8276676
+    },
+    {
+      "source_id": 26300,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0518217,
+      "longitude": 23.8291016
+    },
+    {
+      "source_id": 26301,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.051431,
+      "longitude": 23.8317864
+    },
+    {
+      "source_id": 26302,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0529894,
+      "longitude": 23.8146261
+    },
+    {
+      "source_id": 26303,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0511307,
+      "longitude": 23.8369096
+    },
+    {
+      "source_id": 26304,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0586596,
+      "longitude": 23.8379236
+    },
+    {
+      "source_id": 26305,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0453368,
+      "longitude": 23.8379634
+    },
+    {
+      "source_id": 26306,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.0343051,
+      "longitude": 23.8566165
+    },
+    {
+      "source_id": 26307,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0251131,
+      "longitude": 23.849675
+    },
+    {
+      "source_id": 26308,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.027081,
+      "longitude": 23.8510272
+    },
+    {
+      "source_id": 26309,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0439332,
+      "longitude": 23.8435591
+    },
+    {
+      "source_id": 26310,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0434504,
+      "longitude": 23.8450916
+    },
+    {
+      "source_id": 26311,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0294963,
+      "longitude": 23.8443702
+    },
+    {
+      "source_id": 26312,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0325158,
+      "longitude": 23.8467034
+    },
+    {
+      "source_id": 26320,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9884229,
+      "longitude": 23.3496518
+    },
+    {
+      "source_id": 26321,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9716598,
+      "longitude": 23.2104128
+    },
+    {
+      "source_id": 26322,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0033226,
+      "longitude": 23.339441
+    },
+    {
+      "source_id": 26323,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9956091,
+      "longitude": 23.3510363
+    },
+    {
+      "source_id": 26324,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9957643,
+      "longitude": 23.3476323
+    },
+    {
+      "source_id": 26325,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0067861,
+      "longitude": 23.336564
+    },
+    {
+      "source_id": 26326,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0108103,
+      "longitude": 23.3309899
+    },
+    {
+      "source_id": 26327,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0830796,
+      "longitude": 23.1904725
+    },
+    {
+      "source_id": 26328,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0454563,
+      "longitude": 23.5340837
+    },
+    {
+      "source_id": 26329,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.057855,
+      "longitude": 23.5125367
+    },
+    {
+      "source_id": 26330,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0481353,
+      "longitude": 23.5296497
+    },
+    {
+      "source_id": 26331,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.047785,
+      "longitude": 23.5295896
+    },
+    {
+      "source_id": 26332,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0433615,
+      "longitude": 23.5418861
+    },
+    {
+      "source_id": 26334,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0729154,
+      "longitude": 23.5908216
+    },
+    {
+      "source_id": 26335,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0508003,
+      "longitude": 23.5863201
+    },
+    {
+      "source_id": 26336,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0583495,
+      "longitude": 23.5914833
+    },
+    {
+      "source_id": 26337,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0826789,
+      "longitude": 23.5334642
+    },
+    {
+      "source_id": 26338,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0632016,
+      "longitude": 23.5306753
+    },
+    {
+      "source_id": 26339,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0627032,
+      "longitude": 23.5312239
+    },
+    {
+      "source_id": 26340,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0745343,
+      "longitude": 23.5321089
+    },
+    {
+      "source_id": 26341,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0729977,
+      "longitude": 23.6988424
+    },
+    {
+      "source_id": 26342,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0666119,
+      "longitude": 23.712391
+    },
+    {
+      "source_id": 26343,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.073983,
+      "longitude": 23.7066554
+    },
+    {
+      "source_id": 26344,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0788278,
+      "longitude": 23.6998305
+    },
+    {
+      "source_id": 26345,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0864853,
+      "longitude": 23.6936035
+    },
+    {
+      "source_id": 26346,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0758344,
+      "longitude": 23.6962999
+    },
+    {
+      "source_id": 26347,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0727851,
+      "longitude": 23.7347012
+    },
+    {
+      "source_id": 26348,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0783119,
+      "longitude": 23.7347805
+    },
+    {
+      "source_id": 26349,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0792155,
+      "longitude": 23.7311026
+    },
+    {
+      "source_id": 26350,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0833219,
+      "longitude": 23.7300022
+    },
+    {
+      "source_id": 26351,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0711819,
+      "longitude": 23.7022456
+    },
+    {
+      "source_id": 26352,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0835191,
+      "longitude": 23.7278198
+    },
+    {
+      "source_id": 26353,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0873893,
+      "longitude": 23.7263611
+    },
+    {
+      "source_id": 26354,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0882497,
+      "longitude": 23.7550887
+    },
+    {
+      "source_id": 26355,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.1197661,
+      "longitude": 23.7469045
+    },
+    {
+      "source_id": 26356,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0832182,
+      "longitude": 23.7430635
+    },
+    {
+      "source_id": 26357,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0846618,
+      "longitude": 23.7469005
+    },
+    {
+      "source_id": 26358,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.073513,
+      "longitude": 23.7635505
+    },
+    {
+      "source_id": 26359,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0878098,
+      "longitude": 23.7533632
+    },
+    {
+      "source_id": 26360,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0882612,
+      "longitude": 23.7440527
+    },
+    {
+      "source_id": 26361,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0896844,
+      "longitude": 23.7399039
+    },
+    {
+      "source_id": 26362,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.1195304,
+      "longitude": 23.7517858
+    },
+    {
+      "source_id": 26363,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.1142539,
+      "longitude": 23.8254979
+    },
+    {
+      "source_id": 26364,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0865041,
+      "longitude": 23.7998642
+    },
+    {
+      "source_id": 26365,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0823032,
+      "longitude": 23.7969917
+    },
+    {
+      "source_id": 26366,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0036868,
+      "longitude": 23.8867285
+    },
+    {
+      "source_id": 26367,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0040817,
+      "longitude": 23.8932471
+    },
+    {
+      "source_id": 26368,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0044815,
+      "longitude": 23.874802
+    },
+    {
+      "source_id": 26369,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0067177,
+      "longitude": 23.8626731
+    },
+    {
+      "source_id": 26370,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.007996,
+      "longitude": 23.8562129
+    },
+    {
+      "source_id": 26371,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0096545,
+      "longitude": 23.8508598
+    },
+    {
+      "source_id": 26372,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0100467,
+      "longitude": 23.8455885
+    },
+    {
+      "source_id": 26373,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0093348,
+      "longitude": 23.8446359
+    },
+    {
+      "source_id": 26374,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0056626,
+      "longitude": 23.8468576
+    },
+    {
+      "source_id": 26375,
+      "name": "SILKOIL - Temporarily Closed",
+      "name_en": "",
+      "latitude": 38.0016141,
+      "longitude": 23.8480042
+    },
+    {
+      "source_id": 26376,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.99705,
+      "longitude": 23.8684247
+    },
+    {
+      "source_id": 26377,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9920326,
+      "longitude": 23.8750156
+    },
+    {
+      "source_id": 26378,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9848335,
+      "longitude": 23.851218
+    },
+    {
+      "source_id": 26379,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8321364,
+      "longitude": 23.7730952
+    },
+    {
+      "source_id": 26380,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8322063,
+      "longitude": 23.7725105
+    },
+    {
+      "source_id": 26381,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.8360215,
+      "longitude": 23.7823186
+    },
+    {
+      "source_id": 26382,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.8200501,
+      "longitude": 23.8031716
+    },
+    {
+      "source_id": 26383,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.981798,
+      "longitude": 23.8516257
+    },
+    {
+      "source_id": 26384,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.8385531,
+      "longitude": 23.7632918
+    },
+    {
+      "source_id": 26385,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.857306,
+      "longitude": 23.7522863
+    },
+    {
+      "source_id": 26395,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9970082,
+      "longitude": 23.5873665
+    },
+    {
+      "source_id": 26396,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0138461,
+      "longitude": 23.6345378
+    },
+    {
+      "source_id": 26397,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.009764,
+      "longitude": 23.6616723
+    },
+    {
+      "source_id": 26398,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0128304,
+      "longitude": 23.6617842
+    },
+    {
+      "source_id": 26399,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0108436,
+      "longitude": 23.667732
+    },
+    {
+      "source_id": 26400,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0112198,
+      "longitude": 23.6462316
+    },
+    {
+      "source_id": 26401,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0109761,
+      "longitude": 23.6474627
+    },
+    {
+      "source_id": 26402,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0108587,
+      "longitude": 23.6483455
+    },
+    {
+      "source_id": 26403,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0098069,
+      "longitude": 23.6481745
+    },
+    {
+      "source_id": 26404,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0134703,
+      "longitude": 23.6813329
+    },
+    {
+      "source_id": 26405,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0164607,
+      "longitude": 23.6884508
+    },
+    {
+      "source_id": 26406,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.003192,
+      "longitude": 23.6867961
+    },
+    {
+      "source_id": 26407,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0033082,
+      "longitude": 23.6805961
+    },
+    {
+      "source_id": 26408,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.0034242,
+      "longitude": 23.6803184
+    },
+    {
+      "source_id": 26409,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0059857,
+      "longitude": 23.6759371
+    },
+    {
+      "source_id": 26410,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0064304,
+      "longitude": 23.6743258
+    },
+    {
+      "source_id": 26411,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0126132,
+      "longitude": 23.6552635
+    },
+    {
+      "source_id": 26412,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0078386,
+      "longitude": 23.6651359
+    },
+    {
+      "source_id": 26413,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0067353,
+      "longitude": 23.6602979
+    },
+    {
+      "source_id": 26414,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9911397,
+      "longitude": 23.6688185
+    },
+    {
+      "source_id": 26415,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9968266,
+      "longitude": 23.6637522
+    },
+    {
+      "source_id": 26416,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9962596,
+      "longitude": 23.6628588
+    },
+    {
+      "source_id": 26417,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9924265,
+      "longitude": 23.6601923
+    },
+    {
+      "source_id": 26418,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9883222,
+      "longitude": 23.660153
+    },
+    {
+      "source_id": 26419,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9896969,
+      "longitude": 23.6645299
+    },
+    {
+      "source_id": 26422,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.991558,
+      "longitude": 23.6706825
+    },
+    {
+      "source_id": 26423,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9956377,
+      "longitude": 23.6706606
+    },
+    {
+      "source_id": 26424,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9959092,
+      "longitude": 23.6709145
+    },
+    {
+      "source_id": 26425,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9931225,
+      "longitude": 23.6763982
+    },
+    {
+      "source_id": 26426,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9863439,
+      "longitude": 23.674673
+    },
+    {
+      "source_id": 26427,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9865973,
+      "longitude": 23.6744003
+    },
+    {
+      "source_id": 26428,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9994113,
+      "longitude": 23.6840497
+    },
+    {
+      "source_id": 26429,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9982512,
+      "longitude": 23.6909055
+    },
+    {
+      "source_id": 26430,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.998912,
+      "longitude": 23.6908569
+    },
+    {
+      "source_id": 26431,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9870409,
+      "longitude": 23.6420383
+    },
+    {
+      "source_id": 26432,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9870399,
+      "longitude": 23.6423208
+    },
+    {
+      "source_id": 26433,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.97613,
+      "longitude": 23.6701918
+    },
+    {
+      "source_id": 26434,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9750665,
+      "longitude": 23.6706333
+    },
+    {
+      "source_id": 26435,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9772802,
+      "longitude": 23.6646518
+    },
+    {
+      "source_id": 26436,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9775835,
+      "longitude": 23.6628537
+    },
+    {
+      "source_id": 26437,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9787727,
+      "longitude": 23.6596991
+    },
+    {
+      "source_id": 26438,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9789499,
+      "longitude": 23.6413968
+    },
+    {
+      "source_id": 26439,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9780802,
+      "longitude": 23.6367744
+    },
+    {
+      "source_id": 26440,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9784489,
+      "longitude": 23.6368681
+    },
+    {
+      "source_id": 26441,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9634202,
+      "longitude": 23.5658191
+    },
+    {
+      "source_id": 26442,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9641498,
+      "longitude": 23.5656616
+    },
+    {
+      "source_id": 26443,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9625307,
+      "longitude": 23.6067389
+    },
+    {
+      "source_id": 26444,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9686344,
+      "longitude": 23.6380621
+    },
+    {
+      "source_id": 26629,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9543029,
+      "longitude": 23.6141219
+    },
+    {
+      "source_id": 26630,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9529411,
+      "longitude": 23.6263598
+    },
+    {
+      "source_id": 26631,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9363567,
+      "longitude": 23.6379133
+    },
+    {
+      "source_id": 26632,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9501253,
+      "longitude": 23.6518282
+    },
+    {
+      "source_id": 26633,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9468639,
+      "longitude": 23.6760762
+    },
+    {
+      "source_id": 26634,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9645977,
+      "longitude": 23.6930826
+    },
+    {
+      "source_id": 26635,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9617738,
+      "longitude": 23.6847347
+    },
+    {
+      "source_id": 26636,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.976888,
+      "longitude": 23.7027086
+    },
+    {
+      "source_id": 26637,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9804668,
+      "longitude": 23.7121583
+    },
+    {
+      "source_id": 26638,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9788094,
+      "longitude": 23.7222442
+    },
+    {
+      "source_id": 26639,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9865331,
+      "longitude": 23.7212984
+    },
+    {
+      "source_id": 26640,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9839731,
+      "longitude": 23.7159092
+    },
+    {
+      "source_id": 26645,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9023981,
+      "longitude": 23.7200197
+    },
+    {
+      "source_id": 26646,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.9066985,
+      "longitude": 23.7225146
+    },
+    {
+      "source_id": 26647,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.8348206,
+      "longitude": 23.7718269
+    },
+    {
+      "source_id": 26648,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8614984,
+      "longitude": 23.7624893
+    },
+    {
+      "source_id": 26649,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.8941873,
+      "longitude": 23.7475032
+    },
+    {
+      "source_id": 26650,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.9083838,
+      "longitude": 23.7543915
+    },
+    {
+      "source_id": 26651,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9222346,
+      "longitude": 23.7555997
+    },
+    {
+      "source_id": 26652,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9331126,
+      "longitude": 23.7439588
+    },
+    {
+      "source_id": 26653,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0427105,
+      "longitude": 23.7066189
+    },
+    {
+      "source_id": 26654,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0581899,
+      "longitude": 23.7179059
+    },
+    {
+      "source_id": 26655,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0561602,
+      "longitude": 23.7377992
+    },
+    {
+      "source_id": 26939,
+      "name": "Marathon pack",
+      "name_en": "",
+      "latitude": 37.9472921,
+      "longitude": 23.6465013
+    },
+    {
+      "source_id": 27137,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9891342,
+      "longitude": 23.3385199
+    },
+    {
+      "source_id": 27215,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0104628,
+      "longitude": 23.7106748
+    },
+    {
+      "source_id": 27216,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.008351,
+      "longitude": 23.7120837
+    },
+    {
+      "source_id": 27217,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0117329,
+      "longitude": 23.7078284
+    },
+    {
+      "source_id": 27218,
+      "name": "Avin",
+      "name_en": "",
+      "latitude": 38.0145203,
+      "longitude": 23.7078915
+    },
+    {
+      "source_id": 27219,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0127343,
+      "longitude": 23.7030311
+    },
+    {
+      "source_id": 27220,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0128711,
+      "longitude": 23.7013128
+    },
+    {
+      "source_id": 27221,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0093018,
+      "longitude": 23.7024938
+    },
+    {
+      "source_id": 27222,
+      "name": "Million",
+      "name_en": "",
+      "latitude": 38.0285893,
+      "longitude": 23.6994871
+    },
+    {
+      "source_id": 27223,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.0028636,
+      "longitude": 23.6984394
+    },
+    {
+      "source_id": 27224,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0176893,
+      "longitude": 23.6899562
+    },
+    {
+      "source_id": 27225,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 38.0271009,
+      "longitude": 23.6974993
+    },
+    {
+      "source_id": 27226,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0287965,
+      "longitude": 23.6962746
+    },
+    {
+      "source_id": 27232,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9975953,
+      "longitude": 23.7098237
+    },
+    {
+      "source_id": 27233,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9963126,
+      "longitude": 23.7118882
+    },
+    {
+      "source_id": 27234,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9907352,
+      "longitude": 23.7107718
+    },
+    {
+      "source_id": 27235,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9849428,
+      "longitude": 23.7010401
+    },
+    {
+      "source_id": 27236,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9866014,
+      "longitude": 23.6977614
+    },
+    {
+      "source_id": 27239,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9883764,
+      "longitude": 23.6901729
+    },
+    {
+      "source_id": 27240,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9756875,
+      "longitude": 23.7118239
+    },
+    {
+      "source_id": 27266,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.861844,
+      "longitude": 23.7479314
+    },
+    {
+      "source_id": 27390,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0114598,
+      "longitude": 23.609095
+    },
+    {
+      "source_id": 27391,
+      "name": "ΠΕΤΡΟΓΚΑΖ",
+      "name_en": "",
+      "latitude": 38.0110762,
+      "longitude": 23.6466433
+    },
+    {
+      "source_id": 27392,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0074267,
+      "longitude": 23.6518292
+    },
+    {
+      "source_id": 27393,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.984268,
+      "longitude": 23.6568612
+    },
+    {
+      "source_id": 27394,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0011728,
+      "longitude": 23.6449886
+    },
+    {
+      "source_id": 27395,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9644768,
+      "longitude": 23.6217895
+    },
+    {
+      "source_id": 27396,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9660217,
+      "longitude": 23.6105193
+    },
+    {
+      "source_id": 27397,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9638013,
+      "longitude": 23.6137623
+    },
+    {
+      "source_id": 27398,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9655013,
+      "longitude": 23.6149011
+    },
+    {
+      "source_id": 27399,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9738694,
+      "longitude": 23.6242603
+    },
+    {
+      "source_id": 27400,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9754098,
+      "longitude": 23.6263448
+    },
+    {
+      "source_id": 27401,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9774686,
+      "longitude": 23.6280584
+    },
+    {
+      "source_id": 27402,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9675635,
+      "longitude": 23.6409368
+    },
+    {
+      "source_id": 27403,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9729474,
+      "longitude": 23.661003
+    },
+    {
+      "source_id": 27404,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9521526,
+      "longitude": 23.6253521
+    },
+    {
+      "source_id": 27405,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9525906,
+      "longitude": 23.6337104
+    },
+    {
+      "source_id": 27406,
+      "name": "Revoil",
+      "name_en": "",
+      "latitude": 37.9563492,
+      "longitude": 23.6352466
+    },
+    {
+      "source_id": 27407,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9519762,
+      "longitude": 23.6397191
+    },
+    {
+      "source_id": 27408,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9483288,
+      "longitude": 23.6480709
+    },
+    {
+      "source_id": 27409,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9541603,
+      "longitude": 23.6479628
+    },
+    {
+      "source_id": 27410,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9546337,
+      "longitude": 23.6433914
+    },
+    {
+      "source_id": 27411,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9546124,
+      "longitude": 23.638477
+    },
+    {
+      "source_id": 27412,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9577469,
+      "longitude": 23.6286694
+    },
+    {
+      "source_id": 27413,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9574903,
+      "longitude": 23.6378904
+    },
+    {
+      "source_id": 27414,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.956426,
+      "longitude": 23.6399076
+    },
+    {
+      "source_id": 27415,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9587994,
+      "longitude": 23.6493783
+    },
+    {
+      "source_id": 27416,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9454958,
+      "longitude": 23.659865
+    },
+    {
+      "source_id": 27417,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9483254,
+      "longitude": 23.6502645
+    },
+    {
+      "source_id": 27418,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9764116,
+      "longitude": 23.6743454
+    },
+    {
+      "source_id": 27419,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9761899,
+      "longitude": 23.6800234
+    },
+    {
+      "source_id": 27420,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9759854,
+      "longitude": 23.686886
+    },
+    {
+      "source_id": 27421,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.9631052,
+      "longitude": 23.6766759
+    },
+    {
+      "source_id": 27422,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9497488,
+      "longitude": 23.6501648
+    },
+    {
+      "source_id": 27423,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9496829,
+      "longitude": 23.6587313
+    },
+    {
+      "source_id": 27424,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9494192,
+      "longitude": 23.6640552
+    },
+    {
+      "source_id": 27425,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9494134,
+      "longitude": 23.6783357
+    },
+    {
+      "source_id": 27426,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9561024,
+      "longitude": 23.6774064
+    },
+    {
+      "source_id": 27427,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 37.9577946,
+      "longitude": 23.6792108
+    },
+    {
+      "source_id": 27428,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9720183,
+      "longitude": 23.6918894
+    },
+    {
+      "source_id": 27429,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9582322,
+      "longitude": 23.6849472
+    },
+    {
+      "source_id": 27430,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9651618,
+      "longitude": 23.6936049
+    },
+    {
+      "source_id": 27431,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9683926,
+      "longitude": 23.6983187
+    },
+    {
+      "source_id": 27432,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9676454,
+      "longitude": 23.7008124
+    },
+    {
+      "source_id": 27433,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9670357,
+      "longitude": 23.7025648
+    },
+    {
+      "source_id": 27434,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9649356,
+      "longitude": 23.7060357
+    },
+    {
+      "source_id": 27435,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9636216,
+      "longitude": 23.7073935
+    },
+    {
+      "source_id": 27436,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9622128,
+      "longitude": 23.6726709
+    },
+    {
+      "source_id": 27437,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9672084,
+      "longitude": 23.6742449
+    },
+    {
+      "source_id": 27438,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9673608,
+      "longitude": 23.6709895
+    },
+    {
+      "source_id": 27439,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9655136,
+      "longitude": 23.6601721
+    },
+    {
+      "source_id": 27440,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9661064,
+      "longitude": 23.6602523
+    },
+    {
+      "source_id": 27441,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9674424,
+      "longitude": 23.6615473
+    },
+    {
+      "source_id": 27442,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.945472,
+      "longitude": 23.695061
+    },
+    {
+      "source_id": 27443,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9488622,
+      "longitude": 23.6900677
+    },
+    {
+      "source_id": 27444,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9505443,
+      "longitude": 23.6923558
+    },
+    {
+      "source_id": 27445,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9525308,
+      "longitude": 23.6853875
+    },
+    {
+      "source_id": 27446,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9567793,
+      "longitude": 23.689572
+    },
+    {
+      "source_id": 27447,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9583415,
+      "longitude": 23.693907
+    },
+    {
+      "source_id": 27448,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9592192,
+      "longitude": 23.6986126
+    },
+    {
+      "source_id": 27451,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9500594,
+      "longitude": 23.7017775
+    },
+    {
+      "source_id": 27452,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9518139,
+      "longitude": 23.7098931
+    },
+    {
+      "source_id": 27453,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9624481,
+      "longitude": 23.7145296
+    },
+    {
+      "source_id": 27456,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0554588,
+      "longitude": 23.713099
+    },
+    {
+      "source_id": 27457,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0583697,
+      "longitude": 23.7135926
+    },
+    {
+      "source_id": 27458,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0571751,
+      "longitude": 23.7068706
+    },
+    {
+      "source_id": 27459,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0305634,
+      "longitude": 23.6830265
+    },
+    {
+      "source_id": 27460,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0226058,
+      "longitude": 23.6942619
+    },
+    {
+      "source_id": 27461,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.036432,
+      "longitude": 23.6935054
+    },
+    {
+      "source_id": 27462,
+      "name": "Avin",
+      "name_en": "",
+      "latitude": 38.0315196,
+      "longitude": 23.7064048
+    },
+    {
+      "source_id": 27463,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0361249,
+      "longitude": 23.701608
+    },
+    {
+      "source_id": 27464,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0364103,
+      "longitude": 23.7040936
+    },
+    {
+      "source_id": 27465,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0369945,
+      "longitude": 23.705408
+    },
+    {
+      "source_id": 27466,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0430281,
+      "longitude": 23.7011895
+    },
+    {
+      "source_id": 27467,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0306366,
+      "longitude": 23.7135645
+    },
+    {
+      "source_id": 27468,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 38.0318126,
+      "longitude": 23.7133847
+    },
+    {
+      "source_id": 27469,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0283377,
+      "longitude": 23.7096921
+    },
+    {
+      "source_id": 27470,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0221602,
+      "longitude": 23.7102181
+    },
+    {
+      "source_id": 27471,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0189018,
+      "longitude": 23.696223
+    },
+    {
+      "source_id": 27472,
+      "name": "ΑΠ",
+      "name_en": "",
+      "latitude": 38.0182068,
+      "longitude": 23.7004826
+    },
+    {
+      "source_id": 27473,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0171788,
+      "longitude": 23.7080605
+    },
+    {
+      "source_id": 27478,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0605574,
+      "longitude": 23.7170975
+    },
+    {
+      "source_id": 27479,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0409363,
+      "longitude": 23.7262857
+    },
+    {
+      "source_id": 27480,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0450078,
+      "longitude": 23.7284316
+    },
+    {
+      "source_id": 27481,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0487117,
+      "longitude": 23.7316822
+    },
+    {
+      "source_id": 27482,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0528115,
+      "longitude": 23.7302448
+    },
+    {
+      "source_id": 27483,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0625563,
+      "longitude": 23.7391907
+    },
+    {
+      "source_id": 27484,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.067439,
+      "longitude": 23.7390675
+    },
+    {
+      "source_id": 27485,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0671732,
+      "longitude": 23.7463071
+    },
+    {
+      "source_id": 27486,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9759726,
+      "longitude": 23.6948487
+    },
+    {
+      "source_id": 27487,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9858684,
+      "longitude": 23.6843391
+    },
+    {
+      "source_id": 27488,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9838115,
+      "longitude": 23.6818839
+    },
+    {
+      "source_id": 27489,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9824182,
+      "longitude": 23.6819183
+    },
+    {
+      "source_id": 27490,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9911792,
+      "longitude": 23.7023757
+    },
+    {
+      "source_id": 27491,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9869562,
+      "longitude": 23.7084667
+    },
+    {
+      "source_id": 27492,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9834351,
+      "longitude": 23.7095867
+    },
+    {
+      "source_id": 27493,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9943179,
+      "longitude": 23.7214905
+    },
+    {
+      "source_id": 27494,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0030461,
+      "longitude": 23.7066893
+    },
+    {
+      "source_id": 27495,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9636966,
+      "longitude": 23.7269646
+    },
+    {
+      "source_id": 27496,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9653171,
+      "longitude": 23.7274236
+    },
+    {
+      "source_id": 27497,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.965372,
+      "longitude": 23.7280815
+    },
+    {
+      "source_id": 27498,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.965304,
+      "longitude": 23.7283732
+    },
+    {
+      "source_id": 27499,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.984489,
+      "longitude": 23.7400527
+    },
+    {
+      "source_id": 27500,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9751089,
+      "longitude": 23.7153504
+    },
+    {
+      "source_id": 27501,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.964469,
+      "longitude": 23.734533
+    },
+    {
+      "source_id": 27502,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9593649,
+      "longitude": 23.7350876
+    },
+    {
+      "source_id": 27503,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9589442,
+      "longitude": 23.7332385
+    },
+    {
+      "source_id": 27504,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9578816,
+      "longitude": 23.730779
+    },
+    {
+      "source_id": 27505,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9907254,
+      "longitude": 23.7384084
+    },
+    {
+      "source_id": 27506,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9715968,
+      "longitude": 23.7461594
+    },
+    {
+      "source_id": 27573,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.2589139,
+      "longitude": 23.1651793
+    },
+    {
+      "source_id": 27601,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.8020596,
+      "longitude": 23.9929658
+    },
+    {
+      "source_id": 27602,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9893486,
+      "longitude": 23.3424755
+    },
+    {
+      "source_id": 27603,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9899496,
+      "longitude": 23.3382455
+    },
+    {
+      "source_id": 27615,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9132238,
+      "longitude": 23.7548359
+    },
+    {
+      "source_id": 27616,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9170716,
+      "longitude": 23.7340583
+    },
+    {
+      "source_id": 27617,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9637255,
+      "longitude": 23.6152109
+    },
+    {
+      "source_id": 27618,
+      "name": "Α.Π",
+      "name_en": "",
+      "latitude": 37.9935792,
+      "longitude": 23.7020396
+    },
+    {
+      "source_id": 27619,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.983108,
+      "longitude": 23.6721499
+    },
+    {
+      "source_id": 27620,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.7559178,
+      "longitude": 23.4520192
+    },
+    {
+      "source_id": 27621,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.7544527,
+      "longitude": 23.4473732
+    },
+    {
+      "source_id": 27622,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9851384,
+      "longitude": 23.6828376
+    },
+    {
+      "source_id": 27623,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9869741,
+      "longitude": 23.7553253
+    },
+    {
+      "source_id": 27624,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9875556,
+      "longitude": 23.7450865
+    },
+    {
+      "source_id": 27625,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9878342,
+      "longitude": 23.7249548
+    },
+    {
+      "source_id": 27626,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0283339,
+      "longitude": 23.7125277
+    },
+    {
+      "source_id": 27627,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0313502,
+      "longitude": 23.721195
+    },
+    {
+      "source_id": 27628,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0290146,
+      "longitude": 23.7232125
+    },
+    {
+      "source_id": 27629,
+      "name": "SILKOIL",
+      "name_en": "",
+      "latitude": 37.9606864,
+      "longitude": 23.9234664
+    },
+    {
+      "source_id": 27630,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9638573,
+      "longitude": 23.9253715
+    },
+    {
+      "source_id": 27638,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 37.9985718,
+      "longitude": 23.729652
+    },
+    {
+      "source_id": 27639,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9999791,
+      "longitude": 23.7279083
+    },
+    {
+      "source_id": 27640,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0148738,
+      "longitude": 23.7286589
+    },
+    {
+      "source_id": 27641,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0161241,
+      "longitude": 23.7311043
+    },
+    {
+      "source_id": 27642,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0073235,
+      "longitude": 23.7377013
+    },
+    {
+      "source_id": 27643,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.0099462,
+      "longitude": 23.7356315
+    },
+    {
+      "source_id": 27644,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9924184,
+      "longitude": 23.7740437
+    },
+    {
+      "source_id": 27645,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 38.0116751,
+      "longitude": 23.8118455
+    },
+    {
+      "source_id": 27646,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.004817,
+      "longitude": 23.7420535
+    },
+    {
+      "source_id": 27647,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0086843,
+      "longitude": 23.74604
+    },
+    {
+      "source_id": 27648,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0101271,
+      "longitude": 23.747959
+    },
+    {
+      "source_id": 27650,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.1131541,
+      "longitude": 23.7447506
+    },
+    {
+      "source_id": 27651,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.091422,
+      "longitude": 23.7481262
+    },
+    {
+      "source_id": 27654,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9221324,
+      "longitude": 23.4707181
+    },
+    {
+      "source_id": 27655,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 37.9434563,
+      "longitude": 23.4831126
+    },
+    {
+      "source_id": 27656,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 37.9557447,
+      "longitude": 23.4983057
+    },
+    {
+      "source_id": 27657,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9655823,
+      "longitude": 23.5127602
+    },
+    {
+      "source_id": 27658,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9642581,
+      "longitude": 23.5206896
+    },
+    {
+      "source_id": 27659,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 37.9622512,
+      "longitude": 23.5238447
+    },
+    {
+      "source_id": 27660,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9568674,
+      "longitude": 23.525558
+    },
+    {
+      "source_id": 27661,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 37.9509953,
+      "longitude": 23.5352642
+    },
+    {
+      "source_id": 27662,
+      "name": "AVIN",
+      "name_en": "",
+      "latitude": 37.9640392,
+      "longitude": 23.4958132
+    },
+    {
+      "source_id": 27663,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 37.9631282,
+      "longitude": 23.5020556
+    },
+    {
+      "source_id": 27664,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 37.9646364,
+      "longitude": 23.5030321
+    },
+    {
+      "source_id": 27665,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 37.9656658,
+      "longitude": 23.5038311
+    },
+    {
+      "source_id": 27666,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0700237,
+      "longitude": 23.7837082
+    },
+    {
+      "source_id": 27667,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.0422701,
+      "longitude": 23.7614955
+    },
+    {
+      "source_id": 27668,
+      "name": "ΕΤΕΚΑ",
+      "name_en": "",
+      "latitude": 38.0576837,
+      "longitude": 23.8024429
+    },
+    {
+      "source_id": 27669,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.017361,
+      "longitude": 23.7966838
+    },
+    {
+      "source_id": 27673,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0030163,
+      "longitude": 23.4209556
+    },
+    {
+      "source_id": 27674,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0160026,
+      "longitude": 23.4182025
+    },
+    {
+      "source_id": 27675,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0763744,
+      "longitude": 23.5126931
+    },
+    {
+      "source_id": 27676,
+      "name": "Α.Π.",
+      "name_en": "",
+      "latitude": 38.1087329,
+      "longitude": 23.5417096
+    },
+    {
+      "source_id": 27677,
+      "name": "Α.Π,",
+      "name_en": "",
+      "latitude": 38.0452858,
+      "longitude": 23.5457337
+    },
+    {
+      "source_id": 27678,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0457759,
+      "longitude": 23.548234
+    },
+    {
+      "source_id": 27679,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0552088,
+      "longitude": 23.5886609
+    },
+    {
+      "source_id": 27680,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0587924,
+      "longitude": 23.5792793
+    },
+    {
+      "source_id": 27681,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0525405,
+      "longitude": 23.5946866
+    },
+    {
+      "source_id": 27682,
+      "name": "AEGEAN",
+      "name_en": "",
+      "latitude": 38.0940594,
+      "longitude": 23.6006972
+    },
+    {
+      "source_id": 27683,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0027221,
+      "longitude": 23.8569335
+    },
+    {
+      "source_id": 27685,
+      "name": "REVOIL",
+      "name_en": "",
+      "latitude": 38.0324864,
+      "longitude": 23.8203012
+    },
+    {
+      "source_id": 27686,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.2696486,
+      "longitude": 23.698497
+    },
+    {
+      "source_id": 27690,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.223194,
+      "longitude": 23.3214547
+    },
+    {
+      "source_id": 27897,
+      "name": "ΕΛΙΝΟΙΛ",
+      "name_en": "",
+      "latitude": 38.2899034,
+      "longitude": 23.674117
+    },
+    {
+      "source_id": 29147,
+      "name": "SHELL",
+      "name_en": "",
+      "latitude": 38.0368854,
+      "longitude": 23.7049261
+    },
+    {
+      "source_id": 29299,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 37.9754286,
+      "longitude": 23.7633478
+    },
+    {
+      "source_id": 29536,
+      "name": "Bus depot HRS",
+      "name_en": "",
+      "latitude": 38.0742603,
+      "longitude": 23.5328487
+    },
+    {
+      "source_id": 29986,
+      "name": "Pearl",
+      "name_en": "",
+      "latitude": 37.9495381,
+      "longitude": 23.6383444
+    },
+    {
+      "source_id": 30107,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 37.9625061,
+      "longitude": 23.5880937
+    },
+    {
+      "source_id": 31262,
+      "name": "Stazione di servizio",
+      "name_en": "",
+      "latitude": 38.0831462,
+      "longitude": 23.4916353
+    },
+    {
+      "source_id": 32480,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0056553,
+      "longitude": 23.6764558
+    },
+    {
+      "source_id": 32997,
+      "name": "Avin",
+      "name_en": "",
+      "latitude": 37.9767664,
+      "longitude": 23.6780906
+    },
+    {
+      "source_id": 33057,
+      "name": "Shell",
+      "name_en": "",
+      "latitude": 38.0190458,
+      "longitude": 24.0005638
+    },
+    {
+      "source_id": 33180,
+      "name": "EKO",
+      "name_en": "",
+      "latitude": 38.0189262,
+      "longitude": 23.9960254
+    },
+    {
+      "source_id": 33183,
+      "name": "BP",
+      "name_en": "",
+      "latitude": 38.0187439,
+      "longitude": 23.9982487
+    }
+  ],
+  "meta": {
+    "title": "Πρατήρια καυσίμων — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Σημεία πρατηρίων καυσίμων στην Περιφέρεια Αττικής με ονομασία/brand (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (uploaded 2025-12-09 per info note). (Fuel/petrol station locations in Attica.) Περιέχει 1130 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πρατήρια καυσίμων — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Πρατήρια καυσίμων — Περιφέρεια Αττικής — 1130 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1130 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

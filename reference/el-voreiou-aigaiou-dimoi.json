@@ -1,0 +1,198 @@
+{
+  "id": "el-voreiou-aigaiou-dimoi",
+  "name": "Δήμοι — Περιφέρεια Βορείου Αιγαίου",
+  "title": "Δήμοι — Περιφέρεια Βορείου Αιγαίου",
+  "description": "Οι δήμοι της Περιφέρειας Βορείου Αιγαίου (North Aegean) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 9 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9259",
+      "name": "Ικαριας",
+      "slug": "ikarias",
+      "regional_unit_id": "1101",
+      "regional_unit_name": "Ικαριας",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 3,
+      "communities_count": 12
+    },
+    {
+      "id": "9260",
+      "name": "Φουρνων Κορσεων",
+      "slug": "foyrnon-korseon",
+      "regional_unit_id": "1101",
+      "regional_unit_name": "Ικαριας",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9261",
+      "name": "Λεσβου",
+      "slug": "lesvoy",
+      "regional_unit_id": "1102",
+      "regional_unit_name": "Λεσβου",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 13,
+      "communities_count": 73
+    },
+    {
+      "id": "9262",
+      "name": "Αγιου Ευστρατιου",
+      "slug": "agioy-eystratioy",
+      "regional_unit_id": "1103",
+      "regional_unit_name": "Λημνου",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9263",
+      "name": "Λημνου",
+      "slug": "limnoy",
+      "regional_unit_id": "1103",
+      "regional_unit_name": "Λημνου",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 4,
+      "communities_count": 32
+    },
+    {
+      "id": "9264",
+      "name": "Σαμου",
+      "slug": "samoy",
+      "regional_unit_id": "1104",
+      "regional_unit_name": "Σαμου",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 4,
+      "communities_count": 35
+    },
+    {
+      "id": "9265",
+      "name": "Οινουσσων",
+      "slug": "oinoysson",
+      "regional_unit_id": "1105",
+      "regional_unit_name": "Χιου",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9266",
+      "name": "Χιου",
+      "slug": "chioy",
+      "regional_unit_id": "1105",
+      "regional_unit_name": "Χιου",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 8,
+      "communities_count": 58
+    },
+    {
+      "id": "9267",
+      "name": "Ψαρων",
+      "slug": "psaron",
+      "regional_unit_id": "1105",
+      "regional_unit_name": "Χιου",
+      "periphery_id": 11,
+      "periphery_name": "Βορειου Αιγαιου",
+      "periphery_name_native": "Βορείου Αιγαίου",
+      "periphery_slug": "voreiou-aigaiou",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Βορείου Αιγαίου - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Βορείου Αιγαίου (North Aegean) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 9 δήμοι. Περιέχει 9 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Βορείου Αιγαίου | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Βορείου Αιγαίου — 9 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 9 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

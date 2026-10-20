@@ -1,0 +1,219 @@
+{
+  "id": "el-androy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Ανδρου (24)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Ανδρου (24)",
+  "description": "Οι 24 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ανδρου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "310301",
+      "name": "Ανδρου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310302",
+      "name": "Αποικιων",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310303",
+      "name": "Βουρκωτης",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310304",
+      "name": "Λαμυρων",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310305",
+      "name": "Μεσαριας",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310306",
+      "name": "Πιτροφου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310307",
+      "name": "Στενιων",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311501",
+      "name": "Καππαριας",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311502",
+      "name": "Κορθιου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311503",
+      "name": "Κοχυλου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311504",
+      "name": "Ορμου Κορθιου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311505",
+      "name": "Παλαιοκαστρου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "311506",
+      "name": "Συνετιου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313001",
+      "name": "Γαυριου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313002",
+      "name": "Αμμολοχου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313003",
+      "name": "Ανω Γαυριου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313004",
+      "name": "Απροβατου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313005",
+      "name": "Αρνα",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313006",
+      "name": "Βιταλιου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313007",
+      "name": "Κατακοιλου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313008",
+      "name": "Μακροτανταλου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313009",
+      "name": "Μπατσιου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313010",
+      "name": "Παλαιοπολεως",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "313011",
+      "name": "Φελλου",
+      "municipality": "Ανδρου",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Ανδρου (24) - Δωρεάν λήψη",
+    "description": "Οι 24 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ανδρου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 24 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Ανδρου (24) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Ανδρου (24) — 24 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 24 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,1426 @@
+{
+  "id": "el-nyxterina-kentra",
+  "name": "Νυχτερινά Κέντρα Ελλάδας",
+  "title": "Νυχτερινά Κέντρα Ελλάδας",
+  "description": "Νυχτερινά κέντρα (κλαμπ) σε όλη την Ελλάδα από το OpenStreetMap. Nightclubs across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 277,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Logos Dancing Bar\"",
+      "latitude": 37.729882,
+      "longitude": 20.975259
+    },
+    {
+      "name": "2nd skin",
+      "latitude": 37.979275,
+      "longitude": 23.71104
+    },
+    {
+      "name": "54 Dreamy Nights",
+      "latitude": 39.629604,
+      "longitude": 19.891199
+    },
+    {
+      "name": "7 times",
+      "latitude": 37.977554,
+      "longitude": 23.725372
+    },
+    {
+      "name": "8 ball",
+      "latitude": 40.635616,
+      "longitude": 22.93644
+    },
+    {
+      "name": "90 Music Point",
+      "latitude": 40.637726,
+      "longitude": 22.939774
+    },
+    {
+      "name": "Acro",
+      "latitude": 37.979209,
+      "longitude": 23.715232
+    },
+    {
+      "name": "Actus",
+      "latitude": 37.437558,
+      "longitude": 22.746902
+    },
+    {
+      "name": "Ahoy Night Club Kallithea",
+      "latitude": 40.064687,
+      "longitude": 23.450791
+    },
+    {
+      "name": "Akrotiri summer club",
+      "latitude": 36.497786,
+      "longitude": 22.982405
+    },
+    {
+      "name": "Alabasyron (jazz, latino...)",
+      "latitude": 37.965598,
+      "longitude": 23.748412
+    },
+    {
+      "name": "Alcatraz",
+      "latitude": 36.449989,
+      "longitude": 28.217321
+    },
+    {
+      "name": "Amphitheatre Night Club",
+      "latitude": 36.101082,
+      "longitude": 28.080398
+    },
+    {
+      "name": "Angels Club",
+      "latitude": 40.068233,
+      "longitude": 23.45283
+    },
+    {
+      "name": "Animal",
+      "latitude": 39.637983,
+      "longitude": 22.412313
+    },
+    {
+      "name": "Anodos",
+      "latitude": 37.971112,
+      "longitude": 23.704514
+    },
+    {
+      "name": "Ape nightclub",
+      "latitude": 40.64297,
+      "longitude": 22.914718
+    },
+    {
+      "name": "Apollo Club",
+      "latitude": 35.288275,
+      "longitude": 25.461809
+    },
+    {
+      "name": "Appartment",
+      "latitude": 37.979548,
+      "longitude": 23.712931
+    },
+    {
+      "name": "Aquarium",
+      "latitude": 35.305822,
+      "longitude": 25.514858
+    },
+    {
+      "name": "Art club",
+      "latitude": 38.019729,
+      "longitude": 23.736458
+    },
+    {
+      "name": "Arxaion",
+      "latitude": 38.250336,
+      "longitude": 21.73706
+    },
+    {
+      "name": "ASTRA",
+      "latitude": 40.642739,
+      "longitude": 22.915161
+    },
+    {
+      "name": "Astra Live",
+      "latitude": 36.432486,
+      "longitude": 28.2023
+    },
+    {
+      "name": "Athens Stage",
+      "latitude": 38.014223,
+      "longitude": 23.719286
+    },
+    {
+      "name": "Atlantis",
+      "latitude": 38.321812,
+      "longitude": 23.783217
+    },
+    {
+      "name": "Axum",
+      "latitude": 38.009631,
+      "longitude": 23.73588
+    },
+    {
+      "name": "Azael",
+      "latitude": 37.941186,
+      "longitude": 23.643247
+    },
+    {
+      "name": "Bagallan Club",
+      "latitude": 40.635222,
+      "longitude": 22.935459
+    },
+    {
+      "name": "Barato",
+      "latitude": 37.942878,
+      "longitude": 23.659937
+    },
+    {
+      "name": "Barbarella Live",
+      "latitude": 40.642968,
+      "longitude": 22.91077
+    },
+    {
+      "name": "Barbarossa",
+      "latitude": 38.834395,
+      "longitude": 20.710251
+    },
+    {
+      "name": "Barrelledakio",
+      "latitude": 35.480191,
+      "longitude": 23.942098
+    },
+    {
+      "name": "Bed Club",
+      "latitude": 36.344719,
+      "longitude": 28.201932
+    },
+    {
+      "name": "Bellagio",
+      "latitude": 37.940506,
+      "longitude": 23.642392
+    },
+    {
+      "name": "Bequeer",
+      "latitude": 37.981005,
+      "longitude": 23.712269
+    },
+    {
+      "name": "Black Hole",
+      "latitude": 35.209903,
+      "longitude": 26.107738
+    },
+    {
+      "name": "Blast",
+      "latitude": 37.979222,
+      "longitude": 23.713437
+    },
+    {
+      "name": "Blaze night club",
+      "latitude": 39.901329,
+      "longitude": 22.180817
+    },
+    {
+      "name": "Block 33",
+      "latitude": 40.643679,
+      "longitude": 22.909249
+    },
+    {
+      "name": "Bluesky",
+      "latitude": 40.539173,
+      "longitude": 23.016178
+    },
+    {
+      "name": "Bo Nightclub",
+      "latitude": 36.062142,
+      "longitude": 27.987096
+    },
+    {
+      "name": "Bokan",
+      "latitude": 37.979003,
+      "longitude": 23.710742
+    },
+    {
+      "name": "Boom Boom",
+      "latitude": 37.943047,
+      "longitude": 23.684577
+    },
+    {
+      "name": "Boutique",
+      "latitude": 35.20875,
+      "longitude": 26.106506
+    },
+    {
+      "name": "BOX Athens",
+      "latitude": 37.975167,
+      "longitude": 23.709586
+    },
+    {
+      "name": "Cabal",
+      "latitude": 39.627043,
+      "longitude": 19.915516
+    },
+    {
+      "name": "Cabana",
+      "latitude": 38.016315,
+      "longitude": 23.730403
+    },
+    {
+      "name": "Caesars Club",
+      "latitude": 40.562421,
+      "longitude": 23.000937
+    },
+    {
+      "name": "Cafe-Bar Depo",
+      "latitude": 40.789321,
+      "longitude": 22.409542
+    },
+    {
+      "name": "Cameo",
+      "latitude": 35.318737,
+      "longitude": 25.391377
+    },
+    {
+      "name": "Can can",
+      "latitude": 37.976736,
+      "longitude": 23.676084
+    },
+    {
+      "name": "Candy Club",
+      "latitude": 35.288597,
+      "longitude": 25.461686
+    },
+    {
+      "name": "Capone",
+      "latitude": 37.990804,
+      "longitude": 23.736038
+    },
+    {
+      "name": "Casper",
+      "latitude": 40.635521,
+      "longitude": 22.936735
+    },
+    {
+      "name": "Ciroc",
+      "latitude": 37.886414,
+      "longitude": 23.72702
+    },
+    {
+      "name": "Club",
+      "latitude": 37.998315,
+      "longitude": 23.731421
+    },
+    {
+      "name": "Club Loca",
+      "latitude": 36.993049,
+      "longitude": 26.932403
+    },
+    {
+      "name": "Cocus",
+      "latitude": 40.275511,
+      "longitude": 22.601031
+    },
+    {
+      "name": "College Club",
+      "latitude": 38.036284,
+      "longitude": 23.539438
+    },
+    {
+      "name": "Colorado",
+      "latitude": 36.451979,
+      "longitude": 28.216969
+    },
+    {
+      "name": "Comple pub",
+      "latitude": 37.99847,
+      "longitude": 23.731459
+    },
+    {
+      "name": "Coral Night Club",
+      "latitude": 40.063787,
+      "longitude": 23.452158
+    },
+    {
+      "name": "COZMO",
+      "latitude": 37.965857,
+      "longitude": 23.732832
+    },
+    {
+      "name": "Crazy Horse",
+      "latitude": 40.283388,
+      "longitude": 23.387912
+    },
+    {
+      "name": "Crazy Town",
+      "latitude": 35.412561,
+      "longitude": 24.782215
+    },
+    {
+      "name": "Cube",
+      "latitude": 39.792704,
+      "longitude": 19.816803
+    },
+    {
+      "name": "D Side",
+      "latitude": 38.030256,
+      "longitude": 23.735127
+    },
+    {
+      "name": "D.a.d.a. nightclub",
+      "latitude": 40.301716,
+      "longitude": 21.786038
+    },
+    {
+      "name": "DARK SUN",
+      "latitude": 38.00376,
+      "longitude": 23.687091
+    },
+    {
+      "name": "Death Disco",
+      "latitude": 37.978397,
+      "longitude": 23.722408
+    },
+    {
+      "name": "Destil",
+      "latitude": 40.789097,
+      "longitude": 22.409816
+    },
+    {
+      "name": "Diamond Club",
+      "latitude": 40.637245,
+      "longitude": 22.939254
+    },
+    {
+      "name": "Dimitra",
+      "latitude": 41.259812,
+      "longitude": 22.838423
+    },
+    {
+      "name": "Disco & Bar",
+      "latitude": 36.814701,
+      "longitude": 27.180598
+    },
+    {
+      "name": "Disco La Luna",
+      "latitude": 37.047298,
+      "longitude": 25.0801
+    },
+    {
+      "name": "Downtown Rock Bar",
+      "latitude": 38.245044,
+      "longitude": 21.737618
+    },
+    {
+      "name": "Edem Beach Club",
+      "latitude": 39.685663,
+      "longitude": 19.842568
+    },
+    {
+      "name": "Eden Of Shaka",
+      "latitude": 40.061599,
+      "longitude": 23.455863
+    },
+    {
+      "name": "Eiffel Nightclub",
+      "latitude": 38.247568,
+      "longitude": 21.73317
+    },
+    {
+      "name": "Elite",
+      "latitude": 39.629682,
+      "longitude": 19.890921
+    },
+    {
+      "name": "Enigma",
+      "latitude": 35.31912,
+      "longitude": 25.391357
+    },
+    {
+      "name": "Enigma Club",
+      "latitude": 36.418891,
+      "longitude": 25.431687
+    },
+    {
+      "name": "ESTATE",
+      "latitude": 37.974192,
+      "longitude": 23.707476
+    },
+    {
+      "name": "Europa club",
+      "latitude": 37.938526,
+      "longitude": 23.641541
+    },
+    {
+      "name": "Event Club",
+      "latitude": 41.256189,
+      "longitude": 23.024077
+    },
+    {
+      "name": "Fever",
+      "latitude": 35.531481,
+      "longitude": 27.196442
+    },
+    {
+      "name": "Fever",
+      "latitude": 37.960417,
+      "longitude": 23.720023
+    },
+    {
+      "name": "Fiji Island",
+      "latitude": 40.062408,
+      "longitude": 23.454699
+    },
+    {
+      "name": "Fishbowl",
+      "latitude": 37.727542,
+      "longitude": 20.86391
+    },
+    {
+      "name": "Fix Factory Of sound",
+      "latitude": 40.641187,
+      "longitude": 22.91603
+    },
+    {
+      "name": "Flares",
+      "latitude": 35.285167,
+      "longitude": 25.462563
+    },
+    {
+      "name": "Folie",
+      "latitude": 37.987078,
+      "longitude": 23.760391
+    },
+    {
+      "name": "G",
+      "latitude": 37.073784,
+      "longitude": 22.428692
+    },
+    {
+      "name": "Gagarin 205",
+      "latitude": 38.003628,
+      "longitude": 23.721736
+    },
+    {
+      "name": "Gazi Club",
+      "latitude": 37.633276,
+      "longitude": 22.728013
+    },
+    {
+      "name": "Gazi Music Hall",
+      "latitude": 37.978977,
+      "longitude": 23.714952
+    },
+    {
+      "name": "Gazziview",
+      "latitude": 37.977796,
+      "longitude": 23.712153
+    },
+    {
+      "name": "Ghetto",
+      "latitude": 38.240078,
+      "longitude": 21.726917
+    },
+    {
+      "name": "GOLD",
+      "latitude": 40.267051,
+      "longitude": 22.590229
+    },
+    {
+      "name": "Hamam",
+      "latitude": 39.639841,
+      "longitude": 22.415944
+    },
+    {
+      "name": "Heaven",
+      "latitude": 35.532307,
+      "longitude": 27.187515
+    },
+    {
+      "name": "Hotel Ερμού",
+      "latitude": 37.977889,
+      "longitude": 23.716191
+    },
+    {
+      "name": "HUBU Summer Club",
+      "latitude": 41.139897,
+      "longitude": 24.169033
+    },
+    {
+      "name": "ICONS",
+      "latitude": 38.347723,
+      "longitude": 21.620967
+    },
+    {
+      "name": "ID Club",
+      "latitude": 40.64223,
+      "longitude": 22.933939
+    },
+    {
+      "name": "IDOL",
+      "latitude": 40.936735,
+      "longitude": 24.404453
+    },
+    {
+      "name": "Idol Club",
+      "latitude": 38.071137,
+      "longitude": 22.648305
+    },
+    {
+      "name": "Island",
+      "latitude": 38.977206,
+      "longitude": 26.354765
+    },
+    {
+      "name": "Island of Desire",
+      "latitude": 35.341233,
+      "longitude": 25.122888
+    },
+    {
+      "name": "IT Athens",
+      "latitude": 37.986782,
+      "longitude": 23.732463
+    },
+    {
+      "name": "JackieO'",
+      "latitude": 37.413891,
+      "longitude": 25.367785
+    },
+    {
+      "name": "Jacky.O.",
+      "latitude": 37.975875,
+      "longitude": 23.751824
+    },
+    {
+      "name": "K105K Club Oriental",
+      "latitude": 38.243134,
+      "longitude": 21.732858
+    },
+    {
+      "name": "Kabos club Athens",
+      "latitude": 37.97583,
+      "longitude": 23.752358
+    },
+    {
+      "name": "Karabo",
+      "latitude": 36.550334,
+      "longitude": 26.357185
+    },
+    {
+      "name": "Karnagio Club",
+      "latitude": 36.208143,
+      "longitude": 28.139645
+    },
+    {
+      "name": "Kinky",
+      "latitude": 36.45201,
+      "longitude": 28.217271
+    },
+    {
+      "name": "Kinky night club",
+      "latitude": 39.898964,
+      "longitude": 25.071749
+    },
+    {
+      "name": "Kismet",
+      "latitude": 39.045062,
+      "longitude": 26.611332
+    },
+    {
+      "name": "Koo Club",
+      "latitude": 36.418966,
+      "longitude": 25.431368
+    },
+    {
+      "name": "Kouros club",
+      "latitude": 37.952774,
+      "longitude": 23.695115
+    },
+    {
+      "name": "Koursaros",
+      "latitude": 37.948387,
+      "longitude": 23.679767
+    },
+    {
+      "name": "La Rosa Negre",
+      "latitude": 40.636402,
+      "longitude": 22.934869
+    },
+    {
+      "name": "La Μπουάτ",
+      "latitude": 37.94525,
+      "longitude": 23.70123
+    },
+    {
+      "name": "Lab Art",
+      "latitude": 39.364339,
+      "longitude": 22.931181
+    },
+    {
+      "name": "Lagoon",
+      "latitude": 38.835424,
+      "longitude": 20.709166
+    },
+    {
+      "name": "Lido",
+      "latitude": 37.983605,
+      "longitude": 23.733401
+    },
+    {
+      "name": "LIDO Paradise club",
+      "latitude": 40.52717,
+      "longitude": 22.99426
+    },
+    {
+      "name": "Like Music Club",
+      "latitude": 37.962592,
+      "longitude": 23.724463
+    },
+    {
+      "name": "Liquid",
+      "latitude": 36.340738,
+      "longitude": 28.201743
+    },
+    {
+      "name": "Loco",
+      "latitude": 39.653795,
+      "longitude": 19.841623
+    },
+    {
+      "name": "Loco stage",
+      "latitude": 37.940404,
+      "longitude": 23.642326
+    },
+    {
+      "name": "Lohan",
+      "latitude": 37.980128,
+      "longitude": 23.714122
+    },
+    {
+      "name": "LT",
+      "latitude": 39.674453,
+      "longitude": 20.850639
+    },
+    {
+      "name": "Lux Club",
+      "latitude": 35.287947,
+      "longitude": 25.461623
+    },
+    {
+      "name": "Magas cafe bar",
+      "latitude": 37.434317,
+      "longitude": 25.341757
+    },
+    {
+      "name": "Magenta",
+      "latitude": 38.246893,
+      "longitude": 21.73453
+    },
+    {
+      "name": "Maison Crystal",
+      "latitude": 40.615517,
+      "longitude": 22.952028
+    },
+    {
+      "name": "Mamounia",
+      "latitude": 36.419102,
+      "longitude": 25.431669
+    },
+    {
+      "name": "Mamounia live",
+      "latitude": 40.527171,
+      "longitude": 22.992504
+    },
+    {
+      "name": "MAMOYNIA",
+      "latitude": 40.641159,
+      "longitude": 22.918862
+    },
+    {
+      "name": "Market Night Club",
+      "latitude": 37.951689,
+      "longitude": 23.638499
+    },
+    {
+      "name": "Markiz Night Club",
+      "latitude": 40.063405,
+      "longitude": 23.449887
+    },
+    {
+      "name": "Matala",
+      "latitude": 40.328461,
+      "longitude": 23.924413
+    },
+    {
+      "name": "MESANYXTA",
+      "latitude": 37.424995,
+      "longitude": 24.943073
+    },
+    {
+      "name": "Metropolis club",
+      "latitude": 35.370328,
+      "longitude": 24.476139
+    },
+    {
+      "name": "Mezzo",
+      "latitude": 37.97769,
+      "longitude": 23.720693
+    },
+    {
+      "name": "Minibar",
+      "latitude": 35.369897,
+      "longitude": 24.476491
+    },
+    {
+      "name": "Mods",
+      "latitude": 38.244067,
+      "longitude": 21.736768
+    },
+    {
+      "name": "Monastiri Tou Karolou",
+      "latitude": 35.51545,
+      "longitude": 24.020973
+    },
+    {
+      "name": "MONO",
+      "latitude": 38.244233,
+      "longitude": 21.735721
+    },
+    {
+      "name": "Monte Cristo",
+      "latitude": 39.701995,
+      "longitude": 19.840621
+    },
+    {
+      "name": "Mostar Cafe",
+      "latitude": 38.46274,
+      "longitude": 23.588893
+    },
+    {
+      "name": "Motel",
+      "latitude": 40.938625,
+      "longitude": 24.407503
+    },
+    {
+      "name": "Moulin Rouge",
+      "latitude": 38.245462,
+      "longitude": 21.730216
+    },
+    {
+      "name": "Music Boxx",
+      "latitude": 36.347062,
+      "longitude": 28.201826
+    },
+    {
+      "name": "My Club",
+      "latitude": 40.789128,
+      "longitude": 22.409304
+    },
+    {
+      "name": "Mylos Club",
+      "latitude": 35.517604,
+      "longitude": 23.903893
+    },
+    {
+      "name": "Nhoa",
+      "latitude": 40.635478,
+      "longitude": 22.936594
+    },
+    {
+      "name": "Nicopolis Club",
+      "latitude": 39.041029,
+      "longitude": 20.710457
+    },
+    {
+      "name": "Nirvana",
+      "latitude": 36.34445,
+      "longitude": 28.201008
+    },
+    {
+      "name": "Nite Club",
+      "latitude": 35.004213,
+      "longitude": 25.813992
+    },
+    {
+      "name": "No Name Club",
+      "latitude": 40.662301,
+      "longitude": 21.557375
+    },
+    {
+      "name": "Nostos",
+      "latitude": 37.976433,
+      "longitude": 23.751536
+    },
+    {
+      "name": "Nuba",
+      "latitude": 37.977369,
+      "longitude": 23.712272
+    },
+    {
+      "name": "NUEVO",
+      "latitude": 35.007826,
+      "longitude": 25.73905
+    },
+    {
+      "name": "ocean",
+      "latitude": 37.103435,
+      "longitude": 25.374843
+    },
+    {
+      "name": "Oddity Club",
+      "latitude": 37.975814,
+      "longitude": 23.712698
+    },
+    {
+      "name": "Odyssey.",
+      "latitude": 37.977743,
+      "longitude": 23.71175
+    },
+    {
+      "name": "Off the chain",
+      "latitude": 37.984459,
+      "longitude": 23.734992
+    },
+    {
+      "name": "Oltre",
+      "latitude": 37.7483,
+      "longitude": 23.910401
+    },
+    {
+      "name": "OMILOS",
+      "latitude": 40.262161,
+      "longitude": 22.595915
+    },
+    {
+      "name": "Onyx",
+      "latitude": 39.627079,
+      "longitude": 19.915385
+    },
+    {
+      "name": "Paradise Beach Club Mykonos",
+      "latitude": 37.410302,
+      "longitude": 25.355451
+    },
+    {
+      "name": "Paradise Club",
+      "latitude": 35.405588,
+      "longitude": 25.018118
+    },
+    {
+      "name": "Pearl Night Club",
+      "latitude": 40.065641,
+      "longitude": 23.451374
+    },
+    {
+      "name": "Popeye",
+      "latitude": 39.58959,
+      "longitude": 22.446071
+    },
+    {
+      "name": "PORTO AKRI",
+      "latitude": 40.511623,
+      "longitude": 22.934537
+    },
+    {
+      "name": "Posidonio Music Hall",
+      "latitude": 37.880967,
+      "longitude": 23.730397
+    },
+    {
+      "name": "Prestige",
+      "latitude": 39.151568,
+      "longitude": 20.974068
+    },
+    {
+      "name": "Prison Club",
+      "latitude": 35.096206,
+      "longitude": 24.688267
+    },
+    {
+      "name": "Pure",
+      "latitude": 38.835428,
+      "longitude": 20.70903
+    },
+    {
+      "name": "Qube",
+      "latitude": 36.785181,
+      "longitude": 27.146908
+    },
+    {
+      "name": "Queen club",
+      "latitude": 40.789664,
+      "longitude": 22.409561
+    },
+    {
+      "name": "Rainbow Metal Club",
+      "latitude": 37.97668,
+      "longitude": 23.709793
+    },
+    {
+      "name": "Red Club",
+      "latitude": 37.349972,
+      "longitude": 23.46487
+    },
+    {
+      "name": "Red Sea Reggae House",
+      "latitude": 37.977715,
+      "longitude": 23.756422
+    },
+    {
+      "name": "Romeo",
+      "latitude": 37.880474,
+      "longitude": 23.730718
+    },
+    {
+      "name": "Rumours",
+      "latitude": 37.951632,
+      "longitude": 23.694993
+    },
+    {
+      "name": "Sarai",
+      "latitude": 36.780688,
+      "longitude": 27.141499
+    },
+    {
+      "name": "Scirocco Club",
+      "latitude": 37.495852,
+      "longitude": 23.463253
+    },
+    {
+      "name": "Scorpios",
+      "latitude": 40.656883,
+      "longitude": 22.962325
+    },
+    {
+      "name": "SEVEN",
+      "latitude": 35.007679,
+      "longitude": 25.73906
+    },
+    {
+      "name": "Shamone",
+      "latitude": 37.97813,
+      "longitude": 23.709425
+    },
+    {
+      "name": "Sin City",
+      "latitude": 37.724593,
+      "longitude": 20.864515
+    },
+    {
+      "name": "Sixty Six Crew",
+      "latitude": 40.63668,
+      "longitude": 22.937211
+    },
+    {
+      "name": "Size",
+      "latitude": 37.977685,
+      "longitude": 23.711637
+    },
+    {
+      "name": "Sizzle",
+      "latitude": 37.725386,
+      "longitude": 20.864415
+    },
+    {
+      "name": "Smash",
+      "latitude": 37.982453,
+      "longitude": 23.708389
+    },
+    {
+      "name": "Soul",
+      "latitude": 40.647652,
+      "longitude": 22.906972
+    },
+    {
+      "name": "Stage",
+      "latitude": 39.639533,
+      "longitude": 22.409171
+    },
+    {
+      "name": "Star Dust Club",
+      "latitude": 40.270077,
+      "longitude": 22.508157
+    },
+    {
+      "name": "Starlight",
+      "latitude": 36.785399,
+      "longitude": 27.140423
+    },
+    {
+      "name": "Statues Club Cocktail & Shisha Bar",
+      "latitude": 36.253547,
+      "longitude": 28.164759
+    },
+    {
+      "name": "Sting-Fabric Club",
+      "latitude": 36.34085,
+      "longitude": 28.200232
+    },
+    {
+      "name": "Studio 24",
+      "latitude": 37.977724,
+      "longitude": 23.709966
+    },
+    {
+      "name": "Sueno",
+      "latitude": 40.789315,
+      "longitude": 22.40969
+    },
+    {
+      "name": "Taboo Cocktail Club",
+      "latitude": 37.708821,
+      "longitude": 23.358708
+    },
+    {
+      "name": "Teatro Music Hall",
+      "latitude": 37.942217,
+      "longitude": 23.686538
+    },
+    {
+      "name": "Temple",
+      "latitude": 37.979028,
+      "longitude": 23.713032
+    },
+    {
+      "name": "Terra",
+      "latitude": 38.030115,
+      "longitude": 23.735536
+    },
+    {
+      "name": "The apartment",
+      "latitude": 37.98581,
+      "longitude": 23.72017
+    },
+    {
+      "name": "The Platform Athens",
+      "latitude": 37.980119,
+      "longitude": 23.711264
+    },
+    {
+      "name": "The Residents",
+      "latitude": 40.628121,
+      "longitude": 22.947306
+    },
+    {
+      "name": "Tokyo",
+      "latitude": 37.980043,
+      "longitude": 23.713078
+    },
+    {
+      "name": "Town Club",
+      "latitude": 36.418684,
+      "longitude": 25.431722
+    },
+    {
+      "name": "Toy Room",
+      "latitude": 37.977606,
+      "longitude": 23.735647
+    },
+    {
+      "name": "Trust Club",
+      "latitude": 37.943164,
+      "longitude": 23.684644
+    },
+    {
+      "name": "Tunnel Club",
+      "latitude": 37.974482,
+      "longitude": 23.656106
+    },
+    {
+      "name": "Venti",
+      "latitude": 37.97846,
+      "longitude": 23.722649
+    },
+    {
+      "name": "Vibe",
+      "latitude": 40.270358,
+      "longitude": 22.509169
+    },
+    {
+      "name": "Vidi Vici",
+      "latitude": 39.70439,
+      "longitude": 19.842249
+    },
+    {
+      "name": "Vitrine",
+      "latitude": 38.903023,
+      "longitude": 22.43212
+    },
+    {
+      "name": "VOG Vlub",
+      "latitude": 37.911776,
+      "longitude": 23.710853
+    },
+    {
+      "name": "Vox",
+      "latitude": 37.979575,
+      "longitude": 23.715535
+    },
+    {
+      "name": "W CLUB",
+      "latitude": 40.642796,
+      "longitude": 22.914627
+    },
+    {
+      "name": "Waikiki",
+      "latitude": 37.723191,
+      "longitude": 20.864415
+    },
+    {
+      "name": "Whispers",
+      "latitude": 39.653783,
+      "longitude": 19.842499
+    },
+    {
+      "name": "YTON the music show",
+      "latitude": 37.977535,
+      "longitude": 23.682385
+    },
+    {
+      "name": "Zeros",
+      "latitude": 37.725883,
+      "longitude": 20.864431
+    },
+    {
+      "name": "Zig Zag",
+      "latitude": 35.28825,
+      "longitude": 25.461661
+    },
+    {
+      "name": "Έναστρον",
+      "latitude": 37.970206,
+      "longitude": 23.701717
+    },
+    {
+      "name": "Ίριδα live",
+      "latitude": 38.001615,
+      "longitude": 23.662903
+    },
+    {
+      "name": "Α' Ψυχιατρική Κλινική",
+      "latitude": 38.246978,
+      "longitude": 21.734355
+    },
+    {
+      "name": "Αέροινο",
+      "latitude": 40.782159,
+      "longitude": 21.404515
+    },
+    {
+      "name": "Αγιονέρι",
+      "latitude": 37.939842,
+      "longitude": 23.642109
+    },
+    {
+      "name": "Αθηνάς Παλλάς",
+      "latitude": 39.590716,
+      "longitude": 21.684166
+    },
+    {
+      "name": "Αν Club",
+      "latitude": 37.986412,
+      "longitude": 23.733298
+    },
+    {
+      "name": "Απλά Ελληνικά",
+      "latitude": 41.144026,
+      "longitude": 24.17381
+    },
+    {
+      "name": "Απλά και Ελληνικά",
+      "latitude": 40.501205,
+      "longitude": 22.985909
+    },
+    {
+      "name": "Αστέρας",
+      "latitude": 39.690302,
+      "longitude": 22.381891
+    },
+    {
+      "name": "ΑΣΤΕΡΙΑ live",
+      "latitude": 38.244299,
+      "longitude": 21.727473
+    },
+    {
+      "name": "Αστραία",
+      "latitude": 41.130383,
+      "longitude": 25.192949
+    },
+    {
+      "name": "Βήτα Ψυχιατρική",
+      "latitude": 37.978004,
+      "longitude": 23.711957
+    },
+    {
+      "name": "Βοτανικός",
+      "latitude": 37.982283,
+      "longitude": 23.708781
+    },
+    {
+      "name": "ΓΙΑΦΚΑ",
+      "latitude": 38.241954,
+      "longitude": 21.734588
+    },
+    {
+      "name": "Γοργόνες Και Μάγκες Plus",
+      "latitude": 37.893616,
+      "longitude": 23.881788
+    },
+    {
+      "name": "Γραμμές",
+      "latitude": 37.981947,
+      "longitude": 23.712082
+    },
+    {
+      "name": "Εδεμ",
+      "latitude": 37.145124,
+      "longitude": 24.51128
+    },
+    {
+      "name": "ΕΝ ΠΛΩ",
+      "latitude": 35.417293,
+      "longitude": 26.928483
+    },
+    {
+      "name": "ΚΕΝΤΡΟ ΑΘΗΝΩΝ",
+      "latitude": 37.973918,
+      "longitude": 23.707706
+    },
+    {
+      "name": "Κούκλες",
+      "latitude": 37.962528,
+      "longitude": 23.723508
+    },
+    {
+      "name": "Κτήμα Αλέξανδρος",
+      "latitude": 40.521453,
+      "longitude": 22.224244
+    },
+    {
+      "name": "Κτήμα Βερσαλίες",
+      "latitude": 39.688777,
+      "longitude": 22.381317
+    },
+    {
+      "name": "Κτήμα Ιγγλέση | The Courtyard",
+      "latitude": 38.094041,
+      "longitude": 23.775718
+    },
+    {
+      "name": "Κτήμα Μαρή",
+      "latitude": 38.68783,
+      "longitude": 21.356555
+    },
+    {
+      "name": "Κτήμα μύλος",
+      "latitude": 41.102258,
+      "longitude": 23.619416
+    },
+    {
+      "name": "Κτήμα Νερόμυλος",
+      "latitude": 37.032887,
+      "longitude": 22.429845
+    },
+    {
+      "name": "ΚΤΗΜΑ ΠΑΛΟΥΚΗ",
+      "latitude": 38.90541,
+      "longitude": 21.01598
+    },
+    {
+      "name": "Μεγαρο",
+      "latitude": 40.866168,
+      "longitude": 26.000705
+    },
+    {
+      "name": "Μπούρτζι",
+      "latitude": 39.348396,
+      "longitude": 22.939678
+    },
+    {
+      "name": "Μύλος 1927",
+      "latitude": 39.64279,
+      "longitude": 22.418254
+    },
+    {
+      "name": "Νεράιδα",
+      "latitude": 37.410135,
+      "longitude": 24.951109
+    },
+    {
+      "name": "Νότος",
+      "latitude": 38.244592,
+      "longitude": 21.735237
+    },
+    {
+      "name": "ΟΡΑΜΑ LIVE",
+      "latitude": 40.527188,
+      "longitude": 22.993298
+    },
+    {
+      "name": "Πολιτεία Live Clubbing",
+      "latitude": 40.526964,
+      "longitude": 22.990453
+    },
+    {
+      "name": "Πρώην \"Κοσμοδρόμιο\"",
+      "latitude": 40.511716,
+      "longitude": 22.985722
+    },
+    {
+      "name": "Ρεμπετάδικο ΚΑΒΟΥΡΑΣ",
+      "latitude": 37.98591,
+      "longitude": 23.734228
+    },
+    {
+      "name": "Ρολόι",
+      "latitude": 37.512718,
+      "longitude": 22.374648
+    },
+    {
+      "name": "Σκάλα",
+      "latitude": 37.857181,
+      "longitude": 24.786477
+    },
+    {
+      "name": "Σφίγγα",
+      "latitude": 37.983646,
+      "longitude": 23.733203
+    },
+    {
+      "name": "Τάιγκα",
+      "latitude": 39.663462,
+      "longitude": 20.851239
+    },
+    {
+      "name": "Το τρένο στο ρούφ",
+      "latitude": 37.973986,
+      "longitude": 23.703632
+    },
+    {
+      "name": "ΧΑΡΑΜΑ",
+      "latitude": 38.244403,
+      "longitude": 21.730091
+    },
+    {
+      "name": "Χοροστάσιο",
+      "latitude": 37.979245,
+      "longitude": 23.72977
+    },
+    {
+      "name": "Ώρες ώρες",
+      "latitude": 37.933981,
+      "longitude": 23.730732
+    }
+  ],
+  "meta": {
+    "title": "Νυχτερινά Κέντρα Ελλάδας - Δωρεάν λήψη",
+    "description": "Νυχτερινά κέντρα (κλαμπ) σε όλη την Ελλάδα από το OpenStreetMap. Nightclubs across Greece. Περιέχει 277 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Νυχτερινά Κέντρα Ελλάδας | ListBase",
+    "seo_description": "Λήψη Νυχτερινά Κέντρα Ελλάδας — 277 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 277 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

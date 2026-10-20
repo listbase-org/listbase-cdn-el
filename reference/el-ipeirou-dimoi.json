@@ -1,0 +1,315 @@
+{
+  "id": "el-ipeirou-dimoi",
+  "name": "Δήμοι — Περιφέρεια Ηπείρου",
+  "title": "Δήμοι — Περιφέρεια Ηπείρου",
+  "description": "Οι δήμοι της Περιφέρειας Ηπείρου (Epirus) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 18 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9073",
+      "name": "Αρταιων",
+      "slug": "artaion",
+      "regional_unit_id": "0401",
+      "regional_unit_name": "Αρτας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 5,
+      "communities_count": 31
+    },
+    {
+      "id": "9074",
+      "name": "Γεωργιου Καραϊσκακη",
+      "slug": "georgioy-karaiskaki",
+      "regional_unit_id": "0401",
+      "regional_unit_name": "Αρτας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 3,
+      "communities_count": 16
+    },
+    {
+      "id": "9075",
+      "name": "Κεντρικων Τζουμερκων",
+      "slug": "kentrikon-tzoymerkon",
+      "regional_unit_id": "0401",
+      "regional_unit_name": "Αρτας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 4,
+      "communities_count": 22
+    },
+    {
+      "id": "9076",
+      "name": "Νικολαου Σκουφα",
+      "slug": "nikolaoy-skoyfa",
+      "regional_unit_id": "0401",
+      "regional_unit_name": "Αρτας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 4,
+      "communities_count": 14
+    },
+    {
+      "id": "9077",
+      "name": "Ηγουμενιτσης",
+      "slug": "igoymenitsis",
+      "regional_unit_id": "0402",
+      "regional_unit_name": "Θεσπρωτιας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 5,
+      "communities_count": 26
+    },
+    {
+      "id": "9078",
+      "name": "Σουλιου",
+      "slug": "soylioy",
+      "regional_unit_id": "0402",
+      "regional_unit_name": "Θεσπρωτιας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 3,
+      "communities_count": 32
+    },
+    {
+      "id": "9079",
+      "name": "Φιλιατων",
+      "slug": "filiaton",
+      "regional_unit_id": "0402",
+      "regional_unit_name": "Θεσπρωτιας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 2,
+      "communities_count": 47
+    },
+    {
+      "id": "9080",
+      "name": "Βορειων Τζουμερκων",
+      "slug": "voreion-tzoymerkon",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 7,
+      "communities_count": 24
+    },
+    {
+      "id": "9081",
+      "name": "Δωδωνης",
+      "slug": "dodonis",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 4,
+      "communities_count": 56
+    },
+    {
+      "id": "9082",
+      "name": "Ζαγοριου",
+      "slug": "zagorioy",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 5,
+      "communities_count": 44
+    },
+    {
+      "id": "9083",
+      "name": "Ζιτσας",
+      "slug": "zitsas",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 5,
+      "communities_count": 57
+    },
+    {
+      "id": "9084",
+      "name": "Ιωαννιτων",
+      "slug": "ioanniton",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 6,
+      "communities_count": 39
+    },
+    {
+      "id": "9085",
+      "name": "Κονιτσας",
+      "slug": "konitsas",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 5,
+      "communities_count": 40
+    },
+    {
+      "id": "9086",
+      "name": "Μετσοβου",
+      "slug": "metsovoy",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 3,
+      "communities_count": 11
+    },
+    {
+      "id": "9087",
+      "name": "Πωγωνιου",
+      "slug": "pogonioy",
+      "regional_unit_id": "0403",
+      "regional_unit_name": "Ιωαννινων",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 6,
+      "communities_count": 51
+    },
+    {
+      "id": "9088",
+      "name": "Ζηρου",
+      "slug": "ziroy",
+      "regional_unit_id": "0404",
+      "regional_unit_name": "Πρεβεζας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 4,
+      "communities_count": 22
+    },
+    {
+      "id": "9089",
+      "name": "Παργας",
+      "slug": "pargas",
+      "regional_unit_id": "0404",
+      "regional_unit_name": "Πρεβεζας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 2,
+      "communities_count": 25
+    },
+    {
+      "id": "9090",
+      "name": "Πρεβεζης",
+      "slug": "prevezis",
+      "regional_unit_id": "0404",
+      "regional_unit_name": "Πρεβεζας",
+      "periphery_id": 4,
+      "periphery_name": "Ηπειρου",
+      "periphery_name_native": "Ηπείρου",
+      "periphery_slug": "ipeirou",
+      "municipal_units_count": 3,
+      "communities_count": 25
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Ηπείρου - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Ηπείρου (Epirus) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 18 δήμοι. Περιέχει 18 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Ηπείρου | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Ηπείρου — 18 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 18 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,4386 @@
+{
+  "id": "el-synergeia-aftokiniton",
+  "name": "Συνεργεία αυτοκινήτων στην Ελλάδα",
+  "title": "Συνεργεία αυτοκινήτων στην Ελλάδα",
+  "description": "Συνεργεία επισκευής αυτοκινήτων στην Ελλάδα από δεδομένα OpenStreetMap (shop=car_repair). Όνομα και συντεταγμένες WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 869,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Δημητρης\"",
+      "latitude": 41.259358,
+      "longitude": 23.011107
+    },
+    {
+      "name": "\"Λαζαρίδης\"",
+      "latitude": 41.258715,
+      "longitude": 23.013687
+    },
+    {
+      "name": "10sec GARAGE",
+      "latitude": 37.961874,
+      "longitude": 23.734904
+    },
+    {
+      "name": "A&B FOR CARS",
+      "latitude": 38.028611,
+      "longitude": 23.85395
+    },
+    {
+      "name": "A&J Service Everyday",
+      "latitude": 37.995511,
+      "longitude": 23.722227
+    },
+    {
+      "name": "A&K",
+      "latitude": 38.038686,
+      "longitude": 23.755127
+    },
+    {
+      "name": "Active Service",
+      "latitude": 38.033476,
+      "longitude": 23.773769
+    },
+    {
+      "name": "Advance Auto Parts",
+      "latitude": 39.743428,
+      "longitude": 19.66402
+    },
+    {
+      "name": "Aegean Λιπαντήριο",
+      "latitude": 37.986468,
+      "longitude": 23.721356
+    },
+    {
+      "name": "Aegean Λιπαντήριο",
+      "latitude": 38.007138,
+      "longitude": 23.799271
+    },
+    {
+      "name": "AG Service",
+      "latitude": 38.035301,
+      "longitude": 23.767576
+    },
+    {
+      "name": "Alatzakis",
+      "latitude": 37.926327,
+      "longitude": 22.882081
+    },
+    {
+      "name": "alber service",
+      "latitude": 36.414548,
+      "longitude": 27.382037
+    },
+    {
+      "name": "Alekos Auto Mechanic",
+      "latitude": 39.743288,
+      "longitude": 19.664036
+    },
+    {
+      "name": "Alexis Service",
+      "latitude": 40.604561,
+      "longitude": 22.959187
+    },
+    {
+      "name": "Alfa Romeo",
+      "latitude": 37.961782,
+      "longitude": 23.714139
+    },
+    {
+      "name": "Alimos Service",
+      "latitude": 37.913803,
+      "longitude": 23.742066
+    },
+    {
+      "name": "Alpha Auto (Ford, Mazda)",
+      "latitude": 40.651799,
+      "longitude": 22.913303
+    },
+    {
+      "name": "Antalaktiko",
+      "latitude": 38.042154,
+      "longitude": 23.756548
+    },
+    {
+      "name": "Antoni's team",
+      "latitude": 38.013107,
+      "longitude": 23.738914
+    },
+    {
+      "name": "Antsos Executive Service",
+      "latitude": 40.304645,
+      "longitude": 21.809102
+    },
+    {
+      "name": "Aris Service",
+      "latitude": 40.604895,
+      "longitude": 22.960282
+    },
+    {
+      "name": "Armoutakis Racing",
+      "latitude": 38.008052,
+      "longitude": 23.688319
+    },
+    {
+      "name": "Arvanitis Service",
+      "latitude": 37.94623,
+      "longitude": 23.693546
+    },
+    {
+      "name": "Assimakis",
+      "latitude": 38.014332,
+      "longitude": 23.860131
+    },
+    {
+      "name": "Athanasiadis Performance",
+      "latitude": 40.521759,
+      "longitude": 21.125715
+    },
+    {
+      "name": "Audi",
+      "latitude": 38.033386,
+      "longitude": 23.701831
+    },
+    {
+      "name": "Audi Service Ηλεκτρολογείο",
+      "latitude": 37.908462,
+      "longitude": 23.743886
+    },
+    {
+      "name": "Auto Avantage - Γιασαγιάς Ν. Κωσταντίνος",
+      "latitude": 37.942,
+      "longitude": 23.761982
+    },
+    {
+      "name": "Auto Check-In",
+      "latitude": 40.26888,
+      "longitude": 22.523416
+    },
+    {
+      "name": "Auto Clinic Service",
+      "latitude": 37.991054,
+      "longitude": 23.723888
+    },
+    {
+      "name": "Auto Control",
+      "latitude": 38.023298,
+      "longitude": 23.721827
+    },
+    {
+      "name": "Auto Diagnosis Τζαγκαράκης Λιοδάκη",
+      "latitude": 35.360582,
+      "longitude": 24.546585
+    },
+    {
+      "name": "auto electric service",
+      "latitude": 37.962833,
+      "longitude": 23.734077
+    },
+    {
+      "name": "Auto Electric Service",
+      "latitude": 38.01981,
+      "longitude": 23.736683
+    },
+    {
+      "name": "Auto Energy",
+      "latitude": 38.003097,
+      "longitude": 23.721828
+    },
+    {
+      "name": "Auto fit",
+      "latitude": 37.939067,
+      "longitude": 23.757243
+    },
+    {
+      "name": "Auto Gas Τσοπελογιάννης",
+      "latitude": 37.894476,
+      "longitude": 23.747561
+    },
+    {
+      "name": "Auto Health",
+      "latitude": 38.014328,
+      "longitude": 23.738958
+    },
+    {
+      "name": "Auto Health",
+      "latitude": 38.014978,
+      "longitude": 23.739304
+    },
+    {
+      "name": "Auto Kalogeras",
+      "latitude": 40.529666,
+      "longitude": 23.013859
+    },
+    {
+      "name": "Auto Kalogeras",
+      "latitude": 40.690392,
+      "longitude": 22.916719
+    },
+    {
+      "name": "Auto Keramidas",
+      "latitude": 40.260861,
+      "longitude": 23.269423
+    },
+    {
+      "name": "Auto Maker",
+      "latitude": 38.007226,
+      "longitude": 23.674404
+    },
+    {
+      "name": "Auto Motor House",
+      "latitude": 35.332255,
+      "longitude": 25.377034
+    },
+    {
+      "name": "Auto Paint Solutions",
+      "latitude": 38.017677,
+      "longitude": 23.719288
+    },
+    {
+      "name": "Auto Pneumon",
+      "latitude": 39.635851,
+      "longitude": 20.855184
+    },
+    {
+      "name": "Auto SD",
+      "latitude": 40.663394,
+      "longitude": 22.936454
+    },
+    {
+      "name": "Auto Service",
+      "latitude": 36.358311,
+      "longitude": 25.398741
+    },
+    {
+      "name": "Auto Service",
+      "latitude": 40.217726,
+      "longitude": 23.67581
+    },
+    {
+      "name": "Auto Service",
+      "latitude": 40.600248,
+      "longitude": 22.956097
+    },
+    {
+      "name": "Auto Service Intzes",
+      "latitude": 39.12426,
+      "longitude": 26.5454
+    },
+    {
+      "name": "Auto Service Kostas Dimoulis",
+      "latitude": 37.579481,
+      "longitude": 22.854041
+    },
+    {
+      "name": "Auto Service Stepanidis",
+      "latitude": 40.255191,
+      "longitude": 23.275519
+    },
+    {
+      "name": "Auto Service Ανδρέας",
+      "latitude": 38.033577,
+      "longitude": 23.755092
+    },
+    {
+      "name": "Auto Service Κουκουμάκης",
+      "latitude": 37.960828,
+      "longitude": 23.734289
+    },
+    {
+      "name": "Auto Service Μίχογλου",
+      "latitude": 40.668366,
+      "longitude": 22.912003
+    },
+    {
+      "name": "Auto Service Νίκας",
+      "latitude": 38.073953,
+      "longitude": 23.73902
+    },
+    {
+      "name": "Auto Service Χρήστος",
+      "latitude": 40.573194,
+      "longitude": 22.975026
+    },
+    {
+      "name": "Auto sporting",
+      "latitude": 38.025252,
+      "longitude": 23.748368
+    },
+    {
+      "name": "Auto stavros",
+      "latitude": 38.034407,
+      "longitude": 23.768054
+    },
+    {
+      "name": "Auto Tech Service Center",
+      "latitude": 38.018716,
+      "longitude": 23.997799
+    },
+    {
+      "name": "Auto Technics",
+      "latitude": 37.878042,
+      "longitude": 24.755531
+    },
+    {
+      "name": "Auto Trovas",
+      "latitude": 38.017674,
+      "longitude": 23.799947
+    },
+    {
+      "name": "Auto workshop",
+      "latitude": 37.947316,
+      "longitude": 23.751384
+    },
+    {
+      "name": "Auto Ιορδανίδης",
+      "latitude": 40.582293,
+      "longitude": 22.980418
+    },
+    {
+      "name": "Auto Τεχνική",
+      "latitude": 37.963822,
+      "longitude": 23.734327
+    },
+    {
+      "name": "auto-power",
+      "latitude": 37.959435,
+      "longitude": 23.741426
+    },
+    {
+      "name": "autocontrol",
+      "latitude": 40.685966,
+      "longitude": 22.916243
+    },
+    {
+      "name": "Autofit",
+      "latitude": 40.609608,
+      "longitude": 22.990554
+    },
+    {
+      "name": "autofriends",
+      "latitude": 35.531865,
+      "longitude": 27.19738
+    },
+    {
+      "name": "Autohaus-Stuttgart",
+      "latitude": 37.95237,
+      "longitude": 23.662798
+    },
+    {
+      "name": "AUTOKINISI FIAT HYUNDAI JEEP KIA",
+      "latitude": 38.270963,
+      "longitude": 21.756758
+    },
+    {
+      "name": "Automarin",
+      "latitude": 37.98977,
+      "longitude": 23.744825
+    },
+    {
+      "name": "Automaster",
+      "latitude": 40.659008,
+      "longitude": 22.973455
+    },
+    {
+      "name": "AutoMoto Paint",
+      "latitude": 37.967521,
+      "longitude": 23.702136
+    },
+    {
+      "name": "Autoplus",
+      "latitude": 38.027118,
+      "longitude": 23.732882
+    },
+    {
+      "name": "Autopolis",
+      "latitude": 40.848859,
+      "longitude": 25.880086
+    },
+    {
+      "name": "autoporto.gr",
+      "latitude": 40.696801,
+      "longitude": 22.933813
+    },
+    {
+      "name": "Autoservice Kiouras",
+      "latitude": 37.948594,
+      "longitude": 23.741175
+    },
+    {
+      "name": "AUTOTEC",
+      "latitude": 39.616763,
+      "longitude": 22.429565
+    },
+    {
+      "name": "AUTOδιάγνωση ΚΤΕΟ",
+      "latitude": 40.338547,
+      "longitude": 21.811982
+    },
+    {
+      "name": "avc Chevrolet dealer",
+      "latitude": 40.580545,
+      "longitude": 22.978774
+    },
+    {
+      "name": "AVIS SERVICE",
+      "latitude": 38.0766,
+      "longitude": 23.769882
+    },
+    {
+      "name": "Bear",
+      "latitude": 37.945149,
+      "longitude": 23.687675
+    },
+    {
+      "name": "Bekiaris",
+      "latitude": 38.009754,
+      "longitude": 23.711584
+    },
+    {
+      "name": "BEST CHOICE TYRES",
+      "latitude": 37.963551,
+      "longitude": 23.733725
+    },
+    {
+      "name": "Bibis",
+      "latitude": 38.017584,
+      "longitude": 23.719232
+    },
+    {
+      "name": "BMW",
+      "latitude": 37.932642,
+      "longitude": 23.744836
+    },
+    {
+      "name": "BMW MINI PARTS",
+      "latitude": 40.598145,
+      "longitude": 22.964848
+    },
+    {
+      "name": "BMW Service Καραγιοβάνης",
+      "latitude": 40.523101,
+      "longitude": 22.214157
+    },
+    {
+      "name": "BMW Service Σταύρου",
+      "latitude": 38.231667,
+      "longitude": 22.076002
+    },
+    {
+      "name": "Boneli'service",
+      "latitude": 38.023363,
+      "longitude": 23.73825
+    },
+    {
+      "name": "Bosch Car Service",
+      "latitude": 35.017688,
+      "longitude": 25.747037
+    },
+    {
+      "name": "Bosch car service",
+      "latitude": 38.016181,
+      "longitude": 23.739598
+    },
+    {
+      "name": "Bosch car service Λάκκας",
+      "latitude": 40.305006,
+      "longitude": 21.810745
+    },
+    {
+      "name": "Bosh",
+      "latitude": 38.56747,
+      "longitude": 21.421303
+    },
+    {
+      "name": "Bosh car service",
+      "latitude": 39.656655,
+      "longitude": 22.437412
+    },
+    {
+      "name": "Boukis Group",
+      "latitude": 38.039089,
+      "longitude": 23.734634
+    },
+    {
+      "name": "BRC Gas Service",
+      "latitude": 38.009648,
+      "longitude": 23.711516
+    },
+    {
+      "name": "C.S.Beetle Service",
+      "latitude": 37.919916,
+      "longitude": 23.743768
+    },
+    {
+      "name": "Cabrio Service",
+      "latitude": 40.649744,
+      "longitude": 22.931485
+    },
+    {
+      "name": "Car Anatomy Ziridis",
+      "latitude": 40.707534,
+      "longitude": 22.855655
+    },
+    {
+      "name": "Car Bodyworks",
+      "latitude": 38.005358,
+      "longitude": 23.721883
+    },
+    {
+      "name": "CAR CENTRE",
+      "latitude": 39.616937,
+      "longitude": 22.42942
+    },
+    {
+      "name": "Car Experts",
+      "latitude": 40.659703,
+      "longitude": 22.970522
+    },
+    {
+      "name": "Car haus",
+      "latitude": 40.607242,
+      "longitude": 22.965274
+    },
+    {
+      "name": "Car service",
+      "latitude": 40.242818,
+      "longitude": 23.298372
+    },
+    {
+      "name": "Car service - Νικολάου",
+      "latitude": 38.034242,
+      "longitude": 23.760209
+    },
+    {
+      "name": "Car Service Center",
+      "latitude": 40.572266,
+      "longitude": 22.975811
+    },
+    {
+      "name": "Car Service Eleftheriadis",
+      "latitude": 40.565886,
+      "longitude": 22.977476
+    },
+    {
+      "name": "Car Specialist",
+      "latitude": 38.005155,
+      "longitude": 23.700354
+    },
+    {
+      "name": "CAR TRACK Συνεργείο Αυτοκινήτων ΤΡΑΚΑΤΕΛΗΣ ΙΩΑΝΝΗΣ",
+      "latitude": 40.519916,
+      "longitude": 22.99736
+    },
+    {
+      "name": "CarAntoniou",
+      "latitude": 40.661098,
+      "longitude": 22.932489
+    },
+    {
+      "name": "Caravan Spyropoulos",
+      "latitude": 37.829734,
+      "longitude": 21.283527
+    },
+    {
+      "name": "Carglass",
+      "latitude": 37.95128,
+      "longitude": 23.662705
+    },
+    {
+      "name": "Carglass",
+      "latitude": 37.953119,
+      "longitude": 23.71259
+    },
+    {
+      "name": "Carglass",
+      "latitude": 37.999652,
+      "longitude": 23.688602
+    },
+    {
+      "name": "Carglass",
+      "latitude": 38.00796,
+      "longitude": 23.803862
+    },
+    {
+      "name": "CarGlass",
+      "latitude": 38.029928,
+      "longitude": 23.700932
+    },
+    {
+      "name": "Carglass",
+      "latitude": 38.048431,
+      "longitude": 23.808298
+    },
+    {
+      "name": "Carglass",
+      "latitude": 38.05534,
+      "longitude": 23.752969
+    },
+    {
+      "name": "Carglass",
+      "latitude": 40.645966,
+      "longitude": 22.924256
+    },
+    {
+      "name": "Carglass",
+      "latitude": 41.114068,
+      "longitude": 25.380366
+    },
+    {
+      "name": "Carglass Θέρμη",
+      "latitude": 40.523414,
+      "longitude": 23.011393
+    },
+    {
+      "name": "carPService",
+      "latitude": 40.538238,
+      "longitude": 21.259186
+    },
+    {
+      "name": "Carrozzeria mantis",
+      "latitude": 39.659187,
+      "longitude": 22.437558
+    },
+    {
+      "name": "Chips Away",
+      "latitude": 38.007763,
+      "longitude": 23.801973
+    },
+    {
+      "name": "ChipTronic Tuning",
+      "latitude": 37.962396,
+      "longitude": 23.734986
+    },
+    {
+      "name": "Citroën",
+      "latitude": 37.438257,
+      "longitude": 24.93214
+    },
+    {
+      "name": "Citroën",
+      "latitude": 37.916446,
+      "longitude": 23.743422
+    },
+    {
+      "name": "Citroën",
+      "latitude": 38.025317,
+      "longitude": 23.740396
+    },
+    {
+      "name": "Continental tires",
+      "latitude": 37.965857,
+      "longitude": 23.703934
+    },
+    {
+      "name": "COVER MODE Ταπετσαρίες",
+      "latitude": 40.647548,
+      "longitude": 22.927105
+    },
+    {
+      "name": "Crash Clinic",
+      "latitude": 40.564909,
+      "longitude": 22.978872
+    },
+    {
+      "name": "Crystal+Shine",
+      "latitude": 38.025405,
+      "longitude": 23.72984
+    },
+    {
+      "name": "D.M.A.S.",
+      "latitude": 40.6458,
+      "longitude": 22.923115
+    },
+    {
+      "name": "D.M.A.S.",
+      "latitude": 40.647406,
+      "longitude": 22.926949
+    },
+    {
+      "name": "Dacia",
+      "latitude": 38.01299,
+      "longitude": 23.719964
+    },
+    {
+      "name": "Daihatsu - Jeep",
+      "latitude": 38.459814,
+      "longitude": 23.598323
+    },
+    {
+      "name": "Delectronics",
+      "latitude": 38.010946,
+      "longitude": 23.648036
+    },
+    {
+      "name": "Deligiannis Group",
+      "latitude": 38.007635,
+      "longitude": 23.801594
+    },
+    {
+      "name": "Dent Star",
+      "latitude": 40.606697,
+      "longitude": 22.96969
+    },
+    {
+      "name": "DH Auto Car Service",
+      "latitude": 40.64928,
+      "longitude": 22.926259
+    },
+    {
+      "name": "Diag Tech",
+      "latitude": 40.608485,
+      "longitude": 22.979923
+    },
+    {
+      "name": "Diamantis ELectrical Car Services",
+      "latitude": 39.363293,
+      "longitude": 22.956673
+    },
+    {
+      "name": "Dimas",
+      "latitude": 37.895136,
+      "longitude": 23.912392
+    },
+    {
+      "name": "Dimco Α.Ε",
+      "latitude": 37.884095,
+      "longitude": 23.751379
+    },
+    {
+      "name": "Dr. Smart|Mercedes",
+      "latitude": 37.985998,
+      "longitude": 23.765559
+    },
+    {
+      "name": "Drag Team Mellos",
+      "latitude": 39.660299,
+      "longitude": 22.441653
+    },
+    {
+      "name": "DS - Developmet & Service",
+      "latitude": 38.039013,
+      "longitude": 23.715964
+    },
+    {
+      "name": "DURLARIS RACING",
+      "latitude": 37.959979,
+      "longitude": 23.73598
+    },
+    {
+      "name": "E-Matrix",
+      "latitude": 38.017187,
+      "longitude": 23.811152
+    },
+    {
+      "name": "EasyTuning",
+      "latitude": 38.044938,
+      "longitude": 23.842564
+    },
+    {
+      "name": "EKO Λιπαντήριο",
+      "latitude": 38.025515,
+      "longitude": 23.723374
+    },
+    {
+      "name": "electrodiagnosi",
+      "latitude": 40.676114,
+      "longitude": 22.93621
+    },
+    {
+      "name": "ElefsiService",
+      "latitude": 38.039048,
+      "longitude": 23.550059
+    },
+    {
+      "name": "Eni",
+      "latitude": 35.502336,
+      "longitude": 24.027378
+    },
+    {
+      "name": "Ergon Auto",
+      "latitude": 39.470886,
+      "longitude": 19.911559
+    },
+    {
+      "name": "Ermidis",
+      "latitude": 40.672404,
+      "longitude": 22.933798
+    },
+    {
+      "name": "Eurofren",
+      "latitude": 37.948185,
+      "longitude": 23.738722
+    },
+    {
+      "name": "Evocar",
+      "latitude": 40.557788,
+      "longitude": 22.987536
+    },
+    {
+      "name": "Evoland",
+      "latitude": 37.951644,
+      "longitude": 23.686997
+    },
+    {
+      "name": "Exatmiseis.eu",
+      "latitude": 40.604005,
+      "longitude": 22.971522
+    },
+    {
+      "name": "exhaust-center.gr",
+      "latitude": 38.047145,
+      "longitude": 23.729182
+    },
+    {
+      "name": "Express Repairs",
+      "latitude": 35.505047,
+      "longitude": 24.00298
+    },
+    {
+      "name": "Express Service Ι.Κ.Τ.Ε.Ο.",
+      "latitude": 40.528765,
+      "longitude": 23.00894
+    },
+    {
+      "name": "Fancy Pet",
+      "latitude": 38.257333,
+      "longitude": 21.741156
+    },
+    {
+      "name": "FERDISERVICE.gr",
+      "latitude": 40.600999,
+      "longitude": 22.960504
+    },
+    {
+      "name": "FIAT",
+      "latitude": 37.423658,
+      "longitude": 24.920935
+    },
+    {
+      "name": "Fiat",
+      "latitude": 38.008106,
+      "longitude": 23.722184
+    },
+    {
+      "name": "Fiat alpha romeo",
+      "latitude": 37.967802,
+      "longitude": 23.700625
+    },
+    {
+      "name": "Fiat parts",
+      "latitude": 37.936123,
+      "longitude": 23.639485
+    },
+    {
+      "name": "Find the TAXI",
+      "latitude": 38.003318,
+      "longitude": 23.721785
+    },
+    {
+      "name": "Fit & Go",
+      "latitude": 37.979348,
+      "longitude": 23.658294
+    },
+    {
+      "name": "Fix it Anyway",
+      "latitude": 37.906508,
+      "longitude": 23.739922
+    },
+    {
+      "name": "Ford",
+      "latitude": 37.41827,
+      "longitude": 24.925672
+    },
+    {
+      "name": "FORD BAKAS",
+      "latitude": 37.03415,
+      "longitude": 22.085443
+    },
+    {
+      "name": "FORD Βαλάρης",
+      "latitude": 39.637645,
+      "longitude": 22.430749
+    },
+    {
+      "name": "Ford Στάθης",
+      "latitude": 40.766463,
+      "longitude": 23.08692
+    },
+    {
+      "name": "G&GATGENSMARINE",
+      "latitude": 37.961776,
+      "longitude": 23.734387
+    },
+    {
+      "name": "G.Tousis Auto Service",
+      "latitude": 39.69642,
+      "longitude": 20.81613
+    },
+    {
+      "name": "Galaris Service",
+      "latitude": 38.025648,
+      "longitude": 23.730204
+    },
+    {
+      "name": "GAS Κουρτίδης",
+      "latitude": 40.304693,
+      "longitude": 21.809303
+    },
+    {
+      "name": "Gazetas",
+      "latitude": 37.98979,
+      "longitude": 23.746377
+    },
+    {
+      "name": "General Service",
+      "latitude": 37.960362,
+      "longitude": 23.757382
+    },
+    {
+      "name": "Genistariotis service",
+      "latitude": 37.921095,
+      "longitude": 23.755002
+    },
+    {
+      "name": "Geroulis auto service",
+      "latitude": 38.629216,
+      "longitude": 20.625673
+    },
+    {
+      "name": "GG detailing",
+      "latitude": 37.939267,
+      "longitude": 23.764618
+    },
+    {
+      "name": "Gialatzis Εξατμίσεις",
+      "latitude": 40.66289,
+      "longitude": 22.931379
+    },
+    {
+      "name": "Ginis service",
+      "latitude": 38.022889,
+      "longitude": 23.798863
+    },
+    {
+      "name": "Glass Fit",
+      "latitude": 40.269269,
+      "longitude": 22.52324
+    },
+    {
+      "name": "Glass Fit",
+      "latitude": 40.663262,
+      "longitude": 22.936425
+    },
+    {
+      "name": "Glass Service",
+      "latitude": 38.390049,
+      "longitude": 21.820867
+    },
+    {
+      "name": "Glassdrive",
+      "latitude": 38.009067,
+      "longitude": 23.844851
+    },
+    {
+      "name": "GlassDrive",
+      "latitude": 38.039589,
+      "longitude": 23.762519
+    },
+    {
+      "name": "Glassdrive",
+      "latitude": 40.650826,
+      "longitude": 22.935535
+    },
+    {
+      "name": "Glassdrive",
+      "latitude": 40.656223,
+      "longitude": 22.962343
+    },
+    {
+      "name": "GlassDrive",
+      "latitude": 41.114057,
+      "longitude": 25.380165
+    },
+    {
+      "name": "GLASSDRIVE",
+      "latitude": 41.114306,
+      "longitude": 25.380768
+    },
+    {
+      "name": "Golden 1",
+      "latitude": 37.866114,
+      "longitude": 23.755899
+    },
+    {
+      "name": "Goutzamanis",
+      "latitude": 38.016716,
+      "longitude": 23.717805
+    },
+    {
+      "name": "Gozadinos Evolution",
+      "latitude": 38.514659,
+      "longitude": 24.10928
+    },
+    {
+      "name": "Gruppocar",
+      "latitude": 37.962306,
+      "longitude": 23.715841
+    },
+    {
+      "name": "GTR",
+      "latitude": 37.949613,
+      "longitude": 23.646539
+    },
+    {
+      "name": "Hellas Service Κοζάνης",
+      "latitude": 40.297102,
+      "longitude": 21.823196
+    },
+    {
+      "name": "Honda",
+      "latitude": 37.907629,
+      "longitude": 23.744863
+    },
+    {
+      "name": "Honda",
+      "latitude": 39.614514,
+      "longitude": 19.902216
+    },
+    {
+      "name": "Honda / Mitsubishi",
+      "latitude": 41.107211,
+      "longitude": 25.416934
+    },
+    {
+      "name": "Hybrid Care",
+      "latitude": 40.702365,
+      "longitude": 22.874053
+    },
+    {
+      "name": "Hyundai",
+      "latitude": 35.320833,
+      "longitude": 25.127322
+    },
+    {
+      "name": "HYUNDAI",
+      "latitude": 38.971942,
+      "longitude": 20.722799
+    },
+    {
+      "name": "Hyundai",
+      "latitude": 39.607128,
+      "longitude": 22.43964
+    },
+    {
+      "name": "Hyundai, Volvo, Opel, Chevrolet",
+      "latitude": 41.09954,
+      "longitude": 23.481939
+    },
+    {
+      "name": "I. NEZERGIOTIS & D. POGKAS",
+      "latitude": 38.02236,
+      "longitude": 23.742497
+    },
+    {
+      "name": "Imasaf",
+      "latitude": 38.035237,
+      "longitude": 23.754006
+    },
+    {
+      "name": "In The Sound",
+      "latitude": 37.980348,
+      "longitude": 23.633783
+    },
+    {
+      "name": "Inter Auto",
+      "latitude": 38.005075,
+      "longitude": 23.847333
+    },
+    {
+      "name": "Inter Sound",
+      "latitude": 37.431321,
+      "longitude": 24.935361
+    },
+    {
+      "name": "Intzes",
+      "latitude": 40.670737,
+      "longitude": 22.903441
+    },
+    {
+      "name": "ISAAK Service",
+      "latitude": 40.687088,
+      "longitude": 22.86497
+    },
+    {
+      "name": "Ispikoudis",
+      "latitude": 41.003141,
+      "longitude": 22.569734
+    },
+    {
+      "name": "Isuzu",
+      "latitude": 35.050141,
+      "longitude": 24.869605
+    },
+    {
+      "name": "ISUZU",
+      "latitude": 40.556976,
+      "longitude": 22.987085
+    },
+    {
+      "name": "Jeep",
+      "latitude": 37.96394,
+      "longitude": 23.677065
+    },
+    {
+      "name": "Jeepers",
+      "latitude": 40.583802,
+      "longitude": 22.981388
+    },
+    {
+      "name": "jj power",
+      "latitude": 38.000132,
+      "longitude": 23.706839
+    },
+    {
+      "name": "Jonhic",
+      "latitude": 37.948712,
+      "longitude": 23.745078
+    },
+    {
+      "name": "K Service",
+      "latitude": 38.05795,
+      "longitude": 23.755553
+    },
+    {
+      "name": "Kalividis",
+      "latitude": 40.663205,
+      "longitude": 22.932309
+    },
+    {
+      "name": "Kalogritsas",
+      "latitude": 37.995347,
+      "longitude": 23.848247
+    },
+    {
+      "name": "Kalogritsas Gas",
+      "latitude": 37.995459,
+      "longitude": 23.847302
+    },
+    {
+      "name": "Kampisioulis",
+      "latitude": 38.038978,
+      "longitude": 23.757429
+    },
+    {
+      "name": "KANAKARI SERVICE",
+      "latitude": 40.603059,
+      "longitude": 22.958014
+    },
+    {
+      "name": "KAPPAS Service",
+      "latitude": 36.879712,
+      "longitude": 27.238781
+    },
+    {
+      "name": "Kapsiohas VW Audi Car repair shop",
+      "latitude": 39.157392,
+      "longitude": 20.955011
+    },
+    {
+      "name": "KARADIMITRAS workshop",
+      "latitude": 40.612133,
+      "longitude": 22.960296
+    },
+    {
+      "name": "Karakyriakos Bros.",
+      "latitude": 37.867966,
+      "longitude": 23.760496
+    },
+    {
+      "name": "Karavias autotech",
+      "latitude": 37.97573,
+      "longitude": 23.665734
+    },
+    {
+      "name": "Katsanas",
+      "latitude": 38.526883,
+      "longitude": 23.636876
+    },
+    {
+      "name": "Katsianakos",
+      "latitude": 36.389461,
+      "longitude": 28.199836
+    },
+    {
+      "name": "katsikogiorgos ioannis",
+      "latitude": 39.161531,
+      "longitude": 21.019748
+    },
+    {
+      "name": "Kavouras Brothers",
+      "latitude": 37.945879,
+      "longitude": 23.649305
+    },
+    {
+      "name": "KIA Motors",
+      "latitude": 37.964766,
+      "longitude": 23.659206
+    },
+    {
+      "name": "KM Tuning",
+      "latitude": 38.028168,
+      "longitude": 23.742705
+    },
+    {
+      "name": "Kosmas Auto Glass",
+      "latitude": 37.957064,
+      "longitude": 23.649829
+    },
+    {
+      "name": "Kostarellos",
+      "latitude": 38.028431,
+      "longitude": 23.7439
+    },
+    {
+      "name": "KOUROS SERVICE",
+      "latitude": 38.88498,
+      "longitude": 22.450729
+    },
+    {
+      "name": "krimizis",
+      "latitude": 38.013641,
+      "longitude": 23.679243
+    },
+    {
+      "name": "Lancia",
+      "latitude": 37.967478,
+      "longitude": 23.701889
+    },
+    {
+      "name": "Land Rover",
+      "latitude": 37.984194,
+      "longitude": 23.713856
+    },
+    {
+      "name": "Legend Auto Service",
+      "latitude": 37.944787,
+      "longitude": 23.661953
+    },
+    {
+      "name": "LEGOURAS, JOHN, - GEORGE DIMITROPOULOS O.E.",
+      "latitude": 38.234495,
+      "longitude": 21.726264
+    },
+    {
+      "name": "Lemonis Customize",
+      "latitude": 37.931013,
+      "longitude": 23.701423
+    },
+    {
+      "name": "Liolios Racing",
+      "latitude": 38.008187,
+      "longitude": 23.721817
+    },
+    {
+      "name": "Lube bay",
+      "latitude": 38.025907,
+      "longitude": 23.732742
+    },
+    {
+      "name": "M&K",
+      "latitude": 37.961624,
+      "longitude": 23.690839
+    },
+    {
+      "name": "M.E.C Service",
+      "latitude": 40.553832,
+      "longitude": 23.032682
+    },
+    {
+      "name": "Magna Power",
+      "latitude": 38.039701,
+      "longitude": 23.75967
+    },
+    {
+      "name": "Makis Electric Car Center",
+      "latitude": 37.90674,
+      "longitude": 23.739864
+    },
+    {
+      "name": "Makridis",
+      "latitude": 40.655003,
+      "longitude": 22.959394
+    },
+    {
+      "name": "malakoudis service",
+      "latitude": 40.24348,
+      "longitude": 23.295116
+    },
+    {
+      "name": "MAROUDAS-TUROSVOUTIS FORD CAR SERVICE",
+      "latitude": 38.23455,
+      "longitude": 21.727029
+    },
+    {
+      "name": "Maxmout Exhausts",
+      "latitude": 38.008642,
+      "longitude": 23.721675
+    },
+    {
+      "name": "Maxpir Service",
+      "latitude": 40.577247,
+      "longitude": 22.983449
+    },
+    {
+      "name": "Mazda",
+      "latitude": 37.438263,
+      "longitude": 24.932007
+    },
+    {
+      "name": "Mazda",
+      "latitude": 38.013898,
+      "longitude": 23.748448
+    },
+    {
+      "name": "Medicar",
+      "latitude": 40.584898,
+      "longitude": 22.989804
+    },
+    {
+      "name": "MerBa",
+      "latitude": 38.021009,
+      "longitude": 23.789613
+    },
+    {
+      "name": "Mercedes",
+      "latitude": 40.700643,
+      "longitude": 22.908986
+    },
+    {
+      "name": "Mercedes Benz",
+      "latitude": 39.631499,
+      "longitude": 20.858307
+    },
+    {
+      "name": "Mercedes Benz Β.Κ. Ιωαννιδης ΑΕΒΕ",
+      "latitude": 41.108276,
+      "longitude": 24.867632
+    },
+    {
+      "name": "Mercedes Smart",
+      "latitude": 37.966784,
+      "longitude": 23.702033
+    },
+    {
+      "name": "Mercedes Αντωνιάδης",
+      "latitude": 40.683487,
+      "longitude": 22.925494
+    },
+    {
+      "name": "Mercedes Μ. Αγγελίδης & Υιοί",
+      "latitude": 38.017896,
+      "longitude": 23.71774
+    },
+    {
+      "name": "Mercedes-Benz",
+      "latitude": 39.645697,
+      "longitude": 19.848397
+    },
+    {
+      "name": "Mercedes-Benz Smart",
+      "latitude": 37.958906,
+      "longitude": 23.694587
+    },
+    {
+      "name": "Mercedes-Benz Καποτας-Χατζηκωνσταντινου",
+      "latitude": 37.924024,
+      "longitude": 22.954982
+    },
+    {
+      "name": "Mercury",
+      "latitude": 38.374898,
+      "longitude": 22.385014
+    },
+    {
+      "name": "Messinis",
+      "latitude": 37.942581,
+      "longitude": 23.685539
+    },
+    {
+      "name": "Microsplitting",
+      "latitude": 37.961816,
+      "longitude": 23.734617
+    },
+    {
+      "name": "Mila Cars",
+      "latitude": 38.198774,
+      "longitude": 21.733469
+    },
+    {
+      "name": "Mitsubishi",
+      "latitude": 38.040251,
+      "longitude": 23.715808
+    },
+    {
+      "name": "Moto Togelos Honda",
+      "latitude": 38.011819,
+      "longitude": 23.720555
+    },
+    {
+      "name": "Motorsport Service",
+      "latitude": 38.005493,
+      "longitude": 23.722049
+    },
+    {
+      "name": "Motortech service",
+      "latitude": 38.030837,
+      "longitude": 23.745439
+    },
+    {
+      "name": "Motul Motor Speed",
+      "latitude": 40.597766,
+      "longitude": 22.984287
+    },
+    {
+      "name": "Moutroupidis",
+      "latitude": 40.670869,
+      "longitude": 22.933628
+    },
+    {
+      "name": "Mr France",
+      "latitude": 37.943378,
+      "longitude": 23.657525
+    },
+    {
+      "name": "Mr France",
+      "latitude": 37.94544,
+      "longitude": 23.702739
+    },
+    {
+      "name": "Mr France",
+      "latitude": 37.988698,
+      "longitude": 23.693536
+    },
+    {
+      "name": "Mr. KTEO",
+      "latitude": 40.565332,
+      "longitude": 22.978645
+    },
+    {
+      "name": "MXD Service",
+      "latitude": 40.672334,
+      "longitude": 22.90531
+    },
+    {
+      "name": "Mylonas",
+      "latitude": 37.885039,
+      "longitude": 23.752168
+    },
+    {
+      "name": "mytyres",
+      "latitude": 40.655654,
+      "longitude": 22.928233
+    },
+    {
+      "name": "N.S. Racing",
+      "latitude": 37.954619,
+      "longitude": 23.686203
+    },
+    {
+      "name": "Neokosmidis Emmanouil",
+      "latitude": 38.05861,
+      "longitude": 23.713871
+    },
+    {
+      "name": "Neostar",
+      "latitude": 38.029806,
+      "longitude": 23.74334
+    },
+    {
+      "name": "NIAKOS",
+      "latitude": 40.511812,
+      "longitude": 23.814071
+    },
+    {
+      "name": "Nikolopoulos Anastasios Alfa Fiat",
+      "latitude": 37.675102,
+      "longitude": 22.713866
+    },
+    {
+      "name": "Nissan",
+      "latitude": 38.002845,
+      "longitude": 23.722196
+    },
+    {
+      "name": "Nissan Renault Suzuki",
+      "latitude": 38.030356,
+      "longitude": 23.792198
+    },
+    {
+      "name": "Nissan Παπαμανώλης",
+      "latitude": 37.425833,
+      "longitude": 24.942522
+    },
+    {
+      "name": "NISSAN Σακκούλης",
+      "latitude": 38.39726,
+      "longitude": 21.798442
+    },
+    {
+      "name": "Nizamis Motorsport",
+      "latitude": 40.665294,
+      "longitude": 22.907059
+    },
+    {
+      "name": "Notos",
+      "latitude": 35.048202,
+      "longitude": 24.866417
+    },
+    {
+      "name": "NTAMPOS",
+      "latitude": 40.642399,
+      "longitude": 22.916444
+    },
+    {
+      "name": "Omicron Motors",
+      "latitude": 40.574258,
+      "longitude": 22.989202
+    },
+    {
+      "name": "OPEL",
+      "latitude": 38.013184,
+      "longitude": 23.721822
+    },
+    {
+      "name": "Opel",
+      "latitude": 38.014535,
+      "longitude": 23.719512
+    },
+    {
+      "name": "Opel",
+      "latitude": 38.040905,
+      "longitude": 23.819838
+    },
+    {
+      "name": "Opel service",
+      "latitude": 37.96137,
+      "longitude": 23.739562
+    },
+    {
+      "name": "Opel Service",
+      "latitude": 38.014339,
+      "longitude": 23.69416
+    },
+    {
+      "name": "OPEL SINIS",
+      "latitude": 40.555156,
+      "longitude": 22.988092
+    },
+    {
+      "name": "OPEL Θεόφιλος",
+      "latitude": 37.420356,
+      "longitude": 24.917958
+    },
+    {
+      "name": "Paint Bull",
+      "latitude": 37.966427,
+      "longitude": 23.702989
+    },
+    {
+      "name": "Paint Bull",
+      "latitude": 37.979235,
+      "longitude": 23.658539
+    },
+    {
+      "name": "Pantelis Exclusive Car Service",
+      "latitude": 38.041504,
+      "longitude": 23.762466
+    },
+    {
+      "name": "Papadimitriou Ford Specialists",
+      "latitude": 38.012794,
+      "longitude": 23.72064
+    },
+    {
+      "name": "Papaloukas Auto",
+      "latitude": 38.010311,
+      "longitude": 23.842647
+    },
+    {
+      "name": "Papastavrou",
+      "latitude": 38.019425,
+      "longitude": 23.73628
+    },
+    {
+      "name": "Pazaropoulos Ford New Motion",
+      "latitude": 38.034909,
+      "longitude": 23.771331
+    },
+    {
+      "name": "PB",
+      "latitude": 40.651768,
+      "longitude": 22.931441
+    },
+    {
+      "name": "PETRIDIS SERVICE-ΠΕΤΡΙΔΗΣ ΑΘΑΝΑΣΙΟΣ",
+      "latitude": 40.553866,
+      "longitude": 23.031194
+    },
+    {
+      "name": "petromelidis",
+      "latitude": 37.930039,
+      "longitude": 23.745203
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 38.055276,
+      "longitude": 23.753477
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 38.059179,
+      "longitude": 23.78861
+    },
+    {
+      "name": "Peugeot",
+      "latitude": 39.533385,
+      "longitude": 20.268727
+    },
+    {
+      "name": "Pistolas",
+      "latitude": 40.302248,
+      "longitude": 21.797456
+    },
+    {
+      "name": "PIT STOP",
+      "latitude": 40.509392,
+      "longitude": 21.253265
+    },
+    {
+      "name": "PLEXIDAS",
+      "latitude": 37.970723,
+      "longitude": 23.772075
+    },
+    {
+      "name": "Power Service",
+      "latitude": 40.701876,
+      "longitude": 22.919421
+    },
+    {
+      "name": "Praxitelis",
+      "latitude": 37.67642,
+      "longitude": 21.434248
+    },
+    {
+      "name": "ProjectFactory motorsport",
+      "latitude": 38.034248,
+      "longitude": 23.741524
+    },
+    {
+      "name": "Q Service",
+      "latitude": 38.003598,
+      "longitude": 23.722229
+    },
+    {
+      "name": "QGas",
+      "latitude": 37.933658,
+      "longitude": 23.701228
+    },
+    {
+      "name": "QS Service",
+      "latitude": 37.935831,
+      "longitude": 23.743686
+    },
+    {
+      "name": "Quattro Service",
+      "latitude": 38.022103,
+      "longitude": 23.794148
+    },
+    {
+      "name": "R & D",
+      "latitude": 38.055076,
+      "longitude": 23.730766
+    },
+    {
+      "name": "R-M Βαφές αυτοκινήτων",
+      "latitude": 40.659867,
+      "longitude": 22.912691
+    },
+    {
+      "name": "R.R. Diesel Service",
+      "latitude": 40.652701,
+      "longitude": 22.911725
+    },
+    {
+      "name": "Racing Γέρακας",
+      "latitude": 38.012749,
+      "longitude": 23.859973
+    },
+    {
+      "name": "RadiatorE",
+      "latitude": 37.07211,
+      "longitude": 22.432281
+    },
+    {
+      "name": "Renault",
+      "latitude": 37.978818,
+      "longitude": 23.713063
+    },
+    {
+      "name": "Renault club Service",
+      "latitude": 38.033401,
+      "longitude": 23.769846
+    },
+    {
+      "name": "Revoil Λιπαντήριο",
+      "latitude": 38.017335,
+      "longitude": 23.80108
+    },
+    {
+      "name": "Revoil Λιπαντήριο",
+      "latitude": 38.023475,
+      "longitude": 23.722042
+    },
+    {
+      "name": "RVS",
+      "latitude": 37.992517,
+      "longitude": 23.77423
+    },
+    {
+      "name": "S&M Bros",
+      "latitude": 40.652758,
+      "longitude": 22.911537
+    },
+    {
+      "name": "Sakis Speed Care",
+      "latitude": 37.995016,
+      "longitude": 23.722361
+    },
+    {
+      "name": "Sarmis",
+      "latitude": 40.577139,
+      "longitude": 22.982885
+    },
+    {
+      "name": "Savvas",
+      "latitude": 40.614382,
+      "longitude": 22.97993
+    },
+    {
+      "name": "Schizas Motors",
+      "latitude": 38.012284,
+      "longitude": 23.81472
+    },
+    {
+      "name": "SEAT",
+      "latitude": 37.419578,
+      "longitude": 24.940429
+    },
+    {
+      "name": "Service BMW Θαλής",
+      "latitude": 40.582547,
+      "longitude": 22.981311
+    },
+    {
+      "name": "Service Box",
+      "latitude": 38.050303,
+      "longitude": 23.729843
+    },
+    {
+      "name": "Service Liossion",
+      "latitude": 38.009933,
+      "longitude": 23.721343
+    },
+    {
+      "name": "Service Suzuki",
+      "latitude": 40.605657,
+      "longitude": 22.966426
+    },
+    {
+      "name": "Service SUZUKI Michail",
+      "latitude": 37.999597,
+      "longitude": 23.644472
+    },
+    {
+      "name": "Service Ευθυγραμμίσεις",
+      "latitude": 38.040028,
+      "longitude": 23.752842
+    },
+    {
+      "name": "Service Μαρκόπουλος",
+      "latitude": 40.305059,
+      "longitude": 21.810568
+    },
+    {
+      "name": "Serviceland",
+      "latitude": 37.492005,
+      "longitude": 22.38157
+    },
+    {
+      "name": "SFB Φανοποιία Μικροεπισκευές Βαφές",
+      "latitude": 38.035152,
+      "longitude": 23.766749
+    },
+    {
+      "name": "Sittas",
+      "latitude": 38.009142,
+      "longitude": 23.85383
+    },
+    {
+      "name": "Skoda Αστραχαν",
+      "latitude": 37.404916,
+      "longitude": 24.886282
+    },
+    {
+      "name": "Skrivanos",
+      "latitude": 37.939548,
+      "longitude": 23.642942
+    },
+    {
+      "name": "Smart choice",
+      "latitude": 38.027076,
+      "longitude": 23.750425
+    },
+    {
+      "name": "Smart Paint",
+      "latitude": 40.655002,
+      "longitude": 22.96082
+    },
+    {
+      "name": "Smart Service",
+      "latitude": 38.023655,
+      "longitude": 23.746821
+    },
+    {
+      "name": "Sotiriou Synergeio",
+      "latitude": 38.020465,
+      "longitude": 23.752513
+    },
+    {
+      "name": "Soustas Service",
+      "latitude": 40.488807,
+      "longitude": 23.614667
+    },
+    {
+      "name": "SP Cars",
+      "latitude": 38.018087,
+      "longitude": 23.717829
+    },
+    {
+      "name": "SPC",
+      "latitude": 38.039778,
+      "longitude": 23.759315
+    },
+    {
+      "name": "Specialist Team",
+      "latitude": 37.952006,
+      "longitude": 23.662712
+    },
+    {
+      "name": "Speed Car",
+      "latitude": 41.001464,
+      "longitude": 22.569554
+    },
+    {
+      "name": "Speedy",
+      "latitude": 38.020159,
+      "longitude": 23.754724
+    },
+    {
+      "name": "Sport Auto Center",
+      "latitude": 37.949393,
+      "longitude": 23.705233
+    },
+    {
+      "name": "Sport Cars",
+      "latitude": 38.007244,
+      "longitude": 23.722845
+    },
+    {
+      "name": "Spotawheel - Spotmechanic",
+      "latitude": 38.033705,
+      "longitude": 23.77012
+    },
+    {
+      "name": "Star Service Mercedez-Benz",
+      "latitude": 38.018604,
+      "longitude": 23.718639
+    },
+    {
+      "name": "Stavrakopoulos",
+      "latitude": 38.015034,
+      "longitude": 23.817069
+    },
+    {
+      "name": "Stergiou Auto Service",
+      "latitude": 37.948619,
+      "longitude": 23.649461
+    },
+    {
+      "name": "SUBARU SERVICE",
+      "latitude": 40.588331,
+      "longitude": 22.944106
+    },
+    {
+      "name": "Suzuki",
+      "latitude": 38.036229,
+      "longitude": 23.768739
+    },
+    {
+      "name": "SVK",
+      "latitude": 37.96344,
+      "longitude": 23.73377
+    },
+    {
+      "name": "Synchro Center",
+      "latitude": 38.01469,
+      "longitude": 23.816958
+    },
+    {
+      "name": "SYNERGEIO - ILEKTROLOGIO ILIAS ZIAS",
+      "latitude": 40.478655,
+      "longitude": 21.207255
+    },
+    {
+      "name": "Takis",
+      "latitude": 36.806752,
+      "longitude": 21.912922
+    },
+    {
+      "name": "Tampas",
+      "latitude": 38.053157,
+      "longitude": 23.727143
+    },
+    {
+      "name": "Tasos Tyres",
+      "latitude": 37.961906,
+      "longitude": 23.711669
+    },
+    {
+      "name": "Tassiopoulos P.",
+      "latitude": 38.075784,
+      "longitude": 23.707328
+    },
+    {
+      "name": "Terra's Sport",
+      "latitude": 38.052554,
+      "longitude": 23.783875
+    },
+    {
+      "name": "Tesla Service Athens",
+      "latitude": 37.970463,
+      "longitude": 23.674091
+    },
+    {
+      "name": "Tesla Service Thessaloniki",
+      "latitude": 40.648543,
+      "longitude": 22.868652
+    },
+    {
+      "name": "Tetras Group",
+      "latitude": 38.0099,
+      "longitude": 23.711673
+    },
+    {
+      "name": "The Best For Your Car",
+      "latitude": 38.007667,
+      "longitude": 23.715937
+    },
+    {
+      "name": "The Car Project",
+      "latitude": 37.945381,
+      "longitude": 23.688766
+    },
+    {
+      "name": "ThessAutoService.gr",
+      "latitude": 40.661403,
+      "longitude": 22.931018
+    },
+    {
+      "name": "Toyo tires",
+      "latitude": 40.283175,
+      "longitude": 23.395459
+    },
+    {
+      "name": "Toyota",
+      "latitude": 38.994869,
+      "longitude": 20.728888
+    },
+    {
+      "name": "Toyota Service Γ. ΠΑΝΤΑΖΟΠΟΥΛΟΣ",
+      "latitude": 37.688828,
+      "longitude": 21.410409
+    },
+    {
+      "name": "Toyota ΑΦΟΙ ΚΑΡΑΧΑΛΙΟΥ ΟΕ",
+      "latitude": 38.382816,
+      "longitude": 21.803542
+    },
+    {
+      "name": "Toyota Β. ΜΠΑΣΤΑΣ & ΣΙΑ ΟΕ",
+      "latitude": 37.783144,
+      "longitude": 20.85656
+    },
+    {
+      "name": "Toyota ΓΕΡΑΣΙΜΟΣ ΑΓΓΕΛΑΤΟΣ",
+      "latitude": 38.161546,
+      "longitude": 20.499168
+    },
+    {
+      "name": "Trofeo Service",
+      "latitude": 37.996925,
+      "longitude": 23.740728
+    },
+    {
+      "name": "Tsakalas",
+      "latitude": 38.009779,
+      "longitude": 23.807747
+    },
+    {
+      "name": "tsatsaronis",
+      "latitude": 37.936416,
+      "longitude": 23.743245
+    },
+    {
+      "name": "Tsokos Racing",
+      "latitude": 38.035285,
+      "longitude": 23.767757
+    },
+    {
+      "name": "VAFEIO.COM",
+      "latitude": 39.624034,
+      "longitude": 19.89301
+    },
+    {
+      "name": "VAG SERVICE",
+      "latitude": 37.960229,
+      "longitude": 23.736547
+    },
+    {
+      "name": "Veresses",
+      "latitude": 36.795057,
+      "longitude": 21.954571
+    },
+    {
+      "name": "Vinieratos Service",
+      "latitude": 38.02708,
+      "longitude": 23.749061
+    },
+    {
+      "name": "VIVILAKIS",
+      "latitude": 38.023605,
+      "longitude": 23.744235
+    },
+    {
+      "name": "VOCALIS",
+      "latitude": 38.440266,
+      "longitude": 22.887808
+    },
+    {
+      "name": "Volvo Κοτσαντης",
+      "latitude": 38.068857,
+      "longitude": 23.618035
+    },
+    {
+      "name": "Vrionis",
+      "latitude": 38.038922,
+      "longitude": 23.757348
+    },
+    {
+      "name": "VW",
+      "latitude": 40.260187,
+      "longitude": 23.274335
+    },
+    {
+      "name": "Wheels Master",
+      "latitude": 40.573659,
+      "longitude": 22.954876
+    },
+    {
+      "name": "WheelYouFixMe",
+      "latitude": 38.041308,
+      "longitude": 23.749192
+    },
+    {
+      "name": "WRC Car Design & Tuning",
+      "latitude": 37.931129,
+      "longitude": 23.701942
+    },
+    {
+      "name": "X. Top. Power.",
+      "latitude": 37.963675,
+      "longitude": 23.733698
+    },
+    {
+      "name": "Xanthis Assistance",
+      "latitude": 39.779259,
+      "longitude": 21.176751
+    },
+    {
+      "name": "Xanthos Auto",
+      "latitude": 38.025358,
+      "longitude": 23.729761
+    },
+    {
+      "name": "Zezas",
+      "latitude": 37.995611,
+      "longitude": 23.74857
+    },
+    {
+      "name": "Zoubourlis",
+      "latitude": 38.007826,
+      "longitude": 23.688305
+    },
+    {
+      "name": "ZR Service Ζορμπάς-Ράπτης",
+      "latitude": 40.305065,
+      "longitude": 21.810387
+    },
+    {
+      "name": "Άριστος",
+      "latitude": 40.973321,
+      "longitude": 24.34936
+    },
+    {
+      "name": "Α. Λεμονής",
+      "latitude": 39.942346,
+      "longitude": 23.667995
+    },
+    {
+      "name": "Α. ΝΤΑΡΛΑΣ",
+      "latitude": 38.02364,
+      "longitude": 23.744498
+    },
+    {
+      "name": "Α. ΤΣΕΓΓΕΛΕΤΟΣ ΜΕΠΕ",
+      "latitude": 41.12435,
+      "longitude": 24.907883
+    },
+    {
+      "name": "Αγγούσογλου",
+      "latitude": 41.273151,
+      "longitude": 24.972653
+    },
+    {
+      "name": "Αγνάντης",
+      "latitude": 38.008492,
+      "longitude": 23.721711
+    },
+    {
+      "name": "Αθανάσιος Κορδολαίμης",
+      "latitude": 38.022496,
+      "longitude": 23.742591
+    },
+    {
+      "name": "Αλεξιάδης",
+      "latitude": 40.976166,
+      "longitude": 24.34511
+    },
+    {
+      "name": "Αναστάσιος Γ. Καλλιανιώτης",
+      "latitude": 37.943735,
+      "longitude": 23.759326
+    },
+    {
+      "name": "Ανδρέου Service",
+      "latitude": 40.721747,
+      "longitude": 22.127977
+    },
+    {
+      "name": "Ανδρικοπουλος",
+      "latitude": 38.869915,
+      "longitude": 22.363201
+    },
+    {
+      "name": "Αντώνης Αλαφούζος",
+      "latitude": 37.958768,
+      "longitude": 23.617382
+    },
+    {
+      "name": "ΑΠΟΣΤΟΛΕΛΛΗΣ ΑΝΤ",
+      "latitude": 39.105688,
+      "longitude": 26.547079
+    },
+    {
+      "name": "Αποστολόπουλος",
+      "latitude": 37.933671,
+      "longitude": 23.631547
+    },
+    {
+      "name": "Αποστόλου",
+      "latitude": 37.99825,
+      "longitude": 23.847845
+    },
+    {
+      "name": "Αράπης",
+      "latitude": 39.111385,
+      "longitude": 26.556429
+    },
+    {
+      "name": "ΑΡΑΜΠΑΤΖΗΣ ΙΩΑΝΝΗΣ",
+      "latitude": 41.261117,
+      "longitude": 23.002014
+    },
+    {
+      "name": "Ασπιώτης",
+      "latitude": 38.024248,
+      "longitude": 23.730733
+    },
+    {
+      "name": "Αυτοκίνηση",
+      "latitude": 37.966828,
+      "longitude": 23.703128
+    },
+    {
+      "name": "Αφοί Βαβουράκη",
+      "latitude": 35.366668,
+      "longitude": 24.505025
+    },
+    {
+      "name": "Αφοί Δημακόπουλοι ΟΕ",
+      "latitude": 37.907895,
+      "longitude": 23.738608
+    },
+    {
+      "name": "Αφοί Διδάχου - Auto",
+      "latitude": 38.234095,
+      "longitude": 21.72952
+    },
+    {
+      "name": "αφοί Καμαδέλη",
+      "latitude": 37.966262,
+      "longitude": 23.700875
+    },
+    {
+      "name": "Αφοί Κορφιάτη ΑΒΕΕ",
+      "latitude": 38.002351,
+      "longitude": 23.707624
+    },
+    {
+      "name": "Αφοί Σπυρόπουλοι",
+      "latitude": 37.855396,
+      "longitude": 21.457984
+    },
+    {
+      "name": "Αφοι Ακριβού",
+      "latitude": 37.989966,
+      "longitude": 23.740959
+    },
+    {
+      "name": "ΑΦΟΙ ΑΝΔΡΙΤΣΑΚΗ&ΣΙΑ ΟΕ",
+      "latitude": 37.048247,
+      "longitude": 22.438055
+    },
+    {
+      "name": "Αφοι Αραμπατζή",
+      "latitude": 41.264943,
+      "longitude": 23.245172
+    },
+    {
+      "name": "Αφοι Βλάχου",
+      "latitude": 40.4777,
+      "longitude": 23.645726
+    },
+    {
+      "name": "Αφοι Βυτινάρου",
+      "latitude": 37.941688,
+      "longitude": 23.739861
+    },
+    {
+      "name": "ΑΦΟΙ ΚΑΡΖΗ ΟΕ",
+      "latitude": 38.019926,
+      "longitude": 23.752185
+    },
+    {
+      "name": "Αφοι Κοντόπουλοι",
+      "latitude": 38.458099,
+      "longitude": 23.599221
+    },
+    {
+      "name": "Αφοι Μάστορα",
+      "latitude": 40.308194,
+      "longitude": 21.809654
+    },
+    {
+      "name": "Αφοι Μαγραπιδάκη Ο.Ε.",
+      "latitude": 35.191091,
+      "longitude": 25.712843
+    },
+    {
+      "name": "Αφοι Μακρη",
+      "latitude": 39.655443,
+      "longitude": 19.840692
+    },
+    {
+      "name": "Αφοι Μακρογιάννη - Τριαντάφυλλος Σακελλάρης",
+      "latitude": 40.309025,
+      "longitude": 21.809212
+    },
+    {
+      "name": "ΑΦΟΙ ΜΠΑΚΟΓΙΑΝΝΗ",
+      "latitude": 38.026525,
+      "longitude": 23.74332
+    },
+    {
+      "name": "Αφοι Τζιτζογλάκη",
+      "latitude": 38.014336,
+      "longitude": 23.719188
+    },
+    {
+      "name": "Αχιλλέας",
+      "latitude": 40.393439,
+      "longitude": 23.433525
+    },
+    {
+      "name": "Βάρσαμος Αυτοκίνητα",
+      "latitude": 37.2423,
+      "longitude": 21.652247
+    },
+    {
+      "name": "ΒΑΓΙΑΝΟΣ",
+      "latitude": 36.880145,
+      "longitude": 27.249446
+    },
+    {
+      "name": "Βαλασίδης Ευάγγελος",
+      "latitude": 40.543133,
+      "longitude": 22.985094
+    },
+    {
+      "name": "Βαλσαμάκης Citroën Service",
+      "latitude": 37.962795,
+      "longitude": 23.724152
+    },
+    {
+      "name": "ΒΑΜΒΑΚΑΣ, ΓΡΗΓΟΡΙΟΣ, & ΣΙΑ Ε.Ε.",
+      "latitude": 38.237088,
+      "longitude": 21.728215
+    },
+    {
+      "name": "Βαρσάμης Δημήτριος",
+      "latitude": 40.543183,
+      "longitude": 22.984788
+    },
+    {
+      "name": "Βασίλης Σταμούλης",
+      "latitude": 39.64641,
+      "longitude": 22.436999
+    },
+    {
+      "name": "Βασιλειάδης Μιχάλης",
+      "latitude": 37.979396,
+      "longitude": 23.638662
+    },
+    {
+      "name": "ΒΑΣΙΛΕΙΟΥ Γ.",
+      "latitude": 37.793464,
+      "longitude": 26.698526
+    },
+    {
+      "name": "Βαφαι Φουρνου",
+      "latitude": 40.635366,
+      "longitude": 24.57484
+    },
+    {
+      "name": "Βαφείο φανοποιείο Αφοί Πάλλα",
+      "latitude": 40.305003,
+      "longitude": 21.810912
+    },
+    {
+      "name": "Βουλκανιζατέρ",
+      "latitude": 37.668612,
+      "longitude": 21.449901
+    },
+    {
+      "name": "Βουλκανιζατέρ",
+      "latitude": 39.121077,
+      "longitude": 26.453239
+    },
+    {
+      "name": "Βουλκανιζατέρ Μπούμπης",
+      "latitude": 37.668748,
+      "longitude": 21.449526
+    },
+    {
+      "name": "ΒΟΥΛΚΑΝΙΖΑΤΕΡ",
+      "latitude": 37.430136,
+      "longitude": 24.933414
+    },
+    {
+      "name": "Βουλκανιζατερ",
+      "latitude": 37.677315,
+      "longitude": 21.439995
+    },
+    {
+      "name": "Βόντσας",
+      "latitude": 40.307776,
+      "longitude": 21.809325
+    },
+    {
+      "name": "Γ&Ν Δημόπουλος ΑΕΕ",
+      "latitude": 37.944133,
+      "longitude": 23.680571
+    },
+    {
+      "name": "Γ. Καλαϊτζογλου",
+      "latitude": 37.941216,
+      "longitude": 23.763741
+    },
+    {
+      "name": "Γ. Λιάτσος Audi",
+      "latitude": 37.988907,
+      "longitude": 23.768752
+    },
+    {
+      "name": "Γ. Ν. ΜΥΛΩΝΙΔΗΣ - ΣΥΝΕΡΓΕΙΟ ΑΥΤΟΚΙΝΗΤΩΝ",
+      "latitude": 40.643832,
+      "longitude": 22.942027
+    },
+    {
+      "name": "Γ. Φλαμιάτος A.E.",
+      "latitude": 37.980992,
+      "longitude": 23.771265
+    },
+    {
+      "name": "Γ. ΦΛΑΜΙΑΤΟΣ ΑΕ",
+      "latitude": 37.958896,
+      "longitude": 23.856876
+    },
+    {
+      "name": "Γαβριήλ Σ. Γαβριηλίδης & Υιοί Εξειδικευμένο Συνεργείο Φορτηγών & Λεωφορείων Mercedes - Benz",
+      "latitude": 40.547331,
+      "longitude": 23.050261
+    },
+    {
+      "name": "Γαβριηλίδης",
+      "latitude": 40.701866,
+      "longitude": 22.919167
+    },
+    {
+      "name": "ΓΑΜΠΙΕΡΑΚΗΣ ΜΑΝΟΛΗΣ",
+      "latitude": 36.885065,
+      "longitude": 27.249383
+    },
+    {
+      "name": "Γατουλας Ναλμπαντιδης",
+      "latitude": 40.690082,
+      "longitude": 22.949054
+    },
+    {
+      "name": "ΓΕΝΙΚΟ ΣΥΝΕΡΓΕΙΟ ΑΥΤΟΚΙΝΗΤΩΝ ΝΙΚΟΛΑΟΣ ΧΑΪΜΑΛΑΣ",
+      "latitude": 37.961203,
+      "longitude": 23.735633
+    },
+    {
+      "name": "γενικό συνεργείο αυτοκινήτων",
+      "latitude": 37.923964,
+      "longitude": 23.751911
+    },
+    {
+      "name": "Γενικό συνεργείο αυτοκινήτων",
+      "latitude": 37.990258,
+      "longitude": 23.743136
+    },
+    {
+      "name": "Γενικό Συνεργείο Αυτοκινήτων",
+      "latitude": 38.035793,
+      "longitude": 23.76958
+    },
+    {
+      "name": "Γεραντίδης",
+      "latitude": 40.579637,
+      "longitude": 22.983979
+    },
+    {
+      "name": "Γεωργιάδης Toyota",
+      "latitude": 40.535012,
+      "longitude": 22.211461
+    },
+    {
+      "name": "ΓΕΩΡΓΙΟΣ ΖΑΧΑΡΑΤΟΣ",
+      "latitude": 37.109623,
+      "longitude": 25.383102
+    },
+    {
+      "name": "Γεώργιος Λυκάκης",
+      "latitude": 38.036238,
+      "longitude": 23.676114
+    },
+    {
+      "name": "Γιάννης - Βασίλης",
+      "latitude": 40.65845,
+      "longitude": 22.951164
+    },
+    {
+      "name": "Γιάννης Τομαής",
+      "latitude": 37.94395,
+      "longitude": 23.762382
+    },
+    {
+      "name": "Γιάννης Χαλκιάς ΑΕΒΕ",
+      "latitude": 37.908143,
+      "longitude": 23.738341
+    },
+    {
+      "name": "ΓΙΑΝΝΗΣ ΤΕΛΛΗΣ",
+      "latitude": 36.8733,
+      "longitude": 27.17619
+    },
+    {
+      "name": "Γιαννόπουλος",
+      "latitude": 37.957394,
+      "longitude": 23.734214
+    },
+    {
+      "name": "Γιωτάκης",
+      "latitude": 37.97677,
+      "longitude": 23.713021
+    },
+    {
+      "name": "Γιώργος",
+      "latitude": 40.655242,
+      "longitude": 22.922545
+    },
+    {
+      "name": "Γιώργος Γαλαίος",
+      "latitude": 37.941431,
+      "longitude": 23.765289
+    },
+    {
+      "name": "ΓΚΑΛΛΟ Α.Ε. Peugeot Service",
+      "latitude": 38.013315,
+      "longitude": 23.818659
+    },
+    {
+      "name": "ΓΚΑΡΛΗΣ ΣΤΑΥΡΟΣ OPEL",
+      "latitude": 39.655375,
+      "longitude": 22.436354
+    },
+    {
+      "name": "Γκολέτσος",
+      "latitude": 40.607349,
+      "longitude": 22.965355
+    },
+    {
+      "name": "Γραικός",
+      "latitude": 40.685368,
+      "longitude": 22.906328
+    },
+    {
+      "name": "ΓΡΥΛΗΣ",
+      "latitude": 36.880999,
+      "longitude": 27.24377
+    },
+    {
+      "name": "Δ. Θανέλλος - Γ. Κωστηκεχαγιάς",
+      "latitude": 40.601039,
+      "longitude": 22.957773
+    },
+    {
+      "name": "Δήμος Νικόλαος",
+      "latitude": 40.564984,
+      "longitude": 22.979323
+    },
+    {
+      "name": "Δήμου",
+      "latitude": 37.95579,
+      "longitude": 23.685896
+    },
+    {
+      "name": "Δαγδηλέλης Εξατμίσεις",
+      "latitude": 40.617298,
+      "longitude": 22.969975
+    },
+    {
+      "name": "Δεληγιάννης",
+      "latitude": 38.00772,
+      "longitude": 23.801853
+    },
+    {
+      "name": "Δερβίσης",
+      "latitude": 41.095601,
+      "longitude": 23.503648
+    },
+    {
+      "name": "Δημήτρης",
+      "latitude": 38.021453,
+      "longitude": 23.743624
+    },
+    {
+      "name": "Δημήτρης",
+      "latitude": 40.618996,
+      "longitude": 22.968966
+    },
+    {
+      "name": "ΔΗΜΟΠΟΥΛΟΣ Ηλεκτρολογείο Αυτοκινήτων",
+      "latitude": 38.407587,
+      "longitude": 21.866023
+    },
+    {
+      "name": "Δημόπουλος Βουλκανιζατέρ",
+      "latitude": 37.671806,
+      "longitude": 21.414911
+    },
+    {
+      "name": "Διαγνωστικό Κέντρο Κανακόπουλος - Νιάος",
+      "latitude": 37.961118,
+      "longitude": 23.73616
+    },
+    {
+      "name": "ΔΙΟΓΕΝΗΣ",
+      "latitude": 41.259314,
+      "longitude": 22.996305
+    },
+    {
+      "name": "ΔΟΥΒΑΛΕΤΑ",
+      "latitude": 39.106559,
+      "longitude": 26.546682
+    },
+    {
+      "name": "ΔΡΟΜΕΑΣ Α.Ε.Β.Ε.",
+      "latitude": 38.440578,
+      "longitude": 22.845594
+    },
+    {
+      "name": "Δρόμος",
+      "latitude": 37.966718,
+      "longitude": 23.702468
+    },
+    {
+      "name": "Δυναμοδείκτης",
+      "latitude": 38.055369,
+      "longitude": 23.753531
+    },
+    {
+      "name": "Ε. ΚΥΡΙΑΚΑΚΗΣ Α.Ε.",
+      "latitude": 35.052519,
+      "longitude": 24.914298
+    },
+    {
+      "name": "Είδη αυτοκινήτων 101 \"δημήτρης\"",
+      "latitude": 37.960017,
+      "longitude": 23.734252
+    },
+    {
+      "name": "Ειδικευμένο συνεργείο",
+      "latitude": 38.035397,
+      "longitude": 23.767287
+    },
+    {
+      "name": "Ελαστικά",
+      "latitude": 40.621176,
+      "longitude": 22.966406
+    },
+    {
+      "name": "ΕΛΠΑ",
+      "latitude": 37.927976,
+      "longitude": 22.994923
+    },
+    {
+      "name": "ΕΛΠΑ",
+      "latitude": 41.07477,
+      "longitude": 23.562214
+    },
+    {
+      "name": "Εξατμίσεις",
+      "latitude": 40.6446,
+      "longitude": 22.953388
+    },
+    {
+      "name": "Εργαστήριο ΦΑΝΟΠΟΙΪΑΣ",
+      "latitude": 37.960104,
+      "longitude": 23.736472
+    },
+    {
+      "name": "ΕΤΕΚΑ Λιπαντήριο",
+      "latitude": 38.036457,
+      "longitude": 23.767705
+    },
+    {
+      "name": "Ευθυγραμίσεις Ζυγοσταθμίσεις",
+      "latitude": 38.035106,
+      "longitude": 23.75415
+    },
+    {
+      "name": "Ευθυγραμίσεις Θέμης",
+      "latitude": 38.033271,
+      "longitude": 23.769697
+    },
+    {
+      "name": "Ευθυγραμμίσεις Κωτσόπουλος",
+      "latitude": 38.234352,
+      "longitude": 21.725721
+    },
+    {
+      "name": "Ευστρατίου",
+      "latitude": 40.298673,
+      "longitude": 21.792563
+    },
+    {
+      "name": "Ζαμπάτης Θεόδωρος",
+      "latitude": 38.002531,
+      "longitude": 23.722251
+    },
+    {
+      "name": "Ζαμπακόλας Συνεργείο & εμπορία φορτηγών",
+      "latitude": 38.40804,
+      "longitude": 21.865607
+    },
+    {
+      "name": "ΖΑΝΤΟΛΑΣΤΙΧΑ",
+      "latitude": 37.961752,
+      "longitude": 23.734299
+    },
+    {
+      "name": "Ζαχαρίου",
+      "latitude": 37.994968,
+      "longitude": 23.730301
+    },
+    {
+      "name": "Ζαχαρόπουλος Κωνσταντίνος",
+      "latitude": 37.978895,
+      "longitude": 23.638955
+    },
+    {
+      "name": "Ζιάκας Τηλέμαχος",
+      "latitude": 38.018876,
+      "longitude": 23.717797
+    },
+    {
+      "name": "Ζουμπανέας Νικόλαος",
+      "latitude": 37.991925,
+      "longitude": 23.72192
+    },
+    {
+      "name": "Ζυγοστάθμιση",
+      "latitude": 40.943293,
+      "longitude": 22.452675
+    },
+    {
+      "name": "Ζυμάρας",
+      "latitude": 40.308786,
+      "longitude": 21.809284
+    },
+    {
+      "name": "Η Φήμη",
+      "latitude": 38.092355,
+      "longitude": 23.710198
+    },
+    {
+      "name": "Ηλίας Μπαγκούτσας",
+      "latitude": 38.468444,
+      "longitude": 23.617285
+    },
+    {
+      "name": "Ηλεκρολογείο αυτοκινήτων",
+      "latitude": 40.797097,
+      "longitude": 21.432089
+    },
+    {
+      "name": "Ηλεκτρικά αυτοκινήτων",
+      "latitude": 37.961013,
+      "longitude": 23.703214
+    },
+    {
+      "name": "Ηλεκτροδιάγνωση",
+      "latitude": 37.959759,
+      "longitude": 23.75582
+    },
+    {
+      "name": "Ηλεκτρολογίο αυτοκινήτων",
+      "latitude": 38.015528,
+      "longitude": 23.72945
+    },
+    {
+      "name": "Ηλεκτρολογείο",
+      "latitude": 38.369789,
+      "longitude": 23.112287
+    },
+    {
+      "name": "Ηλεκτρολογείο",
+      "latitude": 39.708688,
+      "longitude": 19.842506
+    },
+    {
+      "name": "Ηλεκτρολογείο",
+      "latitude": 40.656026,
+      "longitude": 22.915621
+    },
+    {
+      "name": "Ηλεκτρολογείο αυτ/των Πασσά",
+      "latitude": 38.441321,
+      "longitude": 23.654446
+    },
+    {
+      "name": "Ηλεκτρολογείο αυτοκινήτων",
+      "latitude": 36.389679,
+      "longitude": 28.125668
+    },
+    {
+      "name": "Ηλεκτρολογείο Αυτοκινήτων",
+      "latitude": 40.600366,
+      "longitude": 22.960987
+    },
+    {
+      "name": "Ηλεκτρολογείο Αυτοκινήτων",
+      "latitude": 40.606022,
+      "longitude": 22.971272
+    },
+    {
+      "name": "Ηλεκτρολογείο αυτοκινήτων Σκάγκος Κωνσταντίνος",
+      "latitude": 36.803116,
+      "longitude": 22.866146
+    },
+    {
+      "name": "Ηλεκτρολογείο Πήλικας",
+      "latitude": 37.778324,
+      "longitude": 20.866381
+    },
+    {
+      "name": "Ηλεκτρολογείο Προμπονάς",
+      "latitude": 38.009258,
+      "longitude": 23.800384
+    },
+    {
+      "name": "ΗΛΕΚΤΡΟΛΟΓΕΙΟ ΑΥΤΟΚΙΝΗΤΩΝ - ΔΗΜΟΠΟΥΛΟΣ ΓΙΩΡΓΟΣ",
+      "latitude": 38.000257,
+      "longitude": 22.717744
+    },
+    {
+      "name": "Ηλεκτρολόγος",
+      "latitude": 40.612252,
+      "longitude": 22.964518
+    },
+    {
+      "name": "Ηλεκτρολόγος Άρχων",
+      "latitude": 40.607297,
+      "longitude": 22.965316
+    },
+    {
+      "name": "Ηλεκτρολόγος αυτοκινήτων",
+      "latitude": 38.018451,
+      "longitude": 23.73052
+    },
+    {
+      "name": "Ηλεκτρολόγος αυτοκινήτων",
+      "latitude": 41.07067,
+      "longitude": 23.558654
+    },
+    {
+      "name": "Ηλεκτρολόγος Ο ΤΑΡΙΚ",
+      "latitude": 41.115161,
+      "longitude": 25.382161
+    },
+    {
+      "name": "Ηλεκτροτεχνική Αυτοκινήτων",
+      "latitude": 40.655948,
+      "longitude": 22.916791
+    },
+    {
+      "name": "Ηλεκτρόνιο",
+      "latitude": 40.61019,
+      "longitude": 22.980966
+    },
+    {
+      "name": "Ηλιοπουλος",
+      "latitude": 37.670299,
+      "longitude": 21.45065
+    },
+    {
+      "name": "Θ. Κοτσαρίνης",
+      "latitude": 38.032747,
+      "longitude": 23.721995
+    },
+    {
+      "name": "Θ. Μαντζώρος Φανοποιείο",
+      "latitude": 38.026794,
+      "longitude": 23.727422
+    },
+    {
+      "name": "Θάνος",
+      "latitude": 41.141513,
+      "longitude": 24.170447
+    },
+    {
+      "name": "Θέμης",
+      "latitude": 38.035223,
+      "longitude": 23.76969
+    },
+    {
+      "name": "Θανάσης",
+      "latitude": 38.020062,
+      "longitude": 23.752501
+    },
+    {
+      "name": "Θεοδωράκης Ηλεκτρολογείο Συνεργείο Αυτοκινήτων",
+      "latitude": 35.505695,
+      "longitude": 24.022226
+    },
+    {
+      "name": "Θεοδωρούδης Service",
+      "latitude": 40.600861,
+      "longitude": 22.95462
+    },
+    {
+      "name": "Ι. Κασιμάτης Subaru",
+      "latitude": 38.030375,
+      "longitude": 23.779004
+    },
+    {
+      "name": "Ι. ΚΤΕΟ",
+      "latitude": 39.612672,
+      "longitude": 19.906947
+    },
+    {
+      "name": "Ι. Πιτσίλκας - Χ. Χασομέρης Ο.Ε.",
+      "latitude": 40.669679,
+      "longitude": 22.858666
+    },
+    {
+      "name": "Ι.Κ.Τ.Ε.Ο",
+      "latitude": 41.106507,
+      "longitude": 25.357326
+    },
+    {
+      "name": "Ι.ΚΤΕΟ ΚΥΚΛΑΔΩΝ",
+      "latitude": 37.423807,
+      "longitude": 24.91884
+    },
+    {
+      "name": "ΙΔΙΩΤΙΚΟ ΚΤΕΟ",
+      "latitude": 38.994619,
+      "longitude": 20.728808
+    },
+    {
+      "name": "Ιδιωτικό ΚΤΕΟ",
+      "latitude": 40.64926,
+      "longitude": 22.863335
+    },
+    {
+      "name": "ΙΚΤΕΟ 'Car' ΘΕΣΣΑΛΙΑΣ",
+      "latitude": 39.369717,
+      "longitude": 22.916109
+    },
+    {
+      "name": "ΙΚΤΕΟ Θριασίου Πεδίου",
+      "latitude": 38.086517,
+      "longitude": 23.534967
+    },
+    {
+      "name": "Ιωάννης Μιχαλακόπουλος",
+      "latitude": 38.027926,
+      "longitude": 23.725843
+    },
+    {
+      "name": "Ιωσηφίδης",
+      "latitude": 40.604699,
+      "longitude": 22.968425
+    },
+    {
+      "name": "Κ. ΓΚΑΡΤΖΟΝΙΚΑΣ Α.Ε.Β.Ε.",
+      "latitude": 39.166148,
+      "longitude": 20.924155
+    },
+    {
+      "name": "Κ. ΓΚΑΡΤΖΟΝΙΚΑΣ Α.Ε.Β.Ε.",
+      "latitude": 39.580171,
+      "longitude": 20.863896
+    },
+    {
+      "name": "Κ. Κουβαρας",
+      "latitude": 37.419589,
+      "longitude": 22.731065
+    },
+    {
+      "name": "Κ. Ψαλίδης BMW Mini",
+      "latitude": 38.009518,
+      "longitude": 23.844731
+    },
+    {
+      "name": "Κ.Τ.Ε.Ο.",
+      "latitude": 39.588219,
+      "longitude": 21.74899
+    },
+    {
+      "name": "Κάννας Σταύρος Opel",
+      "latitude": 38.040171,
+      "longitude": 23.751161
+    },
+    {
+      "name": "Κάντζος",
+      "latitude": 38.004978,
+      "longitude": 23.722369
+    },
+    {
+      "name": "Κέντρο αυτοκινήτου",
+      "latitude": 35.365822,
+      "longitude": 24.497245
+    },
+    {
+      "name": "Κέντρο μπαταρίας",
+      "latitude": 37.976159,
+      "longitude": 23.753153
+    },
+    {
+      "name": "Κέντρο Μπαταρίας",
+      "latitude": 38.026143,
+      "longitude": 23.730999
+    },
+    {
+      "name": "Κέντρο Τεχνικής Υποστήριξης",
+      "latitude": 39.631582,
+      "longitude": 22.458355
+    },
+    {
+      "name": "Κέντρο Φρένων",
+      "latitude": 38.037518,
+      "longitude": 23.755896
+    },
+    {
+      "name": "Κίρκος",
+      "latitude": 38.007111,
+      "longitude": 23.716419
+    },
+    {
+      "name": "Κακούρος",
+      "latitude": 37.060878,
+      "longitude": 22.432856
+    },
+    {
+      "name": "Καλαθάς ΑΕ",
+      "latitude": 41.098403,
+      "longitude": 23.47964
+    },
+    {
+      "name": "Καλαϊτζόγλου",
+      "latitude": 37.941255,
+      "longitude": 23.763478
+    },
+    {
+      "name": "ΚΑΛΟΥΔΗΣ ΓΙΩΡΓΟΣ",
+      "latitude": 36.875023,
+      "longitude": 27.196838
+    },
+    {
+      "name": "Καλούσης",
+      "latitude": 40.26977,
+      "longitude": 22.525723
+    },
+    {
+      "name": "Καλτσούνης",
+      "latitude": 38.028935,
+      "longitude": 23.853425
+    },
+    {
+      "name": "ΚΑΜΑΤΕΡΟΣ ΜΙΧΑΛΗΣ & ΣΤΕΦΑΝΟΣ",
+      "latitude": 36.887167,
+      "longitude": 27.261087
+    },
+    {
+      "name": "Καμπέλος",
+      "latitude": 38.014218,
+      "longitude": 23.708533
+    },
+    {
+      "name": "Καπελάκης",
+      "latitude": 38.583115,
+      "longitude": 21.427779
+    },
+    {
+      "name": "Καπελλάκης",
+      "latitude": 38.146648,
+      "longitude": 20.530969
+    },
+    {
+      "name": "Καπετανακης Ford",
+      "latitude": 37.857484,
+      "longitude": 21.234286
+    },
+    {
+      "name": "Καραβούλιας - Νικολόπουλος",
+      "latitude": 38.029645,
+      "longitude": 21.369913
+    },
+    {
+      "name": "Καραμολέγκος",
+      "latitude": 38.02398,
+      "longitude": 23.741159
+    },
+    {
+      "name": "Καραμπέρης",
+      "latitude": 40.647601,
+      "longitude": 22.92022
+    },
+    {
+      "name": "Κατσίκας Ηλίας - Car Sound Center",
+      "latitude": 40.611134,
+      "longitude": 22.962699
+    },
+    {
+      "name": "Κατσωνης",
+      "latitude": 38.889711,
+      "longitude": 22.438574
+    },
+    {
+      "name": "ΚΕΑ",
+      "latitude": 40.531592,
+      "longitude": 23.004821
+    },
+    {
+      "name": "Κετιπίδης",
+      "latitude": 41.113829,
+      "longitude": 25.376696
+    },
+    {
+      "name": "Κεχαγιάς",
+      "latitude": 40.324427,
+      "longitude": 21.785103
+    },
+    {
+      "name": "Κιοσέογλου",
+      "latitude": 38.015735,
+      "longitude": 23.729084
+    },
+    {
+      "name": "ΚΙΟΣΣΕΣ",
+      "latitude": 40.607452,
+      "longitude": 22.995223
+    },
+    {
+      "name": "Κιτσικούδης Πασχάλης",
+      "latitude": 40.751651,
+      "longitude": 22.582816
+    },
+    {
+      "name": "Κλίμης",
+      "latitude": 38.326261,
+      "longitude": 23.766857
+    },
+    {
+      "name": "Κοκκινάκης",
+      "latitude": 38.023952,
+      "longitude": 23.744143
+    },
+    {
+      "name": "Κονδύλης",
+      "latitude": 38.02085,
+      "longitude": 23.745514
+    },
+    {
+      "name": "Κοντρόπουλος",
+      "latitude": 41.072667,
+      "longitude": 24.241097
+    },
+    {
+      "name": "ΚΟΡΑΚΑΣ ΣΥΝ",
+      "latitude": 39.106681,
+      "longitude": 26.511857
+    },
+    {
+      "name": "ΚΟΡΟΜΗΛΑ, ΑΦΟΙ, Ο.Ε.",
+      "latitude": 39.659314,
+      "longitude": 22.438497
+    },
+    {
+      "name": "Κορωναίος",
+      "latitude": 38.025897,
+      "longitude": 23.730524
+    },
+    {
+      "name": "Κουιμτζήs Α.Ε.",
+      "latitude": 39.601752,
+      "longitude": 22.425112
+    },
+    {
+      "name": "Κουλίσογλου Ηλίας",
+      "latitude": 38.419498,
+      "longitude": 23.6528
+    },
+    {
+      "name": "Κουφέλη",
+      "latitude": 40.605527,
+      "longitude": 22.960417
+    },
+    {
+      "name": "Κοψαχείλης",
+      "latitude": 40.603918,
+      "longitude": 22.971816
+    },
+    {
+      "name": "Κούσουλας Χρήστος",
+      "latitude": 37.650508,
+      "longitude": 22.729151
+    },
+    {
+      "name": "Κρεμαστούλης",
+      "latitude": 37.93345,
+      "longitude": 23.644524
+    },
+    {
+      "name": "Κρεμμύδας",
+      "latitude": 37.963682,
+      "longitude": 23.704248
+    },
+    {
+      "name": "Κριεκούκης",
+      "latitude": 38.008846,
+      "longitude": 23.721587
+    },
+    {
+      "name": "Κριεκούκης Smart",
+      "latitude": 38.006083,
+      "longitude": 23.722561
+    },
+    {
+      "name": "κρικης αντωνιος",
+      "latitude": 38.240332,
+      "longitude": 21.746704
+    },
+    {
+      "name": "ΚΤΕΟ",
+      "latitude": 37.413212,
+      "longitude": 24.95056
+    },
+    {
+      "name": "ΚΤΕΟ",
+      "latitude": 37.999005,
+      "longitude": 23.785456
+    },
+    {
+      "name": "ΚΤΕΟ Autovision",
+      "latitude": 38.01088,
+      "longitude": 23.845039
+    },
+    {
+      "name": "ΚΤΕΟ AUTOVISION",
+      "latitude": 39.36623,
+      "longitude": 21.960364
+    },
+    {
+      "name": "ΚΤΕΟ ΚΑΡΔΙΤΣΑΣ",
+      "latitude": 39.378836,
+      "longitude": 21.928361
+    },
+    {
+      "name": "ΚΤΕΟ Πήγασος",
+      "latitude": 38.009591,
+      "longitude": 23.713727
+    },
+    {
+      "name": "ΚΤΕΟ ΤΡΥΠΑΤΖΗΣ",
+      "latitude": 39.10516,
+      "longitude": 26.516946
+    },
+    {
+      "name": "Κωνσταντίνος Καμπόσης",
+      "latitude": 40.579598,
+      "longitude": 22.98066
+    },
+    {
+      "name": "Κωστάρης",
+      "latitude": 38.020193,
+      "longitude": 23.796592
+    },
+    {
+      "name": "Κόκκινος",
+      "latitude": 40.992207,
+      "longitude": 22.57903
+    },
+    {
+      "name": "Κώστας Δαραβίγκας & Υιοί Ευθυγράμμιση",
+      "latitude": 38.019092,
+      "longitude": 23.719455
+    },
+    {
+      "name": "Κώστας Κυριακόπουλος Ψυγεία Αυτοκινήτων",
+      "latitude": 37.951511,
+      "longitude": 23.736967
+    },
+    {
+      "name": "Λ. Ευθυμιάδης",
+      "latitude": 37.994731,
+      "longitude": 23.722475
+    },
+    {
+      "name": "Λάζαρος Χρυσίδης Γενικό Συνεργείο Αυτοκινήτων",
+      "latitude": 37.962818,
+      "longitude": 23.715393
+    },
+    {
+      "name": "ΛΑΔΙΚΟΣ",
+      "latitude": 36.875084,
+      "longitude": 27.193223
+    },
+    {
+      "name": "Λαλιά Αφοί Ο.Ε.",
+      "latitude": 40.533637,
+      "longitude": 23.003655
+    },
+    {
+      "name": "Λαμπρή Αφοί",
+      "latitude": 40.570303,
+      "longitude": 22.982616
+    },
+    {
+      "name": "Λασκαριδυσ",
+      "latitude": 40.255554,
+      "longitude": 23.275374
+    },
+    {
+      "name": "ΛΕΒΕΝΤΗΣ ΓΡΗΓΟΡΗΣ",
+      "latitude": 36.413837,
+      "longitude": 28.226778
+    },
+    {
+      "name": "Λεπενίτσας",
+      "latitude": 38.029136,
+      "longitude": 23.75128
+    },
+    {
+      "name": "Λιάτος",
+      "latitude": 37.979317,
+      "longitude": 23.641605
+    },
+    {
+      "name": "Λιούλιος Μιχάλης",
+      "latitude": 40.65052,
+      "longitude": 22.930787
+    },
+    {
+      "name": "Λιπαντικά Χημικά",
+      "latitude": 38.036577,
+      "longitude": 23.757723
+    },
+    {
+      "name": "Λυκάρτσης",
+      "latitude": 40.582124,
+      "longitude": 22.980391
+    },
+    {
+      "name": "Λυσικάτος",
+      "latitude": 37.936138,
+      "longitude": 23.639545
+    },
+    {
+      "name": "Μ. Μαυριδακηζ",
+      "latitude": 35.507583,
+      "longitude": 23.981263
+    },
+    {
+      "name": "Μ. Σφακιανάκης Opel",
+      "latitude": 38.007547,
+      "longitude": 23.722082
+    },
+    {
+      "name": "Μάνιος",
+      "latitude": 40.980051,
+      "longitude": 24.336352
+    },
+    {
+      "name": "Μάρκου Στέλιος",
+      "latitude": 40.657253,
+      "longitude": 23.614216
+    },
+    {
+      "name": "Μακρής ΑΕ",
+      "latitude": 38.008751,
+      "longitude": 23.76069
+    },
+    {
+      "name": "Μανουσάκης",
+      "latitude": 40.672791,
+      "longitude": 22.935047
+    },
+    {
+      "name": "Μαντζαβινος",
+      "latitude": 37.691073,
+      "longitude": 21.408797
+    },
+    {
+      "name": "ΜΑΝΤΟΥΚΟΣ ΠΕΤΡΟΣ",
+      "latitude": 36.863054,
+      "longitude": 27.158395
+    },
+    {
+      "name": "Μανώλης Κωνσταντίνου",
+      "latitude": 38.007147,
+      "longitude": 23.722825
+    },
+    {
+      "name": "Μαρέσιος Suzuki",
+      "latitude": 40.661178,
+      "longitude": 22.930744
+    },
+    {
+      "name": "Μαραγκιουδάκης",
+      "latitude": 38.032252,
+      "longitude": 23.681202
+    },
+    {
+      "name": "Μαραγκός Θ. & ΣΙΑ",
+      "latitude": 40.701293,
+      "longitude": 22.84313
+    },
+    {
+      "name": "ΜΑΡΙΝΟΣ",
+      "latitude": 36.855247,
+      "longitude": 27.134742
+    },
+    {
+      "name": "ΜΑΡΙΝΟΣ ΜΟΥΡΟΥΤΣΟΣ",
+      "latitude": 37.961008,
+      "longitude": 23.735716
+    },
+    {
+      "name": "Μαρπίνης",
+      "latitude": 38.062203,
+      "longitude": 23.713837
+    },
+    {
+      "name": "Μαρτίδης",
+      "latitude": 38.054809,
+      "longitude": 23.722087
+    },
+    {
+      "name": "Μαστροκουκος",
+      "latitude": 38.151965,
+      "longitude": 22.348306
+    },
+    {
+      "name": "Μαυροφρύδης",
+      "latitude": 40.671492,
+      "longitude": 22.93353
+    },
+    {
+      "name": "Μεγαγιάννης Α.Ε.",
+      "latitude": 37.941659,
+      "longitude": 23.871561
+    },
+    {
+      "name": "ΜΕΛΚΟΝΙΑΝ",
+      "latitude": 41.110785,
+      "longitude": 25.413342
+    },
+    {
+      "name": "Μεχμέτ & Αλή",
+      "latitude": 41.120093,
+      "longitude": 25.436087
+    },
+    {
+      "name": "Μηλιωρης",
+      "latitude": 37.961042,
+      "longitude": 23.699753
+    },
+    {
+      "name": "Μιαούλης",
+      "latitude": 36.3937,
+      "longitude": 28.194427
+    },
+    {
+      "name": "Μικέλης",
+      "latitude": 37.948592,
+      "longitude": 23.70465
+    },
+    {
+      "name": "Μιχ. Ζαφείρης Mercedes-Benz",
+      "latitude": 38.013279,
+      "longitude": 23.720166
+    },
+    {
+      "name": "Μιχάλης, Βασιλάκης Μιχαήλ",
+      "latitude": 35.333956,
+      "longitude": 25.145883
+    },
+    {
+      "name": "Μιχαλης Κακαβος",
+      "latitude": 39.656533,
+      "longitude": 20.937224
+    },
+    {
+      "name": "ΜΟΥΣΤΑΚΑΣ SERVICE ΜΟΝ",
+      "latitude": 38.023689,
+      "longitude": 23.730953
+    },
+    {
+      "name": "ΜΠ Κέντρο Μπαταρίας",
+      "latitude": 38.021405,
+      "longitude": 23.79725
+    },
+    {
+      "name": "Μπάτζιος Δήμος",
+      "latitude": 41.11395,
+      "longitude": 25.37707
+    },
+    {
+      "name": "Μπαλής",
+      "latitude": 37.415666,
+      "longitude": 24.951089
+    },
+    {
+      "name": "ΜΠΑΜΠΗΣ",
+      "latitude": 41.282042,
+      "longitude": 22.999724
+    },
+    {
+      "name": "Μπαταρίες Αυτοκινήτων",
+      "latitude": 37.981496,
+      "longitude": 23.766503
+    },
+    {
+      "name": "ΜΠΛΙΑΣ Β. ΙΩΑΝΝΗΣ",
+      "latitude": 39.912684,
+      "longitude": 25.202077
+    },
+    {
+      "name": "ΜΠΟΡΗΣ",
+      "latitude": 37.955858,
+      "longitude": 23.681445
+    },
+    {
+      "name": "Μπότσας Παναγιώτης",
+      "latitude": 38.028902,
+      "longitude": 23.715253
+    },
+    {
+      "name": "Ν. ΤΣΑΛΑΣ & ΣΙΑ ΟΕ",
+      "latitude": 38.409281,
+      "longitude": 24.040002
+    },
+    {
+      "name": "Νάκας Δημήτριος",
+      "latitude": 40.52695,
+      "longitude": 22.215732
+    },
+    {
+      "name": "Νίκος Μαρκόνιος",
+      "latitude": 36.399404,
+      "longitude": 28.20334
+    },
+    {
+      "name": "Νίκος Τσιας Fiat Service",
+      "latitude": 39.65983,
+      "longitude": 22.440958
+    },
+    {
+      "name": "Νεκτάριος - Συνεργείο Φρένων",
+      "latitude": 38.032239,
+      "longitude": 23.751062
+    },
+    {
+      "name": "Νεοφυτίδης",
+      "latitude": 40.60655,
+      "longitude": 22.977579
+    },
+    {
+      "name": "ΝΕΣΤΩΡΑΣ ΜΙΧΑΗΛ - ΦΑΝΟΠΟΙΕΙΟ ΑΥΤΟΚΙΝΗΤΩΝ - ΒΑΦΕΣ",
+      "latitude": 39.093086,
+      "longitude": 26.544713
+    },
+    {
+      "name": "ΝΙΓΔΕΛΗΣ ΙΟΡΔΑΝΗΣ",
+      "latitude": 41.261954,
+      "longitude": 23.003032
+    },
+    {
+      "name": "Νικηφόρος",
+      "latitude": 37.955509,
+      "longitude": 23.677388
+    },
+    {
+      "name": "Νταβάρη Volvo",
+      "latitude": 38.008739,
+      "longitude": 23.722075
+    },
+    {
+      "name": "ΝΤΕΛΙΟΣ",
+      "latitude": 36.886575,
+      "longitude": 27.252645
+    },
+    {
+      "name": "Ντόρτογλου",
+      "latitude": 40.59788,
+      "longitude": 22.959698
+    },
+    {
+      "name": "Ξενιτόπουλος",
+      "latitude": 40.67599,
+      "longitude": 22.936135
+    },
+    {
+      "name": "Ο Γιώργος",
+      "latitude": 38.011083,
+      "longitude": 23.73885
+    },
+    {
+      "name": "Ο Μάκης",
+      "latitude": 38.009046,
+      "longitude": 23.721434
+    },
+    {
+      "name": "Ο Μπάμπης",
+      "latitude": 38.004514,
+      "longitude": 23.721926
+    },
+    {
+      "name": "Ο Ντίνος",
+      "latitude": 37.979458,
+      "longitude": 23.71272
+    },
+    {
+      "name": "Ο ΠΑΠΑΣ",
+      "latitude": 40.257304,
+      "longitude": 23.327593
+    },
+    {
+      "name": "Οικονομάκης",
+      "latitude": 38.087008,
+      "longitude": 23.705977
+    },
+    {
+      "name": "Π.Κουβάτσος",
+      "latitude": 38.039915,
+      "longitude": 23.760661
+    },
+    {
+      "name": "Πάπος Μιχ.",
+      "latitude": 41.257116,
+      "longitude": 23.021078
+    },
+    {
+      "name": "Πάσχος Δημήτριος",
+      "latitude": 41.142476,
+      "longitude": 24.14543
+    },
+    {
+      "name": "Παλαιοπάνη Αφοί",
+      "latitude": 37.90617,
+      "longitude": 23.74251
+    },
+    {
+      "name": "Παναγιώτης Λίβανος",
+      "latitude": 38.016123,
+      "longitude": 23.749079
+    },
+    {
+      "name": "Παναγιώτης Σταμάτης",
+      "latitude": 38.007164,
+      "longitude": 23.67459
+    },
+    {
+      "name": "Πανουργιάς",
+      "latitude": 38.055205,
+      "longitude": 23.75198
+    },
+    {
+      "name": "Παπαδάτος",
+      "latitude": 40.650185,
+      "longitude": 22.915614
+    },
+    {
+      "name": "Παπανικος",
+      "latitude": 37.92872,
+      "longitude": 23.745307
+    },
+    {
+      "name": "Παπαστέργιος Φανοβαφείο",
+      "latitude": 40.292222,
+      "longitude": 21.824639
+    },
+    {
+      "name": "Παπαστεφάνου",
+      "latitude": 40.781864,
+      "longitude": 21.406244
+    },
+    {
+      "name": "Παπατσίμπας Συνεργείο",
+      "latitude": 39.166976,
+      "longitude": 20.964976
+    },
+    {
+      "name": "Παπουτσάκης",
+      "latitude": 38.013668,
+      "longitude": 23.826818
+    },
+    {
+      "name": "ΠΑΡ-ΜΠΡΙΖ ΔΗΜΗΤΡΗΣ",
+      "latitude": 37.960208,
+      "longitude": 23.734276
+    },
+    {
+      "name": "Παρίσης",
+      "latitude": 40.673319,
+      "longitude": 22.942984
+    },
+    {
+      "name": "ΠΑΡΙΣΗΣ Α.Ε.",
+      "latitude": 40.795093,
+      "longitude": 21.437443
+    },
+    {
+      "name": "Παρχαρίδης Ηλεκτροτεχνείο",
+      "latitude": 40.293613,
+      "longitude": 21.78375
+    },
+    {
+      "name": "ΠΑΣΠΑΛΙΑΡΗΣ ΑΕ Λειτουργίες",
+      "latitude": 38.01129,
+      "longitude": 23.668494
+    },
+    {
+      "name": "Πατηρα Υιοι ΑΕ",
+      "latitude": 40.635352,
+      "longitude": 24.574656
+    },
+    {
+      "name": "Παυλής Hyundai",
+      "latitude": 38.039353,
+      "longitude": 23.71594
+    },
+    {
+      "name": "Παύλος Πέττας",
+      "latitude": 37.949121,
+      "longitude": 23.65604
+    },
+    {
+      "name": "ΠΕΤΡ. ΣΤΕΦΑΝΗΣ & ΥΙΟΣ",
+      "latitude": 38.024157,
+      "longitude": 23.748377
+    },
+    {
+      "name": "Πολυχρόνης Συνεργείο",
+      "latitude": 36.399659,
+      "longitude": 28.203444
+    },
+    {
+      "name": "Πούλιος Θωμάς",
+      "latitude": 41.13067,
+      "longitude": 25.381425
+    },
+    {
+      "name": "Πριναράκης Hyunday service",
+      "latitude": 35.49818,
+      "longitude": 24.036326
+    },
+    {
+      "name": "Προκοπίου Θεόδωρος",
+      "latitude": 39.083139,
+      "longitude": 26.190337
+    },
+    {
+      "name": "Προπορεία",
+      "latitude": 38.017548,
+      "longitude": 23.797383
+    },
+    {
+      "name": "Πύρρος",
+      "latitude": 37.943538,
+      "longitude": 23.656822
+    },
+    {
+      "name": "Ραπτίδης",
+      "latitude": 40.665335,
+      "longitude": 22.906195
+    },
+    {
+      "name": "Ρεκτιφιέ Ήφαιστος",
+      "latitude": 40.307822,
+      "longitude": 21.809416
+    },
+    {
+      "name": "Ρεκτιφιέ Μηχανοτεχνική",
+      "latitude": 40.669819,
+      "longitude": 22.858701
+    },
+    {
+      "name": "Ρομπογιαννάκης",
+      "latitude": 35.052424,
+      "longitude": 24.896959
+    },
+    {
+      "name": "Ρουσόπουλος Εξατμίσεις",
+      "latitude": 40.309785,
+      "longitude": 21.81538
+    },
+    {
+      "name": "Ρούσσος Κυριάκος",
+      "latitude": 38.00361,
+      "longitude": 23.847812
+    },
+    {
+      "name": "Σ & Η Σελλής Ο.Ε. - Βιομηχανικά Είδη",
+      "latitude": 37.626885,
+      "longitude": 22.726855
+    },
+    {
+      "name": "Σάκης ταπετσαρίες",
+      "latitude": 40.657683,
+      "longitude": 22.933349
+    },
+    {
+      "name": "Σαγάνας",
+      "latitude": 38.019764,
+      "longitude": 23.739785
+    },
+    {
+      "name": "Σαμλίδης",
+      "latitude": 37.9438,
+      "longitude": 23.693506
+    },
+    {
+      "name": "Σαμλίδης",
+      "latitude": 37.970761,
+      "longitude": 23.697729
+    },
+    {
+      "name": "Σιδέρης",
+      "latitude": 38.603364,
+      "longitude": 21.416843
+    },
+    {
+      "name": "Σιδέρης",
+      "latitude": 40.464301,
+      "longitude": 23.263721
+    },
+    {
+      "name": "Σουγιολτσής",
+      "latitude": 40.617485,
+      "longitude": 22.969434
+    },
+    {
+      "name": "ΣΟΥΡΑΣΗΣ",
+      "latitude": 36.884441,
+      "longitude": 27.24709
+    },
+    {
+      "name": "Σούφλας Α. Bosch Car Service",
+      "latitude": 38.027643,
+      "longitude": 23.698473
+    },
+    {
+      "name": "Σπύρος Νικητάκης",
+      "latitude": 37.948248,
+      "longitude": 23.745418
+    },
+    {
+      "name": "Στέφανος Γαζέας και σία",
+      "latitude": 40.531498,
+      "longitude": 21.259317
+    },
+    {
+      "name": "ΣΤΑΘΗΣ",
+      "latitude": 40.679464,
+      "longitude": 22.805053
+    },
+    {
+      "name": "ΣΤΑΘΟΠΟΥΛΟΣ",
+      "latitude": 36.879751,
+      "longitude": 27.239068
+    },
+    {
+      "name": "Σταμούτσος, ηλεκτρολογείο αυτοκινήτων",
+      "latitude": 38.402207,
+      "longitude": 21.856794
+    },
+    {
+      "name": "Σταμπολίδης",
+      "latitude": 37.906135,
+      "longitude": 23.737893
+    },
+    {
+      "name": "Στεφάνου",
+      "latitude": 37.944519,
+      "longitude": 23.69103
+    },
+    {
+      "name": "Στεφανέλλης Τζάνος",
+      "latitude": 38.024192,
+      "longitude": 23.695322
+    },
+    {
+      "name": "ΣΤΕΦΑΝΟΣ ΚΟΥΚΑΡΑΣ",
+      "latitude": 40.613189,
+      "longitude": 22.955257
+    },
+    {
+      "name": "Στουγιαννίδης",
+      "latitude": 40.657819,
+      "longitude": 22.933866
+    },
+    {
+      "name": "Στρατής",
+      "latitude": 39.175226,
+      "longitude": 26.497348
+    },
+    {
+      "name": "Συνεργείο",
+      "latitude": 38.019319,
+      "longitude": 23.695846
+    },
+    {
+      "name": "Συνεργείο",
+      "latitude": 40.781912,
+      "longitude": 21.488827
+    },
+    {
+      "name": "Συνεργείο",
+      "latitude": 40.87134,
+      "longitude": 22.90906
+    },
+    {
+      "name": "Συνεργείο",
+      "latitude": 41.077582,
+      "longitude": 23.632619
+    },
+    {
+      "name": "Συνεργείο Hyundai",
+      "latitude": 40.607194,
+      "longitude": 22.964455
+    },
+    {
+      "name": "Συνεργείο Mercedes \"Μαυρίδης\"",
+      "latitude": 37.949138,
+      "longitude": 23.699361
+    },
+    {
+      "name": "Συνεργείο Αμαξόπουλος",
+      "latitude": 41.114031,
+      "longitude": 25.380179
+    },
+    {
+      "name": "Συνεργείο αυτοκινήτων",
+      "latitude": 38.05861,
+      "longitude": 23.755518
+    },
+    {
+      "name": "Συνεργείο Αυτοκινήτων",
+      "latitude": 38.812866,
+      "longitude": 23.367496
+    },
+    {
+      "name": "Συνεργείο Αυτοκινήτων Mercedes",
+      "latitude": 37.962386,
+      "longitude": 23.734276
+    },
+    {
+      "name": "Συνεργείο Αυτοκινήτων Άρης",
+      "latitude": 40.666501,
+      "longitude": 22.924927
+    },
+    {
+      "name": "Συνεργείο αυτοκινήτων Βάρης",
+      "latitude": 40.654081,
+      "longitude": 22.955421
+    },
+    {
+      "name": "Συνεργείο αυτοκινήτων Δημήτρης Μανώλης",
+      "latitude": 37.991465,
+      "longitude": 23.740213
+    },
+    {
+      "name": "Συνεργείο Αυτοκινήτων Κότσαλης Σταύρος",
+      "latitude": 36.803032,
+      "longitude": 22.866092
+    },
+    {
+      "name": "Συνεργείο Αυτοκινήτων Πουλάκης Φίλιππος",
+      "latitude": 36.798965,
+      "longitude": 22.867519
+    },
+    {
+      "name": "Συνεργείο αυτοκινήτων Στάθης",
+      "latitude": 40.759926,
+      "longitude": 23.077909
+    },
+    {
+      "name": "Συνεργείο Νεκτάριος",
+      "latitude": 36.400575,
+      "longitude": 28.203195
+    },
+    {
+      "name": "Συνεργείο Τζερτζελά",
+      "latitude": 40.60939,
+      "longitude": 24.613027
+    },
+    {
+      "name": "Συνεργείο Φελώνης",
+      "latitude": 39.153213,
+      "longitude": 20.965559
+    },
+    {
+      "name": "Συνεργείο-Ηλεκτρολ. \"Κουτσούρος Κλεάνθης\"",
+      "latitude": 38.467529,
+      "longitude": 23.620457
+    },
+    {
+      "name": "Συνεργειο",
+      "latitude": 39.148077,
+      "longitude": 23.861766
+    },
+    {
+      "name": "Σφυρηλατήσεις - Βαφές",
+      "latitude": 40.657397,
+      "longitude": 22.961869
+    },
+    {
+      "name": "Σωτήρας Αντώνιος",
+      "latitude": 40.542986,
+      "longitude": 22.986375
+    },
+    {
+      "name": "Σωτηρόπουλος Πέτρος κ ΣΙΑ ΟΕ - Εξειδικεμένο Συνεργείο Mercedes Benz",
+      "latitude": 38.213492,
+      "longitude": 21.725146
+    },
+    {
+      "name": "Τ. Σουβατζόγλου",
+      "latitude": 37.962059,
+      "longitude": 23.73425
+    },
+    {
+      "name": "Τάκης",
+      "latitude": 40.661549,
+      "longitude": 22.930584
+    },
+    {
+      "name": "Τάσος",
+      "latitude": 38.021213,
+      "longitude": 23.709997
+    },
+    {
+      "name": "Τάσος",
+      "latitude": 39.097868,
+      "longitude": 26.549197
+    },
+    {
+      "name": "Τάσσης Δημήτριος",
+      "latitude": 38.010074,
+      "longitude": 23.80837
+    },
+    {
+      "name": "Ταπετσαρίες Αυτοκινήτων - Alex A.M.F",
+      "latitude": 37.941466,
+      "longitude": 23.689762
+    },
+    {
+      "name": "Ταπετσαρίες οχημάτων",
+      "latitude": 38.054066,
+      "longitude": 23.713992
+    },
+    {
+      "name": "ΤΑΤ Δυναμόμετρο",
+      "latitude": 37.96242,
+      "longitude": 23.734968
+    },
+    {
+      "name": "Τζενγκίζ",
+      "latitude": 40.850254,
+      "longitude": 25.893073
+    },
+    {
+      "name": "Τηγάνης Toyota Service",
+      "latitude": 37.909458,
+      "longitude": 23.754527
+    },
+    {
+      "name": "Τονικίδης",
+      "latitude": 37.94569,
+      "longitude": 23.695262
+    },
+    {
+      "name": "ΤΟΤΤΗΣ",
+      "latitude": 40.615247,
+      "longitude": 22.96967
+    },
+    {
+      "name": "ΤΟΥΟΤΑ ΣΥΝΕΡΓΕΙΟ",
+      "latitude": 39.110269,
+      "longitude": 26.528262
+    },
+    {
+      "name": "Τραϊνός",
+      "latitude": 40.944954,
+      "longitude": 22.45095
+    },
+    {
+      "name": "Τσαγκαράκης εξατμίσεις",
+      "latitude": 39.11032,
+      "longitude": 26.528878
+    },
+    {
+      "name": "Τσερκεζίδης",
+      "latitude": 37.948784,
+      "longitude": 23.73944
+    },
+    {
+      "name": "Τσιανάκας",
+      "latitude": 40.670523,
+      "longitude": 22.900958
+    },
+    {
+      "name": "Τσιούφης",
+      "latitude": 39.630253,
+      "longitude": 22.451633
+    },
+    {
+      "name": "Τσώλης Συνεργείο Αυτοκινήτων",
+      "latitude": 38.910244,
+      "longitude": 20.890168
+    },
+    {
+      "name": "Τόρνος Μηχανουργικές Εργασίες",
+      "latitude": 38.01098,
+      "longitude": 23.720824
+    },
+    {
+      "name": "Υγραεριοκίνηση",
+      "latitude": 41.109968,
+      "longitude": 25.414203
+    },
+    {
+      "name": "Φάνης Κομματίδης",
+      "latitude": 37.965239,
+      "longitude": 23.644989
+    },
+    {
+      "name": "Φάρλακας",
+      "latitude": 37.072521,
+      "longitude": 22.433895
+    },
+    {
+      "name": "Φίλης Glass",
+      "latitude": 37.94821,
+      "longitude": 23.739317
+    },
+    {
+      "name": "Φίλης Glass",
+      "latitude": 37.949796,
+      "longitude": 23.707149
+    },
+    {
+      "name": "Φαναρτζιδικο",
+      "latitude": 38.883542,
+      "longitude": 22.435599
+    },
+    {
+      "name": "Φανοβαφειο Car Star",
+      "latitude": 40.25755,
+      "longitude": 23.274712
+    },
+    {
+      "name": "Φανοποιία-φανοφαβές",
+      "latitude": 38.002533,
+      "longitude": 23.735408
+    },
+    {
+      "name": "Φανοποιείο",
+      "latitude": 37.575653,
+      "longitude": 25.197071
+    },
+    {
+      "name": "Φανοποιείο \"Λάζαρος\"",
+      "latitude": 41.259458,
+      "longitude": 23.011139
+    },
+    {
+      "name": "Φανοποιείο \"Σάκης\"",
+      "latitude": 40.565812,
+      "longitude": 22.977494
+    },
+    {
+      "name": "Φανοποιείο Δράμαλης",
+      "latitude": 37.956052,
+      "longitude": 23.682008
+    },
+    {
+      "name": "Φανοποιείο Πιτσάβας",
+      "latitude": 40.308364,
+      "longitude": 21.80961
+    },
+    {
+      "name": "Φανοποιείο-Βαφείο Χάμψης",
+      "latitude": 40.780923,
+      "longitude": 22.06296
+    },
+    {
+      "name": "Φανοποιΐα",
+      "latitude": 38.017821,
+      "longitude": 23.801089
+    },
+    {
+      "name": "Φανοποιΐα - Βαφαί - Αφοί Τσάβλοι",
+      "latitude": 37.962036,
+      "longitude": 23.699194
+    },
+    {
+      "name": "Φανοποιΐα Φουντούκας Γιάννης",
+      "latitude": 38.027265,
+      "longitude": 23.747657
+    },
+    {
+      "name": "ΦΑΝΟΠΟΙΙΑ ΑΥΤΟΚΙΝΗΤΩΝ ΘΕΜΗΣ Ε. ΜΑΡΟΥΛΗΣ",
+      "latitude": 37.961921,
+      "longitude": 23.735152
+    },
+    {
+      "name": "ΦΑΝΟΠΟΙΙΑ ΒΑΦΕΣ",
+      "latitude": 37.961462,
+      "longitude": 23.734267
+    },
+    {
+      "name": "ΦΑΝΟΠΟΙΪΑ - ΒΑΦΕΣ ΑΥΤΟΚΙΝΗΤΩΝ ΑΡΗΣ ΓΙΑΛΙΑΣ",
+      "latitude": 37.961094,
+      "longitude": 23.735528
+    },
+    {
+      "name": "ΦΑΝΟΠΟΙΪΑ - ΒΑΦΕΣ ΦΟΥΡΝΟΥ",
+      "latitude": 37.96499,
+      "longitude": 23.733184
+    },
+    {
+      "name": "Φανοποιϊα Αυτοκινήτων - Καλίμπρα - Αγγελίδης",
+      "latitude": 38.044729,
+      "longitude": 23.758479
+    },
+    {
+      "name": "Φανοποιϊα Βαφές φούρνου",
+      "latitude": 38.042441,
+      "longitude": 23.75854
+    },
+    {
+      "name": "ΦΑΝΟΠΟΙΪΑ ΒΑΦΕΣ ΚΑΛΙΜΠΡΑ - Φ. ΣΙΝΑΝΗΣ",
+      "latitude": 37.964813,
+      "longitude": 23.733204
+    },
+    {
+      "name": "Φανοποιϊα Ι. Βασιλάκης",
+      "latitude": 37.963633,
+      "longitude": 23.733924
+    },
+    {
+      "name": "Φανοποιϊα: Δημήτριος Στάικος, Πέτρος Χαραλαμπόπουλος",
+      "latitude": 37.9629,
+      "longitude": 23.73433
+    },
+    {
+      "name": "Φλωρόπουλος",
+      "latitude": 40.663716,
+      "longitude": 22.933186
+    },
+    {
+      "name": "Φουρτούνας FIAT",
+      "latitude": 40.947706,
+      "longitude": 24.449074
+    },
+    {
+      "name": "Φρενοτεχνική",
+      "latitude": 38.028762,
+      "longitude": 23.743086
+    },
+    {
+      "name": "ΦΩΤΕΙΝΟΣ ΕΥΣΤΡΑΤΙΟΣ",
+      "latitude": 38.026488,
+      "longitude": 23.696839
+    },
+    {
+      "name": "Φωτοκεχαγιάς",
+      "latitude": 40.617362,
+      "longitude": 22.969909
+    },
+    {
+      "name": "Χ. ΛΥΓΕΡΟΣ",
+      "latitude": 37.996585,
+      "longitude": 23.747144
+    },
+    {
+      "name": "Χάλκη",
+      "latitude": 39.562616,
+      "longitude": 22.54142
+    },
+    {
+      "name": "Χασάν Φανοποιός",
+      "latitude": 36.398033,
+      "longitude": 28.20223
+    },
+    {
+      "name": "Χασιώτης",
+      "latitude": 40.307735,
+      "longitude": 21.809238
+    },
+    {
+      "name": "Χατζηπαύλου",
+      "latitude": 40.849885,
+      "longitude": 25.893155
+    },
+    {
+      "name": "Χρ. Μούρτος",
+      "latitude": 38.00031,
+      "longitude": 23.787006
+    },
+    {
+      "name": "Χριστοφορίδης",
+      "latitude": 40.670464,
+      "longitude": 22.904514
+    },
+    {
+      "name": "Χρυσοστομίδης",
+      "latitude": 40.264746,
+      "longitude": 21.32986
+    },
+    {
+      "name": "ΧΩΡΑΦΙΟΣ ΧΡΗΣΤΟΣ",
+      "latitude": 36.875783,
+      "longitude": 27.19743
+    },
+    {
+      "name": "Χωριανόπουλος",
+      "latitude": 38.012199,
+      "longitude": 23.745937
+    },
+    {
+      "name": "Шиномонтаж",
+      "latitude": 35.012667,
+      "longitude": 25.736089
+    },
+    {
+      "name": "Шиномонтаж",
+      "latitude": 35.014395,
+      "longitude": 25.736496
+    },
+    {
+      "name": "Шиномонтаж",
+      "latitude": 35.016935,
+      "longitude": 25.74647
+    }
+  ],
+  "meta": {
+    "title": "Συνεργεία αυτοκινήτων στην Ελλάδα - Δωρεάν λήψη",
+    "description": "Συνεργεία επισκευής αυτοκινήτων στην Ελλάδα από δεδομένα OpenStreetMap (shop=car_repair). Όνομα και συντεταγμένες WGS84. Περιέχει 869 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Συνεργεία αυτοκινήτων στην Ελλάδα | ListBase",
+    "seo_description": "Λήψη Συνεργεία αυτοκινήτων στην Ελλάδα — 869 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 869 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

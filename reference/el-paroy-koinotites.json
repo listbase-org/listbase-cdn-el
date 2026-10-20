@@ -1,0 +1,107 @@
+{
+  "id": "el-paroy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Παρου (8)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Παρου (8)",
+  "description": "Οι 8 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Παρου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "310401",
+      "name": "Αντιπαρου",
+      "municipality": "Αντιπαρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312306",
+      "name": "Ναουσης",
+      "municipality": "Παρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312307",
+      "name": "Παρου",
+      "municipality": "Παρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312301",
+      "name": "Αγκαιριας",
+      "municipality": "Παρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312302",
+      "name": "Αρχιλοχου",
+      "municipality": "Παρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312303",
+      "name": "Κωστου",
+      "municipality": "Παρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312304",
+      "name": "Λευκων",
+      "municipality": "Παρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312305",
+      "name": "Μαρπησσης",
+      "municipality": "Παρου",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Παρου (8) - Δωρεάν λήψη",
+    "description": "Οι 8 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Παρου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Παρου (8) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Παρου (8) — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

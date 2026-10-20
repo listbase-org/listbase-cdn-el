@@ -1,0 +1,128 @@
+{
+  "id": "el-karpathoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Καρπαθου (11)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Καρπαθου (11)",
+  "description": "Οι 11 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Καρπαθου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "121204",
+      "name": "Καρπαθου",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121201",
+      "name": "Απεριου",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121202",
+      "name": "Αρκασας",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121203",
+      "name": "Βωλαδας",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121205",
+      "name": "Μενετων",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121206",
+      "name": "Μεσοχωριου",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121207",
+      "name": "Οθους",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121208",
+      "name": "Πυλων",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121209",
+      "name": "Σποων",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122101",
+      "name": "Ολυμπου",
+      "municipality": "Καρπαθου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121301",
+      "name": "Κασου",
+      "municipality": "Κασου",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Καρπαθου (11) - Δωρεάν λήψη",
+    "description": "Οι 11 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Καρπαθου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 11 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Καρπαθου (11) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Καρπαθου (11) — 11 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 11 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

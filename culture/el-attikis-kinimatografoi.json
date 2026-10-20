@@ -1,0 +1,527 @@
+{
+  "id": "el-attikis-kinimatografoi",
+  "name": "Κινηματογράφοι — Περιφέρεια Αττικής",
+  "title": "Κινηματογράφοι — Περιφέρεια Αττικής",
+  "description": "Σημεία κινηματογράφων στην Περιφέρεια Αττικής με ελληνική και αγγλική ονομασία και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-03-04). (Cinemas in Attica with Greek/English names and WGS84 coordinates.)",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 1,
+      "name": "Αθήναιον",
+      "name_en": "Athinaion",
+      "latitude": 37.9859623,
+      "longitude": 23.761325
+    },
+    {
+      "source_id": 2,
+      "name": "Γαλαξίας",
+      "name_en": "",
+      "latitude": 37.9849904,
+      "longitude": 23.7610817
+    },
+    {
+      "source_id": 3,
+      "name": "Ria",
+      "name_en": "",
+      "latitude": 38.0472704,
+      "longitude": 23.9970431
+    },
+    {
+      "source_id": 4,
+      "name": "Miami Hotel",
+      "name_en": "Maiami",
+      "latitude": 38.0466451,
+      "longitude": 23.996453
+    },
+    {
+      "source_id": 5,
+      "name": "Αρκαδία",
+      "name_en": "",
+      "latitude": 37.9567227,
+      "longitude": 23.7628319
+    },
+    {
+      "source_id": 6,
+      "name": "Village @ The Mall Athens",
+      "name_en": "",
+      "latitude": 38.0449245,
+      "longitude": 23.7902486
+    },
+    {
+      "source_id": 7,
+      "name": "Village Cinemas Παγκράτι",
+      "name_en": "",
+      "latitude": 37.9668438,
+      "longitude": 23.7485159
+    },
+    {
+      "source_id": 8,
+      "name": "Σινέ Διάνα",
+      "name_en": "",
+      "latitude": 37.5004654,
+      "longitude": 23.4536725
+    },
+    {
+      "source_id": 9,
+      "name": "Αλεξάνδρα",
+      "name_en": "",
+      "latitude": 37.9557893,
+      "longitude": 23.6967322
+    },
+    {
+      "source_id": 10,
+      "name": "cine ΑΙΓΛΗ",
+      "name_en": "",
+      "latitude": 37.7479383,
+      "longitude": 23.9096452
+    },
+    {
+      "source_id": 11,
+      "name": "Cine Ωρωπός",
+      "name_en": "",
+      "latitude": 38.3206306,
+      "longitude": 23.7901024
+    },
+    {
+      "source_id": 12,
+      "name": "Τρία Αστέρια",
+      "name_en": "",
+      "latitude": 38.049939,
+      "longitude": 23.7642223
+    },
+    {
+      "source_id": 13,
+      "name": "ΔΙΑΝΑ",
+      "name_en": "",
+      "latitude": 38.0573111,
+      "longitude": 23.8033857
+    },
+    {
+      "source_id": 14,
+      "name": "Cinobo Πατησίων",
+      "name_en": "",
+      "latitude": 37.9925435,
+      "longitude": 23.7312761
+    },
+    {
+      "source_id": 15,
+      "name": "Cine Αργυρούπολη",
+      "name_en": "",
+      "latitude": 37.9092095,
+      "longitude": 23.7513752
+    },
+    {
+      "source_id": 16,
+      "name": "Nirvana Cinemax",
+      "name_en": "",
+      "latitude": 37.9868544,
+      "longitude": 23.7582059
+    },
+    {
+      "source_id": 17,
+      "name": "Cine Αμαρυλλίς",
+      "name_en": "",
+      "latitude": 38.0126226,
+      "longitude": 23.821673
+    },
+    {
+      "source_id": 18,
+      "name": "Άνεσις",
+      "name_en": "",
+      "latitude": 37.7467367,
+      "longitude": 23.4293493
+    },
+    {
+      "source_id": 19,
+      "name": "Ακρογιάλι",
+      "name_en": "",
+      "latitude": 37.7403858,
+      "longitude": 23.4303006
+    },
+    {
+      "source_id": 20,
+      "name": "Τιτίνα",
+      "name_en": "Titina",
+      "latitude": 37.7469353,
+      "longitude": 23.429222
+    },
+    {
+      "source_id": 21,
+      "name": "Κινηματογραφική Λέσχη Ύδρας",
+      "name_en": "Hydra Cinema Club",
+      "latitude": 37.3491419,
+      "longitude": 23.4667072
+    },
+    {
+      "source_id": 22,
+      "name": "Αθηνά",
+      "name_en": "",
+      "latitude": 38.0233262,
+      "longitude": 23.7947813
+    },
+    {
+      "source_id": 23,
+      "name": "Παναθήναια",
+      "name_en": "Panathinea",
+      "latitude": 37.9886658,
+      "longitude": 23.7456927
+    },
+    {
+      "source_id": 24,
+      "name": "Σινέ Παρί",
+      "name_en": "",
+      "latitude": 37.9719502,
+      "longitude": 23.7308614
+    },
+    {
+      "source_id": 25,
+      "name": "8 Downtown",
+      "name_en": "",
+      "latitude": 37.9858631,
+      "longitude": 23.7234965
+    },
+    {
+      "source_id": 26,
+      "name": "Μικρόκοσμος",
+      "name_en": "Mikrokosmos",
+      "latitude": 37.962698,
+      "longitude": 23.7240222
+    },
+    {
+      "source_id": 27,
+      "name": "Cinobo Όπερα",
+      "name_en": "",
+      "latitude": 37.9822434,
+      "longitude": 23.7335114
+    },
+    {
+      "source_id": 28,
+      "name": "Άστορ",
+      "name_en": "Astor",
+      "latitude": 37.9795143,
+      "longitude": 23.7327235
+    },
+    {
+      "source_id": 29,
+      "name": "Σπόρτιγκ (χειμερινός-θερινός)",
+      "name_en": "",
+      "latitude": 37.9466482,
+      "longitude": 23.7110304
+    },
+    {
+      "source_id": 30,
+      "name": "Options Γλυφάδα",
+      "name_en": "",
+      "latitude": 37.8610194,
+      "longitude": 23.7527387
+    },
+    {
+      "source_id": 31,
+      "name": "Σινέ Ορφέας",
+      "name_en": "",
+      "latitude": 37.7473431,
+      "longitude": 23.9142289
+    },
+    {
+      "source_id": 32,
+      "name": "Cine Αθηναία",
+      "name_en": "",
+      "latitude": 37.9788899,
+      "longitude": 23.7455308
+    },
+    {
+      "source_id": 33,
+      "name": "Σινέ Άνεσις (Θερινός)",
+      "name_en": "",
+      "latitude": 37.986987,
+      "longitude": 23.7623244
+    },
+    {
+      "source_id": 34,
+      "name": "Σινέ Μάρθα Καραγιάννη",
+      "name_en": "",
+      "latitude": 37.9545679,
+      "longitude": 23.6193885
+    },
+    {
+      "source_id": 35,
+      "name": "Σινέ Μελίνα",
+      "name_en": "",
+      "latitude": 37.9500926,
+      "longitude": 23.6291219
+    },
+    {
+      "source_id": 36,
+      "name": "Φοίβος",
+      "name_en": "",
+      "latitude": 38.0122656,
+      "longitude": 23.6957235
+    },
+    {
+      "source_id": 37,
+      "name": "Ελληνίς Cinemax",
+      "name_en": "",
+      "latitude": 37.9880825,
+      "longitude": 23.7626264
+    },
+    {
+      "source_id": 38,
+      "name": "Studio new star art cinema",
+      "name_en": "",
+      "latitude": 38.0031403,
+      "longitude": 23.7308827
+    },
+    {
+      "source_id": 39,
+      "name": "Λαΐς",
+      "name_en": "",
+      "latitude": 37.9810261,
+      "longitude": 23.7127091
+    },
+    {
+      "source_id": 40,
+      "name": "Cine Σελήνη",
+      "name_en": "",
+      "latitude": 37.9318408,
+      "longitude": 23.532347
+    },
+    {
+      "source_id": 41,
+      "name": "Κασταλία",
+      "name_en": "",
+      "latitude": 38.1412527,
+      "longitude": 23.8618467
+    },
+    {
+      "source_id": 42,
+      "name": "ΒΟΞ",
+      "name_en": "",
+      "latitude": 37.986729,
+      "longitude": 23.7357038
+    },
+    {
+      "source_id": 43,
+      "name": "Ζέα",
+      "name_en": "",
+      "latitude": 37.9364364,
+      "longitude": 23.6452574
+    },
+    {
+      "source_id": 44,
+      "name": "Κηφισιά Cinemax 3",
+      "name_en": "",
+      "latitude": 38.0714976,
+      "longitude": 23.8120211
+    },
+    {
+      "source_id": 45,
+      "name": "Village Cinemas Ρέντη",
+      "name_en": "Village Cinemas Renti",
+      "latitude": 37.9748883,
+      "longitude": 23.6676557
+    },
+    {
+      "source_id": 46,
+      "name": "Δημοτικός Κινηματογράφος Ορφέας",
+      "name_en": "",
+      "latitude": 37.9613577,
+      "longitude": 23.7349459
+    },
+    {
+      "source_id": 47,
+      "name": "Κινηματογράφος Παλάς",
+      "name_en": "Cinema 'Palace'",
+      "latitude": 37.9672431,
+      "longitude": 23.7499175
+    },
+    {
+      "source_id": 48,
+      "name": "Όασις",
+      "name_en": "",
+      "latitude": 37.9681984,
+      "longitude": 23.7478301
+    },
+    {
+      "source_id": 49,
+      "name": "Δαναός",
+      "name_en": "",
+      "latitude": 37.9934118,
+      "longitude": 23.7667029
+    },
+    {
+      "source_id": 50,
+      "name": "Ίρις",
+      "name_en": "",
+      "latitude": 37.9820358,
+      "longitude": 23.733753
+    },
+    {
+      "source_id": 51,
+      "name": "Άστυ",
+      "name_en": "Asti",
+      "latitude": 37.9798195,
+      "longitude": 23.7323559
+    },
+    {
+      "source_id": 52,
+      "name": "Cine Άνοιξη 2+1",
+      "name_en": "",
+      "latitude": 38.0077872,
+      "longitude": 23.6606321
+    },
+    {
+      "source_id": 53,
+      "name": "Cinemarian",
+      "name_en": "",
+      "latitude": 37.9649167,
+      "longitude": 23.7299205
+    },
+    {
+      "source_id": 54,
+      "name": "Τριανόν",
+      "name_en": "",
+      "latitude": 37.7469116,
+      "longitude": 23.9101956
+    },
+    {
+      "source_id": 55,
+      "name": "Ηλέκτρα",
+      "name_en": "",
+      "latitude": 38.0131625,
+      "longitude": 23.7354226
+    },
+    {
+      "source_id": 56,
+      "name": "Φλωρίδα",
+      "name_en": "",
+      "latitude": 38.0709592,
+      "longitude": 23.9939475
+    },
+    {
+      "source_id": 57,
+      "name": "WEST CITY CINEMAS",
+      "name_en": "",
+      "latitude": 38.0126946,
+      "longitude": 23.707198
+    },
+    {
+      "source_id": 58,
+      "name": "Cine Marina",
+      "name_en": "",
+      "latitude": 37.2669793,
+      "longitude": 23.1550468
+    },
+    {
+      "source_id": 59,
+      "name": "Newman Cinema",
+      "name_en": "",
+      "latitude": 37.9928508,
+      "longitude": 23.7681805
+    },
+    {
+      "source_id": 60,
+      "name": "Alex",
+      "name_en": "",
+      "latitude": 37.8860122,
+      "longitude": 24.0056977
+    },
+    {
+      "source_id": 61,
+      "name": "Αθηναϊκόν",
+      "name_en": "",
+      "latitude": 37.9815572,
+      "longitude": 23.7268013
+    },
+    {
+      "source_id": 62,
+      "name": "Athenée",
+      "name_en": "",
+      "latitude": 38.0061392,
+      "longitude": 23.7322401
+    },
+    {
+      "source_id": 63,
+      "name": "Stellar Gastro Cinema",
+      "name_en": "",
+      "latitude": 37.9745927,
+      "longitude": 23.7077568
+    },
+    {
+      "source_id": 64,
+      "name": "Cine Πολεμικό Μουσείο",
+      "name_en": "",
+      "latitude": 37.9749185,
+      "longitude": 23.7454051
+    },
+    {
+      "source_id": 65,
+      "name": "Ελιζέ",
+      "name_en": "",
+      "latitude": 37.9778017,
+      "longitude": 23.7574048
+    },
+    {
+      "source_id": 66,
+      "name": "Αλίκη",
+      "name_en": "",
+      "latitude": 38.1204331,
+      "longitude": 23.857731
+    },
+    {
+      "source_id": 67,
+      "name": "Nirvana Cinemax",
+      "name_en": "",
+      "latitude": 37.9867978,
+      "longitude": 23.7584959
+    },
+    {
+      "source_id": 68,
+      "name": "Σινεάκ",
+      "name_en": "",
+      "latitude": 37.9418929,
+      "longitude": 23.6471222
+    }
+  ],
+  "meta": {
+    "title": "Κινηματογράφοι — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Σημεία κινηματογράφων στην Περιφέρεια Αττικής με ελληνική και αγγλική ονομασία και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-03-04). (Cinemas in Attica with Greek/English names and WGS84 coordinates.) Περιέχει 68 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κινηματογράφοι — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Κινηματογράφοι — Περιφέρεια Αττικής — 68 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 68 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

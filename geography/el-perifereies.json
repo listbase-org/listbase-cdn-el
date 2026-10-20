@@ -1,0 +1,196 @@
+{
+  "id": "el-perifereies",
+  "name": "Περιφέρειες της Ελλάδας",
+  "title": "Περιφέρειες της Ελλάδας",
+  "description": "Οι 13 περιφέρειες της Ελλάδας σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Περιλαμβάνει το επίσημο όνομα, αντιστοιχία NUTS-2, αριθμό περιφερειακών ενοτήτων και αριθμό δήμων.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "code_nuts2",
+      "label": "Code Nuts2",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_units_count",
+      "label": "Regional Units Count",
+      "type": "number"
+    },
+    {
+      "key": "municipalities_count",
+      "label": "Municipalities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "code_nuts2": "EL51",
+      "name": "Αν. Μακεδονιας & Θρακης",
+      "name_native": "Ανατολικής Μακεδονίας και Θράκης",
+      "name_en": "Eastern Macedonia and Thrace",
+      "slug": "anatolikis-makedonias-thrakis",
+      "regional_units_count": 6,
+      "municipalities_count": 22
+    },
+    {
+      "id": 2,
+      "code_nuts2": "EL52",
+      "name": "Κεντρικης Μακεδονιας",
+      "name_native": "Κεντρικής Μακεδονίας",
+      "name_en": "Central Macedonia",
+      "slug": "kentrikis-makedonias",
+      "regional_units_count": 7,
+      "municipalities_count": 38
+    },
+    {
+      "id": 3,
+      "code_nuts2": "EL53",
+      "name": "Δυτικης Μακεδονιας",
+      "name_native": "Δυτικής Μακεδονίας",
+      "name_en": "Western Macedonia",
+      "slug": "dytikis-makedonias",
+      "regional_units_count": 4,
+      "municipalities_count": 12
+    },
+    {
+      "id": 4,
+      "code_nuts2": "EL54",
+      "name": "Ηπειρου",
+      "name_native": "Ηπείρου",
+      "name_en": "Epirus",
+      "slug": "ipeirou",
+      "regional_units_count": 4,
+      "municipalities_count": 18
+    },
+    {
+      "id": 5,
+      "code_nuts2": "EL61",
+      "name": "Θεσσαλιας",
+      "name_native": "Θεσσαλίας",
+      "name_en": "Thessaly",
+      "slug": "thessalias",
+      "regional_units_count": 5,
+      "municipalities_count": 25
+    },
+    {
+      "id": 6,
+      "code_nuts2": "EL62",
+      "name": "Ιονιων Νησων",
+      "name_native": "Ιονίων Νήσων",
+      "name_en": "Ionian Islands",
+      "slug": "ionion-nison",
+      "regional_units_count": 5,
+      "municipalities_count": 7
+    },
+    {
+      "id": 7,
+      "code_nuts2": "EL63",
+      "name": "Δυτικης Ελλαδας",
+      "name_native": "Δυτικής Ελλάδας",
+      "name_en": "Western Greece",
+      "slug": "dytikis-elladas",
+      "regional_units_count": 3,
+      "municipalities_count": 19
+    },
+    {
+      "id": 8,
+      "code_nuts2": "EL64",
+      "name": "Στερεας Ελλαδας",
+      "name_native": "Στερεάς Ελλάδας",
+      "name_en": "Central Greece",
+      "slug": "stereas-elladas",
+      "regional_units_count": 5,
+      "municipalities_count": 25
+    },
+    {
+      "id": 9,
+      "code_nuts2": "EL30",
+      "name": "Αττικης",
+      "name_native": "Αττικής",
+      "name_en": "Attica",
+      "slug": "attikis",
+      "regional_units_count": 8,
+      "municipalities_count": 66
+    },
+    {
+      "id": 10,
+      "code_nuts2": "EL65",
+      "name": "Πελοποννησου",
+      "name_native": "Πελοποννήσου",
+      "name_en": "Peloponnese",
+      "slug": "peloponnisou",
+      "regional_units_count": 5,
+      "municipalities_count": 26
+    },
+    {
+      "id": 11,
+      "code_nuts2": "EL41",
+      "name": "Βορειου Αιγαιου",
+      "name_native": "Βορείου Αιγαίου",
+      "name_en": "North Aegean",
+      "slug": "voreiou-aigaiou",
+      "regional_units_count": 5,
+      "municipalities_count": 9
+    },
+    {
+      "id": 12,
+      "code_nuts2": "EL42",
+      "name": "Νοτιου Αιγαιου",
+      "name_native": "Νοτίου Αιγαίου",
+      "name_en": "South Aegean",
+      "slug": "notiou-aigaiou",
+      "regional_units_count": 13,
+      "municipalities_count": 34
+    },
+    {
+      "id": 13,
+      "code_nuts2": "EL43",
+      "name": "Κρητης",
+      "name_native": "Κρήτης",
+      "name_en": "Crete",
+      "slug": "kritis",
+      "regional_units_count": 4,
+      "municipalities_count": 24
+    }
+  ],
+  "meta": {
+    "title": "Περιφέρειες της Ελλάδας - Δωρεάν λήψη",
+    "description": "Οι 13 περιφέρειες της Ελλάδας σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Περιλαμβάνει το επίσημο όνομα, αντιστοιχία NUTS-2, αριθμό περιφερειακών ενοτήτων και αριθμό δήμων. Περιέχει 13 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Περιφέρειες της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Περιφέρειες της Ελλάδας — 13 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 13 εγγραφές / 8 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

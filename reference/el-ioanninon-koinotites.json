@@ -1,0 +1,2305 @@
+{
+  "id": "el-ioanninon-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Ιωαννινων (322)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Ιωαννινων (322)",
+  "description": "Οι 322 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ιωαννινων (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 322,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "220701",
+      "name": "Βαθυπεδου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221801",
+      "name": "Καλαρρυτων",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222001",
+      "name": "Αετορραχης",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222002",
+      "name": "Ελληνικου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222003",
+      "name": "Καλεντζιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222004",
+      "name": "Κοριτιανης",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222005",
+      "name": "Μονολιθιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222006",
+      "name": "Πηγαδιων",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222007",
+      "name": "Πλαισιων Μαλακασιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222008",
+      "name": "Πλατανουσσης",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222009",
+      "name": "Φορτοσιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222501",
+      "name": "Ματσουκιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223501",
+      "name": "Αμπελοχωριου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223502",
+      "name": "Πραμαντων",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223503",
+      "name": "Ραφταναιων",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223801",
+      "name": "Συρρακου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223901",
+      "name": "Βαπτιστου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223902",
+      "name": "Κεδρου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223903",
+      "name": "Μιχαλιτσιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223904",
+      "name": "Παλαιοχωριου Σιρακου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223905",
+      "name": "Πετροβουνιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223906",
+      "name": "Ποτιστικων",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223907",
+      "name": "Προσηλιου",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223908",
+      "name": "Χουλιαραδων",
+      "municipality": "Βορειων Τζουμερκων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220101",
+      "name": "Αβγου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220102",
+      "name": "Αγιας Τριαδος",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220103",
+      "name": "Βαρλααμ",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220104",
+      "name": "Βουλιαστης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220105",
+      "name": "Επισκοπικου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220106",
+      "name": "Θεριακησιου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220107",
+      "name": "Κοπανης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220108",
+      "name": "Κουκλεσιου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220109",
+      "name": "Κρυφοβου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220110",
+      "name": "Μελιας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220111",
+      "name": "Μουσιωτιτσης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220112",
+      "name": "Μυροδαφνης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220113",
+      "name": "Περδικας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220114",
+      "name": "Πεστων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220115",
+      "name": "Ραβενιων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220116",
+      "name": "Σερβιανων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220117",
+      "name": "Σκλιβανης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220118",
+      "name": "Τεροβου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221201",
+      "name": "Αγιας Αναστασιας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221202",
+      "name": "Δραγοψας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221203",
+      "name": "Δραμεσιων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221204",
+      "name": "Δωδωνης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221205",
+      "name": "Κωστανιανης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221206",
+      "name": "Μαντειου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221207",
+      "name": "Μελιγγων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221208",
+      "name": "Πολυγυρου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221209",
+      "name": "Ψηνας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221001",
+      "name": "Αλεποχωριου Μποτσαρη",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221002",
+      "name": "Αρδοσεως",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221003",
+      "name": "Αχλαδεων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221004",
+      "name": "Βαργιαδων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221005",
+      "name": "Γεωργανων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221006",
+      "name": "Δερβιζιανων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221007",
+      "name": "Ελαφου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221008",
+      "name": "Μπεστιας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221009",
+      "name": "Παλαιοχωριου Μποτσαρη",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221010",
+      "name": "Πεντολακκου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221011",
+      "name": "Ρωμανου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221012",
+      "name": "Σεριζιανων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221013",
+      "name": "Σιστρουνιου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221014",
+      "name": "Σμυρτιας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223701",
+      "name": "Αγιου Ανδρεου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223702",
+      "name": "Αγιου Νικολαου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223703",
+      "name": "Ανθοχωριου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223704",
+      "name": "Αρτοπουλας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223705",
+      "name": "Ασπροχωριου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223706",
+      "name": "Βαλανιδιας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223707",
+      "name": "Ζωτικου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223708",
+      "name": "Καταμαχης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223709",
+      "name": "Κερασεας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223710",
+      "name": "Κουμαριας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223711",
+      "name": "Λιππας",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223712",
+      "name": "Μπαουσιων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223713",
+      "name": "Παρδαλιτσης",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223714",
+      "name": "Πλατανιων",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223715",
+      "name": "Σενικου",
+      "municipality": "Δωδωνης",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220401",
+      "name": "Αγια Παρασκευη",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220402",
+      "name": "Ανθρακιτη",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220403",
+      "name": "Γρεβενιτιου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220404",
+      "name": "Δεματιου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220405",
+      "name": "Δολιανης (Νεου Αμαρουσιου)",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220406",
+      "name": "Ελατοχωριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220407",
+      "name": "Ιτεας",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220408",
+      "name": "Καβαλλαριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220409",
+      "name": "Καρυων",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220410",
+      "name": "Καστανωνος Ζαγοριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220411",
+      "name": "Μακρινου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220412",
+      "name": "Πετρα",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220413",
+      "name": "Ποταμια",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220414",
+      "name": "Τριστενου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220415",
+      "name": "Φλαμπουραριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220801",
+      "name": "Βοβουσης",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222101",
+      "name": "Αγιου Μηνα",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222102",
+      "name": "Ανω Πεδινων",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222103",
+      "name": "Αριστης",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222104",
+      "name": "Ασπραγγελων",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222105",
+      "name": "Βιτσης",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222106",
+      "name": "Δικορυφου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222107",
+      "name": "Διλοφου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222108",
+      "name": "Διποταμου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222109",
+      "name": "Ελατης",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222110",
+      "name": "Ελαφοτοπου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222111",
+      "name": "Καλουτα",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222112",
+      "name": "Κατω Πεδινων",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222113",
+      "name": "Μανασση",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222114",
+      "name": "Μεσοβουνιου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222115",
+      "name": "Μονοδενδριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223201",
+      "name": "Παπιγκου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224001",
+      "name": "Βραδετου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224002",
+      "name": "Βρυσοχωριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224003",
+      "name": "Ηλιοχωριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224004",
+      "name": "Καπεσοβου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224005",
+      "name": "Κηπων",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224006",
+      "name": "Κουκκουλιου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224007",
+      "name": "Λαιστης",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224008",
+      "name": "Λεπτοκαρυας Ζαγοριου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224009",
+      "name": "Νεγαδων",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224010",
+      "name": "Σκαμνελλιου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224011",
+      "name": "Τσεπελοβου",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224012",
+      "name": "Φραγκαδων",
+      "municipality": "Ζαγοριου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221401",
+      "name": "Ασφακας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221402",
+      "name": "Βαταταδων",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221403",
+      "name": "Βλαχατανου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221404",
+      "name": "Γαβρισιων",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221406",
+      "name": "Λιγοψας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221405",
+      "name": "Μεταμορφωσης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221407",
+      "name": "Πετσαλιου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221501",
+      "name": "Βασιλοπουλου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221502",
+      "name": "Δελβινακοπουλου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221504",
+      "name": "Κληματιας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221503",
+      "name": "Κοκκινοχωματος",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221505",
+      "name": "Λευκοθεας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221506",
+      "name": "Παλιουρης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221507",
+      "name": "Ραϊκου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221508",
+      "name": "Σουλοπουλου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221601",
+      "name": "Δαφνοφυτου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221602",
+      "name": "Ζιτσης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221603",
+      "name": "Καριτσης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221604",
+      "name": "Λιθινου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221605",
+      "name": "Πρωτοπαππα",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222801",
+      "name": "Αετοπετρας Δωδωνης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222802",
+      "name": "Βερενικης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222803",
+      "name": "Βουτσαρα",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222804",
+      "name": "Βροσινας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222805",
+      "name": "Βρυσουλας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222806",
+      "name": "Γιουργανιστας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222807",
+      "name": "Γκριμποβου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222808",
+      "name": "Γρανιτσης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222809",
+      "name": "Γρανιτσοπουλας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222810",
+      "name": "Δεσποτικου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222811",
+      "name": "Δοβλα",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222812",
+      "name": "Εκκλησοχωριου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222813",
+      "name": "Ζαλογγου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222814",
+      "name": "Καλοχωριου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222815",
+      "name": "Κουρεντων",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222816",
+      "name": "Πολυδωρου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222817",
+      "name": "Ραδοβιζιου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222818",
+      "name": "Ριζου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222819",
+      "name": "Φωτεινου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222820",
+      "name": "Χινκας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223307",
+      "name": "Ελεουσης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223301",
+      "name": "Αγιου Ιωαννου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223302",
+      "name": "Αναργυρων",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223303",
+      "name": "Ανω Λαψιστης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223304",
+      "name": "Βαγενιτιου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223305",
+      "name": "Βουνοπλαγιας",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223306",
+      "name": "Γραμμενου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223308",
+      "name": "Ζωοδοχου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223309",
+      "name": "Κατω Λαψιστης",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223311",
+      "name": "Λιγγου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223310",
+      "name": "Λοφισκου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223312",
+      "name": "Μεγαλου Γαρδικιου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223313",
+      "name": "Νεοχωριου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223314",
+      "name": "Περατη",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223315",
+      "name": "Πετραλωνων",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223316",
+      "name": "Πολυλοφου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223317",
+      "name": "Ροδοτοπιου",
+      "municipality": "Ζιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220301",
+      "name": "Ανατολης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220302",
+      "name": "Μπαφρας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220303",
+      "name": "Νεοκαισαρειας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221702",
+      "name": "Ιωαννιτων",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221703",
+      "name": "Μαρμαρων",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221705",
+      "name": "Σταυρακιου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221701",
+      "name": "Εξοχη",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221704",
+      "name": "Νεοχωροπουλου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222907",
+      "name": "Πεδινης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222901",
+      "name": "Αμπελειας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222902",
+      "name": "Ασβεστοχωριου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222903",
+      "name": "Κοντσικας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222904",
+      "name": "Κοσμηρας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222905",
+      "name": "Μανολιασης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222906",
+      "name": "Μπιζανιου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223001",
+      "name": "Νησου Ιωαννινων",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223107",
+      "name": "Κατσικα",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223101",
+      "name": "Ανατολικης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223102",
+      "name": "Βασιλικης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223103",
+      "name": "Δαφνουλας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223104",
+      "name": "Δροσοχωριου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223105",
+      "name": "Ηλιοκαλης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223106",
+      "name": "Καστριτσης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223108",
+      "name": "Κουτσελιου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223109",
+      "name": "Κραψης",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223110",
+      "name": "Λογγαδων",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223111",
+      "name": "Μουζακαιων",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223112",
+      "name": "Πλατανιας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223113",
+      "name": "Πλατανου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223114",
+      "name": "Χαροκοπιου(Χαροκοπειου)",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223407",
+      "name": "Περαμα",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223401",
+      "name": "Αμφιθεας ",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223402",
+      "name": "Κρανουλας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223403",
+      "name": "Κρυας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223404",
+      "name": "Κρυοβρυση",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223405",
+      "name": "Λιγκιαδων",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223406",
+      "name": "Μαζιας",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223408",
+      "name": "Περιβλεπτου",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223409",
+      "name": "Σποθων",
+      "municipality": "Ιωαννιτων",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220201",
+      "name": "Αετομηλιτσης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221101",
+      "name": "Διστρατου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222214",
+      "name": "Κονιτσης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222201",
+      "name": "Αγιας Βαρβαρας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222202",
+      "name": "Αγιας Παρασκευης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222203",
+      "name": "Αετοπετρας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222204",
+      "name": "Αηδονοχωριου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222205",
+      "name": "Αμαραντου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222206",
+      "name": "Αρματων",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222207",
+      "name": "Γαναδιου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222208",
+      "name": "Ελευθερου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222209",
+      "name": "Εξοχης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222210",
+      "name": "Ηλιορραχης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222211",
+      "name": "Καβασιλων",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222212",
+      "name": "Καλλιθεας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222213",
+      "name": "Κλειδωνιας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222215",
+      "name": "Μαζιου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222216",
+      "name": "Μελισσοπετρας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222217",
+      "name": "Μολιστης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222218",
+      "name": "Μολυβδοσκεπαστου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222219",
+      "name": "Μοναστηριου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222220",
+      "name": "Νικανορος",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222221",
+      "name": "Παδων",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222222",
+      "name": "Παλαιοσελλιου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222223",
+      "name": "Πηγης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222224",
+      "name": "Πουρνιας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222225",
+      "name": "Πυργου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222401",
+      "name": "Ασημοχωριου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222402",
+      "name": "Βουρμπιανης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222403",
+      "name": "Γοργοποταμου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222404",
+      "name": "Δροσοπηγης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222405",
+      "name": "Καστανεας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222406",
+      "name": "Κεφαλοχωριου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222407",
+      "name": "Λαγκαδας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222408",
+      "name": "Οξυας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222409",
+      "name": "Πλαγιας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222410",
+      "name": "Πληκατιου",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222411",
+      "name": "Πυρσογιαννης",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222412",
+      "name": "Χιοναδων",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "224101",
+      "name": "Φουρκας",
+      "municipality": "Κονιτσας",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221301",
+      "name": "Μεγαλης Γοτιστας",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221302",
+      "name": "Μεγαλου Περιστεριου",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221303",
+      "name": "Μικρας Γοτιστας",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221304",
+      "name": "Μικρου Περιστεριου",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221305",
+      "name": "Σιτσαινα",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221306",
+      "name": "Χρυσοβιτσης",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222604",
+      "name": "Μετσοβου",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222601",
+      "name": "Ανηλιου",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222602",
+      "name": "Ανθοχωριου",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222603",
+      "name": "Βοτονοσιου",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222701",
+      "name": "Μηλεας",
+      "municipality": "Μετσοβου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220501",
+      "name": "Αρετης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220502",
+      "name": "Βροντισμενης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220503",
+      "name": "Ιερομνημης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220504",
+      "name": "Καταρρακτου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220505",
+      "name": "Κουκλιων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220506",
+      "name": "Μαζαρακιου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220507",
+      "name": "Μαυρονορους",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220508",
+      "name": "Παρακαλαμου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220509",
+      "name": "Ρεπετιστης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220510",
+      "name": "Ριαχοβου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220511",
+      "name": "Σιταριας",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220601",
+      "name": "Αγιου Κοσμα",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220602",
+      "name": "Βασιλικου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220603",
+      "name": "Κακολακκου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220604",
+      "name": "Κατω Μεροπης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220605",
+      "name": "Κεφαλοβρυσου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220606",
+      "name": "Μεροπης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220607",
+      "name": "Παλαιοπυργου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220608",
+      "name": "Ρουψιας",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220609",
+      "name": "Ωραιοκαστρου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220901",
+      "name": "Αγιας Μαρινης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220902",
+      "name": "Αργυροχωριου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220903",
+      "name": "Βησσανης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220904",
+      "name": "Δελβινακιου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220905",
+      "name": "Καστανιανης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220906",
+      "name": "Κερασοβου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220907",
+      "name": "Κρυονεριου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220908",
+      "name": "Κτισματων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220909",
+      "name": "Λιμνης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220910",
+      "name": "Μαυροπουλου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220911",
+      "name": "Ορεινου Ξηροβαλτου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220912",
+      "name": "Περιστεριου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220913",
+      "name": "Ποντικατων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220914",
+      "name": "Στρατινιστης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220915",
+      "name": "Τεριαχιου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220916",
+      "name": "Φαραγγιου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "220917",
+      "name": "Χαραυγης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221901",
+      "name": "Ανω Ραβενιων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221902",
+      "name": "Γεροπλατανου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221903",
+      "name": "Δολιανων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221904",
+      "name": "Καλπακιου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221905",
+      "name": "Κατω Ραβενιων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221906",
+      "name": "Μαυροβουνιου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221907",
+      "name": "Νεγραδων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "221908",
+      "name": "Χρυσορραχης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222301",
+      "name": "Διμοκοριου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "222302",
+      "name": "Λαβδανης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223601",
+      "name": "Δολου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223602",
+      "name": "Δρυμαδων",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223603",
+      "name": "Πωγωνιανης",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "223604",
+      "name": "Σταυροσκιαδιου",
+      "municipality": "Πωγωνιου",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Ιωαννινων (322) - Δωρεάν λήψη",
+    "description": "Οι 322 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ιωαννινων (Περιφέρεια Ηπειρου) σύμφωνα με τον Καλλικράτη. Περιέχει 322 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Ιωαννινων (322) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Ιωαννινων (322) — 322 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 322 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

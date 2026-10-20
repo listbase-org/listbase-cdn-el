@@ -1,0 +1,6 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LG55","","Triodhon Airport","triodhon-airport","Triodhon","Περιφέρεια Πελοποννήσου","Peloponnese","peloponnisou","Peloponnese Region","GR","36","37.0941009521","21.9904003143","Europe/Athens","false"
+"LGHL","PKH","Porto Cheli Airport","porto-cheli-airport","Porto Cheli","Περιφέρεια Πελοποννήσου","Peloponnese","peloponnisou","Peloponnese Region","GR","69","37.2975006104","23.1478004456","Europe/Athens","true"
+"LGKL","KLX","Kalamata Airport","kalamata-airport","Kalamata","Περιφέρεια Πελοποννήσου","Peloponnese","peloponnisou","Peloponnese Region","GR","26","37.0682983398","22.0254993439","Europe/Athens","true"
+"LGSP","SPJ","Sparti Airport","sparti-airport","Sparti","Περιφέρεια Πελοποννήσου","Peloponnese","peloponnisou","Peloponnese Region","GR","500","36.9738998413","22.5263004303","Europe/Athens","true"
+"LGTP","","Tripolis Airport","tripolis-airport","Tripoli","Περιφέρεια Πελοποννήσου","Peloponnese","peloponnisou","Peloponnese Region","GR","2113","37.5306015015","22.4036006927","Europe/Athens","false"

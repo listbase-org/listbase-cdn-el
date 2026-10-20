@@ -1,0 +1,128 @@
+{
+  "id": "el-ipeirou-ethnikoi-drymoi",
+  "name": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ηπείρου",
+  "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ηπείρου",
+  "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Ηπείρου. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Ηπείρου.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q24953273",
+      "name_el": "Εθνικό Πάρκο υγροτόπων Αμβρακικού",
+      "name_en": "Amvrakikos Wetlands National Park",
+      "latitude": 39.1061,
+      "longitude": 20.7971,
+      "established_year": "",
+      "area_ha": 287,
+      "region": "Περιφέρεια Ηπείρου",
+      "regional_unit": "Περιφερειακή ενότητα Άρτας",
+      "municipality": "Δήμος Αρταίων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A0%CE%AC%CF%81%CE%BA%CE%BF_%CF%85%CE%B3%CF%81%CE%BF%CF%84%CF%8C%CF%80%CF%89%CE%BD_%CE%91%CE%BC%CE%B2%CF%81%CE%B1%CE%BA%CE%B9%CE%BA%CE%BF%CF%8D"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q376436",
+      "name_el": "Εθνικός Δρυμός Βίκου-Αώου",
+      "name_en": "Vikos–Aoös National Park",
+      "latitude": 39.924722,
+      "longitude": 20.761944,
+      "established_year": 1973,
+      "area_ha": 126,
+      "region": "Περιφέρεια Ηπείρου",
+      "regional_unit": "",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8C%CF%82_%CE%92%CE%AF%CE%BA%CE%BF%CF%85-%CE%91%CF%8E%CE%BF%CF%85"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1989158",
+      "name_el": "Εθνικός Δρυμός Πίνδου",
+      "name_en": "Pindus National Park",
+      "latitude": 39.9,
+      "longitude": 21.116667,
+      "established_year": 2005,
+      "area_ha": 1462.59,
+      "region": "Περιφέρεια Ηπείρου",
+      "regional_unit": "",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8C%CF%82_%CE%A0%CE%AF%CE%BD%CE%B4%CE%BF%CF%85"
+    }
+  ],
+  "meta": {
+    "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ηπείρου - Δωρεάν λήψη",
+    "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Ηπείρου. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Ηπείρου.) Περιέχει 3 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ηπείρου | ListBase",
+    "seo_description": "Λήψη Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Ηπείρου — 3 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 3 εγγραφές / 12 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,624 @@
+{
+  "id": "el-athina-stathmoi-metro",
+  "name": "Σταθμοί Μετρό Αθήνας — Γραμμές 1, 2, 3",
+  "title": "Σταθμοί Μετρό Αθήνας — Γραμμές 1, 2, 3",
+  "description": "Οι σταθμοί του Μετρό της Αθήνας (γραμμές 1, 2 και 3) με ελληνική και αγγλική ονομασία, αριθμό γραμμής και συντεταγμένες WGS84. Ένα record ανά ζεύγος σταθμού-γραμμής (οι σταθμοί μετεπιβίβασης εμφανίζονται μία φορά ανά γραμμή): 71 ζεύγη / 66 μοναδικοί σταθμοί. Περιλαμβάνει την επέκταση της γραμμής 3 προς Πειραιά (2022). Πηγές: OSM, ΣΤΑΣΥ, Ελληνικό Μετρό μέσω Athens GIS Repository (snapshot 2025-06-23). (Athens Metro stations, lines 1–3; one record per station-line pair.)",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 71,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "line",
+      "label": "Line",
+      "type": "number"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 1,
+      "name": "ΗΡΑΚΛΕΙΟ",
+      "name_en": "IRAKLIO",
+      "line": 1,
+      "latitude": 38.0462819,
+      "longitude": 23.7660566
+    },
+    {
+      "source_id": 2,
+      "name": "ΕΙΡΗΝΗ",
+      "name_en": "IRINI",
+      "line": 1,
+      "latitude": 38.0433753,
+      "longitude": 23.7833881
+    },
+    {
+      "source_id": 3,
+      "name": "ΝΕΡΑΝΤΖΙΩΤΙΣΣΑ",
+      "name_en": "NERANTZIOTISSA",
+      "line": 1,
+      "latitude": 38.0451784,
+      "longitude": 23.79298
+    },
+    {
+      "source_id": 4,
+      "name": "ΝΕΑ ΙΩΝΙΑ",
+      "name_en": "NEA IONIA",
+      "line": 1,
+      "latitude": 38.0415146,
+      "longitude": 23.7547865
+    },
+    {
+      "source_id": 5,
+      "name": "ΠΕΥΚΑΚΙΑ",
+      "name_en": "PEFKAKIA",
+      "line": 1,
+      "latitude": 38.037156,
+      "longitude": 23.7501342
+    },
+    {
+      "source_id": 6,
+      "name": "ΠΕΡΙΣΣΟΣ",
+      "name_en": "PERISSOS",
+      "line": 1,
+      "latitude": 38.032915,
+      "longitude": 23.7447489
+    },
+    {
+      "source_id": 7,
+      "name": "ΑΝΩ ΠΑΤΗΣΙΑ",
+      "name_en": "ANO PATISSIA",
+      "line": 1,
+      "latitude": 38.0238295,
+      "longitude": 23.735974
+    },
+    {
+      "source_id": 8,
+      "name": "ΑΓΙΟΣ ΕΛΕΥΘΕΡΙΟ",
+      "name_en": "AGHIOS ELEFTHERIOS",
+      "line": 1,
+      "latitude": 38.0199134,
+      "longitude": 23.7316491
+    },
+    {
+      "source_id": 9,
+      "name": "ΚΑΤΩ ΠΑΤΗΣΙΑ",
+      "name_en": "KATO PATISSIA",
+      "line": 1,
+      "latitude": 38.0119247,
+      "longitude": 23.728624
+    },
+    {
+      "source_id": 10,
+      "name": "ΤΑΥΡΟΣ",
+      "name_en": "TAVROS",
+      "line": 1,
+      "latitude": 37.9624336,
+      "longitude": 23.7032113
+    },
+    {
+      "source_id": 11,
+      "name": "ΚΑΛΛΙΘΕΑ",
+      "name_en": "KALITHEA",
+      "line": 1,
+      "latitude": 37.9604521,
+      "longitude": 23.6969901
+    },
+    {
+      "source_id": 12,
+      "name": "ΜΟΣΧΑΤΟ",
+      "name_en": "MOSCHATO",
+      "line": 1,
+      "latitude": 37.9552774,
+      "longitude": 23.6803621
+    },
+    {
+      "source_id": 13,
+      "name": "ΦΑΛΗΡΟ",
+      "name_en": "FALIRO",
+      "line": 1,
+      "latitude": 37.9450178,
+      "longitude": 23.6651359
+    },
+    {
+      "source_id": 14,
+      "name": "ΘΗΣΕΙΟ",
+      "name_en": "THISSIO",
+      "line": 1,
+      "latitude": 37.9768556,
+      "longitude": 23.7201194
+    },
+    {
+      "source_id": 15,
+      "name": "ΜΟΝΑΣΤΗΡΑΚΙ",
+      "name_en": "MONASTIRAKI",
+      "line": 1,
+      "latitude": 37.9761161,
+      "longitude": 23.7254187
+    },
+    {
+      "source_id": 16,
+      "name": "ΠΕΤΡΑΛΩΝΑ",
+      "name_en": "PETRALONA",
+      "line": 1,
+      "latitude": 37.9684929,
+      "longitude": 23.7090543
+    },
+    {
+      "source_id": 17,
+      "name": "ΟΜΟΝΟΙΑ",
+      "name_en": "OMONIA",
+      "line": 1,
+      "latitude": 37.98424,
+      "longitude": 23.7279344
+    },
+    {
+      "source_id": 18,
+      "name": "ΒΙΚΤΩΡΙΑ",
+      "name_en": "VICTORIA",
+      "line": 1,
+      "latitude": 37.9930685,
+      "longitude": 23.730245
+    },
+    {
+      "source_id": 19,
+      "name": "ΜΑΡΟΥΣΙ",
+      "name_en": "MAROUSSI",
+      "line": 1,
+      "latitude": 38.0562568,
+      "longitude": 23.8049246
+    },
+    {
+      "source_id": 20,
+      "name": "ΚΑΤ",
+      "name_en": "KAT",
+      "line": 1,
+      "latitude": 38.0659986,
+      "longitude": 23.8040964
+    },
+    {
+      "source_id": 21,
+      "name": "ΚΟΡΩΠΙ",
+      "name_en": "KOROPI",
+      "line": 3,
+      "latitude": 37.9132167,
+      "longitude": 23.8957268
+    },
+    {
+      "source_id": 22,
+      "name": "ΠΑΛΛΗΝΗ",
+      "name_en": "PALLINI",
+      "line": 3,
+      "latitude": 38.0057327,
+      "longitude": 23.8696788
+    },
+    {
+      "source_id": 23,
+      "name": "ΠΑΙΑΝΙΑ-ΚΑΝΤΖΑ",
+      "name_en": "PEANIA-KANTZA",
+      "line": 3,
+      "latitude": 37.9845423,
+      "longitude": 23.8700951
+    },
+    {
+      "source_id": 24,
+      "name": "ΜΟΝΑΣΤΗΡΑΚΙ",
+      "name_en": "MONASTIRAKI",
+      "line": 3,
+      "latitude": 37.9767575,
+      "longitude": 23.7257651
+    },
+    {
+      "source_id": 25,
+      "name": "ΣΥΝΤΑΓΜΑ",
+      "name_en": "SYNTAGMA",
+      "line": 3,
+      "latitude": 37.9748734,
+      "longitude": 23.7355711
+    },
+    {
+      "source_id": 26,
+      "name": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+      "name_en": "AGHIOS NIKOLAOS",
+      "line": 1,
+      "latitude": 38.006923,
+      "longitude": 23.727648
+    },
+    {
+      "source_id": 27,
+      "name": "ΑΤΤΙΚΗ",
+      "name_en": "ATTIKI",
+      "line": 1,
+      "latitude": 37.9995293,
+      "longitude": 23.7228229
+    },
+    {
+      "source_id": 28,
+      "name": "ΑΕΡΟΔΡΟΜΙΟ",
+      "name_en": "ATHENS INTERNATIONAL AIRPORT",
+      "line": 3,
+      "latitude": 37.9368813,
+      "longitude": 23.9447336
+    },
+    {
+      "source_id": 29,
+      "name": "ΑΚΡΟΠΟΛΗ",
+      "name_en": "ACROPOLI",
+      "line": 2,
+      "latitude": 37.968859,
+      "longitude": 23.7295551
+    },
+    {
+      "source_id": 30,
+      "name": "ΣΥΓΓΡΟΥ-ΦΙΞ",
+      "name_en": "SYGROU-FIX",
+      "line": 2,
+      "latitude": 37.9646366,
+      "longitude": 23.7268038
+    },
+    {
+      "source_id": 31,
+      "name": "ΝΕΟΣ ΚΟΣΜΟΣ",
+      "name_en": "NEOS KOSMOS",
+      "line": 2,
+      "latitude": 37.9580172,
+      "longitude": 23.7279516
+    },
+    {
+      "source_id": 32,
+      "name": "ΑΓΙΟΣ ΙΩΑΝΝΗΣ",
+      "name_en": "AGHIOS IOANNIS",
+      "line": 2,
+      "latitude": 37.9564161,
+      "longitude": 23.7346772
+    },
+    {
+      "source_id": 33,
+      "name": "ΠΑΝΕΠΙΣΤΗΜΙΟ",
+      "name_en": "PANEPISTIMIO",
+      "line": 2,
+      "latitude": 37.9803647,
+      "longitude": 23.733036
+    },
+    {
+      "source_id": 34,
+      "name": "ΟΜΟΝΟΙΑ",
+      "name_en": "OMONIA",
+      "line": 2,
+      "latitude": 37.9840848,
+      "longitude": 23.7279892
+    },
+    {
+      "source_id": 35,
+      "name": "ΕΥΑΓΓΕΛΙΣΜΟΣ",
+      "name_en": "EVANGELISMOS",
+      "line": 3,
+      "latitude": 37.9761107,
+      "longitude": 23.7471092
+    },
+    {
+      "source_id": 36,
+      "name": "ΜΕΓΑΡΟ ΜΟΥΣΙΚΗΣ",
+      "name_en": "MEGARO MOUSSIKIS",
+      "line": 3,
+      "latitude": 37.9790211,
+      "longitude": 23.7530234
+    },
+    {
+      "source_id": 37,
+      "name": "ΑΜΠΕΛΟΚΗΠΟΙ",
+      "name_en": "AMBELOKIPI",
+      "line": 3,
+      "latitude": 37.9871894,
+      "longitude": 23.7576995
+    },
+    {
+      "source_id": 38,
+      "name": "ΠΑΝΟΡΜΟΥ",
+      "name_en": "PANORMOU",
+      "line": 3,
+      "latitude": 37.993227,
+      "longitude": 23.7635722
+    },
+    {
+      "source_id": 39,
+      "name": "ΚΑΤΕΧΑΚΗ",
+      "name_en": "KATEHAKI",
+      "line": 3,
+      "latitude": 37.9937613,
+      "longitude": 23.7767343
+    },
+    {
+      "source_id": 40,
+      "name": "ΕΛΑΙΩΝΑΣ",
+      "name_en": "ELEONAS",
+      "line": 3,
+      "latitude": 37.9876715,
+      "longitude": 23.6936787
+    },
+    {
+      "source_id": 41,
+      "name": "ΚΕΡΑΜΕΙΚΟΣ",
+      "name_en": "KERAMIKOS",
+      "line": 3,
+      "latitude": 37.9787444,
+      "longitude": 23.7110078
+    },
+    {
+      "source_id": 42,
+      "name": "ΑΙΓΑΛΕΩ",
+      "name_en": "EGALEO",
+      "line": 3,
+      "latitude": 37.9914947,
+      "longitude": 23.6818443
+    },
+    {
+      "source_id": 43,
+      "name": "ΑΓΙΑ ΜΑΡΙΝΑ",
+      "name_en": "AGHIA MARINA",
+      "line": 3,
+      "latitude": 37.9969022,
+      "longitude": 23.6673011
+    },
+    {
+      "source_id": 44,
+      "name": "ΠΕΙΡΑΙΑΣ",
+      "name_en": "PIRAEUS",
+      "line": 1,
+      "latitude": 37.9481084,
+      "longitude": 23.6432487
+    },
+    {
+      "source_id": 45,
+      "name": "ΣΤ.ΛΑΡΙΣΗΣ",
+      "name_en": "ST.LARISSIS",
+      "line": 2,
+      "latitude": 37.9922861,
+      "longitude": 23.7207006
+    },
+    {
+      "source_id": 46,
+      "name": "ΜΕΤΑΞΟΥΡΓΕΙΟ",
+      "name_en": "METAXOURGHIO",
+      "line": 2,
+      "latitude": 37.985845,
+      "longitude": 23.7213621
+    },
+    {
+      "source_id": 47,
+      "name": "ΑΤΤΙΚΗ",
+      "name_en": "ATTIKI",
+      "line": 2,
+      "latitude": 37.9995336,
+      "longitude": 23.7226918
+    },
+    {
+      "source_id": 48,
+      "name": "ΣΕΠΟΛΙΑ",
+      "name_en": "SEPOLIA",
+      "line": 2,
+      "latitude": 38.0025946,
+      "longitude": 23.7140361
+    },
+    {
+      "source_id": 49,
+      "name": "ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ",
+      "name_en": "NOMISMATOKOPIO",
+      "line": 3,
+      "latitude": 38.0091125,
+      "longitude": 23.8057653
+    },
+    {
+      "source_id": 50,
+      "name": "ΧΟΛΑΡΓΟΣ",
+      "name_en": "HOLARGOS",
+      "line": 3,
+      "latitude": 38.0049212,
+      "longitude": 23.7946947
+    },
+    {
+      "source_id": 51,
+      "name": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ",
+      "name_en": "AGHIA PARASKEVI",
+      "line": 3,
+      "latitude": 38.0171389,
+      "longitude": 23.8124682
+    },
+    {
+      "source_id": 52,
+      "name": "ΕΘΝΙΚΗ ΑΜΥΝΑ",
+      "name_en": "ETHNIKI AMYNA",
+      "line": 3,
+      "latitude": 37.9991955,
+      "longitude": 23.7844608
+    },
+    {
+      "source_id": 53,
+      "name": "ΧΑΛΑΝΔΡΙ",
+      "name_en": "HALANDRI",
+      "line": 3,
+      "latitude": 38.0217269,
+      "longitude": 23.8207503
+    },
+    {
+      "source_id": 54,
+      "name": "ΔΟΥΚ.ΠΛΑΚΕΝΤΙΑΣ",
+      "name_en": "DOUK.PLAKENTIAS",
+      "line": 3,
+      "latitude": 38.0240065,
+      "longitude": 23.8325419
+    },
+    {
+      "source_id": 55,
+      "name": "ΚΗΦΙΣΙΑ",
+      "name_en": "KIFISSIA",
+      "line": 1,
+      "latitude": 38.0733951,
+      "longitude": 23.8082198
+    },
+    {
+      "source_id": 56,
+      "name": "ΑΛΙΜΟΣ",
+      "name_en": "ALIMOS",
+      "line": 2,
+      "latitude": 37.9180894,
+      "longitude": 23.7440626
+    },
+    {
+      "source_id": 57,
+      "name": "ΑΡΓΥΡΟΥΠΟΛΗ",
+      "name_en": "ARGYROUPOLI",
+      "line": 2,
+      "latitude": 37.9030211,
+      "longitude": 23.7454653
+    },
+    {
+      "source_id": 58,
+      "name": "ΗΛΙΟΥΠΟΛΗ",
+      "name_en": "ILIOUPOLI",
+      "line": 2,
+      "latitude": 37.9294624,
+      "longitude": 23.7447504
+    },
+    {
+      "source_id": 59,
+      "name": "ΕΛΛΗΝΙΚΟ",
+      "name_en": "HELLINIKO",
+      "line": 2,
+      "latitude": 37.8925855,
+      "longitude": 23.7470953
+    },
+    {
+      "source_id": 60,
+      "name": "ΠΕΡΙΣΤΕΡΙ",
+      "name_en": "PERISTERI",
+      "line": 2,
+      "latitude": 38.0128856,
+      "longitude": 23.6957605
+    },
+    {
+      "source_id": 61,
+      "name": "ΑΝΘΟΥΠΟΛΗ",
+      "name_en": "ANTHOUPOLI",
+      "line": 2,
+      "latitude": 38.0171089,
+      "longitude": 23.6908755
+    },
+    {
+      "source_id": 62,
+      "name": "ΔΑΦΝΗ",
+      "name_en": "DAFNI",
+      "line": 2,
+      "latitude": 37.9495529,
+      "longitude": 23.737211
+    },
+    {
+      "source_id": 63,
+      "name": "ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ",
+      "name_en": "AGHIOS DIMITRIOS",
+      "line": 2,
+      "latitude": 37.9403422,
+      "longitude": 23.7405681
+    },
+    {
+      "source_id": 64,
+      "name": "ΑΓΙΟΣ ΑΝΤΩΝΙΟΣ",
+      "name_en": "AGHIOS ANTONIOS",
+      "line": 2,
+      "latitude": 38.0060932,
+      "longitude": 23.6997156
+    },
+    {
+      "source_id": 65,
+      "name": "ΣΥΝΤΑΓΜΑ",
+      "name_en": " SYNTAGMA",
+      "line": 2,
+      "latitude": 37.9755188,
+      "longitude": 23.7356912
+    },
+    {
+      "source_id": 66,
+      "name": "ΑΓΙΑ ΒΑΡΒΑΡΑ",
+      "name_en": "AGIA VARVARA",
+      "line": 3,
+      "latitude": 37.9897592,
+      "longitude": 23.6592796
+    },
+    {
+      "source_id": 67,
+      "name": "ΔΗΜΟΤΙΚΟ ΘΕΑΤΡΟ",
+      "name_en": "DHMOTIKO THEATRO",
+      "line": 3,
+      "latitude": 37.9428879,
+      "longitude": 23.6475786
+    },
+    {
+      "source_id": 68,
+      "name": "ΠΕΙΡΑΙΑΣ",
+      "name_en": "PEIRAIAS",
+      "line": 3,
+      "latitude": 37.9482369,
+      "longitude": 23.6422868
+    },
+    {
+      "source_id": 69,
+      "name": "ΜΑΝΙΑΤΙΚΑ",
+      "name_en": "MANIATIKA",
+      "line": 3,
+      "latitude": 37.9595554,
+      "longitude": 23.6397646
+    },
+    {
+      "source_id": 70,
+      "name": "ΝΙΚΑΙΑ",
+      "name_en": "NIKAIA",
+      "line": 3,
+      "latitude": 37.9657731,
+      "longitude": 23.6473309
+    },
+    {
+      "source_id": 71,
+      "name": "ΚΟΡΥΔΑΛΛΟΣ",
+      "name_en": "KORYDALLOS",
+      "line": 3,
+      "latitude": 37.9770597,
+      "longitude": 23.6503923
+    }
+  ],
+  "meta": {
+    "title": "Σταθμοί Μετρό Αθήνας — Γραμμές 1, 2, 3 - Δωρεάν λήψη",
+    "description": "Οι σταθμοί του Μετρό της Αθήνας (γραμμές 1, 2 και 3) με ελληνική και αγγλική ονομασία, αριθμό γραμμής και συντεταγμένες WGS84. Ένα record ανά ζεύγος σταθμού-γραμμής (οι σταθμοί μετεπιβίβασης εμφανίζονται μία φορά ανά γραμμή): 71 ζεύγη / 66 μοναδικοί σταθμοί. Περιλαμβάνει την επέκταση της γραμμής 3 προς Πειραιά (2022). Πηγές: OSM, ΣΤΑΣΥ, Ελληνικό Μετρό μέσω Athens GIS Repository (snapshot 2025-06-23). (Athens Metro stations, lines 1–3; one record per station-line pair.) Περιέχει 71 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Σταθμοί Μετρό Αθήνας — Γραμμές 1, 2, 3 | ListBase",
+    "seo_description": "Λήψη Σταθμοί Μετρό Αθήνας — Γραμμές 1, 2, 3 — 71 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 71 εγγραφές / 6 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

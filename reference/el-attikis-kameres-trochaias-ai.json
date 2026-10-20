@@ -1,0 +1,94 @@
+{
+  "id": "el-attikis-kameres-trochaias-ai",
+  "name": "Κάμερες τεχνητής νοημοσύνης οδικής ασφάλειας — Αττική",
+  "title": "Κάμερες τεχνητής νοημοσύνης οδικής ασφάλειας — Αττική",
+  "description": "Σημεία καμερών τεχνητής νοημοσύνης για την οδική ασφάλεια στην Αττική, με θέση/ονομασία οδού και συντεταγμένες WGS84. Πηγή: Ministry of Digital Governance, μέσω Athens GIS Repository (uploaded 2026-01-07 per info note). (AI traffic-safety cameras in Attica — small pilot deployment, 8 locations.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 1,
+      "name": "Λεωφ. Μαραθώνος - Φλέμινγκ",
+      "latitude": 38.0184093,
+      "longitude": 23.9802137
+    },
+    {
+      "source_id": 2,
+      "name": "Λεωφ. Μεσογείων - Λεωφ. Χαλανδρίου",
+      "latitude": 38.0134562,
+      "longitude": 23.8201512
+    },
+    {
+      "source_id": 3,
+      "name": "Λεωφ. Κηφισίας - Εθν. Αντιστάσεως",
+      "latitude": 38.0098425,
+      "longitude": 23.7805087
+    },
+    {
+      "source_id": 4,
+      "name": "Λεωφ. Πανεπιστημίου - Λεωφ. Βασ. Σοφίας",
+      "latitude": 37.9761041,
+      "longitude": 23.7357921
+    },
+    {
+      "source_id": 5,
+      "name": "Λεωφ. Συγγρού - Αγίας Φωτεινής",
+      "latitude": 37.950173,
+      "longitude": 23.7083928
+    },
+    {
+      "source_id": 6,
+      "name": "Λεωφ. Ποσειδώνος - Λεωφ. Αλίμου",
+      "latitude": 37.9060972,
+      "longitude": 23.7177159
+    },
+    {
+      "source_id": 7,
+      "name": "Λεωφ. Βουλιαγμένης - Τήνου",
+      "latitude": 37.9018853,
+      "longitude": 23.7459507
+    },
+    {
+      "source_id": 8,
+      "name": "Λεωφ. Ποσειδώνος - Ερμού",
+      "latitude": 37.8127169,
+      "longitude": 23.7818394
+    }
+  ],
+  "meta": {
+    "title": "Κάμερες τεχνητής νοημοσύνης οδικής ασφάλειας — Αττική - Δωρεάν λήψη",
+    "description": "Σημεία καμερών τεχνητής νοημοσύνης για την οδική ασφάλεια στην Αττική, με θέση/ονομασία οδού και συντεταγμένες WGS84. Πηγή: Ministry of Digital Governance, μέσω Athens GIS Repository (uploaded 2026-01-07 per info note). (AI traffic-safety cameras in Attica — small pilot deployment, 8 locations.) Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κάμερες τεχνητής νοημοσύνης οδικής ασφάλειας — Αττική | ListBase",
+    "seo_description": "Λήψη Κάμερες τεχνητής νοημοσύνης οδικής ασφάλειας — Αττική — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 4 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

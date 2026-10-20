@@ -1,0 +1,396 @@
+{
+  "id": "el-panepistimia",
+  "name": "Greece — Universities (πανεπιστήμια)",
+  "title": "Greece — Universities (πανεπιστήμια)",
+  "description": "List of accredited universities and higher-education institutions in Greece. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Greece\").",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 33,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "domain",
+      "label": "Domain",
+      "type": "string"
+    },
+    {
+      "key": "domains",
+      "label": "Domains",
+      "type": "string"
+    },
+    {
+      "key": "web_page",
+      "label": "Web Page",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "country_code",
+      "label": "Country Code",
+      "type": "string"
+    },
+    {
+      "key": "state_province",
+      "label": "State Province",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Aegean University",
+      "slug": "aegean",
+      "domain": "aegean.gr",
+      "domains": "aegean.gr",
+      "web_page": "https://www.aegean.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Aegean Sea"
+    },
+    {
+      "name": "Agricultural University of Athens",
+      "slug": "aua",
+      "domain": "aua.gr",
+      "domains": "aua.gr",
+      "web_page": "https://www.aua.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "American College of Greece",
+      "slug": "acg",
+      "domain": "acg.gr",
+      "domains": "acg.gr",
+      "web_page": "https://www.acg.edu/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "American College of Thessaloniki",
+      "slug": "act",
+      "domain": "act.edu",
+      "domains": "act.edu",
+      "web_page": "https://www.act.edu/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Macedonia"
+    },
+    {
+      "name": "Aristotle University of Thessaloniki",
+      "slug": "auth",
+      "domain": "auth.gr",
+      "domains": "auth.gr",
+      "web_page": "https://www.auth.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Macedonia"
+    },
+    {
+      "name": "Athens Graduate School of Management (AGSM)",
+      "slug": "agsm",
+      "domain": "agsm.gr",
+      "domains": "agsm.gr",
+      "web_page": "https://www.agsm.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "Athens Laboratory of Business Administration (ALBA)",
+      "slug": "alba",
+      "domain": "alba.edu.gr",
+      "domains": "alba.edu.gr, alba.acg.edu",
+      "web_page": "https://alba.acg.edu/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "Athens School of Fine Arts",
+      "slug": "asfa",
+      "domain": "asfa.gr",
+      "domains": "asfa.gr",
+      "web_page": "https://www.asfa.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "Athens University of Economics and Business",
+      "slug": "aueb",
+      "domain": "aueb.gr",
+      "domains": "aueb.gr",
+      "web_page": "https://www.aueb.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "City University Athens",
+      "slug": "cityu",
+      "domain": "cityu.gr",
+      "domains": "cityu.gr",
+      "web_page": "https://www.cityu.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "DEI Bachelor & Master Degrees",
+      "slug": "dei",
+      "domain": "dei.edu.gr",
+      "domains": "dei.edu.gr",
+      "web_page": "https://www.dei.edu.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Macedonia"
+    },
+    {
+      "name": "Dimocritus University of Thrace",
+      "slug": "duth",
+      "domain": "duth.gr",
+      "domains": "duth.gr",
+      "web_page": "https://www.duth.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Thrace"
+    },
+    {
+      "name": "Harokopio University",
+      "slug": "hua",
+      "domain": "hua.gr",
+      "domains": "hua.gr",
+      "web_page": "https://www.hua.gr",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "Hellenic Army Academy",
+      "slug": "sse",
+      "domain": "sse.army.gr",
+      "domains": "sse.army.gr, sse.gr",
+      "web_page": "https://sse.army.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "Hellenic College of Noah",
+      "slug": "noah",
+      "domain": "noah.edu.gr",
+      "domains": "noah.edu.gr",
+      "web_page": "https://noah.edu.gr",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Macedonia"
+    },
+    {
+      "name": "Hellenic Mediterranean University",
+      "slug": "hmu",
+      "domain": "hmu.gr",
+      "domains": "hmu.gr",
+      "web_page": "https://hmu.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Crete"
+    },
+    {
+      "name": "Hellenic Open University",
+      "slug": "eap",
+      "domain": "eap.gr",
+      "domains": "eap.gr",
+      "web_page": "https://www.eap.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": ""
+    },
+    {
+      "name": "International Hellenic University",
+      "slug": "ihu",
+      "domain": "ihu.gr",
+      "domains": "ihu.gr, ihu.edu.gr",
+      "web_page": "https://www.ihu.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Macedonia"
+    },
+    {
+      "name": "Ionian University",
+      "slug": "ionio",
+      "domain": "ionio.gr",
+      "domains": "ionio.gr",
+      "web_page": "https://ionio.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Ionian Sea"
+    },
+    {
+      "name": "National Technical University of Athens",
+      "slug": "ntua",
+      "domain": "ntua.gr",
+      "domains": "ntua.gr",
+      "web_page": "https://www.ntua.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "Panteios University of Economics and Political Sciences Athens",
+      "slug": "panteion",
+      "domain": "panteion.gr",
+      "domains": "panteion.gr",
+      "web_page": "https://www.panteion.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "School of Pedagogical and Technological Education - A.S.PAI.T.E.",
+      "slug": "aspete",
+      "domain": "aspete.gr",
+      "domains": "aspete.gr",
+      "web_page": "https://www.aspete.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "Technical University of Crete",
+      "slug": "tuc",
+      "domain": "tuc.gr",
+      "domains": "tuc.gr",
+      "web_page": "https://www.tuc.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Crete"
+    },
+    {
+      "name": "University of Athens",
+      "slug": "uoa",
+      "domain": "uoa.gr",
+      "domains": "uoa.gr",
+      "web_page": "https://www.uoa.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "University of Crete",
+      "slug": "uoc",
+      "domain": "uoc.gr",
+      "domains": "uoc.gr",
+      "web_page": "https://www.uoc.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Crete"
+    },
+    {
+      "name": "University of Ioannina",
+      "slug": "uoi",
+      "domain": "uoi.gr",
+      "domains": "uoi.gr",
+      "web_page": "https://www.uoi.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Epirus"
+    },
+    {
+      "name": "University of Macedonia",
+      "slug": "uom",
+      "domain": "uom.gr",
+      "domains": "uom.gr",
+      "web_page": "https://www.uom.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Macedonia"
+    },
+    {
+      "name": "University of Patras",
+      "slug": "upatras",
+      "domain": "upatras.gr",
+      "domains": "upatras.gr",
+      "web_page": "https://www.upatras.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Peloponnesus"
+    },
+    {
+      "name": "University of Peloponnese",
+      "slug": "uop",
+      "domain": "uop.gr",
+      "domains": "uop.gr",
+      "web_page": "https://www.uop.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Peloponnesus"
+    },
+    {
+      "name": "University of Piraeus",
+      "slug": "unipi",
+      "domain": "unipi.gr",
+      "domains": "unipi.gr",
+      "web_page": "https://www.unipi.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "University of Thessaly",
+      "slug": "uth",
+      "domain": "uth.gr",
+      "domains": "uth.gr",
+      "web_page": "https://www.uth.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Thessaly"
+    },
+    {
+      "name": "University of West Attica",
+      "slug": "uniwa",
+      "domain": "uniwa.gr",
+      "domains": "uniwa.gr",
+      "web_page": "https://www.uniwa.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Attica"
+    },
+    {
+      "name": "University of Western Macedonia",
+      "slug": "uowm",
+      "domain": "uowm.gr",
+      "domains": "uowm.gr",
+      "web_page": "https://www.uowm.gr/",
+      "country": "Greece",
+      "country_code": "GR",
+      "state_province": "Macedonia"
+    }
+  ],
+  "meta": {
+    "title": "Greece — Universities (πανεπιστήμια) - Δωρεάν λήψη",
+    "description": "List of accredited universities and higher-education institutions in Greece. Each record carries the institution's English/Latin name, primary registered domain, full domain-alias list, primary web page, country code (ISO-3166-1 alpha-2), and sub-national region where upstream provides one. Extracted by filtering the global Hipo/university-domains-list dataset (\"country == Greece\"). Περιέχει 33 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Greece — Universities (πανεπιστήμια) | ListBase",
+    "seo_description": "Λήψη Greece — Universities (πανεπιστήμια) — 33 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 33 εγγραφές / 8 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

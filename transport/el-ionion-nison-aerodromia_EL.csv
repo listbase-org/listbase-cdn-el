@@ -1,0 +1,4 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LGKF","EFL","Kefallinia Airport","kefallinia-airport","Kefallinia Island","Περιφέρεια Ιονίων Νήσων","Ionian-Islands","ionion-nison","Ionian Islands Region","GR","59","38.120098114","20.5004997253","Europe/Athens","true"
+"LGKR","CFU","Ioannis Kapodistrias International Airport","ioannis-kapodistrias-international-airport","Kerkyra Island","Περιφέρεια Ιονίων Νήσων","Ionian-Islands","ionion-nison","Ionian Islands Region","GR","6","39.6018981934","19.911699295","Europe/Athens","true"
+"LGZA","ZTH","Dionysios Solomos Airport","dionysios-solomos-airport","Zakynthos Island","Περιφέρεια Ιονίων Νήσων","Ionian-Islands","ionion-nison","Ionian Islands Region","GR","15","37.7509002686","20.8843002319","Europe/Athens","true"

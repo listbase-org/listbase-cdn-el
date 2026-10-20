@@ -1,0 +1,7 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LG56","","Olimboi Airport","olimboi-airport","Chios Island","Περιφέρεια Βορείου Αιγαίου","North-Aegean","voreiou-aigaiou","North Aegean Region","GR","656","38.2360992432","25.9391994476","Europe/Athens","false"
+"LGHI","JKH","Chios Island National Airport","chios-island-national-airport","Chios Island","Περιφέρεια Βορείου Αιγαίου","North-Aegean","voreiou-aigaiou","North Aegean Region","GR","15","38.3432006836","26.1406002045","Europe/Athens","true"
+"LGIK","JIK","Ikaria Airport","ikaria-airport","Ikaria Island","Περιφέρεια Βορείου Αιγαίου","North-Aegean","voreiou-aigaiou","North Aegean Region","GR","79","37.6827011108","26.3470993042","Europe/Athens","true"
+"LGLM","LXS","Limnos Airport","limnos-airport","Limnos Island","Περιφέρεια Βορείου Αιγαίου","North-Aegean","voreiou-aigaiou","North Aegean Region","GR","14","39.917098999","25.2362995148","Europe/Athens","true"
+"LGMT","MJT","Mytilene International Airport","mytilene-international-airport","Mytilene","Περιφέρεια Βορείου Αιγαίου","North-Aegean","voreiou-aigaiou","North Aegean Region","GR","60","39.0567016602","26.5983009338","Europe/Athens","true"
+"LGSM","SMI","Samos Airport","samos-airport","Samos Island","Περιφέρεια Βορείου Αιγαίου","North-Aegean","voreiou-aigaiou","North Aegean Region","GR","19","37.6899986267","26.911699295","Europe/Athens","true"

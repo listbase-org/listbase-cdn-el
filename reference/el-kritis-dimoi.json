@@ -1,0 +1,393 @@
+{
+  "id": "el-kritis-dimoi",
+  "name": "Δήμοι — Περιφέρεια Κρήτης",
+  "title": "Δήμοι — Περιφέρεια Κρήτης",
+  "description": "Οι δήμοι της Περιφέρειας Κρήτης (Crete) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 24 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9302",
+      "name": "Αρχανων - Αστερουσιων",
+      "slug": "archanon-asteroysion",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 27
+    },
+    {
+      "id": "9303",
+      "name": "Βιαννου",
+      "slug": "viannoy",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 1,
+      "communities_count": 16
+    },
+    {
+      "id": "9304",
+      "name": "Γορτυνας",
+      "slug": "gortynas",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 4,
+      "communities_count": 31
+    },
+    {
+      "id": "9305",
+      "name": "Ηρακλειου",
+      "slug": "irakleioy",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 5,
+      "communities_count": 24
+    },
+    {
+      "id": "9306",
+      "name": "Μαλεβιζιου",
+      "slug": "malevizioy",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 19
+    },
+    {
+      "id": "9307",
+      "name": "Μινωα Πεδιαδας",
+      "slug": "minoa-pediadas",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 32
+    },
+    {
+      "id": "9308",
+      "name": "Φαιστου",
+      "slug": "faistoy",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 26
+    },
+    {
+      "id": "9309",
+      "name": "Χερσονησου",
+      "slug": "chersonisoy",
+      "regional_unit_id": "1301",
+      "regional_unit_name": "Ηρακλειου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 4,
+      "communities_count": 22
+    },
+    {
+      "id": "9310",
+      "name": "Αγιου Νικολαου",
+      "slug": "agioy-nikolaoy",
+      "regional_unit_id": "1302",
+      "regional_unit_name": "Λασιθιου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 25
+    },
+    {
+      "id": "9311",
+      "name": "Ιεραπετρας",
+      "slug": "ierapetras",
+      "regional_unit_id": "1302",
+      "regional_unit_name": "Λασιθιου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 2,
+      "communities_count": 25
+    },
+    {
+      "id": "9312",
+      "name": "Οροπεδιου Λασιθιου",
+      "slug": "oropedioy-lasithioy",
+      "regional_unit_id": "1302",
+      "regional_unit_name": "Λασιθιου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 1,
+      "communities_count": 11
+    },
+    {
+      "id": "9313",
+      "name": "Σητειας",
+      "slug": "siteias",
+      "regional_unit_id": "1302",
+      "regional_unit_name": "Λασιθιου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 28
+    },
+    {
+      "id": "9314",
+      "name": "Αγιου Βασιλειου",
+      "slug": "agioy-vasileioy",
+      "regional_unit_id": "1303",
+      "regional_unit_name": "Ρεθυμνου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 2,
+      "communities_count": 26
+    },
+    {
+      "id": "9315",
+      "name": "Αμαριου",
+      "slug": "amarioy",
+      "regional_unit_id": "1303",
+      "regional_unit_name": "Ρεθυμνου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 2,
+      "communities_count": 26
+    },
+    {
+      "id": "9316",
+      "name": "Ανωγειων",
+      "slug": "anogeion",
+      "regional_unit_id": "1303",
+      "regional_unit_name": "Ρεθυμνου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9317",
+      "name": "Μυλοποταμου",
+      "slug": "mylopotamoy",
+      "regional_unit_id": "1303",
+      "regional_unit_name": "Ρεθυμνου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 33
+    },
+    {
+      "id": "9318",
+      "name": "Ρεθυμνης",
+      "slug": "rethymnis",
+      "regional_unit_id": "1303",
+      "regional_unit_name": "Ρεθυμνου",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 4,
+      "communities_count": 47
+    },
+    {
+      "id": "9319",
+      "name": "Αποκορωνου",
+      "slug": "apokoronoy",
+      "regional_unit_id": "1304",
+      "regional_unit_name": "Χανιων",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 6,
+      "communities_count": 33
+    },
+    {
+      "id": "9320",
+      "name": "Γαυδου",
+      "slug": "gaydoy",
+      "regional_unit_id": "1304",
+      "regional_unit_name": "Χανιων",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9321",
+      "name": "Καντανου - Σελινου",
+      "slug": "kantanoy-selinoy",
+      "regional_unit_id": "1304",
+      "regional_unit_name": "Χανιων",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 14
+    },
+    {
+      "id": "9322",
+      "name": "Κισσαμου",
+      "slug": "kissamoy",
+      "regional_unit_id": "1304",
+      "regional_unit_name": "Χανιων",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 3,
+      "communities_count": 29
+    },
+    {
+      "id": "9323",
+      "name": "Πλατανια",
+      "slug": "platania",
+      "regional_unit_id": "1304",
+      "regional_unit_name": "Χανιων",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 4,
+      "communities_count": 51
+    },
+    {
+      "id": "9324",
+      "name": "Σφακιων",
+      "slug": "sfakion",
+      "regional_unit_id": "1304",
+      "regional_unit_name": "Χανιων",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 1,
+      "communities_count": 9
+    },
+    {
+      "id": "9325",
+      "name": "Χανιων",
+      "slug": "chanion",
+      "regional_unit_id": "1304",
+      "regional_unit_name": "Χανιων",
+      "periphery_id": 13,
+      "periphery_name": "Κρητης",
+      "periphery_name_native": "Κρήτης",
+      "periphery_slug": "kritis",
+      "municipal_units_count": 7,
+      "communities_count": 26
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Κρήτης - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Κρήτης (Crete) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 24 δήμοι. Περιέχει 24 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Κρήτης | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Κρήτης — 24 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 24 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

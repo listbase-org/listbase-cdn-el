@@ -1,0 +1,214 @@
+{
+  "id": "el-apografes-periferion-2021",
+  "name": "Απογραφή Περιφερειών Ελλάδας 2021 — Πληθυσμιακά δεδομένα (ΕΛΣΤΑΤ)",
+  "title": "Απογραφή Περιφερειών Ελλάδας 2021 — Πληθυσμιακά δεδομένα (ΕΛΣΤΑΤ)",
+  "description": "Πληθυσμιακά δεδομένα 13 περιφερειών (NUTS2) της Ελλάδας από την Απογραφή 2021, με σύγκριση 2011.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "nuts2_code",
+      "label": "Nuts2 Code",
+      "type": "string"
+    },
+    {
+      "key": "onoma_perifereias",
+      "label": "Onoma Perifereias",
+      "type": "string"
+    },
+    {
+      "key": "plithysmos_2021",
+      "label": "Plithysmos 2021",
+      "type": "number"
+    },
+    {
+      "key": "plithysmos_2011",
+      "label": "Plithysmos 2011",
+      "type": "number"
+    },
+    {
+      "key": "andres_2021",
+      "label": "Andres 2021",
+      "type": "number"
+    },
+    {
+      "key": "andres_2011",
+      "label": "Andres 2011",
+      "type": "number"
+    },
+    {
+      "key": "gynaikes_2021",
+      "label": "Gynaikes 2021",
+      "type": "number"
+    },
+    {
+      "key": "gynaikes_2011",
+      "label": "Gynaikes 2011",
+      "type": "number"
+    },
+    {
+      "key": "metaboli_pct",
+      "label": "Metaboli Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "nuts2_code": "EL51",
+      "onoma_perifereias": "ΑΝΑΤΟΛΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ ΚΑΙ ΘΡΑΚΗΣ",
+      "plithysmos_2021": 562069,
+      "plithysmos_2011": 608182,
+      "andres_2021": 275340,
+      "andres_2011": 299643,
+      "gynaikes_2021": 286729,
+      "gynaikes_2011": 308539,
+      "metaboli_pct": -7.58
+    },
+    {
+      "nuts2_code": "EL52",
+      "onoma_perifereias": "ΚΕΝΤΡΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+      "plithysmos_2021": 1792069,
+      "plithysmos_2011": 1882108,
+      "andres_2021": 861420,
+      "andres_2011": 912693,
+      "gynaikes_2021": 930649,
+      "gynaikes_2011": 969415,
+      "metaboli_pct": -4.78
+    },
+    {
+      "nuts2_code": "EL53",
+      "onoma_perifereias": "ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
+      "plithysmos_2021": 255056,
+      "plithysmos_2011": 283689,
+      "andres_2021": 126711,
+      "andres_2011": 141779,
+      "gynaikes_2021": 128345,
+      "gynaikes_2011": 141910,
+      "metaboli_pct": -10.09
+    },
+    {
+      "nuts2_code": "EL54",
+      "onoma_perifereias": "ΗΠΕΙΡΟΥ",
+      "plithysmos_2021": 319543,
+      "plithysmos_2011": 336856,
+      "andres_2021": 157092,
+      "andres_2011": 165775,
+      "gynaikes_2021": 162451,
+      "gynaikes_2011": 171081,
+      "metaboli_pct": -5.14
+    },
+    {
+      "nuts2_code": "EL61",
+      "onoma_perifereias": "ΘΕΣΣΑΛΙΑΣ",
+      "plithysmos_2021": 687527,
+      "plithysmos_2011": 732762,
+      "andres_2021": 336801,
+      "andres_2011": 362194,
+      "gynaikes_2021": 350726,
+      "gynaikes_2011": 370568,
+      "metaboli_pct": -6.17
+    },
+    {
+      "nuts2_code": "EL64",
+      "onoma_perifereias": "ΣΤΕΡΕΑΣ ΕΛΛΑΔΑΣ",
+      "plithysmos_2021": 505269,
+      "plithysmos_2011": 547390,
+      "andres_2021": 252106,
+      "andres_2011": 277475,
+      "gynaikes_2021": 253163,
+      "gynaikes_2011": 269915,
+      "metaboli_pct": -7.69
+    },
+    {
+      "nuts2_code": "EL62",
+      "onoma_perifereias": "ΙΟΝΙΩΝ ΝΗΣΩΝ",
+      "plithysmos_2021": 200726,
+      "plithysmos_2011": 207855,
+      "andres_2021": 99139,
+      "andres_2011": 102400,
+      "gynaikes_2021": 101587,
+      "gynaikes_2011": 105455,
+      "metaboli_pct": -3.43
+    },
+    {
+      "nuts2_code": "EL63",
+      "onoma_perifereias": "ΔΥΤΙΚΗΣ ΕΛΛΑΔΑΣ",
+      "plithysmos_2021": 643349,
+      "plithysmos_2011": 679796,
+      "andres_2021": 322242,
+      "andres_2011": 339310,
+      "gynaikes_2021": 321107,
+      "gynaikes_2011": 340486,
+      "metaboli_pct": -5.36
+    },
+    {
+      "nuts2_code": "EL65",
+      "onoma_perifereias": "ΠΕΛΟΠΟΝΝΗΣΟΥ",
+      "plithysmos_2021": 538366,
+      "plithysmos_2011": 577903,
+      "andres_2021": 269285,
+      "andres_2011": 291777,
+      "gynaikes_2021": 269081,
+      "gynaikes_2011": 286126,
+      "metaboli_pct": -6.84
+    },
+    {
+      "nuts2_code": "EL30",
+      "onoma_perifereias": "ΑΤΤΙΚΗΣ",
+      "plithysmos_2021": 3792469,
+      "plithysmos_2011": 3828434,
+      "andres_2021": 1810987,
+      "andres_2011": 1845663,
+      "gynaikes_2021": 1981482,
+      "gynaikes_2011": 1982771,
+      "metaboli_pct": -0.94
+    },
+    {
+      "nuts2_code": "EL41",
+      "onoma_perifereias": "ΒΟΡΕΙΟΥ ΑΙΓΑΙΟΥ",
+      "plithysmos_2021": 194136,
+      "plithysmos_2011": 199231,
+      "andres_2021": 97178,
+      "andres_2011": 99984,
+      "gynaikes_2021": 96958,
+      "gynaikes_2011": 99247,
+      "metaboli_pct": -2.56
+    },
+    {
+      "nuts2_code": "EL42",
+      "onoma_perifereias": "ΝΟΤΙΟΥ ΑΙΓΑΙΟΥ",
+      "plithysmos_2021": 324542,
+      "plithysmos_2011": 309015,
+      "andres_2021": 162576,
+      "andres_2011": 155865,
+      "gynaikes_2021": 161966,
+      "gynaikes_2011": 153150,
+      "metaboli_pct": 5.02
+    },
+    {
+      "nuts2_code": "EL43",
+      "onoma_perifereias": "ΚΡΗΤΗΣ",
+      "plithysmos_2021": 617360,
+      "plithysmos_2011": 623065,
+      "andres_2021": 304372,
+      "andres_2011": 308665,
+      "gynaikes_2021": 312988,
+      "gynaikes_2011": 314400,
+      "metaboli_pct": -0.92
+    }
+  ],
+  "meta": {
+    "title": "Απογραφή Περιφερειών Ελλάδας 2021 — Πληθυσμιακά δεδομένα (ΕΛΣΤΑΤ) - Δωρεάν λήψη",
+    "description": "Πληθυσμιακά δεδομένα 13 περιφερειών (NUTS2) της Ελλάδας από την Απογραφή 2021, με σύγκριση 2011. Περιέχει 13 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Απογραφή Περιφερειών Ελλάδας 2021 — Πληθυσμιακά δεδομένα (ΕΛΣΤΑΤ) | ListBase",
+    "seo_description": "Λήψη Απογραφή Περιφερειών Ελλάδας 2021 — Πληθυσμιακά δεδομένα (ΕΛΣΤΑΤ) — 13 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 13 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

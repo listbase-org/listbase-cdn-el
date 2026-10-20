@@ -1,0 +1,328 @@
+{
+  "id": "el-dytikis-elladas-dimoi",
+  "name": "Δήμοι — Περιφέρεια Δυτικής Ελλάδας",
+  "title": "Δήμοι — Περιφέρεια Δυτικής Ελλάδας",
+  "description": "Οι δήμοι της Περιφέρειας Δυτικής Ελλάδας (Western Greece) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 19 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9123",
+      "name": "Αγρινιου",
+      "slug": "agrinioy",
+      "regional_unit_id": "0701",
+      "regional_unit_name": "Αιτωλοακαρνανιας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 10,
+      "communities_count": 68
+    },
+    {
+      "id": "9124",
+      "name": "Ακτιου-Βονιτσας",
+      "slug": "aktioy-vonitsas",
+      "regional_unit_id": "0701",
+      "regional_unit_name": "Αιτωλοακαρνανιας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 17
+    },
+    {
+      "id": "9125",
+      "name": "Αμφιλοχιας",
+      "slug": "amfilochias",
+      "regional_unit_id": "0701",
+      "regional_unit_name": "Αιτωλοακαρνανιας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 27
+    },
+    {
+      "id": "9126",
+      "name": "Θερμου",
+      "slug": "thermoy",
+      "regional_unit_id": "0701",
+      "regional_unit_name": "Αιτωλοακαρνανιας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 1,
+      "communities_count": 23
+    },
+    {
+      "id": "9127",
+      "name": "Ιερας Πολης Μεσολογγιου",
+      "slug": "ieras-polis-mesologgioy",
+      "regional_unit_id": "0701",
+      "regional_unit_name": "Αιτωλοακαρνανιας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 19
+    },
+    {
+      "id": "9128",
+      "name": "Ναυπακτιας",
+      "slug": "naypaktias",
+      "regional_unit_id": "0701",
+      "regional_unit_name": "Αιτωλοακαρνανιας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 6,
+      "communities_count": 67
+    },
+    {
+      "id": "9129",
+      "name": "Ξηρομερου",
+      "slug": "xiromeroy",
+      "regional_unit_id": "0701",
+      "regional_unit_name": "Αιτωλοακαρνανιας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 19
+    },
+    {
+      "id": "9130",
+      "name": "Αιγιαλειας",
+      "slug": "aigialeias",
+      "regional_unit_id": "0702",
+      "regional_unit_name": "Αχαϊας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 6,
+      "communities_count": 73
+    },
+    {
+      "id": "9131",
+      "name": "Δυτικης Αχαιας",
+      "slug": "dytikis-achaias",
+      "regional_unit_id": "0702",
+      "regional_unit_name": "Αχαϊας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 41
+    },
+    {
+      "id": "9132",
+      "name": "Ερυμανθου",
+      "slug": "erymanthoy",
+      "regional_unit_id": "0702",
+      "regional_unit_name": "Αχαϊας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 34
+    },
+    {
+      "id": "9133",
+      "name": "Καλαβρυτων",
+      "slug": "kalavryton",
+      "regional_unit_id": "0702",
+      "regional_unit_name": "Αχαϊας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 66
+    },
+    {
+      "id": "9134",
+      "name": "Πατρεων",
+      "slug": "patreon",
+      "regional_unit_id": "0702",
+      "regional_unit_name": "Αχαϊας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 5,
+      "communities_count": 34
+    },
+    {
+      "id": "9135",
+      "name": "Ανδραβιδας-Κυλληνης",
+      "slug": "andravidas-kyllinis",
+      "regional_unit_id": "0703",
+      "regional_unit_name": "Ηλειας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 22
+    },
+    {
+      "id": "9136",
+      "name": "Ανδριτσαινας-Κρεστενων",
+      "slug": "andritsainas-krestenon",
+      "regional_unit_id": "0703",
+      "regional_unit_name": "Ηλειας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 32
+    },
+    {
+      "id": "9137",
+      "name": "Αρχαιας Ολυμπιας",
+      "slug": "archaias-olympias",
+      "regional_unit_id": "0703",
+      "regional_unit_name": "Ηλειας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 41
+    },
+    {
+      "id": "9138",
+      "name": "Ζαχαρως",
+      "slug": "zacharos",
+      "regional_unit_id": "0703",
+      "regional_unit_name": "Ηλειας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 2,
+      "communities_count": 26
+    },
+    {
+      "id": "9139",
+      "name": "Ηλιδας",
+      "slug": "ilidas",
+      "regional_unit_id": "0703",
+      "regional_unit_name": "Ηλειας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 2,
+      "communities_count": 36
+    },
+    {
+      "id": "9140",
+      "name": "Πηνειου",
+      "slug": "pineioy",
+      "regional_unit_id": "0703",
+      "regional_unit_name": "Ηλειας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 3,
+      "communities_count": 15
+    },
+    {
+      "id": "9141",
+      "name": "Πυργου",
+      "slug": "pyrgoy",
+      "regional_unit_id": "0703",
+      "regional_unit_name": "Ηλειας",
+      "periphery_id": 7,
+      "periphery_name": "Δυτικης Ελλαδας",
+      "periphery_name_native": "Δυτικής Ελλάδας",
+      "periphery_slug": "dytikis-elladas",
+      "municipal_units_count": 4,
+      "communities_count": 48
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Δυτικής Ελλάδας - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Δυτικής Ελλάδας (Western Greece) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 19 δήμοι. Περιέχει 19 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Δυτικής Ελλάδας | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Δυτικής Ελλάδας — 19 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 19 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

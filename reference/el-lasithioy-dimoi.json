@@ -1,0 +1,79 @@
+{
+  "id": "el-lasithioy-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Λασιθιου (4)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Λασιθιου (4)",
+  "description": "Οι 4 δήμοι της Περιφερειακής Ενότητας Λασιθιου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9310",
+      "name": "Αγιου Νικολαου",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9311",
+      "name": "Ιεραπετρας",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9312",
+      "name": "Οροπεδιου Λασιθιου",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9313",
+      "name": "Σητειας",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Λασιθιου (4) - Δωρεάν λήψη",
+    "description": "Οι 4 δήμοι της Περιφερειακής Ενότητας Λασιθιου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη. Περιέχει 4 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Λασιθιου (4) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Λασιθιου (4) — 4 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 4 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

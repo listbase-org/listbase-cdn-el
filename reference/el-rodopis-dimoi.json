@@ -1,0 +1,79 @@
+{
+  "id": "el-rodopis-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Ροδοπης (4)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Ροδοπης (4)",
+  "description": "Οι 4 δήμοι της Περιφερειακής Ενότητας Ροδοπης (Περιφέρεια Αν. Μακεδονιας & Θρακης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 4,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9019",
+      "name": "Αρριανων",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9020",
+      "name": "Ιασμου",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9021",
+      "name": "Κομοτηνης",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9022",
+      "name": "Μαρωνειας-Σαπων",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Ροδοπης (4) - Δωρεάν λήψη",
+    "description": "Οι 4 δήμοι της Περιφερειακής Ενότητας Ροδοπης (Περιφέρεια Αν. Μακεδονιας & Θρακης) σύμφωνα με τον Καλλικράτη. Περιέχει 4 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Ροδοπης (4) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Ροδοπης (4) — 4 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 4 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

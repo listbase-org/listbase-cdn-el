@@ -1,0 +1,380 @@
+{
+  "id": "el-zakynthoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Ζακυνθου (47)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Ζακυνθου (47)",
+  "description": "Οι 47 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ζακυνθου (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 47,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "160105",
+      "name": "Κατασταριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160101",
+      "name": "Αγιου Δημητριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160102",
+      "name": "Αλικανα",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160103",
+      "name": "Ανω Γερακαριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160104",
+      "name": "Καλλιθεας",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160106",
+      "name": "Κατω Γερακαριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160107",
+      "name": "Μεσου Γερακαριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160108",
+      "name": "Πηγαδακιων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160109",
+      "name": "Σκουληκαδου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160201",
+      "name": "Αγιου Κηρυκου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160202",
+      "name": "Βανατου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160203",
+      "name": "Καλιπαδου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160204",
+      "name": "Κυψελης",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160205",
+      "name": "Πλανου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160206",
+      "name": "Σαρακηναδου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160207",
+      "name": "Τραγακιου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160301",
+      "name": "Αγιας Μαρινης",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160302",
+      "name": "Αγιου Λεοντος",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160303",
+      "name": "Αγιων Παντων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160304",
+      "name": "Βουγιατου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160305",
+      "name": "Γαλαρου (Μεγαλου Γαλαρου)",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160306",
+      "name": "Γυριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160307",
+      "name": "Κοιλιωμενου (Αγιου Νικολαου)",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160308",
+      "name": "Λαγκαδακιων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160309",
+      "name": "Λαγωποδου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160310",
+      "name": "Λουχας",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160311",
+      "name": "Μαχαιραδου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160312",
+      "name": "Ρομιριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160313",
+      "name": "Φιολιτη",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160401",
+      "name": "Αναφωνητριας",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160402",
+      "name": "Ανω Βολιμων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160403",
+      "name": "Βολιμων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160404",
+      "name": "Εξω Χωρας",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160405",
+      "name": "Μαριων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160406",
+      "name": "Ορθονιων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160501",
+      "name": "Αμπελοκηπων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160504",
+      "name": "Γαϊτανιου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160505",
+      "name": "Ζακυνθιων",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160502",
+      "name": "Αργασιου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160503",
+      "name": "Βασιλικου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160506",
+      "name": "Μποχαλης",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160604",
+      "name": "Λιθακιας",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160605",
+      "name": "Μουζακιου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160606",
+      "name": "Παντοκρατορος",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160601",
+      "name": "Αγαλα",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160602",
+      "name": "Καλαμακιου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "160603",
+      "name": "Κεριου",
+      "municipality": "Ζακυνθου",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Ζακυνθου (47) - Δωρεάν λήψη",
+    "description": "Οι 47 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ζακυνθου (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη. Περιέχει 47 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Ζακυνθου (47) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Ζακυνθου (47) — 47 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 47 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

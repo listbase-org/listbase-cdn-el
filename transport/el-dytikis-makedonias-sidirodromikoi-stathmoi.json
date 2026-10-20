@@ -1,0 +1,302 @@
+{
+  "id": "el-dytikis-makedonias-sidirodromikoi-stathmoi",
+  "name": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Δυτικής Μακεδονίας",
+  "title": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Δυτικής Μακεδονίας",
+  "description": "Σιδηροδρομικοί σταθμοί του εθνικού δικτύου (ΟΣΕ / Hellenic Train) στην Περιφέρεια Δυτικής Μακεδονίας, εξαιρουμένων Μετρό/Τραμ. Υποσύνολο του καταλόγου «Σιδηροδρομικοί σταθμοί της Ελλάδας», φιλτραρισμένο ανά περιφέρεια (Wikidata P131* -> Q207299). Πηγή: Wikidata. (National heavy-rail stations in Περιφέρεια Δυτικής Μακεδονίας; per-region subset.)",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q131942625",
+      "name_el": "Σιδηροδρομικός Σταθμός Κοζάνης",
+      "name_en": "",
+      "latitude": 40.294556,
+      "longitude": 21.792472,
+      "operator": "Οργανισμός Σιδηροδρόμων Ελλάδας",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9A%CE%BF%CE%B6%CE%AC%CE%BD%CE%B7%CF%82"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q131942612",
+      "name_el": "Σιδηροδρομικός Σταθμός Πενταβρύσου",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "operator": "Οργανισμός Σιδηροδρόμων Ελλάδας",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A0%CE%B5%CE%BD%CF%84%CE%B1%CE%B2%CF%81%CF%8D%CF%83%CE%BF%CF%85"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q131942617",
+      "name_el": "Σιδηροδρομικός σταθμός Αζώτου",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "operator": "Οργανισμός Σιδηροδρόμων Ελλάδας",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%91%CE%B6%CF%8E%CF%84%CE%BF%CF%85"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q131942619",
+      "name_el": "Σιδηροδρομικός σταθμός Κομάνου",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "operator": "Οργανισμός Σιδηροδρόμων Ελλάδας",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9A%CE%BF%CE%BC%CE%AC%CE%BD%CE%BF%CF%85"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q98914733",
+      "name_el": "Σιδηροδρομικός σταθμός Μαυροδενδρίου",
+      "name_en": "Mavrodendri railway station",
+      "latitude": 40.462444,
+      "longitude": 21.75482,
+      "operator": "Οργανισμός Σιδηροδρόμων Ελλάδας",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "Δήμος Εορδαίας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CE%B4%CE%B5%CE%BD%CE%B4%CF%81%CE%AF%CE%BF%CF%85"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q131942621",
+      "name_el": "Σιδηροδρομικός σταθμός Ποντοκώμης",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "operator": "Οργανισμός Σιδηροδρόμων Ελλάδας",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A0%CE%BF%CE%BD%CF%84%CE%BF%CE%BA%CF%8E%CE%BC%CE%B7%CF%82"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q131942615",
+      "name_el": "Σιδηροδρομικός σταθμός Πτολεμαΐδας",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "operator": "Οργανισμός Σιδηροδρόμων Ελλάδας",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A0%CF%84%CE%BF%CE%BB%CE%B5%CE%BC%CE%B1%CE%90%CE%B4%CE%B1%CF%82"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q131986200",
+      "name_el": "σιδηροδρομικός σταθμός Δρεπάνου",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Κοζάνης",
+      "municipality": "Δήμος Κοζάνης",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%94%CF%81%CE%B5%CF%80%CE%AC%CE%BD%CE%BF%CF%85"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q23070502",
+      "name_el": "Σιδηροδρομική στάση Σιταριάς",
+      "name_en": "Sitaria railway halt",
+      "latitude": 40.778751,
+      "longitude": 21.538561,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Φλώρινας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A3%CE%B9%CF%84%CE%B1%CF%81%CE%B9%CE%AC%CF%82"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q18340472",
+      "name_el": "Σιδηροδρομικός Σταθμός Αμυνταίου",
+      "name_en": "Amyntaio Railway Station",
+      "latitude": 40.69099,
+      "longitude": 21.68533,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Αμυνταίου",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%91%CE%BC%CF%85%CE%BD%CF%84%CE%B1%CE%AF%CE%BF%CF%85"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q18340483",
+      "name_el": "Σιδηροδρομικός Σταθμός Βεύης",
+      "name_en": "Vevi railway station",
+      "latitude": 40.773767,
+      "longitude": 21.567498,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Φλώρινας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%92%CE%B5%CF%8D%CE%B7%CF%82"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q131918825",
+      "name_el": "Σιδηροδρομικός Σταθμός Κλειδιού",
+      "name_en": "Kleidi railway station",
+      "latitude": 40.74337,
+      "longitude": 21.632825,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Αμυνταίου",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9A%CE%BB%CE%B5%CE%B9%CE%B4%CE%B9%CE%BF%CF%8D"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q18340482",
+      "name_el": "Σιδηροδρομικός σταθμός Ξινού Νερού",
+      "name_en": "Xino Nero railway statiion",
+      "latitude": 40.691426,
+      "longitude": 21.633699,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Αμυνταίου",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9E%CE%B9%CE%BD%CE%BF%CF%8D_%CE%9D%CE%B5%CF%81%CE%BF%CF%8D"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q18342734",
+      "name_el": "Σιδηροδρομικός σταθμός Φλωρίνης",
+      "name_en": "Florina railway station",
+      "latitude": 40.782079,
+      "longitude": 21.41538,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Φλώρινας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A6%CE%BB%CF%89%CF%81%CE%AF%CE%BD%CE%B7%CF%82"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q20668828",
+      "name_el": "σιδηροδρομικός σταθμός Αγίου Παντελεήμονα",
+      "name_en": "Agios Panteleimonas railway station",
+      "latitude": 40.72678,
+      "longitude": 21.74591,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Αμυνταίου",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%A0%CE%B1%CE%BD%CF%84%CE%B5%CE%BB%CE%B5%CE%AE%CE%BC%CE%BF%CE%BD%CE%B1"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q131918863",
+      "name_el": "σιδηροδρομικός σταθμός Λιγνιτωρυχείων Βεύης",
+      "name_en": "",
+      "latitude": "",
+      "longitude": "",
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Φλώρινας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9B%CE%B9%CE%B3%CE%BD%CE%B9%CF%84%CF%89%CF%81%CF%85%CF%87%CE%B5%CE%AF%CF%89%CE%BD_%CE%92%CE%B5%CF%8D%CE%B7%CF%82"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q97656966",
+      "name_el": "σιδηροδρομικός σταθμός Μεσονησίου",
+      "name_en": "Mesonisi railway station",
+      "latitude": 40.79619,
+      "longitude": 21.47316,
+      "operator": "",
+      "region": "Περιφέρεια Δυτικής Μακεδονίας",
+      "regional_unit": "Περιφερειακή Ενότητα Φλώρινας",
+      "municipality": "Δήμος Φλώρινας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CE%B5%CF%83%CE%BF%CE%BD%CE%B7%CF%83%CE%AF%CE%BF%CF%85"
+    }
+  ],
+  "meta": {
+    "title": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Δυτικής Μακεδονίας - Δωρεάν λήψη",
+    "description": "Σιδηροδρομικοί σταθμοί του εθνικού δικτύου (ΟΣΕ / Hellenic Train) στην Περιφέρεια Δυτικής Μακεδονίας, εξαιρουμένων Μετρό/Τραμ. Υποσύνολο του καταλόγου «Σιδηροδρομικοί σταθμοί της Ελλάδας», φιλτραρισμένο ανά περιφέρεια (Wikidata P131* -> Q207299). Πηγή: Wikidata. (National heavy-rail stations in Περιφέρεια Δυτικής Μακεδονίας; per-region subset.) Περιέχει 17 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Δυτικής Μακεδονίας | ListBase",
+    "seo_description": "Λήψη Σιδηροδρομικοί σταθμοί — Περιφέρεια Δυτικής Μακεδονίας — 17 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 17 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

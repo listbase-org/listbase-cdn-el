@@ -1,0 +1,583 @@
+{
+  "id": "el-magnisias-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Μαγνησιας (76)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Μαγνησιας (76)",
+  "description": "Οι 76 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Μαγνησιας (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 76,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "370301",
+      "name": "Αλμυρου",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370303",
+      "name": "Ευξεινουπολεως",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370302",
+      "name": "Ανθοτοπου",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370304",
+      "name": "Κοκκωτων",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370305",
+      "name": "Κροκιου",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370306",
+      "name": "Κωφων",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370307",
+      "name": "Πλατανου",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370308",
+      "name": "Φυλακης",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370501",
+      "name": "Αναβρας",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372001",
+      "name": "Αγιων Θεοδωρων",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372002",
+      "name": "Αχιλλειου",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372003",
+      "name": "Πτελεου",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372406",
+      "name": "Σουρπης",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372401",
+      "name": "Αγιας Τριαδος",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372402",
+      "name": "Αγιου Ιωαννου",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372403",
+      "name": "Αμαλιαπολεως",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372404",
+      "name": "Βρυναινης",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372405",
+      "name": "Δρυμωνος",
+      "municipality": "Αλμυρου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370101",
+      "name": "Αγριας",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370102",
+      "name": "Δρακειας",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370201",
+      "name": "Διμηνιου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370202",
+      "name": "Σεσκλου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370701",
+      "name": "Αγιου Βλασιου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370702",
+      "name": "Αγιου Λαυρεντιου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370703",
+      "name": "Ανω Λεχωνιων",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370704",
+      "name": "Κατω Λεχωνιων",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370901",
+      "name": "Βολου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371101",
+      "name": "Αγιου Ονουφριου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371102",
+      "name": "Ανακασιας",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371103",
+      "name": "Ανω Βολου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371401",
+      "name": "Μακρινιτσης",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371703",
+      "name": "Νεας Αγχιαλου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371701",
+      "name": "Αϊδινιου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371702",
+      "name": "Μικροθηβων",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371802",
+      "name": "Νεας Ιωνιας",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371801",
+      "name": "Γλαφυρων",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371901",
+      "name": "Αλλης Μεριας",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371902",
+      "name": "Κατωχωριου",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371903",
+      "name": "Πορταριας",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371904",
+      "name": "Σταγιατων",
+      "municipality": "Βολου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371001",
+      "name": "Ζαγορας",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371002",
+      "name": "Μακρυρραχης",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371003",
+      "name": "Πουριου",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371601",
+      "name": "Αγιου Δημητριου Πηλιου",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371602",
+      "name": "Ανηλιου",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371603",
+      "name": "Κισσου",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371604",
+      "name": "Μουρεσιου",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371605",
+      "name": "Ξορυχτιου",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371606",
+      "name": "Τσαγκαραδας",
+      "municipality": "Ζαγορας-Μουρεσιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370601",
+      "name": "Αργαλαστης",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370602",
+      "name": "Μετοχιου",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370603",
+      "name": "Ξινοβρυσης",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370801",
+      "name": "Αφετων",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370802",
+      "name": "Καλαμακιου",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370803",
+      "name": "Λαμπινους",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370804",
+      "name": "Νεοχωριου",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "370805",
+      "name": "Συκης",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371501",
+      "name": "Αγιου Γεωργιου Νηλειας",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371502",
+      "name": "Βυζιτσης",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371503",
+      "name": "Καλων Νερων",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371504",
+      "name": "Μηλεων",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371505",
+      "name": "Πινακατων",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372101",
+      "name": "Λαυκου",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372102",
+      "name": "Μηλινης",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372103",
+      "name": "Προμυριου",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372501",
+      "name": "Τρικεριου",
+      "municipality": "Νοτιου Πηλιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371201",
+      "name": "Καναλιων",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371202",
+      "name": "Κερασεας",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371203",
+      "name": "Ριζομυλου",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371204",
+      "name": "Στεφανοβικειου",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "371301",
+      "name": "Κεραμιδιου",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372603",
+      "name": "Βελεστινου",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372601",
+      "name": "Αγιου Γεωργιου Φερων",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372602",
+      "name": "Αερινου",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372604",
+      "name": "Μικρου Περιβολακιου",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "372605",
+      "name": "Περιβλεπτου",
+      "municipality": "Ρηγα Φερραιου",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Μαγνησιας (76) - Δωρεάν λήψη",
+    "description": "Οι 76 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Μαγνησιας (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη. Περιέχει 76 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Μαγνησιας (76) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Μαγνησιας (76) — 76 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 76 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "el-samoy-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Σαμου (1)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Σαμου (1)",
+  "description": "Οι 1 δήμοι της Περιφερειακής Ενότητας Σαμου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9264",
+      "name": "Σαμου",
+      "regional_unit_id": "1104",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Σαμου (1) - Δωρεάν λήψη",
+    "description": "Οι 1 δήμοι της Περιφερειακής Ενότητας Σαμου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 1 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Σαμου (1) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Σαμου (1) — 1 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "id": "el-thessalias-dimoi",
+  "name": "Δήμοι — Περιφέρεια Θεσσαλίας",
+  "title": "Δήμοι — Περιφέρεια Θεσσαλίας",
+  "description": "Οι δήμοι της Περιφέρειας Θεσσαλίας (Thessaly) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 25 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9091",
+      "name": "Αργιθεας",
+      "slug": "argitheas",
+      "regional_unit_id": "0501",
+      "regional_unit_name": "Καρδιτσας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 3,
+      "communities_count": 20
+    },
+    {
+      "id": "9092",
+      "name": "Καρδιτσας",
+      "slug": "karditsas",
+      "regional_unit_id": "0501",
+      "regional_unit_name": "Καρδιτσας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 5,
+      "communities_count": 34
+    },
+    {
+      "id": "9093",
+      "name": "Λιμνης Πλαστηρα",
+      "slug": "limnis-plastira",
+      "regional_unit_id": "0501",
+      "regional_unit_name": "Καρδιτσας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 2,
+      "communities_count": 12
+    },
+    {
+      "id": "9094",
+      "name": "Μουζακιου",
+      "slug": "moyzakioy",
+      "regional_unit_id": "0501",
+      "regional_unit_name": "Καρδιτσας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 3,
+      "communities_count": 27
+    },
+    {
+      "id": "9095",
+      "name": "Παλαμα",
+      "slug": "palama",
+      "regional_unit_id": "0501",
+      "regional_unit_name": "Καρδιτσας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 3,
+      "communities_count": 20
+    },
+    {
+      "id": "9096",
+      "name": "Σοφαδων",
+      "slug": "sofadon",
+      "regional_unit_id": "0501",
+      "regional_unit_name": "Καρδιτσας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 5,
+      "communities_count": 31
+    },
+    {
+      "id": "9097",
+      "name": "Αγιας",
+      "slug": "agias",
+      "regional_unit_id": "0502",
+      "regional_unit_name": "Λαρισας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 4,
+      "communities_count": 22
+    },
+    {
+      "id": "9098",
+      "name": "Ελασσονας",
+      "slug": "elassonas",
+      "regional_unit_id": "0502",
+      "regional_unit_name": "Λαρισας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 9,
+      "communities_count": 40
+    },
+    {
+      "id": "9099",
+      "name": "Κιλελερ",
+      "slug": "kileler",
+      "regional_unit_id": "0502",
+      "regional_unit_name": "Λαρισας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 5,
+      "communities_count": 35
+    },
+    {
+      "id": "9100",
+      "name": "Λαρισαιων",
+      "slug": "larisaion",
+      "regional_unit_id": "0502",
+      "regional_unit_name": "Λαρισας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 3,
+      "communities_count": 14
+    },
+    {
+      "id": "9101",
+      "name": "Τεμπων",
+      "slug": "tempon",
+      "regional_unit_id": "0502",
+      "regional_unit_name": "Λαρισας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 5,
+      "communities_count": 20
+    },
+    {
+      "id": "9102",
+      "name": "Τυρναβου",
+      "slug": "tyrnavoy",
+      "regional_unit_id": "0502",
+      "regional_unit_name": "Λαρισας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 2,
+      "communities_count": 8
+    },
+    {
+      "id": "9103",
+      "name": "Φαρσαλων",
+      "slug": "farsalon",
+      "regional_unit_id": "0502",
+      "regional_unit_name": "Λαρισας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 4,
+      "communities_count": 28
+    },
+    {
+      "id": "9104",
+      "name": "Αλμυρου",
+      "slug": "almyroy",
+      "regional_unit_id": "0503",
+      "regional_unit_name": "Μαγνησιας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 4,
+      "communities_count": 18
+    },
+    {
+      "id": "9105",
+      "name": "Βολου",
+      "slug": "voloy",
+      "regional_unit_id": "0503",
+      "regional_unit_name": "Μαγνησιας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 9,
+      "communities_count": 22
+    },
+    {
+      "id": "9106",
+      "name": "Ζαγορας-Μουρεσιου",
+      "slug": "zagoras-moyresioy",
+      "regional_unit_id": "0503",
+      "regional_unit_name": "Μαγνησιας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 2,
+      "communities_count": 9
+    },
+    {
+      "id": "9107",
+      "name": "Νοτιου Πηλιου",
+      "slug": "notioy-pilioy",
+      "regional_unit_id": "0503",
+      "regional_unit_name": "Μαγνησιας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 5,
+      "communities_count": 17
+    },
+    {
+      "id": "9108",
+      "name": "Ρηγα Φερραιου",
+      "slug": "riga-ferraioy",
+      "regional_unit_id": "0503",
+      "regional_unit_name": "Μαγνησιας",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 3,
+      "communities_count": 10
+    },
+    {
+      "id": "9109",
+      "name": "Αλοννησου",
+      "slug": "alonnisoy",
+      "regional_unit_id": "0504",
+      "regional_unit_name": "Σποραδων",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9110",
+      "name": "Σκιαθου",
+      "slug": "skiathoy",
+      "regional_unit_id": "0504",
+      "regional_unit_name": "Σποραδων",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 1,
+      "communities_count": 1
+    },
+    {
+      "id": "9111",
+      "name": "Σκοπελου",
+      "slug": "skopeloy",
+      "regional_unit_id": "0504",
+      "regional_unit_name": "Σποραδων",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 1,
+      "communities_count": 3
+    },
+    {
+      "id": "9112",
+      "name": "Καλαμπακας",
+      "slug": "kalampakas",
+      "regional_unit_id": "0505",
+      "regional_unit_name": "Τρικαλων",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 8,
+      "communities_count": 51
+    },
+    {
+      "id": "9113",
+      "name": "Πυλης",
+      "slug": "pylis",
+      "regional_unit_id": "0505",
+      "regional_unit_name": "Τρικαλων",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 7,
+      "communities_count": 43
+    },
+    {
+      "id": "9114",
+      "name": "Τρικκαιων",
+      "slug": "trikkaion",
+      "regional_unit_id": "0505",
+      "regional_unit_name": "Τρικαλων",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 8,
+      "communities_count": 34
+    },
+    {
+      "id": "9115",
+      "name": "Φαρκαδονας",
+      "slug": "farkadonas",
+      "regional_unit_id": "0505",
+      "regional_unit_name": "Τρικαλων",
+      "periphery_id": 5,
+      "periphery_name": "Θεσσαλιας",
+      "periphery_name_native": "Θεσσαλίας",
+      "periphery_slug": "thessalias",
+      "municipal_units_count": 3,
+      "communities_count": 18
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Θεσσαλίας - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Θεσσαλίας (Thessaly) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 25 δήμοι. Περιέχει 25 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Θεσσαλίας | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Θεσσαλίας — 25 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 25 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

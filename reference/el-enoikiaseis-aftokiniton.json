@@ -1,0 +1,5346 @@
+{
+  "id": "el-enoikiaseis-aftokiniton",
+  "name": "Ενοικιάσεις Αυτοκινήτων Ελλάδας",
+  "title": "Ενοικιάσεις Αυτοκινήτων Ελλάδας",
+  "description": "Γραφεία ενοικίασης αυτοκινήτων σε όλη την Ελλάδα από το OpenStreetMap. Car rental locations across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1061,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1st Choice - Rent A Car Santorini",
+      "latitude": 36.463959,
+      "longitude": 25.376027
+    },
+    {
+      "name": "4Rent Thessaloniki",
+      "latitude": 40.528946,
+      "longitude": 22.992787
+    },
+    {
+      "name": "@lpha",
+      "latitude": 36.994976,
+      "longitude": 26.93377
+    },
+    {
+      "name": "A-One",
+      "latitude": 36.33278,
+      "longitude": 28.202141
+    },
+    {
+      "name": "A-One",
+      "latitude": 36.342494,
+      "longitude": 28.200065
+    },
+    {
+      "name": "A.N.E",
+      "latitude": 35.519204,
+      "longitude": 23.924392
+    },
+    {
+      "name": "A.R.M.A",
+      "latitude": 37.708165,
+      "longitude": 26.671491
+    },
+    {
+      "name": "A2S",
+      "latitude": 39.613743,
+      "longitude": 19.911244
+    },
+    {
+      "name": "Aarkadi",
+      "latitude": 35.417018,
+      "longitude": 24.650236
+    },
+    {
+      "name": "Abba",
+      "latitude": 39.475636,
+      "longitude": 19.931079
+    },
+    {
+      "name": "Abba",
+      "latitude": 39.479589,
+      "longitude": 19.926969
+    },
+    {
+      "name": "Abbey",
+      "latitude": 35.541421,
+      "longitude": 24.136019
+    },
+    {
+      "name": "Abby Car Rental",
+      "latitude": 37.887503,
+      "longitude": 23.92267
+    },
+    {
+      "name": "ABBYCAR",
+      "latitude": 36.8034,
+      "longitude": 27.091902
+    },
+    {
+      "name": "AbbyCar",
+      "latitude": 37.967711,
+      "longitude": 23.730462
+    },
+    {
+      "name": "AbbyCar",
+      "latitude": 39.611976,
+      "longitude": 19.913952
+    },
+    {
+      "name": "AbbyCar",
+      "latitude": 40.52335,
+      "longitude": 22.993812
+    },
+    {
+      "name": "Abbycar rental car pickup",
+      "latitude": 40.529902,
+      "longitude": 22.990799
+    },
+    {
+      "name": "Abbyycar",
+      "latitude": 36.382713,
+      "longitude": 28.134089
+    },
+    {
+      "name": "ABC",
+      "latitude": 40.731041,
+      "longitude": 22.921342
+    },
+    {
+      "name": "ABC Rent a Car",
+      "latitude": 39.615896,
+      "longitude": 19.911785
+    },
+    {
+      "name": "Ace",
+      "latitude": 37.861218,
+      "longitude": 23.751961
+    },
+    {
+      "name": "Ace of Road",
+      "latitude": 36.995046,
+      "longitude": 26.934032
+    },
+    {
+      "name": "Acropolis",
+      "latitude": 37.440968,
+      "longitude": 24.939677
+    },
+    {
+      "name": "Acteon Car Rental",
+      "latitude": 36.72309,
+      "longitude": 25.27368
+    },
+    {
+      "name": "Action",
+      "latitude": 35.310719,
+      "longitude": 25.399958
+    },
+    {
+      "name": "action",
+      "latitude": 36.877093,
+      "longitude": 27.154895
+    },
+    {
+      "name": "Action Car",
+      "latitude": 37.707524,
+      "longitude": 26.669208
+    },
+    {
+      "name": "Action Car Rental",
+      "latitude": 40.076772,
+      "longitude": 23.4472
+    },
+    {
+      "name": "Advance",
+      "latitude": 37.936422,
+      "longitude": 23.946785
+    },
+    {
+      "name": "Aegean Car Rental",
+      "latitude": 40.530994,
+      "longitude": 22.995341
+    },
+    {
+      "name": "Aegean Sky",
+      "latitude": 37.794432,
+      "longitude": 26.685595
+    },
+    {
+      "name": "Aeolian Rent a Car",
+      "latitude": 39.104403,
+      "longitude": 26.56007
+    },
+    {
+      "name": "Aeolos",
+      "latitude": 40.629112,
+      "longitude": 22.953142
+    },
+    {
+      "name": "Aeolus",
+      "latitude": 37.93054,
+      "longitude": 23.75177
+    },
+    {
+      "name": "Aggelidis",
+      "latitude": 36.548684,
+      "longitude": 26.3511
+    },
+    {
+      "name": "Aggelos",
+      "latitude": 37.92819,
+      "longitude": 23.641793
+    },
+    {
+      "name": "Airport Rent a Car",
+      "latitude": 40.530152,
+      "longitude": 22.995512
+    },
+    {
+      "name": "Akrogiali Tours",
+      "latitude": 37.103389,
+      "longitude": 25.375071
+    },
+    {
+      "name": "Akropolis",
+      "latitude": 37.086121,
+      "longitude": 25.14958
+    },
+    {
+      "name": "Akrotiri Station",
+      "latitude": 35.541825,
+      "longitude": 24.137037
+    },
+    {
+      "name": "Alamo",
+      "latitude": 37.69001,
+      "longitude": 26.941181
+    },
+    {
+      "name": "Alamo",
+      "latitude": 39.371542,
+      "longitude": 22.913349
+    },
+    {
+      "name": "Alamo",
+      "latitude": 40.543426,
+      "longitude": 22.98718
+    },
+    {
+      "name": "Alex car rental",
+      "latitude": 35.290966,
+      "longitude": 25.440638
+    },
+    {
+      "name": "Alexander Cars",
+      "latitude": 40.267602,
+      "longitude": 22.593439
+    },
+    {
+      "name": "Alexander Rent a Car",
+      "latitude": 35.024273,
+      "longitude": 24.75969
+    },
+    {
+      "name": "Alexandros",
+      "latitude": 37.879841,
+      "longitude": 23.766779
+    },
+    {
+      "name": "Alexandros Bikes",
+      "latitude": 39.718143,
+      "longitude": 19.678621
+    },
+    {
+      "name": "Alexandros Rent a car",
+      "latitude": 40.059362,
+      "longitude": 22.563615
+    },
+    {
+      "name": "Alfa Kalymnos Rent",
+      "latitude": 36.990836,
+      "longitude": 26.931871
+    },
+    {
+      "name": "Alianthos",
+      "latitude": 35.097842,
+      "longitude": 24.686339
+    },
+    {
+      "name": "Alianthos",
+      "latitude": 35.190661,
+      "longitude": 24.395426
+    },
+    {
+      "name": "Alianthos Cars",
+      "latitude": 35.541134,
+      "longitude": 24.132644
+    },
+    {
+      "name": "Alianthos Rent A Car Damnoni",
+      "latitude": 35.177464,
+      "longitude": 24.41536
+    },
+    {
+      "name": "Alianthos Yasser",
+      "latitude": 35.350836,
+      "longitude": 24.300274
+    },
+    {
+      "name": "Alias Rent a Car",
+      "latitude": 37.3251,
+      "longitude": 23.143007
+    },
+    {
+      "name": "Alkis motors",
+      "latitude": 36.33569,
+      "longitude": 28.197282
+    },
+    {
+      "name": "Alkyonis Rentals",
+      "latitude": 37.836161,
+      "longitude": 20.781122
+    },
+    {
+      "name": "Alpha Cars",
+      "latitude": 35.512861,
+      "longitude": 24.008365
+    },
+    {
+      "name": "ALPHA RENT A CAR",
+      "latitude": 36.885406,
+      "longitude": 27.185224
+    },
+    {
+      "name": "Alpha Rent Car",
+      "latitude": 40.657894,
+      "longitude": 22.90215
+    },
+    {
+      "name": "Alta",
+      "latitude": 35.509707,
+      "longitude": 24.007772
+    },
+    {
+      "name": "Alto Car Hire",
+      "latitude": 39.476065,
+      "longitude": 19.929654
+    },
+    {
+      "name": "Alwaysbest Rentals",
+      "latitude": 36.879079,
+      "longitude": 27.145753
+    },
+    {
+      "name": "Alykes car and nike rental",
+      "latitude": 37.842153,
+      "longitude": 20.767012
+    },
+    {
+      "name": "Anatoli Rentals",
+      "latitude": 37.840286,
+      "longitude": 20.806664
+    },
+    {
+      "name": "Anatoli Rentals",
+      "latitude": 37.841083,
+      "longitude": 20.803876
+    },
+    {
+      "name": "Anemos rent a bike",
+      "latitude": 36.721992,
+      "longitude": 25.282104
+    },
+    {
+      "name": "Anivia",
+      "latitude": 39.755679,
+      "longitude": 19.645942
+    },
+    {
+      "name": "Anna",
+      "latitude": 35.330184,
+      "longitude": 25.257461
+    },
+    {
+      "name": "Anna Cars",
+      "latitude": 35.337206,
+      "longitude": 25.360901
+    },
+    {
+      "name": "Anna Vrettou",
+      "latitude": 37.884036,
+      "longitude": 24.736671
+    },
+    {
+      "name": "Ansa",
+      "latitude": 35.337648,
+      "longitude": 25.364749
+    },
+    {
+      "name": "Ansa",
+      "latitude": 37.966848,
+      "longitude": 23.729932
+    },
+    {
+      "name": "Antenna",
+      "latitude": 39.635624,
+      "longitude": 22.427746
+    },
+    {
+      "name": "Antony Rent a Car",
+      "latitude": 39.330057,
+      "longitude": 26.178351
+    },
+    {
+      "name": "Apex",
+      "latitude": 35.293211,
+      "longitude": 25.431166
+    },
+    {
+      "name": "Apex car rental",
+      "latitude": 35.293183,
+      "longitude": 25.430175
+    },
+    {
+      "name": "Apollo",
+      "latitude": 36.341056,
+      "longitude": 28.203489
+    },
+    {
+      "name": "Apollo",
+      "latitude": 36.342665,
+      "longitude": 28.200404
+    },
+    {
+      "name": "Apollon",
+      "latitude": 37.423087,
+      "longitude": 25.323684
+    },
+    {
+      "name": "Aramis",
+      "latitude": 37.708774,
+      "longitude": 26.673913
+    },
+    {
+      "name": "Aramis",
+      "latitude": 37.967213,
+      "longitude": 23.729879
+    },
+    {
+      "name": "Aramis/Sixt",
+      "latitude": 37.691298,
+      "longitude": 26.914279
+    },
+    {
+      "name": "Arena",
+      "latitude": 37.861676,
+      "longitude": 23.749231
+    },
+    {
+      "name": "Arena",
+      "latitude": 38.047064,
+      "longitude": 23.807994
+    },
+    {
+      "name": "Ariantique Classic Cars",
+      "latitude": 37.902779,
+      "longitude": 23.720043
+    },
+    {
+      "name": "Aries",
+      "latitude": 35.290293,
+      "longitude": 25.461741
+    },
+    {
+      "name": "Arillas car rental and Transfers",
+      "latitude": 39.743678,
+      "longitude": 19.649925
+    },
+    {
+      "name": "Arkadi",
+      "latitude": 35.366536,
+      "longitude": 24.48319
+    },
+    {
+      "name": "Arkadianos",
+      "latitude": 35.417361,
+      "longitude": 24.690513
+    },
+    {
+      "name": "Artemis",
+      "latitude": 35.292289,
+      "longitude": 25.477622
+    },
+    {
+      "name": "Aspida Rent-a-Car",
+      "latitude": 37.6226,
+      "longitude": 22.714662
+    },
+    {
+      "name": "Asset",
+      "latitude": 37.935852,
+      "longitude": 23.637515
+    },
+    {
+      "name": "Asset",
+      "latitude": 37.968002,
+      "longitude": 23.73143
+    },
+    {
+      "name": "Astir Car Rentals",
+      "latitude": 35.335803,
+      "longitude": 25.377814
+    },
+    {
+      "name": "Astra - Limotours",
+      "latitude": 37.967909,
+      "longitude": 23.730734
+    },
+    {
+      "name": "Astro Rental Cars",
+      "latitude": 35.371888,
+      "longitude": 24.541215
+    },
+    {
+      "name": "AstyCar",
+      "latitude": 36.548944,
+      "longitude": 26.352204
+    },
+    {
+      "name": "Athens Cars",
+      "latitude": 35.541457,
+      "longitude": 24.135184
+    },
+    {
+      "name": "Auto 365",
+      "latitude": 37.968279,
+      "longitude": 23.731244
+    },
+    {
+      "name": "Auto Bali",
+      "latitude": 35.407964,
+      "longitude": 24.783374
+    },
+    {
+      "name": "Auto Center",
+      "latitude": 37.443055,
+      "longitude": 25.328461
+    },
+    {
+      "name": "Auto Club",
+      "latitude": 35.454403,
+      "longitude": 24.17108
+    },
+    {
+      "name": "Auto Club",
+      "latitude": 37.690071,
+      "longitude": 26.941729
+    },
+    {
+      "name": "Auto Greece",
+      "latitude": 40.62852,
+      "longitude": 22.953061
+    },
+    {
+      "name": "Auto Here",
+      "latitude": 35.329054,
+      "longitude": 25.301657
+    },
+    {
+      "name": "Auto Hire Chania",
+      "latitude": 35.537934,
+      "longitude": 24.128574
+    },
+    {
+      "name": "Auto Holidays",
+      "latitude": 35.367244,
+      "longitude": 24.49614
+    },
+    {
+      "name": "auto lele",
+      "latitude": 35.33503,
+      "longitude": 25.302498
+    },
+    {
+      "name": "Auto LP",
+      "latitude": 37.962351,
+      "longitude": 23.71567
+    },
+    {
+      "name": "Auto Market",
+      "latitude": 36.946575,
+      "longitude": 26.983828
+    },
+    {
+      "name": "AUTO MOTION",
+      "latitude": 36.416048,
+      "longitude": 28.157283
+    },
+    {
+      "name": "Auto moto rental",
+      "latitude": 40.628095,
+      "longitude": 22.95301
+    },
+    {
+      "name": "Auto Motor Maleme",
+      "latitude": 35.522508,
+      "longitude": 23.848259
+    },
+    {
+      "name": "AUTO PRIMO",
+      "latitude": 36.418151,
+      "longitude": 28.176327
+    },
+    {
+      "name": "auto travel",
+      "latitude": 35.322148,
+      "longitude": 25.388177
+    },
+    {
+      "name": "Auto Union",
+      "latitude": 35.33727,
+      "longitude": 25.171732
+    },
+    {
+      "name": "Auto Union",
+      "latitude": 37.756396,
+      "longitude": 20.887172
+    },
+    {
+      "name": "Auto Union",
+      "latitude": 39.106862,
+      "longitude": 26.557315
+    },
+    {
+      "name": "Auto-Moto Apollo",
+      "latitude": 36.972496,
+      "longitude": 24.725204
+    },
+    {
+      "name": "Auto-Moto Apollo",
+      "latitude": 36.988646,
+      "longitude": 24.678317
+    },
+    {
+      "name": "Auto365",
+      "latitude": 40.574168,
+      "longitude": 22.983483
+    },
+    {
+      "name": "AutoBank",
+      "latitude": 36.912146,
+      "longitude": 27.278709
+    },
+    {
+      "name": "Autocandia",
+      "latitude": 35.336467,
+      "longitude": 25.171704
+    },
+    {
+      "name": "Autocandia",
+      "latitude": 36.39053,
+      "longitude": 28.125273
+    },
+    {
+      "name": "Autofashion",
+      "latitude": 36.24694,
+      "longitude": 28.158207
+    },
+    {
+      "name": "Autogalini",
+      "latitude": 35.096488,
+      "longitude": 24.687449
+    },
+    {
+      "name": "Autohire",
+      "latitude": 35.29081,
+      "longitude": 25.441439
+    },
+    {
+      "name": "autoland",
+      "latitude": 37.778992,
+      "longitude": 26.890028
+    },
+    {
+      "name": "Autolux",
+      "latitude": 37.737997,
+      "longitude": 20.907217
+    },
+    {
+      "name": "AutoLux",
+      "latitude": 37.741089,
+      "longitude": 20.892187
+    },
+    {
+      "name": "Autolux",
+      "latitude": 37.741382,
+      "longitude": 20.906475
+    },
+    {
+      "name": "Autorent",
+      "latitude": 39.613024,
+      "longitude": 19.906931
+    },
+    {
+      "name": "Autorentals Crete",
+      "latitude": 35.308841,
+      "longitude": 25.521681
+    },
+    {
+      "name": "AutoTravel/AutoKreta.de",
+      "latitude": 35.336659,
+      "longitude": 25.171833
+    },
+    {
+      "name": "AutoUnion",
+      "latitude": 35.510029,
+      "longitude": 27.203841
+    },
+    {
+      "name": "AutoUnion",
+      "latitude": 36.382063,
+      "longitude": 28.133581
+    },
+    {
+      "name": "autoUnion",
+      "latitude": 36.725753,
+      "longitude": 24.44932
+    },
+    {
+      "name": "autoUnion",
+      "latitude": 37.099342,
+      "longitude": 25.378026
+    },
+    {
+      "name": "AutoUnion",
+      "latitude": 37.691521,
+      "longitude": 26.940044
+    },
+    {
+      "name": "AutoUnion",
+      "latitude": 37.764712,
+      "longitude": 20.922881
+    },
+    {
+      "name": "AutoUnion",
+      "latitude": 37.895192,
+      "longitude": 23.912256
+    },
+    {
+      "name": "autoUnion",
+      "latitude": 39.052299,
+      "longitude": 26.604726
+    },
+    {
+      "name": "autoUnion",
+      "latitude": 39.164584,
+      "longitude": 23.491612
+    },
+    {
+      "name": "Autounion",
+      "latitude": 40.524508,
+      "longitude": 23.00633
+    },
+    {
+      "name": "autoUnion - Sotirakis",
+      "latitude": 38.373119,
+      "longitude": 26.139177
+    },
+    {
+      "name": "autoUnion car rental",
+      "latitude": 37.124089,
+      "longitude": 25.237469
+    },
+    {
+      "name": "autoway",
+      "latitude": 35.336733,
+      "longitude": 25.171609
+    },
+    {
+      "name": "Autoway",
+      "latitude": 35.366831,
+      "longitude": 24.490783
+    },
+    {
+      "name": "Autoway Kos",
+      "latitude": 36.803437,
+      "longitude": 27.092022
+    },
+    {
+      "name": "Avance",
+      "latitude": 37.434477,
+      "longitude": 25.341974
+    },
+    {
+      "name": "avance",
+      "latitude": 37.539437,
+      "longitude": 25.157344
+    },
+    {
+      "name": "avance",
+      "latitude": 37.960392,
+      "longitude": 23.737048
+    },
+    {
+      "name": "Avance",
+      "latitude": 37.966763,
+      "longitude": 23.729246
+    },
+    {
+      "name": "Avance",
+      "latitude": 38.048003,
+      "longitude": 23.807644
+    },
+    {
+      "name": "avance",
+      "latitude": 38.391379,
+      "longitude": 21.824084
+    },
+    {
+      "name": "Avance",
+      "latitude": 39.062604,
+      "longitude": 26.598572
+    },
+    {
+      "name": "avance",
+      "latitude": 40.627946,
+      "longitude": 22.952989
+    },
+    {
+      "name": "Avance Cars",
+      "latitude": 36.9084,
+      "longitude": 27.280123
+    },
+    {
+      "name": "Avance Rent a Car",
+      "latitude": 36.403635,
+      "longitude": 25.47226
+    },
+    {
+      "name": "Avance Rent a Car Kyllini - Arkoudi",
+      "latitude": 37.85078,
+      "longitude": 21.114349
+    },
+    {
+      "name": "Avenance Rent a Car",
+      "latitude": 36.724705,
+      "longitude": 24.445512
+    },
+    {
+      "name": "Avenue",
+      "latitude": 37.967139,
+      "longitude": 23.729778
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.318173,
+      "longitude": 25.387695
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.333676,
+      "longitude": 25.17299
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.341833,
+      "longitude": 25.134302
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.342027,
+      "longitude": 25.13999
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.366537,
+      "longitude": 24.482829
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.507453,
+      "longitude": 27.206096
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.507897,
+      "longitude": 27.208987
+    },
+    {
+      "name": "Avis",
+      "latitude": 35.517538,
+      "longitude": 23.913561
+    },
+    {
+      "name": "Avis",
+      "latitude": 36.344532,
+      "longitude": 28.201052
+    },
+    {
+      "name": "Avis",
+      "latitude": 36.402134,
+      "longitude": 28.090354
+    },
+    {
+      "name": "Avis",
+      "latitude": 36.417065,
+      "longitude": 28.169202
+    },
+    {
+      "name": "Avis",
+      "latitude": 36.998781,
+      "longitude": 26.937355
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.085477,
+      "longitude": 25.150653
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.085955,
+      "longitude": 25.148818
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.101165,
+      "longitude": 25.377181
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.690245,
+      "longitude": 26.939422
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.6913,
+      "longitude": 26.914337
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.754314,
+      "longitude": 20.886956
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.775665,
+      "longitude": 20.894169
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.936369,
+      "longitude": 23.946742
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.939336,
+      "longitude": 23.949151
+    },
+    {
+      "name": "Avis",
+      "latitude": 37.967069,
+      "longitude": 23.730239
+    },
+    {
+      "name": "Avis",
+      "latitude": 38.024393,
+      "longitude": 23.790152
+    },
+    {
+      "name": "Avis",
+      "latitude": 39.062574,
+      "longitude": 26.598587
+    },
+    {
+      "name": "Avis",
+      "latitude": 39.104685,
+      "longitude": 26.55996
+    },
+    {
+      "name": "Avis",
+      "latitude": 39.285532,
+      "longitude": 20.402104
+    },
+    {
+      "name": "Avis",
+      "latitude": 39.608577,
+      "longitude": 19.915129
+    },
+    {
+      "name": "Avis",
+      "latitude": 39.613087,
+      "longitude": 19.910272
+    },
+    {
+      "name": "Avis",
+      "latitude": 39.793587,
+      "longitude": 19.818686
+    },
+    {
+      "name": "Avis",
+      "latitude": 40.078146,
+      "longitude": 23.446326
+    },
+    {
+      "name": "AVIS",
+      "latitude": 40.078634,
+      "longitude": 23.445895
+    },
+    {
+      "name": "Avis",
+      "latitude": 40.523891,
+      "longitude": 22.976294
+    },
+    {
+      "name": "Avis",
+      "latitude": 40.525716,
+      "longitude": 22.975317
+    },
+    {
+      "name": "Avis",
+      "latitude": 40.614026,
+      "longitude": 24.602887
+    },
+    {
+      "name": "Avis",
+      "latitude": 40.729258,
+      "longitude": 24.758912
+    },
+    {
+      "name": "Avis",
+      "latitude": 40.921957,
+      "longitude": 24.622737
+    },
+    {
+      "name": "AVIS / Budget",
+      "latitude": 39.496084,
+      "longitude": 20.26282
+    },
+    {
+      "name": "AVIS Budget",
+      "latitude": 35.336855,
+      "longitude": 25.172818
+    },
+    {
+      "name": "AVIS Car Rental",
+      "latitude": 40.509153,
+      "longitude": 22.979895
+    },
+    {
+      "name": "Avis/Budget",
+      "latitude": 38.83464,
+      "longitude": 20.71028
+    },
+    {
+      "name": "Axion - rent a car motorbike",
+      "latitude": 36.358196,
+      "longitude": 25.398684
+    },
+    {
+      "name": "Axion Car Rental",
+      "latitude": 36.337902,
+      "longitude": 25.432928
+    },
+    {
+      "name": "B&B bike rental",
+      "latitude": 37.439358,
+      "longitude": 25.327251
+    },
+    {
+      "name": "B4U Travel",
+      "latitude": 37.757117,
+      "longitude": 20.887597
+    },
+    {
+      "name": "Bakiris Rent a Car",
+      "latitude": 36.293123,
+      "longitude": 28.162511
+    },
+    {
+      "name": "Balnea Co.",
+      "latitude": 35.334199,
+      "longitude": 25.299151
+    },
+    {
+      "name": "Bazaar",
+      "latitude": 37.966886,
+      "longitude": 23.729991
+    },
+    {
+      "name": "Beepit",
+      "latitude": 35.337677,
+      "longitude": 25.162373
+    },
+    {
+      "name": "Belle Helene Rent a Car",
+      "latitude": 39.721408,
+      "longitude": 19.67592
+    },
+    {
+      "name": "Belukas",
+      "latitude": 35.316092,
+      "longitude": 25.390546
+    },
+    {
+      "name": "Best",
+      "latitude": 35.507887,
+      "longitude": 27.209344
+    },
+    {
+      "name": "BEST CARS RENTAL",
+      "latitude": 35.367964,
+      "longitude": 24.506475
+    },
+    {
+      "name": "Best Cars Rental",
+      "latitude": 35.417138,
+      "longitude": 24.685433
+    },
+    {
+      "name": "Best choice rent a car",
+      "latitude": 37.841903,
+      "longitude": 20.76718
+    },
+    {
+      "name": "Best Hellenic",
+      "latitude": 35.337568,
+      "longitude": 25.164711
+    },
+    {
+      "name": "Best Moto",
+      "latitude": 36.996058,
+      "longitude": 26.935351
+    },
+    {
+      "name": "Best rent a car",
+      "latitude": 39.364192,
+      "longitude": 26.177821
+    },
+    {
+      "name": "Bikes & ATV",
+      "latitude": 39.547253,
+      "longitude": 19.853393
+    },
+    {
+      "name": "Bill Angelou",
+      "latitude": 36.345759,
+      "longitude": 28.201326
+    },
+    {
+      "name": "Billy's rent a car",
+      "latitude": 35.5073,
+      "longitude": 27.209893
+    },
+    {
+      "name": "Billy’s",
+      "latitude": 39.316726,
+      "longitude": 26.151157
+    },
+    {
+      "name": "Blue Horizon",
+      "latitude": 37.711933,
+      "longitude": 20.858362
+    },
+    {
+      "name": "Blue Sea Car & Bike Rental",
+      "latitude": 35.341227,
+      "longitude": 25.135397
+    },
+    {
+      "name": "Bluerent a car",
+      "latitude": 40.39599,
+      "longitude": 23.880962
+    },
+    {
+      "name": "BNB Cars, Motorbikes & ATVs Rentals",
+      "latitude": 37.786086,
+      "longitude": 20.899025
+    },
+    {
+      "name": "Bounos",
+      "latitude": 37.524019,
+      "longitude": 22.862625
+    },
+    {
+      "name": "Bounos",
+      "latitude": 37.565021,
+      "longitude": 22.800344
+    },
+    {
+      "name": "Budget",
+      "latitude": 35.337569,
+      "longitude": 25.164544
+    },
+    {
+      "name": "Budget",
+      "latitude": 36.404466,
+      "longitude": 25.468225
+    },
+    {
+      "name": "Budget",
+      "latitude": 36.892411,
+      "longitude": 27.29544
+    },
+    {
+      "name": "Budget",
+      "latitude": 37.085962,
+      "longitude": 25.148836
+    },
+    {
+      "name": "Budget",
+      "latitude": 37.690163,
+      "longitude": 26.941232
+    },
+    {
+      "name": "Budget",
+      "latitude": 39.062589,
+      "longitude": 26.59858
+    },
+    {
+      "name": "Budget",
+      "latitude": 40.078074,
+      "longitude": 23.446373
+    },
+    {
+      "name": "Budget",
+      "latitude": 40.523977,
+      "longitude": 22.976176
+    },
+    {
+      "name": "Budget",
+      "latitude": 40.525687,
+      "longitude": 22.97529
+    },
+    {
+      "name": "Budget Rent a Car",
+      "latitude": 38.073997,
+      "longitude": 20.798422
+    },
+    {
+      "name": "ButterFly Rent a Car",
+      "latitude": 36.448156,
+      "longitude": 28.221186
+    },
+    {
+      "name": "Byron Travel",
+      "latitude": 35.33637,
+      "longitude": 25.172281
+    },
+    {
+      "name": "Caldera Car Rental",
+      "latitude": 35.541298,
+      "longitude": 24.134992
+    },
+    {
+      "name": "Cammel",
+      "latitude": 35.406326,
+      "longitude": 24.783592
+    },
+    {
+      "name": "Cammel",
+      "latitude": 35.413734,
+      "longitude": 24.782785
+    },
+    {
+      "name": "Capital",
+      "latitude": 37.968411,
+      "longitude": 23.731406
+    },
+    {
+      "name": "Car and Bike Rental",
+      "latitude": 35.350758,
+      "longitude": 24.300391
+    },
+    {
+      "name": "Car Holidays",
+      "latitude": 35.412312,
+      "longitude": 24.782728
+    },
+    {
+      "name": "Car Motor Plan",
+      "latitude": 35.308212,
+      "longitude": 25.520564
+    },
+    {
+      "name": "Car Rental",
+      "latitude": 35.417644,
+      "longitude": 25.018695
+    },
+    {
+      "name": "Car Rental Easy Rider",
+      "latitude": 37.778115,
+      "longitude": 26.88686
+    },
+    {
+      "name": "Car rental moto",
+      "latitude": 36.995155,
+      "longitude": 26.934508
+    },
+    {
+      "name": "Car Rental Services Greece",
+      "latitude": 40.522005,
+      "longitude": 22.995938
+    },
+    {
+      "name": "Car rentals",
+      "latitude": 39.612117,
+      "longitude": 19.912903
+    },
+    {
+      "name": "Car rot hire",
+      "latitude": 39.196942,
+      "longitude": 20.184682
+    },
+    {
+      "name": "Car Union",
+      "latitude": 38.931623,
+      "longitude": 20.77809
+    },
+    {
+      "name": "Car4You",
+      "latitude": 39.120447,
+      "longitude": 23.72888
+    },
+    {
+      "name": "Caravel",
+      "latitude": 35.293322,
+      "longitude": 25.430697
+    },
+    {
+      "name": "Caravel",
+      "latitude": 35.293727,
+      "longitude": 25.428778
+    },
+    {
+      "name": "Caravel Rent a Car",
+      "latitude": 35.340059,
+      "longitude": 25.134103
+    },
+    {
+      "name": "Carent",
+      "latitude": 37.965814,
+      "longitude": 23.728584
+    },
+    {
+      "name": "CaRenta",
+      "latitude": 36.080414,
+      "longitude": 28.018498
+    },
+    {
+      "name": "Carenta",
+      "latitude": 36.080544,
+      "longitude": 28.018412
+    },
+    {
+      "name": "Carera",
+      "latitude": 35.314495,
+      "longitude": 25.394787
+    },
+    {
+      "name": "CarHire-Rhodes.com",
+      "latitude": 36.399587,
+      "longitude": 28.078506
+    },
+    {
+      "name": "CarHub Rent a Car Santorini Port / Santorini Car Rental",
+      "latitude": 36.385828,
+      "longitude": 25.429709
+    },
+    {
+      "name": "Carma Cars",
+      "latitude": 40.078131,
+      "longitude": 23.446355
+    },
+    {
+      "name": "CarO rentals",
+      "latitude": 35.463249,
+      "longitude": 24.123851
+    },
+    {
+      "name": "Caroline's Travel Shop",
+      "latitude": 35.335818,
+      "longitude": 25.30336
+    },
+    {
+      "name": "Caroline's travelshop",
+      "latitude": 35.332102,
+      "longitude": 25.302026
+    },
+    {
+      "name": "Cars Gr Center",
+      "latitude": 38.013981,
+      "longitude": 23.719505
+    },
+    {
+      "name": "Carwhiz",
+      "latitude": 35.337213,
+      "longitude": 25.162737
+    },
+    {
+      "name": "Carwiz",
+      "latitude": 37.966235,
+      "longitude": 23.729139
+    },
+    {
+      "name": "CarWiz",
+      "latitude": 39.611996,
+      "longitude": 19.914033
+    },
+    {
+      "name": "cbr",
+      "latitude": 38.119192,
+      "longitude": 20.506432
+    },
+    {
+      "name": "CBR Car Rentals",
+      "latitude": 38.07402,
+      "longitude": 20.798251
+    },
+    {
+      "name": "cbr rent a car",
+      "latitude": 38.119483,
+      "longitude": 20.62799
+    },
+    {
+      "name": "Centauro",
+      "latitude": 35.518132,
+      "longitude": 24.123112
+    },
+    {
+      "name": "Centauro",
+      "latitude": 37.898401,
+      "longitude": 23.909014
+    },
+    {
+      "name": "Centauro Rent a Car",
+      "latitude": 35.337865,
+      "longitude": 25.163158
+    },
+    {
+      "name": "Centauro Rent a Car",
+      "latitude": 35.516855,
+      "longitude": 24.108499
+    },
+    {
+      "name": "Centauro Rent a Car",
+      "latitude": 36.400681,
+      "longitude": 25.458047
+    },
+    {
+      "name": "Centauro Rent a Car",
+      "latitude": 37.895476,
+      "longitude": 23.913142
+    },
+    {
+      "name": "Centauro Rent a Car",
+      "latitude": 40.523084,
+      "longitude": 22.994294
+    },
+    {
+      "name": "Central Autobank",
+      "latitude": 36.90739,
+      "longitude": 27.280488
+    },
+    {
+      "name": "Chalkidiki Cars",
+      "latitude": 40.259655,
+      "longitude": 23.492509
+    },
+    {
+      "name": "Chalkidiki Cars",
+      "latitude": 40.530527,
+      "longitude": 22.99663
+    },
+    {
+      "name": "Chandris",
+      "latitude": 37.938398,
+      "longitude": 23.64059
+    },
+    {
+      "name": "Chronis Bike Center",
+      "latitude": 35.332956,
+      "longitude": 25.305946
+    },
+    {
+      "name": "City car rental",
+      "latitude": 36.449907,
+      "longitude": 28.216937
+    },
+    {
+      "name": "City car rental",
+      "latitude": 38.199913,
+      "longitude": 20.438969
+    },
+    {
+      "name": "City Club",
+      "latitude": 36.336433,
+      "longitude": 28.20222
+    },
+    {
+      "name": "City Club",
+      "latitude": 36.337691,
+      "longitude": 28.201289
+    },
+    {
+      "name": "City Star Rent A Car",
+      "latitude": 37.87328,
+      "longitude": 23.763217
+    },
+    {
+      "name": "CityCar",
+      "latitude": 35.336918,
+      "longitude": 25.171554
+    },
+    {
+      "name": "Clubcars",
+      "latitude": 35.206609,
+      "longitude": 26.107111
+    },
+    {
+      "name": "Colossos",
+      "latitude": 36.447896,
+      "longitude": 28.214568
+    },
+    {
+      "name": "Colours rent a car",
+      "latitude": 37.883274,
+      "longitude": 24.735854
+    },
+    {
+      "name": "Compass Crete",
+      "latitude": 35.383281,
+      "longitude": 24.587835
+    },
+    {
+      "name": "Concord",
+      "latitude": 37.966698,
+      "longitude": 23.729173
+    },
+    {
+      "name": "Coral",
+      "latitude": 35.519856,
+      "longitude": 23.928934
+    },
+    {
+      "name": "Coralli Rentals",
+      "latitude": 37.141462,
+      "longitude": 24.516471
+    },
+    {
+      "name": "Corfu Explore car hire",
+      "latitude": 39.611971,
+      "longitude": 19.913397
+    },
+    {
+      "name": "Corfu Sluta Leta Rentals | Main Office at Gouvia",
+      "latitude": 39.656294,
+      "longitude": 19.840062
+    },
+    {
+      "name": "Corfu Sluta Leta Rentals | Office at Airport",
+      "latitude": 39.611872,
+      "longitude": 19.907197
+    },
+    {
+      "name": "Corfu Top Cars",
+      "latitude": 39.626618,
+      "longitude": 19.920624
+    },
+    {
+      "name": "Cosmos Rent a Car",
+      "latitude": 40.573243,
+      "longitude": 22.974988
+    },
+    {
+      "name": "Costa's",
+      "latitude": 35.289967,
+      "longitude": 25.453613
+    },
+    {
+      "name": "Costas Rent a car Service",
+      "latitude": 39.71682,
+      "longitude": 19.684821
+    },
+    {
+      "name": "Cretamotor",
+      "latitude": 35.290128,
+      "longitude": 25.458862
+    },
+    {
+      "name": "Cretamotor",
+      "latitude": 35.290517,
+      "longitude": 25.462746
+    },
+    {
+      "name": "Cretamotor",
+      "latitude": 35.290884,
+      "longitude": 25.46086
+    },
+    {
+      "name": "Cretan Travellers",
+      "latitude": 34.993279,
+      "longitude": 24.750418
+    },
+    {
+      "name": "Cretan Travellers",
+      "latitude": 35.09727,
+      "longitude": 24.686813
+    },
+    {
+      "name": "Cretopia",
+      "latitude": 35.495886,
+      "longitude": 23.650383
+    },
+    {
+      "name": "Crossroad Car Park",
+      "latitude": 37.902766,
+      "longitude": 23.896852
+    },
+    {
+      "name": "Cruise",
+      "latitude": 39.9892,
+      "longitude": 23.611328
+    },
+    {
+      "name": "Cyclades rent a car",
+      "latitude": 37.085983,
+      "longitude": 25.150197
+    },
+    {
+      "name": "Dalion",
+      "latitude": 39.632027,
+      "longitude": 22.424615
+    },
+    {
+      "name": "Dan Rental",
+      "latitude": 35.29016,
+      "longitude": 25.453913
+    },
+    {
+      "name": "Delis",
+      "latitude": 36.547812,
+      "longitude": 26.352826
+    },
+    {
+      "name": "Diakomihalis",
+      "latitude": 36.613954,
+      "longitude": 27.138575
+    },
+    {
+      "name": "DIAS Travel Agency - Car rental",
+      "latitude": 37.646888,
+      "longitude": 21.315991
+    },
+    {
+      "name": "DiffeRent",
+      "latitude": 38.074816,
+      "longitude": 20.799106
+    },
+    {
+      "name": "Different.com",
+      "latitude": 35.378644,
+      "longitude": 24.566902
+    },
+    {
+      "name": "Dimitra Cars",
+      "latitude": 36.208916,
+      "longitude": 28.140123
+    },
+    {
+      "name": "Dimitris",
+      "latitude": 39.205859,
+      "longitude": 26.210428
+    },
+    {
+      "name": "Dimitris rent a car",
+      "latitude": 36.738438,
+      "longitude": 26.969792
+    },
+    {
+      "name": "Dimitris rent car",
+      "latitude": 37.712096,
+      "longitude": 26.695346
+    },
+    {
+      "name": "Dinos Rentals",
+      "latitude": 37.690841,
+      "longitude": 26.927652
+    },
+    {
+      "name": "Dinos Rentals Samos",
+      "latitude": 37.693849,
+      "longitude": 26.921262
+    },
+    {
+      "name": "Direct",
+      "latitude": 35.290114,
+      "longitude": 25.446177
+    },
+    {
+      "name": "Dirent",
+      "latitude": 37.757291,
+      "longitude": 20.886861
+    },
+    {
+      "name": "Dirent",
+      "latitude": 39.49946,
+      "longitude": 20.264799
+    },
+    {
+      "name": "Dirent a car",
+      "latitude": 40.529347,
+      "longitude": 22.996118
+    },
+    {
+      "name": "Dirent S.A.",
+      "latitude": 36.054643,
+      "longitude": 27.971055
+    },
+    {
+      "name": "Dirt Motors",
+      "latitude": 37.447633,
+      "longitude": 25.335321
+    },
+    {
+      "name": "Discover",
+      "latitude": 39.051492,
+      "longitude": 26.605239
+    },
+    {
+      "name": "Discover",
+      "latitude": 39.104435,
+      "longitude": 26.560228
+    },
+    {
+      "name": "Dolihi Tours",
+      "latitude": 37.615428,
+      "longitude": 26.295994
+    },
+    {
+      "name": "Dolihi Tours",
+      "latitude": 37.633726,
+      "longitude": 26.087572
+    },
+    {
+      "name": "DP",
+      "latitude": 37.938381,
+      "longitude": 23.640531
+    },
+    {
+      "name": "Dream Rent A Car",
+      "latitude": 37.711911,
+      "longitude": 26.679315
+    },
+    {
+      "name": "Drive",
+      "latitude": 37.05042,
+      "longitude": 22.013644
+    },
+    {
+      "name": "Drive 46 Car & Motorbike Rental",
+      "latitude": 39.482774,
+      "longitude": 19.924688
+    },
+    {
+      "name": "Drive Corfu rent",
+      "latitude": 39.815051,
+      "longitude": 19.862557
+    },
+    {
+      "name": "Drive Corfu, Rent a Car",
+      "latitude": 39.811132,
+      "longitude": 19.864437
+    },
+    {
+      "name": "Drive Hellas",
+      "latitude": 40.575359,
+      "longitude": 22.983359
+    },
+    {
+      "name": "Drive rent a car",
+      "latitude": 36.38271,
+      "longitude": 28.134079
+    },
+    {
+      "name": "Drive Time",
+      "latitude": 37.100276,
+      "longitude": 25.375366
+    },
+    {
+      "name": "Drive With Joy - K.S.K.",
+      "latitude": 37.990285,
+      "longitude": 23.739036
+    },
+    {
+      "name": "DriveCrete",
+      "latitude": 35.012191,
+      "longitude": 25.835993
+    },
+    {
+      "name": "Driven Rentals",
+      "latitude": 37.683059,
+      "longitude": 20.835459
+    },
+    {
+      "name": "DriveNow",
+      "latitude": 35.010011,
+      "longitude": 25.751498
+    },
+    {
+      "name": "DriveRentACar",
+      "latitude": 36.373531,
+      "longitude": 28.193118
+    },
+    {
+      "name": "Drivers Club",
+      "latitude": 35.012714,
+      "longitude": 25.835469
+    },
+    {
+      "name": "Drivibe",
+      "latitude": 39.411423,
+      "longitude": 20.071599
+    },
+    {
+      "name": "Duck rentals",
+      "latitude": 37.778343,
+      "longitude": 26.89208
+    },
+    {
+      "name": "E.V. Tours",
+      "latitude": 35.517706,
+      "longitude": 23.900771
+    },
+    {
+      "name": "E.V. tours",
+      "latitude": 35.517997,
+      "longitude": 23.89838
+    },
+    {
+      "name": "Eagle",
+      "latitude": 35.251788,
+      "longitude": 25.727801
+    },
+    {
+      "name": "Eagle's nest car & bike rental",
+      "latitude": 36.619121,
+      "longitude": 27.169566
+    },
+    {
+      "name": "Easy Rent",
+      "latitude": 35.28486,
+      "longitude": 25.462363
+    },
+    {
+      "name": "Easy State",
+      "latitude": 39.662078,
+      "longitude": 20.846702
+    },
+    {
+      "name": "EasyAuto",
+      "latitude": 35.292272,
+      "longitude": 25.426686
+    },
+    {
+      "name": "Easyrent",
+      "latitude": 35.370918,
+      "longitude": 24.537347
+    },
+    {
+      "name": "Eco Rental",
+      "latitude": 40.523465,
+      "longitude": 22.990159
+    },
+    {
+      "name": "ECOMOTION",
+      "latitude": 40.2202,
+      "longitude": 23.667603
+    },
+    {
+      "name": "Economy",
+      "latitude": 35.193694,
+      "longitude": 25.717609
+    },
+    {
+      "name": "Elgea",
+      "latitude": 37.93175,
+      "longitude": 23.642158
+    },
+    {
+      "name": "Elounda Travel",
+      "latitude": 35.244439,
+      "longitude": 25.729488
+    },
+    {
+      "name": "Elounda Travel",
+      "latitude": 35.250851,
+      "longitude": 25.727976
+    },
+    {
+      "name": "Elounda Travel",
+      "latitude": 35.259927,
+      "longitude": 25.726673
+    },
+    {
+      "name": "Elounda Travel",
+      "latitude": 35.26176,
+      "longitude": 25.723418
+    },
+    {
+      "name": "Elounda Travel",
+      "latitude": 35.261981,
+      "longitude": 25.721696
+    },
+    {
+      "name": "Elpis",
+      "latitude": 35.41013,
+      "longitude": 24.780629
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 35.371223,
+      "longitude": 24.538695
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 35.517751,
+      "longitude": 24.120923
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 35.519344,
+      "longitude": 23.927819
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 36.414479,
+      "longitude": 25.435107
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 36.725642,
+      "longitude": 24.446914
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 37.054746,
+      "longitude": 22.034396
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 37.708976,
+      "longitude": 26.675339
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 37.756332,
+      "longitude": 20.887191
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 37.967278,
+      "longitude": 23.730566
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 37.980762,
+      "longitude": 23.706252
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 38.834193,
+      "longitude": 20.710557
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 39.119604,
+      "longitude": 23.730913
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 39.625599,
+      "longitude": 19.910241
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 39.792626,
+      "longitude": 19.816737
+    },
+    {
+      "name": "Enterprise",
+      "latitude": 40.922041,
+      "longitude": 24.622925
+    },
+    {
+      "name": "Escape",
+      "latitude": 37.965862,
+      "longitude": 23.728646
+    },
+    {
+      "name": "Escape In Naxos",
+      "latitude": 37.101059,
+      "longitude": 25.375865
+    },
+    {
+      "name": "Ethon",
+      "latitude": 35.362987,
+      "longitude": 24.259824
+    },
+    {
+      "name": "Etos Rent a Car",
+      "latitude": 36.448281,
+      "longitude": 28.221614
+    },
+    {
+      "name": "Etrem",
+      "latitude": 36.349009,
+      "longitude": 28.203298
+    },
+    {
+      "name": "EURO",
+      "latitude": 37.52357,
+      "longitude": 22.862307
+    },
+    {
+      "name": "Euro Alfa",
+      "latitude": 37.815107,
+      "longitude": 20.866049
+    },
+    {
+      "name": "Euro Motor",
+      "latitude": 35.290921,
+      "longitude": 25.442736
+    },
+    {
+      "name": "Euro Rent",
+      "latitude": 35.362711,
+      "longitude": 24.260717
+    },
+    {
+      "name": "Euro Rent a Car",
+      "latitude": 37.566649,
+      "longitude": 22.801666
+    },
+    {
+      "name": "Euro-cars",
+      "latitude": 39.496809,
+      "longitude": 20.26348
+    },
+    {
+      "name": "EuroAlfa Car Rentals",
+      "latitude": 37.758033,
+      "longitude": 20.88729
+    },
+    {
+      "name": "Eurocar",
+      "latitude": 35.333231,
+      "longitude": 25.377457
+    },
+    {
+      "name": "Eurocar",
+      "latitude": 35.517463,
+      "longitude": 23.916919
+    },
+    {
+      "name": "eurocreta",
+      "latitude": 35.338748,
+      "longitude": 25.144043
+    },
+    {
+      "name": "Eurocreta",
+      "latitude": 35.341887,
+      "longitude": 25.1345
+    },
+    {
+      "name": "Eurodolar/Alamo Car rental",
+      "latitude": 36.421874,
+      "longitude": 25.431711
+    },
+    {
+      "name": "EuroHire",
+      "latitude": 37.740874,
+      "longitude": 20.892675
+    },
+    {
+      "name": "Europcar",
+      "latitude": 35.306249,
+      "longitude": 25.404883
+    },
+    {
+      "name": "Europcar",
+      "latitude": 35.315381,
+      "longitude": 25.395867
+    },
+    {
+      "name": "Europcar",
+      "latitude": 35.337914,
+      "longitude": 25.163422
+    },
+    {
+      "name": "Europcar",
+      "latitude": 35.540285,
+      "longitude": 24.129064
+    },
+    {
+      "name": "Europcar",
+      "latitude": 36.403908,
+      "longitude": 25.472225
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.039763,
+      "longitude": 25.084218
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.085985,
+      "longitude": 25.15182
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.101915,
+      "longitude": 25.376415
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.427103,
+      "longitude": 24.92757
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.517642,
+      "longitude": 22.857735
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.690142,
+      "longitude": 26.941374
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.691298,
+      "longitude": 26.914315
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.75681,
+      "longitude": 20.887027
+    },
+    {
+      "name": "Europcar",
+      "latitude": 37.967093,
+      "longitude": 23.729696
+    },
+    {
+      "name": "Europcar",
+      "latitude": 38.363648,
+      "longitude": 20.718858
+    },
+    {
+      "name": "Europcar",
+      "latitude": 38.393078,
+      "longitude": 23.794355
+    },
+    {
+      "name": "Europcar",
+      "latitude": 38.83358,
+      "longitude": 20.7107
+    },
+    {
+      "name": "Europcar",
+      "latitude": 39.106888,
+      "longitude": 26.558367
+    },
+    {
+      "name": "Europcar",
+      "latitude": 39.496563,
+      "longitude": 20.263116
+    },
+    {
+      "name": "Europcar",
+      "latitude": 40.075525,
+      "longitude": 23.447921
+    },
+    {
+      "name": "Europcar",
+      "latitude": 40.261402,
+      "longitude": 22.594734
+    },
+    {
+      "name": "Europcar",
+      "latitude": 40.523918,
+      "longitude": 22.976253
+    },
+    {
+      "name": "Europcar",
+      "latitude": 40.528417,
+      "longitude": 22.996073
+    },
+    {
+      "name": "Europcar",
+      "latitude": 40.531748,
+      "longitude": 22.993739
+    },
+    {
+      "name": "Europcar",
+      "latitude": 40.727411,
+      "longitude": 24.756709
+    },
+    {
+      "name": "Europcar",
+      "latitude": 40.935971,
+      "longitude": 24.412283
+    },
+    {
+      "name": "Europe rent a car",
+      "latitude": 35.335388,
+      "longitude": 25.071852
+    },
+    {
+      "name": "Europecar",
+      "latitude": 40.078615,
+      "longitude": 23.445917
+    },
+    {
+      "name": "Europecar",
+      "latitude": 40.220376,
+      "longitude": 23.672821
+    },
+    {
+      "name": "Eurorent",
+      "latitude": 35.351022,
+      "longitude": 24.296873
+    },
+    {
+      "name": "Eurorent",
+      "latitude": 40.627644,
+      "longitude": 22.952955
+    },
+    {
+      "name": "Eurotrip",
+      "latitude": 35.290706,
+      "longitude": 25.463005
+    },
+    {
+      "name": "Eurowheels",
+      "latitude": 38.712378,
+      "longitude": 20.714702
+    },
+    {
+      "name": "EV",
+      "latitude": 37.94305,
+      "longitude": 23.740007
+    },
+    {
+      "name": "Evans Rent",
+      "latitude": 37.979083,
+      "longitude": 23.736927
+    },
+    {
+      "name": "Evelin Rent a Car",
+      "latitude": 40.501192,
+      "longitude": 22.908395
+    },
+    {
+      "name": "Everywhere",
+      "latitude": 39.626226,
+      "longitude": 19.903602
+    },
+    {
+      "name": "Evo Car Rental",
+      "latitude": 36.627626,
+      "longitude": 24.922825
+    },
+    {
+      "name": "EVROS CAR",
+      "latitude": 41.118167,
+      "longitude": 25.401961
+    },
+    {
+      "name": "Exer",
+      "latitude": 36.408332,
+      "longitude": 28.109672
+    },
+    {
+      "name": "EXER",
+      "latitude": 36.803424,
+      "longitude": 27.091976
+    },
+    {
+      "name": "Express",
+      "latitude": 36.452838,
+      "longitude": 28.222082
+    },
+    {
+      "name": "Express Rent A Car",
+      "latitude": 38.165143,
+      "longitude": 20.482661
+    },
+    {
+      "name": "Extreme Cars",
+      "latitude": 36.244698,
+      "longitude": 28.157978
+    },
+    {
+      "name": "eXtreme Cars Rental",
+      "latitude": 36.204711,
+      "longitude": 28.139052
+    },
+    {
+      "name": "F&G Rent A Car",
+      "latitude": 38.002034,
+      "longitude": 23.847499
+    },
+    {
+      "name": "Faber Rentals",
+      "latitude": 35.520122,
+      "longitude": 23.870152
+    },
+    {
+      "name": "Faliraki Cars",
+      "latitude": 36.33968,
+      "longitude": 28.201662
+    },
+    {
+      "name": "Faliraki Moto Center",
+      "latitude": 36.346635,
+      "longitude": 28.20148
+    },
+    {
+      "name": "Falon",
+      "latitude": 37.100757,
+      "longitude": 25.375611
+    },
+    {
+      "name": "Famozo Car Rentals",
+      "latitude": 37.835779,
+      "longitude": 20.78206
+    },
+    {
+      "name": "Fast Rental",
+      "latitude": 40.657821,
+      "longitude": 22.925661
+    },
+    {
+      "name": "First",
+      "latitude": 39.479741,
+      "longitude": 19.925611
+    },
+    {
+      "name": "FlexiRentals",
+      "latitude": 37.757349,
+      "longitude": 20.886836
+    },
+    {
+      "name": "Flipcar",
+      "latitude": 38.02024,
+      "longitude": 23.796624
+    },
+    {
+      "name": "Flisvos",
+      "latitude": 35.453242,
+      "longitude": 24.172455
+    },
+    {
+      "name": "Flocas",
+      "latitude": 37.765865,
+      "longitude": 20.920434
+    },
+    {
+      "name": "Flocas",
+      "latitude": 37.814734,
+      "longitude": 20.872146
+    },
+    {
+      "name": "FM",
+      "latitude": 36.901535,
+      "longitude": 25.977288
+    },
+    {
+      "name": "Fortuna Rent a moto",
+      "latitude": 36.333803,
+      "longitude": 28.200428
+    },
+    {
+      "name": "Fougaros",
+      "latitude": 39.196409,
+      "longitude": 20.184009
+    },
+    {
+      "name": "Friendly",
+      "latitude": 37.664624,
+      "longitude": 26.882382
+    },
+    {
+      "name": "Front Runners Rent a Bike",
+      "latitude": 39.718759,
+      "longitude": 19.680658
+    },
+    {
+      "name": "Fun In the Sun",
+      "latitude": 37.385685,
+      "longitude": 23.247578
+    },
+    {
+      "name": "G & M Group rental & transfer service",
+      "latitude": 35.286992,
+      "longitude": 25.461924
+    },
+    {
+      "name": "G.T. Rentals",
+      "latitude": 36.07907,
+      "longitude": 28.022477
+    },
+    {
+      "name": "galanakisrentacar.com",
+      "latitude": 37.119788,
+      "longitude": 25.241476
+    },
+    {
+      "name": "Galaxidi",
+      "latitude": 38.375184,
+      "longitude": 22.384844
+    },
+    {
+      "name": "Galaxie rental system",
+      "latitude": 35.366539,
+      "longitude": 24.484056
+    },
+    {
+      "name": "Galaxy",
+      "latitude": 37.706808,
+      "longitude": 26.66544
+    },
+    {
+      "name": "Galaxy Rent a Car",
+      "latitude": 36.422766,
+      "longitude": 28.150645
+    },
+    {
+      "name": "Galera Travel",
+      "latitude": 37.441504,
+      "longitude": 24.941436
+    },
+    {
+      "name": "Gallis",
+      "latitude": 36.39658,
+      "longitude": 28.228373
+    },
+    {
+      "name": "Gallis",
+      "latitude": 36.397622,
+      "longitude": 28.227409
+    },
+    {
+      "name": "Gatoulis",
+      "latitude": 35.507432,
+      "longitude": 27.208879
+    },
+    {
+      "name": "Gee Pa's rent a car",
+      "latitude": 35.523802,
+      "longitude": 23.844027
+    },
+    {
+      "name": "General Car Rental Lesvos",
+      "latitude": 39.111046,
+      "longitude": 26.557488
+    },
+    {
+      "name": "Genesis Motor",
+      "latitude": 35.308501,
+      "longitude": 25.52092
+    },
+    {
+      "name": "Geokali Taxi",
+      "latitude": 38.007065,
+      "longitude": 23.722753
+    },
+    {
+      "name": "George",
+      "latitude": 36.078993,
+      "longitude": 28.022175
+    },
+    {
+      "name": "George auto moto rent",
+      "latitude": 35.311556,
+      "longitude": 25.398171
+    },
+    {
+      "name": "George Bikes",
+      "latitude": 39.425779,
+      "longitude": 19.94784
+    },
+    {
+      "name": "Gerani car rental",
+      "latitude": 35.518542,
+      "longitude": 23.887334
+    },
+    {
+      "name": "Giant Rentals",
+      "latitude": 37.841966,
+      "longitude": 20.802365
+    },
+    {
+      "name": "Giourgas Rent a Car",
+      "latitude": 36.728584,
+      "longitude": 24.450157
+    },
+    {
+      "name": "Glaros Car & Bike Rentals",
+      "latitude": 36.617821,
+      "longitude": 27.838501
+    },
+    {
+      "name": "Glaros Tours",
+      "latitude": 37.633453,
+      "longitude": 26.087718
+    },
+    {
+      "name": "Global car rental",
+      "latitude": 39.371545,
+      "longitude": 22.913414
+    },
+    {
+      "name": "Global Rent",
+      "latitude": 35.335766,
+      "longitude": 25.162954
+    },
+    {
+      "name": "Global rent a car",
+      "latitude": 37.895993,
+      "longitude": 23.910999
+    },
+    {
+      "name": "Globe Travel",
+      "latitude": 35.321942,
+      "longitude": 25.387973
+    },
+    {
+      "name": "Go Rentals",
+      "latitude": 37.778258,
+      "longitude": 26.885389
+    },
+    {
+      "name": "Gold Street Travel Agency & Car Rental",
+      "latitude": 36.418146,
+      "longitude": 25.431569
+    },
+    {
+      "name": "GoldCar",
+      "latitude": 35.518305,
+      "longitude": 24.123778
+    },
+    {
+      "name": "Goldcar",
+      "latitude": 39.612004,
+      "longitude": 19.9074
+    },
+    {
+      "name": "Goldcar",
+      "latitude": 40.529082,
+      "longitude": 22.995019
+    },
+    {
+      "name": "Goldcar Rental",
+      "latitude": 37.899556,
+      "longitude": 23.890434
+    },
+    {
+      "name": "Golden Rent",
+      "latitude": 40.52647,
+      "longitude": 22.997812
+    },
+    {
+      "name": "Golden Star",
+      "latitude": 35.350385,
+      "longitude": 24.301085
+    },
+    {
+      "name": "Golden Wheel",
+      "latitude": 35.510111,
+      "longitude": 23.988982
+    },
+    {
+      "name": "Golden Wheel",
+      "latitude": 35.51207,
+      "longitude": 23.977707
+    },
+    {
+      "name": "Golden Wheel",
+      "latitude": 35.51298,
+      "longitude": 23.968026
+    },
+    {
+      "name": "Gomega Car Rentals",
+      "latitude": 35.332045,
+      "longitude": 25.377942
+    },
+    {
+      "name": "Greca Autorentals",
+      "latitude": 36.906219,
+      "longitude": 27.283332
+    },
+    {
+      "name": "Greco car",
+      "latitude": 37.995678,
+      "longitude": 23.731028
+    },
+    {
+      "name": "Greek Stones",
+      "latitude": 38.119184,
+      "longitude": 20.50649
+    },
+    {
+      "name": "Greek Sun",
+      "latitude": 37.856032,
+      "longitude": 24.785457
+    },
+    {
+      "name": "Greekstones Car Rental",
+      "latitude": 38.073847,
+      "longitude": 20.797829
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 35.158511,
+      "longitude": 25.716399
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 36.803385,
+      "longitude": 27.091853
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 37.75409,
+      "longitude": 20.888862
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 37.87219,
+      "longitude": 23.858752
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 37.966811,
+      "longitude": 23.729892
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 38.78124,
+      "longitude": 20.87972
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 39.498776,
+      "longitude": 20.2641
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 39.61274,
+      "longitude": 19.908586
+    },
+    {
+      "name": "Green Motion",
+      "latitude": 39.793697,
+      "longitude": 19.818296
+    },
+    {
+      "name": "greenmotion",
+      "latitude": 35.336846,
+      "longitude": 25.172936
+    },
+    {
+      "name": "Greenmotion",
+      "latitude": 35.541396,
+      "longitude": 24.137338
+    },
+    {
+      "name": "Greenmotion",
+      "latitude": 38.834362,
+      "longitude": 20.710447
+    },
+    {
+      "name": "GreenMotion",
+      "latitude": 40.523909,
+      "longitude": 22.994315
+    },
+    {
+      "name": "Greenways",
+      "latitude": 35.337234,
+      "longitude": 25.171422
+    },
+    {
+      "name": "Greenways",
+      "latitude": 35.366659,
+      "longitude": 24.480704
+    },
+    {
+      "name": "Greenways",
+      "latitude": 35.367803,
+      "longitude": 24.501592
+    },
+    {
+      "name": "Greenways",
+      "latitude": 35.372292,
+      "longitude": 24.543958
+    },
+    {
+      "name": "GREKOSTAR",
+      "latitude": 40.52708,
+      "longitude": 23.007286
+    },
+    {
+      "name": "Grental",
+      "latitude": 36.803388,
+      "longitude": 27.091192
+    },
+    {
+      "name": "GSR",
+      "latitude": 38.106122,
+      "longitude": 20.565183
+    },
+    {
+      "name": "Halkidiki",
+      "latitude": 40.033788,
+      "longitude": 23.475199
+    },
+    {
+      "name": "Happy Car",
+      "latitude": 37.794506,
+      "longitude": 26.686127
+    },
+    {
+      "name": "Happy Days",
+      "latitude": 35.408839,
+      "longitude": 24.782933
+    },
+    {
+      "name": "Happy Days",
+      "latitude": 35.412588,
+      "longitude": 24.782206
+    },
+    {
+      "name": "Happy Holidays",
+      "latitude": 35.417308,
+      "longitude": 24.686985
+    },
+    {
+      "name": "HB",
+      "latitude": 36.123177,
+      "longitude": 28.059425
+    },
+    {
+      "name": "Heli Cars",
+      "latitude": 37.328291,
+      "longitude": 23.144808
+    },
+    {
+      "name": "Helidoni Rent A Moto - ATV",
+      "latitude": 36.420002,
+      "longitude": 25.432062
+    },
+    {
+      "name": "Hellen",
+      "latitude": 37.025045,
+      "longitude": 22.112908
+    },
+    {
+      "name": "Hello! Tour Rentals",
+      "latitude": 35.335869,
+      "longitude": 25.305906
+    },
+    {
+      "name": "Hermes",
+      "latitude": 35.289912,
+      "longitude": 25.456996
+    },
+    {
+      "name": "Hermes",
+      "latitude": 35.290355,
+      "longitude": 25.460971
+    },
+    {
+      "name": "Hermes",
+      "latitude": 37.742229,
+      "longitude": 20.896533
+    },
+    {
+      "name": "Hermes",
+      "latitude": 39.676437,
+      "longitude": 19.839361
+    },
+    {
+      "name": "Hermes Car Rental Headquarters",
+      "latitude": 40.61017,
+      "longitude": 24.605842
+    },
+    {
+      "name": "Hermes Rentals",
+      "latitude": 37.709028,
+      "longitude": 26.675602
+    },
+    {
+      "name": "Heronia",
+      "latitude": 35.292097,
+      "longitude": 25.435025
+    },
+    {
+      "name": "Heronia - car and bike rentals",
+      "latitude": 35.3032,
+      "longitude": 25.418265
+    },
+    {
+      "name": "Hertz",
+      "latitude": 35.190324,
+      "longitude": 25.719647
+    },
+    {
+      "name": "Hertz",
+      "latitude": 35.336283,
+      "longitude": 25.17233
+    },
+    {
+      "name": "Hertz",
+      "latitude": 35.494748,
+      "longitude": 24.042265
+    },
+    {
+      "name": "Hertz",
+      "latitude": 35.540157,
+      "longitude": 24.140249
+    },
+    {
+      "name": "Hertz",
+      "latitude": 35.540733,
+      "longitude": 24.139595
+    },
+    {
+      "name": "Hertz",
+      "latitude": 36.419882,
+      "longitude": 25.431879
+    },
+    {
+      "name": "Hertz",
+      "latitude": 36.444245,
+      "longitude": 28.232378
+    },
+    {
+      "name": "Hertz",
+      "latitude": 36.803291,
+      "longitude": 27.095053
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.054947,
+      "longitude": 22.034269
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.107429,
+      "longitude": 25.374638
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.432847,
+      "longitude": 25.345956
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.691298,
+      "longitude": 26.914292
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.754424,
+      "longitude": 20.886926
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.914871,
+      "longitude": 23.743345
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.934823,
+      "longitude": 23.880566
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.93654,
+      "longitude": 23.946894
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.938242,
+      "longitude": 23.6395
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.93927,
+      "longitude": 23.949088
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.939941,
+      "longitude": 23.948413
+    },
+    {
+      "name": "Hertz",
+      "latitude": 37.967029,
+      "longitude": 23.730186
+    },
+    {
+      "name": "Hertz",
+      "latitude": 38.013491,
+      "longitude": 23.822374
+    },
+    {
+      "name": "Hertz",
+      "latitude": 38.23313,
+      "longitude": 21.725103
+    },
+    {
+      "name": "Hertz",
+      "latitude": 38.372891,
+      "longitude": 26.138574
+    },
+    {
+      "name": "Hertz",
+      "latitude": 39.105079,
+      "longitude": 26.560591
+    },
+    {
+      "name": "Hertz",
+      "latitude": 39.176684,
+      "longitude": 23.501024
+    },
+    {
+      "name": "Hertz",
+      "latitude": 39.361777,
+      "longitude": 22.938406
+    },
+    {
+      "name": "Hertz",
+      "latitude": 39.612725,
+      "longitude": 19.911901
+    },
+    {
+      "name": "Hertz",
+      "latitude": 39.629328,
+      "longitude": 19.900979
+    },
+    {
+      "name": "Hertz",
+      "latitude": 39.631904,
+      "longitude": 22.413789
+    },
+    {
+      "name": "Hertz",
+      "latitude": 39.793109,
+      "longitude": 19.817446
+    },
+    {
+      "name": "Hertz",
+      "latitude": 40.224186,
+      "longitude": 23.666285
+    },
+    {
+      "name": "Hertz",
+      "latitude": 40.523862,
+      "longitude": 22.976334
+    },
+    {
+      "name": "Hertz",
+      "latitude": 40.525772,
+      "longitude": 22.980524
+    },
+    {
+      "name": "Hertz",
+      "latitude": 40.543187,
+      "longitude": 22.986013
+    },
+    {
+      "name": "Hertz",
+      "latitude": 40.635484,
+      "longitude": 22.935561
+    },
+    {
+      "name": "Hertz",
+      "latitude": 40.727338,
+      "longitude": 24.756742
+    },
+    {
+      "name": "Hertz",
+      "latitude": 40.921934,
+      "longitude": 24.622696
+    },
+    {
+      "name": "Hertz / Thrifty Lardos",
+      "latitude": 36.079384,
+      "longitude": 28.024733
+    },
+    {
+      "name": "Hertz thrifty",
+      "latitude": 39.062559,
+      "longitude": 26.598594
+    },
+    {
+      "name": "Hertz/Thrifty",
+      "latitude": 36.408109,
+      "longitude": 28.106734
+    },
+    {
+      "name": "Herz",
+      "latitude": 40.758264,
+      "longitude": 24.577292
+    },
+    {
+      "name": "Hi-speed rentals",
+      "latitude": 37.739825,
+      "longitude": 20.889105
+    },
+    {
+      "name": "HN",
+      "latitude": 39.788942,
+      "longitude": 19.788294
+    },
+    {
+      "name": "Holiday Car Rental",
+      "latitude": 39.874981,
+      "longitude": 25.059361
+    },
+    {
+      "name": "Holiday cars",
+      "latitude": 35.335345,
+      "longitude": 25.084696
+    },
+    {
+      "name": "Holiday Cars",
+      "latitude": 39.7196,
+      "longitude": 19.870133
+    },
+    {
+      "name": "Holiday rent a car",
+      "latitude": 36.45237,
+      "longitude": 28.219981
+    },
+    {
+      "name": "Holiday Service",
+      "latitude": 35.335694,
+      "longitude": 25.079214
+    },
+    {
+      "name": "Homerus",
+      "latitude": 39.330022,
+      "longitude": 26.178304
+    },
+    {
+      "name": "Horafakia Car Rental",
+      "latitude": 35.563975,
+      "longitude": 24.09195
+    },
+    {
+      "name": "Hot Wheels",
+      "latitude": 35.587758,
+      "longitude": 27.069336
+    },
+    {
+      "name": "Hybrid Cars Athens",
+      "latitude": 38.099357,
+      "longitude": 23.811467
+    },
+    {
+      "name": "Icariada Travel",
+      "latitude": 37.614609,
+      "longitude": 26.294855
+    },
+    {
+      "name": "Icariada Travel",
+      "latitude": 37.6315,
+      "longitude": 26.178405
+    },
+    {
+      "name": "Idea mobility",
+      "latitude": 35.541495,
+      "longitude": 24.136118
+    },
+    {
+      "name": "Independent",
+      "latitude": 36.396555,
+      "longitude": 28.228495
+    },
+    {
+      "name": "InstaCar",
+      "latitude": 37.968634,
+      "longitude": 23.73143
+    },
+    {
+      "name": "Intercar",
+      "latitude": 35.3334,
+      "longitude": 25.318387
+    },
+    {
+      "name": "Intercity",
+      "latitude": 35.366774,
+      "longitude": 24.490449
+    },
+    {
+      "name": "Intercity",
+      "latitude": 35.367654,
+      "longitude": 24.500721
+    },
+    {
+      "name": "InterEurope",
+      "latitude": 39.793771,
+      "longitude": 19.818383
+    },
+    {
+      "name": "InterHermes",
+      "latitude": 37.689887,
+      "longitude": 26.941844
+    },
+    {
+      "name": "InteRoad",
+      "latitude": 35.341974,
+      "longitude": 25.134331
+    },
+    {
+      "name": "Ionian",
+      "latitude": 39.197347,
+      "longitude": 20.185063
+    },
+    {
+      "name": "Ionian Car Rental",
+      "latitude": 38.834465,
+      "longitude": 20.710392
+    },
+    {
+      "name": "Ionios brokers",
+      "latitude": 39.499058,
+      "longitude": 20.264325
+    },
+    {
+      "name": "Ios Rent a Car",
+      "latitude": 36.722765,
+      "longitude": 25.274181
+    },
+    {
+      "name": "iRent",
+      "latitude": 35.335126,
+      "longitude": 25.089932
+    },
+    {
+      "name": "Island Rent A Car",
+      "latitude": 36.454096,
+      "longitude": 28.221561
+    },
+    {
+      "name": "Jacob's",
+      "latitude": 36.722092,
+      "longitude": 25.274031
+    },
+    {
+      "name": "Jason rent a car",
+      "latitude": 37.536696,
+      "longitude": 25.163489
+    },
+    {
+      "name": "JK Rent a car",
+      "latitude": 35.407387,
+      "longitude": 25.017647
+    },
+    {
+      "name": "John & Mary",
+      "latitude": 35.33474,
+      "longitude": 25.313155
+    },
+    {
+      "name": "John Mary rent a car",
+      "latitude": 35.334549,
+      "longitude": 25.315574
+    },
+    {
+      "name": "Johns Rentals",
+      "latitude": 37.690093,
+      "longitude": 26.940597
+    },
+    {
+      "name": "Joy Rent a Car",
+      "latitude": 35.495535,
+      "longitude": 23.654759
+    },
+    {
+      "name": "Just Rentals",
+      "latitude": 35.332381,
+      "longitude": 25.377694
+    },
+    {
+      "name": "JustRentals",
+      "latitude": 35.33714,
+      "longitude": 25.17149
+    },
+    {
+      "name": "Justrentals",
+      "latitude": 35.541322,
+      "longitude": 24.134822
+    },
+    {
+      "name": "K Express",
+      "latitude": 37.763983,
+      "longitude": 20.883596
+    },
+    {
+      "name": "Kalamaki Holidays",
+      "latitude": 35.33621,
+      "longitude": 25.171799
+    },
+    {
+      "name": "Kalamaki Moto Rent",
+      "latitude": 35.028813,
+      "longitude": 24.759196
+    },
+    {
+      "name": "Kalithea Rent",
+      "latitude": 36.3984,
+      "longitude": 28.227441
+    },
+    {
+      "name": "Kalithea Star",
+      "latitude": 36.39294,
+      "longitude": 28.231922
+    },
+    {
+      "name": "Kalymnos scooter rental",
+      "latitude": 36.994258,
+      "longitude": 26.932885
+    },
+    {
+      "name": "Kappa",
+      "latitude": 35.516878,
+      "longitude": 23.907854
+    },
+    {
+      "name": "Kar Auto Rent A Car",
+      "latitude": 38.372498,
+      "longitude": 26.132261
+    },
+    {
+      "name": "Karent",
+      "latitude": 37.085479,
+      "longitude": 25.147855
+    },
+    {
+      "name": "Karent Rent A Car",
+      "latitude": 37.085348,
+      "longitude": 25.147692
+    },
+    {
+      "name": "Kartsonakis Car Rental",
+      "latitude": 37.140608,
+      "longitude": 24.515458
+    },
+    {
+      "name": "Kavros auto rentals",
+      "latitude": 35.35107,
+      "longitude": 24.296455
+    },
+    {
+      "name": "Kazamias",
+      "latitude": 35.205187,
+      "longitude": 26.108626
+    },
+    {
+      "name": "Kefalos Rentals",
+      "latitude": 36.748748,
+      "longitude": 26.975507
+    },
+    {
+      "name": "KERA Cars",
+      "latitude": 35.187823,
+      "longitude": 25.716749
+    },
+    {
+      "name": "Kiklos",
+      "latitude": 37.6903,
+      "longitude": 26.939753
+    },
+    {
+      "name": "KoPaCar - Rent a Car & Van Patras",
+      "latitude": 38.260296,
+      "longitude": 21.739269
+    },
+    {
+      "name": "Kosmos",
+      "latitude": 36.854748,
+      "longitude": 27.1149
+    },
+    {
+      "name": "Kosmos",
+      "latitude": 37.967855,
+      "longitude": 23.731228
+    },
+    {
+      "name": "Kostas",
+      "latitude": 36.344205,
+      "longitude": 28.200478
+    },
+    {
+      "name": "Kostas",
+      "latitude": 39.792122,
+      "longitude": 19.81657
+    },
+    {
+      "name": "Kostas Rentals",
+      "latitude": 37.816238,
+      "longitude": 20.864218
+    },
+    {
+      "name": "Kri Kri",
+      "latitude": 34.995021,
+      "longitude": 24.754586
+    },
+    {
+      "name": "Kri-Kri",
+      "latitude": 35.015659,
+      "longitude": 24.781734
+    },
+    {
+      "name": "Kriopigi Cars",
+      "latitude": 40.035144,
+      "longitude": 23.473668
+    },
+    {
+      "name": "Kydon",
+      "latitude": 35.540345,
+      "longitude": 24.139594
+    },
+    {
+      "name": "Kyrannos",
+      "latitude": 36.549036,
+      "longitude": 26.352254
+    },
+    {
+      "name": "Lakis",
+      "latitude": 36.547172,
+      "longitude": 26.353621
+    },
+    {
+      "name": "LEADER RENT A CAR",
+      "latitude": 39.999568,
+      "longitude": 23.571702
+    },
+    {
+      "name": "LeanCars",
+      "latitude": 35.192409,
+      "longitude": 25.716509
+    },
+    {
+      "name": "Lefkas On Wheels",
+      "latitude": 38.832714,
+      "longitude": 20.709753
+    },
+    {
+      "name": "Lefkos Rent a Car & Bike",
+      "latitude": 35.587852,
+      "longitude": 27.070262
+    },
+    {
+      "name": "Lesvos Rentals",
+      "latitude": 39.104718,
+      "longitude": 26.559813
+    },
+    {
+      "name": "Let's Drive | Rent a Car",
+      "latitude": 35.488246,
+      "longitude": 24.073968
+    },
+    {
+      "name": "Leventis Motor",
+      "latitude": 35.290565,
+      "longitude": 25.444547
+    },
+    {
+      "name": "Limousines Greece",
+      "latitude": 40.635141,
+      "longitude": 22.954933
+    },
+    {
+      "name": "Lindos View Hotel",
+      "latitude": 36.089394,
+      "longitude": 28.082508
+    },
+    {
+      "name": "Lion rentals",
+      "latitude": 37.73157,
+      "longitude": 20.866425
+    },
+    {
+      "name": "Lipsi Car Rental",
+      "latitude": 37.296582,
+      "longitude": 26.765115
+    },
+    {
+      "name": "Loggetta Rent-a-Car",
+      "latitude": 35.342202,
+      "longitude": 25.134385
+    },
+    {
+      "name": "Lotus",
+      "latitude": 40.060905,
+      "longitude": 23.456837
+    },
+    {
+      "name": "Luka's",
+      "latitude": 36.783397,
+      "longitude": 27.144824
+    },
+    {
+      "name": "LuxTransCrete",
+      "latitude": 35.335487,
+      "longitude": 25.172849
+    },
+    {
+      "name": "LUXURY CAR - RENT A CAR",
+      "latitude": 36.348041,
+      "longitude": 28.203091
+    },
+    {
+      "name": "LUXURY CAR PARKING",
+      "latitude": 36.347795,
+      "longitude": 28.203126
+    },
+    {
+      "name": "Luxury cars",
+      "latitude": 36.079356,
+      "longitude": 28.022275
+    },
+    {
+      "name": "Luxury cars",
+      "latitude": 36.089853,
+      "longitude": 28.020464
+    },
+    {
+      "name": "M Car",
+      "latitude": 35.33733,
+      "longitude": 25.1717
+    },
+    {
+      "name": "M.P. Autos",
+      "latitude": 35.293901,
+      "longitude": 25.427615
+    },
+    {
+      "name": "Maik",
+      "latitude": 40.268452,
+      "longitude": 23.452154
+    },
+    {
+      "name": "Maistrali Car Rental",
+      "latitude": 37.440069,
+      "longitude": 24.940072
+    },
+    {
+      "name": "Maistros Transfer",
+      "latitude": 37.03562,
+      "longitude": 25.259995
+    },
+    {
+      "name": "Makis Rental",
+      "latitude": 38.073453,
+      "longitude": 20.797135
+    },
+    {
+      "name": "Malapetsas",
+      "latitude": 37.839812,
+      "longitude": 20.806132
+    },
+    {
+      "name": "Malia Cars",
+      "latitude": 35.290243,
+      "longitude": 25.461496
+    },
+    {
+      "name": "Malia Cars",
+      "latitude": 35.292298,
+      "longitude": 25.477461
+    },
+    {
+      "name": "Malia Cars",
+      "latitude": 35.30758,
+      "longitude": 25.51946
+    },
+    {
+      "name": "malia travel",
+      "latitude": 35.290003,
+      "longitude": 25.460359
+    },
+    {
+      "name": "Manos",
+      "latitude": 36.35177,
+      "longitude": 25.768417
+    },
+    {
+      "name": "Manos",
+      "latitude": 36.782727,
+      "longitude": 27.144019
+    },
+    {
+      "name": "Manos",
+      "latitude": 37.690754,
+      "longitude": 26.93959
+    },
+    {
+      "name": "Manos K.",
+      "latitude": 36.613381,
+      "longitude": 27.1391
+    },
+    {
+      "name": "Manos Rent",
+      "latitude": 36.418107,
+      "longitude": 25.434573
+    },
+    {
+      "name": "Manos Rent a car",
+      "latitude": 35.3302,
+      "longitude": 25.306476
+    },
+    {
+      "name": "MARATHON",
+      "latitude": 36.053552,
+      "longitude": 27.969624
+    },
+    {
+      "name": "Marathon",
+      "latitude": 36.448855,
+      "longitude": 28.216007
+    },
+    {
+      "name": "Margaris",
+      "latitude": 37.813762,
+      "longitude": 20.867293
+    },
+    {
+      "name": "Margaritas",
+      "latitude": 39.754361,
+      "longitude": 19.642961
+    },
+    {
+      "name": "Margaritis",
+      "latitude": 36.45216,
+      "longitude": 28.221498
+    },
+    {
+      "name": "Maria rent a car",
+      "latitude": 36.946633,
+      "longitude": 26.983579
+    },
+    {
+      "name": "Marinos Rentals",
+      "latitude": 37.83497,
+      "longitude": 20.78275
+    },
+    {
+      "name": "Marios ATV & Moto Rental",
+      "latitude": 36.419146,
+      "longitude": 25.432137
+    },
+    {
+      "name": "Martina's Car Rental",
+      "latitude": 38.905246,
+      "longitude": 24.566115
+    },
+    {
+      "name": "Master Car",
+      "latitude": 40.097251,
+      "longitude": 23.979869
+    },
+    {
+      "name": "Master rent a car",
+      "latitude": 36.051386,
+      "longitude": 27.968513
+    },
+    {
+      "name": "Matha Rent A Car",
+      "latitude": 37.107999,
+      "longitude": 25.375689
+    },
+    {
+      "name": "MCar",
+      "latitude": 35.330417,
+      "longitude": 25.137804
+    },
+    {
+      "name": "Mediterranee",
+      "latitude": 40.635966,
+      "longitude": 22.936165
+    },
+    {
+      "name": "Mega Rent a Car",
+      "latitude": 39.612068,
+      "longitude": 19.783257
+    },
+    {
+      "name": "MEGARENT",
+      "latitude": 35.336832,
+      "longitude": 25.171579
+    },
+    {
+      "name": "Melian cars rental office",
+      "latitude": 36.726709,
+      "longitude": 24.447799
+    },
+    {
+      "name": "Mercury Rent A Car",
+      "latitude": 38.165195,
+      "longitude": 20.415806
+    },
+    {
+      "name": "Meteora Wheels",
+      "latitude": 39.703419,
+      "longitude": 21.625866
+    },
+    {
+      "name": "Mevis",
+      "latitude": 35.306685,
+      "longitude": 25.517136
+    },
+    {
+      "name": "Mevis",
+      "latitude": 35.308514,
+      "longitude": 25.523847
+    },
+    {
+      "name": "Mike's rent a car",
+      "latitude": 35.360953,
+      "longitude": 24.261415
+    },
+    {
+      "name": "Mikes Bikes",
+      "latitude": 37.05582,
+      "longitude": 25.362526
+    },
+    {
+      "name": "Millenium",
+      "latitude": 39.477544,
+      "longitude": 19.928092
+    },
+    {
+      "name": "Million Motorbikes",
+      "latitude": 35.476019,
+      "longitude": 27.196314
+    },
+    {
+      "name": "Milos Cars",
+      "latitude": 36.725479,
+      "longitude": 24.447419
+    },
+    {
+      "name": "Milos Rides - Moto Rentals",
+      "latitude": 36.72627,
+      "longitude": 24.45078
+    },
+    {
+      "name": "Minoan",
+      "latitude": 35.366984,
+      "longitude": 24.491808
+    },
+    {
+      "name": "Minoan",
+      "latitude": 35.36808,
+      "longitude": 24.530091
+    },
+    {
+      "name": "Minoan King",
+      "latitude": 35.290061,
+      "longitude": 25.456817
+    },
+    {
+      "name": "Minoan King",
+      "latitude": 35.290104,
+      "longitude": 25.454775
+    },
+    {
+      "name": "Minoan King",
+      "latitude": 35.305538,
+      "longitude": 25.514664
+    },
+    {
+      "name": "Mirto",
+      "latitude": 37.707281,
+      "longitude": 26.668196
+    },
+    {
+      "name": "ML Rent A Car",
+      "latitude": 37.124293,
+      "longitude": 25.237015
+    },
+    {
+      "name": "Modi",
+      "latitude": 37.861921,
+      "longitude": 23.748947
+    },
+    {
+      "name": "Monza",
+      "latitude": 35.541028,
+      "longitude": 24.137099
+    },
+    {
+      "name": "Monza Rentacar",
+      "latitude": 35.370741,
+      "longitude": 24.536722
+    },
+    {
+      "name": "MonzaRentACarRhodes",
+      "latitude": 36.399568,
+      "longitude": 28.078435
+    },
+    {
+      "name": "Morphis",
+      "latitude": 37.899773,
+      "longitude": 23.889922
+    },
+    {
+      "name": "Moto Auto Πλακιασ",
+      "latitude": 35.190472,
+      "longitude": 24.395603
+    },
+    {
+      "name": "Moto Center Loukas",
+      "latitude": 36.419965,
+      "longitude": 25.432066
+    },
+    {
+      "name": "Moto Express",
+      "latitude": 35.310505,
+      "longitude": 25.40028
+    },
+    {
+      "name": "Moto Koletsis",
+      "latitude": 36.411057,
+      "longitude": 25.445964
+    },
+    {
+      "name": "Moto Mania",
+      "latitude": 36.354732,
+      "longitude": 25.472084
+    },
+    {
+      "name": "Moto Panos",
+      "latitude": 36.399989,
+      "longitude": 25.451249
+    },
+    {
+      "name": "Moto Park",
+      "latitude": 35.362941,
+      "longitude": 24.260105
+    },
+    {
+      "name": "Moto Rent",
+      "latitude": 36.892559,
+      "longitude": 27.284311
+    },
+    {
+      "name": "Moto Rent George",
+      "latitude": 37.295104,
+      "longitude": 26.76801
+    },
+    {
+      "name": "Motoland",
+      "latitude": 37.160319,
+      "longitude": 26.836541
+    },
+    {
+      "name": "Motor Inn",
+      "latitude": 36.371534,
+      "longitude": 25.481541
+    },
+    {
+      "name": "Motor Plan",
+      "latitude": 35.03979,
+      "longitude": 25.980761
+    },
+    {
+      "name": "Motor Plan",
+      "latitude": 35.301645,
+      "longitude": 25.419717
+    },
+    {
+      "name": "motorcars",
+      "latitude": 40.567696,
+      "longitude": 22.975351
+    },
+    {
+      "name": "motorclub",
+      "latitude": 35.34262,
+      "longitude": 25.134403
+    },
+    {
+      "name": "Motorsun",
+      "latitude": 35.409132,
+      "longitude": 25.015265
+    },
+    {
+      "name": "Mouselis Scooters",
+      "latitude": 36.986174,
+      "longitude": 26.928706
+    },
+    {
+      "name": "MP AUTOS",
+      "latitude": 35.293215,
+      "longitude": 25.425875
+    },
+    {
+      "name": "Mtro Rentals",
+      "latitude": 37.711137,
+      "longitude": 26.6983
+    },
+    {
+      "name": "Munchen",
+      "latitude": 37.423693,
+      "longitude": 25.323782
+    },
+    {
+      "name": "Mustang",
+      "latitude": 35.335594,
+      "longitude": 25.088431
+    },
+    {
+      "name": "Myrtos Rent A Car Kefalonia",
+      "latitude": 38.301596,
+      "longitude": 20.597385
+    },
+    {
+      "name": "National",
+      "latitude": 39.371476,
+      "longitude": 22.913445
+    },
+    {
+      "name": "National Car",
+      "latitude": 37.979454,
+      "longitude": 22.976479
+    },
+    {
+      "name": "National Friend",
+      "latitude": 40.626484,
+      "longitude": 24.575592
+    },
+    {
+      "name": "National/Alamo",
+      "latitude": 37.691298,
+      "longitude": 26.914359
+    },
+    {
+      "name": "Nenos car rental",
+      "latitude": 37.836936,
+      "longitude": 20.777699
+    },
+    {
+      "name": "New car",
+      "latitude": 37.100096,
+      "longitude": 25.377566
+    },
+    {
+      "name": "New Line",
+      "latitude": 35.306803,
+      "longitude": 25.517582
+    },
+    {
+      "name": "NewLine",
+      "latitude": 35.308455,
+      "longitude": 25.522941
+    },
+    {
+      "name": "Next",
+      "latitude": 35.31316,
+      "longitude": 25.396058
+    },
+    {
+      "name": "Nicos",
+      "latitude": 37.664832,
+      "longitude": 26.882313
+    },
+    {
+      "name": "Nicos Rental Parking",
+      "latitude": 37.691291,
+      "longitude": 26.930692
+    },
+    {
+      "name": "Nicos Rentals",
+      "latitude": 37.690218,
+      "longitude": 26.940591
+    },
+    {
+      "name": "Niki",
+      "latitude": 40.473337,
+      "longitude": 25.47118
+    },
+    {
+      "name": "NIKOS rent a car",
+      "latitude": 36.805661,
+      "longitude": 27.165106
+    },
+    {
+      "name": "NIKOS Rent a Car",
+      "latitude": 36.809589,
+      "longitude": 27.174208
+    },
+    {
+      "name": "Nitro",
+      "latitude": 35.366638,
+      "longitude": 24.489042
+    },
+    {
+      "name": "NOIT Car Rental",
+      "latitude": 36.353214,
+      "longitude": 25.452781
+    },
+    {
+      "name": "northcorfutravel.com",
+      "latitude": 39.804598,
+      "longitude": 19.87113
+    },
+    {
+      "name": "Notos",
+      "latitude": 35.23105,
+      "longitude": 23.682619
+    },
+    {
+      "name": "Notos",
+      "latitude": 37.085356,
+      "longitude": 25.150159
+    },
+    {
+      "name": "Notos Rentals",
+      "latitude": 35.233187,
+      "longitude": 23.679022
+    },
+    {
+      "name": "NP rentals",
+      "latitude": 38.01976,
+      "longitude": 24.008123
+    },
+    {
+      "name": "Oasis",
+      "latitude": 36.055898,
+      "longitude": 27.975111
+    },
+    {
+      "name": "Oasis",
+      "latitude": 39.139933,
+      "longitude": 23.643237
+    },
+    {
+      "name": "Ocean Car Rental",
+      "latitude": 39.612834,
+      "longitude": 19.910603
+    },
+    {
+      "name": "Ocean Car Rental Marina Gouvia",
+      "latitude": 39.647195,
+      "longitude": 19.853955
+    },
+    {
+      "name": "Oceanis",
+      "latitude": 38.974104,
+      "longitude": 26.37228
+    },
+    {
+      "name": "Ok mobility",
+      "latitude": 40.528528,
+      "longitude": 22.995604
+    },
+    {
+      "name": "OK Rental",
+      "latitude": 35.509226,
+      "longitude": 23.982188
+    },
+    {
+      "name": "OKAY RENT A CAR",
+      "latitude": 35.334405,
+      "longitude": 25.304951
+    },
+    {
+      "name": "okmobility",
+      "latitude": 35.541031,
+      "longitude": 24.137248
+    },
+    {
+      "name": "Oleander",
+      "latitude": 35.028098,
+      "longitude": 24.762496
+    },
+    {
+      "name": "Olympic",
+      "latitude": 37.765299,
+      "longitude": 20.921239
+    },
+    {
+      "name": "One Rent a Car & Bike Transfer",
+      "latitude": 37.42525,
+      "longitude": 25.323262
+    },
+    {
+      "name": "Orion",
+      "latitude": 35.307125,
+      "longitude": 25.389169
+    },
+    {
+      "name": "Orion",
+      "latitude": 36.451938,
+      "longitude": 28.218109
+    },
+    {
+      "name": "Oscar",
+      "latitude": 39.476352,
+      "longitude": 19.929375
+    },
+    {
+      "name": "Ostria",
+      "latitude": 35.097963,
+      "longitude": 24.686054
+    },
+    {
+      "name": "Pagonis Car Scooter Rental",
+      "latitude": 37.16106,
+      "longitude": 26.833158
+    },
+    {
+      "name": "Panorama",
+      "latitude": 40.061812,
+      "longitude": 23.455858
+    },
+    {
+      "name": "Papus",
+      "latitude": 36.371855,
+      "longitude": 25.481379
+    },
+    {
+      "name": "Paros Notos rent a car",
+      "latitude": 37.085503,
+      "longitude": 25.15008
+    },
+    {
+      "name": "Paroseurocar",
+      "latitude": 37.081857,
+      "longitude": 25.146094
+    },
+    {
+      "name": "Passos",
+      "latitude": 37.085227,
+      "longitude": 25.150966
+    },
+    {
+      "name": "Patmos Rent a Car",
+      "latitude": 37.323136,
+      "longitude": 26.544744
+    },
+    {
+      "name": "Pegasus",
+      "latitude": 37.442078,
+      "longitude": 25.328411
+    },
+    {
+      "name": "Pegasus Motorbikes",
+      "latitude": 39.754762,
+      "longitude": 19.646113
+    },
+    {
+      "name": "Pelagos rent car",
+      "latitude": 37.709441,
+      "longitude": 26.685255
+    },
+    {
+      "name": "Pellos Travel",
+      "latitude": 36.341527,
+      "longitude": 28.200193
+    },
+    {
+      "name": "Perseas",
+      "latitude": 35.336678,
+      "longitude": 25.340366
+    },
+    {
+      "name": "Perseas",
+      "latitude": 35.338029,
+      "longitude": 25.362756
+    },
+    {
+      "name": "Perseas Rent a Car",
+      "latitude": 35.333443,
+      "longitude": 25.348079
+    },
+    {
+      "name": "Perseas Rent a Car",
+      "latitude": 35.334328,
+      "longitude": 25.359095
+    },
+    {
+      "name": "Petrides",
+      "latitude": 39.874818,
+      "longitude": 25.060073
+    },
+    {
+      "name": "Petrides",
+      "latitude": 39.882366,
+      "longitude": 25.06524
+    },
+    {
+      "name": "Poli Rental",
+      "latitude": 40.6362,
+      "longitude": 22.935937
+    },
+    {
+      "name": "Pontos Cars",
+      "latitude": 40.663888,
+      "longitude": 22.932875
+    },
+    {
+      "name": "POSEIDON",
+      "latitude": 37.141584,
+      "longitude": 24.516858
+    },
+    {
+      "name": "Poseidon",
+      "latitude": 37.663359,
+      "longitude": 26.881804
+    },
+    {
+      "name": "Poseidon Car Rentals",
+      "latitude": 40.627716,
+      "longitude": 22.952939
+    },
+    {
+      "name": "Potamia",
+      "latitude": 37.731087,
+      "longitude": 20.970774
+    },
+    {
+      "name": "Potos",
+      "latitude": 40.62661,
+      "longitude": 24.568068
+    },
+    {
+      "name": "POTOS",
+      "latitude": 40.758623,
+      "longitude": 24.576137
+    },
+    {
+      "name": "Power",
+      "latitude": 36.334938,
+      "longitude": 28.198349
+    },
+    {
+      "name": "Priceless Car Hire",
+      "latitude": 39.626265,
+      "longitude": 19.920996
+    },
+    {
+      "name": "Prima Rent A Car",
+      "latitude": 35.038906,
+      "longitude": 25.987675
+    },
+    {
+      "name": "Promo Moto-Car",
+      "latitude": 36.988805,
+      "longitude": 24.679042
+    },
+    {
+      "name": "Protos",
+      "latitude": 35.335997,
+      "longitude": 25.172058
+    },
+    {
+      "name": "Quality Rentals",
+      "latitude": 37.438087,
+      "longitude": 25.333931
+    },
+    {
+      "name": "QUEEN RENTAL Car & Moto Rhodes",
+      "latitude": 36.452191,
+      "longitude": 28.219332
+    },
+    {
+      "name": "RAC",
+      "latitude": 37.936564,
+      "longitude": 23.637125
+    },
+    {
+      "name": "Rac S.A.",
+      "latitude": 36.725926,
+      "longitude": 24.448746
+    },
+    {
+      "name": "Racer",
+      "latitude": 35.406075,
+      "longitude": 24.783181
+    },
+    {
+      "name": "RecordGo",
+      "latitude": 40.513665,
+      "longitude": 22.989741
+    },
+    {
+      "name": "Reliable",
+      "latitude": 37.435138,
+      "longitude": 25.339575
+    },
+    {
+      "name": "Rent a car",
+      "latitude": 35.336682,
+      "longitude": 25.339115
+    },
+    {
+      "name": "Rent A Car",
+      "latitude": 35.416397,
+      "longitude": 25.017792
+    },
+    {
+      "name": "Rent a Car",
+      "latitude": 36.419336,
+      "longitude": 28.132497
+    },
+    {
+      "name": "Rent a car",
+      "latitude": 36.45273,
+      "longitude": 28.217663
+    },
+    {
+      "name": "Rent a Car",
+      "latitude": 38.103649,
+      "longitude": 23.978064
+    },
+    {
+      "name": "Rent a car & Scooters Kapetanios",
+      "latitude": 36.35179,
+      "longitude": 25.454919
+    },
+    {
+      "name": "Rent a Car - Autofun",
+      "latitude": 35.495251,
+      "longitude": 23.654651
+    },
+    {
+      "name": "Rent a car - Motorfun",
+      "latitude": 35.495217,
+      "longitude": 23.654659
+    },
+    {
+      "name": "Rent A Car Autovermietung",
+      "latitude": 36.252705,
+      "longitude": 28.166269
+    },
+    {
+      "name": "Rent a car Kosmos",
+      "latitude": 35.341655,
+      "longitude": 25.134452
+    },
+    {
+      "name": "RENT A CAR VERGA",
+      "latitude": 37.025993,
+      "longitude": 22.113064
+    },
+    {
+      "name": "Rent a Carma",
+      "latitude": 40.078494,
+      "longitude": 23.445997
+    },
+    {
+      "name": "Rent a Cars Superior",
+      "latitude": 36.418577,
+      "longitude": 28.13363
+    },
+    {
+      "name": "rent a moto",
+      "latitude": 36.450499,
+      "longitude": 28.217618
+    },
+    {
+      "name": "Rent a Moto IXIA",
+      "latitude": 36.418115,
+      "longitude": 28.174055
+    },
+    {
+      "name": "Rent your car",
+      "latitude": 38.023614,
+      "longitude": 23.740372
+    },
+    {
+      "name": "Rent-A-Car Oasis",
+      "latitude": 36.06463,
+      "longitude": 27.989195
+    },
+    {
+      "name": "Rent-Car",
+      "latitude": 37.967855,
+      "longitude": 23.730498
+    },
+    {
+      "name": "rentabikekefalonia",
+      "latitude": 38.17248,
+      "longitude": 20.486278
+    },
+    {
+      "name": "RentacarLesvos",
+      "latitude": 39.104715,
+      "longitude": 26.559936
+    },
+    {
+      "name": "Rental",
+      "latitude": 35.367239,
+      "longitude": 24.495957
+    },
+    {
+      "name": "Rental Center Crete",
+      "latitude": 35.339478,
+      "longitude": 25.151571
+    },
+    {
+      "name": "RentalCar Chania",
+      "latitude": 35.511037,
+      "longitude": 24.028511
+    },
+    {
+      "name": "Rentme",
+      "latitude": 38.148016,
+      "longitude": 20.786485
+    },
+    {
+      "name": "rhodecar.gr",
+      "latitude": 36.399651,
+      "longitude": 28.078436
+    },
+    {
+      "name": "Ride and Drive",
+      "latitude": 40.523768,
+      "longitude": 22.977499
+    },
+    {
+      "name": "Ride it rentals",
+      "latitude": 35.521766,
+      "longitude": 23.849915
+    },
+    {
+      "name": "Ride moto rental",
+      "latitude": 37.124212,
+      "longitude": 25.241879
+    },
+    {
+      "name": "RIGATOS",
+      "latitude": 36.903652,
+      "longitude": 21.923534
+    },
+    {
+      "name": "Ritz",
+      "latitude": 35.340981,
+      "longitude": 25.131003
+    },
+    {
+      "name": "Road Runner Car Rental",
+      "latitude": 35.518455,
+      "longitude": 23.869081
+    },
+    {
+      "name": "Roadrunner",
+      "latitude": 35.519838,
+      "longitude": 23.876402
+    },
+    {
+      "name": "Rodos cars",
+      "latitude": 36.253581,
+      "longitude": 28.163965
+    },
+    {
+      "name": "Rodos Cars",
+      "latitude": 36.432726,
+      "longitude": 28.238087
+    },
+    {
+      "name": "Rodos rent car",
+      "latitude": 36.250429,
+      "longitude": 28.165457
+    },
+    {
+      "name": "Rolandos",
+      "latitude": 39.54754,
+      "longitude": 19.854451
+    },
+    {
+      "name": "Romanos",
+      "latitude": 35.338557,
+      "longitude": 25.368101
+    },
+    {
+      "name": "Royal",
+      "latitude": 35.289476,
+      "longitude": 25.448298
+    },
+    {
+      "name": "Royal Rentals",
+      "latitude": 35.291478,
+      "longitude": 25.449391
+    },
+    {
+      "name": "Royal Rentals",
+      "latitude": 35.334721,
+      "longitude": 25.352055
+    },
+    {
+      "name": "Royal Road",
+      "latitude": 35.406379,
+      "longitude": 24.782721
+    },
+    {
+      "name": "Ruote",
+      "latitude": 36.450255,
+      "longitude": 28.216946
+    },
+    {
+      "name": "Sabine Travel",
+      "latitude": 35.231004,
+      "longitude": 23.682582
+    },
+    {
+      "name": "Sabine Travel",
+      "latitude": 35.231689,
+      "longitude": 23.683601
+    },
+    {
+      "name": "SAFARI",
+      "latitude": 36.889831,
+      "longitude": 27.299062
+    },
+    {
+      "name": "Safari Rent a Car",
+      "latitude": 36.803405,
+      "longitude": 27.091101
+    },
+    {
+      "name": "Safe Rental",
+      "latitude": 35.407404,
+      "longitude": 24.783122
+    },
+    {
+      "name": "Safe Rental",
+      "latitude": 35.411269,
+      "longitude": 24.780639
+    },
+    {
+      "name": "SafeWheels",
+      "latitude": 36.892663,
+      "longitude": 27.294498
+    },
+    {
+      "name": "Sailing World",
+      "latitude": 36.419852,
+      "longitude": 25.432121
+    },
+    {
+      "name": "Salonica",
+      "latitude": 40.644792,
+      "longitude": 22.928716
+    },
+    {
+      "name": "Sambas rent a car",
+      "latitude": 39.478221,
+      "longitude": 19.927415
+    },
+    {
+      "name": "Samos memory rentals",
+      "latitude": 37.779136,
+      "longitude": 26.89097
+    },
+    {
+      "name": "Santorini Rentals by Koletsis",
+      "latitude": 36.410686,
+      "longitude": 25.44985
+    },
+    {
+      "name": "Sarakinos",
+      "latitude": 35.407332,
+      "longitude": 25.016362
+    },
+    {
+      "name": "Savvas Rentals",
+      "latitude": 37.778012,
+      "longitude": 26.885823
+    },
+    {
+      "name": "Scalcars",
+      "latitude": 37.989556,
+      "longitude": 23.729501
+    },
+    {
+      "name": "Scooter fun",
+      "latitude": 36.99566,
+      "longitude": 26.935009
+    },
+    {
+      "name": "Scootermania",
+      "latitude": 37.096872,
+      "longitude": 25.379519
+    },
+    {
+      "name": "SEA and SKY Serifos",
+      "latitude": 37.141551,
+      "longitude": 24.516982
+    },
+    {
+      "name": "Serifos Cars",
+      "latitude": 37.141567,
+      "longitude": 24.51555
+    },
+    {
+      "name": "Sfakia Tours",
+      "latitude": 35.201109,
+      "longitude": 24.136526
+    },
+    {
+      "name": "Show Rent a Car",
+      "latitude": 36.357545,
+      "longitude": 28.210438
+    },
+    {
+      "name": "Sinarades Travel",
+      "latitude": 39.546985,
+      "longitude": 19.852879
+    },
+    {
+      "name": "Sirius",
+      "latitude": 37.938751,
+      "longitude": 23.756402
+    },
+    {
+      "name": "SIXT",
+      "latitude": 35.322506,
+      "longitude": 25.377456
+    },
+    {
+      "name": "Sixt",
+      "latitude": 35.336845,
+      "longitude": 25.172968
+    },
+    {
+      "name": "SIXT",
+      "latitude": 35.33758,
+      "longitude": 25.164408
+    },
+    {
+      "name": "SIXT",
+      "latitude": 35.337622,
+      "longitude": 25.171373
+    },
+    {
+      "name": "SIXT",
+      "latitude": 35.342309,
+      "longitude": 25.144929
+    },
+    {
+      "name": "SIXT",
+      "latitude": 35.540132,
+      "longitude": 24.140358
+    },
+    {
+      "name": "Sixt",
+      "latitude": 35.540984,
+      "longitude": 24.139414
+    },
+    {
+      "name": "SIXT",
+      "latitude": 36.420346,
+      "longitude": 25.431992
+    },
+    {
+      "name": "SIXT",
+      "latitude": 36.759917,
+      "longitude": 27.099491
+    },
+    {
+      "name": "SIXT",
+      "latitude": 37.054873,
+      "longitude": 22.034359
+    },
+    {
+      "name": "SIXT",
+      "latitude": 37.690216,
+      "longitude": 26.939682
+    },
+    {
+      "name": "SIXT",
+      "latitude": 37.754234,
+      "longitude": 20.888877
+    },
+    {
+      "name": "SIXT",
+      "latitude": 37.967595,
+      "longitude": 23.730912
+    },
+    {
+      "name": "SIXT",
+      "latitude": 37.986557,
+      "longitude": 23.664139
+    },
+    {
+      "name": "SIXT",
+      "latitude": 38.373131,
+      "longitude": 26.139332
+    },
+    {
+      "name": "SIXT",
+      "latitude": 39.608625,
+      "longitude": 19.914923
+    },
+    {
+      "name": "SIXT",
+      "latitude": 39.625643,
+      "longitude": 19.911852
+    },
+    {
+      "name": "Sixt",
+      "latitude": 40.074268,
+      "longitude": 23.448723
+    },
+    {
+      "name": "SIXT",
+      "latitude": 40.523948,
+      "longitude": 22.97621
+    },
+    {
+      "name": "SIXT",
+      "latitude": 40.635371,
+      "longitude": 22.93542
+    },
+    {
+      "name": "SK Rent",
+      "latitude": 35.54122,
+      "longitude": 24.136259
+    },
+    {
+      "name": "SKG Rent a Car",
+      "latitude": 40.527693,
+      "longitude": 22.994557
+    },
+    {
+      "name": "Sky",
+      "latitude": 36.452501,
+      "longitude": 28.217154
+    },
+    {
+      "name": "Smart Rent a Car",
+      "latitude": 40.521527,
+      "longitude": 21.258697
+    },
+    {
+      "name": "Smart rent a car",
+      "latitude": 40.731873,
+      "longitude": 24.76146
+    },
+    {
+      "name": "Smart-CarRental",
+      "latitude": 35.337111,
+      "longitude": 25.171735
+    },
+    {
+      "name": "Smartrental.gr",
+      "latitude": 36.783781,
+      "longitude": 27.142473
+    },
+    {
+      "name": "Smile",
+      "latitude": 35.306524,
+      "longitude": 25.51726
+    },
+    {
+      "name": "Smile",
+      "latitude": 35.308548,
+      "longitude": 25.52472
+    },
+    {
+      "name": "Sophie's Rent a Car and Travel Agency",
+      "latitude": 37.77903,
+      "longitude": 26.891259
+    },
+    {
+      "name": "Space Bikes",
+      "latitude": 39.547527,
+      "longitude": 19.854119
+    },
+    {
+      "name": "Speed",
+      "latitude": 35.335661,
+      "longitude": 25.345076
+    },
+    {
+      "name": "Speed",
+      "latitude": 35.337155,
+      "longitude": 25.359834
+    },
+    {
+      "name": "Speed Car & Moto",
+      "latitude": 35.334286,
+      "longitude": 25.30491
+    },
+    {
+      "name": "Speed Rent a Car",
+      "latitude": 35.334854,
+      "longitude": 25.347706
+    },
+    {
+      "name": "Speed wheel",
+      "latitude": 35.36652,
+      "longitude": 24.487786
+    },
+    {
+      "name": "Spinidakos",
+      "latitude": 36.385785,
+      "longitude": 25.429497
+    },
+    {
+      "name": "Spiros Bikes",
+      "latitude": 39.755129,
+      "longitude": 19.645708
+    },
+    {
+      "name": "Stamou",
+      "latitude": 37.989463,
+      "longitude": 23.746933
+    },
+    {
+      "name": "Star",
+      "latitude": 39.988886,
+      "longitude": 23.612201
+    },
+    {
+      "name": "STAR rentals",
+      "latitude": 37.708603,
+      "longitude": 26.673431
+    },
+    {
+      "name": "Starlet Car Rental",
+      "latitude": 39.427633,
+      "longitude": 19.942373
+    },
+    {
+      "name": "Stavros",
+      "latitude": 35.541446,
+      "longitude": 24.135342
+    },
+    {
+      "name": "Stefanakis rent",
+      "latitude": 36.416719,
+      "longitude": 27.38532
+    },
+    {
+      "name": "Stefanos",
+      "latitude": 37.08555,
+      "longitude": 25.149936
+    },
+    {
+      "name": "Sterling",
+      "latitude": 35.289699,
+      "longitude": 25.449174
+    },
+    {
+      "name": "Sterling",
+      "latitude": 35.290216,
+      "longitude": 25.455503
+    },
+    {
+      "name": "Sterling",
+      "latitude": 35.290288,
+      "longitude": 25.445794
+    },
+    {
+      "name": "Stop Rent a Car",
+      "latitude": 35.409053,
+      "longitude": 25.017252
+    },
+    {
+      "name": "Stratos Rentals Car",
+      "latitude": 37.085891,
+      "longitude": 25.159799
+    },
+    {
+      "name": "Sun Rent A Car",
+      "latitude": 35.361698,
+      "longitude": 24.259704
+    },
+    {
+      "name": "Sundrive",
+      "latitude": 35.337127,
+      "longitude": 25.057071
+    },
+    {
+      "name": "Sundrive",
+      "latitude": 35.409063,
+      "longitude": 25.016884
+    },
+    {
+      "name": "Sunny",
+      "latitude": 35.512613,
+      "longitude": 24.006648
+    },
+    {
+      "name": "SunnyCars / Auto Union",
+      "latitude": 39.61209,
+      "longitude": 19.913618
+    },
+    {
+      "name": "SunRise Rent a Car",
+      "latitude": 35.341282,
+      "longitude": 25.134089
+    },
+    {
+      "name": "Suntrail car and moto rental Sifnos",
+      "latitude": 36.988581,
+      "longitude": 24.677832
+    },
+    {
+      "name": "Suntrust",
+      "latitude": 35.480885,
+      "longitude": 27.11998
+    },
+    {
+      "name": "Superior",
+      "latitude": 36.417988,
+      "longitude": 28.177293
+    },
+    {
+      "name": "Superior",
+      "latitude": 36.420243,
+      "longitude": 28.158199
+    },
+    {
+      "name": "Sur-price car rentals",
+      "latitude": 37.898846,
+      "longitude": 23.888322
+    },
+    {
+      "name": "SurPrice",
+      "latitude": 36.726609,
+      "longitude": 24.446788
+    },
+    {
+      "name": "Surprise",
+      "latitude": 35.339191,
+      "longitude": 25.164823
+    },
+    {
+      "name": "Svelto",
+      "latitude": 39.489346,
+      "longitude": 20.260412
+    },
+    {
+      "name": "T-racer",
+      "latitude": 37.995824,
+      "longitude": 23.738938
+    },
+    {
+      "name": "Tasos",
+      "latitude": 37.883813,
+      "longitude": 24.73662
+    },
+    {
+      "name": "Taxi",
+      "latitude": 38.831987,
+      "longitude": 20.70847
+    },
+    {
+      "name": "Tellus",
+      "latitude": 35.513341,
+      "longitude": 24.006347
+    },
+    {
+      "name": "TheNewCrete",
+      "latitude": 35.335869,
+      "longitude": 25.072683
+    },
+    {
+      "name": "Theo Rentals",
+      "latitude": 37.812389,
+      "longitude": 20.872103
+    },
+    {
+      "name": "Theo Rentals",
+      "latitude": 37.818301,
+      "longitude": 20.862629
+    },
+    {
+      "name": "Thrifty",
+      "latitude": 36.419923,
+      "longitude": 25.431873
+    },
+    {
+      "name": "Thrifty",
+      "latitude": 37.91466,
+      "longitude": 23.743433
+    },
+    {
+      "name": "Thrifty",
+      "latitude": 38.232983,
+      "longitude": 21.725062
+    },
+    {
+      "name": "Thrifty",
+      "latitude": 40.635928,
+      "longitude": 22.935618
+    },
+    {
+      "name": "Time car",
+      "latitude": 35.508147,
+      "longitude": 23.979135
+    },
+    {
+      "name": "Tomaso Rent a Car",
+      "latitude": 40.519198,
+      "longitude": 21.254929
+    },
+    {
+      "name": "Toni's Moto Rent",
+      "latitude": 37.742711,
+      "longitude": 20.906182
+    },
+    {
+      "name": "Tony's",
+      "latitude": 36.345337,
+      "longitude": 28.200707
+    },
+    {
+      "name": "Tony's Rent a Car & Moto-ATV",
+      "latitude": 36.423278,
+      "longitude": 25.431078
+    },
+    {
+      "name": "Top Rentals",
+      "latitude": 37.732844,
+      "longitude": 20.863071
+    },
+    {
+      "name": "Toprent - Car-Bike-Rental",
+      "latitude": 35.303098,
+      "longitude": 25.418382
+    },
+    {
+      "name": "TOURENT",
+      "latitude": 35.336849,
+      "longitude": 25.172897
+    },
+    {
+      "name": "TouRent",
+      "latitude": 35.517987,
+      "longitude": 23.934187
+    },
+    {
+      "name": "Tourings Rent a Car",
+      "latitude": 35.342244,
+      "longitude": 25.134393
+    },
+    {
+      "name": "Traction",
+      "latitude": 39.98793,
+      "longitude": 23.614977
+    },
+    {
+      "name": "Traffic",
+      "latitude": 35.310844,
+      "longitude": 25.399387
+    },
+    {
+      "name": "traffic",
+      "latitude": 35.322686,
+      "longitude": 25.38801
+    },
+    {
+      "name": "Traffic Rent a Car",
+      "latitude": 35.371493,
+      "longitude": 24.539998
+    },
+    {
+      "name": "Traffic Rentals",
+      "latitude": 37.741465,
+      "longitude": 20.906682
+    },
+    {
+      "name": "Travel car",
+      "latitude": 35.334365,
+      "longitude": 25.381599
+    },
+    {
+      "name": "Travelcar",
+      "latitude": 35.332938,
+      "longitude": 25.377567
+    },
+    {
+      "name": "Travelway",
+      "latitude": 36.896571,
+      "longitude": 27.285397
+    },
+    {
+      "name": "TripWise - Travel Services",
+      "latitude": 37.018456,
+      "longitude": 25.130003
+    },
+    {
+      "name": "Trohokinisi Rent a Car",
+      "latitude": 36.721995,
+      "longitude": 25.282077
+    },
+    {
+      "name": "TRUST",
+      "latitude": 35.540117,
+      "longitude": 24.14042
+    },
+    {
+      "name": "Trust",
+      "latitude": 36.876947,
+      "longitude": 27.147299
+    },
+    {
+      "name": "Tsikoyras Cars",
+      "latitude": 37.947796,
+      "longitude": 23.739429
+    },
+    {
+      "name": "Two Wheels",
+      "latitude": 36.449922,
+      "longitude": 28.216644
+    },
+    {
+      "name": "U Drive",
+      "latitude": 35.516134,
+      "longitude": 24.019175
+    },
+    {
+      "name": "Unicorn",
+      "latitude": 38.162919,
+      "longitude": 20.482416
+    },
+    {
+      "name": "United Car Rental",
+      "latitude": 35.473316,
+      "longitude": 27.116533
+    },
+    {
+      "name": "URent",
+      "latitude": 37.966895,
+      "longitude": 23.729457
+    },
+    {
+      "name": "Utoplan",
+      "latitude": 37.68988,
+      "longitude": 26.941954
+    },
+    {
+      "name": "V rent a car",
+      "latitude": 35.36581,
+      "longitude": 24.497087
+    },
+    {
+      "name": "Vaden",
+      "latitude": 37.811255,
+      "longitude": 20.871808
+    },
+    {
+      "name": "Vaggelis Rent a Car",
+      "latitude": 36.72141,
+      "longitude": 25.283918
+    },
+    {
+      "name": "Value plus Car Rental",
+      "latitude": 39.615155,
+      "longitude": 19.908436
+    },
+    {
+      "name": "Van Rental Thessaloniki",
+      "latitude": 40.521974,
+      "longitude": 22.996262
+    },
+    {
+      "name": "VanRent",
+      "latitude": 38.048663,
+      "longitude": 23.754475
+    },
+    {
+      "name": "Vassilis Hire",
+      "latitude": 39.196243,
+      "longitude": 20.182821
+    },
+    {
+      "name": "Vega",
+      "latitude": 37.966109,
+      "longitude": 23.72898
+    },
+    {
+      "name": "Venetia Rentals",
+      "latitude": 36.626796,
+      "longitude": 24.917941
+    },
+    {
+      "name": "Venus",
+      "latitude": 35.3691,
+      "longitude": 24.53248
+    },
+    {
+      "name": "Venus Car Rental",
+      "latitude": 38.070549,
+      "longitude": 20.74665
+    },
+    {
+      "name": "Vergoulis",
+      "latitude": 36.548676,
+      "longitude": 26.352128
+    },
+    {
+      "name": "Veronis Elite Cars",
+      "latitude": 38.099116,
+      "longitude": 23.811183
+    },
+    {
+      "name": "Via Venetia",
+      "latitude": 38.160044,
+      "longitude": 20.482643
+    },
+    {
+      "name": "Victoria Rental",
+      "latitude": 39.120915,
+      "longitude": 23.729199
+    },
+    {
+      "name": "Vidalis",
+      "latitude": 37.53919,
+      "longitude": 25.158082
+    },
+    {
+      "name": "Virtus",
+      "latitude": 37.937933,
+      "longitude": 23.639561
+    },
+    {
+      "name": "Volta4u",
+      "latitude": 37.918524,
+      "longitude": 23.921381
+    },
+    {
+      "name": "Volta4u",
+      "latitude": 37.965492,
+      "longitude": 23.72835
+    },
+    {
+      "name": "VoltaMoto",
+      "latitude": 37.426282,
+      "longitude": 25.333319
+    },
+    {
+      "name": "Voyager",
+      "latitude": 35.333177,
+      "longitude": 25.299126
+    },
+    {
+      "name": "Wheel",
+      "latitude": 35.51173,
+      "longitude": 23.97972
+    },
+    {
+      "name": "X-Treme",
+      "latitude": 39.402422,
+      "longitude": 20.097186
+    },
+    {
+      "name": "Xenos",
+      "latitude": 37.896341,
+      "longitude": 23.884606
+    },
+    {
+      "name": "Yes",
+      "latitude": 37.690526,
+      "longitude": 26.938599
+    },
+    {
+      "name": "Yours car rental",
+      "latitude": 35.541431,
+      "longitude": 24.136098
+    },
+    {
+      "name": "Yours Car Rental",
+      "latitude": 37.754323,
+      "longitude": 20.888903
+    },
+    {
+      "name": "Yours Car Rental",
+      "latitude": 38.119186,
+      "longitude": 20.50653
+    },
+    {
+      "name": "Yours Car Rental Milos",
+      "latitude": 36.726068,
+      "longitude": 24.4504
+    },
+    {
+      "name": "Zak's Rent a car",
+      "latitude": 35.331971,
+      "longitude": 25.306338
+    },
+    {
+      "name": "Zak's rent a car",
+      "latitude": 35.332644,
+      "longitude": 25.318019
+    },
+    {
+      "name": "Zeus",
+      "latitude": 36.447993,
+      "longitude": 28.22101
+    },
+    {
+      "name": "Zeus car rental&vip transfer - Preveza Airport PVK",
+      "latitude": 38.932407,
+      "longitude": 20.773455
+    },
+    {
+      "name": "Zeus Rentacar",
+      "latitude": 36.074578,
+      "longitude": 28.054832
+    },
+    {
+      "name": "ZYGOS",
+      "latitude": 35.326744,
+      "longitude": 25.386445
+    },
+    {
+      "name": "ΑΤΙΑ",
+      "latitude": 37.99838,
+      "longitude": 23.723401
+    },
+    {
+      "name": "Βακάνζα ενοικίαση αυτοκινήτων",
+      "latitude": 35.513907,
+      "longitude": 24.017508
+    },
+    {
+      "name": "βασιλικός",
+      "latitude": 37.441641,
+      "longitude": 24.941624
+    },
+    {
+      "name": "Γιούργας",
+      "latitude": 36.670021,
+      "longitude": 24.44137
+    },
+    {
+      "name": "Ενοικ",
+      "latitude": 40.528232,
+      "longitude": 22.996933
+    },
+    {
+      "name": "ενοικιαζόμενα αυτοκίνητα",
+      "latitude": 35.332456,
+      "longitude": 25.1011
+    },
+    {
+      "name": "Ηertz Thrifly",
+      "latitude": 35.336864,
+      "longitude": 25.172766
+    },
+    {
+      "name": "Κακανιάρης",
+      "latitude": 39.106492,
+      "longitude": 26.558496
+    },
+    {
+      "name": "Κανδια Καμπερς - Αυτοκινούμενα τροχοσπιτα",
+      "latitude": 35.33213,
+      "longitude": 25.302273
+    },
+    {
+      "name": "Μιχ. Στάμου",
+      "latitude": 37.968074,
+      "longitude": 23.731524
+    },
+    {
+      "name": "ΝΕΑ ΟΙΚΟΝΟΜΙΚΗ Κηφισού 91 Δ0",
+      "latitude": 37.982638,
+      "longitude": 23.682377
+    },
+    {
+      "name": "Ράιζεν",
+      "latitude": 35.514531,
+      "longitude": 24.017601
+    },
+    {
+      "name": "Σπιτι",
+      "latitude": 41.137934,
+      "longitude": 24.893659
+    },
+    {
+      "name": "Ταξί Α. Κατσαντώνης",
+      "latitude": 38.003077,
+      "longitude": 23.72215
+    },
+    {
+      "name": "Ταξί Βούτου",
+      "latitude": 38.002112,
+      "longitude": 23.72232
+    },
+    {
+      "name": "Ταξί Ιακωβάκης",
+      "latitude": 37.986839,
+      "longitude": 23.720531
+    },
+    {
+      "name": "Ταξί Ν. Θεοδωρόπουλος",
+      "latitude": 38.003161,
+      "longitude": 23.721814
+    },
+    {
+      "name": "Ταξί Παλληκαράς",
+      "latitude": 38.009372,
+      "longitude": 23.721317
+    },
+    {
+      "name": "ΧΑΜΠΕΖΗΣ Αγρίνιο",
+      "latitude": 37.980279,
+      "longitude": 23.689506
+    },
+    {
+      "name": "Авто",
+      "latitude": 35.335433,
+      "longitude": 25.172367
+    },
+    {
+      "name": "прокат авто",
+      "latitude": 35.316309,
+      "longitude": 25.382197
+    }
+  ],
+  "meta": {
+    "title": "Ενοικιάσεις Αυτοκινήτων Ελλάδας - Δωρεάν λήψη",
+    "description": "Γραφεία ενοικίασης αυτοκινήτων σε όλη την Ελλάδα από το OpenStreetMap. Car rental locations across Greece. Περιέχει 1061 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ενοικιάσεις Αυτοκινήτων Ελλάδας | ListBase",
+    "seo_description": "Λήψη Ενοικιάσεις Αυτοκινήτων Ελλάδας — 1061 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1061 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

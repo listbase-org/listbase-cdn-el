@@ -1,0 +1,835 @@
+{
+  "id": "el-argia",
+  "name": "Ελληνικές αργίες (2020–2026)",
+  "title": "Ελληνικές αργίες (2020–2026)",
+  "description": "Public holidays 2020-2026 with native and English names",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 86,
+  "columns": [
+    {
+      "key": "date",
+      "label": "Date",
+      "type": "date"
+    },
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "month",
+      "label": "Month",
+      "type": "number"
+    },
+    {
+      "key": "day",
+      "label": "Day",
+      "type": "number"
+    },
+    {
+      "key": "day_of_week",
+      "label": "Day Of Week",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "date": "2020-01-01",
+      "year": 2020,
+      "name_el": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-01-06",
+      "year": 2020,
+      "name_el": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-03-02",
+      "year": 2020,
+      "name_el": "Καθαρά Δευτέρα",
+      "name_en": "Green Monday",
+      "month": 3,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-03-25",
+      "year": 2020,
+      "name_el": "Εικοστή Πέμπτη Μαρτίου",
+      "name_en": "Independence Day",
+      "month": 3,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-04-17",
+      "year": 2020,
+      "name_el": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 17,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-04-20",
+      "year": 2020,
+      "name_el": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 20,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-05-01",
+      "year": 2020,
+      "name_el": "Εργατική Πρωτομαγιά",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-06-08",
+      "year": 2020,
+      "name_el": "Δευτέρα του Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 8,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2020-08-15",
+      "year": 2020,
+      "name_el": "Κοίμηση της Θεοτόκου",
+      "name_en": "Dormition of the Mother of God",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2020-10-28",
+      "year": 2020,
+      "name_el": "Ημέρα του Όχι",
+      "name_en": "Ochi Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2020-12-25",
+      "year": 2020,
+      "name_el": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2020-12-26",
+      "year": 2020,
+      "name_el": "Σύναξη της Υπεραγίας Θεοτόκου",
+      "name_en": "Glorifying Mother of God",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-01-01",
+      "year": 2021,
+      "name_el": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-01-06",
+      "year": 2021,
+      "name_el": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2021-03-15",
+      "year": 2021,
+      "name_el": "Καθαρά Δευτέρα",
+      "name_en": "Green Monday",
+      "month": 3,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-03-25",
+      "year": 2021,
+      "name_el": "Εικοστή Πέμπτη Μαρτίου",
+      "name_en": "Independence Day",
+      "month": 3,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-04-30",
+      "year": 2021,
+      "name_el": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 30,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2021-05-01",
+      "year": 2021,
+      "name_el": "Εργατική Πρωτομαγιά",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-05-03",
+      "year": 2021,
+      "name_el": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-05-04",
+      "year": 2021,
+      "name_el": "Εργατική Πρωτομαγιά (παρατηρήθηκε)",
+      "name_en": "Labor Day (observed)",
+      "month": 5,
+      "day": 4,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2021-06-21",
+      "year": 2021,
+      "name_el": "Δευτέρα του Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2021-08-15",
+      "year": 2021,
+      "name_el": "Κοίμηση της Θεοτόκου",
+      "name_en": "Dormition of the Mother of God",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2021-10-28",
+      "year": 2021,
+      "name_el": "Ημέρα του Όχι",
+      "name_en": "Ochi Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2021-12-25",
+      "year": 2021,
+      "name_el": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2021-12-26",
+      "year": 2021,
+      "name_el": "Σύναξη της Υπεραγίας Θεοτόκου",
+      "name_en": "Glorifying Mother of God",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-01-01",
+      "year": 2022,
+      "name_el": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2022-01-06",
+      "year": 2022,
+      "name_el": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2022-03-07",
+      "year": 2022,
+      "name_el": "Καθαρά Δευτέρα",
+      "name_en": "Green Monday",
+      "month": 3,
+      "day": 7,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-03-25",
+      "year": 2022,
+      "name_el": "Εικοστή Πέμπτη Μαρτίου",
+      "name_en": "Independence Day",
+      "month": 3,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-04-22",
+      "year": 2022,
+      "name_el": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 22,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-04-25",
+      "year": 2022,
+      "name_el": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-05-01",
+      "year": 2022,
+      "name_el": "Εργατική Πρωτομαγιά",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-05-02",
+      "year": 2022,
+      "name_el": "Εργατική Πρωτομαγιά (παρατηρήθηκε)",
+      "name_en": "Labor Day (observed)",
+      "month": 5,
+      "day": 2,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-06-13",
+      "year": 2022,
+      "name_el": "Δευτέρα του Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-08-15",
+      "year": 2022,
+      "name_el": "Κοίμηση της Θεοτόκου",
+      "name_en": "Dormition of the Mother of God",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2022-10-28",
+      "year": 2022,
+      "name_el": "Ημέρα του Όχι",
+      "name_en": "Ochi Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2022-12-25",
+      "year": 2022,
+      "name_el": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2022-12-26",
+      "year": 2022,
+      "name_el": "Σύναξη της Υπεραγίας Θεοτόκου",
+      "name_en": "Glorifying Mother of God",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-01-01",
+      "year": 2023,
+      "name_el": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Sunday"
+    },
+    {
+      "date": "2023-01-06",
+      "year": 2023,
+      "name_el": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-02-27",
+      "year": 2023,
+      "name_el": "Καθαρά Δευτέρα",
+      "name_en": "Green Monday",
+      "month": 2,
+      "day": 27,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-03-25",
+      "year": 2023,
+      "name_el": "Εικοστή Πέμπτη Μαρτίου",
+      "name_en": "Independence Day",
+      "month": 3,
+      "day": 25,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-04-14",
+      "year": 2023,
+      "name_el": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 14,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2023-04-17",
+      "year": 2023,
+      "name_el": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 17,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-05-01",
+      "year": 2023,
+      "name_el": "Εργατική Πρωτομαγιά",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-06-05",
+      "year": 2023,
+      "name_el": "Δευτέρα του Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 5,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-08-15",
+      "year": 2023,
+      "name_el": "Κοίμηση της Θεοτόκου",
+      "name_en": "Dormition of the Mother of God",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2023-10-28",
+      "year": 2023,
+      "name_el": "Ημέρα του Όχι",
+      "name_en": "Ochi Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2023-12-25",
+      "year": 2023,
+      "name_el": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2023-12-26",
+      "year": 2023,
+      "name_el": "Σύναξη της Υπεραγίας Θεοτόκου",
+      "name_en": "Glorifying Mother of God",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-01-01",
+      "year": 2024,
+      "name_el": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-01-06",
+      "year": 2024,
+      "name_el": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2024-03-18",
+      "year": 2024,
+      "name_el": "Καθαρά Δευτέρα",
+      "name_en": "Green Monday",
+      "month": 3,
+      "day": 18,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-03-25",
+      "year": 2024,
+      "name_el": "Εικοστή Πέμπτη Μαρτίου",
+      "name_en": "Independence Day",
+      "month": 3,
+      "day": 25,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-05-03",
+      "year": 2024,
+      "name_el": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "month": 5,
+      "day": 3,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2024-05-06",
+      "year": 2024,
+      "name_el": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "month": 5,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-05-07",
+      "year": 2024,
+      "name_el": "Εργατική Πρωτομαγιά",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 7,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2024-06-24",
+      "year": 2024,
+      "name_el": "Δευτέρα του Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 24,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-08-15",
+      "year": 2024,
+      "name_el": "Κοίμηση της Θεοτόκου",
+      "name_en": "Dormition of the Mother of God",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2024-10-28",
+      "year": 2024,
+      "name_el": "Ημέρα του Όχι",
+      "name_en": "Ochi Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2024-12-25",
+      "year": 2024,
+      "name_el": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2024-12-26",
+      "year": 2024,
+      "name_el": "Σύναξη της Υπεραγίας Θεοτόκου",
+      "name_en": "Glorifying Mother of God",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-01-01",
+      "year": 2025,
+      "name_el": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2025-01-06",
+      "year": 2025,
+      "name_el": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-03-03",
+      "year": 2025,
+      "name_el": "Καθαρά Δευτέρα",
+      "name_en": "Green Monday",
+      "month": 3,
+      "day": 3,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-03-25",
+      "year": 2025,
+      "name_el": "Εικοστή Πέμπτη Μαρτίου",
+      "name_en": "Independence Day",
+      "month": 3,
+      "day": 25,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-04-18",
+      "year": 2025,
+      "name_el": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 18,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-04-21",
+      "year": 2025,
+      "name_el": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 21,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-05-01",
+      "year": 2025,
+      "name_el": "Εργατική Πρωτομαγιά",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-06-09",
+      "year": 2025,
+      "name_el": "Δευτέρα του Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 9,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2025-08-15",
+      "year": 2025,
+      "name_el": "Κοίμηση της Θεοτόκου",
+      "name_en": "Dormition of the Mother of God",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2025-10-28",
+      "year": 2025,
+      "name_el": "Ημέρα του Όχι",
+      "name_en": "Ochi Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2025-12-25",
+      "year": 2025,
+      "name_el": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2025-12-26",
+      "year": 2025,
+      "name_el": "Σύναξη της Υπεραγίας Θεοτόκου",
+      "name_en": "Glorifying Mother of God",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-01-01",
+      "year": 2026,
+      "name_el": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "month": 1,
+      "day": 1,
+      "day_of_week": "Thursday"
+    },
+    {
+      "date": "2026-01-06",
+      "year": 2026,
+      "name_el": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "month": 1,
+      "day": 6,
+      "day_of_week": "Tuesday"
+    },
+    {
+      "date": "2026-02-23",
+      "year": 2026,
+      "name_el": "Καθαρά Δευτέρα",
+      "name_en": "Green Monday",
+      "month": 2,
+      "day": 23,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-03-25",
+      "year": 2026,
+      "name_el": "Εικοστή Πέμπτη Μαρτίου",
+      "name_en": "Independence Day",
+      "month": 3,
+      "day": 25,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-04-10",
+      "year": 2026,
+      "name_el": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "month": 4,
+      "day": 10,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-04-13",
+      "year": 2026,
+      "name_el": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "month": 4,
+      "day": 13,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-05-01",
+      "year": 2026,
+      "name_el": "Εργατική Πρωτομαγιά",
+      "name_en": "Labor Day",
+      "month": 5,
+      "day": 1,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-06-01",
+      "year": 2026,
+      "name_el": "Δευτέρα του Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "month": 6,
+      "day": 1,
+      "day_of_week": "Monday"
+    },
+    {
+      "date": "2026-08-15",
+      "year": 2026,
+      "name_el": "Κοίμηση της Θεοτόκου",
+      "name_en": "Dormition of the Mother of God",
+      "month": 8,
+      "day": 15,
+      "day_of_week": "Saturday"
+    },
+    {
+      "date": "2026-10-28",
+      "year": 2026,
+      "name_el": "Ημέρα του Όχι",
+      "name_en": "Ochi Day",
+      "month": 10,
+      "day": 28,
+      "day_of_week": "Wednesday"
+    },
+    {
+      "date": "2026-12-25",
+      "year": 2026,
+      "name_el": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "month": 12,
+      "day": 25,
+      "day_of_week": "Friday"
+    },
+    {
+      "date": "2026-12-26",
+      "year": 2026,
+      "name_el": "Σύναξη της Υπεραγίας Θεοτόκου",
+      "name_en": "Glorifying Mother of God",
+      "month": 12,
+      "day": 26,
+      "day_of_week": "Saturday"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικές αργίες (2020–2026) - Δωρεάν λήψη",
+    "description": "Public holidays 2020-2026 with native and English names Περιέχει 86 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ελληνικές αργίες (2020–2026) | ListBase",
+    "seo_description": "Λήψη Ελληνικές αργίες (2020–2026) — 86 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 86 εγγραφές / 7 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

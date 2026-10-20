@@ -1,0 +1,100 @@
+{
+  "id": "el-eponyma",
+  "name": "Συχνότερα Ελληνικά Επώνυμα (Popular Greek Surnames)",
+  "title": "Συχνότερα Ελληνικά Επώνυμα (Popular Greek Surnames)",
+  "description": "Τα πιο συνηθισμένα επώνυμα στην Ελλάδα· κατάταξη με ελληνική και λατινική γραφή.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "name_group",
+      "label": "Name Group",
+      "type": "string"
+    },
+    {
+      "key": "rank",
+      "label": "Rank",
+      "type": "number"
+    },
+    {
+      "key": "localized",
+      "label": "Localized",
+      "type": "string"
+    },
+    {
+      "key": "romanized",
+      "label": "Romanized",
+      "type": "string"
+    },
+    {
+      "key": "count",
+      "label": "Count",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name_group": "GR-1",
+      "rank": 1,
+      "localized": "Σαμαράς",
+      "romanized": "Samaras",
+      "count": ""
+    },
+    {
+      "name_group": "GR-2",
+      "rank": 2,
+      "localized": "Παπουτσής",
+      "romanized": "Papoutsis",
+      "count": ""
+    },
+    {
+      "name_group": "GR-3",
+      "rank": 3,
+      "localized": "Κρητικός",
+      "romanized": "Kritikos",
+      "count": ""
+    },
+    {
+      "name_group": "GR-4",
+      "rank": 4,
+      "localized": "Αϊβαλιώτης",
+      "romanized": "Aivaliotis",
+      "count": ""
+    },
+    {
+      "name_group": "GR-5",
+      "rank": 5,
+      "localized": "Κοντός",
+      "romanized": "Kontos",
+      "count": ""
+    },
+    {
+      "name_group": "GR-6",
+      "rank": 6,
+      "localized": "Μυταράς",
+      "romanized": "Mytaras",
+      "count": ""
+    },
+    {
+      "name_group": "GR-7",
+      "rank": 7,
+      "localized": "Κουφός",
+      "romanized": "Koufos",
+      "count": ""
+    }
+  ],
+  "meta": {
+    "title": "Συχνότερα Ελληνικά Επώνυμα (Popular Greek Surnames) - Δωρεάν λήψη",
+    "description": "Τα πιο συνηθισμένα επώνυμα στην Ελλάδα· κατάταξη με ελληνική και λατινική γραφή. Περιέχει 7 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Συχνότερα Ελληνικά Επώνυμα (Popular Greek Surnames) | ListBase",
+    "seo_description": "Λήψη Συχνότερα Ελληνικά Επώνυμα (Popular Greek Surnames) — 7 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 7 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

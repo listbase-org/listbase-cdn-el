@@ -1,0 +1,137 @@
+{
+  "id": "el-ifaistia",
+  "name": "Ηφαίστεια της Ελλάδας",
+  "title": "Ηφαίστεια της Ελλάδας",
+  "description": "Volcanoes in Greece from Wikidata (P31=Q8072 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q4293695",
+      "name_el": "Ηφαίστειο Μήλου",
+      "name_en": "Volcano of Milos",
+      "admin_area_el": "Δήμος Μήλου",
+      "admin_area_en": "Milos Municipality",
+      "latitude": 36.699,
+      "longitude": 24.439,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4293695"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q25164419",
+      "name_el": "Θόλος Ναυτίλος",
+      "name_en": "",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 36.404444444,
+      "longitude": 25.396111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q25164419"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q1547142",
+      "name_el": "Νέα Καμένη Θήρας",
+      "name_en": "Nea Kameni",
+      "admin_area_el": "Δήμος Θήρας",
+      "admin_area_en": "Thira Municipality",
+      "latitude": 36.4,
+      "longitude": 25.4,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1547142"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q1419053",
+      "name_el": "Παλαιά Καμένη Θήρας",
+      "name_en": "Palea Kameni",
+      "admin_area_el": "Δήμος Θήρας",
+      "admin_area_en": "Thira Municipality",
+      "latitude": 36.398,
+      "longitude": 25.37863,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1419053"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7565236",
+      "name_el": "Σουσάκι",
+      "name_en": "Sousaki volcano",
+      "admin_area_el": "Δήμος Λουτρακίου - Περαχώρας - Αγίων Θεοδώρων",
+      "admin_area_en": "Loutraki-Perachora-Agioi Theodoroi Municipality",
+      "latitude": 37.9367981,
+      "longitude": 23.08720016,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7565236"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q4180518",
+      "name_el": "ηφαίστειο Μεθάνων",
+      "name_en": "Methana Volcano",
+      "admin_area_el": "Δήμος Τροιζηνίας-Μεθάνων",
+      "admin_area_en": "Troizinia-Methana Municipality",
+      "latitude": 37.615,
+      "longitude": 23.336,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4180518"
+    }
+  ],
+  "meta": {
+    "title": "Ηφαίστεια της Ελλάδας - Δωρεάν λήψη",
+    "description": "Volcanoes in Greece from Wikidata (P31=Q8072 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 6 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ηφαίστεια της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Ηφαίστεια της Ελλάδας — 6 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 6 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

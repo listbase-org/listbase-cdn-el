@@ -1,0 +1,4 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LG53","","Lamia Airport","lamia-airport","Lamia","Περιφέρεια Στερεάς Ελλάδας","Central-Greece","stereas-elladas","Central Greece Region","GR","38","38.8745994568","22.4349994659","Europe/Athens","false"
+"LGSY","SKU","Skiros Airport","skiros-airport","Skiros Island","Περιφέρεια Στερεάς Ελλάδας","Central-Greece","stereas-elladas","Central Greece Region","GR","44","38.9676017761","24.4871997833","Europe/Athens","true"
+"LGTG","","Tanagra Airport","tanagra-airport","Tanagra","Περιφέρεια Στερεάς Ελλάδας","Central-Greece","stereas-elladas","Central Greece Region","GR","485","38.3398017883","23.5650005341","Europe/Athens","false"

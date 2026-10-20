@@ -1,0 +1,137 @@
+{
+  "id": "el-emporika-kentra",
+  "name": "Εμπορικά κέντρα της Ελλάδας",
+  "title": "Εμπορικά κέντρα της Ελλάδας",
+  "description": "Shopping malls in Greece from Wikidata (P31=Q11315 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q57557352",
+      "name_el": "Escape Center",
+      "name_en": "Escape Center",
+      "admin_area_el": "Δήμος Ιλίου",
+      "admin_area_en": "Ilion Municipality",
+      "latitude": 38.0346199,
+      "longitude": 23.72289,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q57557352"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q6807044",
+      "name_el": "Mediterranean Cosmos",
+      "name_en": "Mediterranean Cosmos",
+      "admin_area_el": "Θεσσαλονίκη",
+      "admin_area_en": "Thessaloniki",
+      "latitude": 40.5558,
+      "longitude": 22.9936,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6807044"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q7749761",
+      "name_el": "The Mall Athens",
+      "name_en": "The Mall Athens",
+      "admin_area_el": "Δήμος Αμαρουσίου",
+      "admin_area_en": "Amarusio Municipality",
+      "latitude": 38.044722222,
+      "longitude": 23.790555555,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7749761"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q122311267",
+      "name_el": "Στοά Λιάμπεη, Ιωάννινα",
+      "name_en": "Stoa Liabei",
+      "admin_area_el": "Δήμος Ιωαννιτών",
+      "admin_area_en": "Ioannina Municipality",
+      "latitude": 39.669201,
+      "longitude": 20.854901,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122311267"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q122311260",
+      "name_el": "Στοά Λούλη, Ιωάννινα",
+      "name_en": "Stoa Louli",
+      "admin_area_el": "Δήμος Ιωαννιτών",
+      "admin_area_en": "Ioannina Municipality",
+      "latitude": 39.669678,
+      "longitude": 20.854064,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122311260"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q122311274",
+      "name_el": "Στοά Μπαράτσα, Ιωάννινα",
+      "name_en": "Stoa Baracha",
+      "admin_area_el": "Δήμος Ιωαννιτών",
+      "admin_area_en": "Ioannina Municipality",
+      "latitude": 39.66937,
+      "longitude": 20.855344,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q122311274"
+    }
+  ],
+  "meta": {
+    "title": "Εμπορικά κέντρα της Ελλάδας - Δωρεάν λήψη",
+    "description": "Shopping malls in Greece from Wikidata (P31=Q11315 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 6 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εμπορικά κέντρα της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Εμπορικά κέντρα της Ελλάδας — 6 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 6 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

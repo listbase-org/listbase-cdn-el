@@ -1,0 +1,429 @@
+{
+  "id": "el-attikis-panepistimia",
+  "name": "Πανεπιστημιακές εγκαταστάσεις — Περιφέρεια Αττικής",
+  "title": "Πανεπιστημιακές εγκαταστάσεις — Περιφέρεια Αττικής",
+  "description": "Σημεία πανεπιστημιακών εγκαταστάσεων (σχολές, τμήματα, πανεπιστημιουπόλεις) στην Περιφέρεια Αττικής με ελληνική/αγγλική ονομασία και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository. (University facility locations in Attica; distinct from el-panepistimia which is the national accredited-institutions list.)",
+  "category": "education",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 54,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 1,
+      "name": "Σχολή Μηχανολόγων Μηχανικών",
+      "name_en": "Mechanical Engineering Faculty",
+      "latitude": 37.9788906,
+      "longitude": 23.784606
+    },
+    {
+      "source_id": 8,
+      "name": "Γεωπονικό Πανεπιστήμιο Αθηνών",
+      "name_en": "Agricultural University of Athens",
+      "latitude": 37.9839927,
+      "longitude": 23.7052819
+    },
+    {
+      "source_id": 31,
+      "name": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών",
+      "name_en": "National and Kapodistrian University of Athens",
+      "latitude": 37.9700387,
+      "longitude": 23.7741332
+    },
+    {
+      "source_id": 32,
+      "name": "Πανεπιστήμιο Πειραιώς",
+      "name_en": "University of Piraeus",
+      "latitude": 37.9416329,
+      "longitude": 23.652859
+    },
+    {
+      "source_id": 33,
+      "name": "Εθνικό Μετσόβιο Πολυτεχνείο - Πολυτεχνειούπολη",
+      "name_en": "National Technical University of Athens - Campus",
+      "latitude": 37.9779724,
+      "longitude": 23.7820936
+    },
+    {
+      "source_id": 37,
+      "name": "Χαροκόπειο Πανεπιστήμιο",
+      "name_en": "Harokopio University",
+      "latitude": 37.9612378,
+      "longitude": 23.7082056
+    },
+    {
+      "source_id": 78,
+      "name": "Ακαδημία Αθηνών",
+      "name_en": "Academy of Athens",
+      "latitude": 37.9800962,
+      "longitude": 23.7341082
+    },
+    {
+      "source_id": 100,
+      "name": "Πάντειο Πανεπιστήμιο",
+      "name_en": "",
+      "latitude": 37.9597367,
+      "longitude": 23.7190031
+    },
+    {
+      "source_id": 105,
+      "name": "Ανωτάτη Σχολή Καλών Τεχνών Αθήνας",
+      "name_en": "Athens School of Fine Arts",
+      "latitude": 37.9882574,
+      "longitude": 23.7309905
+    },
+    {
+      "source_id": 106,
+      "name": "Πρυτανεία αρχιτεκτονικής",
+      "name_en": "",
+      "latitude": 37.9876732,
+      "longitude": 23.7308093
+    },
+    {
+      "source_id": 107,
+      "name": "Κτήριο Γκίνη",
+      "name_en": "",
+      "latitude": 37.9874536,
+      "longitude": 23.7322933
+    },
+    {
+      "source_id": 108,
+      "name": "Εθνικό Μετσόβιο Πολυτεχνείο",
+      "name_en": "National Technical University of Athens",
+      "latitude": 37.9878235,
+      "longitude": 23.7318189
+    },
+    {
+      "source_id": 210,
+      "name": "Εργαστήριο Αυτομάτου Ελέγχου",
+      "name_en": "Control Systems Lab",
+      "latitude": 37.9788633,
+      "longitude": 23.7849218
+    },
+    {
+      "source_id": 212,
+      "name": "Κτήριο Φυσικής (ΣΕΜΦΕ)",
+      "name_en": "Physics building",
+      "latitude": 37.9769745,
+      "longitude": 23.7827848
+    },
+    {
+      "source_id": 217,
+      "name": "Εργαστήριο Ατμοκινητήρων & Λεβήτων",
+      "name_en": "Laboratory of Steam Boilers & Thermal Plants",
+      "latitude": 37.9798908,
+      "longitude": 23.7847834
+    },
+    {
+      "source_id": 330,
+      "name": "Σχολή Ναυπηγών Μηχανολόγων Μηχανικών",
+      "name_en": "Naval Architecture and Marine Engineering Faculty",
+      "latitude": 37.9785464,
+      "longitude": 23.784875
+    },
+    {
+      "source_id": 375,
+      "name": "Σχολή Αγρονόμων & Τοπογράφων Μηχανικών - Μηχανικών Γεωπληροφορικής",
+      "name_en": "School of Rural, Surveying and Geoinformatics Engineering",
+      "latitude": 37.9752233,
+      "longitude": 23.7801052
+    },
+    {
+      "source_id": 526,
+      "name": "Κέντρο Υπολογιστών",
+      "name_en": "Computer Center",
+      "latitude": 37.9783094,
+      "longitude": 23.7833503
+    },
+    {
+      "source_id": 527,
+      "name": "Νέα κτήρια Σχολής Ηλεκτρολόγων Μηχανικών & Μηχανικών Υπολογιστών",
+      "name_en": "Electrical and Computier Engineering Faculty",
+      "latitude": 37.9791152,
+      "longitude": 23.7831344
+    },
+    {
+      "source_id": 766,
+      "name": "Πανεπιστήμιο Δυτικής Αττικής - Πανεπιστημιούπολη 2",
+      "name_en": "University of West Attica - Campus 2",
+      "latitude": 37.9784173,
+      "longitude": 23.6723934
+    },
+    {
+      "source_id": 804,
+      "name": "Ιατρική Σχολή",
+      "name_en": "",
+      "latitude": 37.9845514,
+      "longitude": 23.7665138
+    },
+    {
+      "source_id": 979,
+      "name": "Ανωτάτη Σχολή Καλών Τεχνών",
+      "name_en": "Athens School of Fine Arts",
+      "latitude": 37.9625034,
+      "longitude": 23.6892411
+    },
+    {
+      "source_id": 1004,
+      "name": "Aegean College",
+      "name_en": "",
+      "latitude": 37.9783567,
+      "longitude": 23.734265
+    },
+    {
+      "source_id": 1292,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9756292,
+      "longitude": 23.6786866
+    },
+    {
+      "source_id": 2131,
+      "name": "Οικονομικό Πανεπιστήμιο Αθηνών",
+      "name_en": "Athens University of Economics and Business",
+      "latitude": 37.9941806,
+      "longitude": 23.7324618
+    },
+    {
+      "source_id": 2363,
+      "name": "Γυμναστική Ακαδημία",
+      "name_en": "",
+      "latitude": 37.9511718,
+      "longitude": 23.7398551
+    },
+    {
+      "source_id": 2417,
+      "name": "Πανεπιστήμιο Δυτικής Αττικής - Πανεπιστημιούπολη 1",
+      "name_en": "University of West Attica - Campus 1",
+      "latitude": 38.0028722,
+      "longitude": 23.6757194
+    },
+    {
+      "source_id": 3328,
+      "name": "Χαροκόπειο Πανεπιστήμιο - Τμήμα Πληροφορικής και Τηλεματικής",
+      "name_en": "Harokopio University - Department of Informatics and Telematics",
+      "latitude": 37.962327,
+      "longitude": 23.701151
+    },
+    {
+      "source_id": 3787,
+      "name": "Τμήμα Νοσηλευτικής Πανεπιστημίου Αθηνών",
+      "name_en": "",
+      "latitude": 37.982814,
+      "longitude": 23.7668204
+    },
+    {
+      "source_id": 3817,
+      "name": "Οικονομικό Πανεπιστήμιο Αθηνών",
+      "name_en": "",
+      "latitude": 37.9959913,
+      "longitude": 23.7362009
+    },
+    {
+      "source_id": 5018,
+      "name": "Κτήριο Μπουμπουλίνας",
+      "name_en": "",
+      "latitude": 37.9876182,
+      "longitude": 23.732943
+    },
+    {
+      "source_id": 5019,
+      "name": "Κτήριο Τοσίτσα",
+      "name_en": "",
+      "latitude": 37.9880094,
+      "longitude": 23.7326618
+    },
+    {
+      "source_id": 5439,
+      "name": "Σχολή Δημόσιας Υγείας",
+      "name_en": "",
+      "latitude": 37.986549,
+      "longitude": 23.75922
+    },
+    {
+      "source_id": 6098,
+      "name": "Εθνικόν και Καποδιστριακόν Πανεπιστήμιον Αθηνών",
+      "name_en": "",
+      "latitude": 37.9808914,
+      "longitude": 23.7340277
+    },
+    {
+      "source_id": 8777,
+      "name": "Νομική Σχολή & Σχολή Οικονομικών και Πολιτικών Επιστημών",
+      "name_en": "Law School & School of Economics and Political Sciences",
+      "latitude": 37.9808895,
+      "longitude": 23.7359529
+    },
+    {
+      "source_id": 19463,
+      "name": "Univercity of Piraeus",
+      "name_en": "",
+      "latitude": 37.9416881,
+      "longitude": 23.6498733
+    },
+    {
+      "source_id": 20455,
+      "name": "PC Lab - Eργαστήριo Προσωπικών Υπολογιστών",
+      "name_en": "",
+      "latitude": 37.9767305,
+      "longitude": 23.7833686
+    },
+    {
+      "source_id": 20456,
+      "name": "Τομέας Μαθηματικών (ΣΕΜΦΕ)",
+      "name_en": "",
+      "latitude": 37.9763711,
+      "longitude": 23.7831486
+    },
+    {
+      "source_id": 20457,
+      "name": "Τομέας Α.Κ.Ε.Δ. (ΣΕΜΦΕ)",
+      "name_en": "",
+      "latitude": 37.9763732,
+      "longitude": 23.783323
+    },
+    {
+      "source_id": 20458,
+      "name": "Αμφιθέατρο 2",
+      "name_en": "",
+      "latitude": 37.9765247,
+      "longitude": 23.7836395
+    },
+    {
+      "source_id": 20459,
+      "name": "Αμφιθέατρο 1",
+      "name_en": "",
+      "latitude": 37.9763802,
+      "longitude": 23.7838197
+    },
+    {
+      "source_id": 20539,
+      "name": "Αμφιθέατρο Μικροβιολογίας",
+      "name_en": "",
+      "latitude": 37.9849723,
+      "longitude": 23.7659892
+    },
+    {
+      "source_id": 20540,
+      "name": "Αίθουσα ανατομών",
+      "name_en": "",
+      "latitude": 37.9845156,
+      "longitude": 23.766708
+    },
+    {
+      "source_id": 20541,
+      "name": "Παθολογική Ανατομική / Μικροβιολογία",
+      "name_en": "",
+      "latitude": 37.9846869,
+      "longitude": 23.7659812
+    },
+    {
+      "source_id": 20542,
+      "name": "Ιατροδικαστική / Τοξικολογία",
+      "name_en": "",
+      "latitude": 37.9844713,
+      "longitude": 23.7669092
+    },
+    {
+      "source_id": 20543,
+      "name": "Αμφιθέατρο Ανατομικής",
+      "name_en": "",
+      "latitude": 37.9842408,
+      "longitude": 23.7670219
+    },
+    {
+      "source_id": 22392,
+      "name": "Διδασκαλείο Ξένων Γλωσσών ΕΚΠΑ (2ο κτήριο)",
+      "name_en": "",
+      "latitude": 37.9769499,
+      "longitude": 23.7339445
+    },
+    {
+      "source_id": 23544,
+      "name": "Σχολή Οικονομικών & Πολιτικών Επιστημών - ΕΚΠΑ",
+      "name_en": "School of Economics and Political Sciences - UoA",
+      "latitude": 37.9804514,
+      "longitude": 23.7299918
+    },
+    {
+      "source_id": 26080,
+      "name": "Τμήμα Πολιτικής Επιστήμης και Δημόσιας Διοίκησης",
+      "name_en": "",
+      "latitude": 37.9840456,
+      "longitude": 23.7307001
+    },
+    {
+      "source_id": 26700,
+      "name": "Mediterranean college",
+      "name_en": "",
+      "latitude": 37.9954794,
+      "longitude": 23.732573
+    },
+    {
+      "source_id": 29555,
+      "name": "Mediterranian maritime academy",
+      "name_en": "",
+      "latitude": 37.9390766,
+      "longitude": 23.6423594
+    },
+    {
+      "source_id": 32238,
+      "name": "Σχολή Ξεναγών",
+      "name_en": "",
+      "latitude": 37.9823044,
+      "longitude": 23.7156996
+    },
+    {
+      "source_id": 33766,
+      "name": "Τμήμα Εκπαίδευσης και Αγωγής στην Προσχολική Ηλικία",
+      "name_en": "Department of Early Childhood Education",
+      "latitude": 37.9837097,
+      "longitude": 23.7351747
+    },
+    {
+      "source_id": 33767,
+      "name": "Παιδαγωγικό Τμήμα Δημοτικής Εκπαίδευσης",
+      "name_en": "Department of Pedagogy and Primary Education",
+      "latitude": 37.9835036,
+      "longitude": 23.7353356
+    }
+  ],
+  "meta": {
+    "title": "Πανεπιστημιακές εγκαταστάσεις — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Σημεία πανεπιστημιακών εγκαταστάσεων (σχολές, τμήματα, πανεπιστημιουπόλεις) στην Περιφέρεια Αττικής με ελληνική/αγγλική ονομασία και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository. (University facility locations in Attica; distinct from el-panepistimia which is the national accredited-institutions list.) Περιέχει 54 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πανεπιστημιακές εγκαταστάσεις — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Πανεπιστημιακές εγκαταστάσεις — Περιφέρεια Αττικής — 54 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 54 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

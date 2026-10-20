@@ -1,0 +1,5 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LGBL","VOL","Nea Anchialos Airport","nea-anchialos-airport","Nea Anchialos","Περιφέρεια Θεσσαλίας","Thessaly","thessalias","Thessaly Region","GR","83","39.2196006775","22.7943000793","Europe/Athens","true"
+"LGLR","LRA","Larisa Airport","larisa-airport","Larisa","Περιφέρεια Θεσσαλίας","Thessaly","thessalias","Thessaly Region","GR","241","39.6562825886","22.3400008678","Europe/Athens","true"
+"LGSK","JSI","Skiathos Island National Airport","skiathos-island-national-airport","Skiathos","Περιφέρεια Θεσσαλίας","Thessaly","thessalias","Thessaly Region","GR","54","39.1771011353","23.5037002563","Europe/Athens","true"
+"LGSV","","Stefanovikion Airport","stefanovikion-airport","Stefanovilion","Περιφέρεια Θεσσαλίας","Thessaly","thessalias","Thessaly Region","GR","146","39.4799995422","22.76720047","Europe/Athens","false"

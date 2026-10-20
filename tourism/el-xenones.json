@@ -1,0 +1,6686 @@
+{
+  "id": "el-xenones",
+  "name": "Ξενώνες στην Ελλάδα",
+  "title": "Ξενώνες στην Ελλάδα",
+  "description": "Ξενώνες και guest houses στην Ελλάδα από δεδομένα OpenStreetMap (tourism=guest_house). Διακριτό από el-xenodocheia. Όνομα και συντεταγμένες WGS84.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1329,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"Αλεξάνδρου\"",
+      "latitude": 40.487551,
+      "longitude": 23.595885
+    },
+    {
+      "name": "\"ΛΙΜΑΝΑΚΙ\"",
+      "latitude": 39.077274,
+      "longitude": 26.579385
+    },
+    {
+      "name": "#FLH - Palm Tree Maisonettes",
+      "latitude": 40.234941,
+      "longitude": 23.722111
+    },
+    {
+      "name": "'Ιασπις",
+      "latitude": 40.595388,
+      "longitude": 21.271021
+    },
+    {
+      "name": "11 City Rooms",
+      "latitude": 35.516083,
+      "longitude": 24.01708
+    },
+    {
+      "name": "1901 Hermoupolis",
+      "latitude": 37.446073,
+      "longitude": 24.940841
+    },
+    {
+      "name": "5alonia",
+      "latitude": 38.918067,
+      "longitude": 20.964897
+    },
+    {
+      "name": "7 Ουρανοί",
+      "latitude": 38.810638,
+      "longitude": 21.834433
+    },
+    {
+      "name": "Achelatis Guest House",
+      "latitude": 36.668622,
+      "longitude": 22.378668
+    },
+    {
+      "name": "Acro&Polis",
+      "latitude": 37.972963,
+      "longitude": 23.728966
+    },
+    {
+      "name": "ACROPOL Rooms & Apartment",
+      "latitude": 35.015685,
+      "longitude": 24.779193
+    },
+    {
+      "name": "Acropolis Vision",
+      "latitude": 37.975653,
+      "longitude": 23.719263
+    },
+    {
+      "name": "Acroterra Rosa",
+      "latitude": 36.360369,
+      "longitude": 25.398122
+    },
+    {
+      "name": "Adonis Apartment",
+      "latitude": 40.332151,
+      "longitude": 23.977861
+    },
+    {
+      "name": "Adriana Studios",
+      "latitude": 39.429764,
+      "longitude": 20.014772
+    },
+    {
+      "name": "Aegagros Caldera Houses",
+      "latitude": 36.38143,
+      "longitude": 25.429837
+    },
+    {
+      "name": "Aegean Blue",
+      "latitude": 40.094233,
+      "longitude": 23.786628
+    },
+    {
+      "name": "Aethra Boutique Rooms",
+      "latitude": 37.564982,
+      "longitude": 22.797639
+    },
+    {
+      "name": "Afrodite Studios & Apartments",
+      "latitude": 36.729425,
+      "longitude": 24.452596
+    },
+    {
+      "name": "Afroditi Pansion",
+      "latitude": 38.787501,
+      "longitude": 20.612875
+    },
+    {
+      "name": "Afroditis house",
+      "latitude": 40.223739,
+      "longitude": 23.744006
+    },
+    {
+      "name": "Aggelika Guesthouse",
+      "latitude": 39.378227,
+      "longitude": 23.197781
+    },
+    {
+      "name": "Agnanti",
+      "latitude": 36.741285,
+      "longitude": 24.483169
+    },
+    {
+      "name": "Agnes House",
+      "latitude": 40.434105,
+      "longitude": 21.332847
+    },
+    {
+      "name": "AIR-IN Rooms with magnificent views",
+      "latitude": 37.96044,
+      "longitude": 23.979808
+    },
+    {
+      "name": "Akis Apartments",
+      "latitude": 39.585593,
+      "longitude": 19.821203
+    },
+    {
+      "name": "Akrogiali",
+      "latitude": 35.200595,
+      "longitude": 24.067103
+    },
+    {
+      "name": "Akrogiali Apartments",
+      "latitude": 35.584159,
+      "longitude": 27.078993
+    },
+    {
+      "name": "Akrogialia apartements",
+      "latitude": 37.346229,
+      "longitude": 24.430994
+    },
+    {
+      "name": "Akti Damnoni",
+      "latitude": 35.17519,
+      "longitude": 24.41524
+    },
+    {
+      "name": "Alex Studio",
+      "latitude": 37.722146,
+      "longitude": 20.862253
+    },
+    {
+      "name": "Alexandra Guesthouse",
+      "latitude": 37.349371,
+      "longitude": 23.468327
+    },
+    {
+      "name": "Alexandras Rooms",
+      "latitude": 36.858605,
+      "longitude": 25.469822
+    },
+    {
+      "name": "Alexandros",
+      "latitude": 39.481235,
+      "longitude": 19.926561
+    },
+    {
+      "name": "Alexandros Village",
+      "latitude": 36.734755,
+      "longitude": 24.441406
+    },
+    {
+      "name": "Alkionides Bungalows",
+      "latitude": 37.114792,
+      "longitude": 25.217427
+    },
+    {
+      "name": "Alkistis",
+      "latitude": 39.105148,
+      "longitude": 23.731964
+    },
+    {
+      "name": "Alkyonides",
+      "latitude": 36.934044,
+      "longitude": 25.59531
+    },
+    {
+      "name": "Allotino Pansion",
+      "latitude": 37.565837,
+      "longitude": 22.798658
+    },
+    {
+      "name": "Almi Guesthouse",
+      "latitude": 36.685781,
+      "longitude": 23.048069
+    },
+    {
+      "name": "Aloni Rooms",
+      "latitude": 40.096311,
+      "longitude": 23.437658
+    },
+    {
+      "name": "Aloni Studio",
+      "latitude": 38.662328,
+      "longitude": 20.569927
+    },
+    {
+      "name": "Alonia",
+      "latitude": 35.230897,
+      "longitude": 24.01808
+    },
+    {
+      "name": "Ambelotissa",
+      "latitude": 35.036002,
+      "longitude": 24.792338
+    },
+    {
+      "name": "ammos & votsalo",
+      "latitude": 37.146741,
+      "longitude": 22.893466
+    },
+    {
+      "name": "Ana Maria House",
+      "latitude": 40.49935,
+      "longitude": 25.512314
+    },
+    {
+      "name": "Anargyreios and Kirgialeneios School of Spetses (A.K.S.S.) Foundation",
+      "latitude": 37.274116,
+      "longitude": 23.143427
+    },
+    {
+      "name": "Anastasia",
+      "latitude": 39.723387,
+      "longitude": 19.665146
+    },
+    {
+      "name": "Anastasia",
+      "latitude": 40.730407,
+      "longitude": 24.729578
+    },
+    {
+      "name": "Anastasia's",
+      "latitude": 37.492405,
+      "longitude": 22.991083
+    },
+    {
+      "name": "Anastasia's Garden",
+      "latitude": 36.208446,
+      "longitude": 28.138396
+    },
+    {
+      "name": "Anastasios Olive Garden Apartments",
+      "latitude": 36.981758,
+      "longitude": 21.92547
+    },
+    {
+      "name": "Anatoli",
+      "latitude": 35.233381,
+      "longitude": 23.685087
+    },
+    {
+      "name": "Anatoli",
+      "latitude": 40.014992,
+      "longitude": 23.526124
+    },
+    {
+      "name": "Andreas & Jolanda",
+      "latitude": 35.015376,
+      "longitude": 24.780133
+    },
+    {
+      "name": "Andreas Maisonettes and Apartments",
+      "latitude": 40.214921,
+      "longitude": 23.669237
+    },
+    {
+      "name": "Andreas sofis Guesthouse",
+      "latitude": 37.611033,
+      "longitude": 22.041557
+    },
+    {
+      "name": "Andreas Studios",
+      "latitude": 39.907424,
+      "longitude": 25.293471
+    },
+    {
+      "name": "Andriana Apartments",
+      "latitude": 39.425685,
+      "longitude": 19.960209
+    },
+    {
+      "name": "Anemes",
+      "latitude": 36.227202,
+      "longitude": 23.077058
+    },
+    {
+      "name": "Anemone",
+      "latitude": 39.596618,
+      "longitude": 19.814529
+    },
+    {
+      "name": "Anemones Rooms",
+      "latitude": 35.516884,
+      "longitude": 24.015628
+    },
+    {
+      "name": "Anemos Tinos",
+      "latitude": 37.535896,
+      "longitude": 25.211271
+    },
+    {
+      "name": "Angelos Rooms",
+      "latitude": 39.722794,
+      "longitude": 19.665955
+    },
+    {
+      "name": "Angelos Studios",
+      "latitude": 40.222652,
+      "longitude": 23.658883
+    },
+    {
+      "name": "Anna",
+      "latitude": 40.717863,
+      "longitude": 23.704233
+    },
+    {
+      "name": "Anopoli rooms",
+      "latitude": 35.218773,
+      "longitude": 24.084573
+    },
+    {
+      "name": "Anore Apartment Evosmos Thessaloniki",
+      "latitude": 40.683321,
+      "longitude": 22.910333
+    },
+    {
+      "name": "Antel Suites",
+      "latitude": 35.512502,
+      "longitude": 24.016857
+    },
+    {
+      "name": "Anthia Apartment Seaview",
+      "latitude": 35.096353,
+      "longitude": 26.255026
+    },
+    {
+      "name": "Anthia House",
+      "latitude": 40.095585,
+      "longitude": 23.978772
+    },
+    {
+      "name": "Antigoni apartaments",
+      "latitude": 39.794482,
+      "longitude": 19.814927
+    },
+    {
+      "name": "Antigoni Appartments",
+      "latitude": 39.283032,
+      "longitude": 20.408901
+    },
+    {
+      "name": "Antigoni's Appartments",
+      "latitude": 39.794584,
+      "longitude": 19.814559
+    },
+    {
+      "name": "Antonia's Apartment",
+      "latitude": 36.213906,
+      "longitude": 28.117975
+    },
+    {
+      "name": "antonious house",
+      "latitude": 38.830885,
+      "longitude": 20.68334
+    },
+    {
+      "name": "Antzi Studios",
+      "latitude": 37.692565,
+      "longitude": 23.459294
+    },
+    {
+      "name": "Aotés",
+      "latitude": 37.10506,
+      "longitude": 25.376035
+    },
+    {
+      "name": "Apartment-Haus Sithon",
+      "latitude": 40.084235,
+      "longitude": 23.976337
+    },
+    {
+      "name": "Apartments Blue Sky",
+      "latitude": 40.188784,
+      "longitude": 23.777821
+    },
+    {
+      "name": "Apmonia",
+      "latitude": 38.482516,
+      "longitude": 22.587207
+    },
+    {
+      "name": "Apollo GuestHouse",
+      "latitude": 36.441095,
+      "longitude": 28.226963
+    },
+    {
+      "name": "App. Kamaria Gouves",
+      "latitude": 35.330608,
+      "longitude": 25.296986
+    },
+    {
+      "name": "Appartments Panos",
+      "latitude": 36.209694,
+      "longitude": 28.140506
+    },
+    {
+      "name": "Apricot And Sea Villas Naxos",
+      "latitude": 37.033873,
+      "longitude": 25.377375
+    },
+    {
+      "name": "Aravanes",
+      "latitude": 35.257495,
+      "longitude": 24.643144
+    },
+    {
+      "name": "Archaia Sami",
+      "latitude": 37.516496,
+      "longitude": 21.611698
+    },
+    {
+      "name": "Archangels Nest",
+      "latitude": 36.851334,
+      "longitude": 27.211821
+    },
+    {
+      "name": "Archodiko Agricultural Pension",
+      "latitude": 38.320073,
+      "longitude": 26.128927
+    },
+    {
+      "name": "Archontiko Kordopati",
+      "latitude": 37.807757,
+      "longitude": 22.200692
+    },
+    {
+      "name": "Archontiko Nikolopoulou",
+      "latitude": 37.668914,
+      "longitude": 22.183344
+    },
+    {
+      "name": "Areti Pension",
+      "latitude": 37.349274,
+      "longitude": 23.467482
+    },
+    {
+      "name": "Aretousa",
+      "latitude": 35.250826,
+      "longitude": 23.810488
+    },
+    {
+      "name": "Argo Apartments",
+      "latitude": 38.632891,
+      "longitude": 20.596041
+    },
+    {
+      "name": "Argo Beach",
+      "latitude": 35.517117,
+      "longitude": 24.024764
+    },
+    {
+      "name": "Arhontopetra Suites & Spa",
+      "latitude": 38.83047,
+      "longitude": 21.742607
+    },
+    {
+      "name": "Ariadni",
+      "latitude": 35.016357,
+      "longitude": 24.779502
+    },
+    {
+      "name": "Aristotelia Gi Private Villas",
+      "latitude": 40.588579,
+      "longitude": 23.782384
+    },
+    {
+      "name": "Armenistis View Studios",
+      "latitude": 37.631163,
+      "longitude": 26.093793
+    },
+    {
+      "name": "Armonia Villas",
+      "latitude": 40.792008,
+      "longitude": 24.633123
+    },
+    {
+      "name": "Armorel Platinum Villa",
+      "latitude": 38.132487,
+      "longitude": 20.4976
+    },
+    {
+      "name": "Arsenis",
+      "latitude": 40.214246,
+      "longitude": 23.669346
+    },
+    {
+      "name": "Artemis Pension",
+      "latitude": 37.726373,
+      "longitude": 20.987298
+    },
+    {
+      "name": "Artemis Studios",
+      "latitude": 35.227297,
+      "longitude": 23.68252
+    },
+    {
+      "name": "Artichoke Apartments",
+      "latitude": 35.041669,
+      "longitude": 26.23272
+    },
+    {
+      "name": "Asimina",
+      "latitude": 38.596985,
+      "longitude": 22.491971
+    },
+    {
+      "name": "Asklipion Valley Guesthouse",
+      "latitude": 36.879804,
+      "longitude": 27.251984
+    },
+    {
+      "name": "Assamaris",
+      "latitude": 40.723145,
+      "longitude": 23.709176
+    },
+    {
+      "name": "Asterias Maisonette & Apartments",
+      "latitude": 40.732337,
+      "longitude": 24.008574
+    },
+    {
+      "name": "Asterina Kalyves",
+      "latitude": 35.457982,
+      "longitude": 24.165544
+    },
+    {
+      "name": "Athens Stories",
+      "latitude": 37.977974,
+      "longitude": 23.725144
+    },
+    {
+      "name": "Attina Guesthouse",
+      "latitude": 37.349239,
+      "longitude": 23.4702
+    },
+    {
+      "name": "AUNTIE'S APTS",
+      "latitude": 35.236951,
+      "longitude": 23.684057
+    },
+    {
+      "name": "Avra House",
+      "latitude": 40.042708,
+      "longitude": 23.473406
+    },
+    {
+      "name": "Avra Studios",
+      "latitude": 35.588673,
+      "longitude": 27.069335
+    },
+    {
+      "name": "Avra Studios",
+      "latitude": 39.915718,
+      "longitude": 25.072907
+    },
+    {
+      "name": "Axilleion",
+      "latitude": 40.721694,
+      "longitude": 23.707752
+    },
+    {
+      "name": "Babis",
+      "latitude": 35.016253,
+      "longitude": 24.779438
+    },
+    {
+      "name": "Barbagianis",
+      "latitude": 40.236113,
+      "longitude": 23.73135
+    },
+    {
+      "name": "Barbara House",
+      "latitude": 40.042795,
+      "longitude": 23.473274
+    },
+    {
+      "name": "Barbarossa Appartements",
+      "latitude": 35.437137,
+      "longitude": 27.150173
+    },
+    {
+      "name": "Bay View Apartment",
+      "latitude": 40.78247,
+      "longitude": 24.714699
+    },
+    {
+      "name": "Bel mare",
+      "latitude": 38.415003,
+      "longitude": 24.202787
+    },
+    {
+      "name": "Bella Grecia",
+      "latitude": 39.485005,
+      "longitude": 19.924749
+    },
+    {
+      "name": "Bella Vista",
+      "latitude": 36.202887,
+      "longitude": 28.136298
+    },
+    {
+      "name": "Big Country House",
+      "latitude": 40.394472,
+      "longitude": 23.798101
+    },
+    {
+      "name": "Block 66 ,appartement  6",
+      "latitude": 36.43525,
+      "longitude": 28.218374
+    },
+    {
+      "name": "Bloutsos rooms",
+      "latitude": 39.716103,
+      "longitude": 21.619021
+    },
+    {
+      "name": "Blu Rooms",
+      "latitude": 36.361445,
+      "longitude": 25.394735
+    },
+    {
+      "name": "Blue Horizon",
+      "latitude": 35.230094,
+      "longitude": 23.680519
+    },
+    {
+      "name": "Blue horizon",
+      "latitude": 37.704543,
+      "longitude": 26.64662
+    },
+    {
+      "name": "Blue Lagoon Studios",
+      "latitude": 35.429218,
+      "longitude": 27.15522
+    },
+    {
+      "name": "Blue Sea",
+      "latitude": 35.451391,
+      "longitude": 24.178372
+    },
+    {
+      "name": "Blue Sea Apartments",
+      "latitude": 35.51783,
+      "longitude": 23.902989
+    },
+    {
+      "name": "Blue Sky",
+      "latitude": 35.231009,
+      "longitude": 23.681816
+    },
+    {
+      "name": "Blue Sky Apartments",
+      "latitude": 35.506979,
+      "longitude": 27.214914
+    },
+    {
+      "name": "Blue Studios",
+      "latitude": 35.515698,
+      "longitude": 24.028168
+    },
+    {
+      "name": "Blugreen Stegna b&b",
+      "latitude": 36.211407,
+      "longitude": 28.138875
+    },
+    {
+      "name": "Boutique Apartments",
+      "latitude": 37.980101,
+      "longitude": 23.723267
+    },
+    {
+      "name": "Bungalows Cosmarie",
+      "latitude": 37.116579,
+      "longitude": 25.215714
+    },
+    {
+      "name": "Bungalows Marina",
+      "latitude": 37.124635,
+      "longitude": 25.241488
+    },
+    {
+      "name": "Caldera Suites",
+      "latitude": 37.418348,
+      "longitude": 24.877619
+    },
+    {
+      "name": "Cally Cave House",
+      "latitude": 36.417487,
+      "longitude": 25.442865
+    },
+    {
+      "name": "Calypso",
+      "latitude": 35.230536,
+      "longitude": 23.961359
+    },
+    {
+      "name": "Camere Maritima",
+      "latitude": 35.516481,
+      "longitude": 24.016499
+    },
+    {
+      "name": "Canava Santino",
+      "latitude": 36.397887,
+      "longitude": 25.447288
+    },
+    {
+      "name": "Candia Studios",
+      "latitude": 35.328926,
+      "longitude": 25.121731
+    },
+    {
+      "name": "Captain George",
+      "latitude": 35.249718,
+      "longitude": 23.809977
+    },
+    {
+      "name": "Captain's Apartments",
+      "latitude": 37.442225,
+      "longitude": 24.903631
+    },
+    {
+      "name": "Carlos",
+      "latitude": 36.358296,
+      "longitude": 25.398335
+    },
+    {
+      "name": "Casa Afytos",
+      "latitude": 40.09527,
+      "longitude": 23.437319
+    },
+    {
+      "name": "Casa Angelika",
+      "latitude": 38.019609,
+      "longitude": 24.431494
+    },
+    {
+      "name": "Casa Bianca",
+      "latitude": 37.422785,
+      "longitude": 25.319482
+    },
+    {
+      "name": "Casa D'armaros",
+      "latitude": 35.364493,
+      "longitude": 23.536707
+    },
+    {
+      "name": "Casa del Tramonto",
+      "latitude": 36.724446,
+      "longitude": 24.482876
+    },
+    {
+      "name": "Casa Kalypso",
+      "latitude": 39.19315,
+      "longitude": 23.927811
+    },
+    {
+      "name": "Casa Kasteli",
+      "latitude": 35.517426,
+      "longitude": 24.02035
+    },
+    {
+      "name": "Casa Kleoniki",
+      "latitude": 38.019494,
+      "longitude": 24.431377
+    },
+    {
+      "name": "Casa Latina Rooms",
+      "latitude": 35.517178,
+      "longitude": 24.015418
+    },
+    {
+      "name": "Casa Mameli",
+      "latitude": 40.076237,
+      "longitude": 23.443492
+    },
+    {
+      "name": "Casa Milodi",
+      "latitude": 35.339558,
+      "longitude": 24.687945
+    },
+    {
+      "name": "Casa Skafidia",
+      "latitude": 37.714434,
+      "longitude": 21.324539
+    },
+    {
+      "name": "Castle",
+      "latitude": 38.373593,
+      "longitude": 26.137405
+    },
+    {
+      "name": "Cavo Kalamitsi",
+      "latitude": 39.991356,
+      "longitude": 23.990718
+    },
+    {
+      "name": "Cavo Perlevos Studios",
+      "latitude": 37.675116,
+      "longitude": 24.353335
+    },
+    {
+      "name": "Cedrus and Sea Beachfront House",
+      "latitude": 35.986859,
+      "longitude": 27.905375
+    },
+    {
+      "name": "Central guest room",
+      "latitude": 37.645549,
+      "longitude": 21.625736
+    },
+    {
+      "name": "Central Little Home",
+      "latitude": 39.705836,
+      "longitude": 21.627945
+    },
+    {
+      "name": "Chalet Azanias Kalavrita",
+      "latitude": 38.030988,
+      "longitude": 22.118847
+    },
+    {
+      "name": "Chalet Myrtis",
+      "latitude": 37.648111,
+      "longitude": 22.162549
+    },
+    {
+      "name": "Chania Rooms",
+      "latitude": 35.515619,
+      "longitude": 24.017015
+    },
+    {
+      "name": "Charakas Horizon",
+      "latitude": 37.885078,
+      "longitude": 24.713635
+    },
+    {
+      "name": "Chios Rooms",
+      "latitude": 38.366526,
+      "longitude": 26.141497
+    },
+    {
+      "name": "Chorostasi",
+      "latitude": 40.120399,
+      "longitude": 23.811896
+    },
+    {
+      "name": "Christina",
+      "latitude": 35.228335,
+      "longitude": 23.682744
+    },
+    {
+      "name": "Christina Apartments",
+      "latitude": 35.41824,
+      "longitude": 24.689402
+    },
+    {
+      "name": "CHRISTOS",
+      "latitude": 35.232561,
+      "longitude": 23.684861
+    },
+    {
+      "name": "Chrysavgi Penthouse",
+      "latitude": 38.958341,
+      "longitude": 20.753962
+    },
+    {
+      "name": "Claire Studios",
+      "latitude": 37.043434,
+      "longitude": 25.083775
+    },
+    {
+      "name": "Cloud House",
+      "latitude": 36.603695,
+      "longitude": 27.177424
+    },
+    {
+      "name": "Club Anemos",
+      "latitude": 35.430083,
+      "longitude": 27.154969
+    },
+    {
+      "name": "Coliseum",
+      "latitude": 35.428908,
+      "longitude": 27.154553
+    },
+    {
+      "name": "Community hosting house for elderly people",
+      "latitude": 35.542517,
+      "longitude": 23.779556
+    },
+    {
+      "name": "Constantino's Studios",
+      "latitude": 35.513365,
+      "longitude": 24.008329
+    },
+    {
+      "name": "Cortessa family studios",
+      "latitude": 40.230138,
+      "longitude": 23.618368
+    },
+    {
+      "name": "Cozy Country House",
+      "latitude": 37.848483,
+      "longitude": 23.917417
+    },
+    {
+      "name": "Cozy Studio Samothraki",
+      "latitude": 40.474495,
+      "longitude": 25.524592
+    },
+    {
+      "name": "Cresanto Luxury Suites",
+      "latitude": 36.434022,
+      "longitude": 25.426371
+    },
+    {
+      "name": "Crystal Villa",
+      "latitude": 37.920771,
+      "longitude": 20.707377
+    },
+    {
+      "name": "Cyclades Olive Museum's Guest House",
+      "latitude": 37.816187,
+      "longitude": 24.872379
+    },
+    {
+      "name": "Da Sofia",
+      "latitude": 39.59681,
+      "longitude": 19.811792
+    },
+    {
+      "name": "Dafni Apartments",
+      "latitude": 40.189539,
+      "longitude": 23.777224
+    },
+    {
+      "name": "Danae Suites",
+      "latitude": 36.4651,
+      "longitude": 25.393871
+    },
+    {
+      "name": "Dandelion Suites",
+      "latitude": 40.216529,
+      "longitude": 23.674726
+    },
+    {
+      "name": "Danilas seafront apartments",
+      "latitude": 40.228918,
+      "longitude": 23.621406
+    },
+    {
+      "name": "Deep Blue",
+      "latitude": 36.715062,
+      "longitude": 25.295126
+    },
+    {
+      "name": "Deep Blue Studios",
+      "latitude": 37.033838,
+      "longitude": 25.254294
+    },
+    {
+      "name": "Deep Blue Villa",
+      "latitude": 37.920662,
+      "longitude": 20.708757
+    },
+    {
+      "name": "Dendra",
+      "latitude": 38.366345,
+      "longitude": 20.704962
+    },
+    {
+      "name": "Despina's Rooms",
+      "latitude": 37.106615,
+      "longitude": 25.37604
+    },
+    {
+      "name": "Diamanti",
+      "latitude": 39.367617,
+      "longitude": 26.185804
+    },
+    {
+      "name": "Diamanto Rooms",
+      "latitude": 38.390964,
+      "longitude": 23.797684
+    },
+    {
+      "name": "diamerisma",
+      "latitude": 35.496949,
+      "longitude": 23.644903
+    },
+    {
+      "name": "Dimis apt",
+      "latitude": 39.594669,
+      "longitude": 19.824736
+    },
+    {
+      "name": "Dimis Asomatos Homes",
+      "latitude": 36.85093,
+      "longitude": 27.21278
+    },
+    {
+      "name": "Dimitra",
+      "latitude": 40.216346,
+      "longitude": 23.671013
+    },
+    {
+      "name": "Dimitra Villa",
+      "latitude": 35.327483,
+      "longitude": 24.511184
+    },
+    {
+      "name": "Dimitrios",
+      "latitude": 37.633551,
+      "longitude": 22.730843
+    },
+    {
+      "name": "Dimitris Apartments",
+      "latitude": 35.517403,
+      "longitude": 23.899245
+    },
+    {
+      "name": "Diogaeon",
+      "latitude": 40.06958,
+      "longitude": 22.544488
+    },
+    {
+      "name": "Dionysia Apartments",
+      "latitude": 36.739664,
+      "longitude": 26.966977
+    },
+    {
+      "name": "Dionysos",
+      "latitude": 40.72618,
+      "longitude": 23.710643
+    },
+    {
+      "name": "Dirfy Studios",
+      "latitude": 38.936655,
+      "longitude": 23.072152
+    },
+    {
+      "name": "Dolfin kastraki studios",
+      "latitude": 37.001035,
+      "longitude": 25.390814
+    },
+    {
+      "name": "Domna Studios",
+      "latitude": 36.090794,
+      "longitude": 28.084768
+    },
+    {
+      "name": "Domus villa",
+      "latitude": 40.000788,
+      "longitude": 23.561299
+    },
+    {
+      "name": "Donna's House",
+      "latitude": 36.383235,
+      "longitude": 25.448679
+    },
+    {
+      "name": "Drossia Palms Studios",
+      "latitude": 35.291026,
+      "longitude": 25.460137
+    },
+    {
+      "name": "Drouzas",
+      "latitude": 37.486657,
+      "longitude": 22.992528
+    },
+    {
+      "name": "Dytikos Studios",
+      "latitude": 34.929989,
+      "longitude": 24.913343
+    },
+    {
+      "name": "EFI House",
+      "latitude": 40.705834,
+      "longitude": 23.698063
+    },
+    {
+      "name": "Eirini's Apartment",
+      "latitude": 38.379549,
+      "longitude": 21.454287
+    },
+    {
+      "name": "Ekies All Senses Resort",
+      "latitude": 40.19088,
+      "longitude": 23.804959
+    },
+    {
+      "name": "Elafonisi Resort Artemis",
+      "latitude": 35.27691,
+      "longitude": 23.545838
+    },
+    {
+      "name": "Elafonisi Resort Athina",
+      "latitude": 35.27629,
+      "longitude": 23.544971
+    },
+    {
+      "name": "Elafonisi Resort Elafos",
+      "latitude": 35.276594,
+      "longitude": 23.546441
+    },
+    {
+      "name": "Elafonisi Village",
+      "latitude": 35.275775,
+      "longitude": 23.544854
+    },
+    {
+      "name": "Elaia Resort",
+      "latitude": 39.572789,
+      "longitude": 19.90522
+    },
+    {
+      "name": "Elati - Pella Guesthouse",
+      "latitude": 40.840062,
+      "longitude": 21.767984
+    },
+    {
+      "name": "Elati Hills",
+      "latitude": 37.626383,
+      "longitude": 22.153127
+    },
+    {
+      "name": "Elati's traditional and cosy home",
+      "latitude": 37.626452,
+      "longitude": 22.148456
+    },
+    {
+      "name": "Elegant Villa Liakos",
+      "latitude": 35.360487,
+      "longitude": 24.571683
+    },
+    {
+      "name": "Elena Appartments",
+      "latitude": 39.282893,
+      "longitude": 20.409027
+    },
+    {
+      "name": "Elena guest House",
+      "latitude": 37.590667,
+      "longitude": 21.620899
+    },
+    {
+      "name": "Elena House",
+      "latitude": 40.673395,
+      "longitude": 24.760013
+    },
+    {
+      "name": "Eleni",
+      "latitude": 39.721298,
+      "longitude": 19.672243
+    },
+    {
+      "name": "Eleni Rooms",
+      "latitude": 37.089326,
+      "longitude": 25.157834
+    },
+    {
+      "name": "Eleni Studios",
+      "latitude": 40.218962,
+      "longitude": 23.667539
+    },
+    {
+      "name": "Eleuftheria and John",
+      "latitude": 36.412657,
+      "longitude": 25.447627
+    },
+    {
+      "name": "Elia Guesthouse",
+      "latitude": 35.327723,
+      "longitude": 24.510514
+    },
+    {
+      "name": "Elia Rooms",
+      "latitude": 35.515444,
+      "longitude": 24.016082
+    },
+    {
+      "name": "Elia Studios",
+      "latitude": 35.19415,
+      "longitude": 26.265626
+    },
+    {
+      "name": "Elisabeth Villas",
+      "latitude": 37.728979,
+      "longitude": 27.034137
+    },
+    {
+      "name": "Ellis",
+      "latitude": 39.381043,
+      "longitude": 23.178847
+    },
+    {
+      "name": "Emelia",
+      "latitude": 35.450402,
+      "longitude": 24.177962
+    },
+    {
+      "name": "Emilia Apartments",
+      "latitude": 35.191034,
+      "longitude": 24.398197
+    },
+    {
+      "name": "Emmanouilidis",
+      "latitude": 40.96842,
+      "longitude": 21.927045
+    },
+    {
+      "name": "En Lefko Kythnos",
+      "latitude": 37.393595,
+      "longitude": 24.399094
+    },
+    {
+      "name": "Enalion Studios",
+      "latitude": 37.699116,
+      "longitude": 26.744852
+    },
+    {
+      "name": "Eneos beach villas",
+      "latitude": 37.46264,
+      "longitude": 24.434095
+    },
+    {
+      "name": "Enigma Traditional Apartments",
+      "latitude": 36.417302,
+      "longitude": 25.43142
+    },
+    {
+      "name": "Ennea Muses",
+      "latitude": 38.066527,
+      "longitude": 22.65619
+    },
+    {
+      "name": "Eolos Studios",
+      "latitude": 35.434738,
+      "longitude": 27.153876
+    },
+    {
+      "name": "Episkopi beach apartements",
+      "latitude": 37.398852,
+      "longitude": 24.397101
+    },
+    {
+      "name": "Erofili Apartments",
+      "latitude": 35.518889,
+      "longitude": 23.921246
+    },
+    {
+      "name": "Esperance",
+      "latitude": 37.440133,
+      "longitude": 24.940132
+    },
+    {
+      "name": "Esperance Rooms",
+      "latitude": 37.440636,
+      "longitude": 24.938703
+    },
+    {
+      "name": "Espina AirB&B",
+      "latitude": 35.496013,
+      "longitude": 23.650572
+    },
+    {
+      "name": "Eugenia",
+      "latitude": 40.66243,
+      "longitude": 23.697329
+    },
+    {
+      "name": "Evelyn’s House",
+      "latitude": 35.516072,
+      "longitude": 24.032768
+    },
+    {
+      "name": "Excellent Villa",
+      "latitude": 40.18827,
+      "longitude": 23.778467
+    },
+    {
+      "name": "Exostis",
+      "latitude": 37.568681,
+      "longitude": 22.842798
+    },
+    {
+      "name": "Eλia Daliani",
+      "latitude": 35.515208,
+      "longitude": 24.020113
+    },
+    {
+      "name": "Fanis",
+      "latitude": 36.902708,
+      "longitude": 25.9784
+    },
+    {
+      "name": "Fanis - AirBnB",
+      "latitude": 36.35748,
+      "longitude": 25.397914
+    },
+    {
+      "name": "Fantasia Villa",
+      "latitude": 37.920673,
+      "longitude": 20.70618
+    },
+    {
+      "name": "Fantasy Rooms",
+      "latitude": 36.73154,
+      "longitude": 24.446896
+    },
+    {
+      "name": "Farma",
+      "latitude": 40.431257,
+      "longitude": 23.513353
+    },
+    {
+      "name": "Faros",
+      "latitude": 36.823399,
+      "longitude": 22.279864
+    },
+    {
+      "name": "FAROS ROOMS",
+      "latitude": 35.200461,
+      "longitude": 24.079594
+    },
+    {
+      "name": "Fasolou studios",
+      "latitude": 36.942207,
+      "longitude": 24.754214
+    },
+    {
+      "name": "fegaropetra inn",
+      "latitude": 39.992344,
+      "longitude": 22.571645
+    },
+    {
+      "name": "Fetsis Apartments",
+      "latitude": 38.789959,
+      "longitude": 20.612908
+    },
+    {
+      "name": "Filanthi",
+      "latitude": 36.81787,
+      "longitude": 21.707612
+    },
+    {
+      "name": "Filippos Apartmans and studios",
+      "latitude": 40.206729,
+      "longitude": 23.677674
+    },
+    {
+      "name": "FiloXenia",
+      "latitude": 35.016931,
+      "longitude": 24.808519
+    },
+    {
+      "name": "Filoxenia",
+      "latitude": 39.48801,
+      "longitude": 19.924657
+    },
+    {
+      "name": "FILOXENIA",
+      "latitude": 40.881993,
+      "longitude": 23.76647
+    },
+    {
+      "name": "Filoxenia Villas - Alex",
+      "latitude": 35.986799,
+      "longitude": 27.904716
+    },
+    {
+      "name": "Finikas",
+      "latitude": 37.491853,
+      "longitude": 22.991587
+    },
+    {
+      "name": "Finisia House",
+      "latitude": 36.743252,
+      "longitude": 22.804746
+    },
+    {
+      "name": "Fiore studios",
+      "latitude": 37.740205,
+      "longitude": 20.94824
+    },
+    {
+      "name": "Fisvos",
+      "latitude": 35.456627,
+      "longitude": 24.168414
+    },
+    {
+      "name": "Flora",
+      "latitude": 37.069556,
+      "longitude": 25.355846
+    },
+    {
+      "name": "Flora Rooms",
+      "latitude": 36.745656,
+      "longitude": 24.424559
+    },
+    {
+      "name": "Flower Villa's",
+      "latitude": 39.427445,
+      "longitude": 19.953866
+    },
+    {
+      "name": "Foinikas Rooms",
+      "latitude": 38.350389,
+      "longitude": 22.216016
+    },
+    {
+      "name": "Food Path Yoga Villa",
+      "latitude": 38.704633,
+      "longitude": 20.684448
+    },
+    {
+      "name": "Fotini's Paradise House",
+      "latitude": 35.500692,
+      "longitude": 23.615106
+    },
+    {
+      "name": "Fragoseco",
+      "latitude": 36.603522,
+      "longitude": 27.177096
+    },
+    {
+      "name": "Fraskoula's Rooms",
+      "latitude": 37.470629,
+      "longitude": 25.320566
+    },
+    {
+      "name": "Free Inn Zagori",
+      "latitude": 39.931024,
+      "longitude": 20.915887
+    },
+    {
+      "name": "Friendly Studios",
+      "latitude": 37.664646,
+      "longitude": 26.882571
+    },
+    {
+      "name": "Froso",
+      "latitude": 37.346339,
+      "longitude": 24.436924
+    },
+    {
+      "name": "Frossini Apartments",
+      "latitude": 35.305832,
+      "longitude": 25.522894
+    },
+    {
+      "name": "Fryle House",
+      "latitude": 36.830076,
+      "longitude": 22.281829
+    },
+    {
+      "name": "Gabriella's Garden",
+      "latitude": 35.366774,
+      "longitude": 25.037031
+    },
+    {
+      "name": "Garifalo",
+      "latitude": 35.451885,
+      "longitude": 24.175057
+    },
+    {
+      "name": "Gennadi Villa Mary",
+      "latitude": 36.025732,
+      "longitude": 27.932514
+    },
+    {
+      "name": "George - Studios for Rent",
+      "latitude": 36.206485,
+      "longitude": 28.139191
+    },
+    {
+      "name": "George Paradice",
+      "latitude": 39.241326,
+      "longitude": 26.43198
+    },
+    {
+      "name": "George's Studios - Apartments",
+      "latitude": 36.212934,
+      "longitude": 28.141627
+    },
+    {
+      "name": "Georgia Rooms",
+      "latitude": 36.421588,
+      "longitude": 25.433301
+    },
+    {
+      "name": "Georgina Studios & Apts.",
+      "latitude": 35.519733,
+      "longitude": 23.928326
+    },
+    {
+      "name": "Georgos House",
+      "latitude": 35.200584,
+      "longitude": 24.066207
+    },
+    {
+      "name": "Georgoudi Apartments",
+      "latitude": 40.216324,
+      "longitude": 23.66738
+    },
+    {
+      "name": "Gerofotis Guesthouse",
+      "latitude": 38.240422,
+      "longitude": 21.984929
+    },
+    {
+      "name": "Giannelis House",
+      "latitude": 40.189648,
+      "longitude": 23.776791
+    },
+    {
+      "name": "Giannis' traditional house",
+      "latitude": 35.409701,
+      "longitude": 24.198332
+    },
+    {
+      "name": "Gina Appartments",
+      "latitude": 39.283012,
+      "longitude": 20.409386
+    },
+    {
+      "name": "Giorgos Apartments",
+      "latitude": 40.854287,
+      "longitude": 24.710795
+    },
+    {
+      "name": "Girogiali Rooms",
+      "latitude": 35.118818,
+      "longitude": 24.547772
+    },
+    {
+      "name": "Gkaros",
+      "latitude": 37.349935,
+      "longitude": 23.46731
+    },
+    {
+      "name": "Glaronissi Studios",
+      "latitude": 37.057389,
+      "longitude": 25.360972
+    },
+    {
+      "name": "Glaros Beach",
+      "latitude": 36.342097,
+      "longitude": 25.457578
+    },
+    {
+      "name": "Golden Sand A",
+      "latitude": 37.704265,
+      "longitude": 26.646008
+    },
+    {
+      "name": "Golden Sand B",
+      "latitude": 37.703938,
+      "longitude": 26.64406
+    },
+    {
+      "name": "Golden Star",
+      "latitude": 35.039116,
+      "longitude": 25.972217
+    },
+    {
+      "name": "Gongis Studios",
+      "latitude": 39.426666,
+      "longitude": 19.952957
+    },
+    {
+      "name": "Gorgona Villas",
+      "latitude": 40.189316,
+      "longitude": 23.775828
+    },
+    {
+      "name": "Grammohome",
+      "latitude": 40.392977,
+      "longitude": 20.835348
+    },
+    {
+      "name": "Grammos Lodge",
+      "latitude": 40.393392,
+      "longitude": 20.836014
+    },
+    {
+      "name": "Grand Anny's Home",
+      "latitude": 36.880823,
+      "longitude": 27.278877
+    },
+    {
+      "name": "Great Eastern Studios",
+      "latitude": 34.930043,
+      "longitude": 24.913526
+    },
+    {
+      "name": "Green Hill",
+      "latitude": 37.776875,
+      "longitude": 26.895058
+    },
+    {
+      "name": "Green Hill Rooms",
+      "latitude": 39.218929,
+      "longitude": 20.516045
+    },
+    {
+      "name": "Guest House Victoria",
+      "latitude": 39.404647,
+      "longitude": 23.179807
+    },
+    {
+      "name": "Guest House Waterfall",
+      "latitude": 38.595925,
+      "longitude": 22.494648
+    },
+    {
+      "name": "Guesthouse & Restaurant Plakias",
+      "latitude": 39.716683,
+      "longitude": 21.619788
+    },
+    {
+      "name": "Guesthouse Ahillion",
+      "latitude": 40.41235,
+      "longitude": 21.061831
+    },
+    {
+      "name": "Guesthouse Aloni",
+      "latitude": 39.43748,
+      "longitude": 21.206774
+    },
+    {
+      "name": "Guesthouse Batalogianni",
+      "latitude": 39.716221,
+      "longitude": 21.619949
+    },
+    {
+      "name": "Guesthouse Gouris",
+      "latitude": 39.904914,
+      "longitude": 20.82063
+    },
+    {
+      "name": "Guesthouse Oneiro",
+      "latitude": 39.371451,
+      "longitude": 21.184537
+    },
+    {
+      "name": "Guesthouse Papastathis",
+      "latitude": 39.721322,
+      "longitude": 21.62162
+    },
+    {
+      "name": "Guesthouse Perdikouli",
+      "latitude": 36.996547,
+      "longitude": 25.137507
+    },
+    {
+      "name": "Guesthouse ΧΡΥΣΑ",
+      "latitude": 37.595812,
+      "longitude": 22.041301
+    },
+    {
+      "name": "Halaris Rooms",
+      "latitude": 37.43872,
+      "longitude": 24.938067
+    },
+    {
+      "name": "Hamam Suites Sifaka",
+      "latitude": 35.5163,
+      "longitude": 24.019638
+    },
+    {
+      "name": "Hammam Suites",
+      "latitude": 35.51588,
+      "longitude": 24.016178
+    },
+    {
+      "name": "Happy Easy 1",
+      "latitude": 39.685618,
+      "longitude": 19.839239
+    },
+    {
+      "name": "Happy Easy 10",
+      "latitude": 39.685264,
+      "longitude": 19.840034
+    },
+    {
+      "name": "Happy Easy 11",
+      "latitude": 39.685217,
+      "longitude": 19.840167
+    },
+    {
+      "name": "Happy Easy 12",
+      "latitude": 39.685178,
+      "longitude": 19.840287
+    },
+    {
+      "name": "Happy Easy 13",
+      "latitude": 39.68514,
+      "longitude": 19.840415
+    },
+    {
+      "name": "Happy Easy 14",
+      "latitude": 39.685104,
+      "longitude": 19.840532
+    },
+    {
+      "name": "Happy Easy 2",
+      "latitude": 39.685582,
+      "longitude": 19.839313
+    },
+    {
+      "name": "Happy Easy 3",
+      "latitude": 39.685549,
+      "longitude": 19.83939
+    },
+    {
+      "name": "Happy Easy 4",
+      "latitude": 39.685513,
+      "longitude": 19.839474
+    },
+    {
+      "name": "Happy Easy 5",
+      "latitude": 39.685472,
+      "longitude": 19.839563
+    },
+    {
+      "name": "Happy Easy 6",
+      "latitude": 39.685436,
+      "longitude": 19.839648
+    },
+    {
+      "name": "Happy Easy 7",
+      "latitude": 39.685395,
+      "longitude": 19.839733
+    },
+    {
+      "name": "Happy Easy 8",
+      "latitude": 39.685347,
+      "longitude": 19.83983
+    },
+    {
+      "name": "Happy Easy 9",
+      "latitude": 39.685306,
+      "longitude": 19.839925
+    },
+    {
+      "name": "HARIKLEIA RENT ROOMS",
+      "latitude": 35.126466,
+      "longitude": 24.906946
+    },
+    {
+      "name": "Harmonia Villa",
+      "latitude": 37.920447,
+      "longitude": 20.706326
+    },
+    {
+      "name": "Haus Fay",
+      "latitude": 38.187859,
+      "longitude": 26.028195
+    },
+    {
+      "name": "Havenly Loft",
+      "latitude": 39.106749,
+      "longitude": 26.556428
+    },
+    {
+      "name": "Hawaii",
+      "latitude": 39.596186,
+      "longitude": 19.818505
+    },
+    {
+      "name": "Helios Serifos",
+      "latitude": 37.140911,
+      "longitude": 24.514003
+    },
+    {
+      "name": "Hera",
+      "latitude": 35.518015,
+      "longitude": 24.015169
+    },
+    {
+      "name": "Heraklion Diving Center",
+      "latitude": 35.329703,
+      "longitude": 25.386481
+    },
+    {
+      "name": "High aestetics villa",
+      "latitude": 40.229239,
+      "longitude": 23.619974
+    },
+    {
+      "name": "Holiday House Zakynthos",
+      "latitude": 37.713017,
+      "longitude": 20.84418
+    },
+    {
+      "name": "Horiatiko Spiti",
+      "latitude": 35.017205,
+      "longitude": 24.807469
+    },
+    {
+      "name": "Horizon Studios",
+      "latitude": 40.096229,
+      "longitude": 23.438056
+    },
+    {
+      "name": "Hostel Ellison",
+      "latitude": 37.962998,
+      "longitude": 22.641129
+    },
+    {
+      "name": "Hotel Adamantia",
+      "latitude": 37.665521,
+      "longitude": 26.882262
+    },
+    {
+      "name": "Hotel Big Dino's Galini",
+      "latitude": 40.701942,
+      "longitude": 23.699132
+    },
+    {
+      "name": "Hotel Ghermaniko",
+      "latitude": 39.405161,
+      "longitude": 23.179046
+    },
+    {
+      "name": "Hotel Kastoria",
+      "latitude": 40.638737,
+      "longitude": 22.938189
+    },
+    {
+      "name": "Hotel Logo Theas",
+      "latitude": 39.992564,
+      "longitude": 22.571927
+    },
+    {
+      "name": "hotel moustakis",
+      "latitude": 38.303899,
+      "longitude": 20.597745
+    },
+    {
+      "name": "Hountala",
+      "latitude": 37.487531,
+      "longitude": 22.992287
+    },
+    {
+      "name": "House Abelos SUZANA",
+      "latitude": 39.991793,
+      "longitude": 23.989626
+    },
+    {
+      "name": "House Anna Houhlia",
+      "latitude": 40.187855,
+      "longitude": 23.783866
+    },
+    {
+      "name": "House Domestic",
+      "latitude": 39.285429,
+      "longitude": 20.401981
+    },
+    {
+      "name": "House Elefteria",
+      "latitude": 40.096061,
+      "longitude": 23.978946
+    },
+    {
+      "name": "House in the Village",
+      "latitude": 41.05986,
+      "longitude": 24.047002
+    },
+    {
+      "name": "HOUSE MARIA ROSA",
+      "latitude": 35.017738,
+      "longitude": 24.808122
+    },
+    {
+      "name": "house MARO",
+      "latitude": 39.99153,
+      "longitude": 23.991691
+    },
+    {
+      "name": "House of Roses",
+      "latitude": 37.856863,
+      "longitude": 24.023498
+    },
+    {
+      "name": "House Paradise",
+      "latitude": 39.992652,
+      "longitude": 23.991195
+    },
+    {
+      "name": "House Petridis apartments",
+      "latitude": 40.228121,
+      "longitude": 23.605842
+    },
+    {
+      "name": "House Platanos",
+      "latitude": 40.190709,
+      "longitude": 23.775669
+    },
+    {
+      "name": "House Roula",
+      "latitude": 40.194565,
+      "longitude": 23.769161
+    },
+    {
+      "name": "House Stella",
+      "latitude": 39.992139,
+      "longitude": 23.991214
+    },
+    {
+      "name": "Ibiscus Villas",
+      "latitude": 37.442469,
+      "longitude": 25.342
+    },
+    {
+      "name": "Idili Traditional Guest House",
+      "latitude": 35.416914,
+      "longitude": 24.692789
+    },
+    {
+      "name": "Ifigenia",
+      "latitude": 35.184162,
+      "longitude": 24.40958
+    },
+    {
+      "name": "Ili Vasilema",
+      "latitude": 36.359771,
+      "longitude": 25.412976
+    },
+    {
+      "name": "Iliada",
+      "latitude": 39.165635,
+      "longitude": 23.486378
+    },
+    {
+      "name": "Iliapa studios",
+      "latitude": 37.109431,
+      "longitude": 25.380225
+    },
+    {
+      "name": "Imarkellis Boutique Villas",
+      "latitude": 37.638896,
+      "longitude": 25.044638
+    },
+    {
+      "name": "Ioanis Deluxe House",
+      "latitude": 40.934165,
+      "longitude": 24.416987
+    },
+    {
+      "name": "Ioannidis Guesthouse",
+      "latitude": 39.967066,
+      "longitude": 20.717179
+    },
+    {
+      "name": "Ioannis Appartamenti",
+      "latitude": 40.189245,
+      "longitude": 23.776532
+    },
+    {
+      "name": "Ionia Rooms",
+      "latitude": 38.36734,
+      "longitude": 26.138566
+    },
+    {
+      "name": "Irene",
+      "latitude": 35.010716,
+      "longitude": 24.768509
+    },
+    {
+      "name": "Irene Studios",
+      "latitude": 36.998901,
+      "longitude": 26.936996
+    },
+    {
+      "name": "Irene's House",
+      "latitude": 35.739695,
+      "longitude": 27.17373
+    },
+    {
+      "name": "Irene's House Apartments",
+      "latitude": 39.991727,
+      "longitude": 23.991901
+    },
+    {
+      "name": "Iria Bay",
+      "latitude": 37.485946,
+      "longitude": 22.992723
+    },
+    {
+      "name": "IRIDA APARTMENTS",
+      "latitude": 39.019311,
+      "longitude": 26.21483
+    },
+    {
+      "name": "Irini Studios and Apartments",
+      "latitude": 38.976965,
+      "longitude": 26.363447
+    },
+    {
+      "name": "Iris Apartments",
+      "latitude": 36.208369,
+      "longitude": 28.138949
+    },
+    {
+      "name": "Iro Appartments",
+      "latitude": 35.513622,
+      "longitude": 24.007114
+    },
+    {
+      "name": "Isabel Artemis",
+      "latitude": 39.450231,
+      "longitude": 23.123089
+    },
+    {
+      "name": "Isabella",
+      "latitude": 35.014042,
+      "longitude": 24.780411
+    },
+    {
+      "name": "Isalos studios",
+      "latitude": 37.025624,
+      "longitude": 25.368506
+    },
+    {
+      "name": "Isavella's Apartment",
+      "latitude": 36.859477,
+      "longitude": 25.53258
+    },
+    {
+      "name": "Island view",
+      "latitude": 40.933471,
+      "longitude": 24.388882
+    },
+    {
+      "name": "Ismet Rooms",
+      "latitude": 41.348526,
+      "longitude": 25.009938
+    },
+    {
+      "name": "Isthmo Filoxemia",
+      "latitude": 37.913227,
+      "longitude": 23.004679
+    },
+    {
+      "name": "Itamos rooms",
+      "latitude": 40.187447,
+      "longitude": 23.800196
+    },
+    {
+      "name": "Jasmine of Cyclades",
+      "latitude": 37.448611,
+      "longitude": 24.902662
+    },
+    {
+      "name": "Jenny",
+      "latitude": 37.5132,
+      "longitude": 21.616431
+    },
+    {
+      "name": "Jim guesthouse",
+      "latitude": 40.431797,
+      "longitude": 23.506559
+    },
+    {
+      "name": "Jimmy's Home",
+      "latitude": 37.969898,
+      "longitude": 23.752237
+    },
+    {
+      "name": "Joakim's Villa",
+      "latitude": 35.014323,
+      "longitude": 24.779965
+    },
+    {
+      "name": "Joanna's Villa",
+      "latitude": 37.721682,
+      "longitude": 20.971539
+    },
+    {
+      "name": "Jodi's rent rooms",
+      "latitude": 35.017206,
+      "longitude": 24.783518
+    },
+    {
+      "name": "John Akroyiali Rooms",
+      "latitude": 35.200515,
+      "longitude": 24.079331
+    },
+    {
+      "name": "John's",
+      "latitude": 37.492118,
+      "longitude": 22.991498
+    },
+    {
+      "name": "Joy's Little House",
+      "latitude": 37.677349,
+      "longitude": 24.355037
+    },
+    {
+      "name": "Julies Studios",
+      "latitude": 35.515323,
+      "longitude": 24.028243
+    },
+    {
+      "name": "KABANELIS",
+      "latitude": 38.194322,
+      "longitude": 23.052667
+    },
+    {
+      "name": "Kafka Stone House",
+      "latitude": 36.602274,
+      "longitude": 27.178547
+    },
+    {
+      "name": "Kalamitsi Studios",
+      "latitude": 39.991492,
+      "longitude": 23.989305
+    },
+    {
+      "name": "Kalipso Studios",
+      "latitude": 40.22142,
+      "longitude": 23.667783
+    },
+    {
+      "name": "Kallia Suites",
+      "latitude": 39.450029,
+      "longitude": 23.123552
+    },
+    {
+      "name": "Kalliberry",
+      "latitude": 37.963892,
+      "longitude": 24.741713
+    },
+    {
+      "name": "Kalliopi",
+      "latitude": 37.347343,
+      "longitude": 23.466464
+    },
+    {
+      "name": "Kalliopi's Inn",
+      "latitude": 39.966701,
+      "longitude": 20.71763
+    },
+    {
+      "name": "Kalliopi's Rooms",
+      "latitude": 36.192438,
+      "longitude": 22.990959
+    },
+    {
+      "name": "Kallisto Apartments",
+      "latitude": 37.711426,
+      "longitude": 26.699055
+    },
+    {
+      "name": "Kallistws House",
+      "latitude": 37.586546,
+      "longitude": 22.067422
+    },
+    {
+      "name": "Kalliópis Studios",
+      "latitude": 35.741439,
+      "longitude": 27.172833
+    },
+    {
+      "name": "Kalogeropoulos",
+      "latitude": 37.513487,
+      "longitude": 21.616814
+    },
+    {
+      "name": "Kalogirou Stone House",
+      "latitude": 38.711124,
+      "longitude": 23.751237
+    },
+    {
+      "name": "Kalomoira Apartments",
+      "latitude": 36.508419,
+      "longitude": 22.976348
+    },
+    {
+      "name": "Kaloperasi",
+      "latitude": 35.015942,
+      "longitude": 24.779718
+    },
+    {
+      "name": "Kanella",
+      "latitude": 37.420808,
+      "longitude": 21.665939
+    },
+    {
+      "name": "Kapetan Yannis rooms",
+      "latitude": 36.732151,
+      "longitude": 24.446707
+    },
+    {
+      "name": "Karavolos",
+      "latitude": 37.500021,
+      "longitude": 23.453669
+    },
+    {
+      "name": "Karin & Nikos",
+      "latitude": 37.66505,
+      "longitude": 26.882911
+    },
+    {
+      "name": "Karoline",
+      "latitude": 35.450519,
+      "longitude": 24.17839
+    },
+    {
+      "name": "Kassandrinos",
+      "latitude": 40.213145,
+      "longitude": 23.671093
+    },
+    {
+      "name": "Kastania Gi",
+      "latitude": 39.991067,
+      "longitude": 22.574731
+    },
+    {
+      "name": "Kastelia",
+      "latitude": 39.715603,
+      "longitude": 21.621724
+    },
+    {
+      "name": "Kastelli",
+      "latitude": 35.416061,
+      "longitude": 24.690555
+    },
+    {
+      "name": "Kastri",
+      "latitude": 34.998171,
+      "longitude": 25.37136
+    },
+    {
+      "name": "Kastro Kera",
+      "latitude": 35.448507,
+      "longitude": 24.188552
+    },
+    {
+      "name": "Katarina",
+      "latitude": 40.722934,
+      "longitude": 23.709069
+    },
+    {
+      "name": "Katerina",
+      "latitude": 35.23415,
+      "longitude": 23.684407
+    },
+    {
+      "name": "Katerina",
+      "latitude": 35.513334,
+      "longitude": 24.006336
+    },
+    {
+      "name": "Katerina Apartments",
+      "latitude": 37.73875,
+      "longitude": 20.901343
+    },
+    {
+      "name": "Katerina Guest House",
+      "latitude": 40.836505,
+      "longitude": 24.304802
+    },
+    {
+      "name": "Katerina Studio",
+      "latitude": 40.515857,
+      "longitude": 21.266231
+    },
+    {
+      "name": "Katerina's Studios",
+      "latitude": 36.730235,
+      "longitude": 24.477861
+    },
+    {
+      "name": "Katia's house",
+      "latitude": 37.578888,
+      "longitude": 22.805452
+    },
+    {
+      "name": "Katikia Zagori",
+      "latitude": 39.875661,
+      "longitude": 20.748273
+    },
+    {
+      "name": "Kera",
+      "latitude": 35.448965,
+      "longitude": 24.186767
+    },
+    {
+      "name": "Kera Apartements",
+      "latitude": 35.449542,
+      "longitude": 24.184617
+    },
+    {
+      "name": "Kerasies Guest House",
+      "latitude": 39.938223,
+      "longitude": 21.045756
+    },
+    {
+      "name": "kink's house",
+      "latitude": 40.260922,
+      "longitude": 23.223423
+    },
+    {
+      "name": "Kissamia Rooms",
+      "latitude": 35.49807,
+      "longitude": 23.654446
+    },
+    {
+      "name": "Kitsos",
+      "latitude": 39.283131,
+      "longitude": 20.409176
+    },
+    {
+      "name": "KLEOPATRA Studios",
+      "latitude": 37.710485,
+      "longitude": 26.699781
+    },
+    {
+      "name": "Kleopatra's Guesthouse",
+      "latitude": 39.381183,
+      "longitude": 23.179188
+    },
+    {
+      "name": "Klima",
+      "latitude": 35.227052,
+      "longitude": 23.682562
+    },
+    {
+      "name": "Knossos 3 Privat Villa",
+      "latitude": 35.357784,
+      "longitude": 24.407534
+    },
+    {
+      "name": "Koka Roka Rooms & Taverna",
+      "latitude": 39.711201,
+      "longitude": 21.629993
+    },
+    {
+      "name": "Kokkinos Apartments",
+      "latitude": 40.188854,
+      "longitude": 23.779054
+    },
+    {
+      "name": "Kon Mari Boutique Suites",
+      "latitude": 35.515392,
+      "longitude": 24.016164
+    },
+    {
+      "name": "Konstantinos",
+      "latitude": 36.207833,
+      "longitude": 28.139292
+    },
+    {
+      "name": "Konstantinos Bed & Breakfast",
+      "latitude": 36.722708,
+      "longitude": 24.462879
+    },
+    {
+      "name": "Korali House",
+      "latitude": 39.175196,
+      "longitude": 20.549242
+    },
+    {
+      "name": "Koralli Studios",
+      "latitude": 36.996655,
+      "longitude": 26.935447
+    },
+    {
+      "name": "Kosta",
+      "latitude": 40.881169,
+      "longitude": 21.958709
+    },
+    {
+      "name": "KOSTIS HAUSE",
+      "latitude": 39.718467,
+      "longitude": 21.616229
+    },
+    {
+      "name": "Kountoura Rooms",
+      "latitude": 35.240463,
+      "longitude": 23.620908
+    },
+    {
+      "name": "Koutsoukos",
+      "latitude": 36.7837,
+      "longitude": 21.938224
+    },
+    {
+      "name": "Koxuai",
+      "latitude": 35.229575,
+      "longitude": 23.680696
+    },
+    {
+      "name": "Kozas Studios",
+      "latitude": 36.212716,
+      "longitude": 28.141758
+    },
+    {
+      "name": "Kripis Studio Pefkohori",
+      "latitude": 39.989332,
+      "longitude": 23.613709
+    },
+    {
+      "name": "Kripis Studio Thessaloniki",
+      "latitude": 40.640113,
+      "longitude": 22.956078
+    },
+    {
+      "name": "Kristallia Rooms",
+      "latitude": 38.407101,
+      "longitude": 21.943285
+    },
+    {
+      "name": "Kristof & Nimi's",
+      "latitude": 37.63679,
+      "longitude": 23.390501
+    },
+    {
+      "name": "Krystal",
+      "latitude": 40.636947,
+      "longitude": 21.084553
+    },
+    {
+      "name": "Ktima Alieis",
+      "latitude": 37.316623,
+      "longitude": 23.156971
+    },
+    {
+      "name": "Ktima Petalea",
+      "latitude": 36.722059,
+      "longitude": 22.533906
+    },
+    {
+      "name": "Kyma Luxury Studios",
+      "latitude": 35.211614,
+      "longitude": 26.265651
+    },
+    {
+      "name": "Kymata",
+      "latitude": 37.44244,
+      "longitude": 24.945564
+    },
+    {
+      "name": "L'Avventura Suites",
+      "latitude": 37.977381,
+      "longitude": 23.723173
+    },
+    {
+      "name": "La casa azul",
+      "latitude": 37.846678,
+      "longitude": 21.10898
+    },
+    {
+      "name": "La casa d' Irene",
+      "latitude": 36.609813,
+      "longitude": 27.132037
+    },
+    {
+      "name": "La Casa de Profesor Luxury Rooms",
+      "latitude": 39.705548,
+      "longitude": 21.624075
+    },
+    {
+      "name": "Lakoudia",
+      "latitude": 35.015329,
+      "longitude": 24.785418
+    },
+    {
+      "name": "Lara",
+      "latitude": 35.23031,
+      "longitude": 23.681033
+    },
+    {
+      "name": "Lazy loft farm house",
+      "latitude": 39.755983,
+      "longitude": 20.666229
+    },
+    {
+      "name": "le petit Greek bed & breakfast",
+      "latitude": 36.421297,
+      "longitude": 25.429774
+    },
+    {
+      "name": "Lepanto Luxury Apartments",
+      "latitude": 38.393616,
+      "longitude": 21.833809
+    },
+    {
+      "name": "Lepanto Xenia Apartments",
+      "latitude": 38.393544,
+      "longitude": 21.834893
+    },
+    {
+      "name": "Lesbos Beach House",
+      "latitude": 39.332583,
+      "longitude": 26.180749
+    },
+    {
+      "name": "liana Maragliano apartment",
+      "latitude": 37.009746,
+      "longitude": 25.385438
+    },
+    {
+      "name": "Lidia Rooms",
+      "latitude": 35.515408,
+      "longitude": 24.01814
+    },
+    {
+      "name": "Lido Hotel",
+      "latitude": 38.054464,
+      "longitude": 22.679445
+    },
+    {
+      "name": "Liknon",
+      "latitude": 38.37453,
+      "longitude": 22.384518
+    },
+    {
+      "name": "Liros",
+      "latitude": 36.272778,
+      "longitude": 27.830742
+    },
+    {
+      "name": "Lissos",
+      "latitude": 35.249384,
+      "longitude": 23.811411
+    },
+    {
+      "name": "Lithos Traditional Guest Houses",
+      "latitude": 35.043934,
+      "longitude": 26.225484
+    },
+    {
+      "name": "Litore",
+      "latitude": 40.714754,
+      "longitude": 24.757303
+    },
+    {
+      "name": "Litsa Malli",
+      "latitude": 36.763185,
+      "longitude": 24.525908
+    },
+    {
+      "name": "Litsa Panagis Studios",
+      "latitude": 40.188798,
+      "longitude": 23.777297
+    },
+    {
+      "name": "Litsas studios",
+      "latitude": 37.388153,
+      "longitude": 24.39441
+    },
+    {
+      "name": "Little Lindos",
+      "latitude": 36.089351,
+      "longitude": 28.083372
+    },
+    {
+      "name": "Livadi Apartments",
+      "latitude": 35.191654,
+      "longitude": 24.396322
+    },
+    {
+      "name": "Live-Bio",
+      "latitude": 37.487302,
+      "longitude": 23.462307
+    },
+    {
+      "name": "Loggia Suites",
+      "latitude": 35.369898,
+      "longitude": 24.474111
+    },
+    {
+      "name": "Long View Resort",
+      "latitude": 37.321927,
+      "longitude": 23.162902
+    },
+    {
+      "name": "Loretta",
+      "latitude": 40.729908,
+      "longitude": 24.757042
+    },
+    {
+      "name": "LOTOS Seaside Hotel",
+      "latitude": 35.248478,
+      "longitude": 23.810684
+    },
+    {
+      "name": "Louvis House",
+      "latitude": 40.293187,
+      "longitude": 23.691234
+    },
+    {
+      "name": "Lucy’s Pension",
+      "latitude": 35.417043,
+      "longitude": 24.692359
+    },
+    {
+      "name": "Lunar",
+      "latitude": 40.779678,
+      "longitude": 24.617215
+    },
+    {
+      "name": "Luxury Unique Suites",
+      "latitude": 37.348651,
+      "longitude": 23.468708
+    },
+    {
+      "name": "Lydia's Central Apartment",
+      "latitude": 39.667776,
+      "longitude": 20.850762
+    },
+    {
+      "name": "Madcat Farm",
+      "latitude": 38.447164,
+      "longitude": 23.679416
+    },
+    {
+      "name": "Madre",
+      "latitude": 40.075737,
+      "longitude": 23.446442
+    },
+    {
+      "name": "Magda",
+      "latitude": 39.99187,
+      "longitude": 23.989722
+    },
+    {
+      "name": "Maggina's Studio",
+      "latitude": 37.090595,
+      "longitude": 25.157273
+    },
+    {
+      "name": "Magic View",
+      "latitude": 37.109683,
+      "longitude": 25.380846
+    },
+    {
+      "name": "makropoulos rooms",
+      "latitude": 39.104712,
+      "longitude": 26.16955
+    },
+    {
+      "name": "Malibu",
+      "latitude": 39.597573,
+      "longitude": 19.810717
+    },
+    {
+      "name": "Manganas",
+      "latitude": 38.320599,
+      "longitude": 26.127517
+    },
+    {
+      "name": "Mani Elixirion",
+      "latitude": 36.697964,
+      "longitude": 22.38189
+    },
+    {
+      "name": "Manime",
+      "latitude": 36.907672,
+      "longitude": 27.278199
+    },
+    {
+      "name": "Manolis",
+      "latitude": 35.081496,
+      "longitude": 24.741552
+    },
+    {
+      "name": "Manolis studios",
+      "latitude": 37.016544,
+      "longitude": 25.388421
+    },
+    {
+      "name": "Manousos",
+      "latitude": 36.726428,
+      "longitude": 24.446437
+    },
+    {
+      "name": "Maravites Cottage",
+      "latitude": 36.712371,
+      "longitude": 24.479027
+    },
+    {
+      "name": "Marble Art Villas",
+      "latitude": 37.64027,
+      "longitude": 25.035905
+    },
+    {
+      "name": "Margaritha",
+      "latitude": 35.229606,
+      "longitude": 23.681161
+    },
+    {
+      "name": "Maria",
+      "latitude": 39.647304,
+      "longitude": 19.846763
+    },
+    {
+      "name": "Maria Lambis",
+      "latitude": 35.295682,
+      "longitude": 25.421821
+    },
+    {
+      "name": "Maria' comfort studio",
+      "latitude": 35.365773,
+      "longitude": 24.49833
+    },
+    {
+      "name": "Maria's",
+      "latitude": 37.062266,
+      "longitude": 25.356943
+    },
+    {
+      "name": "Maria's",
+      "latitude": 39.370894,
+      "longitude": 22.967301
+    },
+    {
+      "name": "Marialice",
+      "latitude": 39.674525,
+      "longitude": 19.835625
+    },
+    {
+      "name": "Marianthi Studios 2",
+      "latitude": 40.190078,
+      "longitude": 23.778203
+    },
+    {
+      "name": "Marias Studios",
+      "latitude": 36.858554,
+      "longitude": 25.469667
+    },
+    {
+      "name": "MARIETTA",
+      "latitude": 36.885865,
+      "longitude": 27.296103
+    },
+    {
+      "name": "Marika's Traditional House",
+      "latitude": 35.188187,
+      "longitude": 25.714605
+    },
+    {
+      "name": "Marina Blue Ornos",
+      "latitude": 37.424455,
+      "longitude": 25.32613
+    },
+    {
+      "name": "Marini Studios",
+      "latitude": 39.481098,
+      "longitude": 19.928134
+    },
+    {
+      "name": "Mariren",
+      "latitude": 39.140014,
+      "longitude": 23.643834
+    },
+    {
+      "name": "MARiTA'S apartments",
+      "latitude": 35.52012,
+      "longitude": 23.931198
+    },
+    {
+      "name": "Mariviky Design Apartments",
+      "latitude": 35.515841,
+      "longitude": 24.01619
+    },
+    {
+      "name": "Maro",
+      "latitude": 35.515515,
+      "longitude": 24.016231
+    },
+    {
+      "name": "Martin's Rooms",
+      "latitude": 36.851307,
+      "longitude": 25.472008
+    },
+    {
+      "name": "Masouri Rooms",
+      "latitude": 36.357511,
+      "longitude": 25.474063
+    },
+    {
+      "name": "Matoula's House",
+      "latitude": 39.162872,
+      "longitude": 23.48631
+    },
+    {
+      "name": "Medieval Inn",
+      "latitude": 36.440869,
+      "longitude": 28.225646
+    },
+    {
+      "name": "Mediterraneo Pension",
+      "latitude": 36.15192,
+      "longitude": 29.590888
+    },
+    {
+      "name": "Melinas beach",
+      "latitude": 35.517983,
+      "longitude": 23.908189
+    },
+    {
+      "name": "Melissaratos",
+      "latitude": 38.119421,
+      "longitude": 20.563126
+    },
+    {
+      "name": "Mellia",
+      "latitude": 37.646721,
+      "longitude": 21.627436
+    },
+    {
+      "name": "Melolia farm",
+      "latitude": 38.197864,
+      "longitude": 23.058622
+    },
+    {
+      "name": "Meraki Skopelos",
+      "latitude": 39.117661,
+      "longitude": 23.732503
+    },
+    {
+      "name": "Mersini",
+      "latitude": 36.871356,
+      "longitude": 25.511983
+    },
+    {
+      "name": "Meteora Harmony",
+      "latitude": 39.705161,
+      "longitude": 21.630319
+    },
+    {
+      "name": "Mezapos Guest House",
+      "latitude": 36.54004,
+      "longitude": 22.39052
+    },
+    {
+      "name": "Michail Rooms",
+      "latitude": 37.638855,
+      "longitude": 25.039825
+    },
+    {
+      "name": "MICHALIS",
+      "latitude": 36.872251,
+      "longitude": 27.149243
+    },
+    {
+      "name": "michel-mar",
+      "latitude": 40.103281,
+      "longitude": 23.777144
+    },
+    {
+      "name": "Mihalis Houses",
+      "latitude": 36.931774,
+      "longitude": 25.605618
+    },
+    {
+      "name": "Mihalis Studios",
+      "latitude": 35.476421,
+      "longitude": 27.186284
+    },
+    {
+      "name": "Mike Omalos Houses",
+      "latitude": 35.334405,
+      "longitude": 23.884722
+    },
+    {
+      "name": "Mike's",
+      "latitude": 36.36004,
+      "longitude": 27.979222
+    },
+    {
+      "name": "Mike's Beach Apartments",
+      "latitude": 35.336687,
+      "longitude": 25.35947
+    },
+    {
+      "name": "Miraluna hotel",
+      "latitude": 35.58933,
+      "longitude": 27.082397
+    },
+    {
+      "name": "Montanema",
+      "latitude": 39.347493,
+      "longitude": 21.647476
+    },
+    {
+      "name": "Mooood B&B",
+      "latitude": 39.253947,
+      "longitude": 23.200059
+    },
+    {
+      "name": "Morfeas Guest House",
+      "latitude": 39.969634,
+      "longitude": 20.716883
+    },
+    {
+      "name": "Moriel Seaside Homes Suites",
+      "latitude": 40.148343,
+      "longitude": 23.732563
+    },
+    {
+      "name": "Morpheas",
+      "latitude": 35.190085,
+      "longitude": 24.395898
+    },
+    {
+      "name": "Moschoula",
+      "latitude": 36.727838,
+      "longitude": 24.446252
+    },
+    {
+      "name": "Mouria Studios",
+      "latitude": 37.630795,
+      "longitude": 23.158701
+    },
+    {
+      "name": "Mulberry House",
+      "latitude": 36.506757,
+      "longitude": 22.977231
+    },
+    {
+      "name": "Muses Apartments",
+      "latitude": 36.670469,
+      "longitude": 24.447276
+    },
+    {
+      "name": "My Neighbor Totoro",
+      "latitude": 36.851544,
+      "longitude": 27.211896
+    },
+    {
+      "name": "Mykonos Town Suites",
+      "latitude": 37.444596,
+      "longitude": 25.329141
+    },
+    {
+      "name": "Mylos",
+      "latitude": 35.18994,
+      "longitude": 25.722048
+    },
+    {
+      "name": "Mythos",
+      "latitude": 39.707955,
+      "longitude": 21.624924
+    },
+    {
+      "name": "N&I Seaside Cottage",
+      "latitude": 37.651478,
+      "longitude": 21.394089
+    },
+    {
+      "name": "Nafplion 1841",
+      "latitude": 37.565439,
+      "longitude": 22.797196
+    },
+    {
+      "name": "Nafplion Villa Artemis",
+      "latitude": 37.534265,
+      "longitude": 22.852971
+    },
+    {
+      "name": "Nancy Rooms",
+      "latitude": 39.20667,
+      "longitude": 26.209052
+    },
+    {
+      "name": "Natalia's Houses",
+      "latitude": 35.427455,
+      "longitude": 24.190393
+    },
+    {
+      "name": "Naxos Green Village",
+      "latitude": 37.105578,
+      "longitude": 25.380878
+    },
+    {
+      "name": "Neapolis Apartments",
+      "latitude": 35.232683,
+      "longitude": 23.679491
+    },
+    {
+      "name": "Neromylos",
+      "latitude": 40.944712,
+      "longitude": 24.144055
+    },
+    {
+      "name": "Nestos, Meer und Berge - Griechenland mal anders!",
+      "latitude": 41.021309,
+      "longitude": 24.641213
+    },
+    {
+      "name": "New Wave",
+      "latitude": 35.229148,
+      "longitude": 23.680488
+    },
+    {
+      "name": "Nibal's house",
+      "latitude": 38.045246,
+      "longitude": 23.993175
+    },
+    {
+      "name": "Nick's house",
+      "latitude": 39.624051,
+      "longitude": 19.874933
+    },
+    {
+      "name": "Niki",
+      "latitude": 36.727338,
+      "longitude": 24.444757
+    },
+    {
+      "name": "Niki rena",
+      "latitude": 37.709534,
+      "longitude": 26.69019
+    },
+    {
+      "name": "Nikia",
+      "latitude": 36.99423,
+      "longitude": 22.702794
+    },
+    {
+      "name": "Nikolas Apartments",
+      "latitude": 35.336671,
+      "longitude": 25.070554
+    },
+    {
+      "name": "Nikolas Rooms",
+      "latitude": 35.515408,
+      "longitude": 24.018031
+    },
+    {
+      "name": "Nikoli Apartments",
+      "latitude": 39.550996,
+      "longitude": 19.910332
+    },
+    {
+      "name": "Nikos & Alex",
+      "latitude": 37.116533,
+      "longitude": 25.214448
+    },
+    {
+      "name": "Nikos apartment",
+      "latitude": 35.516275,
+      "longitude": 24.014593
+    },
+    {
+      "name": "Nikos Studios",
+      "latitude": 36.758766,
+      "longitude": 26.995686
+    },
+    {
+      "name": "Nikos studios apartments",
+      "latitude": 36.206389,
+      "longitude": 28.138988
+    },
+    {
+      "name": "Ninemia",
+      "latitude": 37.520457,
+      "longitude": 22.856095
+    },
+    {
+      "name": "Nisos Beach Suites",
+      "latitude": 35.292925,
+      "longitude": 25.460257
+    },
+    {
+      "name": "Nontas Home",
+      "latitude": 38.75498,
+      "longitude": 20.602383
+    },
+    {
+      "name": "North Refuge",
+      "latitude": 38.739755,
+      "longitude": 22.330186
+    },
+    {
+      "name": "Nostalgia Apartments",
+      "latitude": 35.193587,
+      "longitude": 24.370705
+    },
+    {
+      "name": "Nostros",
+      "latitude": 35.457718,
+      "longitude": 24.167004
+    },
+    {
+      "name": "Ntontas Rooms",
+      "latitude": 40.758392,
+      "longitude": 24.579344
+    },
+    {
+      "name": "Oasis",
+      "latitude": 35.184437,
+      "longitude": 24.409523
+    },
+    {
+      "name": "Oasis",
+      "latitude": 35.230481,
+      "longitude": 23.960672
+    },
+    {
+      "name": "Oasis",
+      "latitude": 35.891839,
+      "longitude": 27.773692
+    },
+    {
+      "name": "Oasis Appartments",
+      "latitude": 39.139249,
+      "longitude": 23.644248
+    },
+    {
+      "name": "Oasis studios",
+      "latitude": 37.026536,
+      "longitude": 25.37174
+    },
+    {
+      "name": "Odyssey",
+      "latitude": 37.565394,
+      "longitude": 22.794765
+    },
+    {
+      "name": "Odyssia Apartments",
+      "latitude": 36.620558,
+      "longitude": 27.83849
+    },
+    {
+      "name": "Oikia Guesthouse",
+      "latitude": 39.707682,
+      "longitude": 21.618006
+    },
+    {
+      "name": "Old House",
+      "latitude": 38.767447,
+      "longitude": 20.653275
+    },
+    {
+      "name": "Olia Seaside Residence",
+      "latitude": 39.983173,
+      "longitude": 23.63065
+    },
+    {
+      "name": "Olive Tree",
+      "latitude": 35.240377,
+      "longitude": 23.696309
+    },
+    {
+      "name": "Olymp & Meer",
+      "latitude": 39.975254,
+      "longitude": 22.655527
+    },
+    {
+      "name": "Olympias",
+      "latitude": 40.740013,
+      "longitude": 23.973969
+    },
+    {
+      "name": "Olympias Studio",
+      "latitude": 35.016044,
+      "longitude": 24.780524
+    },
+    {
+      "name": "Olympic Apartments",
+      "latitude": 39.97832,
+      "longitude": 22.651009
+    },
+    {
+      "name": "Ombrosgialos",
+      "latitude": 35.202543,
+      "longitude": 24.135037
+    },
+    {
+      "name": "Onar Pension",
+      "latitude": 37.565174,
+      "longitude": 22.800097
+    },
+    {
+      "name": "One Kea Suites",
+      "latitude": 37.670786,
+      "longitude": 24.350189
+    },
+    {
+      "name": "Open House Suite",
+      "latitude": 40.847383,
+      "longitude": 24.307875
+    },
+    {
+      "name": "Orfeas Rooms",
+      "latitude": 38.625564,
+      "longitude": 20.606918
+    },
+    {
+      "name": "Oriental Bay",
+      "latitude": 35.233796,
+      "longitude": 23.685868
+    },
+    {
+      "name": "Oriental Bay",
+      "latitude": 35.233925,
+      "longitude": 23.686561
+    },
+    {
+      "name": "Orizontas",
+      "latitude": 37.892579,
+      "longitude": 21.13044
+    },
+    {
+      "name": "Orizontes",
+      "latitude": 37.595801,
+      "longitude": 22.03752
+    },
+    {
+      "name": "Orkos Blue Coast",
+      "latitude": 37.034629,
+      "longitude": 25.37549
+    },
+    {
+      "name": "Orkos View",
+      "latitude": 37.034328,
+      "longitude": 25.37512
+    },
+    {
+      "name": "Ouzeri Corali",
+      "latitude": 35.181622,
+      "longitude": 24.230465
+    },
+    {
+      "name": "Palace Villa",
+      "latitude": 37.92117,
+      "longitude": 20.706396
+    },
+    {
+      "name": "Palacio Del Sol",
+      "latitude": 37.581599,
+      "longitude": 22.804507
+    },
+    {
+      "name": "Panorama",
+      "latitude": 35.013858,
+      "longitude": 24.775642
+    },
+    {
+      "name": "Panorama",
+      "latitude": 35.030694,
+      "longitude": 24.759163
+    },
+    {
+      "name": "Panorama",
+      "latitude": 35.407747,
+      "longitude": 23.681117
+    },
+    {
+      "name": "Panorama",
+      "latitude": 40.722436,
+      "longitude": 23.707835
+    },
+    {
+      "name": "Pansion Efi",
+      "latitude": 37.349392,
+      "longitude": 23.464914
+    },
+    {
+      "name": "Pansion Elena",
+      "latitude": 35.209321,
+      "longitude": 25.341361
+    },
+    {
+      "name": "Pantazis Studios",
+      "latitude": 38.788963,
+      "longitude": 20.61316
+    },
+    {
+      "name": "Pantheon",
+      "latitude": 36.759057,
+      "longitude": 26.989541
+    },
+    {
+      "name": "Pantheon Apartments",
+      "latitude": 37.711818,
+      "longitude": 26.700575
+    },
+    {
+      "name": "Papafotis",
+      "latitude": 37.166406,
+      "longitude": 26.835843
+    },
+    {
+      "name": "Paradise",
+      "latitude": 35.028278,
+      "longitude": 24.759236
+    },
+    {
+      "name": "Paradisis",
+      "latitude": 35.229732,
+      "longitude": 23.961806
+    },
+    {
+      "name": "Paradiso",
+      "latitude": 37.062717,
+      "longitude": 25.356541
+    },
+    {
+      "name": "Paramonas Villas",
+      "latitude": 39.503563,
+      "longitude": 19.855263
+    },
+    {
+      "name": "Parascevi",
+      "latitude": 36.415504,
+      "longitude": 27.386222
+    },
+    {
+      "name": "Parasporos Village",
+      "latitude": 36.725884,
+      "longitude": 24.4661
+    },
+    {
+      "name": "Pasarodoula",
+      "latitude": 35.230203,
+      "longitude": 23.681341
+    },
+    {
+      "name": "Patelo",
+      "latitude": 35.014084,
+      "longitude": 24.781889
+    },
+    {
+      "name": "Patroudis House",
+      "latitude": 40.774367,
+      "longitude": 24.605912
+    },
+    {
+      "name": "Pavlis Studios",
+      "latitude": 37.710356,
+      "longitude": 26.697728
+    },
+    {
+      "name": "PefkoPetro",
+      "latitude": 35.37115,
+      "longitude": 23.556279
+    },
+    {
+      "name": "Pegasos Maisonettes",
+      "latitude": 35.450277,
+      "longitude": 24.204797
+    },
+    {
+      "name": "Pegasus",
+      "latitude": 37.907308,
+      "longitude": 22.880876
+    },
+    {
+      "name": "Pelagia",
+      "latitude": 37.709602,
+      "longitude": 26.690426
+    },
+    {
+      "name": "Pension Aggesina",
+      "latitude": 37.564931,
+      "longitude": 22.800341
+    },
+    {
+      "name": "Pension akti",
+      "latitude": 37.847137,
+      "longitude": 21.10943
+    },
+    {
+      "name": "Pension Alexandra",
+      "latitude": 37.459842,
+      "longitude": 25.329571
+    },
+    {
+      "name": "Pension Aretoussa",
+      "latitude": 35.015576,
+      "longitude": 24.779615
+    },
+    {
+      "name": "Pension Ermioni",
+      "latitude": 37.660758,
+      "longitude": 26.881309
+    },
+    {
+      "name": "Pension Galini",
+      "latitude": 36.825414,
+      "longitude": 25.865706
+    },
+    {
+      "name": "Pension Galini",
+      "latitude": 37.660121,
+      "longitude": 26.881695
+    },
+    {
+      "name": "Pension Gerania",
+      "latitude": 38.377051,
+      "longitude": 20.541171
+    },
+    {
+      "name": "Pension Irene",
+      "latitude": 35.248784,
+      "longitude": 23.810725
+    },
+    {
+      "name": "Pension Karandolas",
+      "latitude": 40.77587,
+      "longitude": 24.599425
+    },
+    {
+      "name": "Pension Kastell",
+      "latitude": 37.105327,
+      "longitude": 25.378456
+    },
+    {
+      "name": "Pension Limni",
+      "latitude": 37.686649,
+      "longitude": 20.836517
+    },
+    {
+      "name": "Pension Nora",
+      "latitude": 35.518115,
+      "longitude": 24.015092
+    },
+    {
+      "name": "Pension Nychterida",
+      "latitude": 39.419617,
+      "longitude": 19.987704
+    },
+    {
+      "name": "Pension Petros",
+      "latitude": 36.418941,
+      "longitude": 25.435547
+    },
+    {
+      "name": "Pension Pigi",
+      "latitude": 37.661694,
+      "longitude": 26.881646
+    },
+    {
+      "name": "Pension Porto tsi Ostrias",
+      "latitude": 37.687219,
+      "longitude": 20.833981
+    },
+    {
+      "name": "Pension Sofia",
+      "latitude": 36.825537,
+      "longitude": 25.86586
+    },
+    {
+      "name": "Pervola",
+      "latitude": 35.22513,
+      "longitude": 24.996974
+    },
+    {
+      "name": "Petini's Place",
+      "latitude": 36.417967,
+      "longitude": 25.431828
+    },
+    {
+      "name": "Petrino",
+      "latitude": 39.156206,
+      "longitude": 26.520621
+    },
+    {
+      "name": "Petros house",
+      "latitude": 40.692985,
+      "longitude": 23.695497
+    },
+    {
+      "name": "Pharos Apartments",
+      "latitude": 39.96418,
+      "longitude": 23.37858
+    },
+    {
+      "name": "Philos",
+      "latitude": 39.402076,
+      "longitude": 22.98684
+    },
+    {
+      "name": "Philoxenia apartments",
+      "latitude": 34.999018,
+      "longitude": 25.376905
+    },
+    {
+      "name": "Phoenix apartments",
+      "latitude": 35.195017,
+      "longitude": 24.374772
+    },
+    {
+      "name": "Phoenix Villas",
+      "latitude": 35.447985,
+      "longitude": 24.196995
+    },
+    {
+      "name": "Pia Rooms",
+      "latitude": 35.516051,
+      "longitude": 24.017967
+    },
+    {
+      "name": "Pine Seafront villa",
+      "latitude": 40.228286,
+      "longitude": 23.624298
+    },
+    {
+      "name": "Pinosvilles",
+      "latitude": 35.38549,
+      "longitude": 24.619737
+    },
+    {
+      "name": "Piteoussa Guest House",
+      "latitude": 37.348785,
+      "longitude": 23.46856
+    },
+    {
+      "name": "Piteoussa Rooms & co",
+      "latitude": 37.348593,
+      "longitude": 23.46894
+    },
+    {
+      "name": "Plaka Studios",
+      "latitude": 38.31539,
+      "longitude": 26.156967
+    },
+    {
+      "name": "Playaki Guest House",
+      "latitude": 36.687884,
+      "longitude": 22.387647
+    },
+    {
+      "name": "Plextari Bed and Breakfast",
+      "latitude": 38.657608,
+      "longitude": 23.954635
+    },
+    {
+      "name": "Pohoda Villas Resort",
+      "latitude": 39.987111,
+      "longitude": 23.384641
+    },
+    {
+      "name": "Polemarchos",
+      "latitude": 39.703755,
+      "longitude": 21.626207
+    },
+    {
+      "name": "Porto Bello",
+      "latitude": 37.56499,
+      "longitude": 22.797518
+    },
+    {
+      "name": "Porto Sea View Apartments",
+      "latitude": 40.63455,
+      "longitude": 22.936444
+    },
+    {
+      "name": "Porto Valitsa",
+      "latitude": 39.95495,
+      "longitude": 23.683981
+    },
+    {
+      "name": "Pratsas Studios & Apartments",
+      "latitude": 39.990168,
+      "longitude": 23.989116
+    },
+    {
+      "name": "Premier Sea",
+      "latitude": 40.900611,
+      "longitude": 24.342416
+    },
+    {
+      "name": "Princess Tia",
+      "latitude": 37.698372,
+      "longitude": 26.750239
+    },
+    {
+      "name": "Protopapas",
+      "latitude": 35.234189,
+      "longitude": 23.678666
+    },
+    {
+      "name": "Psilandis Studios",
+      "latitude": 36.733491,
+      "longitude": 24.446183
+    },
+    {
+      "name": "Purple Villa",
+      "latitude": 37.921039,
+      "longitude": 20.707235
+    },
+    {
+      "name": "Pyrgos Stone House",
+      "latitude": 36.604095,
+      "longitude": 27.175716
+    },
+    {
+      "name": "Rastoni",
+      "latitude": 35.222489,
+      "longitude": 24.529971
+    },
+    {
+      "name": "Rastoni Guest House",
+      "latitude": 39.114801,
+      "longitude": 23.731579
+    },
+    {
+      "name": "Rena's Rooms",
+      "latitude": 37.296845,
+      "longitude": 26.763968
+    },
+    {
+      "name": "Rentinia Inn",
+      "latitude": 39.062856,
+      "longitude": 21.97905
+    },
+    {
+      "name": "Residence Azzurro",
+      "latitude": 36.508133,
+      "longitude": 22.977028
+    },
+    {
+      "name": "Residence Gerani",
+      "latitude": 35.165499,
+      "longitude": 25.710588
+    },
+    {
+      "name": "Residence Le Muse Studios",
+      "latitude": 36.204526,
+      "longitude": 28.138741
+    },
+    {
+      "name": "Rethymno House",
+      "latitude": 35.368879,
+      "longitude": 24.475864
+    },
+    {
+      "name": "Revekka B&B",
+      "latitude": 35.497767,
+      "longitude": 23.654665
+    },
+    {
+      "name": "Rex Politi",
+      "latitude": 38.895019,
+      "longitude": 22.275933
+    },
+    {
+      "name": "Rhodes Summer House",
+      "latitude": 36.024572,
+      "longitude": 27.922532
+    },
+    {
+      "name": "Riva's House",
+      "latitude": 40.515642,
+      "longitude": 21.275092
+    },
+    {
+      "name": "River villas Parga",
+      "latitude": 39.286867,
+      "longitude": 20.381986
+    },
+    {
+      "name": "Rocabella",
+      "latitude": 37.169237,
+      "longitude": 22.856322
+    },
+    {
+      "name": "Rodon Garden",
+      "latitude": 40.088294,
+      "longitude": 23.975118
+    },
+    {
+      "name": "Roi Boutique Suites",
+      "latitude": 38.376189,
+      "longitude": 20.541307
+    },
+    {
+      "name": "Rokka",
+      "latitude": 39.901399,
+      "longitude": 20.690608
+    },
+    {
+      "name": "Rolling Stone",
+      "latitude": 39.586549,
+      "longitude": 19.819494
+    },
+    {
+      "name": "Romanza Studios",
+      "latitude": 38.378948,
+      "longitude": 20.539949
+    },
+    {
+      "name": "Rooms Kochilas",
+      "latitude": 35.310046,
+      "longitude": 23.537528
+    },
+    {
+      "name": "ROOMS PAULOS",
+      "latitude": 35.200318,
+      "longitude": 24.079225
+    },
+    {
+      "name": "Rooms Stella",
+      "latitude": 36.337627,
+      "longitude": 25.435969
+    },
+    {
+      "name": "Rose Garden Rooms",
+      "latitude": 39.483866,
+      "longitude": 19.928061
+    },
+    {
+      "name": "Roses Studios",
+      "latitude": 35.506327,
+      "longitude": 27.216261
+    },
+    {
+      "name": "Rouda Village",
+      "latitude": 38.640582,
+      "longitude": 20.697384
+    },
+    {
+      "name": "Royal Studios",
+      "latitude": 36.207993,
+      "longitude": 28.137285
+    },
+    {
+      "name": "Rupicapra Villas",
+      "latitude": 39.968114,
+      "longitude": 20.716662
+    },
+    {
+      "name": "Sailors Apartments",
+      "latitude": 39.386843,
+      "longitude": 20.112425
+    },
+    {
+      "name": "Salora Studios & Apartments",
+      "latitude": 36.208311,
+      "longitude": 28.1389
+    },
+    {
+      "name": "Salt River Rooms",
+      "latitude": 38.265017,
+      "longitude": 24.160878
+    },
+    {
+      "name": "SALTSEA",
+      "latitude": 38.196633,
+      "longitude": 23.051395
+    },
+    {
+      "name": "Salty Edge Holiday Home",
+      "latitude": 37.152687,
+      "longitude": 24.505873
+    },
+    {
+      "name": "Salty Olive Cabana",
+      "latitude": 40.293642,
+      "longitude": 23.690903
+    },
+    {
+      "name": "San George Cove",
+      "latitude": 39.722616,
+      "longitude": 19.667169
+    },
+    {
+      "name": "San Giorgio Villa",
+      "latitude": 39.718727,
+      "longitude": 21.62122
+    },
+    {
+      "name": "San Stelianos",
+      "latitude": 39.722494,
+      "longitude": 19.668429
+    },
+    {
+      "name": "Santa Elena Boutique Rooms",
+      "latitude": 35.516028,
+      "longitude": 24.017075
+    },
+    {
+      "name": "SantriVani Rooms",
+      "latitude": 35.515971,
+      "longitude": 24.01705
+    },
+    {
+      "name": "SCORPIOS",
+      "latitude": 35.232449,
+      "longitude": 23.684724
+    },
+    {
+      "name": "Sea and Sun Pelion",
+      "latitude": 39.451282,
+      "longitude": 23.122966
+    },
+    {
+      "name": "Sea La Vie",
+      "latitude": 35.417055,
+      "longitude": 24.689498
+    },
+    {
+      "name": "Sea View Aparthotel",
+      "latitude": 35.508995,
+      "longitude": 23.995293
+    },
+    {
+      "name": "Seagull",
+      "latitude": 36.725099,
+      "longitude": 24.444413
+    },
+    {
+      "name": "Seaside Apartments",
+      "latitude": 37.682812,
+      "longitude": 20.835793
+    },
+    {
+      "name": "Seaside Tinos",
+      "latitude": 37.552736,
+      "longitude": 25.138785
+    },
+    {
+      "name": "seaview retreat II",
+      "latitude": 37.118961,
+      "longitude": 25.232675
+    },
+    {
+      "name": "Selefkos",
+      "latitude": 40.556094,
+      "longitude": 22.023506
+    },
+    {
+      "name": "Sergios",
+      "latitude": 36.207203,
+      "longitude": 28.139305
+    },
+    {
+      "name": "Sergtos",
+      "latitude": 36.207082,
+      "longitude": 28.139296
+    },
+    {
+      "name": "Servetas Apartments",
+      "latitude": 40.18918,
+      "longitude": 23.776729
+    },
+    {
+      "name": "Sevas Studios",
+      "latitude": 36.415172,
+      "longitude": 27.382533
+    },
+    {
+      "name": "Seven Pocket House",
+      "latitude": 40.643283,
+      "longitude": 22.947987
+    },
+    {
+      "name": "Sfiggos 54 Guest House",
+      "latitude": 37.956299,
+      "longitude": 23.7194
+    },
+    {
+      "name": "Sifis",
+      "latitude": 34.930486,
+      "longitude": 24.912555
+    },
+    {
+      "name": "sifnos-seaview",
+      "latitude": 36.977754,
+      "longitude": 24.723091
+    },
+    {
+      "name": "Sigalas",
+      "latitude": 37.098333,
+      "longitude": 25.797217
+    },
+    {
+      "name": "Sinos",
+      "latitude": 38.933121,
+      "longitude": 23.035832
+    },
+    {
+      "name": "Sir David Williams Guest House",
+      "latitude": 37.663875,
+      "longitude": 23.994791
+    },
+    {
+      "name": "Sirena Residence & SPA",
+      "latitude": 37.712197,
+      "longitude": 26.677193
+    },
+    {
+      "name": "Sirena Village",
+      "latitude": 37.711724,
+      "longitude": 26.676677
+    },
+    {
+      "name": "Sivros Stone Cottages",
+      "latitude": 38.672467,
+      "longitude": 20.647106
+    },
+    {
+      "name": "Skala",
+      "latitude": 39.49989,
+      "longitude": 19.854438
+    },
+    {
+      "name": "Skaris Homes",
+      "latitude": 37.638747,
+      "longitude": 25.041229
+    },
+    {
+      "name": "Skartsinis",
+      "latitude": 36.727205,
+      "longitude": 24.446711
+    },
+    {
+      "name": "Skyros Junior Studios",
+      "latitude": 38.919145,
+      "longitude": 24.576212
+    },
+    {
+      "name": "Sofia",
+      "latitude": 35.015,
+      "longitude": 24.781568
+    },
+    {
+      "name": "Sofia apartments",
+      "latitude": 37.699261,
+      "longitude": 26.743873
+    },
+    {
+      "name": "Sofia Rooms",
+      "latitude": 34.865281,
+      "longitude": 24.092219
+    },
+    {
+      "name": "Sofia Rooms",
+      "latitude": 35.200115,
+      "longitude": 24.078414
+    },
+    {
+      "name": "Sofia's",
+      "latitude": 37.48569,
+      "longitude": 22.992862
+    },
+    {
+      "name": "Solar",
+      "latitude": 40.77978,
+      "longitude": 24.616802
+    },
+    {
+      "name": "Sophie's",
+      "latitude": 36.686439,
+      "longitude": 23.035837
+    },
+    {
+      "name": "Spa Villa Skaloma",
+      "latitude": 38.399679,
+      "longitude": 21.994778
+    },
+    {
+      "name": "Spa Villas Nafpaktos",
+      "latitude": 38.379288,
+      "longitude": 21.809041
+    },
+    {
+      "name": "Spartacus House",
+      "latitude": 39.718789,
+      "longitude": 21.618086
+    },
+    {
+      "name": "Spiros",
+      "latitude": 36.41571,
+      "longitude": 27.386074
+    },
+    {
+      "name": "Spiros House",
+      "latitude": 39.723182,
+      "longitude": 19.665666
+    },
+    {
+      "name": "Spitia Katoi",
+      "latitude": 35.254576,
+      "longitude": 23.664783
+    },
+    {
+      "name": "St. Thomas'",
+      "latitude": 37.952401,
+      "longitude": 23.870642
+    },
+    {
+      "name": "STAM & JOHN",
+      "latitude": 36.889561,
+      "longitude": 27.298566
+    },
+    {
+      "name": "Stavros appartments",
+      "latitude": 35.52348,
+      "longitude": 23.862687
+    },
+    {
+      "name": "Stegna Sea & Sun",
+      "latitude": 36.206381,
+      "longitude": 28.139197
+    },
+    {
+      "name": "Stegna Star",
+      "latitude": 36.206265,
+      "longitude": 28.138713
+    },
+    {
+      "name": "Stelios Cave House",
+      "latitude": 37.542856,
+      "longitude": 25.219793
+    },
+    {
+      "name": "Stelios Rooms",
+      "latitude": 35.232252,
+      "longitude": 23.681638
+    },
+    {
+      "name": "Stella",
+      "latitude": 40.723058,
+      "longitude": 23.708251
+    },
+    {
+      "name": "Stella Apartments",
+      "latitude": 36.749814,
+      "longitude": 22.570374
+    },
+    {
+      "name": "Stella Maris Village",
+      "latitude": 36.851197,
+      "longitude": 27.212963
+    },
+    {
+      "name": "Stratos Beach Front and Sea View Apartments",
+      "latitude": 35.036093,
+      "longitude": 25.970057
+    },
+    {
+      "name": "Studio Margaritis",
+      "latitude": 39.282977,
+      "longitude": 20.409245
+    },
+    {
+      "name": "Studio Nefeli",
+      "latitude": 40.712355,
+      "longitude": 24.757594
+    },
+    {
+      "name": "Studio Petra",
+      "latitude": 37.005842,
+      "longitude": 25.390858
+    },
+    {
+      "name": "Studio Poseidon",
+      "latitude": 37.296593,
+      "longitude": 26.764919
+    },
+    {
+      "name": "Studio Zannes",
+      "latitude": 36.352215,
+      "longitude": 25.46933
+    },
+    {
+      "name": "Studios - Apartments Antuan & Matina",
+      "latitude": 36.212639,
+      "longitude": 28.141029
+    },
+    {
+      "name": "Studios Anagnastou",
+      "latitude": 40.231028,
+      "longitude": 23.611549
+    },
+    {
+      "name": "Studios and Apartments Viki",
+      "latitude": 40.707521,
+      "longitude": 24.756817
+    },
+    {
+      "name": "Studios Anessis",
+      "latitude": 35.02852,
+      "longitude": 24.759033
+    },
+    {
+      "name": "Studios Antonia",
+      "latitude": 36.731584,
+      "longitude": 24.447125
+    },
+    {
+      "name": "Studios Antonis",
+      "latitude": 35.197084,
+      "longitude": 24.39636
+    },
+    {
+      "name": "Studios Avra",
+      "latitude": 38.477447,
+      "longitude": 24.186313
+    },
+    {
+      "name": "Studios Avra",
+      "latitude": 39.171542,
+      "longitude": 23.342679
+    },
+    {
+      "name": "Studios Fanos",
+      "latitude": 36.936261,
+      "longitude": 25.615466
+    },
+    {
+      "name": "Studios Filippos",
+      "latitude": 39.115953,
+      "longitude": 23.733556
+    },
+    {
+      "name": "Studios Makis",
+      "latitude": 37.710281,
+      "longitude": 26.699438
+    },
+    {
+      "name": "Studios Marianthi",
+      "latitude": 40.189354,
+      "longitude": 23.776049
+    },
+    {
+      "name": "Studios Nelli",
+      "latitude": 39.149108,
+      "longitude": 23.869917
+    },
+    {
+      "name": "Studios Nina",
+      "latitude": 40.041917,
+      "longitude": 23.983353
+    },
+    {
+      "name": "Studios Oceanis",
+      "latitude": 37.710513,
+      "longitude": 26.698414
+    },
+    {
+      "name": "Studios Stegna Mare",
+      "latitude": 36.206323,
+      "longitude": 28.13922
+    },
+    {
+      "name": "studiozografies",
+      "latitude": 36.158161,
+      "longitude": 22.980217
+    },
+    {
+      "name": "Summer Dream",
+      "latitude": 39.544435,
+      "longitude": 19.851934
+    },
+    {
+      "name": "Sunday Studios",
+      "latitude": 37.070244,
+      "longitude": 25.354913
+    },
+    {
+      "name": "Sungate",
+      "latitude": 38.827896,
+      "longitude": 23.206128
+    },
+    {
+      "name": "Sunibel Rooms",
+      "latitude": 40.267837,
+      "longitude": 22.591983
+    },
+    {
+      "name": "Sunset",
+      "latitude": 35.027774,
+      "longitude": 24.822144
+    },
+    {
+      "name": "Sunset",
+      "latitude": 35.229986,
+      "longitude": 23.680124
+    },
+    {
+      "name": "Sunset Studios",
+      "latitude": 39.983386,
+      "longitude": 23.904327
+    },
+    {
+      "name": "Sunset Villas",
+      "latitude": 39.97193,
+      "longitude": 23.369868
+    },
+    {
+      "name": "Susanna's Pension",
+      "latitude": 35.005494,
+      "longitude": 25.583095
+    },
+    {
+      "name": "Swiss Home",
+      "latitude": 37.116436,
+      "longitude": 25.218296
+    },
+    {
+      "name": "Ta Kymata",
+      "latitude": 35.437485,
+      "longitude": 27.151937
+    },
+    {
+      "name": "Taf Boutique Villas",
+      "latitude": 36.889965,
+      "longitude": 27.213678
+    },
+    {
+      "name": "Talos Rooms",
+      "latitude": 35.517295,
+      "longitude": 24.015365
+    },
+    {
+      "name": "Tasos horses",
+      "latitude": 38.8965,
+      "longitude": 23.178261
+    },
+    {
+      "name": "Tasos Seagull Apartments",
+      "latitude": 35.511383,
+      "longitude": 24.00722
+    },
+    {
+      "name": "Tavern Ionio",
+      "latitude": 38.649038,
+      "longitude": 20.564691
+    },
+    {
+      "name": "Taxiarchis",
+      "latitude": 36.612198,
+      "longitude": 27.8415
+    },
+    {
+      "name": "Taygetos",
+      "latitude": 37.062154,
+      "longitude": 22.427062
+    },
+    {
+      "name": "Tereza studios",
+      "latitude": 36.849401,
+      "longitude": 22.257755
+    },
+    {
+      "name": "Thalassa Summer Villa",
+      "latitude": 40.127729,
+      "longitude": 23.764775
+    },
+    {
+      "name": "Thalia's",
+      "latitude": 39.110077,
+      "longitude": 26.558462
+    },
+    {
+      "name": "Thallasso Suites",
+      "latitude": 35.430775,
+      "longitude": 27.154224
+    },
+    {
+      "name": "Thassos Treasure",
+      "latitude": 40.758234,
+      "longitude": 24.579043
+    },
+    {
+      "name": "The Cabin",
+      "latitude": 37.216335,
+      "longitude": 21.666999
+    },
+    {
+      "name": "The Dreamhouse",
+      "latitude": 40.583844,
+      "longitude": 21.141238
+    },
+    {
+      "name": "The houses of dreams",
+      "latitude": 37.592474,
+      "longitude": 25.218435
+    },
+    {
+      "name": "The Life Suites Limnionas",
+      "latitude": 38.711196,
+      "longitude": 23.755157
+    },
+    {
+      "name": "The Old Phoenix",
+      "latitude": 35.200036,
+      "longitude": 24.072193
+    },
+    {
+      "name": "The Old Seaman",
+      "latitude": 38.459371,
+      "longitude": 20.575919
+    },
+    {
+      "name": "The Small Paradise",
+      "latitude": 35.200719,
+      "longitude": 24.067449
+    },
+    {
+      "name": "The Two Brothers",
+      "latitude": 39.286454,
+      "longitude": 20.398142
+    },
+    {
+      "name": "The Yellow Houses",
+      "latitude": 40.332289,
+      "longitude": 23.704523
+    },
+    {
+      "name": "Thea Apartment",
+      "latitude": 40.940308,
+      "longitude": 24.400263
+    },
+    {
+      "name": "THEA Monastiraki",
+      "latitude": 38.407299,
+      "longitude": 21.936977
+    },
+    {
+      "name": "Thelasa",
+      "latitude": 40.014101,
+      "longitude": 23.539483
+    },
+    {
+      "name": "Theotikou Apartments",
+      "latitude": 37.63882,
+      "longitude": 25.040358
+    },
+    {
+      "name": "Tholos Home",
+      "latitude": 35.327152,
+      "longitude": 24.508275
+    },
+    {
+      "name": "Three Craces",
+      "latitude": 36.760989,
+      "longitude": 27.08978
+    },
+    {
+      "name": "Three Craces",
+      "latitude": 36.761701,
+      "longitude": 27.089826
+    },
+    {
+      "name": "Tina's House",
+      "latitude": 36.919012,
+      "longitude": 21.702351
+    },
+    {
+      "name": "To Apxontiko",
+      "latitude": 38.460212,
+      "longitude": 20.576907
+    },
+    {
+      "name": "To Spiti",
+      "latitude": 35.516765,
+      "longitude": 24.021315
+    },
+    {
+      "name": "To Spiti Mas",
+      "latitude": 39.969846,
+      "longitude": 20.717867
+    },
+    {
+      "name": "Tony&Emi House",
+      "latitude": 40.730785,
+      "longitude": 24.001449
+    },
+    {
+      "name": "Trapezaki Villas",
+      "latitude": 38.124128,
+      "longitude": 20.608237
+    },
+    {
+      "name": "Trifilli Villas",
+      "latitude": 40.235688,
+      "longitude": 23.721106
+    },
+    {
+      "name": "Triptychon",
+      "latitude": 37.346513,
+      "longitude": 21.722511
+    },
+    {
+      "name": "Tsonis",
+      "latitude": 36.805665,
+      "longitude": 21.799825
+    },
+    {
+      "name": "Tsoukalas Ioannis (Yannis)",
+      "latitude": 37.646151,
+      "longitude": 21.316059
+    },
+    {
+      "name": "Tzatziki Studios",
+      "latitude": 40.942196,
+      "longitude": 24.420977
+    },
+    {
+      "name": "Urban Nest",
+      "latitude": 37.97814,
+      "longitude": 23.724751
+    },
+    {
+      "name": "Vaccata Hill",
+      "latitude": 38.121561,
+      "longitude": 20.624928
+    },
+    {
+      "name": "Valantis House",
+      "latitude": 35.370184,
+      "longitude": 24.474503
+    },
+    {
+      "name": "Valena Mare",
+      "latitude": 37.044133,
+      "longitude": 25.379949
+    },
+    {
+      "name": "Valeta studios",
+      "latitude": 37.631082,
+      "longitude": 26.093542
+    },
+    {
+      "name": "Valia Nostra",
+      "latitude": 40.057255,
+      "longitude": 21.12843
+    },
+    {
+      "name": "Valtes",
+      "latitude": 39.459431,
+      "longitude": 19.972751
+    },
+    {
+      "name": "Vanessa apartments",
+      "latitude": 37.710612,
+      "longitude": 26.704223
+    },
+    {
+      "name": "VAPORIA",
+      "latitude": 37.448486,
+      "longitude": 24.946877
+    },
+    {
+      "name": "Vasilikata",
+      "latitude": 35.17532,
+      "longitude": 25.503315
+    },
+    {
+      "name": "Vasilitsa Rooms",
+      "latitude": 40.061754,
+      "longitude": 21.123104
+    },
+    {
+      "name": "Veletas",
+      "latitude": 36.728174,
+      "longitude": 24.446048
+    },
+    {
+      "name": "Venetico Palazzo",
+      "latitude": 35.326809,
+      "longitude": 24.50991
+    },
+    {
+      "name": "Venus",
+      "latitude": 35.208386,
+      "longitude": 26.10523
+    },
+    {
+      "name": "Veroniki",
+      "latitude": 39.499441,
+      "longitude": 19.924468
+    },
+    {
+      "name": "Verris Suites",
+      "latitude": 39.576379,
+      "longitude": 19.908729
+    },
+    {
+      "name": "Victoria Country Rooms",
+      "latitude": 39.441104,
+      "longitude": 23.104307
+    },
+    {
+      "name": "Vigla Apartments",
+      "latitude": 37.712252,
+      "longitude": 26.700683
+    },
+    {
+      "name": "Viktor’s house by the sea",
+      "latitude": 39.45919,
+      "longitude": 19.97516
+    },
+    {
+      "name": "villa -palaiochora",
+      "latitude": 35.236063,
+      "longitude": 23.673065
+    },
+    {
+      "name": "Villa Ada",
+      "latitude": 40.077071,
+      "longitude": 23.324817
+    },
+    {
+      "name": "Villa Aglaia",
+      "latitude": 36.021448,
+      "longitude": 27.919359
+    },
+    {
+      "name": "Villa Agnanti",
+      "latitude": 41.098681,
+      "longitude": 23.677321
+    },
+    {
+      "name": "Villa Akroyali",
+      "latitude": 40.228609,
+      "longitude": 23.623854
+    },
+    {
+      "name": "Villa Alexa",
+      "latitude": 39.282797,
+      "longitude": 20.408614
+    },
+    {
+      "name": "Villa Alexandra",
+      "latitude": 39.459395,
+      "longitude": 19.973029
+    },
+    {
+      "name": "Villa Alexandra",
+      "latitude": 40.026061,
+      "longitude": 21.266983
+    },
+    {
+      "name": "Villa Amalthea",
+      "latitude": 39.736957,
+      "longitude": 19.926174
+    },
+    {
+      "name": "Villa Andreas",
+      "latitude": 39.283502,
+      "longitude": 20.412575
+    },
+    {
+      "name": "Villa Angie",
+      "latitude": 40.087048,
+      "longitude": 23.318041
+    },
+    {
+      "name": "Villa Anna",
+      "latitude": 39.807572,
+      "longitude": 19.837639
+    },
+    {
+      "name": "Villa Anna",
+      "latitude": 40.778189,
+      "longitude": 24.607
+    },
+    {
+      "name": "Villa Ariadni",
+      "latitude": 39.058925,
+      "longitude": 26.491422
+    },
+    {
+      "name": "Villa Arismari",
+      "latitude": 35.399402,
+      "longitude": 24.661941
+    },
+    {
+      "name": "Villa Artemida",
+      "latitude": 37.989759,
+      "longitude": 24.013921
+    },
+    {
+      "name": "Villa Athina",
+      "latitude": 39.261409,
+      "longitude": 23.289923
+    },
+    {
+      "name": "Villa Bakas",
+      "latitude": 39.283043,
+      "longitude": 20.408739
+    },
+    {
+      "name": "Villa Bambola",
+      "latitude": 40.243309,
+      "longitude": 23.269848
+    },
+    {
+      "name": "Villa Bella Maria",
+      "latitude": 40.229112,
+      "longitude": 23.607168
+    },
+    {
+      "name": "Villa Bella Maria.",
+      "latitude": 40.2292,
+      "longitude": 23.607253
+    },
+    {
+      "name": "Villa Bella Vista",
+      "latitude": 40.694256,
+      "longitude": 24.555116
+    },
+    {
+      "name": "Villa Birgitta",
+      "latitude": 40.231189,
+      "longitude": 23.612101
+    },
+    {
+      "name": "Villa Blue House",
+      "latitude": 40.303457,
+      "longitude": 23.092862
+    },
+    {
+      "name": "Villa Chrisanthi",
+      "latitude": 39.07859,
+      "longitude": 26.453484
+    },
+    {
+      "name": "Villa Clio",
+      "latitude": 36.350068,
+      "longitude": 25.464912
+    },
+    {
+      "name": "Villa Corfiota",
+      "latitude": 39.483841,
+      "longitude": 19.927678
+    },
+    {
+      "name": "Villa Costa",
+      "latitude": 37.12103,
+      "longitude": 21.581362
+    },
+    {
+      "name": "Villa Danae",
+      "latitude": 37.420788,
+      "longitude": 25.343784
+    },
+    {
+      "name": "Villa Daskalogianni",
+      "latitude": 35.190126,
+      "longitude": 25.014633
+    },
+    {
+      "name": "Villa Diana",
+      "latitude": 40.171695,
+      "longitude": 23.721525
+    },
+    {
+      "name": "Villa Dimitrios",
+      "latitude": 40.189992,
+      "longitude": 23.775539
+    },
+    {
+      "name": "VILLA DIMITRIS",
+      "latitude": 40.015965,
+      "longitude": 22.589219
+    },
+    {
+      "name": "Villa Dora",
+      "latitude": 38.368948,
+      "longitude": 20.718714
+    },
+    {
+      "name": "Villa Ekali",
+      "latitude": 40.626567,
+      "longitude": 24.565153
+    },
+    {
+      "name": "Villa Elina",
+      "latitude": 37.470412,
+      "longitude": 25.320266
+    },
+    {
+      "name": "Villa Ellena Kythnos",
+      "latitude": 37.394012,
+      "longitude": 24.397979
+    },
+    {
+      "name": "Villa Fani",
+      "latitude": 40.292137,
+      "longitude": 23.693827
+    },
+    {
+      "name": "Villa Fotaki",
+      "latitude": 36.880755,
+      "longitude": 27.239225
+    },
+    {
+      "name": "Villa Fotini",
+      "latitude": 39.408214,
+      "longitude": 20.24044
+    },
+    {
+      "name": "Villa Fun & Sun",
+      "latitude": 40.626706,
+      "longitude": 24.565101
+    },
+    {
+      "name": "Villa Giallo",
+      "latitude": 38.196018,
+      "longitude": 23.053344
+    },
+    {
+      "name": "Villa Giasemi",
+      "latitude": 35.399484,
+      "longitude": 24.662139
+    },
+    {
+      "name": "VILLA GLYKERIA",
+      "latitude": 35.235961,
+      "longitude": 23.671969
+    },
+    {
+      "name": "Villa Gorgona",
+      "latitude": 36.709471,
+      "longitude": 25.294658
+    },
+    {
+      "name": "Villa Hestia",
+      "latitude": 36.889171,
+      "longitude": 27.21639
+    },
+    {
+      "name": "Villa Houla",
+      "latitude": 39.282921,
+      "longitude": 20.407268
+    },
+    {
+      "name": "Villa Ioanna",
+      "latitude": 40.227225,
+      "longitude": 23.654018
+    },
+    {
+      "name": "Villa Ioli",
+      "latitude": 38.833824,
+      "longitude": 20.67836
+    },
+    {
+      "name": "Villa Iornna",
+      "latitude": 35.183186,
+      "longitude": 24.411317
+    },
+    {
+      "name": "Villa Irina",
+      "latitude": 40.040986,
+      "longitude": 23.983612
+    },
+    {
+      "name": "Villa Irini",
+      "latitude": 35.326874,
+      "longitude": 24.509095
+    },
+    {
+      "name": "Villa Irinikos",
+      "latitude": 35.404698,
+      "longitude": 24.704831
+    },
+    {
+      "name": "Villa Jannis",
+      "latitude": 39.282816,
+      "longitude": 20.408791
+    },
+    {
+      "name": "Villa Jodi",
+      "latitude": 35.021067,
+      "longitude": 24.77999
+    },
+    {
+      "name": "Villa Kalliopi",
+      "latitude": 37.755381,
+      "longitude": 21.305629
+    },
+    {
+      "name": "Villa katina",
+      "latitude": 37.698147,
+      "longitude": 26.752433
+    },
+    {
+      "name": "Villa Kitrini",
+      "latitude": 37.212899,
+      "longitude": 21.665558
+    },
+    {
+      "name": "Villa Lambros",
+      "latitude": 35.305556,
+      "longitude": 24.368678
+    },
+    {
+      "name": "Villa Libertad",
+      "latitude": 36.4352,
+      "longitude": 25.422873
+    },
+    {
+      "name": "Villa Limanaki",
+      "latitude": 38.835227,
+      "longitude": 20.70717
+    },
+    {
+      "name": "Villa Limnes",
+      "latitude": 36.349371,
+      "longitude": 25.46594
+    },
+    {
+      "name": "Villa Livadaros",
+      "latitude": 36.410662,
+      "longitude": 25.449409
+    },
+    {
+      "name": "Villa Manolis",
+      "latitude": 36.092863,
+      "longitude": 28.088004
+    },
+    {
+      "name": "Villa Maria",
+      "latitude": 36.362586,
+      "longitude": 25.393032
+    },
+    {
+      "name": "Villa Maria",
+      "latitude": 40.09808,
+      "longitude": 23.978416
+    },
+    {
+      "name": "Villa Maria Vekri",
+      "latitude": 36.93463,
+      "longitude": 25.602107
+    },
+    {
+      "name": "Villa Marika",
+      "latitude": 38.368986,
+      "longitude": 20.718514
+    },
+    {
+      "name": "Villa Marina",
+      "latitude": 36.991723,
+      "longitude": 25.139997
+    },
+    {
+      "name": "Villa Marina",
+      "latitude": 40.218407,
+      "longitude": 23.66281
+    },
+    {
+      "name": "Villa Marise",
+      "latitude": 35.233112,
+      "longitude": 23.678703
+    },
+    {
+      "name": "Villa Mayroula",
+      "latitude": 39.689526,
+      "longitude": 19.810867
+    },
+    {
+      "name": "Villa Meeresblick",
+      "latitude": 39.79321,
+      "longitude": 19.80674
+    },
+    {
+      "name": "Villa Melini",
+      "latitude": 39.149488,
+      "longitude": 23.869934
+    },
+    {
+      "name": "Villa Mertiza",
+      "latitude": 35.005699,
+      "longitude": 25.58384
+    },
+    {
+      "name": "Villa Miguela",
+      "latitude": 35.518984,
+      "longitude": 23.8254
+    },
+    {
+      "name": "Villa Milia",
+      "latitude": 38.787398,
+      "longitude": 20.613011
+    },
+    {
+      "name": "Villa Mina",
+      "latitude": 39.264684,
+      "longitude": 23.288507
+    },
+    {
+      "name": "Villa Nico",
+      "latitude": 39.428598,
+      "longitude": 19.944956
+    },
+    {
+      "name": "Villa Niki",
+      "latitude": 35.200203,
+      "longitude": 24.078319
+    },
+    {
+      "name": "villa NITES",
+      "latitude": 37.388563,
+      "longitude": 24.923098
+    },
+    {
+      "name": "Villa Olive",
+      "latitude": 39.701422,
+      "longitude": 19.835161
+    },
+    {
+      "name": "Villa Olympia",
+      "latitude": 40.267707,
+      "longitude": 22.591956
+    },
+    {
+      "name": "Villa Oriana",
+      "latitude": 41.218456,
+      "longitude": 23.081092
+    },
+    {
+      "name": "Villa Panorama",
+      "latitude": 35.013544,
+      "longitude": 24.784129
+    },
+    {
+      "name": "Villa Paris",
+      "latitude": 35.041789,
+      "longitude": 26.231925
+    },
+    {
+      "name": "Villa Pefkakia",
+      "latitude": 38.876834,
+      "longitude": 20.79507
+    },
+    {
+      "name": "Villa Rania Apartments",
+      "latitude": 40.709645,
+      "longitude": 24.758169
+    },
+    {
+      "name": "Villa Rena-Christina",
+      "latitude": 35.233838,
+      "longitude": 23.685392
+    },
+    {
+      "name": "Villa Rodanthos",
+      "latitude": 37.692357,
+      "longitude": 23.457303
+    },
+    {
+      "name": "Villa Rosanna",
+      "latitude": 39.454392,
+      "longitude": 20.274648
+    },
+    {
+      "name": "Villa Roula",
+      "latitude": 40.626724,
+      "longitude": 24.571195
+    },
+    {
+      "name": "Villa Roussa",
+      "latitude": 36.417038,
+      "longitude": 25.433305
+    },
+    {
+      "name": "Villa Samaya",
+      "latitude": 40.188125,
+      "longitude": 23.799988
+    },
+    {
+      "name": "Villa Savallas (AirBnB)",
+      "latitude": 39.702703,
+      "longitude": 19.840659
+    },
+    {
+      "name": "Villa Silvia",
+      "latitude": 39.288118,
+      "longitude": 20.388573
+    },
+    {
+      "name": "Villa Sofia",
+      "latitude": 36.798544,
+      "longitude": 21.951413
+    },
+    {
+      "name": "Villa Sofia",
+      "latitude": 38.127045,
+      "longitude": 20.603039
+    },
+    {
+      "name": "Villa Sofia",
+      "latitude": 40.628292,
+      "longitude": 24.576437
+    },
+    {
+      "name": "Villa Spartandom",
+      "latitude": 40.269536,
+      "longitude": 23.450598
+    },
+    {
+      "name": "Villa Spiridoula",
+      "latitude": 36.359337,
+      "longitude": 25.47237
+    },
+    {
+      "name": "Villa Squirel",
+      "latitude": 40.228645,
+      "longitude": 23.609282
+    },
+    {
+      "name": "Villa Theo",
+      "latitude": 36.97955,
+      "longitude": 22.152065
+    },
+    {
+      "name": "Villa Thomi",
+      "latitude": 40.770561,
+      "longitude": 24.602616
+    },
+    {
+      "name": "Villa Verde",
+      "latitude": 38.19602,
+      "longitude": 23.053318
+    },
+    {
+      "name": "Villa Vista apartments & Studios",
+      "latitude": 35.319265,
+      "longitude": 25.566413
+    },
+    {
+      "name": "Villa Vlachos",
+      "latitude": 39.795688,
+      "longitude": 19.812304
+    },
+    {
+      "name": "Villa Xsenia",
+      "latitude": 40.710444,
+      "longitude": 23.702423
+    },
+    {
+      "name": "Villa's Νεραιδοσηηλιος",
+      "latitude": 35.239733,
+      "longitude": 25.1578
+    },
+    {
+      "name": "Village Ναϊαδες",
+      "latitude": 40.473659,
+      "longitude": 21.291825
+    },
+    {
+      "name": "VillaMarinaTheologos",
+      "latitude": 38.679253,
+      "longitude": 23.194013
+    },
+    {
+      "name": "Villanostos",
+      "latitude": 35.003638,
+      "longitude": 25.586591
+    },
+    {
+      "name": "Villas Alexandros",
+      "latitude": 35.024316,
+      "longitude": 24.759752
+    },
+    {
+      "name": "Villas Kozilis - Kozilis Estate",
+      "latitude": 35.180949,
+      "longitude": 24.412184
+    },
+    {
+      "name": "Ville du Soleil",
+      "latitude": 35.02726,
+      "longitude": 26.007884
+    },
+    {
+      "name": "Villia Chloe",
+      "latitude": 37.470094,
+      "longitude": 25.32251
+    },
+    {
+      "name": "Villia Chloe",
+      "latitude": 37.482837,
+      "longitude": 25.310125
+    },
+    {
+      "name": "Vistonia",
+      "latitude": 39.718968,
+      "longitude": 19.677708
+    },
+    {
+      "name": "Voukamvilia Apartments",
+      "latitude": 37.639159,
+      "longitude": 25.044793
+    },
+    {
+      "name": "Voula",
+      "latitude": 34.929527,
+      "longitude": 24.914778
+    },
+    {
+      "name": "Voula Beach",
+      "latitude": 36.826381,
+      "longitude": 25.86275
+    },
+    {
+      "name": "Voulamandis House",
+      "latitude": 38.321775,
+      "longitude": 26.135425
+    },
+    {
+      "name": "Vour 52",
+      "latitude": 40.18194,
+      "longitude": 23.798387
+    },
+    {
+      "name": "Vrachos Κanari",
+      "latitude": 37.523625,
+      "longitude": 22.733756
+    },
+    {
+      "name": "Wallnut Tree Villa",
+      "latitude": 38.239497,
+      "longitude": 20.627622
+    },
+    {
+      "name": "White Tinos",
+      "latitude": 37.575666,
+      "longitude": 25.198602
+    },
+    {
+      "name": "Whites Villas",
+      "latitude": 37.738609,
+      "longitude": 21.312015
+    },
+    {
+      "name": "Wild Life",
+      "latitude": 39.271986,
+      "longitude": 21.697686
+    },
+    {
+      "name": "Wind and Stone Apartments",
+      "latitude": 35.230071,
+      "longitude": 23.961527
+    },
+    {
+      "name": "Windmill Villa",
+      "latitude": 36.931027,
+      "longitude": 25.594973
+    },
+    {
+      "name": "Windy place",
+      "latitude": 35.212314,
+      "longitude": 24.71299
+    },
+    {
+      "name": "Wooden Nest",
+      "latitude": 38.475175,
+      "longitude": 24.18888
+    },
+    {
+      "name": "Xenia Apartments",
+      "latitude": 38.633135,
+      "longitude": 20.597235
+    },
+    {
+      "name": "Xenofina's House",
+      "latitude": 35.200228,
+      "longitude": 24.079096
+    },
+    {
+      "name": "Xenon Apollonos",
+      "latitude": 37.445227,
+      "longitude": 24.945043
+    },
+    {
+      "name": "Xenonas Alexandra's Coffee House",
+      "latitude": 37.874617,
+      "longitude": 20.658272
+    },
+    {
+      "name": "Yannis Appartments",
+      "latitude": 35.337055,
+      "longitude": 25.070121
+    },
+    {
+      "name": "Zacharo Rooms (Jimmy's)",
+      "latitude": 36.430984,
+      "longitude": 25.344133
+    },
+    {
+      "name": "Zantehill Apartments",
+      "latitude": 37.727467,
+      "longitude": 20.974982
+    },
+    {
+      "name": "Zantina",
+      "latitude": 35.367007,
+      "longitude": 24.493857
+    },
+    {
+      "name": "Zervakis Apartaments",
+      "latitude": 35.017963,
+      "longitude": 25.847981
+    },
+    {
+      "name": "Zeus Bay Villa",
+      "latitude": 35.45841,
+      "longitude": 24.218206
+    },
+    {
+      "name": "Ziakas Rooms",
+      "latitude": 40.02828,
+      "longitude": 21.262782
+    },
+    {
+      "name": "Ziros apartments",
+      "latitude": 35.041554,
+      "longitude": 26.232603
+    },
+    {
+      "name": "Zografakis",
+      "latitude": 35.284656,
+      "longitude": 24.335036
+    },
+    {
+      "name": "Zorbas",
+      "latitude": 35.24844,
+      "longitude": 23.809647
+    },
+    {
+      "name": "Zotos Studio",
+      "latitude": 38.632103,
+      "longitude": 20.604884
+    },
+    {
+      "name": "Zygos",
+      "latitude": 35.232983,
+      "longitude": 23.679201
+    },
+    {
+      "name": "Άγιος Παύλος",
+      "latitude": 37.38648,
+      "longitude": 24.891564
+    },
+    {
+      "name": "Άγκυρα",
+      "latitude": 38.964783,
+      "longitude": 23.380896
+    },
+    {
+      "name": "Άρτεμις",
+      "latitude": 38.593515,
+      "longitude": 22.330831
+    },
+    {
+      "name": "Άρτεμις",
+      "latitude": 38.916612,
+      "longitude": 21.792787
+    },
+    {
+      "name": "Έλοβα",
+      "latitude": 37.591473,
+      "longitude": 22.030704
+    },
+    {
+      "name": "Ίταμος",
+      "latitude": 37.99702,
+      "longitude": 22.479914
+    },
+    {
+      "name": "Α' Μονιμη",
+      "latitude": 40.636666,
+      "longitude": 22.94265
+    },
+    {
+      "name": "Αίολος",
+      "latitude": 38.002918,
+      "longitude": 22.479849
+    },
+    {
+      "name": "Αγέρι",
+      "latitude": 38.908364,
+      "longitude": 21.809925
+    },
+    {
+      "name": "Αγραφα Ζαρκάδας",
+      "latitude": 39.346396,
+      "longitude": 21.696334
+    },
+    {
+      "name": "Αγρόκτημα",
+      "latitude": 37.155434,
+      "longitude": 22.885679
+    },
+    {
+      "name": "Αγρόκτημα Φλέα",
+      "latitude": 37.164612,
+      "longitude": 26.834546
+    },
+    {
+      "name": "Αιολίδες",
+      "latitude": 39.82278,
+      "longitude": 20.725552
+    },
+    {
+      "name": "Ακρογιάλι",
+      "latitude": 37.765482,
+      "longitude": 24.954631
+    },
+    {
+      "name": "Ακρολίθι",
+      "latitude": 36.698984,
+      "longitude": 22.378144
+    },
+    {
+      "name": "Αλέξανδρος",
+      "latitude": 40.406626,
+      "longitude": 21.06507
+    },
+    {
+      "name": "Αλεχισ Σορμπασ",
+      "latitude": 35.016754,
+      "longitude": 24.780065
+    },
+    {
+      "name": "Αλισάχνη",
+      "latitude": 36.727227,
+      "longitude": 24.444782
+    },
+    {
+      "name": "Αλκυόνη",
+      "latitude": 41.134247,
+      "longitude": 23.213326
+    },
+    {
+      "name": "Ανατολη",
+      "latitude": 36.931766,
+      "longitude": 25.604206
+    },
+    {
+      "name": "Ανδριτσαινα Παραδοσιακός Ξενώνας",
+      "latitude": 37.482144,
+      "longitude": 21.903734
+    },
+    {
+      "name": "Ανεμόμυλοι",
+      "latitude": 38.269652,
+      "longitude": 24.16019
+    },
+    {
+      "name": "Ανεμόμυλος",
+      "latitude": 37.452664,
+      "longitude": 24.934517
+    },
+    {
+      "name": "Απολυμένη πέτρα",
+      "latitude": 40.426528,
+      "longitude": 23.499887
+    },
+    {
+      "name": "Απόδραση-Δωμάτια",
+      "latitude": 37.575606,
+      "longitude": 25.19626
+    },
+    {
+      "name": "Αρέθουσα",
+      "latitude": 37.472668,
+      "longitude": 22.076656
+    },
+    {
+      "name": "Αρίων",
+      "latitude": 37.448775,
+      "longitude": 24.947747
+    },
+    {
+      "name": "Αραχωβίτικα Καλύβια",
+      "latitude": 37.28524,
+      "longitude": 22.46125
+    },
+    {
+      "name": "Αργώ",
+      "latitude": 35.498403,
+      "longitude": 23.653977
+    },
+    {
+      "name": "Αρκουδόρεμα",
+      "latitude": 39.978564,
+      "longitude": 21.116441
+    },
+    {
+      "name": "ΑΡΚΩ",
+      "latitude": 40.320525,
+      "longitude": 22.263356
+    },
+    {
+      "name": "Αρμενόπετρα",
+      "latitude": 36.482752,
+      "longitude": 22.400178
+    },
+    {
+      "name": "Αρτεμισ",
+      "latitude": 35.230426,
+      "longitude": 23.958837
+    },
+    {
+      "name": "Αρχοντικό",
+      "latitude": 38.826726,
+      "longitude": 21.744331
+    },
+    {
+      "name": "Αρχοντικό Iris",
+      "latitude": 39.382107,
+      "longitude": 23.181063
+    },
+    {
+      "name": "Αρχοντικό Ευριδίκης",
+      "latitude": 39.87506,
+      "longitude": 20.749046
+    },
+    {
+      "name": "Αρχοντικό Κίτσου - BOUTIQUE HOTEL",
+      "latitude": 40.515877,
+      "longitude": 21.274302
+    },
+    {
+      "name": "Αρχοντικό Νίκη",
+      "latitude": 39.389868,
+      "longitude": 23.172093
+    },
+    {
+      "name": "Ασβεστά",
+      "latitude": 39.112272,
+      "longitude": 26.558237
+    },
+    {
+      "name": "Αχαϊκό χωριό",
+      "latitude": 38.142158,
+      "longitude": 22.057611
+    },
+    {
+      "name": "Βάττυνα",
+      "latitude": 40.432704,
+      "longitude": 21.095229
+    },
+    {
+      "name": "Βίλλα Μαίρη",
+      "latitude": 40.242519,
+      "longitude": 23.719352
+    },
+    {
+      "name": "Βαθύσκια",
+      "latitude": 37.998477,
+      "longitude": 22.478157
+    },
+    {
+      "name": "Βαρόσι",
+      "latitude": 40.801406,
+      "longitude": 22.053262
+    },
+    {
+      "name": "Βασίλος",
+      "latitude": 39.300057,
+      "longitude": 21.605024
+    },
+    {
+      "name": "Βουκελαρι",
+      "latitude": 35.192177,
+      "longitude": 24.369036
+    },
+    {
+      "name": "Βουρλής",
+      "latitude": 37.448666,
+      "longitude": 24.947515
+    },
+    {
+      "name": "Βυθός",
+      "latitude": 36.72699,
+      "longitude": 24.448641
+    },
+    {
+      "name": "Βυσσινόκηπος",
+      "latitude": 40.553203,
+      "longitude": 21.252134
+    },
+    {
+      "name": "Γηροκομείο",
+      "latitude": 39.091925,
+      "longitude": 26.550332
+    },
+    {
+      "name": "Γιαλάσι, Παλαιά Επίδαυρος",
+      "latitude": 37.616969,
+      "longitude": 23.153523
+    },
+    {
+      "name": "Γιαννισ",
+      "latitude": 35.23037,
+      "longitude": 23.960546
+    },
+    {
+      "name": "Γόργιανη",
+      "latitude": 38.905312,
+      "longitude": 22.128902
+    },
+    {
+      "name": "Δέσποινα",
+      "latitude": 38.850972,
+      "longitude": 22.989082
+    },
+    {
+      "name": "Δημητσάνας Τόπος,",
+      "latitude": 37.595954,
+      "longitude": 22.04231
+    },
+    {
+      "name": "Δημοτικός Ξενώνας Χιονάτου",
+      "latitude": 40.476078,
+      "longitude": 21.015425
+    },
+    {
+      "name": "ΔΙΑΜΕΡΙΣΜΑΤΑ ΑΡΒΑΝΙΤΑΚΗ",
+      "latitude": 36.888344,
+      "longitude": 27.273416
+    },
+    {
+      "name": "ΔΙΑΜΕΡΙΣΜΑΤΑ ΒΑΚΑΛΑΤΙ",
+      "latitude": 36.880066,
+      "longitude": 27.252193
+    },
+    {
+      "name": "Δρυάδες",
+      "latitude": 38.616797,
+      "longitude": 21.885609
+    },
+    {
+      "name": "Δρυόφυλο",
+      "latitude": 39.826054,
+      "longitude": 20.747965
+    },
+    {
+      "name": "ΕVΑΝTHIΑ",
+      "latitude": 35.01504,
+      "longitude": 24.781425
+    },
+    {
+      "name": "Ειρεσιώνη",
+      "latitude": 38.482501,
+      "longitude": 22.589955
+    },
+    {
+      "name": "Ελατόδασος",
+      "latitude": 40.444647,
+      "longitude": 23.514989
+    },
+    {
+      "name": "Εν Πρεβέζη-In Preveza",
+      "latitude": 38.958172,
+      "longitude": 20.754484
+    },
+    {
+      "name": "Ενοικιαζομενα Δωματια Ν.Νικολαου",
+      "latitude": 37.847348,
+      "longitude": 21.110171
+    },
+    {
+      "name": "Ενοικιαζόμενα Δωμάτια Μορφέας",
+      "latitude": 37.447755,
+      "longitude": 24.900186
+    },
+    {
+      "name": "Εξοχική Οικία Φράγκου",
+      "latitude": 37.932928,
+      "longitude": 24.010705
+    },
+    {
+      "name": "Επίδαυρος",
+      "latitude": 37.983912,
+      "longitude": 23.724723
+    },
+    {
+      "name": "Επκουρειος Απολλων",
+      "latitude": 37.484088,
+      "longitude": 21.904502
+    },
+    {
+      "name": "Ερατώ",
+      "latitude": 39.99269,
+      "longitude": 22.570897
+    },
+    {
+      "name": "ΕΡΓΟΣΤΑΣΙΟ",
+      "latitude": 35.496084,
+      "longitude": 23.653876
+    },
+    {
+      "name": "Ζελινιά",
+      "latitude": 39.873614,
+      "longitude": 20.748703
+    },
+    {
+      "name": "Ζουμπούλης",
+      "latitude": 39.112146,
+      "longitude": 26.558024
+    },
+    {
+      "name": "Η Γωνιά",
+      "latitude": 38.843596,
+      "longitude": 21.730739
+    },
+    {
+      "name": "Η Συντροφιά",
+      "latitude": 40.830147,
+      "longitude": 21.030225
+    },
+    {
+      "name": "Η ΦΤΕΡΗ",
+      "latitude": 40.049869,
+      "longitude": 20.625694
+    },
+    {
+      "name": "Η Φωλίτσα",
+      "latitude": 38.831194,
+      "longitude": 21.742593
+    },
+    {
+      "name": "Ηρω Δωματια",
+      "latitude": 39.968408,
+      "longitude": 20.728313
+    },
+    {
+      "name": "Θάλεια",
+      "latitude": 38.937355,
+      "longitude": 23.071439
+    },
+    {
+      "name": "Θέα Βαλτεσινίκου",
+      "latitude": 37.707549,
+      "longitude": 22.095939
+    },
+    {
+      "name": "Θέτις",
+      "latitude": 35.190617,
+      "longitude": 24.396662
+    },
+    {
+      "name": "Θεομήτωρ",
+      "latitude": 35.363473,
+      "longitude": 24.467547
+    },
+    {
+      "name": "Θεοξένια",
+      "latitude": 37.626163,
+      "longitude": 22.220337
+    },
+    {
+      "name": "Θεωδόρα",
+      "latitude": 39.669347,
+      "longitude": 20.43083
+    },
+    {
+      "name": "Ισμέτ Δωμάτια",
+      "latitude": 41.348526,
+      "longitude": 25.009938
+    },
+    {
+      "name": "Κάσα Αμέρου",
+      "latitude": 39.852705,
+      "longitude": 21.229157
+    },
+    {
+      "name": "Κέραμος",
+      "latitude": 35.130453,
+      "longitude": 24.904151
+    },
+    {
+      "name": "Καλλίπολις",
+      "latitude": 38.528451,
+      "longitude": 22.195667
+    },
+    {
+      "name": "Καμάρες",
+      "latitude": 39.903492,
+      "longitude": 20.821479
+    },
+    {
+      "name": "Κασαρας",
+      "latitude": 38.881494,
+      "longitude": 22.776537
+    },
+    {
+      "name": "ΚΑΣΤΡΟ",
+      "latitude": 35.23077,
+      "longitude": 23.960304
+    },
+    {
+      "name": "Καταρράκτης",
+      "latitude": 39.448259,
+      "longitude": 21.101118
+    },
+    {
+      "name": "Καταφύγι",
+      "latitude": 39.44926,
+      "longitude": 21.105561
+    },
+    {
+      "name": "Καταφύγιο Κροκυλίου",
+      "latitude": 38.553822,
+      "longitude": 22.05154
+    },
+    {
+      "name": "Κατζηνικολάου",
+      "latitude": 38.855423,
+      "longitude": 23.045108
+    },
+    {
+      "name": "ΚΕΔΡΟΣ Αυτοδιαχειριζόμενες κατοικίες μέσα στο δάσος",
+      "latitude": 40.529609,
+      "longitude": 23.692518
+    },
+    {
+      "name": "ΚΕΝΤΡΑ ΞΕΝΩΝ ΓΛΩΣΣΩΝ ΚΟΥΤΣΑΝΤΩΝΗ",
+      "latitude": 38.227959,
+      "longitude": 21.742681
+    },
+    {
+      "name": "Κερκινίτης",
+      "latitude": 41.136724,
+      "longitude": 23.21428
+    },
+    {
+      "name": "Κονίσκος",
+      "latitude": 38.900228,
+      "longitude": 21.776159
+    },
+    {
+      "name": "ΚΟΡΑΚΑ ΕΝΟΙΚ",
+      "latitude": 39.10871,
+      "longitude": 26.555415
+    },
+    {
+      "name": "ΚΟΥΤΣΑΦΤΗ ΕΝΟΙΚ",
+      "latitude": 39.069913,
+      "longitude": 26.58832
+    },
+    {
+      "name": "Κτήμα Μαυροκεφαλου",
+      "latitude": 38.830664,
+      "longitude": 20.673797
+    },
+    {
+      "name": "Κτήμα Παπαδόπουλου",
+      "latitude": 41.023734,
+      "longitude": 24.364882
+    },
+    {
+      "name": "Κτήμα Φακής",
+      "latitude": 40.096952,
+      "longitude": 22.489649
+    },
+    {
+      "name": "ΚΤΗΜΑ",
+      "latitude": 38.45012,
+      "longitude": 21.32653
+    },
+    {
+      "name": "ΚΤΙΡΙΟ ΑΤΖΕΜΙΑΝ Β.-ΣΑΡΑΝΤΟΥ Μ.",
+      "latitude": 37.795911,
+      "longitude": 26.702585
+    },
+    {
+      "name": "Κυθναϊκή Εστία",
+      "latitude": 37.393761,
+      "longitude": 24.398988
+    },
+    {
+      "name": "Κόσμος",
+      "latitude": 37.42216,
+      "longitude": 24.882252
+    },
+    {
+      "name": "Λεβάντα",
+      "latitude": 38.001606,
+      "longitude": 22.472908
+    },
+    {
+      "name": "Λελούδα",
+      "latitude": 38.933051,
+      "longitude": 21.901998
+    },
+    {
+      "name": "Λευκα Ορι",
+      "latitude": 35.22982,
+      "longitude": 23.960722
+    },
+    {
+      "name": "Λεωνίδας",
+      "latitude": 35.016061,
+      "longitude": 24.778527
+    },
+    {
+      "name": "ΛΙΒΙΚΟΝ",
+      "latitude": 35.230672,
+      "longitude": 23.960771
+    },
+    {
+      "name": "Λιμναίο",
+      "latitude": 41.183622,
+      "longitude": 23.238361
+    },
+    {
+      "name": "Λιχοβό",
+      "latitude": 39.969086,
+      "longitude": 20.717783
+    },
+    {
+      "name": "Λυγαριές Δωμάτια-Διαμερίσματα",
+      "latitude": 37.446783,
+      "longitude": 24.902139
+    },
+    {
+      "name": "Μαγεμένο Βουνό",
+      "latitude": 38.864218,
+      "longitude": 21.766257
+    },
+    {
+      "name": "ΜΑΝΟΣ",
+      "latitude": 35.229838,
+      "longitude": 23.960379
+    },
+    {
+      "name": "Μαρία Πάτρα",
+      "latitude": 38.243558,
+      "longitude": 21.7405
+    },
+    {
+      "name": "Μαργαρίτα",
+      "latitude": 37.346765,
+      "longitude": 24.432442
+    },
+    {
+      "name": "Μαριάνθη",
+      "latitude": 40.666343,
+      "longitude": 23.695089
+    },
+    {
+      "name": "Μαρούσω",
+      "latitude": 36.787642,
+      "longitude": 25.801872
+    },
+    {
+      "name": "Μασχαλι",
+      "latitude": 35.229455,
+      "longitude": 23.953088
+    },
+    {
+      "name": "ΜΑΤΖΑΤΟ",
+      "latitude": 39.883402,
+      "longitude": 20.745876
+    },
+    {
+      "name": "Μαυραγανέϊκο",
+      "latitude": 37.998318,
+      "longitude": 22.471269
+    },
+    {
+      "name": "Μετόχι",
+      "latitude": 34.832329,
+      "longitude": 24.100942
+    },
+    {
+      "name": "Μιαριτης",
+      "latitude": 39.345996,
+      "longitude": 21.696883
+    },
+    {
+      "name": "Μικρή Άρκτος (Mikri Arktos Hotel)",
+      "latitude": 39.499828,
+      "longitude": 21.539932
+    },
+    {
+      "name": "Μικρό Παρίσι",
+      "latitude": 36.793142,
+      "longitude": 24.576973
+    },
+    {
+      "name": "Μορφέας",
+      "latitude": 36.989887,
+      "longitude": 24.679812
+    },
+    {
+      "name": "Μουσικό Πανδοχείο",
+      "latitude": 38.583024,
+      "longitude": 23.837133
+    },
+    {
+      "name": "Μούσες",
+      "latitude": 40.486951,
+      "longitude": 21.217823
+    },
+    {
+      "name": "Μπεσσας Ευαγγελος",
+      "latitude": 38.88197,
+      "longitude": 22.775695
+    },
+    {
+      "name": "Νακαράκη",
+      "latitude": 38.580911,
+      "longitude": 23.837759
+    },
+    {
+      "name": "Ναπολέων Ζαγκλής",
+      "latitude": 39.584158,
+      "longitude": 21.123215
+    },
+    {
+      "name": "Ναϊάδες",
+      "latitude": 38.002141,
+      "longitude": 22.478683
+    },
+    {
+      "name": "Νεράιδα",
+      "latitude": 38.916454,
+      "longitude": 21.785117
+    },
+    {
+      "name": "Νικοσ",
+      "latitude": 35.01498,
+      "longitude": 24.782493
+    },
+    {
+      "name": "ΝΙΚΟΣ & KARIN",
+      "latitude": 37.665165,
+      "longitude": 26.883033
+    },
+    {
+      "name": "ΝΟΥΦΑΡΟ",
+      "latitude": 39.079737,
+      "longitude": 26.575628
+    },
+    {
+      "name": "Νόστος",
+      "latitude": 40.840493,
+      "longitude": 21.768925
+    },
+    {
+      "name": "Νύμφες",
+      "latitude": 38.001594,
+      "longitude": 22.476574
+    },
+    {
+      "name": "Ξένιος Ζεύς",
+      "latitude": 41.198697,
+      "longitude": 24.706262
+    },
+    {
+      "name": "ΞΕΝΩΝΑΣ ΑΝΑΣΤΑΣΙΑ",
+      "latitude": 40.412985,
+      "longitude": 21.062089
+    },
+    {
+      "name": "ΞΕΝΩΝΑΣ ΒΑΛΕΝΤΙΝΗ",
+      "latitude": 38.911635,
+      "longitude": 21.795712
+    },
+    {
+      "name": "Ξενωνας Ηλικιωμενων \"Βασιλειαδα\"",
+      "latitude": 37.69575,
+      "longitude": 21.401194
+    },
+    {
+      "name": "ΞΕΝΩΝΑΣ ΙΩΑΝΝΗΣ ΠΑΠΑΜΑΣΤΟΡΑΚΗΣ",
+      "latitude": 35.211781,
+      "longitude": 24.897659
+    },
+    {
+      "name": "ΞΕΝΩΝΑΣ ΚΑΡΒΕΛΗ",
+      "latitude": 38.988329,
+      "longitude": 21.820156
+    },
+    {
+      "name": "Ξενώνας \"Κωνσταντίνος Μπάκαρης\"",
+      "latitude": 40.51515,
+      "longitude": 21.270915
+    },
+    {
+      "name": "Ξενώνας 'Mountain'",
+      "latitude": 38.909269,
+      "longitude": 21.818837
+    },
+    {
+      "name": "Ξενώνας 1450",
+      "latitude": 40.342421,
+      "longitude": 21.029775
+    },
+    {
+      "name": "Ξενώνας Mundi Smolikas",
+      "latitude": 40.040023,
+      "longitude": 20.909806
+    },
+    {
+      "name": "Ξενώνας «Βρυγηίς»",
+      "latitude": 40.838436,
+      "longitude": 21.15901
+    },
+    {
+      "name": "Ξενώνας Αγγελική",
+      "latitude": 39.389537,
+      "longitude": 23.16678
+    },
+    {
+      "name": "Ξενώνας Αετομιλίτσας",
+      "latitude": 40.309351,
+      "longitude": 20.853552
+    },
+    {
+      "name": "Ξενώνας Αντωνίου",
+      "latitude": 37.263593,
+      "longitude": 22.648986
+    },
+    {
+      "name": "Ξενώνας Αριάδνη",
+      "latitude": 40.833869,
+      "longitude": 21.141517
+    },
+    {
+      "name": "Ξενώνας Αροδαμός",
+      "latitude": 35.243528,
+      "longitude": 24.943122
+    },
+    {
+      "name": "Ξενώνας Δυρραχίου",
+      "latitude": 37.188559,
+      "longitude": 22.203378
+    },
+    {
+      "name": "Ξενώνας Εποχές",
+      "latitude": 38.735544,
+      "longitude": 22.345736
+    },
+    {
+      "name": "Ξενώνας Κορέστεια & Τροϊκα Καφέ - Ψησταριά (Troika Cafe - Grill)",
+      "latitude": 40.622814,
+      "longitude": 21.202841
+    },
+    {
+      "name": "Ξενώνας Λίλα",
+      "latitude": 37.443125,
+      "longitude": 24.940903
+    },
+    {
+      "name": "Ξενώνας Μαζαράκη",
+      "latitude": 37.080772,
+      "longitude": 22.356773
+    },
+    {
+      "name": "Ξενώνας Μύλος",
+      "latitude": 40.834142,
+      "longitude": 21.136179
+    },
+    {
+      "name": "Ξενώνας Ομορφοκκλησιάς",
+      "latitude": 40.431395,
+      "longitude": 21.119186
+    },
+    {
+      "name": "Ξενώνας Ορειάδες",
+      "latitude": 40.120213,
+      "longitude": 23.811623
+    },
+    {
+      "name": "Ξενώνας Παπανικόλα",
+      "latitude": 37.575784,
+      "longitude": 22.23947
+    },
+    {
+      "name": "Ξενώνας Σάλεσι",
+      "latitude": 37.402144,
+      "longitude": 22.151642
+    },
+    {
+      "name": "Ξενώνας Σείριος",
+      "latitude": 39.333925,
+      "longitude": 23.134743
+    },
+    {
+      "name": "Ξενώνας Σεμέλη",
+      "latitude": 37.931178,
+      "longitude": 22.339787
+    },
+    {
+      "name": "Ξενώνας Το Πέτρινο",
+      "latitude": 40.838197,
+      "longitude": 21.160322
+    },
+    {
+      "name": "Ξενώνας Χαλάντρα",
+      "latitude": 39.143482,
+      "longitude": 25.934313
+    },
+    {
+      "name": "Ξενώνες Αραχθέα",
+      "latitude": 39.327729,
+      "longitude": 21.009267
+    },
+    {
+      "name": "Ξενώνες Πανθεσσαλικού Σταδίου",
+      "latitude": 39.386959,
+      "longitude": 22.927877
+    },
+    {
+      "name": "Ο Γέρο Σμόλικας",
+      "latitude": 40.104225,
+      "longitude": 21.01964
+    },
+    {
+      "name": "Ο Μύλος",
+      "latitude": 37.452939,
+      "longitude": 24.934117
+    },
+    {
+      "name": "Ο Ξενωνας Γερακοφωλια",
+      "latitude": 40.045033,
+      "longitude": 20.753792
+    },
+    {
+      "name": "ο ξενώνας της Κατερίνας",
+      "latitude": 38.740322,
+      "longitude": 22.337546
+    },
+    {
+      "name": "Ο Παράδεισος",
+      "latitude": 38.549316,
+      "longitude": 22.05639
+    },
+    {
+      "name": "Ο Πύργος",
+      "latitude": 39.204183,
+      "longitude": 21.340135
+    },
+    {
+      "name": "Οiκοs - your Cretan house",
+      "latitude": 35.399266,
+      "longitude": 24.662143
+    },
+    {
+      "name": "Οδυσσέας",
+      "latitude": 39.344425,
+      "longitude": 21.69567
+    },
+    {
+      "name": "Οικία οικογένειας Αλαγεωργίου",
+      "latitude": 37.722721,
+      "longitude": 26.912161
+    },
+    {
+      "name": "Οικία Σταύρου Τούλας",
+      "latitude": 37.73599,
+      "longitude": 26.742619
+    },
+    {
+      "name": "Οικισμός Νεφέλη",
+      "latitude": 39.985736,
+      "longitude": 23.380716
+    },
+    {
+      "name": "Οιχαλία",
+      "latitude": 38.873629,
+      "longitude": 21.665779
+    },
+    {
+      "name": "Οπάλιο",
+      "latitude": 39.416149,
+      "longitude": 23.160995
+    },
+    {
+      "name": "Οριαδες ντι Αμέρου",
+      "latitude": 39.852761,
+      "longitude": 21.229371
+    },
+    {
+      "name": "Ουρανοδρομίες",
+      "latitude": 37.999949,
+      "longitude": 22.47162
+    },
+    {
+      "name": "Πάχνες",
+      "latitude": 35.230516,
+      "longitude": 23.961718
+    },
+    {
+      "name": "Πέταλο Resort Center",
+      "latitude": 41.306267,
+      "longitude": 24.009203
+    },
+    {
+      "name": "Πέτρινη Γωνιά",
+      "latitude": 41.284502,
+      "longitude": 24.208613
+    },
+    {
+      "name": "Πέτρινος Πύργος",
+      "latitude": 37.705756,
+      "longitude": 22.097043
+    },
+    {
+      "name": "Παλιό Σχολείο",
+      "latitude": 38.570328,
+      "longitude": 22.025138
+    },
+    {
+      "name": "Πανδοχείο Μαυρολιθάρι",
+      "latitude": 38.728644,
+      "longitude": 22.231283
+    },
+    {
+      "name": "Πανοπραμα",
+      "latitude": 35.230573,
+      "longitude": 23.959706
+    },
+    {
+      "name": "Πανσίον Βιέννα",
+      "latitude": 37.582058,
+      "longitude": 23.391153
+    },
+    {
+      "name": "Πανσιόν Αναστασία",
+      "latitude": 40.972696,
+      "longitude": 21.947088
+    },
+    {
+      "name": "Πανσιόν Ζαφειρίου",
+      "latitude": 40.544733,
+      "longitude": 21.256645
+    },
+    {
+      "name": "Παραδοσιακός ξενώνας Βαμβακού",
+      "latitude": 37.243264,
+      "longitude": 22.55114
+    },
+    {
+      "name": "Παραλια",
+      "latitude": 35.229489,
+      "longitude": 23.960508
+    },
+    {
+      "name": "Παραμυθία",
+      "latitude": 39.993514,
+      "longitude": 22.573549
+    },
+    {
+      "name": "ΠΑΥΣΙΛΥΠΟ ΕΝΟΙΚ",
+      "latitude": 39.070019,
+      "longitude": 26.574313
+    },
+    {
+      "name": "Πλάτανος",
+      "latitude": 35.217737,
+      "longitude": 24.085539
+    },
+    {
+      "name": "Πλατανος",
+      "latitude": 38.959049,
+      "longitude": 21.603581
+    },
+    {
+      "name": "Πλατανόρεμα",
+      "latitude": 40.379168,
+      "longitude": 23.694374
+    },
+    {
+      "name": "ΠΟΛΥΧΝΙΑΤΗ",
+      "latitude": 39.071411,
+      "longitude": 26.588821
+    },
+    {
+      "name": "ΠΟΡΤΟ ΛΕΣΒΟΣ 2",
+      "latitude": 39.1058,
+      "longitude": 26.554279
+    },
+    {
+      "name": "Πόρτο Καλύβες",
+      "latitude": 35.457885,
+      "longitude": 24.165846
+    },
+    {
+      "name": "Ραβάνης",
+      "latitude": 38.699725,
+      "longitude": 22.176434
+    },
+    {
+      "name": "Ροδαμός",
+      "latitude": 40.424776,
+      "longitude": 23.498259
+    },
+    {
+      "name": "Ροδαυγή",
+      "latitude": 40.970545,
+      "longitude": 21.949943
+    },
+    {
+      "name": "Ρούγα της Βαμβακούς",
+      "latitude": 37.244465,
+      "longitude": 22.552433
+    },
+    {
+      "name": "Σέμελη",
+      "latitude": 38.919035,
+      "longitude": 21.791777
+    },
+    {
+      "name": "ΣΑΜΑΡΙΑ",
+      "latitude": 35.230185,
+      "longitude": 23.960111
+    },
+    {
+      "name": "σαμπούκο",
+      "latitude": 39.334715,
+      "longitude": 23.129603
+    },
+    {
+      "name": "ΣΑΠΦΩ",
+      "latitude": 39.080316,
+      "longitude": 26.575193
+    },
+    {
+      "name": "Σελήνη",
+      "latitude": 39.872772,
+      "longitude": 20.752174
+    },
+    {
+      "name": "ΣΕΛΑΝΑ",
+      "latitude": 39.108804,
+      "longitude": 26.554966
+    },
+    {
+      "name": "Σινόη",
+      "latitude": 37.670696,
+      "longitude": 22.18694
+    },
+    {
+      "name": "Σοκάκι",
+      "latitude": 38.830908,
+      "longitude": 21.742678
+    },
+    {
+      "name": "Σουράδα Studios",
+      "latitude": 39.089719,
+      "longitude": 26.561433
+    },
+    {
+      "name": "Σουρλας",
+      "latitude": 40.391173,
+      "longitude": 20.835213
+    },
+    {
+      "name": "Σπίτι",
+      "latitude": 38.034326,
+      "longitude": 23.852697
+    },
+    {
+      "name": "Σπίτι",
+      "latitude": 40.583988,
+      "longitude": 23.015454
+    },
+    {
+      "name": "Τ' Ακρογιάλι",
+      "latitude": 38.478124,
+      "longitude": 24.187924
+    },
+    {
+      "name": "Ταρλάς",
+      "latitude": 39.096806,
+      "longitude": 26.554033
+    },
+    {
+      "name": "Τετράπολις",
+      "latitude": 38.72312,
+      "longitude": 22.47983
+    },
+    {
+      "name": "Τζιβαέρι",
+      "latitude": 41.21859,
+      "longitude": 24.779319
+    },
+    {
+      "name": "Το Αγριολούλουδο του Γράμμου",
+      "latitude": 40.305691,
+      "longitude": 20.771248
+    },
+    {
+      "name": "Το Αρχοντικό",
+      "latitude": 41.196441,
+      "longitude": 24.706257
+    },
+    {
+      "name": "Το Ελληνικό",
+      "latitude": 35.341803,
+      "longitude": 23.90265
+    },
+    {
+      "name": "Το Κάλλιον",
+      "latitude": 38.865498,
+      "longitude": 21.763649
+    },
+    {
+      "name": "Το Καδί",
+      "latitude": 39.903531,
+      "longitude": 20.822828
+    },
+    {
+      "name": "Το Καλύβι του Μαστροτάσου",
+      "latitude": 39.451651,
+      "longitude": 23.120316
+    },
+    {
+      "name": "Το Κύμα",
+      "latitude": 38.938002,
+      "longitude": 23.068516
+    },
+    {
+      "name": "Το Κύμα rooms",
+      "latitude": 36.931351,
+      "longitude": 25.603666
+    },
+    {
+      "name": "το λιμανι",
+      "latitude": 34.998224,
+      "longitude": 25.371444
+    },
+    {
+      "name": "Το Μετερίζι",
+      "latitude": 38.70062,
+      "longitude": 22.175448
+    },
+    {
+      "name": "Το μπαλκόνι",
+      "latitude": 39.459645,
+      "longitude": 23.116763
+    },
+    {
+      "name": "το μπαλκόνι της λίμνης",
+      "latitude": 39.281504,
+      "longitude": 21.731072
+    },
+    {
+      "name": "Το Πέτρινο",
+      "latitude": 36.931613,
+      "longitude": 25.603528
+    },
+    {
+      "name": "Το Πέτρινο",
+      "latitude": 38.828419,
+      "longitude": 21.74348
+    },
+    {
+      "name": "Το Πέτρινο",
+      "latitude": 38.92066,
+      "longitude": 20.887736
+    },
+    {
+      "name": "Το Περάντι - Επιπλωμένη Οικία Guesthouse",
+      "latitude": 39.902102,
+      "longitude": 20.579867
+    },
+    {
+      "name": "ΤΟ ΠΕΤΡΙΝΟ ΣΠΙΤΑΚΙ",
+      "latitude": 40.495105,
+      "longitude": 21.27229
+    },
+    {
+      "name": "Το Ραδιό",
+      "latitude": 39.911666,
+      "longitude": 20.849489
+    },
+    {
+      "name": "Το Σαλέ των Χρωμάτων",
+      "latitude": 37.998817,
+      "longitude": 22.471811
+    },
+    {
+      "name": "Το σπίτι της Ειρήνης",
+      "latitude": 37.666851,
+      "longitude": 22.183555
+    },
+    {
+      "name": "Το σπίτι του Ορέστη",
+      "latitude": 39.881627,
+      "longitude": 20.707396
+    },
+    {
+      "name": "Το σπιτάκι",
+      "latitude": 38.375639,
+      "longitude": 22.384499
+    },
+    {
+      "name": "Το σπιτι του παπα",
+      "latitude": 39.963243,
+      "longitude": 23.382847
+    },
+    {
+      "name": "Το Τζάκι",
+      "latitude": 38.842122,
+      "longitude": 21.735488
+    },
+    {
+      "name": "Το χωριό μου",
+      "latitude": 37.669635,
+      "longitude": 21.428811
+    },
+    {
+      "name": "Τρωάς",
+      "latitude": 39.873335,
+      "longitude": 20.753335
+    },
+    {
+      "name": "Τόπακα",
+      "latitude": 38.329387,
+      "longitude": 26.140187
+    },
+    {
+      "name": "Τόφφοι",
+      "latitude": 36.788862,
+      "longitude": 24.577073
+    },
+    {
+      "name": "Φάρμα Μίχου",
+      "latitude": 38.646146,
+      "longitude": 21.939555
+    },
+    {
+      "name": "Φαράγγι",
+      "latitude": 35.229933,
+      "longitude": 23.960221
+    },
+    {
+      "name": "Φασουλης Δημ.",
+      "latitude": 40.23863,
+      "longitude": 20.885204
+    },
+    {
+      "name": "ΦΙΛΟΞΕΝΙΑ",
+      "latitude": 39.077877,
+      "longitude": 26.575564
+    },
+    {
+      "name": "Φλοίσβος",
+      "latitude": 35.181233,
+      "longitude": 24.230795
+    },
+    {
+      "name": "ΦΟΝΤΑΝΑ 1",
+      "latitude": 39.106467,
+      "longitude": 26.555235
+    },
+    {
+      "name": "Φρετζάτο Παραδοσιακός ξενώνας",
+      "latitude": 39.502059,
+      "longitude": 21.537148
+    },
+    {
+      "name": "Φρόσω",
+      "latitude": 38.550879,
+      "longitude": 22.061833
+    },
+    {
+      "name": "Χάνι Αγραμάδα",
+      "latitude": 40.459853,
+      "longitude": 23.654335
+    },
+    {
+      "name": "Χάρης",
+      "latitude": 39.992181,
+      "longitude": 22.625108
+    },
+    {
+      "name": "Χοροστάσι",
+      "latitude": 40.487564,
+      "longitude": 23.595589
+    },
+    {
+      "name": "Χρυσοπέλεια",
+      "latitude": 39.273092,
+      "longitude": 21.732885
+    },
+    {
+      "name": "Ψηλές Κορφές",
+      "latitude": 39.684292,
+      "longitude": 21.191631
+    },
+    {
+      "name": "Όσιος Ιωάννης ο Ρώσος",
+      "latitude": 38.732922,
+      "longitude": 23.489432
+    },
+    {
+      "name": "Апартамент за почивка в Керамоти, Гърция",
+      "latitude": 40.855516,
+      "longitude": 24.703333
+    },
+    {
+      "name": "Апартаменти за почивка в Керамоти Гърция",
+      "latitude": 40.855505,
+      "longitude": 24.703305
+    },
+    {
+      "name": "Арион",
+      "latitude": 38.719092,
+      "longitude": 20.720303
+    },
+    {
+      "name": "Гераница",
+      "latitude": 41.445484,
+      "longitude": 24.599959
+    },
+    {
+      "name": "Дядовата Ряка",
+      "latitude": 41.441451,
+      "longitude": 24.6205
+    },
+    {
+      "name": "Узуновия камень",
+      "latitude": 41.44587,
+      "longitude": 24.600723
+    }
+  ],
+  "meta": {
+    "title": "Ξενώνες στην Ελλάδα - Δωρεάν λήψη",
+    "description": "Ξενώνες και guest houses στην Ελλάδα από δεδομένα OpenStreetMap (tourism=guest_house). Διακριτό από el-xenodocheia. Όνομα και συντεταγμένες WGS84. Περιέχει 1329 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ξενώνες στην Ελλάδα | ListBase",
+    "seo_description": "Λήψη Ξενώνες στην Ελλάδα — 1329 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1329 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

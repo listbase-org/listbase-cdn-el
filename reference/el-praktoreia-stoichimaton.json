@@ -1,0 +1,3706 @@
+{
+  "id": "el-praktoreia-stoichimaton",
+  "name": "Πρακτορεία στοιχημάτων (ΟΠΑΠ) στην Ελλάδα (OSM)",
+  "title": "Πρακτορεία στοιχημάτων (ΟΠΑΠ) στην Ελλάδα (OSM)",
+  "description": "Πρακτορεία στοιχημάτων / ΟΠΑΠ στην Ελλάδα από δεδομένα OpenStreetMap (shop=bookmaker). Όνομα και συντεταγμένες WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 733,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "OΠΑΠ",
+      "latitude": 37.415786,
+      "longitude": 23.126261
+    },
+    {
+      "name": "Play ΟΠΑΠ",
+      "latitude": 37.976769,
+      "longitude": 23.771001
+    },
+    {
+      "name": "Play ΟΠΑΠ",
+      "latitude": 39.489307,
+      "longitude": 20.260418
+    },
+    {
+      "name": "Play ΟΠΑΠ",
+      "latitude": 40.614362,
+      "longitude": 22.966901
+    },
+    {
+      "name": "play οπαπ",
+      "latitude": 40.936301,
+      "longitude": 24.406799
+    },
+    {
+      "name": "Δημήτρης Βασιλακάκος",
+      "latitude": 38.035632,
+      "longitude": 23.677161
+    },
+    {
+      "name": "ΚΙΑΠΟΚΑΣ ΟΠΑΠ",
+      "latitude": 36.875859,
+      "longitude": 27.204349
+    },
+    {
+      "name": "Κουλούρης Χρήστος",
+      "latitude": 36.686644,
+      "longitude": 23.038121
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 35.216701,
+      "longitude": 24.535313
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 35.340025,
+      "longitude": 25.134088
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 35.513173,
+      "longitude": 24.016086
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 35.51322,
+      "longitude": 24.018678
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 35.514429,
+      "longitude": 24.02692
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 35.516046,
+      "longitude": 24.021471
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.389161,
+      "longitude": 28.214822
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.417602,
+      "longitude": 28.174484
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.422921,
+      "longitude": 28.226882
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.430284,
+      "longitude": 28.235778
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.448238,
+      "longitude": 28.222527
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.448298,
+      "longitude": 28.221287
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.80366,
+      "longitude": 22.851071
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.850001,
+      "longitude": 22.665509
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.889453,
+      "longitude": 27.296257
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 36.889726,
+      "longitude": 27.291687
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.072041,
+      "longitude": 22.433263
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.117921,
+      "longitude": 25.24361
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.416151,
+      "longitude": 22.76572
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.512312,
+      "longitude": 22.374336
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.565075,
+      "longitude": 22.800376
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.567092,
+      "longitude": 22.802032
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.631853,
+      "longitude": 22.728932
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.633282,
+      "longitude": 22.725543
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.634035,
+      "longitude": 22.729756
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.634949,
+      "longitude": 22.733
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.793543,
+      "longitude": 21.350131
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.795039,
+      "longitude": 21.350164
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.796433,
+      "longitude": 21.350267
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.809467,
+      "longitude": 23.975676
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.818627,
+      "longitude": 23.841888
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.861108,
+      "longitude": 23.750091
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.862511,
+      "longitude": 23.755985
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.884361,
+      "longitude": 23.753044
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.888117,
+      "longitude": 23.760938
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.888647,
+      "longitude": 24.006579
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.89232,
+      "longitude": 23.748638
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.892371,
+      "longitude": 23.752407
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.89972,
+      "longitude": 23.756487
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.900726,
+      "longitude": 23.770952
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.901174,
+      "longitude": 23.749968
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.903707,
+      "longitude": 23.75017
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.905727,
+      "longitude": 23.753552
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.906393,
+      "longitude": 23.740945
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.906918,
+      "longitude": 23.749788
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.907127,
+      "longitude": 23.875839
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.915457,
+      "longitude": 23.75
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.916745,
+      "longitude": 23.000212
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.92101,
+      "longitude": 23.737587
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.925154,
+      "longitude": 23.692958
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.926682,
+      "longitude": 22.993577
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.928253,
+      "longitude": 23.743942
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.92853,
+      "longitude": 23.746259
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.929466,
+      "longitude": 23.694341
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.929693,
+      "longitude": 23.642372
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.930087,
+      "longitude": 23.710332
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.930842,
+      "longitude": 23.752548
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.932903,
+      "longitude": 23.631515
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.935771,
+      "longitude": 23.637017
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.935811,
+      "longitude": 22.84212
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.936782,
+      "longitude": 23.764429
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.937419,
+      "longitude": 22.922685
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.937596,
+      "longitude": 22.935488
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.937646,
+      "longitude": 22.933677
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.938454,
+      "longitude": 22.929024
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.938593,
+      "longitude": 23.64546
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.938707,
+      "longitude": 23.739431
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.938915,
+      "longitude": 23.703319
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.939144,
+      "longitude": 22.930906
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.939163,
+      "longitude": 23.699126
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.939748,
+      "longitude": 22.935319
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.939766,
+      "longitude": 23.750997
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.939778,
+      "longitude": 22.933237
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.939906,
+      "longitude": 23.645697
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.940573,
+      "longitude": 23.660079
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.94063,
+      "longitude": 23.764574
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.940842,
+      "longitude": 23.641796
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.941013,
+      "longitude": 22.931827
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.942077,
+      "longitude": 23.650726
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.94211,
+      "longitude": 23.64932
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.942622,
+      "longitude": 23.64802
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.942769,
+      "longitude": 23.652145
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.94293,
+      "longitude": 23.643853
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.943297,
+      "longitude": 23.714309
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.943627,
+      "longitude": 23.650592
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.943679,
+      "longitude": 23.758807
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.944159,
+      "longitude": 23.647866
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.944235,
+      "longitude": 23.685375
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.944904,
+      "longitude": 23.747645
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.945262,
+      "longitude": 23.743217
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.945894,
+      "longitude": 23.755391
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.946054,
+      "longitude": 23.64579
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.946095,
+      "longitude": 23.642494
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.946423,
+      "longitude": 23.758809
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.946613,
+      "longitude": 23.756029
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.946982,
+      "longitude": 23.714705
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.947469,
+      "longitude": 23.642491
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.947845,
+      "longitude": 23.710488
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.948832,
+      "longitude": 23.690912
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.948866,
+      "longitude": 23.736147
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.949267,
+      "longitude": 23.720944
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.949559,
+      "longitude": 23.640135
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.95003,
+      "longitude": 23.737923
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.950259,
+      "longitude": 23.736365
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.950777,
+      "longitude": 23.693498
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.950805,
+      "longitude": 23.635083
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.951294,
+      "longitude": 23.61417
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.952215,
+      "longitude": 23.721124
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.952355,
+      "longitude": 23.695655
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.953924,
+      "longitude": 23.679513
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.954338,
+      "longitude": 23.721407
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.95451,
+      "longitude": 23.698242
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.954997,
+      "longitude": 23.70477
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.955203,
+      "longitude": 23.736269
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.95552,
+      "longitude": 23.64106
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.955789,
+      "longitude": 23.709937
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.955807,
+      "longitude": 23.639738
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.955839,
+      "longitude": 23.712335
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.955953,
+      "longitude": 23.761235
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.956871,
+      "longitude": 23.71621
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.957065,
+      "longitude": 23.69949
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.957281,
+      "longitude": 23.641164
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.957315,
+      "longitude": 23.712133
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.957562,
+      "longitude": 23.729142
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.95761,
+      "longitude": 23.630862
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.957653,
+      "longitude": 23.727967
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.957819,
+      "longitude": 23.710423
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.957964,
+      "longitude": 23.727153
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.958134,
+      "longitude": 23.756318
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.95832,
+      "longitude": 23.627443
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.958627,
+      "longitude": 23.70757
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.958954,
+      "longitude": 23.62212
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.958993,
+      "longitude": 23.620036
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.959679,
+      "longitude": 23.706112
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.959747,
+      "longitude": 23.697575
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.959875,
+      "longitude": 23.639722
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.959922,
+      "longitude": 23.672791
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.960199,
+      "longitude": 23.707592
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.960337,
+      "longitude": 23.75208
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.960476,
+      "longitude": 23.631331
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.960545,
+      "longitude": 23.649096
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.960773,
+      "longitude": 23.734063
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.961096,
+      "longitude": 23.709919
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.961526,
+      "longitude": 23.752919
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.96165,
+      "longitude": 23.743327
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.961911,
+      "longitude": 23.703937
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.962339,
+      "longitude": 23.711777
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.962462,
+      "longitude": 23.758893
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.962519,
+      "longitude": 23.639935
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.962701,
+      "longitude": 23.718502
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.962863,
+      "longitude": 23.699469
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.962925,
+      "longitude": 23.745714
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.963663,
+      "longitude": 23.614578
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.963745,
+      "longitude": 23.75039
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.963804,
+      "longitude": 23.74725
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.963841,
+      "longitude": 23.722211
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.963901,
+      "longitude": 23.619206
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.964149,
+      "longitude": 23.702519
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.96415,
+      "longitude": 23.753104
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.964395,
+      "longitude": 23.639404
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.964407,
+      "longitude": 23.704672
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.965068,
+      "longitude": 23.726614
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.9651,
+      "longitude": 23.725136
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.965455,
+      "longitude": 23.701912
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.965748,
+      "longitude": 23.756044
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.965826,
+      "longitude": 23.708877
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.96643,
+      "longitude": 23.75184
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.966728,
+      "longitude": 23.749908
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.966812,
+      "longitude": 23.766101
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.966845,
+      "longitude": 23.701931
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.966856,
+      "longitude": 23.703975
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.967038,
+      "longitude": 23.709721
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.967122,
+      "longitude": 23.71245
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.967395,
+      "longitude": 23.753918
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.967476,
+      "longitude": 23.763852
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.967675,
+      "longitude": 23.705996
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.967783,
+      "longitude": 23.760997
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.967928,
+      "longitude": 23.726099
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.96797,
+      "longitude": 23.74776
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.968034,
+      "longitude": 23.697524
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.968083,
+      "longitude": 23.708294
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.968104,
+      "longitude": 23.745192
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.969066,
+      "longitude": 23.754463
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.969414,
+      "longitude": 23.752396
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.969676,
+      "longitude": 23.730709
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.970061,
+      "longitude": 23.621447
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.970111,
+      "longitude": 23.65094
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.970532,
+      "longitude": 23.711636
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.970701,
+      "longitude": 23.756307
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.971578,
+      "longitude": 23.750407
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.971683,
+      "longitude": 23.775802
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.97183,
+      "longitude": 23.770242
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.971986,
+      "longitude": 23.622557
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.972396,
+      "longitude": 23.650674
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.972408,
+      "longitude": 23.753754
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.972502,
+      "longitude": 23.780016
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.972575,
+      "longitude": 23.710117
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.973452,
+      "longitude": 23.770936
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.974063,
+      "longitude": 23.662497
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.974369,
+      "longitude": 23.718743
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.974695,
+      "longitude": 23.654726
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.974787,
+      "longitude": 23.655957
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.974796,
+      "longitude": 23.650676
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.97492,
+      "longitude": 23.767588
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.975564,
+      "longitude": 23.763748
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.976229,
+      "longitude": 23.654015
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.976247,
+      "longitude": 23.733092
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.976416,
+      "longitude": 23.753456
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.976677,
+      "longitude": 23.746787
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.976771,
+      "longitude": 23.759829
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.976829,
+      "longitude": 23.666109
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.977028,
+      "longitude": 23.732885
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.977226,
+      "longitude": 23.725717
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.977546,
+      "longitude": 23.762298
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.977585,
+      "longitude": 23.740837
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.977803,
+      "longitude": 23.770997
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.977995,
+      "longitude": 23.753018
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.978259,
+      "longitude": 23.738388
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.978465,
+      "longitude": 23.730989
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.97867,
+      "longitude": 23.734921
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.978676,
+      "longitude": 23.768085
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.978701,
+      "longitude": 23.650192
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.978735,
+      "longitude": 23.726529
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.978743,
+      "longitude": 23.766271
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.978936,
+      "longitude": 23.660326
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.979,
+      "longitude": 23.711824
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.979029,
+      "longitude": 23.709556
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.979475,
+      "longitude": 23.657939
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.979573,
+      "longitude": 23.72955
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.980297,
+      "longitude": 23.761763
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98066,
+      "longitude": 23.729411
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.980661,
+      "longitude": 23.757532
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.9807,
+      "longitude": 23.727404
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.980894,
+      "longitude": 23.652007
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98109,
+      "longitude": 23.766644
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98178,
+      "longitude": 23.73338
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.982407,
+      "longitude": 23.732493
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98278,
+      "longitude": 23.764502
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983072,
+      "longitude": 23.737229
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983214,
+      "longitude": 23.728644
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983233,
+      "longitude": 23.635015
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98355,
+      "longitude": 23.725149
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983663,
+      "longitude": 23.727484
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983702,
+      "longitude": 23.767692
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983815,
+      "longitude": 23.761527
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983875,
+      "longitude": 23.731057
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.983978,
+      "longitude": 23.7299
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.984357,
+      "longitude": 23.729028
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.984407,
+      "longitude": 23.7272
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.984681,
+      "longitude": 23.724152
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.984893,
+      "longitude": 23.719959
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.985149,
+      "longitude": 23.727853
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.985151,
+      "longitude": 23.740524
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.985392,
+      "longitude": 23.730377
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.985446,
+      "longitude": 23.728887
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.985536,
+      "longitude": 23.761711
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986016,
+      "longitude": 23.742311
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986227,
+      "longitude": 23.734727
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986287,
+      "longitude": 23.725039
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986428,
+      "longitude": 23.757363
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986482,
+      "longitude": 23.714813
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986494,
+      "longitude": 23.727456
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986571,
+      "longitude": 23.740596
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986755,
+      "longitude": 23.765479
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986937,
+      "longitude": 23.722451
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.986984,
+      "longitude": 23.850398
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98706,
+      "longitude": 23.720804
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.987118,
+      "longitude": 23.759621
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.987271,
+      "longitude": 23.762381
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.987528,
+      "longitude": 23.712997
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.987945,
+      "longitude": 23.681058
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.987997,
+      "longitude": 23.743039
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98861,
+      "longitude": 23.748811
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.988623,
+      "longitude": 23.744626
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.988924,
+      "longitude": 23.759079
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.989116,
+      "longitude": 23.758096
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98928,
+      "longitude": 23.68044
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.989472,
+      "longitude": 23.741381
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.989629,
+      "longitude": 23.766146
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98963,
+      "longitude": 23.724659
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.989789,
+      "longitude": 23.730583
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.98981,
+      "longitude": 23.794458
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.989891,
+      "longitude": 23.744554
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.990342,
+      "longitude": 23.703695
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.99045,
+      "longitude": 23.748291
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.990617,
+      "longitude": 23.735412
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.990758,
+      "longitude": 23.727029
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.990835,
+      "longitude": 23.759437
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.991242,
+      "longitude": 23.679236
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.991246,
+      "longitude": 23.714816
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.991317,
+      "longitude": 23.753437
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.991501,
+      "longitude": 23.677457
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.9918,
+      "longitude": 23.72761
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.991876,
+      "longitude": 23.7406
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.992128,
+      "longitude": 23.743624
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.992238,
+      "longitude": 23.760531
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.992278,
+      "longitude": 23.767774
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.992654,
+      "longitude": 23.770159
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.992787,
+      "longitude": 23.729569
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.993136,
+      "longitude": 23.339866
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.993437,
+      "longitude": 23.728618
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.993612,
+      "longitude": 23.723018
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.994004,
+      "longitude": 23.769475
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.994083,
+      "longitude": 23.674283
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.994189,
+      "longitude": 23.751422
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.994278,
+      "longitude": 23.767735
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.995261,
+      "longitude": 23.730916
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.995317,
+      "longitude": 23.749541
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.995371,
+      "longitude": 23.726034
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.995383,
+      "longitude": 23.733145
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.99543,
+      "longitude": 23.727349
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.9956,
+      "longitude": 23.721771
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.995678,
+      "longitude": 23.671402
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.996146,
+      "longitude": 23.669606
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.996243,
+      "longitude": 23.72188
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.996564,
+      "longitude": 23.723691
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.996701,
+      "longitude": 23.743078
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.996957,
+      "longitude": 23.727605
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.997005,
+      "longitude": 23.731349
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.997196,
+      "longitude": 23.681818
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.997539,
+      "longitude": 23.735591
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.997715,
+      "longitude": 23.738768
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.997871,
+      "longitude": 23.733022
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.997871,
+      "longitude": 23.770763
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.998398,
+      "longitude": 23.737672
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.998497,
+      "longitude": 23.683326
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.998701,
+      "longitude": 23.718311
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.999548,
+      "longitude": 23.72741
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.999612,
+      "longitude": 23.721959
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.999789,
+      "longitude": 23.816507
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 37.999852,
+      "longitude": 23.734692
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.000039,
+      "longitude": 23.730535
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.000058,
+      "longitude": 23.732659
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.000236,
+      "longitude": 23.415133
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.000833,
+      "longitude": 23.727095
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.001316,
+      "longitude": 23.724685
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.00139,
+      "longitude": 23.722579
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.001441,
+      "longitude": 23.738272
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.001708,
+      "longitude": 23.719806
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.001958,
+      "longitude": 23.733242
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.001994,
+      "longitude": 23.790954
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.001998,
+      "longitude": 23.685477
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.002137,
+      "longitude": 23.740676
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.002175,
+      "longitude": 23.940888
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.002709,
+      "longitude": 23.728274
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.002718,
+      "longitude": 23.663763
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.002762,
+      "longitude": 23.79237
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.003444,
+      "longitude": 23.740754
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.003611,
+      "longitude": 23.734538
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.004062,
+      "longitude": 23.728314
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.004087,
+      "longitude": 23.701913
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.004751,
+      "longitude": 23.664081
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.004808,
+      "longitude": 23.732861
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.005011,
+      "longitude": 23.675554
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.005293,
+      "longitude": 23.794852
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.005483,
+      "longitude": 23.729253
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.005525,
+      "longitude": 23.735016
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.005607,
+      "longitude": 23.687891
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.005687,
+      "longitude": 23.664638
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.006549,
+      "longitude": 23.799096
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.006904,
+      "longitude": 23.72971
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.007374,
+      "longitude": 23.736105
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.00741,
+      "longitude": 23.715681
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.008074,
+      "longitude": 23.826478
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.00812,
+      "longitude": 23.729861
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.008313,
+      "longitude": 23.696175
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.009246,
+      "longitude": 23.736002
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.009389,
+      "longitude": 23.806888
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.009763,
+      "longitude": 23.664698
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.009886,
+      "longitude": 23.693678
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.009921,
+      "longitude": 23.736189
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.01016,
+      "longitude": 23.748151
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.010767,
+      "longitude": 23.735352
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.010842,
+      "longitude": 23.81229
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.010987,
+      "longitude": 23.756936
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.011137,
+      "longitude": 23.650458
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.011156,
+      "longitude": 23.70072
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.011398,
+      "longitude": 23.693659
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.011689,
+      "longitude": 23.729093
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.01173,
+      "longitude": 23.73628
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.012563,
+      "longitude": 23.731811
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.012759,
+      "longitude": 23.737015
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.012955,
+      "longitude": 23.682635
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013216,
+      "longitude": 23.752867
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013379,
+      "longitude": 23.821976
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013517,
+      "longitude": 23.748162
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.01371,
+      "longitude": 23.756812
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013839,
+      "longitude": 23.820346
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013852,
+      "longitude": 23.751122
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013858,
+      "longitude": 23.736372
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013886,
+      "longitude": 23.741683
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013899,
+      "longitude": 23.677033
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.013994,
+      "longitude": 23.694508
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.014274,
+      "longitude": 23.831673
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.014357,
+      "longitude": 23.733799
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.014693,
+      "longitude": 23.746467
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.014842,
+      "longitude": 23.722816
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.01491,
+      "longitude": 23.728223
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.014977,
+      "longitude": 23.685426
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.015049,
+      "longitude": 23.707661
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.01543,
+      "longitude": 23.833468
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.015504,
+      "longitude": 23.690772
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.015512,
+      "longitude": 23.735755
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.015599,
+      "longitude": 23.751049
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.015613,
+      "longitude": 23.758638
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.016521,
+      "longitude": 23.754576
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.017211,
+      "longitude": 23.811091
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.017553,
+      "longitude": 23.690098
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.017709,
+      "longitude": 23.699976
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.017808,
+      "longitude": 23.732479
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.018559,
+      "longitude": 23.7289
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019008,
+      "longitude": 23.756836
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019227,
+      "longitude": 23.744559
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019409,
+      "longitude": 23.737182
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019433,
+      "longitude": 23.82467
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019448,
+      "longitude": 23.807165
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019534,
+      "longitude": 23.797497
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019912,
+      "longitude": 23.753838
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.019978,
+      "longitude": 23.755699
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.020068,
+      "longitude": 23.73145
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.020402,
+      "longitude": 23.719477
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.020657,
+      "longitude": 23.735457
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.020913,
+      "longitude": 23.751743
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.021798,
+      "longitude": 23.689115
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.02181,
+      "longitude": 23.745348
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.021832,
+      "longitude": 23.694394
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.021839,
+      "longitude": 23.796777
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.022128,
+      "longitude": 23.753744
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.022159,
+      "longitude": 23.742049
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.022306,
+      "longitude": 23.734571
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.022646,
+      "longitude": 23.799815
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.022701,
+      "longitude": 23.736372
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.022754,
+      "longitude": 23.747362
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.023004,
+      "longitude": 23.755707
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.023385,
+      "longitude": 23.751365
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.024124,
+      "longitude": 23.735729
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.024268,
+      "longitude": 23.733597
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.024658,
+      "longitude": 23.749017
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.024765,
+      "longitude": 23.732759
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.025042,
+      "longitude": 23.723465
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.026029,
+      "longitude": 23.696951
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.026052,
+      "longitude": 23.680999
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.026575,
+      "longitude": 23.717615
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.027454,
+      "longitude": 23.748611
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.027525,
+      "longitude": 23.724246
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.027661,
+      "longitude": 23.719234
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.028277,
+      "longitude": 23.75123
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.028356,
+      "longitude": 23.733234
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.028723,
+      "longitude": 23.71901
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.028869,
+      "longitude": 23.715348
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.029568,
+      "longitude": 23.699499
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.030023,
+      "longitude": 23.734886
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.030477,
+      "longitude": 23.700877
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.03066,
+      "longitude": 21.36443
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.030935,
+      "longitude": 23.704505
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.031561,
+      "longitude": 23.709619
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.031718,
+      "longitude": 21.364036
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.031812,
+      "longitude": 23.736571
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.031894,
+      "longitude": 23.724277
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.032159,
+      "longitude": 23.747546
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.032686,
+      "longitude": 23.715925
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.032936,
+      "longitude": 23.761202
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.033075,
+      "longitude": 23.74317
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.033344,
+      "longitude": 23.753278
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.033409,
+      "longitude": 23.695516
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.034049,
+      "longitude": 23.737116
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.035193,
+      "longitude": 23.691641
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.035331,
+      "longitude": 23.751455
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.035631,
+      "longitude": 23.74861
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.036382,
+      "longitude": 23.772751
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.036647,
+      "longitude": 23.693738
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.036963,
+      "longitude": 23.76688
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.037548,
+      "longitude": 23.75577
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.037786,
+      "longitude": 23.750012
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.038207,
+      "longitude": 23.764584
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.038642,
+      "longitude": 23.770298
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.039223,
+      "longitude": 23.748471
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.039603,
+      "longitude": 23.755643
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.04003,
+      "longitude": 23.762286
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.040586,
+      "longitude": 23.687222
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.040831,
+      "longitude": 23.540008
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.041204,
+      "longitude": 23.540995
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.041525,
+      "longitude": 23.755853
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.042419,
+      "longitude": 23.752534
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.042677,
+      "longitude": 23.755002
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.0428,
+      "longitude": 23.684157
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.043169,
+      "longitude": 23.753294
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.043186,
+      "longitude": 23.749492
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.044211,
+      "longitude": 23.751682
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.045054,
+      "longitude": 23.751885
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.045756,
+      "longitude": 23.546722
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.046588,
+      "longitude": 23.742146
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.046803,
+      "longitude": 23.750975
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.047331,
+      "longitude": 23.808862
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.047993,
+      "longitude": 23.812399
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.048954,
+      "longitude": 23.749597
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.050192,
+      "longitude": 23.763817
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.051487,
+      "longitude": 23.766232
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.051786,
+      "longitude": 23.758778
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.052461,
+      "longitude": 21.380706
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.052483,
+      "longitude": 23.730163
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.052801,
+      "longitude": 23.808796
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.053628,
+      "longitude": 23.812445
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.05374,
+      "longitude": 23.781402
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.053866,
+      "longitude": 23.807072
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.05427,
+      "longitude": 23.810137
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.054396,
+      "longitude": 23.808139
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.055604,
+      "longitude": 23.792665
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.055714,
+      "longitude": 23.804709
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.059225,
+      "longitude": 23.791792
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.059293,
+      "longitude": 23.788422
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.059494,
+      "longitude": 23.797874
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.059831,
+      "longitude": 23.713846
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.060302,
+      "longitude": 23.707656
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.060702,
+      "longitude": 23.75638
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.060795,
+      "longitude": 23.773121
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.062346,
+      "longitude": 23.713684
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.062699,
+      "longitude": 23.762983
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.07268,
+      "longitude": 23.812214
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.075695,
+      "longitude": 23.496191
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.076196,
+      "longitude": 23.523807
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.077419,
+      "longitude": 23.702175
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.077742,
+      "longitude": 23.702941
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.078476,
+      "longitude": 23.702738
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.078597,
+      "longitude": 23.70417
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.0787,
+      "longitude": 23.735092
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.081577,
+      "longitude": 23.697131
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.086238,
+      "longitude": 23.708602
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.092351,
+      "longitude": 23.795624
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.098666,
+      "longitude": 23.810926
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.098822,
+      "longitude": 21.420279
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.120982,
+      "longitude": 23.859614
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.236406,
+      "longitude": 21.725701
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.241756,
+      "longitude": 21.73607
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.242414,
+      "longitude": 21.7391
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.24302,
+      "longitude": 21.73447
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.249597,
+      "longitude": 21.737987
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.254838,
+      "longitude": 21.740718
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.376753,
+      "longitude": 22.629981
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.376853,
+      "longitude": 22.383075
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.377082,
+      "longitude": 22.631142
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.383311,
+      "longitude": 23.629523
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.392777,
+      "longitude": 21.829407
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.570984,
+      "longitude": 23.773066
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.573442,
+      "longitude": 21.666469
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.582425,
+      "longitude": 23.838705
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.62857,
+      "longitude": 21.405458
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.633393,
+      "longitude": 21.406342
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.633435,
+      "longitude": 21.399577
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.777648,
+      "longitude": 22.771469
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.83174,
+      "longitude": 20.705532
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.889798,
+      "longitude": 22.438569
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.901762,
+      "longitude": 22.432837
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 38.909848,
+      "longitude": 22.428597
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.14595,
+      "longitude": 23.864901
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.161944,
+      "longitude": 21.014233
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.327372,
+      "longitude": 26.174589
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.340828,
+      "longitude": 23.011798
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.361989,
+      "longitude": 22.943883
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.362262,
+      "longitude": 22.943333
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.365625,
+      "longitude": 22.949913
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.368937,
+      "longitude": 20.302665
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.422421,
+      "longitude": 20.04579
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.495285,
+      "longitude": 20.262464
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.499202,
+      "longitude": 20.264169
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.501257,
+      "longitude": 20.264102
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.519689,
+      "longitude": 20.886066
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.610988,
+      "longitude": 22.430858
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.615952,
+      "longitude": 19.912265
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.624713,
+      "longitude": 22.424046
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.62524,
+      "longitude": 22.423949
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.631287,
+      "longitude": 22.419998
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.632793,
+      "longitude": 22.426279
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.633517,
+      "longitude": 22.428216
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.634535,
+      "longitude": 22.417264
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.635815,
+      "longitude": 22.413782
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.635906,
+      "longitude": 22.420541
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.636221,
+      "longitude": 22.416379
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.636713,
+      "longitude": 22.425246
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.637144,
+      "longitude": 22.414499
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.637186,
+      "longitude": 22.427508
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.637284,
+      "longitude": 22.421698
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.637304,
+      "longitude": 22.4196
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.638075,
+      "longitude": 22.4132
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.638417,
+      "longitude": 22.416838
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.63987,
+      "longitude": 22.415615
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.64023,
+      "longitude": 22.420553
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.640347,
+      "longitude": 22.418765
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.66337,
+      "longitude": 20.851452
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.665192,
+      "longitude": 22.394985
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.666226,
+      "longitude": 20.854116
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.667969,
+      "longitude": 20.855701
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.669102,
+      "longitude": 20.857722
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.670836,
+      "longitude": 20.849541
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.673064,
+      "longitude": 20.849066
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.674793,
+      "longitude": 20.843677
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.770134,
+      "longitude": 21.183803
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.771849,
+      "longitude": 21.181475
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 39.881543,
+      "longitude": 25.066861
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.051192,
+      "longitude": 23.412352
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.262851,
+      "longitude": 21.32457
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.276661,
+      "longitude": 22.505982
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.452818,
+      "longitude": 21.25844
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.462707,
+      "longitude": 22.859217
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.496989,
+      "longitude": 22.988092
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.502919,
+      "longitude": 22.541674
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.51006,
+      "longitude": 22.217268
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.519283,
+      "longitude": 21.264279
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.52029,
+      "longitude": 21.257479
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.522574,
+      "longitude": 21.262608
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.56703,
+      "longitude": 22.588973
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.570837,
+      "longitude": 22.958285
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.590802,
+      "longitude": 23.038008
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.594436,
+      "longitude": 22.959303
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.597244,
+      "longitude": 22.959641
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.59854,
+      "longitude": 22.954876
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.598941,
+      "longitude": 22.952948
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.599405,
+      "longitude": 22.951518
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.59947,
+      "longitude": 22.970462
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.600042,
+      "longitude": 22.955934
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.600172,
+      "longitude": 22.960221
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.600193,
+      "longitude": 22.953921
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.600385,
+      "longitude": 22.964701
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.601179,
+      "longitude": 22.958806
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.601234,
+      "longitude": 22.954051
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.602318,
+      "longitude": 22.973806
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.602503,
+      "longitude": 22.964834
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.602761,
+      "longitude": 22.953381
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.602871,
+      "longitude": 22.968413
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.603202,
+      "longitude": 22.961311
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.604809,
+      "longitude": 22.959928
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.605103,
+      "longitude": 22.968265
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.607366,
+      "longitude": 22.962601
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.608713,
+      "longitude": 22.966388
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.608749,
+      "longitude": 22.971755
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.608851,
+      "longitude": 22.969063
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.608949,
+      "longitude": 23.100244
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.610262,
+      "longitude": 22.953726
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.611194,
+      "longitude": 22.96471
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.612529,
+      "longitude": 22.972497
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.614107,
+      "longitude": 22.96709
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.615214,
+      "longitude": 22.969254
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.631003,
+      "longitude": 22.967484
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.631457,
+      "longitude": 22.942086
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.631884,
+      "longitude": 22.946369
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.632452,
+      "longitude": 22.951448
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.633691,
+      "longitude": 22.948703
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.633814,
+      "longitude": 22.942856
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.633968,
+      "longitude": 22.946062
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.634063,
+      "longitude": 22.947304
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.634092,
+      "longitude": 22.937099
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.634791,
+      "longitude": 22.954101
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.639431,
+      "longitude": 22.936614
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.640373,
+      "longitude": 22.934158
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.644527,
+      "longitude": 22.92891
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.645047,
+      "longitude": 22.925178
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.647367,
+      "longitude": 22.920578
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.648219,
+      "longitude": 22.928891
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.650022,
+      "longitude": 22.943504
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.651641,
+      "longitude": 22.93148
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.651839,
+      "longitude": 22.942474
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.652936,
+      "longitude": 22.925821
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.654799,
+      "longitude": 22.919066
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.65537,
+      "longitude": 22.923911
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.656009,
+      "longitude": 22.916586
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.656036,
+      "longitude": 22.924163
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.656433,
+      "longitude": 22.961692
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.657184,
+      "longitude": 22.913419
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.657795,
+      "longitude": 22.925271
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.659759,
+      "longitude": 22.931725
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.661279,
+      "longitude": 22.946372
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.662668,
+      "longitude": 22.929869
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.664596,
+      "longitude": 23.701101
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.665619,
+      "longitude": 23.696186
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.66619,
+      "longitude": 22.926969
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.667774,
+      "longitude": 22.932483
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.667791,
+      "longitude": 22.89888
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.667891,
+      "longitude": 22.9372
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.668421,
+      "longitude": 22.911896
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.670456,
+      "longitude": 22.933254
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.670515,
+      "longitude": 22.904999
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.67125,
+      "longitude": 22.900959
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.675396,
+      "longitude": 22.906313
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.749187,
+      "longitude": 23.06785
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.780296,
+      "longitude": 21.409975
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.844217,
+      "longitude": 25.869018
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.845223,
+      "longitude": 25.870659
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.84545,
+      "longitude": 25.878964
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.847706,
+      "longitude": 25.872789
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.84795,
+      "longitude": 25.885722
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.849019,
+      "longitude": 25.864861
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.849158,
+      "longitude": 25.874009
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.851247,
+      "longitude": 25.875982
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.85724,
+      "longitude": 25.869073
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.935933,
+      "longitude": 24.406982
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.936722,
+      "longitude": 24.409294
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.936811,
+      "longitude": 24.406778
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.937265,
+      "longitude": 24.41308
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.939363,
+      "longitude": 24.404774
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.944809,
+      "longitude": 23.999327
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 40.961103,
+      "longitude": 22.524904
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 41.011197,
+      "longitude": 24.292108
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 41.180532,
+      "longitude": 23.282381
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 41.182217,
+      "longitude": 23.282965
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 41.237602,
+      "longitude": 23.393692
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 41.259901,
+      "longitude": 23.000418
+    },
+    {
+      "name": "ΟΠΑΠ",
+      "latitude": 41.262666,
+      "longitude": 22.840787
+    },
+    {
+      "name": "ΟΠΑΠ Play",
+      "latitude": 37.987085,
+      "longitude": 23.762172
+    },
+    {
+      "name": "ΟΠΑΠ Play",
+      "latitude": 37.991452,
+      "longitude": 23.730996
+    },
+    {
+      "name": "ΟΠΑΠ Play",
+      "latitude": 38.022605,
+      "longitude": 23.795761
+    },
+    {
+      "name": "ΟΠΑΠ Play",
+      "latitude": 38.030177,
+      "longitude": 23.779398
+    },
+    {
+      "name": "ΟΠΑΠ play",
+      "latitude": 40.629911,
+      "longitude": 22.948302
+    },
+    {
+      "name": "Οπαπ",
+      "latitude": 38.249218,
+      "longitude": 21.735549
+    },
+    {
+      "name": "Οπαπ",
+      "latitude": 40.637947,
+      "longitude": 22.941076
+    },
+    {
+      "name": "ΠΡΑΚΤΟΡΕΙΟ ΠΡΟΠΟ ΣΠΥΡΙΔΑΚΗ ΜΑΡΙΑ",
+      "latitude": 35.365285,
+      "longitude": 24.508499
+    },
+    {
+      "name": "ΠΡΟΠΟ",
+      "latitude": 38.470578,
+      "longitude": 23.586152
+    },
+    {
+      "name": "ΠΡΟΠΟ",
+      "latitude": 40.783134,
+      "longitude": 21.483011
+    },
+    {
+      "name": "Πίγκος Δημήτριος",
+      "latitude": 38.462172,
+      "longitude": 23.594609
+    },
+    {
+      "name": "Πρακτορείο ΟΠΑΠ",
+      "latitude": 37.912317,
+      "longitude": 23.734882
+    },
+    {
+      "name": "Πρακτορείο ΟΠΑΠ",
+      "latitude": 38.00707,
+      "longitude": 23.727526
+    },
+    {
+      "name": "Πρακτορείο ΟΠΑΠ",
+      "latitude": 38.261374,
+      "longitude": 21.743063
+    },
+    {
+      "name": "Πρακτορείο ΟΠΑΠ",
+      "latitude": 40.680145,
+      "longitude": 22.936742
+    },
+    {
+      "name": "Πρακτορειο ΟΠΑΠ Κουμεντακης Ιωαννης",
+      "latitude": 40.546502,
+      "longitude": 23.020296
+    },
+    {
+      "name": "Σταματίου Δήμητρα",
+      "latitude": 38.457268,
+      "longitude": 23.602089
+    },
+    {
+      "name": "Το Άχαστο",
+      "latitude": 38.085699,
+      "longitude": 23.701497
+    }
+  ],
+  "meta": {
+    "title": "Πρακτορεία στοιχημάτων (ΟΠΑΠ) στην Ελλάδα (OSM) - Δωρεάν λήψη",
+    "description": "Πρακτορεία στοιχημάτων / ΟΠΑΠ στην Ελλάδα από δεδομένα OpenStreetMap (shop=bookmaker). Όνομα και συντεταγμένες WGS84. Περιέχει 733 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πρακτορεία στοιχημάτων (ΟΠΑΠ) στην Ελλάδα (OSM) | ListBase",
+    "seo_description": "Λήψη Πρακτορεία στοιχημάτων (ΟΠΑΠ) στην Ελλάδα (OSM) — 733 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 733 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

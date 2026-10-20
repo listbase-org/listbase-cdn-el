@@ -1,0 +1,1941 @@
+{
+  "id": "el-anthopoleia",
+  "name": "Ανθοπωλεία Ελλάδας",
+  "title": "Ανθοπωλεία Ελλάδας",
+  "description": "Ανθοπωλεία σε όλη την Ελλάδα από το OpenStreetMap. Florists across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 380,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"catus\" flowers",
+      "latitude": 35.314053,
+      "longitude": 25.395339
+    },
+    {
+      "name": "\"Θαλάσση\"",
+      "latitude": 38.463069,
+      "longitude": 23.605401
+    },
+    {
+      "name": "Amaryllis",
+      "latitude": 38.042657,
+      "longitude": 23.683041
+    },
+    {
+      "name": "Anais Decor",
+      "latitude": 37.943315,
+      "longitude": 23.713763
+    },
+    {
+      "name": "Anemona Flower Shop",
+      "latitude": 35.328088,
+      "longitude": 25.306672
+    },
+    {
+      "name": "Angela",
+      "latitude": 39.477064,
+      "longitude": 19.912895
+    },
+    {
+      "name": "Anthemion Flowers",
+      "latitude": 37.998215,
+      "longitude": 23.682647
+    },
+    {
+      "name": "Anthos",
+      "latitude": 40.666365,
+      "longitude": 22.930739
+    },
+    {
+      "name": "Aquatic flowers",
+      "latitude": 37.983542,
+      "longitude": 23.676066
+    },
+    {
+      "name": "Art & fiori",
+      "latitude": 40.633725,
+      "longitude": 22.944567
+    },
+    {
+      "name": "Art Flowers",
+      "latitude": 40.268342,
+      "longitude": 22.505502
+    },
+    {
+      "name": "Arvanitis",
+      "latitude": 35.330339,
+      "longitude": 25.132915
+    },
+    {
+      "name": "Athens Garden",
+      "latitude": 37.976092,
+      "longitude": 23.732325
+    },
+    {
+      "name": "Athénée",
+      "latitude": 37.957272,
+      "longitude": 23.73518
+    },
+    {
+      "name": "Azalea",
+      "latitude": 38.831264,
+      "longitude": 20.702596
+    },
+    {
+      "name": "Barbakis",
+      "latitude": 37.930894,
+      "longitude": 23.703278
+    },
+    {
+      "name": "beautyflower, e-flowers.gr",
+      "latitude": 38.015972,
+      "longitude": 23.730843
+    },
+    {
+      "name": "Belle fleure elysee",
+      "latitude": 37.978414,
+      "longitude": 23.757043
+    },
+    {
+      "name": "Bililis",
+      "latitude": 38.005109,
+      "longitude": 23.776095
+    },
+    {
+      "name": "Black Rose Boutique",
+      "latitude": 37.966907,
+      "longitude": 23.728134
+    },
+    {
+      "name": "Blumen",
+      "latitude": 36.809215,
+      "longitude": 21.912965
+    },
+    {
+      "name": "Bonsai",
+      "latitude": 37.933396,
+      "longitude": 23.644631
+    },
+    {
+      "name": "Bonsai",
+      "latitude": 38.007415,
+      "longitude": 23.735254
+    },
+    {
+      "name": "BONSAI MELLOS FLOWERS",
+      "latitude": 41.115675,
+      "longitude": 25.402788
+    },
+    {
+      "name": "Bouquet",
+      "latitude": 40.617923,
+      "longitude": 22.95477
+    },
+    {
+      "name": "Bouquet",
+      "latitude": 40.628472,
+      "longitude": 22.950117
+    },
+    {
+      "name": "Cactus",
+      "latitude": 35.314048,
+      "longitude": 25.394964
+    },
+    {
+      "name": "Carafti",
+      "latitude": 37.983054,
+      "longitude": 23.756695
+    },
+    {
+      "name": "Casa di Fiore",
+      "latitude": 37.938069,
+      "longitude": 22.929257
+    },
+    {
+      "name": "Celosia",
+      "latitude": 38.029508,
+      "longitude": 23.714596
+    },
+    {
+      "name": "Chrysanthemum",
+      "latitude": 40.583705,
+      "longitude": 22.982358
+    },
+    {
+      "name": "Cine Φυτόπολις",
+      "latitude": 39.097632,
+      "longitude": 26.554831
+    },
+    {
+      "name": "City Flowers",
+      "latitude": 38.010928,
+      "longitude": 23.795425
+    },
+    {
+      "name": "Cosmo",
+      "latitude": 37.966622,
+      "longitude": 23.702642
+    },
+    {
+      "name": "Dadamis Exclusive Flowers",
+      "latitude": 40.271805,
+      "longitude": 22.50039
+    },
+    {
+      "name": "Dana's Flowers",
+      "latitude": 38.038698,
+      "longitude": 23.76417
+    },
+    {
+      "name": "Dariveris",
+      "latitude": 38.014049,
+      "longitude": 23.819899
+    },
+    {
+      "name": "Desert Rose",
+      "latitude": 38.037932,
+      "longitude": 23.674377
+    },
+    {
+      "name": "dovras",
+      "latitude": 38.095776,
+      "longitude": 23.792745
+    },
+    {
+      "name": "Drizos",
+      "latitude": 37.977103,
+      "longitude": 23.736188
+    },
+    {
+      "name": "Easter Lilly",
+      "latitude": 38.050512,
+      "longitude": 23.764887
+    },
+    {
+      "name": "Eden flowers",
+      "latitude": 37.944548,
+      "longitude": 23.648591
+    },
+    {
+      "name": "Elaia",
+      "latitude": 37.869789,
+      "longitude": 23.765954
+    },
+    {
+      "name": "Eleonore",
+      "latitude": 40.667921,
+      "longitude": 22.937927
+    },
+    {
+      "name": "Elias",
+      "latitude": 37.98754,
+      "longitude": 23.767181
+    },
+    {
+      "name": "Enkipo",
+      "latitude": 35.51363,
+      "longitude": 24.020159
+    },
+    {
+      "name": "Eriketti-Floral Creations",
+      "latitude": 37.946086,
+      "longitude": 23.668671
+    },
+    {
+      "name": "Evelina's flowers",
+      "latitude": 38.011053,
+      "longitude": 23.749917
+    },
+    {
+      "name": "Even Green",
+      "latitude": 35.365585,
+      "longitude": 24.507863
+    },
+    {
+      "name": "Fantastic Flower",
+      "latitude": 38.055782,
+      "longitude": 23.80245
+    },
+    {
+      "name": "Fidelio",
+      "latitude": 39.108616,
+      "longitude": 26.55739
+    },
+    {
+      "name": "Fillo",
+      "latitude": 38.05432,
+      "longitude": 23.8078
+    },
+    {
+      "name": "Fiorellino",
+      "latitude": 37.991934,
+      "longitude": 23.726216
+    },
+    {
+      "name": "Fiorentino",
+      "latitude": 39.631855,
+      "longitude": 22.423987
+    },
+    {
+      "name": "First Day",
+      "latitude": 37.930871,
+      "longitude": 23.695315
+    },
+    {
+      "name": "Fitopolis",
+      "latitude": 39.986082,
+      "longitude": 23.617769
+    },
+    {
+      "name": "Fleria",
+      "latitude": 37.978161,
+      "longitude": 23.744368
+    },
+    {
+      "name": "Fleuri",
+      "latitude": 38.041097,
+      "longitude": 23.738289
+    },
+    {
+      "name": "Fleurs de Athens",
+      "latitude": 37.938098,
+      "longitude": 23.642648
+    },
+    {
+      "name": "Flora Greca",
+      "latitude": 37.938342,
+      "longitude": 23.640192
+    },
+    {
+      "name": "Floral Fantasy",
+      "latitude": 37.929884,
+      "longitude": 23.749982
+    },
+    {
+      "name": "Floriale",
+      "latitude": 37.995396,
+      "longitude": 23.671246
+    },
+    {
+      "name": "Flower art",
+      "latitude": 37.907028,
+      "longitude": 23.749679
+    },
+    {
+      "name": "Flower Center",
+      "latitude": 39.621435,
+      "longitude": 19.913744
+    },
+    {
+      "name": "Flower Corner Μπαξεβανίδης",
+      "latitude": 40.522376,
+      "longitude": 21.261551
+    },
+    {
+      "name": "Flower Design",
+      "latitude": 37.967675,
+      "longitude": 23.749532
+    },
+    {
+      "name": "Flower Mania",
+      "latitude": 36.780709,
+      "longitude": 27.141706
+    },
+    {
+      "name": "Flower State",
+      "latitude": 37.970927,
+      "longitude": 23.652171
+    },
+    {
+      "name": "Flower Taki",
+      "latitude": 36.808728,
+      "longitude": 21.913121
+    },
+    {
+      "name": "Floweristas",
+      "latitude": 37.963783,
+      "longitude": 23.658339
+    },
+    {
+      "name": "Flowerline Ioannidis",
+      "latitude": 37.980038,
+      "longitude": 23.756219
+    },
+    {
+      "name": "Flowers Club",
+      "latitude": 37.938047,
+      "longitude": 23.639524
+    },
+    {
+      "name": "Flowers Dafni",
+      "latitude": 38.01351,
+      "longitude": 23.822914
+    },
+    {
+      "name": "Flowers Design",
+      "latitude": 38.019915,
+      "longitude": 24.006636
+    },
+    {
+      "name": "Flowers Fashion",
+      "latitude": 38.022109,
+      "longitude": 23.792088
+    },
+    {
+      "name": "Flowers Kosmas",
+      "latitude": 38.618961,
+      "longitude": 21.410317
+    },
+    {
+      "name": "Frentzos",
+      "latitude": 38.010697,
+      "longitude": 23.824113
+    },
+    {
+      "name": "Fresh",
+      "latitude": 37.998951,
+      "longitude": 23.741544
+    },
+    {
+      "name": "Frezia",
+      "latitude": 37.941643,
+      "longitude": 23.697802
+    },
+    {
+      "name": "Fytopolio",
+      "latitude": 37.930357,
+      "longitude": 23.635568
+    },
+    {
+      "name": "Gallerie des Fleurs",
+      "latitude": 40.521758,
+      "longitude": 21.263145
+    },
+    {
+      "name": "Garden Center EDEM",
+      "latitude": 40.674857,
+      "longitude": 22.935681
+    },
+    {
+      "name": "Geoponos",
+      "latitude": 39.687915,
+      "longitude": 19.838548
+    },
+    {
+      "name": "GIANNI",
+      "latitude": 40.653092,
+      "longitude": 22.949575
+    },
+    {
+      "name": "Grow academy",
+      "latitude": 37.982883,
+      "longitude": 23.734342
+    },
+    {
+      "name": "Harmantas Floral Creations",
+      "latitude": 38.059858,
+      "longitude": 23.796987
+    },
+    {
+      "name": "House Of Flowers",
+      "latitude": 40.602777,
+      "longitude": 22.965792
+    },
+    {
+      "name": "Interflora Fresh",
+      "latitude": 38.079272,
+      "longitude": 23.705494
+    },
+    {
+      "name": "Ios Gardens",
+      "latitude": 36.729532,
+      "longitude": 25.274396
+    },
+    {
+      "name": "Jamaica",
+      "latitude": 38.037437,
+      "longitude": 23.766508
+    },
+    {
+      "name": "Johanna flowers",
+      "latitude": 37.915154,
+      "longitude": 23.716633
+    },
+    {
+      "name": "Kinoko",
+      "latitude": 38.465569,
+      "longitude": 23.593128
+    },
+    {
+      "name": "Koumaropoulos",
+      "latitude": 40.571331,
+      "longitude": 22.958634
+    },
+    {
+      "name": "La belle fleur",
+      "latitude": 37.967857,
+      "longitude": 23.744507
+    },
+    {
+      "name": "La fleur",
+      "latitude": 37.929579,
+      "longitude": 23.633425
+    },
+    {
+      "name": "Le Fleuriste",
+      "latitude": 38.047187,
+      "longitude": 23.759402
+    },
+    {
+      "name": "Le Jardin",
+      "latitude": 38.013846,
+      "longitude": 23.749484
+    },
+    {
+      "name": "Le shop",
+      "latitude": 37.979058,
+      "longitude": 23.73929
+    },
+    {
+      "name": "Louizos",
+      "latitude": 38.086869,
+      "longitude": 23.706463
+    },
+    {
+      "name": "M&B",
+      "latitude": 39.102175,
+      "longitude": 26.556251
+    },
+    {
+      "name": "Maison de Fleur",
+      "latitude": 37.939548,
+      "longitude": 23.7131
+    },
+    {
+      "name": "manfler. | Greece's Local Florist",
+      "latitude": 35.364801,
+      "longitude": 24.489041
+    },
+    {
+      "name": "Margarita's",
+      "latitude": 38.043448,
+      "longitude": 23.752461
+    },
+    {
+      "name": "Mercedes Flowers",
+      "latitude": 38.013634,
+      "longitude": 23.721546
+    },
+    {
+      "name": "Mille Fiori",
+      "latitude": 36.804866,
+      "longitude": 22.851864
+    },
+    {
+      "name": "MilvaFlowers.gr",
+      "latitude": 38.242985,
+      "longitude": 21.731627
+    },
+    {
+      "name": "Mimoza",
+      "latitude": 37.94741,
+      "longitude": 23.69792
+    },
+    {
+      "name": "mini garden",
+      "latitude": 40.58736,
+      "longitude": 22.962082
+    },
+    {
+      "name": "MOUSSOURIS",
+      "latitude": 37.991071,
+      "longitude": 23.748491
+    },
+    {
+      "name": "Moustakas Flowers",
+      "latitude": 40.607103,
+      "longitude": 22.953096
+    },
+    {
+      "name": "Natalia's Flowers",
+      "latitude": 37.979785,
+      "longitude": 23.737353
+    },
+    {
+      "name": "Natura",
+      "latitude": 37.939585,
+      "longitude": 22.931954
+    },
+    {
+      "name": "New garden",
+      "latitude": 39.232765,
+      "longitude": 26.209509
+    },
+    {
+      "name": "New leaf",
+      "latitude": 38.004731,
+      "longitude": 23.803318
+    },
+    {
+      "name": "NS flowers",
+      "latitude": 37.985235,
+      "longitude": 23.761757
+    },
+    {
+      "name": "Orchidea By Olga Anesti",
+      "latitude": 38.251169,
+      "longitude": 22.084868
+    },
+    {
+      "name": "Papasotiriou",
+      "latitude": 37.996065,
+      "longitude": 23.729613
+    },
+    {
+      "name": "Paradise",
+      "latitude": 37.987975,
+      "longitude": 23.712637
+    },
+    {
+      "name": "Paradise flowers",
+      "latitude": 40.640417,
+      "longitude": 22.941686
+    },
+    {
+      "name": "Paradise Garden Art",
+      "latitude": 37.981537,
+      "longitude": 23.764535
+    },
+    {
+      "name": "Plumeria",
+      "latitude": 37.978591,
+      "longitude": 23.754059
+    },
+    {
+      "name": "Polyamorous",
+      "latitude": 37.984982,
+      "longitude": 23.738796
+    },
+    {
+      "name": "Poulianos",
+      "latitude": 37.978907,
+      "longitude": 23.766496
+    },
+    {
+      "name": "Primavera",
+      "latitude": 40.620543,
+      "longitude": 22.957641
+    },
+    {
+      "name": "Pure",
+      "latitude": 38.036589,
+      "longitude": 23.739742
+    },
+    {
+      "name": "Reppas",
+      "latitude": 37.99295,
+      "longitude": 23.744811
+    },
+    {
+      "name": "Rodonas Art",
+      "latitude": 39.664422,
+      "longitude": 20.855317
+    },
+    {
+      "name": "Rose Gallery",
+      "latitude": 40.608743,
+      "longitude": 22.965949
+    },
+    {
+      "name": "Rosetta",
+      "latitude": 37.833538,
+      "longitude": 23.802161
+    },
+    {
+      "name": "Salon des Fleurs",
+      "latitude": 37.973913,
+      "longitude": 23.747815
+    },
+    {
+      "name": "Savrami",
+      "latitude": 38.200708,
+      "longitude": 20.437606
+    },
+    {
+      "name": "Serera",
+      "latitude": 38.072381,
+      "longitude": 23.708594
+    },
+    {
+      "name": "Shine",
+      "latitude": 37.943757,
+      "longitude": 23.660075
+    },
+    {
+      "name": "Stand de fleurs",
+      "latitude": 40.633419,
+      "longitude": 22.944192
+    },
+    {
+      "name": "Stathis flowers",
+      "latitude": 37.976309,
+      "longitude": 23.761575
+    },
+    {
+      "name": "Stella's",
+      "latitude": 37.978378,
+      "longitude": 23.738292
+    },
+    {
+      "name": "Studio Garden",
+      "latitude": 37.943574,
+      "longitude": 23.65297
+    },
+    {
+      "name": "Studio Ioannidi",
+      "latitude": 37.977131,
+      "longitude": 23.73835
+    },
+    {
+      "name": "Symi Flower",
+      "latitude": 36.614904,
+      "longitude": 27.836435
+    },
+    {
+      "name": "The Cube",
+      "latitude": 39.638115,
+      "longitude": 22.422096
+    },
+    {
+      "name": "The florist",
+      "latitude": 38.058951,
+      "longitude": 23.79198
+    },
+    {
+      "name": "The Flower Company",
+      "latitude": 40.636688,
+      "longitude": 22.938641
+    },
+    {
+      "name": "The Flower Lab",
+      "latitude": 37.989348,
+      "longitude": 23.338669
+    },
+    {
+      "name": "The Flower Shop",
+      "latitude": 40.601909,
+      "longitude": 22.969786
+    },
+    {
+      "name": "The power of a flower",
+      "latitude": 37.936754,
+      "longitude": 23.947079
+    },
+    {
+      "name": "The power of flower",
+      "latitude": 37.975906,
+      "longitude": 23.736536
+    },
+    {
+      "name": "To kalderimi",
+      "latitude": 38.021549,
+      "longitude": 23.7992
+    },
+    {
+      "name": "Tropik-Anna",
+      "latitude": 37.944461,
+      "longitude": 23.648744
+    },
+    {
+      "name": "Unique Flowers",
+      "latitude": 37.959654,
+      "longitude": 23.75436
+    },
+    {
+      "name": "Vagenas",
+      "latitude": 37.966778,
+      "longitude": 23.638496
+    },
+    {
+      "name": "Vagenas",
+      "latitude": 38.007021,
+      "longitude": 23.698778
+    },
+    {
+      "name": "Valentina",
+      "latitude": 39.62925,
+      "longitude": 20.848873
+    },
+    {
+      "name": "Vasilatou",
+      "latitude": 38.032019,
+      "longitude": 23.749646
+    },
+    {
+      "name": "Virginia",
+      "latitude": 39.110047,
+      "longitude": 26.552532
+    },
+    {
+      "name": "Zerbera",
+      "latitude": 37.99254,
+      "longitude": 23.76625
+    },
+    {
+      "name": "Άγγελος",
+      "latitude": 37.930398,
+      "longitude": 23.639548
+    },
+    {
+      "name": "Άγγελος",
+      "latitude": 37.968581,
+      "longitude": 23.756664
+    },
+    {
+      "name": "Άνθη Αντωνόπουλος",
+      "latitude": 40.631132,
+      "longitude": 22.950265
+    },
+    {
+      "name": "Άνθη Εντελβάις",
+      "latitude": 37.96173,
+      "longitude": 23.710117
+    },
+    {
+      "name": "Άνθη Στέλιος",
+      "latitude": 40.600664,
+      "longitude": 22.959328
+    },
+    {
+      "name": "Άνθη Φλεριανού",
+      "latitude": 38.006227,
+      "longitude": 23.729087
+    },
+    {
+      "name": "Άνθη-φυτά Παπαχρήστου",
+      "latitude": 39.675205,
+      "longitude": 20.845494
+    },
+    {
+      "name": "Άνθη-Φυτά Τσαρούχης Σπυρίδων",
+      "latitude": 37.942848,
+      "longitude": 23.651979
+    },
+    {
+      "name": "Άρης",
+      "latitude": 39.50177,
+      "longitude": 20.265082
+    },
+    {
+      "name": "Έαρ",
+      "latitude": 38.019494,
+      "longitude": 23.801926
+    },
+    {
+      "name": "Ίριδα",
+      "latitude": 37.974865,
+      "longitude": 23.765309
+    },
+    {
+      "name": "Ίριδα",
+      "latitude": 41.149868,
+      "longitude": 24.152132
+    },
+    {
+      "name": "Αγγέλων Άνθη",
+      "latitude": 38.079362,
+      "longitude": 23.705452
+    },
+    {
+      "name": "Αγροτικό σπίτι",
+      "latitude": 37.942382,
+      "longitude": 23.649374
+    },
+    {
+      "name": "Αγρόπολις",
+      "latitude": 38.47185,
+      "longitude": 23.555191
+    },
+    {
+      "name": "Αζαλέα - Λουλέλης Α. Λάμπρος",
+      "latitude": 38.000862,
+      "longitude": 23.714991
+    },
+    {
+      "name": "Αλόη",
+      "latitude": 37.938825,
+      "longitude": 23.756413
+    },
+    {
+      "name": "Αμαρυλλίς",
+      "latitude": 37.939519,
+      "longitude": 22.932966
+    },
+    {
+      "name": "Αμαρυλλίς",
+      "latitude": 37.940005,
+      "longitude": 23.64105
+    },
+    {
+      "name": "Αμαρυλλίς",
+      "latitude": 38.039401,
+      "longitude": 23.755223
+    },
+    {
+      "name": "Αμαρυλλίς",
+      "latitude": 40.946995,
+      "longitude": 22.449078
+    },
+    {
+      "name": "Ανεμόλια",
+      "latitude": 38.363791,
+      "longitude": 20.718196
+    },
+    {
+      "name": "Ανεμώνες",
+      "latitude": 37.985433,
+      "longitude": 23.740766
+    },
+    {
+      "name": "Ανεμώνη",
+      "latitude": 38.248886,
+      "longitude": 21.738036
+    },
+    {
+      "name": "Ανεμώνη",
+      "latitude": 38.390982,
+      "longitude": 21.822862
+    },
+    {
+      "name": "Ανεμώνη",
+      "latitude": 40.42487,
+      "longitude": 22.926784
+    },
+    {
+      "name": "Ανεμώνη",
+      "latitude": 41.117945,
+      "longitude": 25.400838
+    },
+    {
+      "name": "Ανθέμιο",
+      "latitude": 37.072349,
+      "longitude": 22.433316
+    },
+    {
+      "name": "Ανθέμιο",
+      "latitude": 40.574568,
+      "longitude": 22.952135
+    },
+    {
+      "name": "Ανθέων",
+      "latitude": 40.600738,
+      "longitude": 22.950973
+    },
+    {
+      "name": "Ανθοδετικός Οίκος Sole",
+      "latitude": 37.988847,
+      "longitude": 23.747521
+    },
+    {
+      "name": "Ανθοδημιουργίες",
+      "latitude": 38.086239,
+      "longitude": 23.81854
+    },
+    {
+      "name": "Ανθοδημιουργίες Κωνσταντίνος",
+      "latitude": 40.606621,
+      "longitude": 22.978129
+    },
+    {
+      "name": "Ανθοκηπευτικη",
+      "latitude": 37.432705,
+      "longitude": 24.934846
+    },
+    {
+      "name": "Ανθοκηπια Παπουτση",
+      "latitude": 39.393001,
+      "longitude": 23.158109
+    },
+    {
+      "name": "Ανθολόγιο",
+      "latitude": 40.609679,
+      "longitude": 22.991788
+    },
+    {
+      "name": "Ανθοπωλείο",
+      "latitude": 38.045806,
+      "longitude": 23.775632
+    },
+    {
+      "name": "Ανθοπωλείο Εδέμ",
+      "latitude": 39.410848,
+      "longitude": 20.071132
+    },
+    {
+      "name": "Ανθοπωλειο Ζευκα",
+      "latitude": 37.671579,
+      "longitude": 21.43953
+    },
+    {
+      "name": "ΑΝΘΟΠΩΛΕΙΟ ΠΕΤΡΑΚΗ",
+      "latitude": 38.043469,
+      "longitude": 23.835539
+    },
+    {
+      "name": "Ανθοσυνθέσεις Σαπουντζάκης",
+      "latitude": 37.928595,
+      "longitude": 23.694109
+    },
+    {
+      "name": "Ανθούπολη",
+      "latitude": 40.650005,
+      "longitude": 22.931467
+    },
+    {
+      "name": "Ανθούριο",
+      "latitude": 39.096177,
+      "longitude": 26.552944
+    },
+    {
+      "name": "Ανθωπολειο Γεωργίου",
+      "latitude": 38.035027,
+      "longitude": 23.691896
+    },
+    {
+      "name": "Ανθόασις",
+      "latitude": 37.953332,
+      "longitude": 23.681448
+    },
+    {
+      "name": "Ανθόκηπος",
+      "latitude": 37.979478,
+      "longitude": 23.640401
+    },
+    {
+      "name": "Ανθόκοσμος",
+      "latitude": 39.089478,
+      "longitude": 26.561513
+    },
+    {
+      "name": "Ανθόραμα",
+      "latitude": 37.991522,
+      "longitude": 23.730183
+    },
+    {
+      "name": "Ανθώνας",
+      "latitude": 38.391148,
+      "longitude": 21.82402
+    },
+    {
+      "name": "Απιρ",
+      "latitude": 38.020951,
+      "longitude": 23.737968
+    },
+    {
+      "name": "Αρτεμις",
+      "latitude": 39.458501,
+      "longitude": 21.617923
+    },
+    {
+      "name": "ΑΡΧΟΝΤΗΣ",
+      "latitude": 38.025914,
+      "longitude": 23.74223
+    },
+    {
+      "name": "Αρωματικά φυτά",
+      "latitude": 37.979905,
+      "longitude": 23.727366
+    },
+    {
+      "name": "Αυγέρης",
+      "latitude": 37.974022,
+      "longitude": 23.748091
+    },
+    {
+      "name": "Αυγέρης",
+      "latitude": 38.027054,
+      "longitude": 23.738343
+    },
+    {
+      "name": "Βαγενάς",
+      "latitude": 37.9576,
+      "longitude": 23.631353
+    },
+    {
+      "name": "Βαλλιανος",
+      "latitude": 37.978795,
+      "longitude": 23.766064
+    },
+    {
+      "name": "Βουβουδάκης",
+      "latitude": 40.274837,
+      "longitude": 22.510315
+    },
+    {
+      "name": "Γαλάνη",
+      "latitude": 39.106748,
+      "longitude": 26.556172
+    },
+    {
+      "name": "Γεωγνωσία - Κέντρο Κήπου",
+      "latitude": 39.078546,
+      "longitude": 26.569171
+    },
+    {
+      "name": "γεωΕΦΟΔΙΑ",
+      "latitude": 35.314326,
+      "longitude": 25.173037
+    },
+    {
+      "name": "ΓΕΩΚΑΤ ΘΕΡΜΗΣ",
+      "latitude": 40.550695,
+      "longitude": 23.018969
+    },
+    {
+      "name": "ΓΕΩΠΟΝΙΚΟ ΚΕΝΤΡΟ ΚΑΛΑΒΡΥΤΩΝ \" ΔΗΜΗΤΡΗΣ Α. ΠΑΠΑΣΤΑΥΡΟΥ\"",
+      "latitude": 38.031181,
+      "longitude": 22.11077
+    },
+    {
+      "name": "Γεωργία",
+      "latitude": 37.941654,
+      "longitude": 23.766477
+    },
+    {
+      "name": "Γιατσέντο",
+      "latitude": 37.968166,
+      "longitude": 23.744523
+    },
+    {
+      "name": "Γιώτα",
+      "latitude": 40.649515,
+      "longitude": 22.923457
+    },
+    {
+      "name": "Γούλας Γιάννης",
+      "latitude": 37.979793,
+      "longitude": 23.746307
+    },
+    {
+      "name": "Γρηγόρης Χαλκιαδάκης",
+      "latitude": 37.967472,
+      "longitude": 23.708807
+    },
+    {
+      "name": "Δ. Λιονάκης",
+      "latitude": 37.974417,
+      "longitude": 23.76659
+    },
+    {
+      "name": "Δ. Χίμος",
+      "latitude": 37.949801,
+      "longitude": 23.735263
+    },
+    {
+      "name": "Δάντος",
+      "latitude": 37.990072,
+      "longitude": 23.743667
+    },
+    {
+      "name": "Δίανθος",
+      "latitude": 37.073219,
+      "longitude": 22.430388
+    },
+    {
+      "name": "Δίανθος",
+      "latitude": 37.119139,
+      "longitude": 25.243105
+    },
+    {
+      "name": "Δαριβέρης",
+      "latitude": 38.46118,
+      "longitude": 23.604259
+    },
+    {
+      "name": "Δαριβέρης",
+      "latitude": 38.468523,
+      "longitude": 23.60076
+    },
+    {
+      "name": "Δεδες",
+      "latitude": 37.956907,
+      "longitude": 23.766545
+    },
+    {
+      "name": "Διανδος",
+      "latitude": 35.336591,
+      "longitude": 25.159656
+    },
+    {
+      "name": "Δικότυλο",
+      "latitude": 37.971293,
+      "longitude": 23.750661
+    },
+    {
+      "name": "ΔΙΟΝΗ",
+      "latitude": 38.025007,
+      "longitude": 23.741179
+    },
+    {
+      "name": "Δουκάκης",
+      "latitude": 40.605987,
+      "longitude": 22.970823
+    },
+    {
+      "name": "Δούκα",
+      "latitude": 39.108122,
+      "longitude": 26.556538
+    },
+    {
+      "name": "Δριβήλας",
+      "latitude": 37.865109,
+      "longitude": 23.746479
+    },
+    {
+      "name": "δρομολούλουδα",
+      "latitude": 37.976275,
+      "longitude": 23.732786
+    },
+    {
+      "name": "Εδέμ",
+      "latitude": 37.063013,
+      "longitude": 25.482684
+    },
+    {
+      "name": "Ελένη",
+      "latitude": 37.982903,
+      "longitude": 23.663628
+    },
+    {
+      "name": "ΕΛΙΣΑΒΕΤ",
+      "latitude": 39.092008,
+      "longitude": 26.553923
+    },
+    {
+      "name": "Εργαστήρι της Αριστέας",
+      "latitude": 37.985231,
+      "longitude": 23.744065
+    },
+    {
+      "name": "Ευ-ανθία",
+      "latitude": 40.51586,
+      "longitude": 21.252499
+    },
+    {
+      "name": "Ευχής έργον",
+      "latitude": 37.934996,
+      "longitude": 22.928057
+    },
+    {
+      "name": "Εφραίμ",
+      "latitude": 37.983538,
+      "longitude": 23.731192
+    },
+    {
+      "name": "Η Ανοιξη",
+      "latitude": 40.263533,
+      "longitude": 21.326068
+    },
+    {
+      "name": "Η Κηπούπολη",
+      "latitude": 38.038377,
+      "longitude": 23.673359
+    },
+    {
+      "name": "Η Κρήτη",
+      "latitude": 37.953539,
+      "longitude": 23.71556
+    },
+    {
+      "name": "Ηχοστολισμοί",
+      "latitude": 38.04405,
+      "longitude": 23.752192
+    },
+    {
+      "name": "Θυμιος Τσαρουχης",
+      "latitude": 38.573714,
+      "longitude": 21.666839
+    },
+    {
+      "name": "Ιδανικός κήπος",
+      "latitude": 38.101618,
+      "longitude": 23.741411
+    },
+    {
+      "name": "Ιδιόμορφο",
+      "latitude": 40.6225,
+      "longitude": 22.440728
+    },
+    {
+      "name": "ΙΚΕΒΑΝΑ",
+      "latitude": 38.04312,
+      "longitude": 23.542354
+    },
+    {
+      "name": "Ιωάννου",
+      "latitude": 37.942971,
+      "longitude": 23.645162
+    },
+    {
+      "name": "Ιωνική Γεωπονική",
+      "latitude": 38.043398,
+      "longitude": 23.752827
+    },
+    {
+      "name": "Κάρσου",
+      "latitude": 37.891318,
+      "longitude": 23.761396
+    },
+    {
+      "name": "Κέντια",
+      "latitude": 38.03429,
+      "longitude": 23.678543
+    },
+    {
+      "name": "Κήπος",
+      "latitude": 38.089312,
+      "longitude": 23.743182
+    },
+    {
+      "name": "Κήπος του Καλού",
+      "latitude": 40.604731,
+      "longitude": 22.974441
+    },
+    {
+      "name": "Καλυψώ",
+      "latitude": 38.037461,
+      "longitude": 23.755987
+    },
+    {
+      "name": "Καραΐσκος",
+      "latitude": 39.632736,
+      "longitude": 22.400828
+    },
+    {
+      "name": "Καραϊσκος",
+      "latitude": 39.640144,
+      "longitude": 22.420713
+    },
+    {
+      "name": "Καρόζης",
+      "latitude": 38.449355,
+      "longitude": 24.113633
+    },
+    {
+      "name": "Κατηφόρη",
+      "latitude": 38.06602,
+      "longitude": 23.713066
+    },
+    {
+      "name": "Κεντια",
+      "latitude": 40.500261,
+      "longitude": 21.163874
+    },
+    {
+      "name": "Κεντια",
+      "latitude": 40.999332,
+      "longitude": 22.569726
+    },
+    {
+      "name": "Κεντρική Ανθαγορά Αθηνών",
+      "latitude": 38.026748,
+      "longitude": 23.737845
+    },
+    {
+      "name": "Κεντρική Ανθαγορά Ελλάδος",
+      "latitude": 38.120768,
+      "longitude": 23.73777
+    },
+    {
+      "name": "ΚΕΧΑΓΙΑΣ",
+      "latitude": 41.259774,
+      "longitude": 22.999565
+    },
+    {
+      "name": "Κλέλια",
+      "latitude": 40.611702,
+      "longitude": 22.98487
+    },
+    {
+      "name": "Κοκοφοίνικας",
+      "latitude": 38.004095,
+      "longitude": 23.775933
+    },
+    {
+      "name": "Κονδύλης",
+      "latitude": 38.002114,
+      "longitude": 23.734048
+    },
+    {
+      "name": "Κοράλι",
+      "latitude": 40.552061,
+      "longitude": 23.018243
+    },
+    {
+      "name": "Κορρές",
+      "latitude": 38.016547,
+      "longitude": 23.755138
+    },
+    {
+      "name": "Κουκουράβας",
+      "latitude": 39.638363,
+      "longitude": 22.416837
+    },
+    {
+      "name": "Κυκλάμινο",
+      "latitude": 37.934586,
+      "longitude": 23.642601
+    },
+    {
+      "name": "Κυκλάμινο",
+      "latitude": 38.08514,
+      "longitude": 23.739323
+    },
+    {
+      "name": "Κωνσταντίνα",
+      "latitude": 37.964483,
+      "longitude": 23.634635
+    },
+    {
+      "name": "Κωστής",
+      "latitude": 37.990993,
+      "longitude": 23.677087
+    },
+    {
+      "name": "Κόλιας",
+      "latitude": 38.011829,
+      "longitude": 23.691218
+    },
+    {
+      "name": "Λάζαρος",
+      "latitude": 38.031729,
+      "longitude": 23.706734
+    },
+    {
+      "name": "Λένα",
+      "latitude": 38.576856,
+      "longitude": 23.633891
+    },
+    {
+      "name": "Λίτσα",
+      "latitude": 41.074955,
+      "longitude": 24.246707
+    },
+    {
+      "name": "Λογοθέτης",
+      "latitude": 37.949413,
+      "longitude": 23.626457
+    },
+    {
+      "name": "Λουΐζος",
+      "latitude": 38.086771,
+      "longitude": 23.706861
+    },
+    {
+      "name": "Λουλουδάδικα",
+      "latitude": 40.634766,
+      "longitude": 22.941089
+    },
+    {
+      "name": "Λουλουδοπωλείο",
+      "latitude": 37.949826,
+      "longitude": 23.72019
+    },
+    {
+      "name": "Λουλουδοτοπος",
+      "latitude": 37.635069,
+      "longitude": 22.729353
+    },
+    {
+      "name": "Λυκουρέζος",
+      "latitude": 37.965612,
+      "longitude": 23.725182
+    },
+    {
+      "name": "Μάντεση Γεωργία",
+      "latitude": 37.63288,
+      "longitude": 22.72475
+    },
+    {
+      "name": "Μαίρη",
+      "latitude": 41.152039,
+      "longitude": 24.151563
+    },
+    {
+      "name": "Μαθιουδάκης",
+      "latitude": 37.947787,
+      "longitude": 23.714605
+    },
+    {
+      "name": "Μαμαης",
+      "latitude": 38.015272,
+      "longitude": 23.74369
+    },
+    {
+      "name": "Μανφλερ",
+      "latitude": 37.908979,
+      "longitude": 23.752049
+    },
+    {
+      "name": "Μαραγκός",
+      "latitude": 37.442342,
+      "longitude": 24.94231
+    },
+    {
+      "name": "Μαργαρίτα",
+      "latitude": 40.939614,
+      "longitude": 24.407324
+    },
+    {
+      "name": "Μαριάννα",
+      "latitude": 39.368853,
+      "longitude": 22.94626
+    },
+    {
+      "name": "Μαριλένα",
+      "latitude": 40.58327,
+      "longitude": 22.965056
+    },
+    {
+      "name": "Μαυράκη",
+      "latitude": 37.959695,
+      "longitude": 23.707109
+    },
+    {
+      "name": "Μοσχούλα",
+      "latitude": 36.726473,
+      "longitude": 24.446609
+    },
+    {
+      "name": "ΜΠΑΣΤΑ",
+      "latitude": 37.963996,
+      "longitude": 23.747588
+    },
+    {
+      "name": "μπαχτσες",
+      "latitude": 40.515146,
+      "longitude": 23.037107
+    },
+    {
+      "name": "Μπονσάι",
+      "latitude": 38.009861,
+      "longitude": 23.737744
+    },
+    {
+      "name": "Μπουκέτο",
+      "latitude": 40.96322,
+      "longitude": 24.359006
+    },
+    {
+      "name": "Μπούρης",
+      "latitude": 38.015403,
+      "longitude": 23.820221
+    },
+    {
+      "name": "Μπρολιός",
+      "latitude": 40.581713,
+      "longitude": 22.98312
+    },
+    {
+      "name": "Μυροβόλος",
+      "latitude": 38.030291,
+      "longitude": 23.701777
+    },
+    {
+      "name": "ΜΥΣΤΙΚΟΣ ΚΗΠΟΣ",
+      "latitude": 40.609253,
+      "longitude": 22.953556
+    },
+    {
+      "name": "ΜΩISIS",
+      "latitude": 37.946367,
+      "longitude": 23.758385
+    },
+    {
+      "name": "Νάρκισσος",
+      "latitude": 38.064163,
+      "longitude": 23.761412
+    },
+    {
+      "name": "Νίκος",
+      "latitude": 37.940791,
+      "longitude": 23.650672
+    },
+    {
+      "name": "Νατάσα",
+      "latitude": 40.601433,
+      "longitude": 22.961956
+    },
+    {
+      "name": "Νούφαρα",
+      "latitude": 37.976524,
+      "longitude": 23.742795
+    },
+    {
+      "name": "Νούφαρο",
+      "latitude": 38.01735,
+      "longitude": 24.009857
+    },
+    {
+      "name": "Ο Γιάννης",
+      "latitude": 39.635493,
+      "longitude": 22.419389
+    },
+    {
+      "name": "Ο Χάρης",
+      "latitude": 40.577649,
+      "longitude": 22.947036
+    },
+    {
+      "name": "ΟΙΚΟΝΟΜΙΔΗ ΚΟΝΤΕΣΣΑ -ΕΛΙΧΡΥΣΟ",
+      "latitude": 36.875279,
+      "longitude": 27.201824
+    },
+    {
+      "name": "Ορτανσία",
+      "latitude": 37.690928,
+      "longitude": 26.939683
+    },
+    {
+      "name": "Πέτρος",
+      "latitude": 37.964714,
+      "longitude": 23.623578
+    },
+    {
+      "name": "ΠΑΙΩΝΙΑ",
+      "latitude": 38.017657,
+      "longitude": 23.740961
+    },
+    {
+      "name": "Πανδαισία",
+      "latitude": 38.056159,
+      "longitude": 23.806654
+    },
+    {
+      "name": "Παπάλας",
+      "latitude": 39.140662,
+      "longitude": 26.415438
+    },
+    {
+      "name": "Παπαντζάνης",
+      "latitude": 38.011285,
+      "longitude": 23.650854
+    },
+    {
+      "name": "Παπατζάνης",
+      "latitude": 38.016963,
+      "longitude": 23.811556
+    },
+    {
+      "name": "Παύλος",
+      "latitude": 37.961942,
+      "longitude": 23.703902
+    },
+    {
+      "name": "Πειραική Φυταγορά",
+      "latitude": 37.94589,
+      "longitude": 23.645286
+    },
+    {
+      "name": "Πελαγία",
+      "latitude": 40.61479,
+      "longitude": 22.976992
+    },
+    {
+      "name": "Πες το με λουλούδια",
+      "latitude": 38.024061,
+      "longitude": 23.711116
+    },
+    {
+      "name": "ΠΗΛΙΝΑ",
+      "latitude": 38.002907,
+      "longitude": 23.747211
+    },
+    {
+      "name": "Πιστιόλης",
+      "latitude": 38.622601,
+      "longitude": 21.409738
+    },
+    {
+      "name": "ΠΟΠΗ",
+      "latitude": 41.259613,
+      "longitude": 23.00024
+    },
+    {
+      "name": "Πουλημένος",
+      "latitude": 38.053823,
+      "longitude": 23.812749
+    },
+    {
+      "name": "ΠΟΥΛΙΑΝΟΣ",
+      "latitude": 37.979329,
+      "longitude": 23.761162
+    },
+    {
+      "name": "Ρένα",
+      "latitude": 38.053759,
+      "longitude": 23.723832
+    },
+    {
+      "name": "Ρήγας",
+      "latitude": 40.572336,
+      "longitude": 22.95722
+    },
+    {
+      "name": "Ροδίτη",
+      "latitude": 37.96045,
+      "longitude": 23.635067
+    },
+    {
+      "name": "Ροδοσταλις",
+      "latitude": 38.251309,
+      "longitude": 22.088844
+    },
+    {
+      "name": "Ροδώνας ART",
+      "latitude": 39.664213,
+      "longitude": 20.855489
+    },
+    {
+      "name": "Ρωξάνα",
+      "latitude": 38.022024,
+      "longitude": 23.748719
+    },
+    {
+      "name": "Ρόδον",
+      "latitude": 41.236533,
+      "longitude": 23.390469
+    },
+    {
+      "name": "Σαμαρά",
+      "latitude": 39.63798,
+      "longitude": 22.42235
+    },
+    {
+      "name": "Σαρρής",
+      "latitude": 37.941178,
+      "longitude": 23.646191
+    },
+    {
+      "name": "Σαρόγλου",
+      "latitude": 38.041872,
+      "longitude": 23.755308
+    },
+    {
+      "name": "Σμαραγδόκηπος",
+      "latitude": 40.614596,
+      "longitude": 22.962756
+    },
+    {
+      "name": "Σπίτι και κήπος",
+      "latitude": 38.8109,
+      "longitude": 23.229048
+    },
+    {
+      "name": "Σπύρος",
+      "latitude": 37.92939,
+      "longitude": 23.643159
+    },
+    {
+      "name": "Σταμούλη",
+      "latitude": 41.178189,
+      "longitude": 23.96902
+    },
+    {
+      "name": "Σταύρος Αναδτασίου",
+      "latitude": 38.009219,
+      "longitude": 23.800711
+    },
+    {
+      "name": "Στολτίδη",
+      "latitude": 40.612585,
+      "longitude": 22.954314
+    },
+    {
+      "name": "Συνοδινός",
+      "latitude": 37.988326,
+      "longitude": 23.758267
+    },
+    {
+      "name": "Σύνθεση",
+      "latitude": 38.120926,
+      "longitude": 23.860454
+    },
+    {
+      "name": "Τάκης",
+      "latitude": 38.022652,
+      "longitude": 23.736428
+    },
+    {
+      "name": "Τάκης Πετρίδης",
+      "latitude": 37.985868,
+      "longitude": 23.762601
+    },
+    {
+      "name": "Τα Γεωπονικά",
+      "latitude": 39.637773,
+      "longitude": 22.408381
+    },
+    {
+      "name": "Τα ρόδα",
+      "latitude": 38.049639,
+      "longitude": 23.749327
+    },
+    {
+      "name": "Τασούλα",
+      "latitude": 38.037718,
+      "longitude": 23.771393
+    },
+    {
+      "name": "Τιλλαντσια",
+      "latitude": 40.600316,
+      "longitude": 22.950224
+    },
+    {
+      "name": "Το δάσος",
+      "latitude": 38.043658,
+      "longitude": 23.749394
+    },
+    {
+      "name": "ΤΟ ΣΠΙΤΙ ΤΩΝ ΦΥΤΩΝ",
+      "latitude": 38.043096,
+      "longitude": 23.727376
+    },
+    {
+      "name": "Τουλίπα",
+      "latitude": 38.258741,
+      "longitude": 21.742324
+    },
+    {
+      "name": "Τριανταφύλλης",
+      "latitude": 37.967829,
+      "longitude": 23.760755
+    },
+    {
+      "name": "Τρόπικα",
+      "latitude": 38.018854,
+      "longitude": 23.73127
+    },
+    {
+      "name": "Τσιρτσικος",
+      "latitude": 37.377946,
+      "longitude": 23.161562
+    },
+    {
+      "name": "Υάκινθος",
+      "latitude": 39.106201,
+      "longitude": 26.555397
+    },
+    {
+      "name": "Φλερί",
+      "latitude": 41.1509,
+      "longitude": 24.149597
+    },
+    {
+      "name": "Φλεριανού",
+      "latitude": 37.992223,
+      "longitude": 23.72989
+    },
+    {
+      "name": "Φλωράς",
+      "latitude": 37.984449,
+      "longitude": 23.737261
+    },
+    {
+      "name": "Φραγκόπουλος",
+      "latitude": 37.943236,
+      "longitude": 23.648012
+    },
+    {
+      "name": "Φυτοδιακόσμηση",
+      "latitude": 38.060878,
+      "longitude": 23.707942
+    },
+    {
+      "name": "Φυτοκάλυψη",
+      "latitude": 38.006889,
+      "longitude": 23.861528
+    },
+    {
+      "name": "Φυτωρια Αυλίδος Χατζηστρατή",
+      "latitude": 38.373595,
+      "longitude": 23.634169
+    },
+    {
+      "name": "Φυτώρια",
+      "latitude": 40.605503,
+      "longitude": 22.986506
+    },
+    {
+      "name": "Φυτώρια \"4 εποχές\"",
+      "latitude": 38.184724,
+      "longitude": 23.853589
+    },
+    {
+      "name": "Φυτώριο Κηποτεχνική",
+      "latitude": 39.371287,
+      "longitude": 22.963184
+    },
+    {
+      "name": "Φυτώριο Λιθάρης",
+      "latitude": 40.50199,
+      "longitude": 23.09566
+    },
+    {
+      "name": "Φυτώριο Μεσογαίας",
+      "latitude": 38.012871,
+      "longitude": 23.834086
+    },
+    {
+      "name": "Φωκούλης",
+      "latitude": 39.635247,
+      "longitude": 22.415613
+    },
+    {
+      "name": "Φύση",
+      "latitude": 38.017501,
+      "longitude": 23.810382
+    },
+    {
+      "name": "Χλόη",
+      "latitude": 38.020358,
+      "longitude": 23.693455
+    },
+    {
+      "name": "Χρυσάνθη",
+      "latitude": 38.033696,
+      "longitude": 23.756919
+    }
+  ],
+  "meta": {
+    "title": "Ανθοπωλεία Ελλάδας - Δωρεάν λήψη",
+    "description": "Ανθοπωλεία σε όλη την Ελλάδα από το OpenStreetMap. Florists across Greece. Περιέχει 380 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ανθοπωλεία Ελλάδας | ListBase",
+    "seo_description": "Λήψη Ανθοπωλεία Ελλάδας — 380 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 380 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

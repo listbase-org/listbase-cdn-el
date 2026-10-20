@@ -1,0 +1,1059 @@
+{
+  "id": "el-karditsas-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Καρδιτσας (144)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Καρδιτσας (144)",
+  "description": "Οι 144 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Καρδιτσας (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 144,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "240101",
+      "name": "Βλασιου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240102",
+      "name": "Δροσατου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240103",
+      "name": "Κουμπουριανων",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240104",
+      "name": "Λεοντιτου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240105",
+      "name": "Πετριλου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240106",
+      "name": "Πετροχωριου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240107",
+      "name": "Στεφανιαδος",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240108",
+      "name": "Φουντωτου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240201",
+      "name": "Ανθηρου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240202",
+      "name": "Αργιθεας",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240203",
+      "name": "Ελληνικων",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240204",
+      "name": "Θερινου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240205",
+      "name": "Καλης Κωμης",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240206",
+      "name": "Καρυας",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240207",
+      "name": "Μεσοβουνιου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240208",
+      "name": "Πετρωτου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240401",
+      "name": "Αργυριου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240402",
+      "name": "Βραγκιανων",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240403",
+      "name": "Καταφυλλιου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240404",
+      "name": "Μαραθου",
+      "municipality": "Αργιθεας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240601",
+      "name": "Αμαραντου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240602",
+      "name": "Αμπελικου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240603",
+      "name": "Καλλιθηρου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240604",
+      "name": "Καροπλεσιου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240605",
+      "name": "Καστανεας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240606",
+      "name": "Καταφυγιου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240607",
+      "name": "Νεραιδας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240608",
+      "name": "Ραχουλας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240701",
+      "name": "Απιδεας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240702",
+      "name": "Δαφνοσπηλιας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240703",
+      "name": "Ζαϊμιου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240704",
+      "name": "Καλλιφωνιου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240705",
+      "name": "Μολοχας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240706",
+      "name": "Παλιουριου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240801",
+      "name": "Αγιου Θεοδωρου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240802",
+      "name": "Μακρυχωριου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240803",
+      "name": "Μελισσης",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240804",
+      "name": "Μυρινης",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240805",
+      "name": "Προδρομου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240806",
+      "name": "Πτελοπουλας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240807",
+      "name": "Σταυρου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240903",
+      "name": "Καρδιτσης",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240904",
+      "name": "Καρδιτσομαγουλας",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240901",
+      "name": "Αγιοπηγης",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240902",
+      "name": "Αρτεσιανου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240905",
+      "name": "Παλαιοκκλησιου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240906",
+      "name": "Ρουσσου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241101",
+      "name": "Αγιου Γεωργιου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241102",
+      "name": "Γεωργικου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241103",
+      "name": "Κρυας Βρυσης",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241104",
+      "name": "Μητροπολης",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241105",
+      "name": "Ξινονεριου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241106",
+      "name": "Πορτιτσης",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241107",
+      "name": "Φραγκου",
+      "municipality": "Καρδιτσας",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241301",
+      "name": "Καρβασαρα",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241302",
+      "name": "Καριτσης Δολοπων",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241303",
+      "name": "Κρυονεριου",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241304",
+      "name": "Μπελοκομιτης",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241305",
+      "name": "Νεοχωριου",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241306",
+      "name": "Πεζουλας",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241307",
+      "name": "Φυλακτης",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241601",
+      "name": "Κερασεας",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241602",
+      "name": "Λαμπερου",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241603",
+      "name": "Μεσενικολα",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241604",
+      "name": "Μορφοβουνιου",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241605",
+      "name": "Μοσχατου",
+      "municipality": "Λιμνης Πλαστηρα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240501",
+      "name": "Αγιου Ακακιου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240502",
+      "name": "Ελληνοπυργου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240503",
+      "name": "Καναλιων",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240504",
+      "name": "Καππα",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240505",
+      "name": "Λοξαδας",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240506",
+      "name": "Πυργου Ιθωμης",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240507",
+      "name": "Φαναριου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240508",
+      "name": "Χαρματος",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241210",
+      "name": "Μαυρομματιου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241211",
+      "name": "Μουζακιου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241201",
+      "name": "Αμυγδαλης",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241202",
+      "name": "Ανθοχωριου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241203",
+      "name": "Βατσουνιας",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241204",
+      "name": "Γελανθης",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241205",
+      "name": "Δρακοτρυπας",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241206",
+      "name": "Ελληνοκαστρου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241207",
+      "name": "Κρυοπηγης",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241208",
+      "name": "Λαζαρινας",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241209",
+      "name": "Μαγουλιτσης",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241212",
+      "name": "Οξυας",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241213",
+      "name": "Πευκοφυτου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241214",
+      "name": "Πορτης",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241501",
+      "name": "Αγναντερου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241502",
+      "name": "Κρανεας",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241503",
+      "name": "Μαγουλας",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241504",
+      "name": "Παλαιοχωριου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241505",
+      "name": "Ριζοβουνιου",
+      "municipality": "Μουζακιου",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241408",
+      "name": "Παλαμα",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241401",
+      "name": "Αγιου Δημητριου",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241402",
+      "name": "Βλοχου",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241403",
+      "name": "Γοργοβιτων",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241404",
+      "name": "Καλυβακιων",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241405",
+      "name": "Κοσκινα",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241406",
+      "name": "Μαρκου",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241407",
+      "name": "Μεταμορφωσεως",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241801",
+      "name": "Αγιας Τριαδος",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241802",
+      "name": "Καλογριανων",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241803",
+      "name": "Μαραθεας",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241804",
+      "name": "Πεδινου",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241805",
+      "name": "Προαστιου",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242101",
+      "name": "Αστριτσης",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242102",
+      "name": "Ιτεας",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242103",
+      "name": "Λευκης",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242104",
+      "name": "Ορφανων",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242105",
+      "name": "Πετρινου",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242106",
+      "name": "Συκεων",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242107",
+      "name": "Φυλλου",
+      "municipality": "Παλαμα",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240301",
+      "name": "Ερμητσιου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240302",
+      "name": "Κυψελης",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240303",
+      "name": "Ματαραγκας",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "240304",
+      "name": "Πυργου Κιεριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241001",
+      "name": "Αηδονοχωριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241002",
+      "name": "Βαθυλακκου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241003",
+      "name": "Θραψιμιου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241004",
+      "name": "Κεδρου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241005",
+      "name": "Λουτροπηγης",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241006",
+      "name": "Λουτρου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241701",
+      "name": "Ρεντινας",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241913",
+      "name": "Σοφαδων",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241901",
+      "name": "Αγιας Παρασκευης",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241902",
+      "name": "Αγιου Βησσαριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241903",
+      "name": "Αμπελου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241904",
+      "name": "Ανωγειου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241905",
+      "name": "Γεφυριων",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241906",
+      "name": "Δασοχωριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241907",
+      "name": "Καππαδοκικου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241908",
+      "name": "Καρποχωριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241909",
+      "name": "Μασχολουριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241910",
+      "name": "Μαυραχαδων",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241911",
+      "name": "Μελισσοχωριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241912",
+      "name": "Πασχαλιτσης",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "241914",
+      "name": "Φιλιας",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242001",
+      "name": "Αναβρας",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242002",
+      "name": "Ασημοχωριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242003",
+      "name": "Αχλαδεας",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242004",
+      "name": "Γραμματικου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242005",
+      "name": "Κτιμενης",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "242006",
+      "name": "Λεονταριου",
+      "municipality": "Σοφαδων",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Καρδιτσας (144) - Δωρεάν λήψη",
+    "description": "Οι 144 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Καρδιτσας (Περιφέρεια Θεσσαλιας) σύμφωνα με τον Καλλικράτη. Περιέχει 144 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Καρδιτσας (144) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Καρδιτσας (144) — 144 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 144 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,2326 @@
+{
+  "id": "el-dimoi",
+  "name": "Δήμοι Ελλάδας (325)",
+  "title": "Δήμοι Ελλάδας (325)",
+  "description": "325 δήμοι σύμφωνα με τον Καλλικράτη",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 325,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9001",
+      "name": "Δοξατου",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9002",
+      "name": "Δραμας",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9003",
+      "name": "Κατω Νευροκοπιου",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9004",
+      "name": "Παρανεστιου",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9005",
+      "name": "Προσοτσανης",
+      "regional_unit_id": "0101",
+      "regional_unit": "Δραμας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9006",
+      "name": "Αλεξανδρουπολης",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9007",
+      "name": "Διδυμοτειχου",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9008",
+      "name": "Ορεστιαδος",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9009",
+      "name": "Σαμοθρακης",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9010",
+      "name": "Σουφλιου",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9011",
+      "name": "Θασου",
+      "regional_unit_id": "0103",
+      "regional_unit": "Θασου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9012",
+      "name": "Καβαλας",
+      "regional_unit_id": "0104",
+      "regional_unit": "Καβαλας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9013",
+      "name": "Νεστου",
+      "regional_unit_id": "0104",
+      "regional_unit": "Καβαλας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9014",
+      "name": "Παγγαιου",
+      "regional_unit_id": "0104",
+      "regional_unit": "Καβαλας",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9015",
+      "name": "Αβδηρων",
+      "regional_unit_id": "0105",
+      "regional_unit": "Ξανθης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9016",
+      "name": "Μυκης",
+      "regional_unit_id": "0105",
+      "regional_unit": "Ξανθης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9017",
+      "name": "Ξανθης",
+      "regional_unit_id": "0105",
+      "regional_unit": "Ξανθης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9018",
+      "name": "Τοπειρου",
+      "regional_unit_id": "0105",
+      "regional_unit": "Ξανθης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9019",
+      "name": "Αρριανων",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9020",
+      "name": "Ιασμου",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9021",
+      "name": "Κομοτηνης",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9022",
+      "name": "Μαρωνειας-Σαπων",
+      "regional_unit_id": "0106",
+      "regional_unit": "Ροδοπης",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9023",
+      "name": "Αλεξανδρειας",
+      "regional_unit_id": "0201",
+      "regional_unit": "Ημαθιας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9024",
+      "name": "Βεροιας",
+      "regional_unit_id": "0201",
+      "regional_unit": "Ημαθιας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9025",
+      "name": "Ναουσας",
+      "regional_unit_id": "0201",
+      "regional_unit": "Ημαθιας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9026",
+      "name": "Αμπελοκηπων-Μενεμενης",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9027",
+      "name": "Βολβης",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9028",
+      "name": "Δελτα",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9029",
+      "name": "Θερμαϊκου",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9030",
+      "name": "Θερμης",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9031",
+      "name": "Θεσσαλονικης",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9032",
+      "name": "Καλαμαριας",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9033",
+      "name": "Κορδελιου-Ευοσμου",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9034",
+      "name": "Λαγκαδα",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9035",
+      "name": "Νεαπολης-Συκεων",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9036",
+      "name": "Παυλου Μελα",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9037",
+      "name": "Πυλαιας-Χορτιατη",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9038",
+      "name": "Χαλκηδονος",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9039",
+      "name": "Ωραιοκαστρου",
+      "regional_unit_id": "0202",
+      "regional_unit": "Θεσσαλονικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9040",
+      "name": "Κιλκις",
+      "regional_unit_id": "0203",
+      "regional_unit": "Κιλκις",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9041",
+      "name": "Παιονιας",
+      "regional_unit_id": "0203",
+      "regional_unit": "Κιλκις",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9042",
+      "name": "Αλμωπιας",
+      "regional_unit_id": "0204",
+      "regional_unit": "Πελλας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9043",
+      "name": "Εδεσσας",
+      "regional_unit_id": "0204",
+      "regional_unit": "Πελλας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9044",
+      "name": "Πελλας",
+      "regional_unit_id": "0204",
+      "regional_unit": "Πελλας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9045",
+      "name": "Σκυδρας",
+      "regional_unit_id": "0204",
+      "regional_unit": "Πελλας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9046",
+      "name": "Διου-Ολυμπου",
+      "regional_unit_id": "0205",
+      "regional_unit": "Πιεριας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9047",
+      "name": "Κατερινης",
+      "regional_unit_id": "0205",
+      "regional_unit": "Πιεριας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9048",
+      "name": "Πυδνας-Κολινδρου",
+      "regional_unit_id": "0205",
+      "regional_unit": "Πιεριας",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9049",
+      "name": "Αμφιπολης",
+      "regional_unit_id": "0206",
+      "regional_unit": "Σερρων",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9050",
+      "name": "Βισαλτιας",
+      "regional_unit_id": "0206",
+      "regional_unit": "Σερρων",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9051",
+      "name": "Εμμανουηλ Παππα",
+      "regional_unit_id": "0206",
+      "regional_unit": "Σερρων",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9052",
+      "name": "Ηρακλειας",
+      "regional_unit_id": "0206",
+      "regional_unit": "Σερρων",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9053",
+      "name": "Νεας Ζιχνης",
+      "regional_unit_id": "0206",
+      "regional_unit": "Σερρων",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9054",
+      "name": "Σερρων",
+      "regional_unit_id": "0206",
+      "regional_unit": "Σερρων",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9055",
+      "name": "Σιντικης",
+      "regional_unit_id": "0206",
+      "regional_unit": "Σερρων",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9056",
+      "name": "Αριστοτελη",
+      "regional_unit_id": "0207",
+      "regional_unit": "Χαλκιδικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9057",
+      "name": "Κασσανδρας",
+      "regional_unit_id": "0207",
+      "regional_unit": "Χαλκιδικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9058",
+      "name": "Νεας Προποντιδας",
+      "regional_unit_id": "0207",
+      "regional_unit": "Χαλκιδικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9059",
+      "name": "Πολυγυρου",
+      "regional_unit_id": "0207",
+      "regional_unit": "Χαλκιδικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9060",
+      "name": "Σιθωνιας",
+      "regional_unit_id": "0207",
+      "regional_unit": "Χαλκιδικης",
+      "region": "Κεντρικης Μακεδονιας"
+    },
+    {
+      "id": "9061",
+      "name": "Γρεβενων",
+      "regional_unit_id": "0301",
+      "regional_unit": "Γρεβενων",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9062",
+      "name": "Δεσκατης",
+      "regional_unit_id": "0301",
+      "regional_unit": "Γρεβενων",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9063",
+      "name": "Καστοριας",
+      "regional_unit_id": "0302",
+      "regional_unit": "Καστοριας",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9064",
+      "name": "Νεστοριου",
+      "regional_unit_id": "0302",
+      "regional_unit": "Καστοριας",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9065",
+      "name": "Ορεστιδος",
+      "regional_unit_id": "0302",
+      "regional_unit": "Καστοριας",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9066",
+      "name": "Βοϊου",
+      "regional_unit_id": "0303",
+      "regional_unit": "Κοζανης",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9067",
+      "name": "Εορδαιας",
+      "regional_unit_id": "0303",
+      "regional_unit": "Κοζανης",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9068",
+      "name": "Κοζανης",
+      "regional_unit_id": "0303",
+      "regional_unit": "Κοζανης",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9069",
+      "name": "Σερβιων-Βελβεντου",
+      "regional_unit_id": "0303",
+      "regional_unit": "Κοζανης",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9070",
+      "name": "Αμυνταιου",
+      "regional_unit_id": "0304",
+      "regional_unit": "Φλωρινας",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9071",
+      "name": "Πρεσπων",
+      "regional_unit_id": "0304",
+      "regional_unit": "Φλωρινας",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9072",
+      "name": "Φλωρινας",
+      "regional_unit_id": "0304",
+      "regional_unit": "Φλωρινας",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9073",
+      "name": "Αρταιων",
+      "regional_unit_id": "0401",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9074",
+      "name": "Γεωργιου Καραϊσκακη",
+      "regional_unit_id": "0401",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9075",
+      "name": "Κεντρικων Τζουμερκων",
+      "regional_unit_id": "0401",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9076",
+      "name": "Νικολαου Σκουφα",
+      "regional_unit_id": "0401",
+      "regional_unit": "Αρτας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9077",
+      "name": "Ηγουμενιτσης",
+      "regional_unit_id": "0402",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9078",
+      "name": "Σουλιου",
+      "regional_unit_id": "0402",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9079",
+      "name": "Φιλιατων",
+      "regional_unit_id": "0402",
+      "regional_unit": "Θεσπρωτιας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9080",
+      "name": "Βορειων Τζουμερκων",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9081",
+      "name": "Δωδωνης",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9082",
+      "name": "Ζαγοριου",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9083",
+      "name": "Ζιτσας",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9084",
+      "name": "Ιωαννιτων",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9085",
+      "name": "Κονιτσας",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9086",
+      "name": "Μετσοβου",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9087",
+      "name": "Πωγωνιου",
+      "regional_unit_id": "0403",
+      "regional_unit": "Ιωαννινων",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9088",
+      "name": "Ζηρου",
+      "regional_unit_id": "0404",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9089",
+      "name": "Παργας",
+      "regional_unit_id": "0404",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9090",
+      "name": "Πρεβεζης",
+      "regional_unit_id": "0404",
+      "regional_unit": "Πρεβεζας",
+      "region": "Ηπειρου"
+    },
+    {
+      "id": "9091",
+      "name": "Αργιθεας",
+      "regional_unit_id": "0501",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9092",
+      "name": "Καρδιτσας",
+      "regional_unit_id": "0501",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9093",
+      "name": "Λιμνης Πλαστηρα",
+      "regional_unit_id": "0501",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9094",
+      "name": "Μουζακιου",
+      "regional_unit_id": "0501",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9095",
+      "name": "Παλαμα",
+      "regional_unit_id": "0501",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9096",
+      "name": "Σοφαδων",
+      "regional_unit_id": "0501",
+      "regional_unit": "Καρδιτσας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9097",
+      "name": "Αγιας",
+      "regional_unit_id": "0502",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9098",
+      "name": "Ελασσονας",
+      "regional_unit_id": "0502",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9099",
+      "name": "Κιλελερ",
+      "regional_unit_id": "0502",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9100",
+      "name": "Λαρισαιων",
+      "regional_unit_id": "0502",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9101",
+      "name": "Τεμπων",
+      "regional_unit_id": "0502",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9102",
+      "name": "Τυρναβου",
+      "regional_unit_id": "0502",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9103",
+      "name": "Φαρσαλων",
+      "regional_unit_id": "0502",
+      "regional_unit": "Λαρισας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9104",
+      "name": "Αλμυρου",
+      "regional_unit_id": "0503",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9105",
+      "name": "Βολου",
+      "regional_unit_id": "0503",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9106",
+      "name": "Ζαγορας-Μουρεσιου",
+      "regional_unit_id": "0503",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9107",
+      "name": "Νοτιου Πηλιου",
+      "regional_unit_id": "0503",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9108",
+      "name": "Ρηγα Φερραιου",
+      "regional_unit_id": "0503",
+      "regional_unit": "Μαγνησιας",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9109",
+      "name": "Αλοννησου",
+      "regional_unit_id": "0504",
+      "regional_unit": "Σποραδων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9110",
+      "name": "Σκιαθου",
+      "regional_unit_id": "0504",
+      "regional_unit": "Σποραδων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9111",
+      "name": "Σκοπελου",
+      "regional_unit_id": "0504",
+      "regional_unit": "Σποραδων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9112",
+      "name": "Καλαμπακας",
+      "regional_unit_id": "0505",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9113",
+      "name": "Πυλης",
+      "regional_unit_id": "0505",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9114",
+      "name": "Τρικκαιων",
+      "regional_unit_id": "0505",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9115",
+      "name": "Φαρκαδονας",
+      "regional_unit_id": "0505",
+      "regional_unit": "Τρικαλων",
+      "region": "Θεσσαλιας"
+    },
+    {
+      "id": "9116",
+      "name": "Ζακυνθου",
+      "regional_unit_id": "0601",
+      "regional_unit": "Ζακυνθου",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "9117",
+      "name": "Ιθακης",
+      "regional_unit_id": "0602",
+      "regional_unit": "Ιθακης",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "9118",
+      "name": "Κερκυρας",
+      "regional_unit_id": "0603",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "9119",
+      "name": "Παξων",
+      "regional_unit_id": "0603",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "9120",
+      "name": "Κεφαλονιας",
+      "regional_unit_id": "0604",
+      "regional_unit": "Κεφαλληνιας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "9121",
+      "name": "Λευκαδας",
+      "regional_unit_id": "0605",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "9122",
+      "name": "Μεγανησιου",
+      "regional_unit_id": "0605",
+      "regional_unit": "Λευκαδας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "9123",
+      "name": "Αγρινιου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9124",
+      "name": "Ακτιου-Βονιτσας",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9125",
+      "name": "Αμφιλοχιας",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9126",
+      "name": "Θερμου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9127",
+      "name": "Ιερας Πολης Μεσολογγιου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9128",
+      "name": "Ναυπακτιας",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9129",
+      "name": "Ξηρομερου",
+      "regional_unit_id": "0701",
+      "regional_unit": "Αιτωλοακαρνανιας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9130",
+      "name": "Αιγιαλειας",
+      "regional_unit_id": "0702",
+      "regional_unit": "Αχαϊας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9131",
+      "name": "Δυτικης Αχαιας",
+      "regional_unit_id": "0702",
+      "regional_unit": "Αχαϊας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9132",
+      "name": "Ερυμανθου",
+      "regional_unit_id": "0702",
+      "regional_unit": "Αχαϊας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9133",
+      "name": "Καλαβρυτων",
+      "regional_unit_id": "0702",
+      "regional_unit": "Αχαϊας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9134",
+      "name": "Πατρεων",
+      "regional_unit_id": "0702",
+      "regional_unit": "Αχαϊας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9135",
+      "name": "Ανδραβιδας-Κυλληνης",
+      "regional_unit_id": "0703",
+      "regional_unit": "Ηλειας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9136",
+      "name": "Ανδριτσαινας-Κρεστενων",
+      "regional_unit_id": "0703",
+      "regional_unit": "Ηλειας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9137",
+      "name": "Αρχαιας Ολυμπιας",
+      "regional_unit_id": "0703",
+      "regional_unit": "Ηλειας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9138",
+      "name": "Ζαχαρως",
+      "regional_unit_id": "0703",
+      "regional_unit": "Ηλειας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9139",
+      "name": "Ηλιδας",
+      "regional_unit_id": "0703",
+      "regional_unit": "Ηλειας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9140",
+      "name": "Πηνειου",
+      "regional_unit_id": "0703",
+      "regional_unit": "Ηλειας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9141",
+      "name": "Πυργου",
+      "regional_unit_id": "0703",
+      "regional_unit": "Ηλειας",
+      "region": "Δυτικης Ελλαδας"
+    },
+    {
+      "id": "9142",
+      "name": "Αλιαρτου",
+      "regional_unit_id": "0801",
+      "regional_unit": "Βοιωτιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9143",
+      "name": "Διστομου - Αραχοβας - Αντικυρας",
+      "regional_unit_id": "0801",
+      "regional_unit": "Βοιωτιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9144",
+      "name": "Θηβαιων",
+      "regional_unit_id": "0801",
+      "regional_unit": "Βοιωτιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9145",
+      "name": "Λεβαδεων",
+      "regional_unit_id": "0801",
+      "regional_unit": "Βοιωτιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9146",
+      "name": "Ορχομενου",
+      "regional_unit_id": "0801",
+      "regional_unit": "Βοιωτιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9147",
+      "name": "Ταναγρας",
+      "regional_unit_id": "0801",
+      "regional_unit": "Βοιωτιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9148",
+      "name": "Διρφυων-Μεσσαπιων",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9149",
+      "name": "Ερετριας",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9150",
+      "name": "Ιστιαιας-Αιδηψου",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9151",
+      "name": "Καρυστου",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9152",
+      "name": "Κυμης-Αλιβεριου",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9153",
+      "name": "Μαντουδιου-Λιμνης-Αγιας Αννας",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9154",
+      "name": "Σκυρου",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9155",
+      "name": "Χαλκιδεων",
+      "regional_unit_id": "0802",
+      "regional_unit": "Ευβοιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9156",
+      "name": "Αγραφων",
+      "regional_unit_id": "0803",
+      "regional_unit": "Ευρυτανιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9157",
+      "name": "Καρπενησιου",
+      "regional_unit_id": "0803",
+      "regional_unit": "Ευρυτανιας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9158",
+      "name": "Αμφικλειας - Ελατειας",
+      "regional_unit_id": "0804",
+      "regional_unit": "Φθιωτιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9159",
+      "name": "Δομοκου",
+      "regional_unit_id": "0804",
+      "regional_unit": "Φθιωτιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9160",
+      "name": "Λαμιεων",
+      "regional_unit_id": "0804",
+      "regional_unit": "Φθιωτιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9161",
+      "name": "Λοκρων",
+      "regional_unit_id": "0804",
+      "regional_unit": "Φθιωτιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9162",
+      "name": "Μακρακωμης",
+      "regional_unit_id": "0804",
+      "regional_unit": "Φθιωτιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9163",
+      "name": "Μωλου - Αγιου Κωνσταντινου",
+      "regional_unit_id": "0804",
+      "regional_unit": "Φθιωτιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9164",
+      "name": "Στυλιδος",
+      "regional_unit_id": "0804",
+      "regional_unit": "Φθιωτιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9165",
+      "name": "Δελφων",
+      "regional_unit_id": "0805",
+      "regional_unit": "Φωκιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9166",
+      "name": "Δωριδος",
+      "regional_unit_id": "0805",
+      "regional_unit": "Φωκιδας",
+      "region": "Στερεας Ελλαδας"
+    },
+    {
+      "id": "9167",
+      "name": "Αγιας Παρασκευης",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9168",
+      "name": "Αμαρουσιου",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9169",
+      "name": "Βριλησσιων",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9170",
+      "name": "Ηρακλειου",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9171",
+      "name": "Κηφισιας",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9172",
+      "name": "Λυκοβρυσης - Πευκης",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9173",
+      "name": "Μεταμορφωσεως",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9174",
+      "name": "Νεας Ιωνιας",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9175",
+      "name": "Παπαγου - Χολαργου",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9176",
+      "name": "Πεντελης",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9177",
+      "name": "Φιλοθεης - Ψυχικου",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9178",
+      "name": "Χαλανδριου",
+      "regional_unit_id": "0901",
+      "regional_unit": "Βορειου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9179",
+      "name": "Αγιας Βαρβαρας",
+      "regional_unit_id": "0902",
+      "regional_unit": "Δυτικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9180",
+      "name": "Αγιων Αναργυρων - Καματερου",
+      "regional_unit_id": "0902",
+      "regional_unit": "Δυτικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9181",
+      "name": "Αιγαλεω",
+      "regional_unit_id": "0902",
+      "regional_unit": "Δυτικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9182",
+      "name": "Ιλιου ",
+      "regional_unit_id": "0902",
+      "regional_unit": "Δυτικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9183",
+      "name": "Περιστεριου",
+      "regional_unit_id": "0902",
+      "regional_unit": "Δυτικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9184",
+      "name": "Πετρουπολεως",
+      "regional_unit_id": "0902",
+      "regional_unit": "Δυτικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9185",
+      "name": "Χαϊδαριου",
+      "regional_unit_id": "0902",
+      "regional_unit": "Δυτικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9186",
+      "name": "Αθηναιων",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9187",
+      "name": "Βυρωνος",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9188",
+      "name": "Γαλατσιου",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9189",
+      "name": "Δαφνης - Υμηττου",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9190",
+      "name": "Ζωγραφου",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9191",
+      "name": "Ηλιουπολεως",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9192",
+      "name": "Καισαριανης",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9193",
+      "name": "Φιλαδελφειας - Χαλκηδονος",
+      "regional_unit_id": "0903",
+      "regional_unit": "Κεντρικου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9194",
+      "name": "Αγιου Δημητριου",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9195",
+      "name": "Αλιμου",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9196",
+      "name": "Γλυφαδας",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9197",
+      "name": "Ελληνικου - Αργυρουπολης",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9198",
+      "name": "Καλλιθεας",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9199",
+      "name": "Μοσχατου - Ταυρου",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9200",
+      "name": "Νεας Σμυρνης",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9201",
+      "name": "Παλαιου Φαληρου",
+      "regional_unit_id": "0904",
+      "regional_unit": "Νοτιου Τομεα Αθηνων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9202",
+      "name": "Κερατσινιου - Δραπετσωνας",
+      "regional_unit_id": "0905",
+      "regional_unit": "Πειραιως",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9203",
+      "name": "Κορυδαλλου",
+      "regional_unit_id": "0905",
+      "regional_unit": "Πειραιως",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9204",
+      "name": "Νικαιας - Αγιου Ι. Ρεντη",
+      "regional_unit_id": "0905",
+      "regional_unit": "Πειραιως",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9205",
+      "name": "Πειραιως",
+      "regional_unit_id": "0905",
+      "regional_unit": "Πειραιως",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9206",
+      "name": "Περαματος",
+      "regional_unit_id": "0905",
+      "regional_unit": "Πειραιως",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9207",
+      "name": "Αγκιστριου",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9208",
+      "name": "Αιγινας",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9209",
+      "name": "Κυθηρων",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9210",
+      "name": "Πορου",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9211",
+      "name": "Σαλαμινος",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9212",
+      "name": "Σπετσων",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9213",
+      "name": "Τροιζηνιας",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9214",
+      "name": "Υδρας",
+      "regional_unit_id": "0906",
+      "regional_unit": "Νησων",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9215",
+      "name": "Αχαρνων",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9216",
+      "name": "Βαρης - Βουλας - Βουλιαγμενης",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9217",
+      "name": "Διονυσου",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9218",
+      "name": "Κρωπιας",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9219",
+      "name": "Λαυρεωτικης",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9220",
+      "name": "Μαραθωνος",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9221",
+      "name": "Μαρκοπουλου Μεσογαιας",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9222",
+      "name": "Παιανιας",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9223",
+      "name": "Παλληνης",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9224",
+      "name": "Ραφηνας - Πικερμιου",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9225",
+      "name": "Σαρωνικου",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9226",
+      "name": "Σπατων - Αρτεμιδος",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9227",
+      "name": "Ωρωπου",
+      "regional_unit_id": "0907",
+      "regional_unit": "Ανατολικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9228",
+      "name": "Ασπροπυργου",
+      "regional_unit_id": "0908",
+      "regional_unit": "Δυτικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9229",
+      "name": "Ελευσινας",
+      "regional_unit_id": "0908",
+      "regional_unit": "Δυτικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9230",
+      "name": "Μανδρας - Ειδυλλιας",
+      "regional_unit_id": "0908",
+      "regional_unit": "Δυτικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9231",
+      "name": "Μεγαρεων",
+      "regional_unit_id": "0908",
+      "regional_unit": "Δυτικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9232",
+      "name": "Φυλης",
+      "regional_unit_id": "0908",
+      "regional_unit": "Δυτικης Αττικης",
+      "region": "Αττικης"
+    },
+    {
+      "id": "9233",
+      "name": "Αργους-Μυκηνων",
+      "regional_unit_id": "1001",
+      "regional_unit": "Αργολιδας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9234",
+      "name": "Επιδαυρου",
+      "regional_unit_id": "1001",
+      "regional_unit": "Αργολιδας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9235",
+      "name": "Ερμιονιδας",
+      "regional_unit_id": "1001",
+      "regional_unit": "Αργολιδας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9236",
+      "name": "Ναυπλιεων",
+      "regional_unit_id": "1001",
+      "regional_unit": "Αργολιδας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9237",
+      "name": "Βορειας Κυνουριας",
+      "regional_unit_id": "1002",
+      "regional_unit": "Αρκαδιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9238",
+      "name": "Γορτυνιας",
+      "regional_unit_id": "1002",
+      "regional_unit": "Αρκαδιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9239",
+      "name": "Μεγαλοπολης",
+      "regional_unit_id": "1002",
+      "regional_unit": "Αρκαδιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9240",
+      "name": "Νοτιας Κυνουριας",
+      "regional_unit_id": "1002",
+      "regional_unit": "Αρκαδιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9241",
+      "name": "Τριπολης",
+      "regional_unit_id": "1002",
+      "regional_unit": "Αρκαδιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9242",
+      "name": "Βελου-Βοχας",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9243",
+      "name": "Κορινθιων",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9244",
+      "name": "Λουτρακιου-Αγ.θεοδωρων",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9245",
+      "name": "Νεμεας",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9246",
+      "name": "Ξυλοκαστρου-Ευρωστινης",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9247",
+      "name": "Σικυωνιων",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9248",
+      "name": "Ανατολικης Μανης",
+      "regional_unit_id": "1004",
+      "regional_unit": "Λακωνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9249",
+      "name": "Ελαφονησου",
+      "regional_unit_id": "1004",
+      "regional_unit": "Λακωνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9250",
+      "name": "Ευρωτα",
+      "regional_unit_id": "1004",
+      "regional_unit": "Λακωνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9251",
+      "name": "Μονεμβασιας",
+      "regional_unit_id": "1004",
+      "regional_unit": "Λακωνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9252",
+      "name": "Σπαρτης",
+      "regional_unit_id": "1004",
+      "regional_unit": "Λακωνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9253",
+      "name": "Δυτικης Μανης",
+      "regional_unit_id": "1005",
+      "regional_unit": "Μεσσηνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9254",
+      "name": "Καλαματας",
+      "regional_unit_id": "1005",
+      "regional_unit": "Μεσσηνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9255",
+      "name": "Μεσσηνης",
+      "regional_unit_id": "1005",
+      "regional_unit": "Μεσσηνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9256",
+      "name": "Οιχαλιας",
+      "regional_unit_id": "1005",
+      "regional_unit": "Μεσσηνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9257",
+      "name": "Πυλου-Νεστορος",
+      "regional_unit_id": "1005",
+      "regional_unit": "Μεσσηνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9258",
+      "name": "Τριφυλιας",
+      "regional_unit_id": "1005",
+      "regional_unit": "Μεσσηνιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9259",
+      "name": "Ικαριας",
+      "regional_unit_id": "1101",
+      "regional_unit": "Ικαριας",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9260",
+      "name": "Φουρνων Κορσεων",
+      "regional_unit_id": "1101",
+      "regional_unit": "Ικαριας",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9261",
+      "name": "Λεσβου",
+      "regional_unit_id": "1102",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9262",
+      "name": "Αγιου Ευστρατιου",
+      "regional_unit_id": "1103",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9263",
+      "name": "Λημνου",
+      "regional_unit_id": "1103",
+      "regional_unit": "Λημνου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9264",
+      "name": "Σαμου",
+      "regional_unit_id": "1104",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9265",
+      "name": "Οινουσσων",
+      "regional_unit_id": "1105",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9266",
+      "name": "Χιου",
+      "regional_unit_id": "1105",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9267",
+      "name": "Ψαρων",
+      "regional_unit_id": "1105",
+      "regional_unit": "Χιου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "9268",
+      "name": "Ανδρου",
+      "regional_unit_id": "1201",
+      "regional_unit": "Ανδρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9269",
+      "name": "Αναφης",
+      "regional_unit_id": "1202",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9270",
+      "name": "Θηρας",
+      "regional_unit_id": "1202",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9271",
+      "name": "Ιητων",
+      "regional_unit_id": "1202",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9272",
+      "name": "Σικινου",
+      "regional_unit_id": "1202",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9273",
+      "name": "Φολεγανδρου",
+      "regional_unit_id": "1202",
+      "regional_unit": "Θηρας",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9274",
+      "name": "Αγαθονησιου",
+      "regional_unit_id": "1203",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9275",
+      "name": "Αστυπαλαιας",
+      "regional_unit_id": "1203",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9276",
+      "name": "Καλυμνιων",
+      "regional_unit_id": "1203",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9277",
+      "name": "Λειψων",
+      "regional_unit_id": "1203",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9278",
+      "name": "Λερου",
+      "regional_unit_id": "1203",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9279",
+      "name": "Πατμου",
+      "regional_unit_id": "1203",
+      "regional_unit": "Καλυμνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9280",
+      "name": "Καρπαθου",
+      "regional_unit_id": "1204",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9281",
+      "name": "Κασου",
+      "regional_unit_id": "1204",
+      "regional_unit": "Καρπαθου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9282",
+      "name": "Κεας",
+      "regional_unit_id": "1205",
+      "regional_unit": "Κεας-Κυθνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9283",
+      "name": "Κυθνου",
+      "regional_unit_id": "1205",
+      "regional_unit": "Κεας-Κυθνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9284",
+      "name": "Κω",
+      "regional_unit_id": "1206",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9285",
+      "name": "Νισυρου",
+      "regional_unit_id": "1206",
+      "regional_unit": "Κω",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9286",
+      "name": "Κιμωλου",
+      "regional_unit_id": "1207",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9287",
+      "name": "Μηλου",
+      "regional_unit_id": "1207",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9288",
+      "name": "Σεριφου",
+      "regional_unit_id": "1207",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9289",
+      "name": "Σιφνου",
+      "regional_unit_id": "1207",
+      "regional_unit": "Μηλου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9290",
+      "name": "Μυκονου",
+      "regional_unit_id": "1208",
+      "regional_unit": "Μυκονου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9291",
+      "name": "Αμοργου",
+      "regional_unit_id": "1209",
+      "regional_unit": "Ναξου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9292",
+      "name": "Ναξου & Μικρων Κυκλαδων",
+      "regional_unit_id": "1209",
+      "regional_unit": "Ναξου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9293",
+      "name": "Αντιπαρου",
+      "regional_unit_id": "1210",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9294",
+      "name": "Παρου",
+      "regional_unit_id": "1210",
+      "regional_unit": "Παρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9295",
+      "name": "Μεγιστης",
+      "regional_unit_id": "1211",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9296",
+      "name": "Ροδου",
+      "regional_unit_id": "1211",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9297",
+      "name": "Συμης",
+      "regional_unit_id": "1211",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9298",
+      "name": "Τηλου",
+      "regional_unit_id": "1211",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9299",
+      "name": "Χαλκης",
+      "regional_unit_id": "1211",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9300",
+      "name": "Συρου-Ερμουπολης",
+      "regional_unit_id": "1212",
+      "regional_unit": "Συρου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9301",
+      "name": "Τηνου",
+      "regional_unit_id": "1213",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "9302",
+      "name": "Αρχανων - Αστερουσιων",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9303",
+      "name": "Βιαννου",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9304",
+      "name": "Γορτυνας",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9305",
+      "name": "Ηρακλειου",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9306",
+      "name": "Μαλεβιζιου",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9307",
+      "name": "Μινωα Πεδιαδας",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9308",
+      "name": "Φαιστου",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9309",
+      "name": "Χερσονησου",
+      "regional_unit_id": "1301",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9310",
+      "name": "Αγιου Νικολαου",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9311",
+      "name": "Ιεραπετρας",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9312",
+      "name": "Οροπεδιου Λασιθιου",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9313",
+      "name": "Σητειας",
+      "regional_unit_id": "1302",
+      "regional_unit": "Λασιθιου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9314",
+      "name": "Αγιου Βασιλειου",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9315",
+      "name": "Αμαριου",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9316",
+      "name": "Ανωγειων",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9317",
+      "name": "Μυλοποταμου",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9318",
+      "name": "Ρεθυμνης",
+      "regional_unit_id": "1303",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9319",
+      "name": "Αποκορωνου",
+      "regional_unit_id": "1304",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9320",
+      "name": "Γαυδου",
+      "regional_unit_id": "1304",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9321",
+      "name": "Καντανου - Σελινου",
+      "regional_unit_id": "1304",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9322",
+      "name": "Κισσαμου",
+      "regional_unit_id": "1304",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9323",
+      "name": "Πλατανια",
+      "regional_unit_id": "1304",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9324",
+      "name": "Σφακιων",
+      "regional_unit_id": "1304",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    },
+    {
+      "id": "9325",
+      "name": "Χανιων",
+      "regional_unit_id": "1304",
+      "regional_unit": "Χανιων",
+      "region": "Κρητης"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Ελλάδας (325) - Δωρεάν λήψη",
+    "description": "325 δήμοι σύμφωνα με τον Καλλικράτη Περιέχει 325 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Ελλάδας (325) | ListBase",
+    "seo_description": "Λήψη Δήμοι Ελλάδας (325) — 325 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 325 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

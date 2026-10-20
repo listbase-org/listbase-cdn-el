@@ -1,0 +1,7546 @@
+{
+  "id": "el-tachydromikoi-kodikes",
+  "name": "Ταχυδρομικοί κώδικες Ελλάδας (1,250)",
+  "title": "Ταχυδρομικοί κώδικες Ελλάδας (1,250)",
+  "description": "1,250 ελληνικοί ταχυδρομικοί κώδικες (ΤΚ) με την επικράτεια και τις συντεταγμένες τους (γεωγραφικό πλάτος και μήκος). Greek postal codes (ΤΚ) with territory name and lat/long coordinates.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1250,
+  "columns": [
+    {
+      "key": "postal_code",
+      "label": "Postal Code",
+      "type": "number"
+    },
+    {
+      "key": "territory",
+      "label": "Territory",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "postal_code": "10021",
+      "territory": "ΒΟΥΛΗ ΤΩΝ ΕΛΛΗΝΩΝ",
+      "latitude": 37.974511,
+      "longitude": 23.7330711
+    },
+    {
+      "postal_code": "10173",
+      "territory": "Κέντρο Αθήνα",
+      "latitude": 37.9886057,
+      "longitude": 23.7030664
+    },
+    {
+      "postal_code": "10431",
+      "territory": "ΠΛΑΤΕΙΑ ΟΜΟΝΟΙΑΣ ΑΘΗΝΑ",
+      "latitude": 37.9844383,
+      "longitude": 23.7281172
+    },
+    {
+      "postal_code": "10432",
+      "territory": "ΠΛΑΤΕΙΑ ΒΑΘΗΣ ΠΛΑΤΕΙΑ ΒΙΚΤΩΡΙΑ",
+      "latitude": 37.987244200000006,
+      "longitude": 23.726373100000004
+    },
+    {
+      "postal_code": "10433",
+      "territory": "ΠΟΛΥΤΕΧΝΕΙΟ ΑΘΗΝΑ",
+      "latitude": 37.9783811,
+      "longitude": 23.7805126
+    },
+    {
+      "postal_code": "10434",
+      "territory": "ΠΛΑΤΕΙΑ ΒΙΚΤΩΡΙΑΣ ΑΘΗΝΑ",
+      "latitude": 37.9934691,
+      "longitude": 23.7275065
+    },
+    {
+      "postal_code": "10435",
+      "territory": "ΜΕΤΑΞΟΥΡΓΕΙΟ ΑΘΗΝΑ",
+      "latitude": 37.9842815,
+      "longitude": 23.7177254
+    },
+    {
+      "postal_code": "10436",
+      "territory": "ΠΛΑΤΕΙΑ ΟΜΟΝΟΙΑΣ",
+      "latitude": 37.9844383,
+      "longitude": 23.7281172
+    },
+    {
+      "postal_code": "10437",
+      "territory": "ΠΛΑΤΕΙΑ ΟΜΟΝΟΙΑΣ",
+      "latitude": 37.9844383,
+      "longitude": 23.7281172
+    },
+    {
+      "postal_code": "10438",
+      "territory": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ",
+      "latitude": 39.29853170000001,
+      "longitude": 22.3844827
+    },
+    {
+      "postal_code": "10439",
+      "territory": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ",
+      "latitude": 39.29853170000001,
+      "longitude": 22.3844827
+    },
+    {
+      "postal_code": "10440",
+      "territory": "ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ",
+      "latitude": 39.29853170000001,
+      "longitude": 22.3844827
+    },
+    {
+      "postal_code": "10441",
+      "territory": "ΚΟΛΩΝΟΣ",
+      "latitude": 38.2280667,
+      "longitude": 21.7632893
+    },
+    {
+      "postal_code": "10442",
+      "territory": "ΚΟΛΩΝΟΣ",
+      "latitude": 38.2280667,
+      "longitude": 21.7632893
+    },
+    {
+      "postal_code": "10443",
+      "territory": "ΣΕΠΟΛΙΑ",
+      "latitude": 38.0045679,
+      "longitude": 23.7160906
+    },
+    {
+      "postal_code": "10444",
+      "territory": "ΚΟΛΩΝΟΣ",
+      "latitude": 37.9944925,
+      "longitude": 23.7042077
+    },
+    {
+      "postal_code": "10445",
+      "territory": "ΤΡΕΙΣ ΓΕΦΥΡΕΣ ΑΘΗΝΑ",
+      "latitude": 38.0158537,
+      "longitude": 23.7268584
+    },
+    {
+      "postal_code": "10446",
+      "territory": "ΠΛΑΤΕΙΑ ΑΜΕΡΙΚΗΣ ΚΥΨΕΛΗ",
+      "latitude": 38.002616100000004,
+      "longitude": 23.7334402
+    },
+    {
+      "postal_code": "10447",
+      "territory": "ΑΘΗΝΑ ΒΟΤΑΝΙΚΟΣ",
+      "latitude": 37.9823979,
+      "longitude": 23.6940037
+    },
+    {
+      "postal_code": "10551",
+      "territory": "ΠΛΑΤΕΙΑ ΚΛΑΥΘΜΩΝΟΣ",
+      "latitude": 37.9816306,
+      "longitude": 23.728139600000002
+    },
+    {
+      "postal_code": "10552",
+      "territory": "ΠΛΑΤΕΙΑ ΟΜΟΝΟΙΑ ΜΟΝΑΣΤΗΡΑ",
+      "latitude": 37.9844383,
+      "longitude": 23.7281172
+    },
+    {
+      "postal_code": "10553",
+      "territory": "ΚΕΡΑΜΕΙΚΟΣ ΑΘΗΝΑ",
+      "latitude": 37.9782036,
+      "longitude": 23.7189366
+    },
+    {
+      "postal_code": "10554",
+      "territory": "ΨΥΡΡΗ ΑΘΗΝΑ",
+      "latitude": 37.9787307,
+      "longitude": 23.7246486
+    },
+    {
+      "postal_code": "10555",
+      "territory": "ΜΟΝΑΣΤΗΡΑΚΙ",
+      "latitude": 37.9768364,
+      "longitude": 23.7157623
+    },
+    {
+      "postal_code": "10556",
+      "territory": "ΠΛΑΤΕΙΑ ΜΗΤΡΟΠΟΛΕΩΣ",
+      "latitude": 34.9217445,
+      "longitude": 33.6240247
+    },
+    {
+      "postal_code": "10557",
+      "territory": "ΠΛΑΤΕΙΑ ΣΥΝΤΑΓΜΑΤΟΣ",
+      "latitude": 37.9755042,
+      "longitude": 23.73267610000001
+    },
+    {
+      "postal_code": "10558",
+      "territory": "ΠΛΑΚΑ ΘΗΣΕΙΟ",
+      "latitude": 37.977031200000006,
+      "longitude": 23.7223758
+    },
+    {
+      "postal_code": "10559",
+      "territory": "ΠΛΑΤΕΙΑ ΚΛΑΥΘΜΩΝΟΣ",
+      "latitude": 37.9794328,
+      "longitude": 23.7311148
+    },
+    {
+      "postal_code": "10560",
+      "territory": "ΧΡΥΣΟΣΠΗΛΙΩΤΙΣΣΑ",
+      "latitude": 37.9824516,
+      "longitude": 23.730563
+    },
+    {
+      "postal_code": "10561",
+      "territory": "ΠΛΑΤΕΙΑ ΚΛΑΥΘΜΩΝΟΣ",
+      "latitude": 37.9799104,
+      "longitude": 23.7293852
+    },
+    {
+      "postal_code": "10562",
+      "territory": "ΠΛΑΤΕΙΑ ΣΥΝΤΑΓΜΑΤΟΣ ΠΛΑΚΑ",
+      "latitude": 37.9756512,
+      "longitude": 23.7340008
+    },
+    {
+      "postal_code": "10563",
+      "territory": "ΠΛΑΤΕΙΑ ΟΜΟΝΟΙΑ ΜΟΝΑΣΤΗΡΑ",
+      "latitude": 37.9844383,
+      "longitude": 23.7281172
+    },
+    {
+      "postal_code": "10564",
+      "territory": "ΛΕΩΦΟΡΟ ΑΜΑΛΙΑΣ ΣΥΝΤΑΓΜΑ",
+      "latitude": 37.974511,
+      "longitude": 23.7330711
+    },
+    {
+      "postal_code": "10671",
+      "territory": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ ΣΥΝΤΑΓΜΑ",
+      "latitude": 37.9755042,
+      "longitude": 23.73267610000001
+    },
+    {
+      "postal_code": "10672",
+      "territory": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ ΣΥΝΤΑΓΜΑ",
+      "latitude": 37.9755042,
+      "longitude": 23.73267610000001
+    },
+    {
+      "postal_code": "10673",
+      "territory": "ΚΟΛΩΝΑΚΙ",
+      "latitude": 37.9779718,
+      "longitude": 23.74299580000001
+    },
+    {
+      "postal_code": "10674",
+      "territory": "ΕΘΝΙΚΟΣ ΚΗΠΟΣ ΖΑΠΠΕΙ",
+      "latitude": 37.9734542,
+      "longitude": 23.735698
+    },
+    {
+      "postal_code": "10675",
+      "territory": "ΚΟΛΩΝΑΚΙ ΕΥΑΓΓΕΛΙΣΜΟ",
+      "latitude": 37.9769393,
+      "longitude": 23.743741600000003
+    },
+    {
+      "postal_code": "10676",
+      "territory": "ΕΥΑΓΓΕΛΙΣΜΟΣ",
+      "latitude": 40.6953398,
+      "longitude": 23.2203643
+    },
+    {
+      "postal_code": "10677",
+      "territory": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ ΣΥΝΤΑΓΜΑ",
+      "latitude": 37.9755042,
+      "longitude": 23.73267610000001
+    },
+    {
+      "postal_code": "10678",
+      "territory": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ ΣΥΝΤΑΓΜΑ",
+      "latitude": 37.9755042,
+      "longitude": 23.73267610000001
+    },
+    {
+      "postal_code": "10679",
+      "territory": "ΠΛΑΤΕΙΑ ΚΑΝΙΓΓΟΣ ΣΥΝΤΑΓΜΑ",
+      "latitude": 37.9755042,
+      "longitude": 23.73267610000001
+    },
+    {
+      "postal_code": "10680",
+      "territory": "ΕΞΑΡΧΕΙΑ ΑΘΗΝΑ",
+      "latitude": 37.986488200000004,
+      "longitude": 23.7278787
+    },
+    {
+      "postal_code": "10681",
+      "territory": "ΕΞΑΡΧΕΙΑ ΑΘΗΝΑ",
+      "latitude": 37.9864722,
+      "longitude": 23.7366549
+    },
+    {
+      "postal_code": "10682",
+      "territory": "ΙΟΥΛΙΑΝΟΥ",
+      "latitude": 37.991622799999995,
+      "longitude": 23.7268584
+    },
+    {
+      "postal_code": "10683",
+      "territory": "ΘΕΜΟΣΤΟΚΛΕΟΥΣ",
+      "latitude": 37.9856191,
+      "longitude": 23.7311693
+    },
+    {
+      "postal_code": "11141",
+      "territory": "ΚΥΠΡΙΑΔΟΥ ΑΘΗΝΑ",
+      "latitude": 38.01946179999999,
+      "longitude": 23.7417658
+    },
+    {
+      "postal_code": "11142",
+      "territory": "ΛΑΜΠΡΙΝΗ ΑΘΗΝΑ",
+      "latitude": 38.0229304,
+      "longitude": 23.7494423
+    },
+    {
+      "postal_code": "11143",
+      "territory": "ΡΙΖΟΥΠΟΛΗ ΑΘΗΝΑ",
+      "latitude": 38.027054299999996,
+      "longitude": 23.7403394
+    },
+    {
+      "postal_code": "11144",
+      "territory": "ΚΑΤΩ ΠΑΤΗΣΙΑ",
+      "latitude": 38.0119201,
+      "longitude": 23.7279894
+    },
+    {
+      "postal_code": "11145",
+      "territory": "ΤΡΕΙΣ ΓΕΦΥΡΕΣ ΑΘΗΝΑ",
+      "latitude": 38.0157683,
+      "longitude": 23.72293160000001
+    },
+    {
+      "postal_code": "11146",
+      "territory": "ΓΑΛΑΤΣΙ ΛΑΜΠΡΙΝΗ",
+      "latitude": 38.0229304,
+      "longitude": 23.7494423
+    },
+    {
+      "postal_code": "11147",
+      "territory": "ΓΑΛΑΤΣΙ ΚΑΡΑΓΙΑΝΕΙΚΑ",
+      "latitude": 38.0102422,
+      "longitude": 23.7398972
+    },
+    {
+      "postal_code": "11251",
+      "territory": "ΠΛΑΤΕΙΑ ΑΜΕΡΙΚΗΣ",
+      "latitude": 38.0026203,
+      "longitude": 23.7312462
+    },
+    {
+      "postal_code": "11252",
+      "territory": "ΠΛΑΤΕΙΑ ΑΤΤΙΚΗΣ",
+      "latitude": 37.996329100000004,
+      "longitude": 23.7203113
+    },
+    {
+      "postal_code": "11253",
+      "territory": "ΚΑΤΩ ΠΑΤΗΣΙΑ",
+      "latitude": 38.0119201,
+      "longitude": 23.7279894
+    },
+    {
+      "postal_code": "11254",
+      "territory": "ΚΑΤΩ ΠΑΤΗΣΙΑ",
+      "latitude": 38.0119362,
+      "longitude": 23.7192132
+    },
+    {
+      "postal_code": "11255",
+      "territory": "ΠΛΑΤΕΙΑ ΚΟΛΙΑΤΣΟΥ ΚΥΨΕΛΗ",
+      "latitude": 38.0100651,
+      "longitude": 23.7325715
+    },
+    {
+      "postal_code": "11256",
+      "territory": "ΠΛΑΤΕΙΑ ΚΟΛΙΑΤΣΟΥ ΚΥΨΕΛΗ",
+      "latitude": 38.0100651,
+      "longitude": 23.7325715
+    },
+    {
+      "postal_code": "11257",
+      "territory": "ΠΛΑΤΕΙΑ ΑΜΕΡΙΚΗΣ ΚΥΨΕΛΗ",
+      "latitude": 38.0026161,
+      "longitude": 23.7334402
+    },
+    {
+      "postal_code": "11361",
+      "territory": "ΠΛΑΤΕΙΑ ΑΜΕΡΙΚΗΣ",
+      "latitude": 38.0026203,
+      "longitude": 23.7312462
+    },
+    {
+      "postal_code": "11362",
+      "territory": "ΚΥΨΕΛΗ",
+      "latitude": 37.9968987,
+      "longitude": 23.740664000000002
+    },
+    {
+      "postal_code": "11363",
+      "territory": "ΝΕΑ ΚΥΨΕΛΗ",
+      "latitude": 37.99841320000001,
+      "longitude": 23.7469201
+    },
+    {
+      "postal_code": "11364",
+      "territory": "ΑΜΠΕΛΟΚΗΠΟΙ",
+      "latitude": 40.6536074,
+      "longitude": 22.9223719
+    },
+    {
+      "postal_code": "11471",
+      "territory": "ΝΕΑΠΟΛΗ ΑΘΗΝΑΣ",
+      "latitude": 37.98432929999999,
+      "longitude": 23.732948
+    },
+    {
+      "postal_code": "11472",
+      "territory": "ΝΕΑΠΟΛΗ ΑΘΗΝΑΣ",
+      "latitude": 37.98432929999999,
+      "longitude": 23.732948
+    },
+    {
+      "postal_code": "11473",
+      "territory": "ΝΕΑΠΟΛΗ ΑΘΗΝΑΣ",
+      "latitude": 37.98432929999999,
+      "longitude": 23.732948
+    },
+    {
+      "postal_code": "11474",
+      "territory": "ΓΚΥΖΗ",
+      "latitude": 37.9909165,
+      "longitude": 23.745949300000003
+    },
+    {
+      "postal_code": "11475",
+      "territory": "ΓΚΥΖΗ",
+      "latitude": 37.9909165,
+      "longitude": 23.745949300000003
+    },
+    {
+      "postal_code": "11476",
+      "territory": "ΓΚΥΖΗ",
+      "latitude": 37.9909165,
+      "longitude": 23.745949300000003
+    },
+    {
+      "postal_code": "11521",
+      "territory": "ΕΥΑΓΓΕΛΙΣΜΟΣ",
+      "latitude": 37.9800129,
+      "longitude": 23.7484385
+    },
+    {
+      "postal_code": "11522",
+      "territory": "ΑΜΠΕΛΟΚΗΠΟΙ ΓΚΥΖΗ",
+      "latitude": 40.681937299999994,
+      "longitude": 22.9333079
+    },
+    {
+      "postal_code": "11523",
+      "territory": "ΑΜΠΕΛΟΚΗΠΟΙ",
+      "latitude": 37.9891078,
+      "longitude": 23.763438600000004
+    },
+    {
+      "postal_code": "11524",
+      "territory": "ΑΜΠΕΛΟΚΗΠΟΙ",
+      "latitude": 37.9891078,
+      "longitude": 23.763438600000004
+    },
+    {
+      "postal_code": "11525",
+      "territory": "ΕΛΛΗΝΟΡΡΩΣΩΝ",
+      "latitude": 37.9967282,
+      "longitude": 23.774901
+    },
+    {
+      "postal_code": "11526",
+      "territory": "ΕΡΥΘΡΟΣ ΣΤΑΥΡΟΣ",
+      "latitude": 37.9919459,
+      "longitude": 23.772459
+    },
+    {
+      "postal_code": "11527",
+      "territory": "ΜΙΧΑΛΑΚΟΠΟΥΛΟΥ",
+      "latitude": 37.980943599999996,
+      "longitude": 23.7576755
+    },
+    {
+      "postal_code": "11528",
+      "territory": "ΜΙΧΑΛΑΚΟΠΟΥΛΟΥ",
+      "latitude": 37.980943599999996,
+      "longitude": 23.7576755
+    },
+    {
+      "postal_code": "11631",
+      "territory": "ΓΟΥΒΑ",
+      "latitude": 37.9591224,
+      "longitude": 23.7359473
+    },
+    {
+      "postal_code": "11632",
+      "territory": "ΓΟΥΒΑ",
+      "latitude": 37.9591224,
+      "longitude": 23.7359473
+    },
+    {
+      "postal_code": "11633",
+      "territory": "ΠΑΓΚΡΑΤΙ",
+      "latitude": 37.9716429,
+      "longitude": 23.74728829999999
+    },
+    {
+      "postal_code": "11634",
+      "territory": "ΠΑΓΚΡΑΤΙ",
+      "latitude": 37.9716429,
+      "longitude": 23.7472883
+    },
+    {
+      "postal_code": "11635",
+      "territory": "ΣΤΑΔΙΟΑΘΗΝΑ",
+      "latitude": 37.9697566,
+      "longitude": 23.7399832
+    },
+    {
+      "postal_code": "11636",
+      "territory": "1ο ΝΕΚΡΟΤΑΦΕΙΟ ΑΘΗΝΩΝ",
+      "latitude": 37.9641069,
+      "longitude": 23.7341246
+    },
+    {
+      "postal_code": "11741",
+      "territory": "ΚΟΥΚΑΚΙ",
+      "latitude": 37.9665736,
+      "longitude": 23.724985399999998
+    },
+    {
+      "postal_code": "11742",
+      "territory": "ΦΙΛΟΠΠΑΠΟΥ",
+      "latitude": 37.9657156,
+      "longitude": 23.7144061
+    },
+    {
+      "postal_code": "11743",
+      "territory": "ΚΥΝΟΣΑΡΓΟΥΣ",
+      "latitude": 37.96258870000001,
+      "longitude": 23.7306539
+    },
+    {
+      "postal_code": "11744",
+      "territory": "ΝΕΟΣ ΚΟΣΜΟΣ",
+      "latitude": 37.95689649999999,
+      "longitude": 23.7246066
+    },
+    {
+      "postal_code": "11745",
+      "territory": "ΝΕΟΣ ΚΟΣΜΟΣ",
+      "latitude": 37.95689649999999,
+      "longitude": 23.7246066
+    },
+    {
+      "postal_code": "11851",
+      "territory": "ΘΗΣΕΙΟ",
+      "latitude": 37.9758184,
+      "longitude": 23.719245
+    },
+    {
+      "postal_code": "11852",
+      "territory": "ΠΕΤΡΑΛΩΝΑ ΑΝΩ",
+      "latitude": 37.9683465,
+      "longitude": 23.7116423
+    },
+    {
+      "postal_code": "11853",
+      "territory": "ΠΕΤΡΑΛΩΝΑ ΚΑΤΩ",
+      "latitude": 37.9719133,
+      "longitude": 23.7069358
+    },
+    {
+      "postal_code": "11854",
+      "territory": "ΡΟΥΦ ΚΑΤΩ ΠΕΤΡΑΛΩΝΑ",
+      "latitude": 37.98422300000001,
+      "longitude": 23.6923609
+    },
+    {
+      "postal_code": "11855",
+      "territory": "ΒΟΤΑΝΙΚΟΣ",
+      "latitude": 37.9823937,
+      "longitude": 23.6961977
+    },
+    {
+      "postal_code": "12131",
+      "territory": "ΠΕΡΙΣΤΕΡΙΒΙΑΜΑΞ",
+      "latitude": 37.99941629999999,
+      "longitude": 23.6901635
+    },
+    {
+      "postal_code": "12132",
+      "territory": "ΠΕΡΙΣΤΕΡΙ ΝΕΑ ΚΟΛΟΚΥΝΘ",
+      "latitude": 38.0061651,
+      "longitude": 23.7068523
+    },
+    {
+      "postal_code": "12133",
+      "territory": "ΝΕΑ ΣΕΠΟΛΙΑ ΠΕΡΙΣΤΕΡ",
+      "latitude": 38.0151396,
+      "longitude": 23.704609899999998
+    },
+    {
+      "postal_code": "12134",
+      "territory": "ΠΕΡΙΣΤΕΡΙ",
+      "latitude": 38.0117014,
+      "longitude": 23.6957128
+    },
+    {
+      "postal_code": "12135",
+      "territory": "ΠΕΡΙΣΤΕΡΙ",
+      "latitude": 38.0226558,
+      "longitude": 23.688004199999998
+    },
+    {
+      "postal_code": "12136",
+      "territory": "ΠΕΡΙΣΤΕΡΙ",
+      "latitude": 38.0078308,
+      "longitude": 23.6823818
+    },
+    {
+      "postal_code": "12137",
+      "territory": "ΠΕΡΙΣΤΕΡΙ ΝΕΑ ΖΩΗ",
+      "latitude": 37.9996433,
+      "longitude": 23.6859723
+    },
+    {
+      "postal_code": "12241",
+      "territory": "ΑΙΓΑΛΕΩ",
+      "latitude": 37.9894728,
+      "longitude": 23.6789292
+    },
+    {
+      "postal_code": "12242",
+      "territory": "ΑΙΓΑΛΕΩ ΣΩΤΗΡΑΚΗ",
+      "latitude": 37.9987666,
+      "longitude": 23.68863
+    },
+    {
+      "postal_code": "12243",
+      "territory": "ΑΙΓΑΛΕΩ ΑΝΑΓΕΝΝΗΣΗ",
+      "latitude": 38.002842,
+      "longitude": 23.6796924
+    },
+    {
+      "postal_code": "12244",
+      "territory": "ΑΙΓΑΛΕΩ",
+      "latitude": 37.9910674,
+      "longitude": 23.6707902
+    },
+    {
+      "postal_code": "12351",
+      "territory": "ΑΓΙΑ ΒΑΡΒΑΡΑ",
+      "latitude": 37.9890595,
+      "longitude": 23.6569691
+    },
+    {
+      "postal_code": "12461",
+      "territory": "ΧΑΙΔΑΡΙ",
+      "latitude": 38.00529810000001,
+      "longitude": 23.6642751
+    },
+    {
+      "postal_code": "12462",
+      "territory": "ΧΑΙΔΑΡΙ ΔΑΣΟΣ",
+      "latitude": 38.0159263,
+      "longitude": 23.6476468
+    },
+    {
+      "postal_code": "13121",
+      "territory": "ΝΕΑ ΛΙΟΣΙΑ ΠΑΛΑΤΙΑΝΗ",
+      "latitude": 38.0269674,
+      "longitude": 23.6925299
+    },
+    {
+      "postal_code": "13122",
+      "territory": "ΝΕΑ ΛΙΟΣΙΑ ΑΓΙΑ ΦΑΝΟΥΡΙ",
+      "latitude": 38.0203126,
+      "longitude": 23.7095937
+    },
+    {
+      "postal_code": "13123",
+      "territory": "ΝΕΑ ΛΙΟΣΙΑ",
+      "latitude": 38.03747070000001,
+      "longitude": 23.697886399999998
+    },
+    {
+      "postal_code": "13231",
+      "territory": "ΠΕΤΡΟΥΠΟΛΗ",
+      "latitude": 38.0423558,
+      "longitude": 23.6842658
+    },
+    {
+      "postal_code": "13232",
+      "territory": "ΠΕΤΡΟΥΠΟΛΗ",
+      "latitude": 38.0379734,
+      "longitude": 23.6928868
+    },
+    {
+      "postal_code": "13341",
+      "territory": "ΑΝΩ ΛΙΟΣΙΑ",
+      "latitude": 38.0807098,
+      "longitude": 23.706754999999998
+    },
+    {
+      "postal_code": "13342",
+      "territory": "ΜΕΝΙΔΙ",
+      "latitude": 38.0737425,
+      "longitude": 23.704817499999997
+    },
+    {
+      "postal_code": "13343",
+      "territory": "ΜΕΝΙΔΙ",
+      "latitude": 38.0879825,
+      "longitude": 23.6957867
+    },
+    {
+      "postal_code": "13344",
+      "territory": "ΑΝΩ ΛΙΟΣΙΑ",
+      "latitude": 38.0682525,
+      "longitude": 23.7049521
+    },
+    {
+      "postal_code": "13345",
+      "territory": "Δυτικά Προάστια",
+      "latitude": 40.4883005,
+      "longitude": 21.7104633
+    },
+    {
+      "postal_code": "13351",
+      "territory": "ΦΥΛΗ",
+      "latitude": 38.102909,
+      "longitude": 23.6690367
+    },
+    {
+      "postal_code": "13451",
+      "territory": "ΖΕΦΥΡΙ",
+      "latitude": 38.0708633,
+      "longitude": 23.7082439
+    },
+    {
+      "postal_code": "13461",
+      "territory": "ΖΕΦΥΡΙ",
+      "latitude": 38.0656555,
+      "longitude": 23.719126199999998
+    },
+    {
+      "postal_code": "13501",
+      "territory": "ΖΕΦΥΡΙ",
+      "latitude": 38.0656555,
+      "longitude": 23.719126199999998
+    },
+    {
+      "postal_code": "13561",
+      "territory": "ΑΓΙΑ ΑΝΑΡΓΥΡΟΙ",
+      "latitude": 38.0281846,
+      "longitude": 23.718402899999997
+    },
+    {
+      "postal_code": "13562",
+      "territory": "ΑΓΙΑ ΑΝΑΡΓΥΡΟΙ",
+      "latitude": 38.0368388,
+      "longitude": 23.7276852
+    },
+    {
+      "postal_code": "13671",
+      "territory": "ΠΑΡΝΗΘΑ ΦΥΛΗ",
+      "latitude": 38.1660001,
+      "longitude": 23.6743801
+    },
+    {
+      "postal_code": "13672",
+      "territory": "ΜΕΝΙΔΙ",
+      "latitude": 38.0852204,
+      "longitude": 23.738064
+    },
+    {
+      "postal_code": "13673",
+      "territory": "ΜΕΝΙΔΙ",
+      "latitude": 38.08469520000001,
+      "longitude": 23.740659899999997
+    },
+    {
+      "postal_code": "13674",
+      "territory": "ΜΕΝΙΔΙ",
+      "latitude": 38.0920609,
+      "longitude": 23.732925899999998
+    },
+    {
+      "postal_code": "13675",
+      "territory": "ΜΕΝΙΔΙ",
+      "latitude": 38.0838408,
+      "longitude": 23.7348483
+    },
+    {
+      "postal_code": "13676",
+      "territory": "ΜΕΝΙΔΙ",
+      "latitude": 38.1303168,
+      "longitude": 23.758726899999996
+    },
+    {
+      "postal_code": "13677",
+      "territory": "ΟΛΥΜΠΙΑΚΟ ΧΩΡΙΟ",
+      "latitude": 38.1101145,
+      "longitude": 23.768349100000002
+    },
+    {
+      "postal_code": "13678",
+      "territory": "ΟΛΥΜΠΙΑΚΟ ΧΩΡΙΟ",
+      "latitude": 38.1115783,
+      "longitude": 23.7631177
+    },
+    {
+      "postal_code": "13679",
+      "territory": "ΟΛΥΜΠΙΑΚΟ ΧΩΡΙΟ",
+      "latitude": 38.10791920000001,
+      "longitude": 23.7631182
+    },
+    {
+      "postal_code": "14121",
+      "territory": "ΗΡΑΚΛΕΙΟ ΝΕΑ ΗΡΑΚΛΕΙΟ",
+      "latitude": 38.0472708,
+      "longitude": 23.7714547
+    },
+    {
+      "postal_code": "14122",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 38.0511604,
+      "longitude": 23.7680577
+    },
+    {
+      "postal_code": "14123",
+      "territory": "ΜΕΤΑΜΟΡΦΩΣΗ ΛΥΚΟΒΡΥΣ",
+      "latitude": 38.0673903,
+      "longitude": 23.7813182
+    },
+    {
+      "postal_code": "14231",
+      "territory": "ΝΕΑ ΙΩΝΙΑ ΙΩΝΙΑ",
+      "latitude": 38.0441541,
+      "longitude": 23.7501561
+    },
+    {
+      "postal_code": "14232",
+      "territory": "ΝΕΑ ΙΩΝΙΑ",
+      "latitude": 38.0330559,
+      "longitude": 23.749811800000003
+    },
+    {
+      "postal_code": "14233",
+      "territory": "ΝΕΟΚΤΙΣΤΑ ΝΕΑΠΟΛΕΩΣ",
+      "latitude": 38.0314024,
+      "longitude": 23.7618449
+    },
+    {
+      "postal_code": "14234",
+      "territory": "ΝΕΑ ΙΩΝΙΑ ΕΛΕΥΘΕΡΟΥΠΟΛ",
+      "latitude": 38.0410095,
+      "longitude": 23.757866800000002
+    },
+    {
+      "postal_code": "14235",
+      "territory": "ΝΕΑ ΙΩΝΙΑ ΚΑΛΟΓΡΕΖΑ",
+      "latitude": 38.0350363,
+      "longitude": 23.775992499999997
+    },
+    {
+      "postal_code": "14341",
+      "territory": "ΝΕΑ ΦΙΛΑΔΕΛΦΕΙΑ",
+      "latitude": 38.033916,
+      "longitude": 23.737403
+    },
+    {
+      "postal_code": "14342",
+      "territory": "ΝΕΑ ΦΙΛΑΔΕΛΦΕΙΑ",
+      "latitude": 38.0452058,
+      "longitude": 23.742242899999997
+    },
+    {
+      "postal_code": "14343",
+      "territory": "ΝΕΑ ΧΑΛΚΗΔΟΝΑ",
+      "latitude": 38.0293616,
+      "longitude": 23.7329608
+    },
+    {
+      "postal_code": "14451",
+      "territory": "ΜΕΤΑΜΟΡΦΩΣΗ",
+      "latitude": 38.0556442,
+      "longitude": 23.7583685
+    },
+    {
+      "postal_code": "14452",
+      "territory": "ΜΕΤΑΜΟΡΦΩΣΗ",
+      "latitude": 38.0622969,
+      "longitude": 23.7599103
+    },
+    {
+      "postal_code": "14561",
+      "territory": "ΣΤΑΘΜΟΣ ΗΣΑΠ ΚΗΦΙΣΙΑ",
+      "latitude": 38.0739486,
+      "longitude": 23.8060457
+    },
+    {
+      "postal_code": "14562",
+      "territory": "ΚΗΦΙΣΙΑ",
+      "latitude": 38.0722402,
+      "longitude": 23.8139199
+    },
+    {
+      "postal_code": "14563",
+      "territory": "ΚΗΦΙΣΙΑ ΠΟΛΙΤΕΙΑ",
+      "latitude": 38.0872794,
+      "longitude": 23.8308952
+    },
+    {
+      "postal_code": "14564",
+      "territory": "ΚΗΦΙΣΙΑ ΝΕΑ ΚΗΦΗΣΙΑ",
+      "latitude": 38.09562929999999,
+      "longitude": 23.7913435
+    },
+    {
+      "postal_code": "14565",
+      "territory": "ΑΓΙΟΣ ΣΤΕΦΑΝΟΣ",
+      "latitude": 38.141707,
+      "longitude": 23.858688600000004
+    },
+    {
+      "postal_code": "14568",
+      "territory": "ΚΡΥΟΝΕΡΙ",
+      "latitude": 38.13607070000001,
+      "longitude": 23.8290729
+    },
+    {
+      "postal_code": "14569",
+      "territory": "ΑΝΟΙΞΗ",
+      "latitude": 38.1317568,
+      "longitude": 23.8603199
+    },
+    {
+      "postal_code": "14572",
+      "territory": "ΔΡΟΣΙΑ",
+      "latitude": 38.119756,
+      "longitude": 23.8661305
+    },
+    {
+      "postal_code": "14574",
+      "territory": "ΡΟΔΟΠΟΛΗ",
+      "latitude": 38.1167583,
+      "longitude": 23.8760815
+    },
+    {
+      "postal_code": "14575",
+      "territory": "ΣΤΑΜΑΤΑ",
+      "latitude": 38.1261246,
+      "longitude": 23.8707783
+    },
+    {
+      "postal_code": "14576",
+      "territory": "ΔΙΟΝΥΣΟΣ",
+      "latitude": 38.0987438,
+      "longitude": 23.8790184
+    },
+    {
+      "postal_code": "14578",
+      "territory": "ΕΚΑΛΗ",
+      "latitude": 38.1008771,
+      "longitude": 23.8350796
+    },
+    {
+      "postal_code": "14671",
+      "territory": "ΝΕΑ ΕΡΥΘΡΑΙΑ",
+      "latitude": 38.0926493,
+      "longitude": 23.8200477
+    },
+    {
+      "postal_code": "15121",
+      "territory": "ΠΕΥΚΗ Κ.ΠΕΥΚΗ",
+      "latitude": 38.0529489,
+      "longitude": 23.79056
+    },
+    {
+      "postal_code": "15122",
+      "territory": "ΜΑΡΟΥΣΙ ΑΜΑΛΙΕΙΟ ΟΡΦ",
+      "latitude": 38.05495620000001,
+      "longitude": 23.807655
+    },
+    {
+      "postal_code": "15123",
+      "territory": "ΜΑΡΟΥΣΙ ΝΕΑ ΦΙΛΟΘΕΗ",
+      "latitude": 38.0314264,
+      "longitude": 23.785385199999997
+    },
+    {
+      "postal_code": "15124",
+      "territory": "ΜΑΡΟΥΣΙ",
+      "latitude": 38.0512581,
+      "longitude": 23.8021097
+    },
+    {
+      "postal_code": "15125",
+      "territory": "ΜΑΡΟΥΣΙ ΠΑΡΑΔΕΙΣΟΣ",
+      "latitude": 38.0453,
+      "longitude": 23.8203025
+    },
+    {
+      "postal_code": "15126",
+      "territory": "ΜΑΡΟΥΣΙ ΝΕΑ ΛΕΣΒΟΣ",
+      "latitude": 38.0563575,
+      "longitude": 23.8259775
+    },
+    {
+      "postal_code": "15127",
+      "territory": "ΜΕΛΙΣΣΙΑ",
+      "latitude": 38.0572295,
+      "longitude": 23.8336016
+    },
+    {
+      "postal_code": "15231",
+      "territory": "ΧΑΛΑΝΔΡΙ ΑΓΙΑ ΒΑΡΒΑΡΑ",
+      "latitude": 38.0137595,
+      "longitude": 23.7854066
+    },
+    {
+      "postal_code": "15232",
+      "territory": "ΧΑΛΑΝΔΡΙ",
+      "latitude": 38.020741,
+      "longitude": 23.7959223
+    },
+    {
+      "postal_code": "15233",
+      "territory": "ΧΑΛΑΝΔΡΙ",
+      "latitude": 38.024942,
+      "longitude": 23.79748
+    },
+    {
+      "postal_code": "15234",
+      "territory": "ΧΑΛΑΝΔΡΙ",
+      "latitude": 38.02657070000001,
+      "longitude": 23.8198045
+    },
+    {
+      "postal_code": "15235",
+      "territory": "ΒΡΙΛΗΣΣΙΑ",
+      "latitude": 38.0329785,
+      "longitude": 23.831904
+    },
+    {
+      "postal_code": "15236",
+      "territory": "ΠΕΝΤΕΛΗ ΝΕΑ ΠΕΝΤΕΛΗΟΡ",
+      "latitude": 38.0606091,
+      "longitude": 23.8590907
+    },
+    {
+      "postal_code": "15237",
+      "territory": "ΦΙΛΟΘΕΗ",
+      "latitude": 38.02509879999999,
+      "longitude": 23.7791452
+    },
+    {
+      "postal_code": "15238",
+      "territory": "ΧΑΛΑΝΔΡΙ",
+      "latitude": 38.0354686,
+      "longitude": 23.8511229
+    },
+    {
+      "postal_code": "15341",
+      "territory": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ ΝΕΑ ΖΩΗ",
+      "latitude": 38.00904439999999,
+      "longitude": 23.8200341
+    },
+    {
+      "postal_code": "15342",
+      "territory": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ ΑΓΙΑΝΝΗ",
+      "latitude": 38.0077479,
+      "longitude": 23.825202899999997
+    },
+    {
+      "postal_code": "15343",
+      "territory": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ ΠΕΥΚΑΚΙ",
+      "latitude": 38.0210263,
+      "longitude": 23.8430443
+    },
+    {
+      "postal_code": "15344",
+      "territory": "ΑΝΘΟΥΣΑ",
+      "latitude": 38.0230869,
+      "longitude": 23.8724272
+    },
+    {
+      "postal_code": "15349",
+      "territory": "ΑΝΘΟΥΣΑ",
+      "latitude": 38.0230869,
+      "longitude": 23.8724272
+    },
+    {
+      "postal_code": "15351",
+      "territory": "ΠΑΛΛΗΝΗ",
+      "latitude": 38.00351029999999,
+      "longitude": 23.883515799999998
+    },
+    {
+      "postal_code": "15354",
+      "territory": "ΓΛΥΚΑ ΝΕΡΑ",
+      "latitude": 37.993481,
+      "longitude": 23.848306
+    },
+    {
+      "postal_code": "15374",
+      "territory": "Ανατολικά Προάστια",
+      "latitude": 40.9748618,
+      "longitude": 24.705529100000003
+    },
+    {
+      "postal_code": "15451",
+      "territory": "ΝΕΑ ΨΥΧΙΚΟ",
+      "latitude": 38.0049076,
+      "longitude": 23.7785742
+    },
+    {
+      "postal_code": "15452",
+      "territory": "ΨΥΧΙΚΟ ΑΓΙΑ ΔΗΜΗΤΡΙΟΣ",
+      "latitude": 38.0114368,
+      "longitude": 23.777097899999998
+    },
+    {
+      "postal_code": "15561",
+      "territory": "ΧΟΛΑΡΓΟΣ ΝΑΟΣ ΦΑΝΕΡΩ",
+      "latitude": 38.0026476,
+      "longitude": 23.7986048
+    },
+    {
+      "postal_code": "15562",
+      "territory": "ΧΟΛΑΡΓΟΣ ΠΛΑΤΕΙΑ ΕΘ ΝΕΑ ΑΝΤΙ",
+      "latitude": 38.0026476,
+      "longitude": 23.7986048
+    },
+    {
+      "postal_code": "15669",
+      "territory": "ΠΑΠΑΓΟΥ",
+      "latitude": 37.9885749,
+      "longitude": 23.7965135
+    },
+    {
+      "postal_code": "15771",
+      "territory": "ΖΩΓΡΑΦΟΥ ΑΝΩ ΙΛΙΣΙΑ",
+      "latitude": 37.9743287,
+      "longitude": 23.7736717
+    },
+    {
+      "postal_code": "15772",
+      "territory": "ΖΩΓΡΑΦΟΥ ΑΝΩ ΙΛΙΣΙΑ",
+      "latitude": 37.9743287,
+      "longitude": 23.7736717
+    },
+    {
+      "postal_code": "15773",
+      "territory": "ΖΩΓΡΑΦΟΥ ΓΟΥΔΙ",
+      "latitude": 37.9807643,
+      "longitude": 23.7708378
+    },
+    {
+      "postal_code": "15780",
+      "territory": "ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ",
+      "latitude": 41.140197799999996,
+      "longitude": 25.3632924
+    },
+    {
+      "postal_code": "16121",
+      "territory": "ΚΑΙΣΑΡΙΑΝΗ ΓΗΠΕΔΑ ΝΗΑΡ ΗΣΤ",
+      "latitude": 37.966955,
+      "longitude": 23.7594267
+    },
+    {
+      "postal_code": "16122",
+      "territory": "ΚΑΙΣΑΡΙΑΝΗ ΑΝΩ ΚΑΙΣΑΡΙΑΝΗ",
+      "latitude": 37.9656684,
+      "longitude": 23.7617788
+    },
+    {
+      "postal_code": "16231",
+      "territory": "ΒΥΡΩΝ ΝΕΑ ΕΛΒΕΤΙΑ",
+      "latitude": 37.9573636,
+      "longitude": 23.758256399999997
+    },
+    {
+      "postal_code": "16232",
+      "territory": "ΒΥΡΩΝΑΣ",
+      "latitude": 37.9617869,
+      "longitude": 23.7513958
+    },
+    {
+      "postal_code": "16233",
+      "territory": "ΒΥΡΩΝ ΖΩΟΔΟΧΟΣ ΠΗΓΗ",
+      "latitude": 37.9543661,
+      "longitude": 23.760511800000003
+    },
+    {
+      "postal_code": "16341",
+      "territory": "ΗΛΙΟΥΠΟΛΗ ΚΑΤΩ ΗΛΙΟΥΠΟΛΗ",
+      "latitude": 37.9336901,
+      "longitude": 23.738021300000003
+    },
+    {
+      "postal_code": "16342",
+      "territory": "ΗΛΙΟΥΠΟΛΗ ΑΣΤΥΝΟΜΙΚΑ",
+      "latitude": 37.9239945,
+      "longitude": 23.7629925
+    },
+    {
+      "postal_code": "16343",
+      "territory": "ΗΛΙΟΥΠΟΛΗ ΑΝΩ ΝΕΑ ΗΛΙΟΥΠΟΥΛΗ",
+      "latitude": 37.9461185,
+      "longitude": 23.7445474
+    },
+    {
+      "postal_code": "16344",
+      "territory": "ΗΛΙΟΥΠΟΛΗ ΑΝΩ ΗΛΙΟΥΠΟΛΗ",
+      "latitude": 37.94610249999999,
+      "longitude": 23.7533236
+    },
+    {
+      "postal_code": "16345",
+      "territory": "ΗΛΙΟΥΠΟΛΗ ΑΝΩ ΗΛΙΟΥΠΟΛΗ",
+      "latitude": 37.9766976,
+      "longitude": 23.783828399999997
+    },
+    {
+      "postal_code": "16346",
+      "territory": "ΗΛΙΟΥΠΟΛΗ ΚΑΤΩ ΗΛΙΟΥΠΟΛΗ",
+      "latitude": 37.9336901,
+      "longitude": 23.738021300000003
+    },
+    {
+      "postal_code": "16451",
+      "territory": "ΑΡΓΥΡΟΥΠΟΛΗ",
+      "latitude": 37.9059632,
+      "longitude": 23.753752
+    },
+    {
+      "postal_code": "16452",
+      "territory": "ΑΡΓΥΡΟΥΠΟΛΗ",
+      "latitude": 37.9093343,
+      "longitude": 23.7408677
+    },
+    {
+      "postal_code": "16561",
+      "territory": "ΓΛΥΦΑΔΑ Α.ΓΛΥΦΑΔΑ",
+      "latitude": 37.8650426,
+      "longitude": 23.7550447
+    },
+    {
+      "postal_code": "16562",
+      "territory": "ΓΛΥΦΑΔΑ ΤΕΡΨΙΘΕΑ",
+      "latitude": 37.8931223,
+      "longitude": 23.7702
+    },
+    {
+      "postal_code": "16610",
+      "territory": "Γλυφάδα Νότια Προάστια",
+      "latitude": 37.8650426,
+      "longitude": 23.7550447
+    },
+    {
+      "postal_code": "16671",
+      "territory": "ΒΟΥΛΙΑΓΜΕΝΗ  ΜΙΚΡΟ ΚΑΒΟΥΡΙ",
+      "latitude": 37.8190772,
+      "longitude": 23.7597759
+    },
+    {
+      "postal_code": "16672",
+      "territory": "ΒΑΡΗ",
+      "latitude": 37.8334351,
+      "longitude": 23.802873
+    },
+    {
+      "postal_code": "16673",
+      "territory": "ΒΟΥΛΑ ΑΝΩ ΒΟΥΛΑ",
+      "latitude": 37.8523416,
+      "longitude": 23.772468300000003
+    },
+    {
+      "postal_code": "16674",
+      "territory": "ΓΛΥΦΑΔΑ",
+      "latitude": 37.8619956,
+      "longitude": 23.7541813
+    },
+    {
+      "postal_code": "16675",
+      "territory": "ΓΛΥΦΑΔΑ",
+      "latitude": 37.8640519,
+      "longitude": 23.7454264
+    },
+    {
+      "postal_code": "16777",
+      "territory": "ΕΛΛΗΝΙΚΟ ΑΓΙΑ ΠΑΡΑΣΚΕΥ",
+      "latitude": 37.904557,
+      "longitude": 23.7423393
+    },
+    {
+      "postal_code": "17121",
+      "territory": "ΝΕΑ ΣΜΥΡΝΗ ΓΗΠ.ΠΑΝΙΩΝΙ",
+      "latitude": 37.9442881,
+      "longitude": 23.7117556
+    },
+    {
+      "postal_code": "17122",
+      "territory": "ΝΕΑ ΣΜΥΡΝΗ",
+      "latitude": 37.9407215,
+      "longitude": 23.7104113
+    },
+    {
+      "postal_code": "17123",
+      "territory": "ΝΕΑ ΣΜΥΡΝΗ ΠΛΑΤΕΙΑ ΗΡ.ΚΥΠΡΟ",
+      "latitude": 37.93773090000001,
+      "longitude": 23.7162886
+    },
+    {
+      "postal_code": "17124",
+      "territory": "ΝΕΑ ΣΜΥΡΝΗ ΑΝΩ ΝΕΑ ΣΜΥΡΝ",
+      "latitude": 37.967477,
+      "longitude": 23.6947674
+    },
+    {
+      "postal_code": "17234",
+      "territory": "ΔΑΦΝΗ Α.ΔΑΦΝΗ",
+      "latitude": 37.9766976,
+      "longitude": 23.783828399999997
+    },
+    {
+      "postal_code": "17235",
+      "territory": "ΔΑΦΝΗ",
+      "latitude": 37.9505331,
+      "longitude": 23.7347983
+    },
+    {
+      "postal_code": "17236",
+      "territory": "ΥΜΗΤΤΟΣ ΚΑΛΥΚΟΠΟΙΕΙΟ",
+      "latitude": 37.95196710000001,
+      "longitude": 23.744877
+    },
+    {
+      "postal_code": "17237",
+      "territory": "ΥΜΗΤΤΟΣ ΠΑΡ.ΑΛΕΞΑΝ",
+      "latitude": 37.9525906,
+      "longitude": 23.746452800000004
+    },
+    {
+      "postal_code": "17341",
+      "territory": "ΑΓΙΑ ΔΗΜΗΤΡΙΟΣ",
+      "latitude": 37.9394366,
+      "longitude": 23.7312607
+    },
+    {
+      "postal_code": "17342",
+      "territory": "ΑΓΙΑ ΔΗΜΗΤΡΙΟΣ ΕΘ ΝΕΑ ΑΝΤΙΣ",
+      "latitude": 37.9341226,
+      "longitude": 23.7205138
+    },
+    {
+      "postal_code": "17343",
+      "territory": "ΑΓΙΑ ΔΗΜΗΤΡΙΟΣ ΑΝΟΙΞΗ",
+      "latitude": 37.9395169,
+      "longitude": 23.7318733
+    },
+    {
+      "postal_code": "17455",
+      "territory": "ΑΛΙΜΟΣ ΚΑΛΑΜΑΚΙ",
+      "latitude": 37.91204260000001,
+      "longitude": 23.7098513
+    },
+    {
+      "postal_code": "17456",
+      "territory": "ΑΛΙΜΟΣ ΕΚΤΕΛΩΝΙΣΤΩΝ",
+      "latitude": 37.921968,
+      "longitude": 23.736418399999998
+    },
+    {
+      "postal_code": "17561",
+      "territory": "Π.ΦΑΛΗΡΟ",
+      "latitude": 37.95981810000001,
+      "longitude": 23.6995799
+    },
+    {
+      "postal_code": "17562",
+      "territory": "Π.ΦΑΛΗΡΟ",
+      "latitude": 37.95981810000001,
+      "longitude": 23.6995799
+    },
+    {
+      "postal_code": "17563",
+      "territory": "Π.ΦΑΛΗΡΟ",
+      "latitude": 37.95981810000001,
+      "longitude": 23.6995799
+    },
+    {
+      "postal_code": "17564",
+      "territory": "Π.ΦΑΛΗΡΟ ΑΜΦΙΘΕΑ",
+      "latitude": 37.941897,
+      "longitude": 23.6898832
+    },
+    {
+      "postal_code": "17655",
+      "territory": "Γλυφάδα Νότια Προάστια",
+      "latitude": 37.8650426,
+      "longitude": 23.7550447
+    },
+    {
+      "postal_code": "17671",
+      "territory": "ΚΑΛΛΙΘΕΑ ΧΑΡΟΚΟΠΟΥ",
+      "latitude": 37.95743020000001,
+      "longitude": 23.7107086
+    },
+    {
+      "postal_code": "17672",
+      "territory": "ΚΑΛΛΙΘΕΑ ΧΑΡΟΚΟΠΟΥ",
+      "latitude": 37.9550651,
+      "longitude": 23.7093329
+    },
+    {
+      "postal_code": "17673",
+      "territory": "ΚΑΛΛΙΘΕΑ ΜΕΤΑΜΟΡΦΩΣΗ",
+      "latitude": 37.9492563,
+      "longitude": 23.693986300000002
+    },
+    {
+      "postal_code": "17674",
+      "territory": "ΚΑΛΛΙΘΕΑ ΤΖΙΤΖΙΦΙΕΣ",
+      "latitude": 37.9451122,
+      "longitude": 23.686747399999998
+    },
+    {
+      "postal_code": "17675",
+      "territory": "ΚΑΛΛΙΘΕΑ ΑΓΙΑ ΕΛΕΟΥΣΑ",
+      "latitude": 37.95456970000001,
+      "longitude": 23.6942572
+    },
+    {
+      "postal_code": "17676",
+      "territory": "ΚΑΛΛΙΘΕΑ ΠΛΑΤΕΙΑ ΚΑΛΛΙΘΕΑ",
+      "latitude": 39.8472531,
+      "longitude": 21.356294600000002
+    },
+    {
+      "postal_code": "17778",
+      "territory": "ΤΑΥΡΟΣ",
+      "latitude": 37.9709961,
+      "longitude": 23.6916685
+    },
+    {
+      "postal_code": "18010",
+      "territory": "ΑΙΓΙΝΑ",
+      "latitude": 37.7474254,
+      "longitude": 23.429189899999997
+    },
+    {
+      "postal_code": "18020",
+      "territory": "ΠΟΡΟΣ",
+      "latitude": 37.50024929999999,
+      "longitude": 23.455073300000002
+    },
+    {
+      "postal_code": "18030",
+      "territory": "ΜΕΘΑΝΑ",
+      "latitude": 37.58239860000001,
+      "longitude": 23.388526199999998
+    },
+    {
+      "postal_code": "18040",
+      "territory": "ΥΔΡΑ",
+      "latitude": 37.3466624,
+      "longitude": 23.4659497
+    },
+    {
+      "postal_code": "18050",
+      "territory": "ΣΠΕΤΣΕΣ",
+      "latitude": 37.2632783,
+      "longitude": 23.157172199999998
+    },
+    {
+      "postal_code": "18120",
+      "territory": "ΚΟΡΥΔΑΛΛΟΣ ΠΛΑΤΕΙΑ ΕΛΕΥΘΕΡΙΑΣ",
+      "latitude": 37.977556299999996,
+      "longitude": 23.648135
+    },
+    {
+      "postal_code": "18121",
+      "territory": "ΚΟΡΥΔΑΛΛΟΣ ΦΥΛΑΚΕΣ",
+      "latitude": 37.9838044,
+      "longitude": 23.652488
+    },
+    {
+      "postal_code": "18122",
+      "territory": "ΚΟΡΥΔΑΛΛΟΣ ΧΩΜΑΤΕΡΗ",
+      "latitude": 37.9939201,
+      "longitude": 23.6450901
+    },
+    {
+      "postal_code": "18233",
+      "territory": "ΑΓΙΑ Ι.ΡΕΝΤΗΣ",
+      "latitude": 37.964925,
+      "longitude": 23.6651046
+    },
+    {
+      "postal_code": "18344",
+      "territory": "ΜΟΣΧΑΤΟ",
+      "latitude": 37.9461725,
+      "longitude": 23.678281100000003
+    },
+    {
+      "postal_code": "18345",
+      "territory": "ΜΟΣΧΑΤΟ",
+      "latitude": 37.9531249,
+      "longitude": 23.6816363
+    },
+    {
+      "postal_code": "18346",
+      "territory": "ΜΟΣΧΑΤΟ",
+      "latitude": 37.95834779999999,
+      "longitude": 23.685446399999996
+    },
+    {
+      "postal_code": "18446",
+      "territory": "Πειραιάς Κέντρο",
+      "latitude": 37.9325109,
+      "longitude": 23.6877871
+    },
+    {
+      "postal_code": "18450",
+      "territory": "ΝΙΚΑΙΑ ΑΓΙΑ ΧΡΥΣΟΣΤΟΜΟ",
+      "latitude": 37.9701123,
+      "longitude": 23.6423642
+    },
+    {
+      "postal_code": "18451",
+      "territory": "ΝΙΚΑΙΑ ΝΕΑΠΟΛΗΣ",
+      "latitude": 40.6714128,
+      "longitude": 22.9261508
+    },
+    {
+      "postal_code": "18452",
+      "territory": "ΝΙΚΑΙΑ ΝΕΑΠΟΛΗ",
+      "latitude": 37.9801609,
+      "longitude": 23.6404453
+    },
+    {
+      "postal_code": "18453",
+      "territory": "ΝΙΚΑΙΑ ΝΕΑΠΟΛΗΣ",
+      "latitude": 40.6714128,
+      "longitude": 22.9261508
+    },
+    {
+      "postal_code": "18454",
+      "territory": "ΝΙΚΑΙΑ ΑΣΠΡΑ ΧΩΜΑΤΑ",
+      "latitude": 37.967250799999995,
+      "longitude": 23.6612108
+    },
+    {
+      "postal_code": "18510",
+      "territory": "ΤΕΛΩΝΕΙΟ Α'",
+      "latitude": 37.9491278,
+      "longitude": 23.640579
+    },
+    {
+      "postal_code": "18531",
+      "territory": "ΠΕΙΡΑΙΑΣ",
+      "latitude": 37.9447711,
+      "longitude": 23.6432507
+    },
+    {
+      "postal_code": "18532",
+      "territory": "ΠΕΙΡΑΙΑΣ",
+      "latitude": 37.9471388,
+      "longitude": 23.652288199999997
+    },
+    {
+      "postal_code": "18533",
+      "territory": "ΠΕΙΡΑΙΑΣ ΚΑΣΤΕΛΛΑ",
+      "latitude": 37.9410179,
+      "longitude": 23.6600693
+    },
+    {
+      "postal_code": "18534",
+      "territory": "ΠΕΙΡΑΙΑΣ ΠΛΑΤΕΙΑ ΑΛΕΞΑΝΔΡ",
+      "latitude": 37.93463870000001,
+      "longitude": 23.6507774
+    },
+    {
+      "postal_code": "18535",
+      "territory": "ΠΕΙΡΑΙΑ",
+      "latitude": 37.94167789999999,
+      "longitude": 23.6483108
+    },
+    {
+      "postal_code": "18536",
+      "territory": "ΠΕΙΡΑΙΑΣ ΧΑΤΖΗΚΥΡΙΑΚ",
+      "latitude": 36.7128404,
+      "longitude": 24.002488800000002
+    },
+    {
+      "postal_code": "18537",
+      "territory": "ΠΕΙΡΑΙΑΣ ΑΓΙΑ ΝΙΚΟΛΑΟΣ",
+      "latitude": 37.9383258,
+      "longitude": 23.6398482
+    },
+    {
+      "postal_code": "18538",
+      "territory": "ΠΕΙΡΑΙΑΣ ΧΑΤΖΗΚΥΡΙΑΚ",
+      "latitude": 37.9349275,
+      "longitude": 23.632022600000006
+    },
+    {
+      "postal_code": "18539",
+      "territory": "ΠΕΙΡΑΙΑΣ ΚΑΛΛΙΠΟΛΙΣ",
+      "latitude": 37.9307333,
+      "longitude": 23.635475699999997
+    },
+    {
+      "postal_code": "18540",
+      "territory": "ΠΕΙΡΑΙΑΣ",
+      "latitude": 37.9522979,
+      "longitude": 23.6518792
+    },
+    {
+      "postal_code": "18541",
+      "territory": "ΠΕΙΡΑΙΑΣ ΑΠΟΛΛΩΝΟΣ",
+      "latitude": 37.9528283,
+      "longitude": 23.6661308
+    },
+    {
+      "postal_code": "18542",
+      "territory": "ΠΕΙΡΑΙΕΥΣ ΚΟΚΚΙΝΙΑ",
+      "latitude": 37.9620112,
+      "longitude": 23.65356
+    },
+    {
+      "postal_code": "18543",
+      "territory": "ΠΕΙΡΑΙΑΣ ΜΑΝΙΑΤΙΚΑ",
+      "latitude": 37.9563672,
+      "longitude": 23.6476099
+    },
+    {
+      "postal_code": "18544",
+      "territory": "ΝΙΚΑΙΑ ΠΕΙΡΑΙΑΣ",
+      "latitude": 37.95782970000001,
+      "longitude": 23.6372814
+    },
+    {
+      "postal_code": "18545",
+      "territory": "ΠΕΙΡΑΙΑ ΤΑΜΠΟΥΡΙΑ",
+      "latitude": 37.9553709,
+      "longitude": 23.635226199999998
+    },
+    {
+      "postal_code": "18546",
+      "territory": "ΠΕΙΡΑΙΑΣ ΤΑΜΠΟΥΡΙΑ",
+      "latitude": 36.7128404,
+      "longitude": 24.002488800000002
+    },
+    {
+      "postal_code": "18547",
+      "territory": "ΠΕΙΡΑΙΑΣ ΝΕΑ ΦΑΛΗΡΟ",
+      "latitude": 37.94858410000001,
+      "longitude": 23.6595454
+    },
+    {
+      "postal_code": "18648",
+      "territory": "ΔΡΑΠΕΤΣΩΝΑ",
+      "latitude": 37.9499825,
+      "longitude": 23.6239953
+    },
+    {
+      "postal_code": "18755",
+      "territory": "ΚΕΡΑΤΣΙΝΙ",
+      "latitude": 37.9548428,
+      "longitude": 23.6185383
+    },
+    {
+      "postal_code": "18756",
+      "territory": "ΚΕΡΑΤΣΙΝΙ ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ",
+      "latitude": 37.961153,
+      "longitude": 23.6168866
+    },
+    {
+      "postal_code": "18757",
+      "territory": "ΚΕΡΑΤΣΙΝΙ ΑΜΦΙΑΛΗ",
+      "latitude": 37.9701789,
+      "longitude": 23.6214897
+    },
+    {
+      "postal_code": "18758",
+      "territory": "ΚΕΡΑΤΣΙΝΙ ΑΜΦΙΑΛΗ",
+      "latitude": 37.9678208,
+      "longitude": 23.6170282
+    },
+    {
+      "postal_code": "18863",
+      "territory": "ΠΕΡΑΜΑ",
+      "latitude": 37.9656089,
+      "longitude": 23.5677089
+    },
+    {
+      "postal_code": "18900",
+      "territory": "ΣΑΛΑΜΙΝΑ",
+      "latitude": 37.966284,
+      "longitude": 23.4952437
+    },
+    {
+      "postal_code": "18901",
+      "territory": "ΣΑΛΑΜΙΝΑ",
+      "latitude": 37.9513322,
+      "longitude": 23.58273680000001
+    },
+    {
+      "postal_code": "18902",
+      "territory": "ΣΑΛΑΜΙΝΑ",
+      "latitude": 37.954993,
+      "longitude": 23.527785199999997
+    },
+    {
+      "postal_code": "18903",
+      "territory": "ΣΑΛΑΜΙΝΑ",
+      "latitude": 37.9040129,
+      "longitude": 23.4418908
+    },
+    {
+      "postal_code": "19001",
+      "territory": "ΚΕΡΑΤΕΑ",
+      "latitude": 37.80717960000001,
+      "longitude": 23.976341199999997
+    },
+    {
+      "postal_code": "19002",
+      "territory": "ΠΑΙΑΝΙΑ",
+      "latitude": 37.9553334,
+      "longitude": 23.8522263
+    },
+    {
+      "postal_code": "19003",
+      "territory": "ΜΑΡΚΟΠΟΥΛΟ",
+      "latitude": 37.8833564,
+      "longitude": 23.9333037
+    },
+    {
+      "postal_code": "19004",
+      "territory": "ΣΠΑΤΑ",
+      "latitude": 37.96464080000001,
+      "longitude": 23.9070776
+    },
+    {
+      "postal_code": "19005",
+      "territory": "ΑΓΙΑ ΑΝΔΡΕΑ ΖΟΥΜΠΕΡΙ",
+      "latitude": 38.071912299999994,
+      "longitude": 23.977630800000004
+    },
+    {
+      "postal_code": "19006",
+      "territory": "ΝΕΑ ΠΕΡΑΜΟΣ Μ.ΠΕΥΚΟ",
+      "latitude": 38.0125381,
+      "longitude": 23.4233633
+    },
+    {
+      "postal_code": "19007",
+      "territory": "ΜΑΡΑΘΩΝΑΣ",
+      "latitude": 38.1532814,
+      "longitude": 23.9619908
+    },
+    {
+      "postal_code": "19008",
+      "territory": "ΕΡΥΘΡΕΣ",
+      "latitude": 38.2174124,
+      "longitude": 23.3221403
+    },
+    {
+      "postal_code": "19009",
+      "territory": "ΠΙΚΕΡΜΙ ΜΑΤΙ",
+      "latitude": 38.04972539999999,
+      "longitude": 23.978685100000003
+    },
+    {
+      "postal_code": "19010",
+      "territory": "ΚΑΛΥΒΙΑ ΘΟΡΙΚΟΥ",
+      "latitude": 37.8405133,
+      "longitude": 23.9284043
+    },
+    {
+      "postal_code": "19011",
+      "territory": "ΜΑΛΑΚΑΣΑ",
+      "latitude": 38.2388242,
+      "longitude": 23.7964627
+    },
+    {
+      "postal_code": "19012",
+      "territory": "ΒΙΛΙΑ ΠΟΡΤΟ ΓΕΡΜΕΝΟ",
+      "latitude": 38.1550638,
+      "longitude": 23.224884799999998
+    },
+    {
+      "postal_code": "19013",
+      "territory": "ΣΑΡΩΝΙΔΑ ΑΝΑΒΥΣΟΣ",
+      "latitude": 37.7186417,
+      "longitude": 23.91727430000001
+    },
+    {
+      "postal_code": "19014",
+      "territory": "ΚΑΠΑΝΔΡΙΤΙ ΒΑΡΝΑΒΑΣ",
+      "latitude": 38.2520001,
+      "longitude": 23.9454801
+    },
+    {
+      "postal_code": "19015",
+      "territory": "ΩΡΩΠΟΣ ΚΑΛΑΜΟΣ",
+      "latitude": 38.3560984,
+      "longitude": 23.793312300000004
+    },
+    {
+      "postal_code": "19016",
+      "territory": "ΑΡΤΕΜΙΣ ΛΟΥΤΣΑ",
+      "latitude": 37.9613488,
+      "longitude": 23.9952789
+    },
+    {
+      "postal_code": "19017",
+      "territory": "Ανατολικά Προάστια",
+      "latitude": 40.9748618,
+      "longitude": 24.705529100000003
+    },
+    {
+      "postal_code": "19018",
+      "territory": "ΜΑΓΟΥΛΑ",
+      "latitude": 39.3840937,
+      "longitude": 22.933412
+    },
+    {
+      "postal_code": "19019",
+      "territory": "Ανατολικά Προάστια",
+      "latitude": 40.9748618,
+      "longitude": 24.705529100000003
+    },
+    {
+      "postal_code": "19100",
+      "territory": "ΜΕΓΑΡΑ",
+      "latitude": 37.9943201,
+      "longitude": 23.3430496
+    },
+    {
+      "postal_code": "19200",
+      "territory": "ΜΑΓΟΥΛΑ",
+      "latitude": 39.3840937,
+      "longitude": 22.933412
+    },
+    {
+      "postal_code": "19300",
+      "territory": "ΑΣΠΡΟΠΥΡΓΟΣ",
+      "latitude": 38.0609063,
+      "longitude": 23.5910603
+    },
+    {
+      "postal_code": "19400",
+      "territory": "ΚΟΡΩΠΙ KΑΡΕΛΛΑΣ",
+      "latitude": 37.935109999999995,
+      "longitude": 23.87509349999999
+    },
+    {
+      "postal_code": "19500",
+      "territory": "ΛΑΥΡΙΟ",
+      "latitude": 37.714177,
+      "longitude": 24.057663199999997
+    },
+    {
+      "postal_code": "19600",
+      "territory": "ΜΑΝΔΡΑ",
+      "latitude": 38.0750425,
+      "longitude": 23.5008508
+    },
+    {
+      "postal_code": "20000",
+      "territory": "ΚΕΝΤΡΙΚΑ ΑΘ",
+      "latitude": 0,
+      "longitude": 0
+    },
+    {
+      "postal_code": "20001",
+      "territory": "ΖΕΥΓΟΛΑΤΕΙΟ",
+      "latitude": 37.93758560000001,
+      "longitude": 22.8008984
+    },
+    {
+      "postal_code": "20002",
+      "territory": "ΒΕΛΟ",
+      "latitude": 37.9762148,
+      "longitude": 22.759885
+    },
+    {
+      "postal_code": "20003",
+      "territory": "ΑΓΙΟΙ ΘΕΟΔΩΡΟΙ",
+      "latitude": 37.92824470000001,
+      "longitude": 23.1433311
+    },
+    {
+      "postal_code": "20004",
+      "territory": "ΣΟΦΙΚΟ",
+      "latitude": 37.7937459,
+      "longitude": 23.0535108
+    },
+    {
+      "postal_code": "20005",
+      "territory": "ΑΘΙΚΙΑ",
+      "latitude": 37.8195361,
+      "longitude": 22.925002399999997
+    },
+    {
+      "postal_code": "20006",
+      "territory": "ΒΡΑΧΑΤΙ",
+      "latitude": 37.9578061,
+      "longitude": 22.803968899999997
+    },
+    {
+      "postal_code": "20007",
+      "territory": "ΑΡΧΑΙΑ ΚΟΡΙΝΘΟΣ",
+      "latitude": 37.9071706,
+      "longitude": 22.8814296
+    },
+    {
+      "postal_code": "20008",
+      "territory": "ΧΙΛΙΟΜΟΔΙ",
+      "latitude": 37.8116578,
+      "longitude": 22.869699
+    },
+    {
+      "postal_code": "20009",
+      "territory": "ΔΕΡΒΕΝΙ",
+      "latitude": 38.13088629999999,
+      "longitude": 22.4122809
+    },
+    {
+      "postal_code": "20010",
+      "territory": "ΙΣΘΜΙΑ",
+      "latitude": 37.9195435,
+      "longitude": 23.0085259
+    },
+    {
+      "postal_code": "20011",
+      "territory": "ΠΕΡΙΓΙΑΛΙ",
+      "latitude": 37.9380499,
+      "longitude": 22.836589
+    },
+    {
+      "postal_code": "20012",
+      "territory": "ΛΥΚΟΠΟΡΙΑ",
+      "latitude": 38.12847010000001,
+      "longitude": 22.5067486
+    },
+    {
+      "postal_code": "20013",
+      "territory": "ΕΛΛΗΝΙΚΟ",
+      "latitude": 37.88893959999999,
+      "longitude": 23.7435107
+    },
+    {
+      "postal_code": "20014",
+      "territory": "ΓΚΟΥΡΑ",
+      "latitude": 37.9326446,
+      "longitude": 22.340797600000002
+    },
+    {
+      "postal_code": "20015",
+      "territory": "ΣΟΥΛΙ",
+      "latitude": 37.98632360000001,
+      "longitude": 22.642972600000004
+    },
+    {
+      "postal_code": "20016",
+      "territory": "ΚΑΛΙΑΝΟΙ",
+      "latitude": 37.8890753,
+      "longitude": 22.494705399999997
+    },
+    {
+      "postal_code": "20017",
+      "territory": "ΚΛΗΜΕΝΤΙ",
+      "latitude": 37.95977070000001,
+      "longitude": 22.5635361
+    },
+    {
+      "postal_code": "20100",
+      "territory": "ΚΟΡΙΝΘΟΣ",
+      "latitude": 37.9386365,
+      "longitude": 22.9322383
+    },
+    {
+      "postal_code": "20200",
+      "territory": "ΚΙΑΤΟ",
+      "latitude": 38.0126545,
+      "longitude": 22.750170999999998
+    },
+    {
+      "postal_code": "20300",
+      "territory": "ΛΟΥΤΡΑΚΙ",
+      "latitude": 37.9759033,
+      "longitude": 22.9774589
+    },
+    {
+      "postal_code": "20400",
+      "territory": "ΞΥΛΟΚΑΣΤΡΟ",
+      "latitude": 38.0772641,
+      "longitude": 22.6326975
+    },
+    {
+      "postal_code": "20500",
+      "territory": "ΝΕΜΕΑ",
+      "latitude": 37.82133,
+      "longitude": 22.660998
+    },
+    {
+      "postal_code": "21000",
+      "territory": "Αργολίδα",
+      "latitude": 37.6525404,
+      "longitude": 22.858217
+    },
+    {
+      "postal_code": "21051",
+      "territory": "ΕΡΜΙΟΝΗ",
+      "latitude": 37.3869672,
+      "longitude": 23.246768799999998
+    },
+    {
+      "postal_code": "21052",
+      "territory": "ΛΥΓΟΥΡΙΟ",
+      "latitude": 37.6123892,
+      "longitude": 23.035883399999996
+    },
+    {
+      "postal_code": "21053",
+      "territory": "ΝΕΑ ΚΙΟΣ",
+      "latitude": 37.5874845,
+      "longitude": 22.7447696
+    },
+    {
+      "postal_code": "21054",
+      "territory": "ΝΕΑ ΕΠΙΔΑΥΡΟΣ",
+      "latitude": 37.6773111,
+      "longitude": 23.127566
+    },
+    {
+      "postal_code": "21055",
+      "territory": "ΑΓΙΑ ΤΡΙΑΔΑ ΑΡΓΟΛΙΔ.",
+      "latitude": 37.6376898,
+      "longitude": 22.805810100000002
+    },
+    {
+      "postal_code": "21056",
+      "territory": "ΤΟΛΟ",
+      "latitude": 37.5211752,
+      "longitude": 22.8597536
+    },
+    {
+      "postal_code": "21057",
+      "territory": "ΑΧΛΑΔΟΚΑΜΠΟΣ",
+      "latitude": 37.5228216,
+      "longitude": 22.5812802
+    },
+    {
+      "postal_code": "21058",
+      "territory": "ΛΥΡΚΕΙΑ",
+      "latitude": 37.7045797,
+      "longitude": 22.5513765
+    },
+    {
+      "postal_code": "21059",
+      "territory": "ΠΑΛΑΙΑ ΕΠΙΔΑΥΡΟΣ",
+      "latitude": 37.6376123,
+      "longitude": 23.155505899999998
+    },
+    {
+      "postal_code": "21060",
+      "territory": "ΔΡΕΠΑΝΟ",
+      "latitude": 37.5401889,
+      "longitude": 22.892368899999997
+    },
+    {
+      "postal_code": "21061",
+      "territory": "ΠΟΡΤΟΧΕΛΙ",
+      "latitude": 37.6149034,
+      "longitude": 23.385078699999998
+    },
+    {
+      "postal_code": "21100",
+      "territory": "ΝΑΥΠΛΙΟ",
+      "latitude": 37.56731729999999,
+      "longitude": 22.801553100000003
+    },
+    {
+      "postal_code": "21200",
+      "territory": "ΑΡΓΟΣ",
+      "latitude": 37.63517210000001,
+      "longitude": 22.7288576
+    },
+    {
+      "postal_code": "21300",
+      "territory": "ΚΡΑΝΙΔΙ",
+      "latitude": 37.3805109,
+      "longitude": 23.1602123
+    },
+    {
+      "postal_code": "22001",
+      "territory": "ΑΣΤΡΟΣ",
+      "latitude": 37.402745,
+      "longitude": 22.7234331
+    },
+    {
+      "postal_code": "22002",
+      "territory": "ΛΕΒΙΔΙ",
+      "latitude": 37.6820682,
+      "longitude": 22.2956396
+    },
+    {
+      "postal_code": "22003",
+      "territory": "ΛΑΓΚΑΔΙΑ",
+      "latitude": 37.6818606,
+      "longitude": 22.03002080000001
+    },
+    {
+      "postal_code": "22004",
+      "territory": "ΚΑΝΔΗΛΑ",
+      "latitude": 38.7056996,
+      "longitude": 20.9479351
+    },
+    {
+      "postal_code": "22005",
+      "territory": "ΝΕΣΤΑΝΗ",
+      "latitude": 37.61396269999999,
+      "longitude": 22.465867199999998
+    },
+    {
+      "postal_code": "22006",
+      "territory": "ΑΓΙΟΣ ΑΝΔΡΕΑΣ",
+      "latitude": 37.9684692,
+      "longitude": 23.474001
+    },
+    {
+      "postal_code": "22007",
+      "territory": "ΔΗΜΗΤΣΑΝΑ",
+      "latitude": 37.5955677,
+      "longitude": 22.0395213
+    },
+    {
+      "postal_code": "22008",
+      "territory": "ΤΡΟΠΑΙΑ",
+      "latitude": 37.7322838,
+      "longitude": 21.9594427
+    },
+    {
+      "postal_code": "22009",
+      "territory": "ΑΓΙΟΣ ΠΕΤΡΟΣ",
+      "latitude": 37.327691,
+      "longitude": 22.5465824
+    },
+    {
+      "postal_code": "22010",
+      "territory": "ΒΥΤΙΝΑ",
+      "latitude": 37.670162,
+      "longitude": 22.182665399999998
+    },
+    {
+      "postal_code": "22011",
+      "territory": "ΚΟΛΛΙΝΕΣ",
+      "latitude": 37.28614620000001,
+      "longitude": 22.3604781
+    },
+    {
+      "postal_code": "22012",
+      "territory": "ΣΤΑΔΙΟ",
+      "latitude": 37.4588673,
+      "longitude": 22.4358865
+    },
+    {
+      "postal_code": "22013",
+      "territory": "ΚΑΣΤΡΙ",
+      "latitude": 37.3637033,
+      "longitude": 22.5394401
+    },
+    {
+      "postal_code": "22014",
+      "territory": "ΒΑΛΤΕΣΙΝΙΚΟ",
+      "latitude": 37.70477020000001,
+      "longitude": 22.097269100000002
+    },
+    {
+      "postal_code": "22015",
+      "territory": "ΚΟΝΤΙΒΑΖΑΙΝΑ",
+      "latitude": 37.796887,
+      "longitude": 21.899755399999997
+    },
+    {
+      "postal_code": "22016",
+      "territory": "ΒΛΑΧΟΚΕΡΑΣΕΑ",
+      "latitude": 37.3680405,
+      "longitude": 22.377349600000002
+    },
+    {
+      "postal_code": "22017",
+      "territory": "ΔΑΡΑΣ",
+      "latitude": 37.7946118,
+      "longitude": 22.2561008
+    },
+    {
+      "postal_code": "22018",
+      "territory": "ΕΛΑΙΟΧΩΡΙ",
+      "latitude": 40.8207633,
+      "longitude": 24.242969199999997
+    },
+    {
+      "postal_code": "22019",
+      "territory": "ΠΑΡΑΛΙΟ ΑΣΤΡΟΣ",
+      "latitude": 37.4152314,
+      "longitude": 22.76475060000001
+    },
+    {
+      "postal_code": "22020",
+      "territory": "ΚΟΣΜΑΣ",
+      "latitude": 37.0926331,
+      "longitude": 22.7403737
+    },
+    {
+      "postal_code": "22021",
+      "territory": "ΛΕΟΝΤΑΡΙ",
+      "latitude": 37.3210783,
+      "longitude": 22.145225
+    },
+    {
+      "postal_code": "22022",
+      "territory": "ΚΑΡΙΤΑΙΝΑ",
+      "latitude": 37.4844743,
+      "longitude": 22.0414258
+    },
+    {
+      "postal_code": "22024",
+      "territory": "ΣΤΕΜΝΙΤΣΑ",
+      "latitude": 37.5548799,
+      "longitude": 22.0814056
+    },
+    {
+      "postal_code": "22025",
+      "territory": "ΙΣΑΡΗΣ",
+      "latitude": 37.36345130000001,
+      "longitude": 22.0139248
+    },
+    {
+      "postal_code": "22026",
+      "territory": "ΜΑΓΟΥΛΙΑΝΑ",
+      "latitude": 37.677201200000006,
+      "longitude": 22.1283049
+    },
+    {
+      "postal_code": "22027",
+      "territory": "ΚΑΤΩ ΑΣΕΑ",
+      "latitude": 37.4022514,
+      "longitude": 22.2822055
+    },
+    {
+      "postal_code": "22028",
+      "territory": "ΠΑΛΟΥΜΠΑ",
+      "latitude": 37.620707,
+      "longitude": 21.947292
+    },
+    {
+      "postal_code": "22029",
+      "territory": "ΤΥΡΟΣ",
+      "latitude": 37.2405869,
+      "longitude": 22.8417068
+    },
+    {
+      "postal_code": "22100",
+      "territory": "ΤΡΙΠΟΛΗ",
+      "latitude": 37.5101357,
+      "longitude": 22.372644
+    },
+    {
+      "postal_code": "22200",
+      "territory": "ΜΕΓΑΛΟΠΟΛΗ",
+      "latitude": 37.401244,
+      "longitude": 22.1364871
+    },
+    {
+      "postal_code": "22300",
+      "territory": "ΛΕΩΝΙΔΙ",
+      "latitude": 37.16727669999999,
+      "longitude": 22.8592838
+    },
+    {
+      "postal_code": "23051",
+      "territory": "ΣΚΑΛΑ",
+      "latitude": 36.85114229999999,
+      "longitude": 22.666330600000002
+    },
+    {
+      "postal_code": "23052",
+      "territory": "ΜΟΛΑΟΙ",
+      "latitude": 36.8042572,
+      "longitude": 22.855767999999998
+    },
+    {
+      "postal_code": "23053",
+      "territory": "ΝΕΑΠΟΛΗ ΛΑΚΩΝΙΑΣ",
+      "latitude": 36.5135653,
+      "longitude": 23.0554882
+    },
+    {
+      "postal_code": "23054",
+      "territory": "ΞΗΡΟΚΑΜΠΙ",
+      "latitude": 36.9593051,
+      "longitude": 22.4522074
+    },
+    {
+      "postal_code": "23055",
+      "territory": "ΒΛΑΧΙΩΤΗΣ",
+      "latitude": 36.8619284,
+      "longitude": 22.707321399999998
+    },
+    {
+      "postal_code": "23056",
+      "territory": "ΠΑΠΑΔΙΑΝΙΚΑ",
+      "latitude": 36.7155683,
+      "longitude": 22.859317899999997
+    },
+    {
+      "postal_code": "23057",
+      "territory": "ΚΡΟΚΕΕΣ",
+      "latitude": 36.883077,
+      "longitude": 22.548979199999998
+    },
+    {
+      "postal_code": "23058",
+      "territory": "ΓΕΡΑΚΙ",
+      "latitude": 36.9922548,
+      "longitude": 22.705913199999998
+    },
+    {
+      "postal_code": "23059",
+      "territory": "ΚΑΣΤΟΡΕΙΟ",
+      "latitude": 37.1703356,
+      "longitude": 22.304741
+    },
+    {
+      "postal_code": "23060",
+      "territory": "ΝΙΑΤΑ",
+      "latitude": 36.8993124,
+      "longitude": 22.844020699999998
+    },
+    {
+      "postal_code": "23061",
+      "territory": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ ΛΑΚΩΝ",
+      "latitude": 36.8305719,
+      "longitude": 22.44076260000001
+    },
+    {
+      "postal_code": "23062",
+      "territory": "ΑΡΕΟΠΟΛΗ",
+      "latitude": 36.6660079,
+      "longitude": 22.3805151
+    },
+    {
+      "postal_code": "23063",
+      "territory": "ΠΥΡΓΟΣ ΔΙΡΟΥ",
+      "latitude": 38.0162722,
+      "longitude": 23.698602899999997
+    },
+    {
+      "postal_code": "23064",
+      "territory": "ΣΕΛΑΣΙΑ",
+      "latitude": 37.1670232,
+      "longitude": 22.41716060000001
+    },
+    {
+      "postal_code": "23065",
+      "territory": "ΓΕΩΡΓΙΤΣΙ",
+      "latitude": 37.190757,
+      "longitude": 22.274746899999997
+    },
+    {
+      "postal_code": "23066",
+      "territory": "ΚΟΤΡΩΝΑΣ",
+      "latitude": 36.6196563,
+      "longitude": 22.492133199999998
+    },
+    {
+      "postal_code": "23067",
+      "territory": "ΚΑΡΥΕΣ ΛΑΚΩΝΙΑΣ",
+      "latitude": 37.290999,
+      "longitude": 22.5007978
+    },
+    {
+      "postal_code": "23068",
+      "territory": "ΡΕΙΧΕΑ",
+      "latitude": 36.8460256,
+      "longitude": 23.006022
+    },
+    {
+      "postal_code": "23069",
+      "territory": "ΒΡΕΣΘΕΝΑ",
+      "latitude": 37.2267881,
+      "longitude": 22.49771530000001
+    },
+    {
+      "postal_code": "23070",
+      "territory": "ΜΟΝΕΜΒΑΣΙΑ",
+      "latitude": 36.6876016,
+      "longitude": 23.056032000000002
+    },
+    {
+      "postal_code": "23071",
+      "territory": "ΓΕΡΟΛΙΜΕΝΑ",
+      "latitude": 36.4770355,
+      "longitude": 22.4051649
+    },
+    {
+      "postal_code": "23100",
+      "territory": "ΣΠΑΡΤΗ",
+      "latitude": 37.074461,
+      "longitude": 22.430264
+    },
+    {
+      "postal_code": "23200",
+      "territory": "ΓΥΘΕΙΟ",
+      "latitude": 36.7602193,
+      "longitude": 22.56553730000001
+    },
+    {
+      "postal_code": "24001",
+      "territory": "ΠΥΛΟΣ",
+      "latitude": 36.913075600000006,
+      "longitude": 21.696347199999998
+    },
+    {
+      "postal_code": "24002",
+      "territory": "ΜΕΛΙΓΑΛΑΣ",
+      "latitude": 37.2245152,
+      "longitude": 21.9699152
+    },
+    {
+      "postal_code": "24003",
+      "territory": "ΚΟΠΑΝΑΚΙ",
+      "latitude": 37.2887111,
+      "longitude": 21.81817460000001
+    },
+    {
+      "postal_code": "24004",
+      "territory": "ΚΟΡΩΝΗ",
+      "latitude": 36.7960065,
+      "longitude": 21.9583765
+    },
+    {
+      "postal_code": "24005",
+      "territory": "ΠΕΤΑΛΙΔΙ",
+      "latitude": 36.9586494,
+      "longitude": 21.9270073
+    },
+    {
+      "postal_code": "24006",
+      "territory": "ΜΕΘΩΝΗ",
+      "latitude": 36.81990220000001,
+      "longitude": 21.706301800000002
+    },
+    {
+      "postal_code": "24007",
+      "territory": "ΑΡΦΑΡΑ",
+      "latitude": 37.1560675,
+      "longitude": 22.04449330000001
+    },
+    {
+      "postal_code": "24008",
+      "territory": "ΔΙΑΒΟΛΙΤΣΙ",
+      "latitude": 37.2994668,
+      "longitude": 21.9690218
+    },
+    {
+      "postal_code": "24009",
+      "territory": "ΘΟΥΡΙΑ",
+      "latitude": 37.08344930000001,
+      "longitude": 22.0486318
+    },
+    {
+      "postal_code": "24010",
+      "territory": "ΛΟΓΓΑ",
+      "latitude": 36.8688295,
+      "longitude": 21.9071763
+    },
+    {
+      "postal_code": "24011",
+      "territory": "ΔΩΡΙΟ",
+      "latitude": 37.2875828,
+      "longitude": 21.856318899999998
+    },
+    {
+      "postal_code": "24012",
+      "territory": "ΑΡΙΣ",
+      "latitude": 37.09995079999999,
+      "longitude": 22.0058607
+    },
+    {
+      "postal_code": "24013",
+      "territory": "ΑΝΔΡΟΥΣΑ",
+      "latitude": 37.1101711,
+      "longitude": 21.943203399999998
+    },
+    {
+      "postal_code": "24014",
+      "territory": "ΧΑΤΖΗΣ",
+      "latitude": 37.01736320000001,
+      "longitude": 21.8276194
+    },
+    {
+      "postal_code": "24015",
+      "territory": "ΑΡΙΣΤΟΜΕΝΗΣ",
+      "latitude": 37.086497,
+      "longitude": 21.839923000000002
+    },
+    {
+      "postal_code": "24016",
+      "territory": "ΚΑΜΠΟΣ",
+      "latitude": 36.93796029999999,
+      "longitude": 22.2028277
+    },
+    {
+      "postal_code": "24017",
+      "territory": "ΑΕΤΟΣ",
+      "latitude": 38.30118909999999,
+      "longitude": 20.6647576
+    },
+    {
+      "postal_code": "24018",
+      "territory": "ΨΑΡΙ",
+      "latitude": 37.327744700000004,
+      "longitude": 21.8873724
+    },
+    {
+      "postal_code": "24019",
+      "territory": "ΟΙΧΑΛΙΑ",
+      "latitude": 39.6071378,
+      "longitude": 21.9814142
+    },
+    {
+      "postal_code": "24020",
+      "territory": "ΑΛΑΓΟΝΙΑ",
+      "latitude": 37.0457712,
+      "longitude": 22.1180772
+    },
+    {
+      "postal_code": "24021",
+      "territory": "ΣΙΔΗΡΟΚΑΣΤΡΟ ΜΕΣΣΗΝΙ",
+      "latitude": 37.3387498,
+      "longitude": 21.7719235
+    },
+    {
+      "postal_code": "24022",
+      "territory": "ΚΑΡΔΑΜΥΛΗ",
+      "latitude": 36.8870432,
+      "longitude": 22.2329977
+    },
+    {
+      "postal_code": "24023",
+      "territory": "ΠΛΑΤΣΑ",
+      "latitude": 36.80505479999999,
+      "longitude": 22.31847059999999
+    },
+    {
+      "postal_code": "24024",
+      "territory": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ ΜΕΣΣΗ",
+      "latitude": 36.8242219,
+      "longitude": 22.2811064
+    },
+    {
+      "postal_code": "24100",
+      "territory": "ΚΑΛΑΜΑΤΑ",
+      "latitude": 37.0422371,
+      "longitude": 22.1141264
+    },
+    {
+      "postal_code": "24101",
+      "territory": "ΚΑΛΑΜΑΤΑ",
+      "latitude": 39.5548324,
+      "longitude": 21.763601100000002
+    },
+    {
+      "postal_code": "24200",
+      "territory": "ΜΕΣΣΗΝΗ",
+      "latitude": 37.0507794,
+      "longitude": 22.0083727
+    },
+    {
+      "postal_code": "24300",
+      "territory": "ΦΙΛΙΑΤΡΑ",
+      "latitude": 37.1573835,
+      "longitude": 21.585568600000002
+    },
+    {
+      "postal_code": "24400",
+      "territory": "ΓΑΡΓΑΛΙΑΝΟΙ",
+      "latitude": 37.0654883,
+      "longitude": 21.637927800000003
+    },
+    {
+      "postal_code": "24500",
+      "territory": "ΚΥΠΑΡΙΣΣΙΑ",
+      "latitude": 37.25123120000001,
+      "longitude": 21.669444100000003
+    },
+    {
+      "postal_code": "24600",
+      "territory": "ΧΩΡΑ",
+      "latitude": 37.0510081,
+      "longitude": 21.7155204
+    },
+    {
+      "postal_code": "25000",
+      "territory": "Αχαϊα",
+      "latitude": 38.1158729,
+      "longitude": 21.9522491
+    },
+    {
+      "postal_code": "25001",
+      "territory": "ΚΑΛΑΒΡΥΤΑ",
+      "latitude": 38.033281,
+      "longitude": 22.1103462
+    },
+    {
+      "postal_code": "25002",
+      "territory": "ΒΡΑΧΝΑΙΙΚΑ",
+      "latitude": 38.1625093,
+      "longitude": 21.668226899999997
+    },
+    {
+      "postal_code": "25003",
+      "territory": "ΔΙΑΚΟΠΤΟ",
+      "latitude": 38.1916601,
+      "longitude": 22.1981606
+    },
+    {
+      "postal_code": "25004",
+      "territory": "ΔΑΦΝΗ ΑΧΑΙΑΣ",
+      "latitude": 37.8069108,
+      "longitude": 22.0236488
+    },
+    {
+      "postal_code": "25005",
+      "territory": "ΣΑΓΑΙΙΚΑ",
+      "latitude": 38.1082352,
+      "longitude": 21.4699365
+    },
+    {
+      "postal_code": "25006",
+      "territory": "ΑΚΡΑΤΑ",
+      "latitude": 38.1535213,
+      "longitude": 22.3143775
+    },
+    {
+      "postal_code": "25007",
+      "territory": "ΚΛΕΙΤΟΡΙΑ",
+      "latitude": 37.8946941,
+      "longitude": 22.1246492
+    },
+    {
+      "postal_code": "25008",
+      "territory": "ΧΑΛΑΝΔΡΙΤΣΑ",
+      "latitude": 38.1087967,
+      "longitude": 21.783841100000004
+    },
+    {
+      "postal_code": "25009",
+      "territory": "ΛΑΜΠΙΡΙ",
+      "latitude": 38.3109975,
+      "longitude": 21.9901467
+    },
+    {
+      "postal_code": "25010",
+      "territory": "ΑΙΓΕΙΡΑ",
+      "latitude": 38.1481953,
+      "longitude": 22.3558193
+    },
+    {
+      "postal_code": "25011",
+      "territory": "ΚΕΡΤΕΖΗ",
+      "latitude": 37.979631,
+      "longitude": 21.9938146
+    },
+    {
+      "postal_code": "25012",
+      "territory": "ΛΙΒΑΡΤΖΙ",
+      "latitude": 37.9251753,
+      "longitude": 21.909842
+    },
+    {
+      "postal_code": "25013",
+      "territory": "ΜΑΝΕΣΙ",
+      "latitude": 39.5646008,
+      "longitude": 21.7453452
+    },
+    {
+      "postal_code": "25014",
+      "territory": "ΠΛΑΤΑΝΟΣ",
+      "latitude": 38.5999412,
+      "longitude": 21.7910513
+    },
+    {
+      "postal_code": "25015",
+      "territory": "ΕΡΥΜΑΝΘΕΙΑ",
+      "latitude": 37.9818717,
+      "longitude": 21.72549200000001
+    },
+    {
+      "postal_code": "25016",
+      "territory": "ΑΡΟΑΝΙΑ",
+      "latitude": 37.8847154,
+      "longitude": 22.0124174
+    },
+    {
+      "postal_code": "25017",
+      "territory": "ΚΕΡΠΙΝΗ",
+      "latitude": 38.0811314,
+      "longitude": 22.1075025
+    },
+    {
+      "postal_code": "25018",
+      "territory": "ΒΙΟΜΗΧΑΝΙΚΗ ΠΕΡΙΟΧΗ ΠΑΤΡΩΝ",
+      "latitude": 38.123293,
+      "longitude": 21.6366017
+    },
+    {
+      "postal_code": "25100",
+      "territory": "ΑΙΓΙΟ",
+      "latitude": 38.2505451,
+      "longitude": 22.0810942
+    },
+    {
+      "postal_code": "25200",
+      "territory": "ΚΑΤΩ ΑΧΑΙΑ",
+      "latitude": 38.143032,
+      "longitude": 21.5520979
+    },
+    {
+      "postal_code": "26221",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2478916,
+      "longitude": 21.7361885
+    },
+    {
+      "postal_code": "26222",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2397453,
+      "longitude": 21.7307875
+    },
+    {
+      "postal_code": "26223",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.25463900000001,
+      "longitude": 21.7414437
+    },
+    {
+      "postal_code": "26224",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2371702,
+      "longitude": 21.736400500000002
+    },
+    {
+      "postal_code": "26225",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2426843,
+      "longitude": 21.7370344
+    },
+    {
+      "postal_code": "26226",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.235549,
+      "longitude": 21.7442426
+    },
+    {
+      "postal_code": "26331",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2407373,
+      "longitude": 21.7461882
+    },
+    {
+      "postal_code": "26332",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2207737,
+      "longitude": 21.7366312
+    },
+    {
+      "postal_code": "26333",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2175263,
+      "longitude": 21.7256609
+    },
+    {
+      "postal_code": "26334",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.223562,
+      "longitude": 21.7456454
+    },
+    {
+      "postal_code": "26335",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.22376260000001,
+      "longitude": 21.7549156
+    },
+    {
+      "postal_code": "26441",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2613948,
+      "longitude": 21.7439534
+    },
+    {
+      "postal_code": "26442",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2794669,
+      "longitude": 21.752127800000004
+    },
+    {
+      "postal_code": "26443",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2763143,
+      "longitude": 21.7636574
+    },
+    {
+      "postal_code": "26444",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.299428000000006,
+      "longitude": 21.785807100000003
+    },
+    {
+      "postal_code": "26500",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.1640464,
+      "longitude": 21.8343074
+    },
+    {
+      "postal_code": "26504",
+      "territory": "ΠΑΤΡΑ",
+      "latitude": 38.2466395,
+      "longitude": 21.734574
+    },
+    {
+      "postal_code": "27050",
+      "territory": "ΒΑΡΘΟΛΟΜΙΟ",
+      "latitude": 37.8611008,
+      "longitude": 21.208014000000002
+    },
+    {
+      "postal_code": "27051",
+      "territory": "ΑΝΔΡΑΒΙΔΑ",
+      "latitude": 37.90591660000001,
+      "longitude": 21.2711341
+    },
+    {
+      "postal_code": "27052",
+      "territory": "ΣΙΔΗΡΟΔΡΟΜΙΚΟΣ ΣΤΑΘΜΟΣ ΒΑΡΔΑΣ",
+      "latitude": 38.0323193,
+      "longitude": 21.363526500000006
+    },
+    {
+      "postal_code": "27053",
+      "territory": "ΛΕΧΑΙΝΑ",
+      "latitude": 37.93795240000001,
+      "longitude": 21.263255899999997
+    },
+    {
+      "postal_code": "27054",
+      "territory": "ΖΑΧΑΡΩ",
+      "latitude": 37.4835293,
+      "longitude": 21.647943899999998
+    },
+    {
+      "postal_code": "27055",
+      "territory": "ΚΡΕΣΤΕΝΑ",
+      "latitude": 37.5923591,
+      "longitude": 21.6206833
+    },
+    {
+      "postal_code": "27056",
+      "territory": "ΝΕΑ ΦΙΓΑΛΕΙΑ",
+      "latitude": 37.4419057,
+      "longitude": 21.7743449
+    },
+    {
+      "postal_code": "27057",
+      "territory": "ΤΡΑΓΑΝΟ",
+      "latitude": 37.8978165,
+      "longitude": 21.313840300000006
+    },
+    {
+      "postal_code": "27058",
+      "territory": "ΕΠΙΤΑΛΙΟ",
+      "latitude": 37.6273953,
+      "longitude": 21.4939617
+    },
+    {
+      "postal_code": "27059",
+      "territory": "ΧΑΒΑΡΙ",
+      "latitude": 37.8471205,
+      "longitude": 21.3833543
+    },
+    {
+      "postal_code": "27060",
+      "territory": "ΠΕΛΟΠΙΟ",
+      "latitude": 37.6753305,
+      "longitude": 21.5926702
+    },
+    {
+      "postal_code": "27061",
+      "territory": "ΑΝΔΡΙΤΣΑΙΝΑ",
+      "latitude": 37.4841013,
+      "longitude": 21.9056318
+    },
+    {
+      "postal_code": "27062",
+      "territory": "ΚΑΛΛΙΘΕΑ",
+      "latitude": 37.5515625,
+      "longitude": 21.819750699999997
+    },
+    {
+      "postal_code": "27063",
+      "territory": "ΛΑΜΠΕΙΑ",
+      "latitude": 37.8583554,
+      "longitude": 21.806953
+    },
+    {
+      "postal_code": "27064",
+      "territory": "ΚΑΡΑΤΟΥΛΑ",
+      "latitude": 37.75,
+      "longitude": 21.616667
+    },
+    {
+      "postal_code": "27065",
+      "territory": "ΑΡΧΑΙΑ ΟΛΥΜΠΙΑ",
+      "latitude": 37.64466,
+      "longitude": 21.6254797
+    },
+    {
+      "postal_code": "27066",
+      "territory": "ΛΑΛΑΣ",
+      "latitude": 37.7104364,
+      "longitude": 21.719488199999997
+    },
+    {
+      "postal_code": "27067",
+      "territory": "ΚΑΤΑΚΟΛΟ",
+      "latitude": 37.6463089,
+      "longitude": 21.3171307
+    },
+    {
+      "postal_code": "27068",
+      "territory": "ΚΥΛΛΗΝΗ",
+      "latitude": 37.9346907,
+      "longitude": 21.144997500000002
+    },
+    {
+      "postal_code": "27069",
+      "territory": "ΕΦΥΡΑ",
+      "latitude": 37.85544520000001,
+      "longitude": 21.5162456
+    },
+    {
+      "postal_code": "27100",
+      "territory": "ΠΥΡΓΟΣ",
+      "latitude": 37.67184870000001,
+      "longitude": 21.4432257
+    },
+    {
+      "postal_code": "27200",
+      "territory": "ΑΜΑΛΙΑΔΑ",
+      "latitude": 37.7967917,
+      "longitude": 21.3507581
+    },
+    {
+      "postal_code": "27300",
+      "territory": "ΓΑΣΤΟΥΝΗ",
+      "latitude": 37.8509191,
+      "longitude": 21.2543651
+    },
+    {
+      "postal_code": "28080",
+      "territory": "ΣΑΜΗ",
+      "latitude": 38.2514148,
+      "longitude": 20.6471688
+    },
+    {
+      "postal_code": "28081",
+      "territory": "ΑΓΙΑ ΕΥΦΗΜΙΑ",
+      "latitude": 38.30307360000001,
+      "longitude": 20.5978064
+    },
+    {
+      "postal_code": "28082",
+      "territory": "ΧΙΟΝΑΤΑ",
+      "latitude": 38.0798971,
+      "longitude": 20.7269517
+    },
+    {
+      "postal_code": "28083",
+      "territory": "ΚΕΡΑΜΕΙΕΣ",
+      "latitude": 38.1201031,
+      "longitude": 20.558942000000002
+    },
+    {
+      "postal_code": "28084",
+      "territory": "ΦΙΣΚΑΡΔΟ",
+      "latitude": 38.458166,
+      "longitude": 20.5769802
+    },
+    {
+      "postal_code": "28085",
+      "territory": "ΒΑΣΙΛΙΚΙΑΔΕΣ",
+      "latitude": 38.41224,
+      "longitude": 20.561741
+    },
+    {
+      "postal_code": "28086",
+      "territory": "ΠΟΡΟΣ",
+      "latitude": 38.1539645,
+      "longitude": 20.7712844
+    },
+    {
+      "postal_code": "28100",
+      "territory": "ΑΡΓΟΣΤΟΛΙ",
+      "latitude": 38.173168200000006,
+      "longitude": 20.4899734
+    },
+    {
+      "postal_code": "28200",
+      "territory": "ΛΗΞΟΥΡΙ",
+      "latitude": 38.2022209,
+      "longitude": 20.436967199999998
+    },
+    {
+      "postal_code": "28300",
+      "territory": "ΙΘΑΚΗ",
+      "latitude": 38.36919810000001,
+      "longitude": 20.6983292
+    },
+    {
+      "postal_code": "28301",
+      "territory": "ΣΤΑΥΡΟΣ ΙΘΑΚΗΣ",
+      "latitude": 38.44591610000001,
+      "longitude": 20.6464745
+    },
+    {
+      "postal_code": "29090",
+      "territory": "ΚΑΤΑΣΤΑΡΙ",
+      "latitude": 37.83013890000001,
+      "longitude": 20.7569344
+    },
+    {
+      "postal_code": "29091",
+      "territory": "ΒΟΛΙΜΕΣ",
+      "latitude": 37.874587700000006,
+      "longitude": 20.6581921
+    },
+    {
+      "postal_code": "29092",
+      "territory": "ΜΑΧΑΙΡΑΔΟ",
+      "latitude": 37.7579086,
+      "longitude": 20.810261699999998
+    },
+    {
+      "postal_code": "29100",
+      "territory": "ΖΑΚΥΝΘΟΣ",
+      "latitude": 37.7881604,
+      "longitude": 20.898827100000002
+    },
+    {
+      "postal_code": "30000",
+      "territory": "ΚΕΝΤΡΙΚΑ ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6010538,
+      "longitude": 22.960141600000004
+    },
+    {
+      "postal_code": "30001",
+      "territory": "ΝΕΟΧΩΡΙ",
+      "latitude": 38.4086356,
+      "longitude": 21.2745366
+    },
+    {
+      "postal_code": "30002",
+      "territory": "ΒΟΝΙΤΣΑ",
+      "latitude": 38.91903789999999,
+      "longitude": 20.888925699999998
+    },
+    {
+      "postal_code": "30003",
+      "territory": "ΠΑΝΑΙΤΩΛΙΟ",
+      "latitude": 38.58252900000001,
+      "longitude": 21.446768600000002
+    },
+    {
+      "postal_code": "30004",
+      "territory": "ΚΑΤΟΥΝΑ",
+      "latitude": 38.7853285,
+      "longitude": 21.1166701
+    },
+    {
+      "postal_code": "30005",
+      "territory": "ΚΑΙΝΟΥΡΓΙΟ",
+      "latitude": 38.6038463,
+      "longitude": 21.482326699999998
+    },
+    {
+      "postal_code": "30006",
+      "territory": "ΑΣΤΑΚΟΣ",
+      "latitude": 38.5357192,
+      "longitude": 21.0820678
+    },
+    {
+      "postal_code": "30007",
+      "territory": "ΚΑΤΟΧΗ",
+      "latitude": 38.4121672,
+      "longitude": 21.2538707
+    },
+    {
+      "postal_code": "30008",
+      "territory": "ΘΕΡΜΟ",
+      "latitude": 38.570854,
+      "longitude": 21.6669866
+    },
+    {
+      "postal_code": "30009",
+      "territory": "ΦΥΤΕΙΕΣ",
+      "latitude": 38.7201739,
+      "longitude": 21.2129616
+    },
+    {
+      "postal_code": "30010",
+      "territory": "ΠΑΡΑΒΟΛΑ",
+      "latitude": 38.6136956,
+      "longitude": 21.5203016
+    },
+    {
+      "postal_code": "30011",
+      "territory": "ΜΑΤΑΡΑΓΚΑ",
+      "latitude": 38.5249807,
+      "longitude": 21.4741383
+    },
+    {
+      "postal_code": "30012",
+      "territory": "ΠΑΛΑΙΡΟΣ",
+      "latitude": 38.7834023,
+      "longitude": 20.8827176
+    },
+    {
+      "postal_code": "30013",
+      "territory": "ΜΟΝΑΣΤΗΡΑΚΙ",
+      "latitude": 37.9764602,
+      "longitude": 23.7237
+    },
+    {
+      "postal_code": "30014",
+      "territory": "ΕΥΗΝΟΧΩΡΙ",
+      "latitude": 38.359594,
+      "longitude": 21.536494100000002
+    },
+    {
+      "postal_code": "30015",
+      "territory": "ΓΑΒΑΛΟΥ",
+      "latitude": 38.5283216,
+      "longitude": 21.5321353
+    },
+    {
+      "postal_code": "30016",
+      "territory": "ΜΕΝΙΔΙ ΑΙΤΩΛ/ΝΙΑΣ",
+      "latitude": 39.0423663,
+      "longitude": 21.1184616
+    },
+    {
+      "postal_code": "30017",
+      "territory": "ΕΜΠΕΣΟΣ",
+      "latitude": 39.023404600000006,
+      "longitude": 21.3212072
+    },
+    {
+      "postal_code": "30018",
+      "territory": "ΑΜΟΡΓΙΑΝΟΙ",
+      "latitude": 38.8663945,
+      "longitude": 21.3486
+    },
+    {
+      "postal_code": "30019",
+      "territory": "ΜΥΤΙΚΑΣ",
+      "latitude": 38.6676093,
+      "longitude": 20.944772
+    },
+    {
+      "postal_code": "30020",
+      "territory": "ΑΝΤΙΡΡΙΟ",
+      "latitude": 38.3303237,
+      "longitude": 21.7642046
+    },
+    {
+      "postal_code": "30021",
+      "territory": "ΑΓΙΟΣ ΒΛΑΣΙΟΣ",
+      "latitude": 38.810466,
+      "longitude": 21.5119384
+    },
+    {
+      "postal_code": "30022",
+      "territory": "ΠΛΑΤΑΝΟΣ",
+      "latitude": 38.5999412,
+      "longitude": 21.7910513
+    },
+    {
+      "postal_code": "30023",
+      "territory": "ΑΝΩ ΧΩΡΑ",
+      "latitude": 38.5908346,
+      "longitude": 21.9241885
+    },
+    {
+      "postal_code": "30024",
+      "territory": "ΤΕΡΨΙΘΕΑ",
+      "latitude": 39.618598,
+      "longitude": 22.4282175
+    },
+    {
+      "postal_code": "30025",
+      "territory": "ΚΛΕΠΑ",
+      "latitude": 38.6806737,
+      "longitude": 21.898587399999997
+    },
+    {
+      "postal_code": "30026",
+      "territory": "ΣΙΜΟΣ",
+      "latitude": 38.53528789999999,
+      "longitude": 21.8182796
+    },
+    {
+      "postal_code": "30027",
+      "territory": "ΑΓΙΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+      "latitude": 38.63461450000001,
+      "longitude": 21.397204000000002
+    },
+    {
+      "postal_code": "30100",
+      "territory": "ΑΓΡΙΝΙΟ",
+      "latitude": 38.624471899999996,
+      "longitude": 21.4095934
+    },
+    {
+      "postal_code": "30200",
+      "territory": "ΜΕΣΟΛΟΓΓΙ",
+      "latitude": 38.3686739,
+      "longitude": 21.430415
+    },
+    {
+      "postal_code": "30214",
+      "territory": "ΕΥΗΝΟΧΩΡΙ",
+      "latitude": 38.359594,
+      "longitude": 21.536494100000002
+    },
+    {
+      "postal_code": "30300",
+      "territory": "ΝΑΥΠΑΚΤΟΣ",
+      "latitude": 38.3929775,
+      "longitude": 21.8348729
+    },
+    {
+      "postal_code": "30400",
+      "territory": "ΑΙΤΩΛΙΚΟ",
+      "latitude": 38.4364709,
+      "longitude": 21.3539518
+    },
+    {
+      "postal_code": "30500",
+      "territory": "ΑΜΦΙΛΟΧΙΑ",
+      "latitude": 38.8632567,
+      "longitude": 21.1666182
+    },
+    {
+      "postal_code": "31080",
+      "territory": "ΚΑΡΥΑ",
+      "latitude": 38.758225,
+      "longitude": 20.649089399999998
+    },
+    {
+      "postal_code": "31081",
+      "territory": "ΚΑΛΑΜΟΣ",
+      "latitude": 38.6215137,
+      "longitude": 20.9309628
+    },
+    {
+      "postal_code": "31082",
+      "territory": "ΒΑΣΙΛΙΚΗ",
+      "latitude": 38.6287203,
+      "longitude": 20.6090484
+    },
+    {
+      "postal_code": "31083",
+      "territory": "ΒΑΘΥ",
+      "latitude": 38.6627109,
+      "longitude": 20.785370899999997
+    },
+    {
+      "postal_code": "31084",
+      "territory": "ΝΥΔΡΙ",
+      "latitude": 38.7099952,
+      "longitude": 20.7141164
+    },
+    {
+      "postal_code": "31100",
+      "territory": "ΛΕΥΚΑΔΑ",
+      "latitude": 38.8333663,
+      "longitude": 20.7069108
+    },
+    {
+      "postal_code": "32001",
+      "territory": "ΑΛΙΑΡΤΟΣ",
+      "latitude": 38.3741418,
+      "longitude": 23.1060007
+    },
+    {
+      "postal_code": "32002",
+      "territory": "ΒΑΓΙΑ",
+      "latitude": 38.31871870000001,
+      "longitude": 23.180372100000003
+    },
+    {
+      "postal_code": "32003",
+      "territory": "ΠΑΡΑΛΙΑ ΔΙΣΤΟΜΟΥ",
+      "latitude": 40.2689881,
+      "longitude": 22.5200417
+    },
+    {
+      "postal_code": "32004",
+      "territory": "ΑΡΑΧΩΒΑ",
+      "latitude": 38.48000029999999,
+      "longitude": 22.5843667
+    },
+    {
+      "postal_code": "32005",
+      "territory": "ΔΙΣΤΟΜΟ",
+      "latitude": 38.42981380000001,
+      "longitude": 22.6668104
+    },
+    {
+      "postal_code": "32006",
+      "territory": "ΚΥΡΙΑΚΙ",
+      "latitude": 38.3541519,
+      "longitude": 22.7869993
+    },
+    {
+      "postal_code": "32007",
+      "territory": "ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ ΒΟΙΩΤ",
+      "latitude": 38.3945,
+      "longitude": 22.93045
+    },
+    {
+      "postal_code": "32008",
+      "territory": "ΔΑΥΛΕΙΑ",
+      "latitude": 38.5149847,
+      "longitude": 22.733232
+    },
+    {
+      "postal_code": "32009",
+      "territory": "ΣΧΗΜΑΤΑΡΙ",
+      "latitude": 38.3458229,
+      "longitude": 23.5822611
+    },
+    {
+      "postal_code": "32010",
+      "territory": "ΔΟΜΒΡΑΙΝΑ",
+      "latitude": 38.2528595,
+      "longitude": 22.9822252
+    },
+    {
+      "postal_code": "32011",
+      "territory": "ΟΙΝΟΦΥΤΑ",
+      "latitude": 38.3080648,
+      "longitude": 23.639117199999998
+    },
+    {
+      "postal_code": "32012",
+      "territory": "ΑΝΤΙΚΥΡΑ",
+      "latitude": 38.3784648,
+      "longitude": 22.6305728
+    },
+    {
+      "postal_code": "32100",
+      "territory": "ΛΙΒΑΔΕΙΑ",
+      "latitude": 38.4554672,
+      "longitude": 22.8825938
+    },
+    {
+      "postal_code": "32200",
+      "territory": "ΘΗΒΑ",
+      "latitude": 38.322579,
+      "longitude": 23.320430899999998
+    },
+    {
+      "postal_code": "32300",
+      "territory": "ΟΡΧΟΜΕΝΟΣ",
+      "latitude": 38.4933701,
+      "longitude": 22.979854
+    },
+    {
+      "postal_code": "33050",
+      "territory": "ΔΕΣΦΙΝΑ",
+      "latitude": 38.4189106,
+      "longitude": 22.52782950000001
+    },
+    {
+      "postal_code": "33051",
+      "territory": "ΠΟΛΥΔΡΟΣΟΣ",
+      "latitude": 38.64038439999999,
+      "longitude": 22.5317205
+    },
+    {
+      "postal_code": "33052",
+      "territory": "ΓΑΛΑΞΙΔΙ",
+      "latitude": 38.3772936,
+      "longitude": 22.383249499999998
+    },
+    {
+      "postal_code": "33053",
+      "territory": "ΛΙΔΟΡΙΚΙ",
+      "latitude": 38.52742569999999,
+      "longitude": 22.2033742
+    },
+    {
+      "postal_code": "33054",
+      "territory": "ΔΕΛΦΟΙ",
+      "latitude": 38.48005670000001,
+      "longitude": 22.4940617
+    },
+    {
+      "postal_code": "33055",
+      "territory": "ΧΡΥΣΟ ΦΩΚΙΔΑΣ",
+      "latitude": 38.4753859,
+      "longitude": 22.468944600000004
+    },
+    {
+      "postal_code": "33056",
+      "territory": "ΕΥΠΑΛΙΟ",
+      "latitude": 38.41809620000001,
+      "longitude": 21.9270983
+    },
+    {
+      "postal_code": "33057",
+      "territory": "ΓΡΑΒΙΑ",
+      "latitude": 38.67135310000001,
+      "longitude": 22.431148899999997
+    },
+    {
+      "postal_code": "33058",
+      "territory": "ΕΡΑΤΕΙΝΗ",
+      "latitude": 38.3606662,
+      "longitude": 22.2286565
+    },
+    {
+      "postal_code": "33059",
+      "territory": "ΑΡΤΟΤΙΝΑ",
+      "latitude": 38.6994265,
+      "longitude": 22.0362581
+    },
+    {
+      "postal_code": "33060",
+      "territory": "ΠΟΤΙΔΑΝΙΑ",
+      "latitude": 38.488779799999996,
+      "longitude": 22.0556479
+    },
+    {
+      "postal_code": "33061",
+      "territory": "ΚΡΟΚΥΛΕΙΟ",
+      "latitude": 38.54902050000001,
+      "longitude": 22.0600097
+    },
+    {
+      "postal_code": "33062",
+      "territory": "ΠΕΝΤΑΓΙΟΙ",
+      "latitude": 38.5917653,
+      "longitude": 22.0541514
+    },
+    {
+      "postal_code": "33063",
+      "territory": "ΜΑΥΡΟΛΙΘΑΡΙ",
+      "latitude": 38.72926320000001,
+      "longitude": 22.2315507
+    },
+    {
+      "postal_code": "33100",
+      "territory": "ΑΜΦΙΣΣΑ",
+      "latitude": 38.5276679,
+      "longitude": 22.3781527
+    },
+    {
+      "postal_code": "33200",
+      "territory": "ΙΤΕΑ ΦΩΚΙΔΑΣ",
+      "latitude": 38.43249270000001,
+      "longitude": 22.4259628
+    },
+    {
+      "postal_code": "34001",
+      "territory": "ΚΑΡΥΣΤΟΣ",
+      "latitude": 38.013999,
+      "longitude": 24.4198995
+    },
+    {
+      "postal_code": "34002",
+      "territory": "ΒΑΣΙΛΙΚΟ",
+      "latitude": 39.18200059999999,
+      "longitude": 23.9563075
+    },
+    {
+      "postal_code": "34003",
+      "territory": "ΚΥΜΗ",
+      "latitude": 38.636131,
+      "longitude": 24.1027745
+    },
+    {
+      "postal_code": "34004",
+      "territory": "ΜΑΝΤΟΥΔΙ",
+      "latitude": 38.7991058,
+      "longitude": 23.479642300000002
+    },
+    {
+      "postal_code": "34005",
+      "territory": "ΛΙΜΝΗ",
+      "latitude": 38.7656554,
+      "longitude": 23.318012399999997
+    },
+    {
+      "postal_code": "34006",
+      "territory": "ΑΜΑΡΥΝΘΟΣ",
+      "latitude": 38.3933284,
+      "longitude": 23.8865331
+    },
+    {
+      "postal_code": "34007",
+      "territory": "ΣΚΥΡΟΣ",
+      "latitude": 38.9067554,
+      "longitude": 24.5657835
+    },
+    {
+      "postal_code": "34008",
+      "territory": "ΕΡΕΤΡΙΑ",
+      "latitude": 38.39272020000001,
+      "longitude": 23.7930669
+    },
+    {
+      "postal_code": "34009",
+      "territory": "ΑΥΛΩΝΑΡΙ",
+      "latitude": 38.5030873,
+      "longitude": 24.1217553
+    },
+    {
+      "postal_code": "34010",
+      "territory": "ΑΓΙΑ ΑΝΝΑ",
+      "latitude": 38.8596081,
+      "longitude": 23.3998533
+    },
+    {
+      "postal_code": "34011",
+      "territory": "ΟΞΥΛΙΘΟΣ",
+      "latitude": 38.5794778,
+      "longitude": 24.112080499999998
+    },
+    {
+      "postal_code": "34012",
+      "territory": "ΩΡΕΟΙ",
+      "latitude": 38.9507249,
+      "longitude": 23.0927655
+    },
+    {
+      "postal_code": "34013",
+      "territory": "ΜΑΡΜΑΡΙ",
+      "latitude": 38.0491517,
+      "longitude": 24.3217397
+    },
+    {
+      "postal_code": "34014",
+      "territory": "ΣΤΕΝΗ ΔΙΡΦΥΟΣ",
+      "latitude": 38.581347,
+      "longitude": 23.8379926
+    },
+    {
+      "postal_code": "34015",
+      "territory": "ΣΤΥΡΑ",
+      "latitude": 38.1558335,
+      "longitude": 24.241825199999997
+    },
+    {
+      "postal_code": "34016",
+      "territory": "ΚΟΝΙΣΤΡΕΣ",
+      "latitude": 38.5727235,
+      "longitude": 24.061109
+    },
+    {
+      "postal_code": "34017",
+      "territory": "ΚΡΙΕΖΑ",
+      "latitude": 38.398894,
+      "longitude": 24.134969899999998
+    },
+    {
+      "postal_code": "34018",
+      "territory": "ΚΑΘΕΝΟΙ",
+      "latitude": 38.5413688,
+      "longitude": 23.780644100000004
+    },
+    {
+      "postal_code": "34019",
+      "territory": "ΚΑΛΗΜΕΡΙΑΝΟΙ",
+      "latitude": 38.6173958,
+      "longitude": 24.0904591
+    },
+    {
+      "postal_code": "34100",
+      "territory": "ΧΑΛΚΙΔΑ ΒΑΘΥ ΑΥΛΙΔ",
+      "latitude": 38.4056496,
+      "longitude": 23.6019042
+    },
+    {
+      "postal_code": "34200",
+      "territory": "ΙΣΤΙΑΙΑ",
+      "latitude": 38.9528547,
+      "longitude": 23.1527142
+    },
+    {
+      "postal_code": "34300",
+      "territory": "ΛΟΥΤΡΑ ΑΙΔΗΨΟΥ",
+      "latitude": 38.8591927,
+      "longitude": 23.045529000000002
+    },
+    {
+      "postal_code": "34400",
+      "territory": "ΨΑΧΝΑ",
+      "latitude": 38.5774849,
+      "longitude": 23.64173730000001
+    },
+    {
+      "postal_code": "34500",
+      "territory": "ΑΛΙΒΕΡΙ",
+      "latitude": 38.4092722,
+      "longitude": 24.0400763
+    },
+    {
+      "postal_code": "34600",
+      "territory": "ΝΕΑ ΑΡΤΑΚΗ",
+      "latitude": 38.5176199,
+      "longitude": 23.6354576
+    },
+    {
+      "postal_code": "35001",
+      "territory": "ΜΑΛΕΣΙΝΑ",
+      "latitude": 38.62267360000001,
+      "longitude": 23.2352639
+    },
+    {
+      "postal_code": "35002",
+      "territory": "ΑΜΦΙΚΛΕΙΑ",
+      "latitude": 38.63905829999999,
+      "longitude": 22.5927946
+    },
+    {
+      "postal_code": "35003",
+      "territory": "ΣΠΕΡΧΕΙΑΔΑ",
+      "latitude": 38.9075721,
+      "longitude": 22.1273254
+    },
+    {
+      "postal_code": "35004",
+      "territory": "ΕΛΑΤΕΙΑ",
+      "latitude": 38.6276904,
+      "longitude": 22.7650721
+    },
+    {
+      "postal_code": "35005",
+      "territory": "ΜΑΡΤΙΝΟ",
+      "latitude": 38.56876870000001,
+      "longitude": 23.213817199999998
+    },
+    {
+      "postal_code": "35006",
+      "territory": "ΑΓΙΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ",
+      "latitude": 38.7574323,
+      "longitude": 22.856209
+    },
+    {
+      "postal_code": "35007",
+      "territory": "ΛΙΒΑΝΑΤΕΣ",
+      "latitude": 38.7114946,
+      "longitude": 23.0506735
+    },
+    {
+      "postal_code": "35008",
+      "territory": "ΚΑΜ. ΒΟΥΡΛΑ",
+      "latitude": 38.776025,
+      "longitude": 22.7813611
+    },
+    {
+      "postal_code": "35009",
+      "territory": "ΜΩΛΟΣ",
+      "latitude": 38.808984,
+      "longitude": 22.6461855
+    },
+    {
+      "postal_code": "35010",
+      "territory": "ΔΟΜΟΚΟΣ",
+      "latitude": 39.1288319,
+      "longitude": 22.2984478
+    },
+    {
+      "postal_code": "35011",
+      "territory": "ΜΑΚΡΑΚΩΜΗ",
+      "latitude": 38.9415711,
+      "longitude": 22.1153635
+    },
+    {
+      "postal_code": "35012",
+      "territory": "ΛΑΡΥΜΝΑ",
+      "latitude": 38.56581970000001,
+      "longitude": 23.284910999999997
+    },
+    {
+      "postal_code": "35013",
+      "territory": "ΠΕΛΑΣΓΙΑ",
+      "latitude": 38.9485485,
+      "longitude": 22.8400018
+    },
+    {
+      "postal_code": "35014",
+      "territory": "ΑΝΘΗΛΗ",
+      "latitude": 38.850088299999996,
+      "longitude": 22.4782525
+    },
+    {
+      "postal_code": "35015",
+      "territory": "ΚΑΤΩ ΤΙΘΟΡΕΑ",
+      "latitude": 38.60797410000001,
+      "longitude": 22.7133309
+    },
+    {
+      "postal_code": "35016",
+      "territory": "ΥΠΑΤΗ",
+      "latitude": 38.871624,
+      "longitude": 22.241365300000002
+    },
+    {
+      "postal_code": "35017",
+      "territory": "ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ ΦΘΙΩΤ",
+      "latitude": 38.9469281,
+      "longitude": 21.957791699999998
+    },
+    {
+      "postal_code": "35018",
+      "territory": "ΓΑΡΔΙΚΙ",
+      "latitude": 39.53973120000001,
+      "longitude": 21.2566674
+    },
+    {
+      "postal_code": "35100",
+      "territory": "ΛΑΜΙΑ",
+      "latitude": 38.8959734,
+      "longitude": 22.4349003
+    },
+    {
+      "postal_code": "35200",
+      "territory": "ΑΤΑΛΑΝΤΗ",
+      "latitude": 38.65286629999999,
+      "longitude": 22.998361
+    },
+    {
+      "postal_code": "35300",
+      "territory": "ΣΤΥΛΙΔΑ",
+      "latitude": 38.9124852,
+      "longitude": 22.616175899999998
+    },
+    {
+      "postal_code": "36070",
+      "territory": "ΡΑΠΤΟΠΟΥΛΟ",
+      "latitude": 39.1489656,
+      "longitude": 21.4801818
+    },
+    {
+      "postal_code": "36071",
+      "territory": "ΚΕΑΣΟΧΩΡΙ",
+      "latitude": 39.0054084,
+      "longitude": 21.6386381
+    },
+    {
+      "postal_code": "36072",
+      "territory": "ΓΡΑΝΙΤΣΑ",
+      "latitude": 39.101254,
+      "longitude": 21.51123410000001
+    },
+    {
+      "postal_code": "36073",
+      "territory": "ΑΓΡΑΦΑ",
+      "latitude": 39.13747070000001,
+      "longitude": 21.64942000000001
+    },
+    {
+      "postal_code": "36074",
+      "territory": "ΠΡΟΥΣΟΣ",
+      "latitude": 38.7445499,
+      "longitude": 21.6533763
+    },
+    {
+      "postal_code": "36075",
+      "territory": "ΜΕΓΑΛΟ ΧΩΡΙΟ",
+      "latitude": 38.82687920000001,
+      "longitude": 21.742310600000003
+    },
+    {
+      "postal_code": "36076",
+      "territory": "ΚΡΙΚΕΛΛΟ",
+      "latitude": 38.79617349999999,
+      "longitude": 21.8528796
+    },
+    {
+      "postal_code": "36080",
+      "territory": "ΦΟΥΡΝΑ",
+      "latitude": 39.0603613,
+      "longitude": 21.8763763
+    },
+    {
+      "postal_code": "36081",
+      "territory": "ΑΓΙΑ ΤΡΙΑΔΑ ΕΥΡΥΤ.",
+      "latitude": 38.9879614,
+      "longitude": 21.8203126
+    },
+    {
+      "postal_code": "36100",
+      "territory": "ΚΑΡΠΕΝΗΣΙ",
+      "latitude": 38.9149201,
+      "longitude": 21.7935895
+    },
+    {
+      "postal_code": "37001",
+      "territory": "ΖΑΓΟΡΑ",
+      "latitude": 39.4416384,
+      "longitude": 23.1028193
+    },
+    {
+      "postal_code": "37002",
+      "territory": "ΣΚΙΑΘΟΣ",
+      "latitude": 39.16266270000001,
+      "longitude": 23.4909759
+    },
+    {
+      "postal_code": "37003",
+      "territory": "ΣΚΟΠΕΛΟΣ",
+      "latitude": 39.12231060000001,
+      "longitude": 23.7281233
+    },
+    {
+      "postal_code": "37004",
+      "territory": "ΓΛΩΣΣΑ",
+      "latitude": 36.9664167,
+      "longitude": 21.6595581
+    },
+    {
+      "postal_code": "37005",
+      "territory": "ΑΛΟΝΝΗΣΟΣ",
+      "latitude": 39.14967070000001,
+      "longitude": 23.8438543
+    },
+    {
+      "postal_code": "37006",
+      "territory": "ΑΡΓΑΛΑΣΤΗ",
+      "latitude": 39.2259226,
+      "longitude": 23.2195437
+    },
+    {
+      "postal_code": "37007",
+      "territory": "ΠΤΕΛΕΟΣ",
+      "latitude": 39.0515326,
+      "longitude": 22.9527158
+    },
+    {
+      "postal_code": "37008",
+      "territory": "ΣΟΥΡΠΗ",
+      "latitude": 39.1035523,
+      "longitude": 22.8977818
+    },
+    {
+      "postal_code": "37009",
+      "territory": "ΤΡΙΚΕΡΙ",
+      "latitude": 39.1002506,
+      "longitude": 23.0771373
+    },
+    {
+      "postal_code": "37010",
+      "territory": "ΜΗΛΙΕΣ",
+      "latitude": 39.32807920000001,
+      "longitude": 23.150621700000002
+    },
+    {
+      "postal_code": "37011",
+      "territory": "ΠΟΡΤΑΡΙΑ",
+      "latitude": 39.3897164,
+      "longitude": 22.9982253
+    },
+    {
+      "postal_code": "37012",
+      "territory": "ΤΣΑΓΚΑΡΑΔΑ",
+      "latitude": 39.3876414,
+      "longitude": 23.174311
+    },
+    {
+      "postal_code": "37013",
+      "territory": "ΜΗΛΙΝΑ",
+      "latitude": 39.1711081,
+      "longitude": 23.2211062
+    },
+    {
+      "postal_code": "37100",
+      "territory": "ΑΛΜΥΡΟΣ",
+      "latitude": 39.1823187,
+      "longitude": 22.7588102
+    },
+    {
+      "postal_code": "37200",
+      "territory": "ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ ΙΩΛΚΟ",
+      "latitude": 38.0592225,
+      "longitude": 23.7153645
+    },
+    {
+      "postal_code": "37300",
+      "territory": "ΑΓΡΙΑ",
+      "latitude": 39.3408388,
+      "longitude": 23.0126047
+    },
+    {
+      "postal_code": "37400",
+      "territory": "ΝΕΑ ΑΓΧΙΑΛΟΣ",
+      "latitude": 39.2759274,
+      "longitude": 22.818555
+    },
+    {
+      "postal_code": "37500",
+      "territory": "ΒΕΛΕΣΤΙΝΟ",
+      "latitude": 39.3809141,
+      "longitude": 22.7451966
+    },
+    {
+      "postal_code": "38001",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3621896,
+      "longitude": 22.942159
+    },
+    {
+      "postal_code": "38002",
+      "territory": "ΝΕΑ ΙΩΝΙΑ",
+      "latitude": 35.3279622,
+      "longitude": 25.134133600000002
+    },
+    {
+      "postal_code": "38003",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3621896,
+      "longitude": 22.942159
+    },
+    {
+      "postal_code": "38221",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3635451,
+      "longitude": 22.950928899999997
+    },
+    {
+      "postal_code": "38222",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3532761,
+      "longitude": 22.961745699999998
+    },
+    {
+      "postal_code": "38300",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3621896,
+      "longitude": 22.942159
+    },
+    {
+      "postal_code": "38322",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3621896,
+      "longitude": 22.942159
+    },
+    {
+      "postal_code": "38331",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3621896,
+      "longitude": 22.942159
+    },
+    {
+      "postal_code": "38333",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.367557,
+      "longitude": 22.9463704
+    },
+    {
+      "postal_code": "38334",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3621896,
+      "longitude": 22.942159
+    },
+    {
+      "postal_code": "38445",
+      "territory": "ΝΕΑ ΙΩΝΙΑ ΒΟΛΟΣ",
+      "latitude": 39.3775891,
+      "longitude": 22.9148168
+    },
+    {
+      "postal_code": "38446",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3729194,
+      "longitude": 22.936691399999997
+    },
+    {
+      "postal_code": "38500",
+      "territory": "ΒΟΛΟΣ",
+      "latitude": 39.3621896,
+      "longitude": 22.942159
+    },
+    {
+      "postal_code": "40001",
+      "territory": "ΚΡΑΝΕΑ",
+      "latitude": 39.94363060000001,
+      "longitude": 21.967144100000002
+    },
+    {
+      "postal_code": "40002",
+      "territory": "ΛΙΒΑΔΙ",
+      "latitude": 40.1269757,
+      "longitude": 22.1577741
+    },
+    {
+      "postal_code": "40003",
+      "territory": "ΑΓΙΑ",
+      "latitude": 39.7190695,
+      "longitude": 22.7586904
+    },
+    {
+      "postal_code": "40004",
+      "territory": "ΓΟΝΝΟΙ",
+      "latitude": 39.8610781,
+      "longitude": 22.476180399999997
+    },
+    {
+      "postal_code": "40005",
+      "territory": "ΒΕΡΔΙΚΟΥΣΙΑ",
+      "latitude": 39.7813727,
+      "longitude": 21.97679410000001
+    },
+    {
+      "postal_code": "40006",
+      "territory": "ΣΥΚΟΥΡΙ",
+      "latitude": 39.757536,
+      "longitude": 22.5797557
+    },
+    {
+      "postal_code": "40007",
+      "territory": "ΠΥΡΓΕΤΟΣ",
+      "latitude": 39.91791129999999,
+      "longitude": 22.595535
+    },
+    {
+      "postal_code": "40008",
+      "territory": "ΡΑΨΑΝΗ",
+      "latitude": 39.90192860000001,
+      "longitude": 22.547802800000003
+    },
+    {
+      "postal_code": "40009",
+      "territory": "ΠΛΑΤΥΚΑΜΠΟΣ",
+      "latitude": 39.621161,
+      "longitude": 22.5355949
+    },
+    {
+      "postal_code": "40010",
+      "territory": "ΤΣΑΡΙΤΣΑΝΗ",
+      "latitude": 39.881138,
+      "longitude": 22.2266198
+    },
+    {
+      "postal_code": "40011",
+      "territory": "ΦΑΛΑΝΗ",
+      "latitude": 39.6476784,
+      "longitude": 22.4160111
+    },
+    {
+      "postal_code": "40100",
+      "territory": "ΤΥΡΝΑΒΟΣ",
+      "latitude": 39.73911029999999,
+      "longitude": 22.2880325
+    },
+    {
+      "postal_code": "40200",
+      "territory": "ΕΛΑΣΣΟΝΑ",
+      "latitude": 39.8949802,
+      "longitude": 22.1890872
+    },
+    {
+      "postal_code": "40300",
+      "territory": "ΦΑΡΣΑΛΑ",
+      "latitude": 39.295635,
+      "longitude": 22.384495
+    },
+    {
+      "postal_code": "40400",
+      "territory": "ΑΜΠΕΛΩΝΑΣ",
+      "latitude": 39.7451063,
+      "longitude": 22.3615771
+    },
+    {
+      "postal_code": "41000",
+      "territory": "Λάρισα",
+      "latitude": 39.63902239999999,
+      "longitude": 22.4191254
+    },
+    {
+      "postal_code": "41001",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.63902239999999,
+      "longitude": 22.4191254
+    },
+    {
+      "postal_code": "41221",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.6396597,
+      "longitude": 22.419068399999997
+    },
+    {
+      "postal_code": "41222",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.63849620000001,
+      "longitude": 22.4175464
+    },
+    {
+      "postal_code": "41223",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.632574,
+      "longitude": 22.4256076
+    },
+    {
+      "postal_code": "41334",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.6269945,
+      "longitude": 22.3964308
+    },
+    {
+      "postal_code": "41335",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.63902239999999,
+      "longitude": 22.4191254
+    },
+    {
+      "postal_code": "41336",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.6430541,
+      "longitude": 22.4470275
+    },
+    {
+      "postal_code": "41447",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.643729,
+      "longitude": 22.4171512
+    },
+    {
+      "postal_code": "41500",
+      "territory": "ΛΑΡΙΣΑ",
+      "latitude": 39.5524047,
+      "longitude": 22.4303582
+    },
+    {
+      "postal_code": "42030",
+      "territory": "ΜΕΓΑΛΑ ΚΑΛΥΒΙΑ",
+      "latitude": 39.50158770000001,
+      "longitude": 21.7884812
+    },
+    {
+      "postal_code": "42031",
+      "territory": "ΦΑΡΚΑΔΩΝΑ",
+      "latitude": 39.59313220000001,
+      "longitude": 22.066886399999998
+    },
+    {
+      "postal_code": "42032",
+      "territory": "ΠΥΛΗ",
+      "latitude": 39.45977999999999,
+      "longitude": 21.6225718
+    },
+    {
+      "postal_code": "42033",
+      "territory": "ΜΥΡΟΦΥΛΛΟ",
+      "latitude": 39.3673591,
+      "longitude": 21.325324600000002
+    },
+    {
+      "postal_code": "42034",
+      "territory": "ΑΓΙΟΦΥΛΛΟ",
+      "latitude": 39.86379390000001,
+      "longitude": 21.561052399999998
+    },
+    {
+      "postal_code": "42035",
+      "territory": "ΚΟΝΙΣΚΟΣ",
+      "latitude": 39.7796796,
+      "longitude": 21.800102499999998
+    },
+    {
+      "postal_code": "42036",
+      "territory": "ΚΑΣΤΑΝΕΑ",
+      "latitude": 40.1880963,
+      "longitude": 20.8399025
+    },
+    {
+      "postal_code": "42037",
+      "territory": "ΜΕΣΟΧΩΡΑ",
+      "latitude": 39.47415820000001,
+      "longitude": 21.324797600000004
+    },
+    {
+      "postal_code": "42100",
+      "territory": "ΤΡΙΚΑΛΑ",
+      "latitude": 39.5557317,
+      "longitude": 21.7678951
+    },
+    {
+      "postal_code": "42200",
+      "territory": "ΚΑΛΑΜΠΑΚΑ",
+      "latitude": 39.706618,
+      "longitude": 21.6288728
+    },
+    {
+      "postal_code": "42300",
+      "territory": "ΝΕΟΧΩΡΙ",
+      "latitude": 39.6071378,
+      "longitude": 21.9814142
+    },
+    {
+      "postal_code": "43060",
+      "territory": "ΜΟΥΖΑΚΙ",
+      "latitude": 39.43057329999999,
+      "longitude": 21.6627892
+    },
+    {
+      "postal_code": "43061",
+      "territory": "ΑΓΝΑΝΤΕΡΟ",
+      "latitude": 39.4848287,
+      "longitude": 21.8470758
+    },
+    {
+      "postal_code": "43062",
+      "territory": "ΙΤΕΑ ΚΑΡΔΙΤΣΑΣ",
+      "latitude": 39.4583727,
+      "longitude": 22.165549300000002
+    },
+    {
+      "postal_code": "43063",
+      "territory": "ΛΕΟΝΤΑΡΙ ΚΑΡΔΙΤΣΑΣ",
+      "latitude": 39.1809963,
+      "longitude": 22.13134800000001
+    },
+    {
+      "postal_code": "43064",
+      "territory": "ΦΑΝΑΡΙ",
+      "latitude": 35.3631486,
+      "longitude": 24.4711894
+    },
+    {
+      "postal_code": "43065",
+      "territory": "ΑΝΘΗΡΟ",
+      "latitude": 39.3473795,
+      "longitude": 21.459061300000002
+    },
+    {
+      "postal_code": "43066",
+      "territory": "ΒΡΑΓΚΙΑΝΑ",
+      "latitude": 39.2408009,
+      "longitude": 21.4322687
+    },
+    {
+      "postal_code": "43067",
+      "territory": "ΜΕΣΕΝΙΚΟΛΑΣ",
+      "latitude": 39.3429768,
+      "longitude": 21.759572199999997
+    },
+    {
+      "postal_code": "43068",
+      "territory": "ΡΕΝΤΙΝΑ",
+      "latitude": 39.0639341,
+      "longitude": 21.978966500000002
+    },
+    {
+      "postal_code": "43069",
+      "territory": "ΠΕΤΡΙΛΟ",
+      "latitude": 39.2715448,
+      "longitude": 21.5969748
+    },
+    {
+      "postal_code": "43070",
+      "territory": "ΠΡΟΑΣΤΙΟ",
+      "latitude": 39.4876619,
+      "longitude": 21.903406
+    },
+    {
+      "postal_code": "43100",
+      "territory": "ΚΑΡΔΙΤΣΑ",
+      "latitude": 39.3640258,
+      "longitude": 21.9214049
+    },
+    {
+      "postal_code": "43200",
+      "territory": "ΠΑΛΑΜΑΣ",
+      "latitude": 39.46903289999999,
+      "longitude": 22.082317
+    },
+    {
+      "postal_code": "43300",
+      "territory": "ΣΟΦΑΔΕΣ",
+      "latitude": 39.33593370000001,
+      "longitude": 22.0916414
+    },
+    {
+      "postal_code": "44001",
+      "territory": "ΠΡΑΜΑΝΤΑ",
+      "latitude": 39.52283980000001,
+      "longitude": 21.104446600000006
+    },
+    {
+      "postal_code": "44002",
+      "territory": "ΔΕΛΒΙΝΑΚΙ",
+      "latitude": 39.9339652,
+      "longitude": 20.4654499
+    },
+    {
+      "postal_code": "44003",
+      "territory": "ΖΙΤΣΑ",
+      "latitude": 39.7546039,
+      "longitude": 20.649482199999998
+    },
+    {
+      "postal_code": "44004",
+      "territory": "ΔΟΛΙΑΝΑ",
+      "latitude": 39.9028375,
+      "longitude": 20.5784377
+    },
+    {
+      "postal_code": "44005",
+      "territory": "ΠΩΓΩΝΙΑΝΗ",
+      "latitude": 40.0037401,
+      "longitude": 20.422766
+    },
+    {
+      "postal_code": "44006",
+      "territory": "ΚΕΦΑΛΟΒΡΥΣΟ",
+      "latitude": 40.01395249999999,
+      "longitude": 20.5590173
+    },
+    {
+      "postal_code": "44007",
+      "territory": "ΑΣΠΡΑΓΓΕΛΟΙ",
+      "latitude": 39.8236368,
+      "longitude": 20.7283764
+    },
+    {
+      "postal_code": "44008",
+      "territory": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ ΙΩΑ ΝΕΑ",
+      "latitude": 38.0348416,
+      "longitude": 23.7639424
+    },
+    {
+      "postal_code": "44009",
+      "territory": "ΔΕΡΒΙΖΙΑΝΑ",
+      "latitude": 39.4008467,
+      "longitude": 20.7821262
+    },
+    {
+      "postal_code": "44010",
+      "territory": "ΤΣΕΠΕΛΟΒΟ",
+      "latitude": 39.9046298,
+      "longitude": 20.8184324
+    },
+    {
+      "postal_code": "44012",
+      "territory": "ΒΗΣΣΑΝΗ",
+      "latitude": 39.9460866,
+      "longitude": 20.5332893
+    },
+    {
+      "postal_code": "44013",
+      "territory": "ΚΑΛΕΝΤΖΙ",
+      "latitude": 39.4903768,
+      "longitude": 20.977346700000002
+    },
+    {
+      "postal_code": "44014",
+      "territory": "ΓΡΕΒΕΝΙΤΙΟ",
+      "latitude": 39.8069352,
+      "longitude": 21.0045436
+    },
+    {
+      "postal_code": "44015",
+      "territory": "ΠΥΡΣΟΓΙΑΝΝΗ",
+      "latitude": 40.2123324,
+      "longitude": 20.810584600000002
+    },
+    {
+      "postal_code": "44016",
+      "territory": "ΑΡΙΣΤΗ",
+      "latitude": 39.9339539,
+      "longitude": 20.6720747
+    },
+    {
+      "postal_code": "44017",
+      "territory": "ΒΡΟΣΙΝΑ",
+      "latitude": 39.6460343,
+      "longitude": 20.516740300000002
+    },
+    {
+      "postal_code": "44018",
+      "territory": "ΚΗΠΟΙ",
+      "latitude": 39.8642073,
+      "longitude": 20.792365
+    },
+    {
+      "postal_code": "44019",
+      "territory": "ΠΑΛΑΙΟΣΕΛΙ",
+      "latitude": 40.27093910000001,
+      "longitude": 22.505616600000003
+    },
+    {
+      "postal_code": "44020",
+      "territory": "ΜΟΛΙΣΤΑ",
+      "latitude": 40.1257207,
+      "longitude": 20.8143647
+    },
+    {
+      "postal_code": "44100",
+      "territory": "ΚΟΝΙΤΣΑ",
+      "latitude": 40.0480719,
+      "longitude": 20.7528378
+    },
+    {
+      "postal_code": "44200",
+      "territory": "ΜΕΤΣΟΒΟ",
+      "latitude": 39.7702467,
+      "longitude": 21.182861199999998
+    },
+    {
+      "postal_code": "45110",
+      "territory": "ΠΑΝΕΠΙΣΤΗΜΙΟ ΙΩΑΝΝΙΝ",
+      "latitude": 39.6255013,
+      "longitude": 20.8387845
+    },
+    {
+      "postal_code": "45221",
+      "territory": "ΙΩΑΝΝΙΝΑ",
+      "latitude": 39.66502880000001,
+      "longitude": 20.8537466
+    },
+    {
+      "postal_code": "45332",
+      "territory": "ΙΩΑΝΝΙΝΑ",
+      "latitude": 39.6650134,
+      "longitude": 20.851809799999998
+    },
+    {
+      "postal_code": "45333",
+      "territory": "ΙΩΑΝΝΙΝΑ",
+      "latitude": 39.670496,
+      "longitude": 20.843383199999998
+    },
+    {
+      "postal_code": "45444",
+      "territory": "ΙΩΑΝΝΙΝΑ",
+      "latitude": 39.6684968,
+      "longitude": 20.853012300000003
+    },
+    {
+      "postal_code": "45445",
+      "territory": "ΙΩΑΝΝΙΝΑ",
+      "latitude": 39.66502880000001,
+      "longitude": 20.8537466
+    },
+    {
+      "postal_code": "45500",
+      "territory": "ΙΩΑΝΝΙΝΑ",
+      "latitude": 39.66502880000001,
+      "longitude": 20.8537466
+    },
+    {
+      "postal_code": "46030",
+      "territory": "ΜΑΡΓΑΡΙΤΙ",
+      "latitude": 39.3569163,
+      "longitude": 20.439392
+    },
+    {
+      "postal_code": "46031",
+      "territory": "ΓΛΥΚΗ",
+      "latitude": 39.3270613,
+      "longitude": 20.606605399999996
+    },
+    {
+      "postal_code": "46032",
+      "territory": "ΑΓΙΟΙ ΠΑΝΤΕΣ",
+      "latitude": 38.2845474,
+      "longitude": 23.922445899999996
+    },
+    {
+      "postal_code": "46033",
+      "territory": "ΚΕΡΑΜΙΤΣΑ",
+      "latitude": 39.66933090000001,
+      "longitude": 20.4309751
+    },
+    {
+      "postal_code": "46100",
+      "territory": "ΗΓΟΥΜΕΝΙΤΣΑ",
+      "latitude": 39.5061499,
+      "longitude": 20.265533899999998
+    },
+    {
+      "postal_code": "46200",
+      "territory": "ΠΑΡΑΜΥΘΙΑ",
+      "latitude": 39.4632468,
+      "longitude": 20.5139853
+    },
+    {
+      "postal_code": "46300",
+      "territory": "ΦΙΛΙΑΤΕΣ",
+      "latitude": 39.6003316,
+      "longitude": 20.3077691
+    },
+    {
+      "postal_code": "47040",
+      "territory": "ΚΟΜΠΟΤΙ",
+      "latitude": 39.1020713,
+      "longitude": 21.083716100000004
+    },
+    {
+      "postal_code": "47041",
+      "territory": "ΝΕΟΧΩΡΙ ΑΡΤΑΣ",
+      "latitude": 39.070637100000006,
+      "longitude": 21.0184095
+    },
+    {
+      "postal_code": "47042",
+      "territory": "ΦΙΛΟΘΕΗ",
+      "latitude": 39.1527258,
+      "longitude": 20.9222988
+    },
+    {
+      "postal_code": "47043",
+      "territory": "ΑΓΝΑΝΤΑ",
+      "latitude": 39.473990500000006,
+      "longitude": 21.0809486
+    },
+    {
+      "postal_code": "47044",
+      "territory": "ΑΝΩ ΚΑΛΕΝΤΙΝΗ",
+      "latitude": 39.2476884,
+      "longitude": 21.161423100000004
+    },
+    {
+      "postal_code": "47045",
+      "territory": "ΒΟΥΡΓΑΡΕΛΙ",
+      "latitude": 39.3710628,
+      "longitude": 21.1837258
+    },
+    {
+      "postal_code": "47046",
+      "territory": "ΡΟΔΑΥΓΗ",
+      "latitude": 39.325412,
+      "longitude": 20.9984854
+    },
+    {
+      "postal_code": "47047",
+      "territory": "ΜΗΛΙΑΝΑ",
+      "latitude": 39.2694952,
+      "longitude": 21.3394306
+    },
+    {
+      "postal_code": "47048",
+      "territory": "ΔΗΜΑΡΙ",
+      "latitude": 39.1518738,
+      "longitude": 21.1545079
+    },
+    {
+      "postal_code": "47100",
+      "territory": "ΑΡΤΑ",
+      "latitude": 39.1582421,
+      "longitude": 20.987683899999997
+    },
+    {
+      "postal_code": "47200",
+      "territory": "ΠΕΤΑ",
+      "latitude": 39.1666357,
+      "longitude": 21.0355232
+    },
+    {
+      "postal_code": "48060",
+      "territory": "ΠΑΡΓΑ",
+      "latitude": 39.2853344,
+      "longitude": 20.4005005
+    },
+    {
+      "postal_code": "48061",
+      "territory": "ΛΟΥΡΟΣ",
+      "latitude": 39.162045,
+      "longitude": 20.750956600000002
+    },
+    {
+      "postal_code": "48062",
+      "territory": "ΚΑΝΑΛΛΑΚΙ",
+      "latitude": 39.2339584,
+      "longitude": 20.600210699999998
+    },
+    {
+      "postal_code": "48100",
+      "territory": "ΠΡΕΒΕΖΑ",
+      "latitude": 38.9592649,
+      "longitude": 20.7517155
+    },
+    {
+      "postal_code": "48200",
+      "territory": "ΦΙΛΙΠΠΙΑΔΑ",
+      "latitude": 39.2076669,
+      "longitude": 20.8809509
+    },
+    {
+      "postal_code": "48300",
+      "territory": "ΘΕΣΠΡΩΤΙΚΟ",
+      "latitude": 39.25285909999999,
+      "longitude": 20.7842904
+    },
+    {
+      "postal_code": "49080",
+      "territory": "ΛΕΥΚΙΜΜΗ",
+      "latitude": 39.42308999999999,
+      "longitude": 20.0718612
+    },
+    {
+      "postal_code": "49081",
+      "territory": "ΚΑΡΟΥΣΑΔΕΣ",
+      "latitude": 39.7804082,
+      "longitude": 19.744905499999998
+    },
+    {
+      "postal_code": "49082",
+      "territory": "ΓΑΙΟΣ",
+      "latitude": 39.197371200000006,
+      "longitude": 20.1851948
+    },
+    {
+      "postal_code": "49083",
+      "territory": "ΣΚΡΙΠΕΡΟ",
+      "latitude": 39.70026160000001,
+      "longitude": 19.774552800000002
+    },
+    {
+      "postal_code": "49084",
+      "territory": "ΚΑΣΤΕΛΛΑΝΟΙ",
+      "latitude": 39.5680167,
+      "longitude": 19.865634600000003
+    },
+    {
+      "postal_code": "49100",
+      "territory": "ΚΕΡΚΥΡΑ",
+      "latitude": 39.6249838,
+      "longitude": 19.922346100000002
+    },
+    {
+      "postal_code": "50001",
+      "territory": "ΝΕΑΠΟΛΗ",
+      "latitude": 40.31308569999999,
+      "longitude": 21.3868617
+    },
+    {
+      "postal_code": "50002",
+      "territory": "ΤΣΟΤΙΛΙ",
+      "latitude": 40.262269,
+      "longitude": 21.324686399999997
+    },
+    {
+      "postal_code": "50003",
+      "territory": "ΕΡΑΤΥΡΑ",
+      "latitude": 40.3418956,
+      "longitude": 21.511875399999997
+    },
+    {
+      "postal_code": "50004",
+      "territory": "ΑΙΑΝΗΣ",
+      "latitude": 40.29248949999999,
+      "longitude": 21.7848705
+    },
+    {
+      "postal_code": "50005",
+      "territory": "ΕΜΠΟΡΙΟ",
+      "latitude": 40.4888435,
+      "longitude": 21.558076
+    },
+    {
+      "postal_code": "50006",
+      "territory": "ΠΥΡΓΟΙ",
+      "latitude": 40.6693131,
+      "longitude": 21.833798
+    },
+    {
+      "postal_code": "50007",
+      "territory": "ΠΕΝΤΑΛΟΦΟΣ",
+      "latitude": 40.1933891,
+      "longitude": 21.140848499999997
+    },
+    {
+      "postal_code": "50008",
+      "territory": "ΑΥΓΕΡΙΝΟΣ",
+      "latitude": 40.2399189,
+      "longitude": 21.1636006
+    },
+    {
+      "postal_code": "50009",
+      "territory": "ΒΛΑΣΤΗ",
+      "latitude": 40.4536126,
+      "longitude": 21.5242323
+    },
+    {
+      "postal_code": "50010",
+      "territory": "ΚΡΟΚΟΣ",
+      "latitude": 40.2642309,
+      "longitude": 21.8162626
+    },
+    {
+      "postal_code": "50100",
+      "territory": "ΚΟΖΑΝΗ",
+      "latitude": 40.3005808,
+      "longitude": 21.789813199999998
+    },
+    {
+      "postal_code": "50200",
+      "territory": "ΠΤΟΛΕΜΑΙΔΑ",
+      "latitude": 40.5129968,
+      "longitude": 21.6784663
+    },
+    {
+      "postal_code": "50300",
+      "territory": "ΣΙΑΤΙΣΤΑ",
+      "latitude": 40.2593571,
+      "longitude": 21.5498752
+    },
+    {
+      "postal_code": "50400",
+      "territory": "ΒΕΛΒΕΝΤΟΣ",
+      "latitude": 40.2545476,
+      "longitude": 22.074278200000002
+    },
+    {
+      "postal_code": "50500",
+      "territory": "ΣΕΡΒΙΑ",
+      "latitude": 40.1858788,
+      "longitude": 22.002802
+    },
+    {
+      "postal_code": "51030",
+      "territory": "ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ ΓΡΕΒΕ",
+      "latitude": 40.1961379,
+      "longitude": 21.408758300000002
+    },
+    {
+      "postal_code": "51031",
+      "territory": "ΚΗΠΟΥΡΕΙΟ",
+      "latitude": 39.9524958,
+      "longitude": 21.3626121
+    },
+    {
+      "postal_code": "51032",
+      "territory": "ΠΟΛΥΝΕΡΙ",
+      "latitude": 40.0491665,
+      "longitude": 21.203506100000002
+    },
+    {
+      "postal_code": "51100",
+      "territory": "ΓΡΕΒΕΝΑ",
+      "latitude": 40.0837626,
+      "longitude": 21.4273299
+    },
+    {
+      "postal_code": "51200",
+      "territory": "ΔΕΣΚΑΤΗ",
+      "latitude": 39.9257032,
+      "longitude": 21.8101429
+    },
+    {
+      "postal_code": "52050",
+      "territory": "ΜΕΣΟΠΟΤΑΜΙΑ",
+      "latitude": 40.5042923,
+      "longitude": 21.159287300000006
+    },
+    {
+      "postal_code": "52051",
+      "territory": "ΝΕΣΤΟΡΙΟ",
+      "latitude": 40.417311,
+      "longitude": 21.056526899999998
+    },
+    {
+      "postal_code": "52052",
+      "territory": "ΚΟΡΗΣΟΣ",
+      "latitude": 40.50409920000001,
+      "longitude": 21.376499
+    },
+    {
+      "postal_code": "52053",
+      "territory": "ΒΟΓΑΤΣΙΚΟ",
+      "latitude": 40.4139505,
+      "longitude": 21.379936899999997
+    },
+    {
+      "postal_code": "52054",
+      "territory": "ΚΛΕΙΣΟΥΡΑ",
+      "latitude": 40.5356805,
+      "longitude": 21.4692186
+    },
+    {
+      "postal_code": "52055",
+      "territory": "ΜΑΚΡΟΧΩΡΙ",
+      "latitude": 40.67174470000001,
+      "longitude": 21.262044
+    },
+    {
+      "postal_code": "52056",
+      "territory": "ΜΑΥΡΟΧΩΡΙ",
+      "latitude": 40.51236919999999,
+      "longitude": 21.3212608
+    },
+    {
+      "postal_code": "52057",
+      "territory": "ΔΙΣΠΗΛΙΟ",
+      "latitude": 40.4815615,
+      "longitude": 21.287382
+    },
+    {
+      "postal_code": "52058",
+      "territory": "ΑΚΡΙΤΕΣ",
+      "latitude": 40.472505,
+      "longitude": 20.9864294
+    },
+    {
+      "postal_code": "52059",
+      "territory": "ΒΙΤΣΙ",
+      "latitude": 40.6032699,
+      "longitude": 21.3202736
+    },
+    {
+      "postal_code": "52100",
+      "territory": "ΚΑΣΤΟΡΙΑ",
+      "latitude": 40.5192691,
+      "longitude": 21.2687171
+    },
+    {
+      "postal_code": "52200",
+      "territory": "ΑΡΓΟΣ ΟΡΕΣΤΙΚΟ",
+      "latitude": 40.4527427,
+      "longitude": 21.2587379
+    },
+    {
+      "postal_code": "53070",
+      "territory": "ΦΙΛΩΤΑΣ",
+      "latitude": 40.62406890000001,
+      "longitude": 21.7064841
+    },
+    {
+      "postal_code": "53071",
+      "territory": "ΜΕΛΙΤΗ",
+      "latitude": 40.83401110000001,
+      "longitude": 21.5845837
+    },
+    {
+      "postal_code": "53072",
+      "territory": "ΞΙΝΟ ΝΕΡΟ",
+      "latitude": 40.6902433,
+      "longitude": 21.6226189
+    },
+    {
+      "postal_code": "53073",
+      "territory": "ΛΕΧΟΒΟ",
+      "latitude": 40.5843775,
+      "longitude": 21.4901672
+    },
+    {
+      "postal_code": "53074",
+      "territory": "ΒΕΥΗ",
+      "latitude": 40.76687879999999,
+      "longitude": 21.6145883
+    },
+    {
+      "postal_code": "53075",
+      "territory": "ΣΚΛΗΘΡΟ",
+      "latitude": 40.6216974,
+      "longitude": 21.50457
+    },
+    {
+      "postal_code": "53076",
+      "territory": "ΑΝΤΑΡΤΙΚΟ",
+      "latitude": 40.7584718,
+      "longitude": 21.206629100000004
+    },
+    {
+      "postal_code": "53077",
+      "territory": "ΑΓΙΟΣ ΓΕΡΜΑΝΟΣ",
+      "latitude": 40.839882,
+      "longitude": 21.1594862
+    },
+    {
+      "postal_code": "53078",
+      "territory": "ΝΥΜΦΑΙΟ",
+      "latitude": 40.6443596,
+      "longitude": 21.4943237
+    },
+    {
+      "postal_code": "53100",
+      "territory": "ΦΛΩΡΙΝΑ",
+      "latitude": 40.78452619999999,
+      "longitude": 21.413122199999997
+    },
+    {
+      "postal_code": "53200",
+      "territory": "ΑΜΥΝΤΑΙΟ",
+      "latitude": 40.6905178,
+      "longitude": 21.6797432
+    },
+    {
+      "postal_code": "53438",
+      "territory": "ΑΓΙΟΣ ΠΑΥΛΟΣ",
+      "latitude": 40.330494,
+      "longitude": 23.0419853
+    },
+    {
+      "postal_code": "53533",
+      "territory": "ΠΟΛΙΧΝΗ",
+      "latitude": 40.67139359999999,
+      "longitude": 22.939209899999998
+    },
+    {
+      "postal_code": "54110",
+      "territory": "Θεσσαλονίκη Κέντρο",
+      "latitude": 40.6093105,
+      "longitude": 22.953029
+    },
+    {
+      "postal_code": "54124",
+      "territory": "ΦΙΛΙΚΗΣ ΕΤΑΙΡΕΙΑΣ",
+      "latitude": 38.0185105,
+      "longitude": 23.9164757
+    },
+    {
+      "postal_code": "54210",
+      "territory": "Θεσσαλονίκη Κέντρο",
+      "latitude": 40.6093105,
+      "longitude": 22.953029
+    },
+    {
+      "postal_code": "54248",
+      "territory": "ΕΛΕΥΘΕΡΙΟ",
+      "latitude": 39.6771235,
+      "longitude": 22.5803636
+    },
+    {
+      "postal_code": "54249",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6023563,
+      "longitude": 22.965985500000002
+    },
+    {
+      "postal_code": "54250",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.60212569999999,
+      "longitude": 22.9727602
+    },
+    {
+      "postal_code": "54252",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 41.0267206,
+      "longitude": 21.325944699999997
+    },
+    {
+      "postal_code": "54351",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.61703199999999,
+      "longitude": 22.974235500000002
+    },
+    {
+      "postal_code": "54352",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6120795,
+      "longitude": 22.9831264
+    },
+    {
+      "postal_code": "54453",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6136319,
+      "longitude": 22.9679772
+    },
+    {
+      "postal_code": "54454",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6098708,
+      "longitude": 22.9747288
+    },
+    {
+      "postal_code": "54500",
+      "territory": "ΠΕΝΤΑΛΟΦΟΣ ΠΕΤΡΩΤΟ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "latitude": 40.814428,
+      "longitude": 22.8683235
+    },
+    {
+      "postal_code": "54621",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.628504,
+      "longitude": 22.9507099
+    },
+    {
+      "postal_code": "54622",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.63180120000001,
+      "longitude": 22.9471962
+    },
+    {
+      "postal_code": "54623",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.63399709999999,
+      "longitude": 22.943770100000002
+    },
+    {
+      "postal_code": "54624",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6353503,
+      "longitude": 22.9405516
+    },
+    {
+      "postal_code": "54625",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6358912,
+      "longitude": 22.9372038
+    },
+    {
+      "postal_code": "54626",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6372735,
+      "longitude": 22.935300899999998
+    },
+    {
+      "postal_code": "54627",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6442313,
+      "longitude": 22.9190152
+    },
+    {
+      "postal_code": "54628",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6545294,
+      "longitude": 22.9067883
+    },
+    {
+      "postal_code": "54629",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6433635,
+      "longitude": 22.9339563
+    },
+    {
+      "postal_code": "54630",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6411033,
+      "longitude": 22.938844399999997
+    },
+    {
+      "postal_code": "54631",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6376266,
+      "longitude": 22.9453289
+    },
+    {
+      "postal_code": "54632",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6430365,
+      "longitude": 22.9401863
+    },
+    {
+      "postal_code": "54633",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.64098120000001,
+      "longitude": 22.9464999
+    },
+    {
+      "postal_code": "54634",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6376556,
+      "longitude": 22.954347600000002
+    },
+    {
+      "postal_code": "54635",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6349904,
+      "longitude": 22.9519038
+    },
+    {
+      "postal_code": "54636",
+      "territory": "ΑΓΙΟΣ ΠΑΥΛΟΣ",
+      "latitude": 40.6389975,
+      "longitude": 22.962256399999998
+    },
+    {
+      "postal_code": "54638",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6205372,
+      "longitude": 22.9639344
+    },
+    {
+      "postal_code": "54639",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6240131,
+      "longitude": 22.945819399999998
+    },
+    {
+      "postal_code": "54640",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6186627,
+      "longitude": 22.957043300000002
+    },
+    {
+      "postal_code": "54641",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.61447820000001,
+      "longitude": 22.9551354
+    },
+    {
+      "postal_code": "54642",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.6099673,
+      "longitude": 22.9568021
+    },
+    {
+      "postal_code": "54643",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.60707000000001,
+      "longitude": 22.9526718
+    },
+    {
+      "postal_code": "54644",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.60743170000001,
+      "longitude": 22.959878399999997
+    },
+    {
+      "postal_code": "54645",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.60151010000001,
+      "longitude": 22.9525926
+    },
+    {
+      "postal_code": "54646",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.5978118,
+      "longitude": 22.9543042
+    },
+    {
+      "postal_code": "54655",
+      "territory": "ΘΕΣΣΑΛΟΝΙΚΗ",
+      "latitude": 40.594229,
+      "longitude": 22.952318899999998
+    },
+    {
+      "postal_code": "55102",
+      "territory": "Θεσσαλονίκη Προάστια",
+      "latitude": 40.6400629,
+      "longitude": 22.9444191
+    },
+    {
+      "postal_code": "55103",
+      "territory": "Θεσσαλονίκη",
+      "latitude": 40.6400629,
+      "longitude": 22.9444191
+    },
+    {
+      "postal_code": "55110",
+      "territory": "Θεσσαλονίκη Προάστια",
+      "latitude": 40.6400629,
+      "longitude": 22.9444191
+    },
+    {
+      "postal_code": "55131",
+      "territory": "ΚΑΛΑΜΑΡΙΑ",
+      "latitude": 40.5849639,
+      "longitude": 22.946094100000003
+    },
+    {
+      "postal_code": "55132",
+      "territory": "ΚΑΛΑΜΑΡΙΑ",
+      "latitude": 40.5745629,
+      "longitude": 22.9465596
+    },
+    {
+      "postal_code": "55133",
+      "territory": "ΚΑΛΑΜΑΡΙΑ",
+      "latitude": 40.5830803,
+      "longitude": 22.960078399999997
+    },
+    {
+      "postal_code": "55134",
+      "territory": "ΚΑΛΑΜΑΡΙΑ",
+      "latitude": 40.5751549,
+      "longitude": 22.9699237
+    },
+    {
+      "postal_code": "55135",
+      "territory": "ΚΑΛΑΜΑΡΙΑ",
+      "latitude": 40.58466110000001,
+      "longitude": 22.9529208
+    },
+    {
+      "postal_code": "55236",
+      "territory": "ΠΑΝΟΡΑΜΑ",
+      "latitude": 40.5885408,
+      "longitude": 23.0279289
+    },
+    {
+      "postal_code": "55337",
+      "territory": "ΤΡΙΑΝΔΡΙΑ",
+      "latitude": 40.6241099,
+      "longitude": 22.9734623
+    },
+    {
+      "postal_code": "55437",
+      "territory": "ΑΓΙΑ ΠΑΥΛΟΣ",
+      "latitude": 40.330494,
+      "longitude": 23.0419853
+    },
+    {
+      "postal_code": "55438",
+      "territory": "ΑΓΙΟΣ ΠΑΥΛΟΣ",
+      "latitude": 40.6389975,
+      "longitude": 22.962256399999998
+    },
+    {
+      "postal_code": "55501",
+      "territory": "Θεσσαλονίκη Προάστια",
+      "latitude": 40.6400629,
+      "longitude": 22.9444191
+    },
+    {
+      "postal_code": "55510",
+      "territory": "Θεσσαλονίκη Προάστια",
+      "latitude": 40.6400629,
+      "longitude": 22.9444191
+    },
+    {
+      "postal_code": "55534",
+      "territory": "ΠΥΛΑΙΑ",
+      "latitude": 40.6027503,
+      "longitude": 22.989648199999998
+    },
+    {
+      "postal_code": "55535",
+      "territory": "ΠΥΛΑΙΑ",
+      "latitude": 40.6027503,
+      "longitude": 22.989648199999998
+    },
+    {
+      "postal_code": "55536",
+      "territory": "ΠΥΛΑΙΑ",
+      "latitude": 40.6027503,
+      "longitude": 22.989648199999998
+    },
+    {
+      "postal_code": "56121",
+      "territory": "ΑΜΠΕΛΟΚΗΠΟΙ",
+      "latitude": 40.6553327,
+      "longitude": 22.921502899999997
+    },
+    {
+      "postal_code": "56122",
+      "territory": "ΜΕΝΕΜΕΝΗ",
+      "latitude": 40.65748749999999,
+      "longitude": 22.9115173
+    },
+    {
+      "postal_code": "56123",
+      "territory": "ΑΜΠΕΛΟΚΗΠΟΙ",
+      "latitude": 40.65419970000001,
+      "longitude": 22.9293738
+    },
+    {
+      "postal_code": "56224",
+      "territory": "ΕΥΟΣΜΟ",
+      "latitude": 40.66703560000001,
+      "longitude": 22.9104918
+    },
+    {
+      "postal_code": "56225",
+      "territory": "ΕΥΟΣΜΟΣ",
+      "latitude": 40.6661376,
+      "longitude": 22.9037753
+    },
+    {
+      "postal_code": "56226",
+      "territory": "ΕΥΟΣΜΟΣ",
+      "latitude": 40.6661376,
+      "longitude": 22.9037753
+    },
+    {
+      "postal_code": "56238",
+      "territory": "ΕΥΟΣΜΟΣ",
+      "latitude": 40.6661376,
+      "longitude": 22.9037753
+    },
+    {
+      "postal_code": "56334",
+      "territory": "ΕΛΕΥΘΕΡΙΟ",
+      "latitude": 40.66752520000001,
+      "longitude": 22.896977800000002
+    },
+    {
+      "postal_code": "56335",
+      "territory": "ΠΟΛΙΧΝΗ",
+      "latitude": 40.67139359999999,
+      "longitude": 22.939209899999998
+    },
+    {
+      "postal_code": "56429",
+      "territory": "ΕΥΚΑΡΠΙΑ",
+      "latitude": 40.6897403,
+      "longitude": 22.95411660000001
+    },
+    {
+      "postal_code": "56430",
+      "territory": "ΣΤΑΥΡΟΥΠΟΛΗ",
+      "latitude": 40.6664679,
+      "longitude": 22.9347302
+    },
+    {
+      "postal_code": "56431",
+      "territory": "ΕΥΟΣΜΟ",
+      "latitude": 40.6709768,
+      "longitude": 22.9276937
+    },
+    {
+      "postal_code": "56436",
+      "territory": "ΣΤΑΥΡΟΥΠΟΛΗ",
+      "latitude": 40.6644938,
+      "longitude": 22.936657999999998
+    },
+    {
+      "postal_code": "56437",
+      "territory": "ΣΤΑΥΡΟΥΠΟΛΗ",
+      "latitude": 40.6644938,
+      "longitude": 22.936657999999998
+    },
+    {
+      "postal_code": "56438",
+      "territory": "ΕΥΟΣΜΟΣ",
+      "latitude": 40.6661376,
+      "longitude": 22.9037753
+    },
+    {
+      "postal_code": "56532",
+      "territory": "ΠΟΛΙΧΝΗ",
+      "latitude": 40.6595291,
+      "longitude": 22.955619
+    },
+    {
+      "postal_code": "56533",
+      "territory": "ΠΟΛΙΧΝΗ",
+      "latitude": 40.6618023,
+      "longitude": 22.946663100000002
+    },
+    {
+      "postal_code": "56625",
+      "territory": "ΣΥΚΙΕΣ",
+      "latitude": 40.647828,
+      "longitude": 22.9504965
+    },
+    {
+      "postal_code": "56626",
+      "territory": "ΣΥΚΙΕΣ",
+      "latitude": 40.6525466,
+      "longitude": 22.953215
+    },
+    {
+      "postal_code": "56727",
+      "territory": "ΝΕΑΠΟΛΗ",
+      "latitude": 40.6537176,
+      "longitude": 22.9370206
+    },
+    {
+      "postal_code": "56728",
+      "territory": "ΝΕΑΠΟΛΗ",
+      "latitude": 40.6518675,
+      "longitude": 22.9451596
+    },
+    {
+      "postal_code": "57001",
+      "territory": "ΘΕΡΜΗ",
+      "latitude": 40.5485201,
+      "longitude": 23.019645999999998
+    },
+    {
+      "postal_code": "57002",
+      "territory": "ΣΟΧΟΣ",
+      "latitude": 40.81818320000001,
+      "longitude": 23.356641800000002
+    },
+    {
+      "postal_code": "57003",
+      "territory": "ΑΓΙΟΣ ΑΘΑΝΑΣΙΟΣ",
+      "latitude": 40.7165064,
+      "longitude": 22.7279233
+    },
+    {
+      "postal_code": "57004",
+      "territory": "ΝΕΑ ΜΗΧΑΝΙΩΝΑ",
+      "latitude": 40.4630928,
+      "longitude": 22.8610874
+    },
+    {
+      "postal_code": "57006",
+      "territory": "ΒΑΣΙΛΙΚΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "latitude": 40.479961,
+      "longitude": 23.136778
+    },
+    {
+      "postal_code": "57007",
+      "territory": "ΧΑΛΚΗΔΩΝΑ",
+      "latitude": 40.7322277,
+      "longitude": 22.5979872
+    },
+    {
+      "postal_code": "57008",
+      "territory": "ΙΩΝΙΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "latitude": 40.6102571,
+      "longitude": 22.967327800000003
+    },
+    {
+      "postal_code": "57009",
+      "territory": "ΚΑΛΟΧΩΡΙ",
+      "latitude": 40.6429179,
+      "longitude": 22.859184
+    },
+    {
+      "postal_code": "57010",
+      "territory": "ΑΣΒΕΣΤΟΧΩΡΙ",
+      "latitude": 40.6416947,
+      "longitude": 23.02599630000001
+    },
+    {
+      "postal_code": "57011",
+      "territory": "ΓΕΦΥΡΑ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "latitude": 40.7325414,
+      "longitude": 22.6920826
+    },
+    {
+      "postal_code": "57012",
+      "territory": "ΖΑΓΚΛΙΒΕΡΙ",
+      "latitude": 40.5725114,
+      "longitude": 23.28902080000001
+    },
+    {
+      "postal_code": "57013",
+      "territory": "ΩΡΑΙΟΚΑΣΤΡΟ",
+      "latitude": 40.72778870000001,
+      "longitude": 22.9205214
+    },
+    {
+      "postal_code": "57014",
+      "territory": "ΣΤΑΥΡΟΣ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "latitude": 40.6641845,
+      "longitude": 23.6960989
+    },
+    {
+      "postal_code": "57015",
+      "territory": "ΝΕΑ ΑΠΟΛΛΩΝ",
+      "latitude": 40.6257023,
+      "longitude": 23.4404266
+    },
+    {
+      "postal_code": "57016",
+      "territory": "ΑΣΚΟΣ",
+      "latitude": 40.7522592,
+      "longitude": 23.3865016
+    },
+    {
+      "postal_code": "57017",
+      "territory": "ΞΥΛΟΠΟΛΗ",
+      "latitude": 40.9292486,
+      "longitude": 23.1765232
+    },
+    {
+      "postal_code": "57018",
+      "territory": "ΜΕΛΙΣΣΟΧΩΡΙ",
+      "latitude": 40.77017120000001,
+      "longitude": 22.934224
+    },
+    {
+      "postal_code": "57019",
+      "territory": "ΝΕΟΙ ΕΠΙΒΑΤΕΣ",
+      "latitude": 40.49877,
+      "longitude": 22.9122276
+    },
+    {
+      "postal_code": "57020",
+      "territory": "ΛΑΓΚΑΔΙΚΙΑ",
+      "latitude": 40.6376256,
+      "longitude": 23.242888600000004
+    },
+    {
+      "postal_code": "57021",
+      "territory": "ΑΣΠΡΟΒΑΛΤΑ",
+      "latitude": 40.71995039999999,
+      "longitude": 23.7069058
+    },
+    {
+      "postal_code": "57022",
+      "territory": "ΒΙΟΜΗΧΑΝΙΚΗ ΠΕΡΙΟΧΗ ΘΕΣΣΑΛΟΝΙΚΗΣ",
+      "latitude": 40.6903731,
+      "longitude": 22.7896841
+    },
+    {
+      "postal_code": "57100",
+      "territory": "ΚΟΥΦΑΛΙΑ",
+      "latitude": 40.78226770000001,
+      "longitude": 22.5735489
+    },
+    {
+      "postal_code": "57200",
+      "territory": "ΛΑΓΚΑΔΑΣ",
+      "latitude": 40.7512099,
+      "longitude": 23.069591100000004
+    },
+    {
+      "postal_code": "57300",
+      "territory": "ΧΑΛΑΣΤΡΑ",
+      "latitude": 40.6262751,
+      "longitude": 22.7307827
+    },
+    {
+      "postal_code": "57400",
+      "territory": "ΣΙΝΔΟΣ",
+      "latitude": 40.6717164,
+      "longitude": 22.8015174
+    },
+    {
+      "postal_code": "57500",
+      "territory": "ΕΠΑΝΟΜΗ",
+      "latitude": 40.4289764,
+      "longitude": 22.9304174
+    },
+    {
+      "postal_code": "58000",
+      "territory": "Πέλλα",
+      "latitude": 40.763243599999996,
+      "longitude": 22.5260527
+    },
+    {
+      "postal_code": "58001",
+      "territory": "ΚΑΡΥΩΤΙΣΣΑ",
+      "latitude": 40.7698444,
+      "longitude": 22.313841699999998
+    },
+    {
+      "postal_code": "58002",
+      "territory": "ΑΡΝΙΣΣΑ",
+      "latitude": 40.7965158,
+      "longitude": 21.835566600000003
+    },
+    {
+      "postal_code": "58003",
+      "territory": "ΦΟΥΣΤΑΝΗ",
+      "latitude": 41.0555483,
+      "longitude": 22.1750428
+    },
+    {
+      "postal_code": "58004",
+      "territory": "ΕΞΑΠΛΑΤΑΝΟΣ",
+      "latitude": 40.9769622,
+      "longitude": 22.1315248
+    },
+    {
+      "postal_code": "58005",
+      "territory": "ΠΕΛΛΑ",
+      "latitude": 40.7632436,
+      "longitude": 22.5260527
+    },
+    {
+      "postal_code": "58100",
+      "territory": "ΓΙΑΝΝΙΤΣΑ",
+      "latitude": 40.7943587,
+      "longitude": 22.4144481
+    },
+    {
+      "postal_code": "58200",
+      "territory": "ΕΔΕΣΣΑ",
+      "latitude": 40.8016803,
+      "longitude": 22.043979800000002
+    },
+    {
+      "postal_code": "58300",
+      "territory": "ΚΡΥΑ ΒΡΥΣΗ",
+      "latitude": 40.6872386,
+      "longitude": 22.3041354
+    },
+    {
+      "postal_code": "58400",
+      "territory": "ΑΡΙΔΑΙΑ",
+      "latitude": 40.9735305,
+      "longitude": 22.0610109
+    },
+    {
+      "postal_code": "58500",
+      "territory": "ΣΚΥΔΡΑ",
+      "latitude": 40.7673908,
+      "longitude": 22.153941699999997
+    },
+    {
+      "postal_code": "59031",
+      "territory": "ΜΕΛΙΚΗ",
+      "latitude": 40.5200214,
+      "longitude": 22.3953372
+    },
+    {
+      "postal_code": "59032",
+      "territory": "ΣΙΔΗΡΟΔΡΟΜΙΚΟΣ ΣΤΑΘΜΟΣ ΠΛΑΤΕΟΣ",
+      "latitude": 40.620728,
+      "longitude": 22.4426038
+    },
+    {
+      "postal_code": "59033",
+      "territory": "ΜΑΚΡΟΧΩΡΙ ΗΜΑΘΙΑΣ",
+      "latitude": 40.5511823,
+      "longitude": 22.249713
+    },
+    {
+      "postal_code": "59034",
+      "territory": "ΕΙΡΗΝΟΥΠΟΛΗ",
+      "latitude": 40.67619699999999,
+      "longitude": 22.2264794
+    },
+    {
+      "postal_code": "59035",
+      "territory": "ΚΟΠΑΝΟΣ",
+      "latitude": 40.6350113,
+      "longitude": 22.1299742
+    },
+    {
+      "postal_code": "59100",
+      "territory": "ΒΕΡΟΙΑ",
+      "latitude": 40.6810929,
+      "longitude": 22.864984600000003
+    },
+    {
+      "postal_code": "59200",
+      "territory": "ΝΑΟΥΣΑ",
+      "latitude": 40.6294406,
+      "longitude": 22.0688549
+    },
+    {
+      "postal_code": "59300",
+      "territory": "ΑΛΕΞΑΝΔΡΕΙΑ",
+      "latitude": 40.627902299999995,
+      "longitude": 22.444571
+    },
+    {
+      "postal_code": "60061",
+      "territory": "ΚΟΛΙΝΔΡΟΣ",
+      "latitude": 40.479174,
+      "longitude": 22.484581100000003
+    },
+    {
+      "postal_code": "60062",
+      "territory": "ΚΟΡΙΝΟΣ",
+      "latitude": 40.3164117,
+      "longitude": 22.5846703
+    },
+    {
+      "postal_code": "60063",
+      "territory": "ΛΕΠΤΟΚΑΡΥΑ",
+      "latitude": 40.0600581,
+      "longitude": 22.5627377
+    },
+    {
+      "postal_code": "60064",
+      "territory": "ΚΙΤΡΟΣ",
+      "latitude": 40.3723508,
+      "longitude": 22.5779402
+    },
+    {
+      "postal_code": "60065",
+      "territory": "ΠΛΑΤΑΜΩΝΑΣ",
+      "latitude": 39.9901304,
+      "longitude": 22.6238625
+    },
+    {
+      "postal_code": "60066",
+      "territory": "ΜΕΘΩΝΗ",
+      "latitude": 40.4472604,
+      "longitude": 22.589703699999998
+    },
+    {
+      "postal_code": "60100",
+      "territory": "ΚΑΤΕΡΙΝΗ",
+      "latitude": 40.2805592,
+      "longitude": 22.505839899999998
+    },
+    {
+      "postal_code": "60200",
+      "territory": "ΛΙΤΟΧΩΡΟ",
+      "latitude": 40.1029473,
+      "longitude": 22.5026117
+    },
+    {
+      "postal_code": "60300",
+      "territory": "ΑΙΓΙΝΙΟ",
+      "latitude": 40.4989376,
+      "longitude": 22.5415237
+    },
+    {
+      "postal_code": "61001",
+      "territory": "ΣΙΔΗΡΟΔΡΟΜΙΚΟΣ ΣΤΑΘΜΟΣ ΕΥΖΩΝΩΝ",
+      "latitude": 39.917372,
+      "longitude": 22.631176999999997
+    },
+    {
+      "postal_code": "61002",
+      "territory": "ΧΕΡΣΟ",
+      "latitude": 41.0886243,
+      "longitude": 22.780241500000002
+    },
+    {
+      "postal_code": "61003",
+      "territory": "ΣΙΔΗΡΟΔΡΟΜΙΚΟΣ ΣΤΑΘΜΟΣ ΜΟΥΡΙΩΝ",
+      "latitude": 41.2614603,
+      "longitude": 22.8399193
+    },
+    {
+      "postal_code": "61005",
+      "territory": "ΕΙΔΟΜΕΝΗ",
+      "latitude": 41.122492799999996,
+      "longitude": 22.5104771
+    },
+    {
+      "postal_code": "61006",
+      "territory": "ΒΑΘΗ ΚΙΛΚΙΣ",
+      "latitude": 38.0056273,
+      "longitude": 23.6925459
+    },
+    {
+      "postal_code": "61007",
+      "territory": "ΕΥΡΩΠΟΣ",
+      "latitude": 40.89701730000001,
+      "longitude": 22.5521319
+    },
+    {
+      "postal_code": "61100",
+      "territory": "ΚΙΛΚΙΣ & ΝΕΑ ΣΑΝΤΑ",
+      "latitude": 40.99370709999999,
+      "longitude": 22.8753674
+    },
+    {
+      "postal_code": "61200",
+      "territory": "ΠΟΛΥΚΑΣΤΡΟ",
+      "latitude": 40.9971976,
+      "longitude": 22.5703984
+    },
+    {
+      "postal_code": "61300",
+      "territory": "ΓΟΥΜΕΝΙΣΣΑ",
+      "latitude": 40.946869,
+      "longitude": 22.451054199999998
+    },
+    {
+      "postal_code": "61400",
+      "territory": "ΑΞΙΟΥΠΟΛΗ",
+      "latitude": 40.9862518,
+      "longitude": 22.540692899999996
+    },
+    {
+      "postal_code": "62041",
+      "territory": "ΡΟΔΟΛΙΒΟΣ",
+      "latitude": 40.9201953,
+      "longitude": 23.9742039
+    },
+    {
+      "postal_code": "62042",
+      "territory": "ΝΕΑ ΖΙΧΝΗ",
+      "latitude": 41.0323516,
+      "longitude": 23.827944100000003
+    },
+    {
+      "postal_code": "62043",
+      "territory": "ΝΕΟ ΠΕΤΡΙΤΣΙ",
+      "latitude": 41.275748,
+      "longitude": 23.2927645
+    },
+    {
+      "postal_code": "62044",
+      "territory": "ΝΕΟΣ ΣΚΟΠΟΣ",
+      "latitude": 41.0236769,
+      "longitude": 23.6086664
+    },
+    {
+      "postal_code": "62045",
+      "territory": "ΑΛΙΣΤΡΑΤΗ",
+      "latitude": 41.0635479,
+      "longitude": 23.958972
+    },
+    {
+      "postal_code": "62046",
+      "territory": "ΧΡΥΣΟ",
+      "latitude": 41.057857,
+      "longitude": 23.6514405
+    },
+    {
+      "postal_code": "62047",
+      "territory": "ΠΡΩΤΗ",
+      "latitude": 40.9439243,
+      "longitude": 24.0012717
+    },
+    {
+      "postal_code": "62048",
+      "territory": "ΠΕΝΤΑΠΟΛΗ",
+      "latitude": 41.0515692,
+      "longitude": 23.6872775
+    },
+    {
+      "postal_code": "62049",
+      "territory": "ΜΑΥΡΟΘΑΛΑΣΣΑ",
+      "latitude": 40.8946186,
+      "longitude": 23.7510711
+    },
+    {
+      "postal_code": "62050",
+      "territory": "ΓΑΖΩΡΟΣ",
+      "latitude": 41.02530050000001,
+      "longitude": 23.7761244
+    },
+    {
+      "postal_code": "62051",
+      "territory": "ΑΓΙΟ ΠΝΕΥΜΑ",
+      "latitude": 40.2653649,
+      "longitude": 21.819327899999998
+    },
+    {
+      "postal_code": "62052",
+      "territory": "ΔΡΑΒΗΣΚΟΣ",
+      "latitude": 40.923956200000006,
+      "longitude": 23.8705359
+    },
+    {
+      "postal_code": "62053",
+      "territory": "ΡΟΔΟΠΟΛΗ",
+      "latitude": 41.26128320000001,
+      "longitude": 22.9989148
+    },
+    {
+      "postal_code": "62054",
+      "territory": "ΣΤΡΥΜΟΝΙΚΟ",
+      "latitude": 41.0429433,
+      "longitude": 23.313981100000003
+    },
+    {
+      "postal_code": "62055",
+      "territory": "ΚΑΤΩ ΠΟΡΟΙΑ",
+      "latitude": 41.2818182,
+      "longitude": 23.0132131
+    },
+    {
+      "postal_code": "62056",
+      "territory": "ΑΓΓΙΣΤΑ",
+      "latitude": 40.975478700000004,
+      "longitude": 23.9453991
+    },
+    {
+      "postal_code": "62100",
+      "territory": "ΣΕΡΡΕΣ",
+      "latitude": 41.0820427,
+      "longitude": 23.4617028
+    },
+    {
+      "postal_code": "62121",
+      "territory": "ΣΕΡΡΕΣ",
+      "latitude": 41.090923,
+      "longitude": 23.5413198
+    },
+    {
+      "postal_code": "62122",
+      "territory": "ΣΕΡΡΕΣ",
+      "latitude": 41.090923,
+      "longitude": 23.5413198
+    },
+    {
+      "postal_code": "62123",
+      "territory": "ΣΕΡΡΕΣ",
+      "latitude": 41.0889468,
+      "longitude": 23.545574600000002
+    },
+    {
+      "postal_code": "62124",
+      "territory": "ΣΕΡΡΕΣ",
+      "latitude": 41.090923,
+      "longitude": 23.5413198
+    },
+    {
+      "postal_code": "62125",
+      "territory": "ΣΕΡΡΕΣ",
+      "latitude": 41.090923,
+      "longitude": 23.5413198
+    },
+    {
+      "postal_code": "62200",
+      "territory": "ΝΙΓΡΙΤΑ",
+      "latitude": 40.9084768,
+      "longitude": 23.500473100000004
+    },
+    {
+      "postal_code": "62300",
+      "territory": "ΣΙΔΗΡΟΚΑΣΤΡΟ",
+      "latitude": 41.23494710000001,
+      "longitude": 23.3938203
+    },
+    {
+      "postal_code": "62400",
+      "territory": "ΗΡΑΚΛΕΙΑ",
+      "latitude": 41.18375020000001,
+      "longitude": 23.2810087
+    },
+    {
+      "postal_code": "63071",
+      "territory": "ΟΡΜΥΛΙΑ",
+      "latitude": 40.29485,
+      "longitude": 23.54276530000001
+    },
+    {
+      "postal_code": "63072",
+      "territory": "ΣΥΚΕΑ",
+      "latitude": 40.0385165,
+      "longitude": 23.939505399999998
+    },
+    {
+      "postal_code": "63073",
+      "territory": "ΓΑΛΑΤΙΣΤΑ",
+      "latitude": 40.4680317,
+      "longitude": 23.2794039
+    },
+    {
+      "postal_code": "63074",
+      "territory": "ΑΡΝΑΙΑ",
+      "latitude": 40.4868316,
+      "longitude": 23.5963957
+    },
+    {
+      "postal_code": "63075",
+      "territory": "ΙΕΡΙΣΣΟΣ",
+      "latitude": 40.3975466,
+      "longitude": 23.8766837
+    },
+    {
+      "postal_code": "63076",
+      "territory": "ΜΕΓΑΛΗ ΠΑΝΑΓΙΑ",
+      "latitude": 40.4448171,
+      "longitude": 23.6813175
+    },
+    {
+      "postal_code": "63077",
+      "territory": "ΚΑΣΣΑΝΔΡΕΙΑ",
+      "latitude": 40.04803920000001,
+      "longitude": 23.413450100000002
+    },
+    {
+      "postal_code": "63078",
+      "territory": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+      "latitude": 40.2488839,
+      "longitude": 23.695265
+    },
+    {
+      "postal_code": "63079",
+      "territory": "ΝΕΑ ΤΡΙΓΛΙΑ",
+      "latitude": 40.3062929,
+      "longitude": 23.2071052
+    },
+    {
+      "postal_code": "63080",
+      "territory": "ΝΕΑ ΚΑΛΛΙΚΡΑΤΕΙΑ",
+      "latitude": 40.3131226,
+      "longitude": 23.063222699999997
+    },
+    {
+      "postal_code": "63081",
+      "territory": "ΝΕΟΣ ΜΑΡΜΑΡΑΣ",
+      "latitude": 40.0926648,
+      "longitude": 23.7865228
+    },
+    {
+      "postal_code": "63082",
+      "territory": "ΣΤΡΑΤΩΝΙΟ",
+      "latitude": 40.6391791,
+      "longitude": 22.9563453
+    },
+    {
+      "postal_code": "63083",
+      "territory": "ΣΤΡΑΤΟΝΙΚΗ",
+      "latitude": 37.95242380000001,
+      "longitude": 23.7463431
+    },
+    {
+      "postal_code": "63084",
+      "territory": "ΒΑΒΔΟΣ",
+      "latitude": 40.4263094,
+      "longitude": 23.3239355
+    },
+    {
+      "postal_code": "63085",
+      "territory": "ΠΕΥΚΟΧΩΡΙ",
+      "latitude": 39.9880319,
+      "longitude": 23.614014800000003
+    },
+    {
+      "postal_code": "63086",
+      "territory": "ΚΑΡΥΕΣ ΑΓΙΟΥ ΟΡΟΥΣ",
+      "latitude": 40.2565936,
+      "longitude": 24.2445937
+    },
+    {
+      "postal_code": "63087",
+      "territory": "ΔΑΦΝΗ ΑΓΙΟΥ ΟΡΟΥΣ",
+      "latitude": 40.2144023,
+      "longitude": 24.221969899999998
+    },
+    {
+      "postal_code": "63088",
+      "territory": "ΝΙΚΗΤΗ",
+      "latitude": 40.2201203,
+      "longitude": 23.668843300000002
+    },
+    {
+      "postal_code": "63100",
+      "territory": "ΠΟΛΥΓΥΡΟΣ",
+      "latitude": 40.3816836,
+      "longitude": 23.4426703
+    },
+    {
+      "postal_code": "63200",
+      "territory": "ΝΕΑ ΜΟΥΔΑΝΙΑ",
+      "latitude": 40.2409723,
+      "longitude": 23.286561399999997
+    },
+    {
+      "postal_code": "64001",
+      "territory": "ΝΙΚΗΣΙΑΝΗ",
+      "latitude": 40.9492064,
+      "longitude": 24.142372
+    },
+    {
+      "postal_code": "64002",
+      "territory": "ΛΙΜΕΝΑΡΙΑ",
+      "latitude": 40.6282676,
+      "longitude": 24.576209600000002
+    },
+    {
+      "postal_code": "64003",
+      "territory": "ΚΡΗΝΙΔΕΣ",
+      "latitude": 41.0166403,
+      "longitude": 24.297074399999996
+    },
+    {
+      "postal_code": "64004",
+      "territory": "ΘΑΣΟΣ",
+      "latitude": 40.6908469,
+      "longitude": 24.7499112
+    },
+    {
+      "postal_code": "64005",
+      "territory": "ΘΕΟΛΟΓΟΣ",
+      "latitude": 40.658895,
+      "longitude": 24.6927757
+    },
+    {
+      "postal_code": "64006",
+      "territory": "ΝΕΑ ΚΑΡΒΑΛΗ",
+      "latitude": 40.9624179,
+      "longitude": 24.508269600000002
+    },
+    {
+      "postal_code": "64007",
+      "territory": "ΝΕΑ ΠΕΡΑΜΟΣ",
+      "latitude": 40.83855820000001,
+      "longitude": 24.3031958
+    },
+    {
+      "postal_code": "64008",
+      "territory": "ΜΟΥΣΘΕΝΗ",
+      "latitude": 40.8614648,
+      "longitude": 24.1119457
+    },
+    {
+      "postal_code": "64009",
+      "territory": "ΚΕΧΡΟΚΑΜΠΟΣ",
+      "latitude": 41.1574349,
+      "longitude": 24.6363878
+    },
+    {
+      "postal_code": "64010",
+      "territory": "ΚΡΙΝΟΣ",
+      "latitude": 40.7408774,
+      "longitude": 24.5772111
+    },
+    {
+      "postal_code": "64011",
+      "territory": "ΚΕΡΑΜΩΤΗ",
+      "latitude": 40.8600774,
+      "longitude": 24.7056732
+    },
+    {
+      "postal_code": "64012",
+      "territory": "ΑΜΥΓΔΑΛΕΩΝΑΣ",
+      "latitude": 40.9612218,
+      "longitude": 24.3617672
+    },
+    {
+      "postal_code": "64100",
+      "territory": "ΕΛΕΥΘΕΡΟΥΠΟΛΗ",
+      "latitude": 40.9156544,
+      "longitude": 24.2547455
+    },
+    {
+      "postal_code": "64200",
+      "territory": "ΧΡΥΣΟΥΠΟΛΗ",
+      "latitude": 40.98802269999999,
+      "longitude": 24.696647600000002
+    },
+    {
+      "postal_code": "65201",
+      "territory": "ΚΑΒΑΛΑ",
+      "latitude": 40.937607,
+      "longitude": 24.412866
+    },
+    {
+      "postal_code": "65302",
+      "territory": "ΚΑΒΑΛΑ",
+      "latitude": 40.937607,
+      "longitude": 24.412866
+    },
+    {
+      "postal_code": "65403",
+      "territory": "ΚΑΒΑΛΑ",
+      "latitude": 40.935216,
+      "longitude": 24.3995818
+    },
+    {
+      "postal_code": "65404",
+      "territory": "ΚΑΒΑΛΑ",
+      "latitude": 40.937607,
+      "longitude": 24.412866
+    },
+    {
+      "postal_code": "65500",
+      "territory": "ΚΑΒΑΛΑ",
+      "latitude": 41.03808529999999,
+      "longitude": 24.3935655
+    },
+    {
+      "postal_code": "66031",
+      "territory": "ΚΑΛΑΜΠΑΚΙ",
+      "latitude": 41.0519293,
+      "longitude": 24.1877003
+    },
+    {
+      "postal_code": "66032",
+      "territory": "ΚΥΡΙΑ",
+      "latitude": 38.500900099999996,
+      "longitude": 22.962600100000003
+    },
+    {
+      "postal_code": "66033",
+      "territory": "Κ. ΝΕΥΡΟΚΟΠΙ",
+      "latitude": 41.3422528,
+      "longitude": 23.8682585
+    },
+    {
+      "postal_code": "66034",
+      "territory": "ΦΩΤΟΛΙΒΟΣ",
+      "latitude": 41.0606685,
+      "longitude": 24.0475546
+    },
+    {
+      "postal_code": "66035",
+      "territory": "ΠΑΡΑΝΕΣΤΙ",
+      "latitude": 41.267032,
+      "longitude": 24.5008777
+    },
+    {
+      "postal_code": "66036",
+      "territory": "ΜΙΚΡΟΠΟΛΗ",
+      "latitude": 41.191878100000004,
+      "longitude": 23.8205588
+    },
+    {
+      "postal_code": "66037",
+      "territory": "ΝΙΚΗΦΟΡΟΣ",
+      "latitude": 41.1667332,
+      "longitude": 24.3109632
+    },
+    {
+      "postal_code": "66038",
+      "territory": "ΣΙΔΗΡΟΝΕΡΟ",
+      "latitude": 41.4040889,
+      "longitude": 24.2576633
+    },
+    {
+      "postal_code": "66100",
+      "territory": "ΔΡΑΜΑ",
+      "latitude": 41.149001,
+      "longitude": 24.1470796
+    },
+    {
+      "postal_code": "66200",
+      "territory": "ΠΡΟΣΟΤΣΑΝΗ",
+      "latitude": 41.1791878,
+      "longitude": 23.971453
+    },
+    {
+      "postal_code": "66300",
+      "territory": "ΔΟΞΑΤΟ",
+      "latitude": 41.0960223,
+      "longitude": 24.231352899999997
+    },
+    {
+      "postal_code": "67061",
+      "territory": "ΑΒΔΗΡΑ",
+      "latitude": 40.9814734,
+      "longitude": 24.9514602
+    },
+    {
+      "postal_code": "67062",
+      "territory": "ΣΤΑΥΡΟΥΠΟΛΗ ΞΑΝΘΗΣ",
+      "latitude": 41.1979838,
+      "longitude": 24.705525199999997
+    },
+    {
+      "postal_code": "67063",
+      "territory": "ΛΑΓΟΣ",
+      "latitude": 41.006589,
+      "longitude": 25.1193757
+    },
+    {
+      "postal_code": "67064",
+      "territory": "ΓΕΝΙΣΕΑ",
+      "latitude": 41.0610542,
+      "longitude": 24.961382699999998
+    },
+    {
+      "postal_code": "67100",
+      "territory": "ΞΑΝΘΗ",
+      "latitude": 41.13003610000001,
+      "longitude": 24.8864902
+    },
+    {
+      "postal_code": "67150",
+      "territory": "Ξάνθη",
+      "latitude": 41.130036100000005,
+      "longitude": 24.8864902
+    },
+    {
+      "postal_code": "67200",
+      "territory": "ΕΥΛΑΛΟ",
+      "latitude": 40.981773,
+      "longitude": 24.802714
+    },
+    {
+      "postal_code": "67300",
+      "territory": "ΕΧΙΝΟΣ",
+      "latitude": 41.2753636,
+      "longitude": 24.9723172
+    },
+    {
+      "postal_code": "68001",
+      "territory": "ΝΕΑ ΒΥΣΣΑ",
+      "latitude": 41.5863678,
+      "longitude": 26.5428404
+    },
+    {
+      "postal_code": "68002",
+      "territory": "ΣΑΜΟΘΡΑΚΗ",
+      "latitude": 40.4742843,
+      "longitude": 25.5251947
+    },
+    {
+      "postal_code": "68003",
+      "territory": "ΤΥΧΕΡΟ",
+      "latitude": 41.027698,
+      "longitude": 26.2935333
+    },
+    {
+      "postal_code": "68004",
+      "territory": "ΛΑΒΑΡΑ",
+      "latitude": 41.2699615,
+      "longitude": 26.38509
+    },
+    {
+      "postal_code": "68005",
+      "territory": "ΜΙΚΡΟ ΔΕΡΕΙΟ",
+      "latitude": 41.5068046,
+      "longitude": 26.2257285
+    },
+    {
+      "postal_code": "68006",
+      "territory": "ΚΥΠΡΙΝΟΣ",
+      "latitude": 41.5752196,
+      "longitude": 26.228812599999998
+    },
+    {
+      "postal_code": "68007",
+      "territory": "ΔΙΚΑΙΑ",
+      "latitude": 41.7045906,
+      "longitude": 26.29644110000001
+    },
+    {
+      "postal_code": "68008",
+      "territory": "ΚΑΣΤΑΝΙΕΣ ΕΒΡΟΥ",
+      "latitude": 41.64548690000001,
+      "longitude": 26.476442100000003
+    },
+    {
+      "postal_code": "68009",
+      "territory": "ΣΙΔΗΡΟΔΡΟΜΙΚΟΣ ΣΤΑΘΜΟΣ ΠΥΘΙΟΥ",
+      "latitude": 41.370114,
+      "longitude": 26.6216643
+    },
+    {
+      "postal_code": "68010",
+      "territory": "ΜΕΤΑΞΑΔΕΣ",
+      "latitude": 41.41985070000001,
+      "longitude": 26.2240908
+    },
+    {
+      "postal_code": "68011",
+      "territory": "ΑΙΣΥΜΗ",
+      "latitude": 41.0171751,
+      "longitude": 25.955423
+    },
+    {
+      "postal_code": "68012",
+      "territory": "ΓΕΦΥΡΑ ΚΗΠΩΝ",
+      "latitude": 38.0218296,
+      "longitude": 23.7290263
+    },
+    {
+      "postal_code": "68013",
+      "territory": "ΠΕΠΛΟΣ",
+      "latitude": 40.95626970000001,
+      "longitude": 26.268025899999998
+    },
+    {
+      "postal_code": "68014",
+      "territory": "ΡΙΖΙΑ",
+      "latitude": 41.6237952,
+      "longitude": 26.4256476
+    },
+    {
+      "postal_code": "68100",
+      "territory": "ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+      "latitude": 40.8457193,
+      "longitude": 25.873962
+    },
+    {
+      "postal_code": "68200",
+      "territory": "ΟΡΕΣΤΙΑΔΑ",
+      "latitude": 41.5014015,
+      "longitude": 26.531080300000006
+    },
+    {
+      "postal_code": "68300",
+      "territory": "ΔΙΔΥΜΟΤΕΙΧΟ",
+      "latitude": 41.3476492,
+      "longitude": 26.495637199999997
+    },
+    {
+      "postal_code": "68400",
+      "territory": "ΣΟΥΦΛΙ",
+      "latitude": 41.1943451,
+      "longitude": 26.2992566
+    },
+    {
+      "postal_code": "68500",
+      "territory": "ΦΕΡΕΣ",
+      "latitude": 40.8942408,
+      "longitude": 26.1722017
+    },
+    {
+      "postal_code": "69100",
+      "territory": "ΚΟΜΟΤΗΝΗ",
+      "latitude": 41.1224394,
+      "longitude": 25.4065582
+    },
+    {
+      "postal_code": "69200",
+      "territory": "ΙΑΣΜΟΣ",
+      "latitude": 41.12839659999999,
+      "longitude": 25.185000199999998
+    },
+    {
+      "postal_code": "69300",
+      "territory": "ΣΑΠΕΣ",
+      "latitude": 41.0243406,
+      "longitude": 25.6957932
+    },
+    {
+      "postal_code": "69400",
+      "territory": "ΞΥΛΑΓΑΝΗ",
+      "latitude": 40.9765733,
+      "longitude": 25.4219873
+    },
+    {
+      "postal_code": "69500",
+      "territory": "ΟΡΓΑΝΗ",
+      "latitude": 41.25331329999999,
+      "longitude": 25.6833783
+    },
+    {
+      "postal_code": "70001",
+      "territory": "ΚΡΟΥΣΩΝΑΣ",
+      "latitude": 35.23046710000001,
+      "longitude": 24.982697299999998
+    },
+    {
+      "postal_code": "70002",
+      "territory": "ΖΑΡΟΣ",
+      "latitude": 35.130774100000004,
+      "longitude": 24.9042562
+    },
+    {
+      "postal_code": "70003",
+      "territory": "ΑΓΙΑ ΒΑΡΒΑΡΑ ΗΡΑΚΛΕΙ",
+      "latitude": 35.1379603,
+      "longitude": 25.0018691
+    },
+    {
+      "postal_code": "70004",
+      "territory": "ΑΝΩ ΒΙΑΝΝΟΣ",
+      "latitude": 35.054210299999994,
+      "longitude": 25.4099813
+    },
+    {
+      "postal_code": "70005",
+      "territory": "ΜΟΧΟΣ",
+      "latitude": 35.2632695,
+      "longitude": 25.4226697
+    },
+    {
+      "postal_code": "70006",
+      "territory": "ΚΑΣΤΕΛΛΙ",
+      "latitude": 35.208594,
+      "longitude": 25.3382657
+    },
+    {
+      "postal_code": "70007",
+      "territory": "ΜΑΛΙΑ",
+      "latitude": 35.2831684,
+      "longitude": 25.4628694
+    },
+    {
+      "postal_code": "70008",
+      "territory": "ΕΠΙΣΚΟΠΗ ΗΡΑΚΛΕΙΟΥ",
+      "latitude": 35.2570701,
+      "longitude": 25.2375594
+    },
+    {
+      "postal_code": "70009",
+      "territory": "ΠΟΜΠΙΑ",
+      "latitude": 35.0096429,
+      "longitude": 24.8666147
+    },
+    {
+      "postal_code": "70010",
+      "territory": "ΠΥΡΓΟΣ ΗΡΑΚΛΕΙΟΥ",
+      "latitude": 35.0086682,
+      "longitude": 25.155807
+    },
+    {
+      "postal_code": "70011",
+      "territory": "ΔΑΦΝΕΣ",
+      "latitude": 35.2168078,
+      "longitude": 25.050692
+    },
+    {
+      "postal_code": "70012",
+      "territory": "ΑΓΙΟΙ ΔΕΚΑ",
+      "latitude": 35.0578884,
+      "longitude": 24.95985910000001
+    },
+    {
+      "postal_code": "70013",
+      "territory": "ΑΓΙΟΣ ΜΥΡΩΝΑΣ",
+      "latitude": 35.232402,
+      "longitude": 25.0281937
+    },
+    {
+      "postal_code": "70014",
+      "territory": "ΛΙΜΕΝΑΣ ΧΕΡΣΟΝΗΣΟΥ",
+      "latitude": 35.3146261,
+      "longitude": 25.395374899999997
+    },
+    {
+      "postal_code": "70015",
+      "territory": "ΕΜΠΑΡΟΣ",
+      "latitude": 35.095973,
+      "longitude": 25.3849988
+    },
+    {
+      "postal_code": "70016",
+      "territory": "ΑΣΗΜΙ",
+      "latitude": 35.0435187,
+      "longitude": 25.0928704
+    },
+    {
+      "postal_code": "70017",
+      "territory": "ΓΕΡΓΕΡΗ",
+      "latitude": 35.13243039999999,
+      "longitude": 24.9495856
+    },
+    {
+      "postal_code": "70100",
+      "territory": "ΑΡΧΑΝΕΣ",
+      "latitude": 35.2353169,
+      "longitude": 25.1593119
+    },
+    {
+      "postal_code": "70200",
+      "territory": "ΤΥΜΠΑΚΙ",
+      "latitude": 35.0729318,
+      "longitude": 24.7686207
+    },
+    {
+      "postal_code": "70300",
+      "territory": "ΑΡΚΑΛΟΧΩΡΙ",
+      "latitude": 35.1479034,
+      "longitude": 25.2645052
+    },
+    {
+      "postal_code": "70400",
+      "territory": "ΜΟΙΡΕΣ",
+      "latitude": 35.05153189999999,
+      "longitude": 24.8730367
+    },
+    {
+      "postal_code": "71002",
+      "territory": "Ηράκλειο Κρήτης",
+      "latitude": 38.0602,
+      "longitude": 23.7730194
+    },
+    {
+      "postal_code": "71201",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.337249,
+      "longitude": 25.1333357
+    },
+    {
+      "postal_code": "71202",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.3413593,
+      "longitude": 25.1348831
+    },
+    {
+      "postal_code": "71303",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.3354983,
+      "longitude": 25.115643399999996
+    },
+    {
+      "postal_code": "71304",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.3336416,
+      "longitude": 25.1210703
+    },
+    {
+      "postal_code": "71305",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.327262299999994,
+      "longitude": 25.1299487
+    },
+    {
+      "postal_code": "71306",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.33303980000001,
+      "longitude": 25.1388411
+    },
+    {
+      "postal_code": "71307",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.338731,
+      "longitude": 25.1482491
+    },
+    {
+      "postal_code": "71309",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 36.6438096,
+      "longitude": 24.385342899999998
+    },
+    {
+      "postal_code": "71409",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.3124092,
+      "longitude": 25.1467825
+    },
+    {
+      "postal_code": "71410",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.3180714,
+      "longitude": 25.1225827
+    },
+    {
+      "postal_code": "71414",
+      "territory": "ΓΑΖΙ",
+      "latitude": 35.325736600000006,
+      "longitude": 25.0653991
+    },
+    {
+      "postal_code": "71500",
+      "territory": "ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.3387352,
+      "longitude": 25.144212600000003
+    },
+    {
+      "postal_code": "71601",
+      "territory": "ΝΕΑ ΑΛΙΚΑΡΝΑΣΣΟΣ",
+      "latitude": 35.33728770000001,
+      "longitude": 25.1600453
+    },
+    {
+      "postal_code": "72051",
+      "territory": "ΚΡΙΤΣΑ",
+      "latitude": 35.156733,
+      "longitude": 25.6442168
+    },
+    {
+      "postal_code": "72052",
+      "territory": "ΤΖΕΡΜΙΑΔΟ",
+      "latitude": 35.19954,
+      "longitude": 25.489134699999997
+    },
+    {
+      "postal_code": "72053",
+      "territory": "ΕΛΟΥΝΤΑ",
+      "latitude": 35.2613505,
+      "longitude": 25.723416399999998
+    },
+    {
+      "postal_code": "72054",
+      "territory": "ΒΡΑΧΑΣΙ",
+      "latitude": 35.2737073,
+      "longitude": 25.56314110000001
+    },
+    {
+      "postal_code": "72055",
+      "territory": "ΣΤΑΥΡΟΧΩΡΙ",
+      "latitude": 35.0775276,
+      "longitude": 25.941636
+    },
+    {
+      "postal_code": "72056",
+      "territory": "ΜΑΛΕΣ",
+      "latitude": 35.0804049,
+      "longitude": 25.584941
+    },
+    {
+      "postal_code": "72057",
+      "territory": "ΤΟΥΡΛΩΤΗ",
+      "latitude": 35.160022600000005,
+      "longitude": 25.9379001
+    },
+    {
+      "postal_code": "72058",
+      "territory": "ΦΟΥΡΝΗ",
+      "latitude": 37.6914237,
+      "longitude": 26.573443199999996
+    },
+    {
+      "postal_code": "72059",
+      "territory": "ΧΑΝΔΡΑΣ",
+      "latitude": 35.0812107,
+      "longitude": 26.099508
+    },
+    {
+      "postal_code": "72100",
+      "territory": "ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+      "latitude": 35.1899597,
+      "longitude": 25.716416600000002
+    },
+    {
+      "postal_code": "72200",
+      "territory": "ΙΕΡΑΠΕΤΡΑ",
+      "latitude": 35.0118955,
+      "longitude": 25.7407452
+    },
+    {
+      "postal_code": "72300",
+      "territory": "ΣΗΤΕΙΑ",
+      "latitude": 35.20865029999999,
+      "longitude": 26.1052329
+    },
+    {
+      "postal_code": "72400",
+      "territory": "ΝΕΑΠΟΛΗ ΚΡΗΤΗΣ",
+      "latitude": 35.2563455,
+      "longitude": 25.604853100000003
+    },
+    {
+      "postal_code": "73000",
+      "territory": "Χανιά Κρήτης",
+      "latitude": 35.513829799999996,
+      "longitude": 24.0180367
+    },
+    {
+      "postal_code": "73001",
+      "territory": "ΠΑΛΑΙΟΧΩΡΑ",
+      "latitude": 35.2294606,
+      "longitude": 23.6819128
+    },
+    {
+      "postal_code": "73002",
+      "territory": "ΒΟΥΚΟΛΙΕΣ",
+      "latitude": 35.46703460000001,
+      "longitude": 23.7998679
+    },
+    {
+      "postal_code": "73003",
+      "territory": "ΚΑΛΥΒΕΣ",
+      "latitude": 35.4511208,
+      "longitude": 24.169721799999998
+    },
+    {
+      "postal_code": "73004",
+      "territory": "ΚΑΝΤΑΝΟΣ",
+      "latitude": 35.3274474,
+      "longitude": 23.741594199999998
+    },
+    {
+      "postal_code": "73005",
+      "territory": "ΑΛΙΚΙΑΝΟΣ",
+      "latitude": 35.4542693,
+      "longitude": 23.9115673
+    },
+    {
+      "postal_code": "73006",
+      "territory": "ΚΟΛΥΜΒΑΡΙ",
+      "latitude": 35.5374671,
+      "longitude": 23.7813889
+    },
+    {
+      "postal_code": "73007",
+      "territory": "ΒΡΥΣΕΣ",
+      "latitude": 35.3750852,
+      "longitude": 24.2012676
+    },
+    {
+      "postal_code": "73008",
+      "territory": "ΒΑΜΟΣ",
+      "latitude": 35.4077376,
+      "longitude": 24.1969073
+    },
+    {
+      "postal_code": "73009",
+      "territory": "ΡΟΔΟΒΑΝΙ",
+      "latitude": 35.2891351,
+      "longitude": 23.7823986
+    },
+    {
+      "postal_code": "73010",
+      "territory": "ΤΟΠΟΛΙΑ",
+      "latitude": 35.43088669999999,
+      "longitude": 23.6774459
+    },
+    {
+      "postal_code": "73011",
+      "territory": "ΧΩΡΑ ΣΦΑΚΙΩΝ",
+      "latitude": 35.2015175,
+      "longitude": 24.1380312
+    },
+    {
+      "postal_code": "73012",
+      "territory": "ΒΑΘΗ ΧΑΝΙΩΝ",
+      "latitude": 35.35953389999999,
+      "longitude": 23.595422699999997
+    },
+    {
+      "postal_code": "73013",
+      "territory": "ΑΣΚΥΦΟΣ",
+      "latitude": 35.2911589,
+      "longitude": 24.1763519
+    },
+    {
+      "postal_code": "73014",
+      "territory": "ΠΛΑΤΑΝΙΑ",
+      "latitude": 35.50786739999999,
+      "longitude": 23.894165700000002
+    },
+    {
+      "postal_code": "73100",
+      "territory": "ΧΑΝΙΑ",
+      "latitude": 35.5138298,
+      "longitude": 24.0180367
+    },
+    {
+      "postal_code": "73131",
+      "territory": "ΧΑΝΙΑ",
+      "latitude": 35.512272,
+      "longitude": 24.00395910000001
+    },
+    {
+      "postal_code": "73132",
+      "territory": "ΧΑΝΙΑ",
+      "latitude": 35.5169936,
+      "longitude": 24.0241223
+    },
+    {
+      "postal_code": "73133",
+      "territory": "ΧΑΝΙΑ",
+      "latitude": 35.5167968,
+      "longitude": 24.0416508
+    },
+    {
+      "postal_code": "73134",
+      "territory": "ΧΑΝΙΑ",
+      "latitude": 35.50793510000001,
+      "longitude": 24.0247558
+    },
+    {
+      "postal_code": "73135",
+      "territory": "ΧΑΝΙΑ",
+      "latitude": 35.5115215,
+      "longitude": 24.0188242
+    },
+    {
+      "postal_code": "73136",
+      "territory": "ΧΑΝΙΑ",
+      "latitude": 35.51199090000001,
+      "longitude": 24.014972
+    },
+    {
+      "postal_code": "73200",
+      "territory": "ΣΟΥΔΑ",
+      "latitude": 35.4874818,
+      "longitude": 24.0742105
+    },
+    {
+      "postal_code": "73300",
+      "territory": "ΜΟΥΡΝΙΕΣ",
+      "latitude": 35.4829528,
+      "longitude": 24.013019699999997
+    },
+    {
+      "postal_code": "73400",
+      "territory": "ΚΙΣΣΑΜΟΣ",
+      "latitude": 35.4945873,
+      "longitude": 23.653745899999997
+    },
+    {
+      "postal_code": "74000",
+      "territory": "ΜΥΡΘΙΟΣ",
+      "latitude": 35.19953810000001,
+      "longitude": 24.40278159999999
+    },
+    {
+      "postal_code": "74051",
+      "territory": "ΑΝΩΓΕΙΑ",
+      "latitude": 35.2896605,
+      "longitude": 24.8844831
+    },
+    {
+      "postal_code": "74052",
+      "territory": "ΠΕΡΑΜΑ ΡΕΘΥΜΝΗΣ",
+      "latitude": 35.3688295,
+      "longitude": 24.703342199999998
+    },
+    {
+      "postal_code": "74053",
+      "territory": "ΣΠΗΛΙ",
+      "latitude": 35.2188059,
+      "longitude": 24.535781699999998
+    },
+    {
+      "postal_code": "74054",
+      "territory": "ΓΑΡΑΖΟ",
+      "latitude": 35.3439756,
+      "longitude": 24.7884303
+    },
+    {
+      "postal_code": "74055",
+      "territory": "ΕΠΙΣΚΟΠΗ ΡΕΘΥΜΝΗΣ",
+      "latitude": 35.3292328,
+      "longitude": 24.335966199999998
+    },
+    {
+      "postal_code": "74056",
+      "territory": "ΑΓΙΑ ΓΑΛΗΝΗ",
+      "latitude": 35.09627220000001,
+      "longitude": 24.6883687
+    },
+    {
+      "postal_code": "74057",
+      "territory": "ΠΑΝΟΡΜΟΣ ΡΕΘΥΜΝΗΣ",
+      "latitude": 35.4181826,
+      "longitude": 24.69080060000001
+    },
+    {
+      "postal_code": "74058",
+      "territory": "ΡΟΥΣΤΙΚΑ",
+      "latitude": 35.2876418,
+      "longitude": 24.373487899999997
+    },
+    {
+      "postal_code": "74059",
+      "territory": "ΑΠΟΔΟΥΛΟΥ",
+      "latitude": 35.1096654,
+      "longitude": 24.7599531
+    },
+    {
+      "postal_code": "74060",
+      "territory": "ΜΥΡΘΙΟΣ",
+      "latitude": 35.19953810000001,
+      "longitude": 24.4027816
+    },
+    {
+      "postal_code": "74061",
+      "territory": "ΑΜΑΡΙ",
+      "latitude": 35.2268843,
+      "longitude": 24.650866399999998
+    },
+    {
+      "postal_code": "74062",
+      "territory": "ΒΙΖΑΡΙ",
+      "latitude": 35.20946970000001,
+      "longitude": 24.7022511
+    },
+    {
+      "postal_code": "74100",
+      "territory": "ΡΕΘΥΜΝΟ",
+      "latitude": 35.3643615,
+      "longitude": 24.4821552
+    },
+    {
+      "postal_code": "80100",
+      "territory": "ΚΥΘΗΡΑ ΑΝΤΙΚΥΘΗΡΑ",
+      "latitude": 35.881144,
+      "longitude": 23.2885249
+    },
+    {
+      "postal_code": "80200",
+      "territory": "ΚΥΘΗΡΑ",
+      "latitude": 36.25,
+      "longitude": 23
+    },
+    {
+      "postal_code": "81100",
+      "territory": "ΜΥΤΙΛΗΝΗ",
+      "latitude": 39.1067382,
+      "longitude": 26.557274699999997
+    },
+    {
+      "postal_code": "81101",
+      "territory": "ΑΓΙΑΣΟΣ",
+      "latitude": 39.0820946,
+      "longitude": 26.372413800000004
+    },
+    {
+      "postal_code": "81102",
+      "territory": "ΑΓΙΑ ΠΑΡΑΣΚΕΥΗ ΛΕΣΒΟ",
+      "latitude": 39.248085,
+      "longitude": 26.2713609
+    },
+    {
+      "postal_code": "81103",
+      "territory": "ΑΝΤΙΣΣΑ",
+      "latitude": 39.23400520000001,
+      "longitude": 25.9801289
+    },
+    {
+      "postal_code": "81104",
+      "territory": "ΜΑΝΤΑΜΑΔΟΣ",
+      "latitude": 39.31026720000001,
+      "longitude": 26.336253999999997
+    },
+    {
+      "postal_code": "81105",
+      "territory": "ΕΡΕΣΟΣ",
+      "latitude": 39.1704792,
+      "longitude": 25.9341525
+    },
+    {
+      "postal_code": "81106",
+      "territory": "ΠΑΠΠΑΔΟΣ",
+      "latitude": 39.0390133,
+      "longitude": 26.456544800000003
+    },
+    {
+      "postal_code": "81107",
+      "territory": "ΚΑΛΛΟΝΗ",
+      "latitude": 39.233118,
+      "longitude": 26.2072301
+    },
+    {
+      "postal_code": "81108",
+      "territory": "ΜΗΘΥΜΝΑ",
+      "latitude": 39.36714600000001,
+      "longitude": 26.1751462
+    },
+    {
+      "postal_code": "81109",
+      "territory": "ΠΕΤΡΑ",
+      "latitude": 39.32779439999999,
+      "longitude": 26.175283
+    },
+    {
+      "postal_code": "81110",
+      "territory": "ΒΑΤΟΥΣΑ",
+      "latitude": 39.2251633,
+      "longitude": 26.04836
+    },
+    {
+      "postal_code": "81111",
+      "territory": "ΠΕΡΑΜΑ",
+      "latitude": 39.0430748,
+      "longitude": 26.5045429
+    },
+    {
+      "postal_code": "81112",
+      "territory": "ΣΙΓΡΙΟ",
+      "latitude": 39.21142400000001,
+      "longitude": 25.8525479
+    },
+    {
+      "postal_code": "81113",
+      "territory": "ΦΙΛΙΑ",
+      "latitude": 37.1573835,
+      "longitude": 21.5855686
+    },
+    {
+      "postal_code": "81200",
+      "territory": "ΠΛΩΜΑΡΙ",
+      "latitude": 38.97513,
+      "longitude": 26.368441100000002
+    },
+    {
+      "postal_code": "81300",
+      "territory": "ΠΟΛΙΧΝΙΤΟΣ",
+      "latitude": 39.079097,
+      "longitude": 26.1805543
+    },
+    {
+      "postal_code": "81400",
+      "territory": "ΜΥΡΙΝΑ",
+      "latitude": 39.875265,
+      "longitude": 25.063448
+    },
+    {
+      "postal_code": "81401",
+      "territory": "ΜΟΥΔΡΟΣ",
+      "latitude": 39.8743467,
+      "longitude": 25.2690527
+    },
+    {
+      "postal_code": "81500",
+      "territory": "ΑΓΙΟΣ ΕΥΣΤΡΑΤΙΟΣ",
+      "latitude": 39.5394875,
+      "longitude": 24.9886687
+    },
+    {
+      "postal_code": "82100",
+      "territory": "ΧΙΟΣ",
+      "latitude": 38.3709813,
+      "longitude": 26.1363457
+    },
+    {
+      "postal_code": "82101",
+      "territory": "ΟΙΝΟΥΣΣΕΣ",
+      "latitude": 38.5154349,
+      "longitude": 26.220492100000005
+    },
+    {
+      "postal_code": "82102",
+      "territory": "ΚΑΛΑΜΩΤΗ",
+      "latitude": 38.2336689,
+      "longitude": 26.0461716
+    },
+    {
+      "postal_code": "82103",
+      "territory": "ΒΟΛΙΣΣΟΣ",
+      "latitude": 38.4834047,
+      "longitude": 25.9266574
+    },
+    {
+      "postal_code": "82104",
+      "territory": "ΨΑΡΑ",
+      "latitude": 38.541705,
+      "longitude": 25.5625764
+    },
+    {
+      "postal_code": "82200",
+      "territory": "ΒΡΟΝΤΑΔΟΣ",
+      "latitude": 38.41369299999999,
+      "longitude": 26.1323564
+    },
+    {
+      "postal_code": "82300",
+      "territory": "ΚΑΡΔΑΜΥΛΑ",
+      "latitude": 38.5288989,
+      "longitude": 26.0921367
+    },
+    {
+      "postal_code": "83100",
+      "territory": "ΣΑΜΟΣ",
+      "latitude": 37.7559533,
+      "longitude": 26.9761997
+    },
+    {
+      "postal_code": "83101",
+      "territory": "ΜΥΤΙΛΗΝΙΟΙ",
+      "latitude": 37.7272485,
+      "longitude": 26.906703999999998
+    },
+    {
+      "postal_code": "83102",
+      "territory": "ΜΑΡΑΘΟΚΑΜΠΟΣ",
+      "latitude": 37.7272804,
+      "longitude": 26.68924710000001
+    },
+    {
+      "postal_code": "83103",
+      "territory": "ΠΥΘΑΓΟΡΕΙΟ",
+      "latitude": 37.68994310000001,
+      "longitude": 26.9426018
+    },
+    {
+      "postal_code": "83104",
+      "territory": "ΠΥΡΓΟΣ ΣΑΜΟΥ",
+      "latitude": 37.7089217,
+      "longitude": 26.8033222
+    },
+    {
+      "postal_code": "83200",
+      "territory": "ΚΑΡΛΟΒΑΣΙ",
+      "latitude": 37.79208610000001,
+      "longitude": 26.7049
+    },
+    {
+      "postal_code": "83300",
+      "territory": "ΑΓΙΟΣ ΚΗΡΥΚΟΣ",
+      "latitude": 37.6162112,
+      "longitude": 26.2954532
+    },
+    {
+      "postal_code": "83301",
+      "territory": "ΡΑΧΕΣ",
+      "latitude": 37.6227034,
+      "longitude": 26.061595999999998
+    },
+    {
+      "postal_code": "83302",
+      "territory": "ΕΥΔΗΛΟΣ",
+      "latitude": 37.63156160000001,
+      "longitude": 26.1777245
+    },
+    {
+      "postal_code": "83400",
+      "territory": "ΦΟΥΡΝΟΙ",
+      "latitude": 37.5769503,
+      "longitude": 26.482092600000005
+    },
+    {
+      "postal_code": "84001",
+      "territory": "ΙΟΣ",
+      "latitude": 36.7233028,
+      "longitude": 25.2822782
+    },
+    {
+      "postal_code": "84002",
+      "territory": "ΚΕΑ ΤΖΙΑ",
+      "latitude": 37.60758,
+      "longitude": 24.3103718
+    },
+    {
+      "postal_code": "84003",
+      "territory": "ΣΙΦΝΟΣ",
+      "latitude": 36.96795729999999,
+      "longitude": 24.702417899999997
+    },
+    {
+      "postal_code": "84004",
+      "territory": "ΚΙΜΩΛΟΣ",
+      "latitude": 36.7929382,
+      "longitude": 24.574732100000002
+    },
+    {
+      "postal_code": "84005",
+      "territory": "ΣΕΡΙΦΟΣ",
+      "latitude": 37.1558094,
+      "longitude": 24.5059171
+    },
+    {
+      "postal_code": "84006",
+      "territory": "ΚΥΘΝΟΣ",
+      "latitude": 37.41232460000001,
+      "longitude": 24.430803899999997
+    },
+    {
+      "postal_code": "84007",
+      "territory": "ΑΝΤΙΠΑΡΟΣ",
+      "latitude": 37.0403398,
+      "longitude": 25.081415300000003
+    },
+    {
+      "postal_code": "84008",
+      "territory": "ΑΜΟΡΓΟΣ",
+      "latitude": 36.8400184,
+      "longitude": 25.887664100000002
+    },
+    {
+      "postal_code": "84009",
+      "territory": "ΑΝΑΦΗ",
+      "latitude": 36.3514465,
+      "longitude": 25.76803
+    },
+    {
+      "postal_code": "84010",
+      "territory": "ΣΙΚΙΝΟΣ",
+      "latitude": 36.6966848,
+      "longitude": 25.1197219
+    },
+    {
+      "postal_code": "84011",
+      "territory": "ΦΟΛΕΓΑΝΔΡΟΣ",
+      "latitude": 36.6287384,
+      "longitude": 24.9206651
+    },
+    {
+      "postal_code": "84100",
+      "territory": "ΣΥΡΟΣ",
+      "latitude": 37.439611,
+      "longitude": 24.8880925
+    },
+    {
+      "postal_code": "84200",
+      "territory": "ΤΗΝΟΣ",
+      "latitude": 37.5393136,
+      "longitude": 25.159823100000004
+    },
+    {
+      "postal_code": "84201",
+      "territory": "ΠΑΝΟΡΜΟΣ ΤΗΝΟΥ",
+      "latitude": 37.6406374,
+      "longitude": 25.0407908
+    },
+    {
+      "postal_code": "84300",
+      "territory": "ΝΑΞΟΣ",
+      "latitude": 37.1021029,
+      "longitude": 25.376114
+    },
+    {
+      "postal_code": "84301",
+      "territory": "ΚΟΡΩΝΙΔΑ",
+      "latitude": 37.4255841,
+      "longitude": 23.120504
+    },
+    {
+      "postal_code": "84302",
+      "territory": "ΧΑΛΚΕΙΟ",
+      "latitude": 37.0632999,
+      "longitude": 25.4822206
+    },
+    {
+      "postal_code": "84400",
+      "territory": "ΠΑΡΟΣ",
+      "latitude": 37.0856432,
+      "longitude": 25.1488318
+    },
+    {
+      "postal_code": "84401",
+      "territory": "ΝΑΟΥΣΑ ΠΑΡΟΥ",
+      "latitude": 37.1235743,
+      "longitude": 25.238722
+    },
+    {
+      "postal_code": "84500",
+      "territory": "ΑΝΔΡΟΣ",
+      "latitude": 37.83803820000001,
+      "longitude": 24.9391268
+    },
+    {
+      "postal_code": "84501",
+      "territory": "ΓΑΥΡΙΟ",
+      "latitude": 37.88444580000001,
+      "longitude": 24.7370121
+    },
+    {
+      "postal_code": "84502",
+      "territory": "ΚΟΡΘΙΟ",
+      "latitude": 38.0094706,
+      "longitude": 23.7331367
+    },
+    {
+      "postal_code": "84503",
+      "territory": "Κυκλάδες",
+      "latitude": 36.8516125,
+      "longitude": 25.3018402
+    },
+    {
+      "postal_code": "84600",
+      "territory": "ΜΥΚΟΝΟΣ",
+      "latitude": 37.4467185,
+      "longitude": 25.3288623
+    },
+    {
+      "postal_code": "84700",
+      "territory": "ΘΗΡΑ",
+      "latitude": 36.3931562,
+      "longitude": 25.461509200000002
+    },
+    {
+      "postal_code": "84701",
+      "territory": "ΠΥΡΓΟΣ ΚΑΛΛΙΣΤ.ΘΗΡΑΣ",
+      "latitude": 36.3810831,
+      "longitude": 25.4424456
+    },
+    {
+      "postal_code": "84702",
+      "territory": "ΟΙΑ",
+      "latitude": 36.4618199,
+      "longitude": 25.375310100000004
+    },
+    {
+      "postal_code": "84703",
+      "territory": "ΕΜΠΟΡΕΙΟΝ",
+      "latitude": 36.3563415,
+      "longitude": 25.4420181
+    },
+    {
+      "postal_code": "84800",
+      "territory": "ΜΗΛΟΣ",
+      "latitude": 36.6914464,
+      "longitude": 24.3935655
+    },
+    {
+      "postal_code": "84801",
+      "territory": "ΑΔΑΜΑΣ",
+      "latitude": 36.7252955,
+      "longitude": 24.4447587
+    },
+    {
+      "postal_code": "85001",
+      "territory": "ΛΕΙΨΟΙ",
+      "latitude": 37.2953169,
+      "longitude": 26.7685803
+    },
+    {
+      "postal_code": "85002",
+      "territory": "ΤΗΛΟΣ",
+      "latitude": 36.48007190000001,
+      "longitude": 27.2896553
+    },
+    {
+      "postal_code": "85100",
+      "territory": "ΡΟΔΟΣ",
+      "latitude": 36.4349631,
+      "longitude": 28.217482899999997
+    },
+    {
+      "postal_code": "85101",
+      "territory": "ΙΑΛΥΣΟΣ",
+      "latitude": 36.4126577,
+      "longitude": 28.155407099999998
+    },
+    {
+      "postal_code": "85102",
+      "territory": "ΑΡΧΑΓΓΕΛΟΣ",
+      "latitude": 36.2145292,
+      "longitude": 28.116926
+    },
+    {
+      "postal_code": "85103",
+      "territory": "ΑΦΑΝΤΟΥ",
+      "latitude": 36.2944144,
+      "longitude": 28.162017300000002
+    },
+    {
+      "postal_code": "85104",
+      "territory": "ΚΡΕΜΑΣΤΗ",
+      "latitude": 36.4104187,
+      "longitude": 28.119808399999997
+    },
+    {
+      "postal_code": "85105",
+      "territory": "ΚΑΛΥΘΙΕΣ",
+      "latitude": 36.33549429999999,
+      "longitude": 28.175770500000002
+    },
+    {
+      "postal_code": "85106",
+      "territory": "ΠΑΡΑΔΕΙΣΙ",
+      "latitude": 36.3993436,
+      "longitude": 28.083236100000004
+    },
+    {
+      "postal_code": "85107",
+      "territory": "ΛΙΝΔΟΣ",
+      "latitude": 36.09184860000001,
+      "longitude": 28.085665399999996
+    },
+    {
+      "postal_code": "85108",
+      "territory": "ΚΡΗΤΗΝΙΑ",
+      "latitude": 36.24903320000001,
+      "longitude": 27.8307934
+    },
+    {
+      "postal_code": "85109",
+      "territory": "ΓΕΝΝΑΔΙ",
+      "latitude": 36.0236145,
+      "longitude": 27.9232631
+    },
+    {
+      "postal_code": "85110",
+      "territory": "ΧΑΛΚΗ",
+      "latitude": 36.2222849,
+      "longitude": 27.611899400000002
+    },
+    {
+      "postal_code": "85111",
+      "territory": "ΚΑΣΤΕΛΛΟΡΙΖΟ",
+      "latitude": 36.1495227,
+      "longitude": 29.5934415
+    },
+    {
+      "postal_code": "85200",
+      "territory": "ΚΑΛΥΜΝΟΣ",
+      "latitude": 36.95228240000001,
+      "longitude": 26.980765299999998
+    },
+    {
+      "postal_code": "85300",
+      "territory": "ΚΩΣ",
+      "latitude": 36.89258710000001,
+      "longitude": 27.287792600000003
+    },
+    {
+      "postal_code": "85301",
+      "territory": "ΚΕΦΑΛΟΣ ΚΩ",
+      "latitude": 36.7445146,
+      "longitude": 26.9591755
+    },
+    {
+      "postal_code": "85302",
+      "territory": "ΑΝΤΙΜΑΧΕΙΑ",
+      "latitude": 36.8092579,
+      "longitude": 27.0981016
+    },
+    {
+      "postal_code": "85303",
+      "territory": "ΝΙΣΥΡΟΣ",
+      "latitude": 36.59006189999999,
+      "longitude": 27.1676269
+    },
+    {
+      "postal_code": "85400",
+      "territory": "ΛΕΡΟΣ",
+      "latitude": 37.1409141,
+      "longitude": 26.848842699999995
+    },
+    {
+      "postal_code": "85401",
+      "territory": "ΛΑΚΚΙ ΛΕΡΟΥ",
+      "latitude": 37.1359936,
+      "longitude": 26.841462100000005
+    },
+    {
+      "postal_code": "85500",
+      "territory": "ΠΑΤΜΟΣ",
+      "latitude": 37.3093015,
+      "longitude": 26.546691100000004
+    },
+    {
+      "postal_code": "85600",
+      "territory": "ΣΥΜΗ",
+      "latitude": 36.6156541,
+      "longitude": 27.8359617
+    },
+    {
+      "postal_code": "85700",
+      "territory": "ΚΑΡΠΑΘΟΣ",
+      "latitude": 35.5065632,
+      "longitude": 27.2123511
+    },
+    {
+      "postal_code": "85800",
+      "territory": "ΚΑΣΟΣ",
+      "latitude": 35.40105300000001,
+      "longitude": 26.926367100000004
+    },
+    {
+      "postal_code": "85900",
+      "territory": "ΑΣΤΥΠΑΛΑΙΑ",
+      "latitude": 36.5489003,
+      "longitude": 26.3524437
+    },
+    {
+      "postal_code": "90000",
+      "territory": "ΑΕΡΟΔΡΟΜΙΟ ΛΕΩΦΟΡΟ ΒΕΝΙΖΕΛΟΥ",
+      "latitude": 37.9124909,
+      "longitude": 23.9012203
+    },
+    {
+      "postal_code": "90002",
+      "territory": "INTERCITY",
+      "latitude": 47.91481839999999,
+      "longitude": -122.2351332
+    },
+    {
+      "postal_code": "90003",
+      "territory": "INTERCITY",
+      "latitude": 47.91481839999999,
+      "longitude": -122.2351332
+    }
+  ],
+  "meta": {
+    "title": "Ταχυδρομικοί κώδικες Ελλάδας (1,250) - Δωρεάν λήψη",
+    "description": "1,250 ελληνικοί ταχυδρομικοί κώδικες (ΤΚ) με την επικράτεια και τις συντεταγμένες τους (γεωγραφικό πλάτος και μήκος). Greek postal codes (ΤΚ) with territory name and lat/long coordinates. Περιέχει 1250 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ταχυδρομικοί κώδικες Ελλάδας (1,250) | ListBase",
+    "seo_description": "Λήψη Ταχυδρομικοί κώδικες Ελλάδας (1,250) — 1250 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1250 εγγραφές / 4 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

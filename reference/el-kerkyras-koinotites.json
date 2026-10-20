@@ -1,0 +1,800 @@
+{
+  "id": "el-kerkyras-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Κερκυρας (107)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Κερκυρας (107)",
+  "description": "Οι 107 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Κερκυρας (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 107,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "260101",
+      "name": "Αγιου Αθανασιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260102",
+      "name": "Αγρου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260103",
+      "name": "Αρκαδαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260104",
+      "name": "Αρμεναδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260105",
+      "name": "Αφιωνος",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260106",
+      "name": "Δαφνης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260107",
+      "name": "Δροσατου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260108",
+      "name": "Καββαδαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260109",
+      "name": "Καστελλανων Γυρου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260110",
+      "name": "Μεσαριας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260111",
+      "name": "Παγων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260112",
+      "name": "Ραχταδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260113",
+      "name": "Χωρεπισκοπων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260205",
+      "name": "Βιρου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260206",
+      "name": "Γαστουριου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260212",
+      "name": "Κυνοπιαστων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260201",
+      "name": "Αγιου Προκοπιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260202",
+      "name": "Αγιων Δεκα",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260203",
+      "name": "Ανω Γαρουνας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260204",
+      "name": "Βαρυπαταδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260207",
+      "name": "Καλαφατιωνων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260208",
+      "name": "Καμαρας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260209",
+      "name": "Καστελλανων Μεσης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260210",
+      "name": "Κατω Γαρουνας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260211",
+      "name": "Κουραμαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260213",
+      "name": "Μπενιτσων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260214",
+      "name": "Σταυρου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260301",
+      "name": "Ερεικουσσης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260404",
+      "name": "Αυλιωτων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260408",
+      "name": "Καρουσαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260409",
+      "name": "Μαγουλαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260401",
+      "name": "Αγιων Δουλων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260402",
+      "name": "Αγραφων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260403",
+      "name": "Αντιπερνων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260405",
+      "name": "Βαλανειου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260406",
+      "name": "Βελοναδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260407",
+      "name": "Καβαλλουριου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260410",
+      "name": "Περουλαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260411",
+      "name": "Σιδαριου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260506",
+      "name": "Νυμφων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260501",
+      "name": "Αγιου Παντελεημονα",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260502",
+      "name": "Επισκεψεως",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260503",
+      "name": "Κληματιας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260504",
+      "name": "Λαυκιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260505",
+      "name": "Λουτσων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260507",
+      "name": "Ξανθατων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260508",
+      "name": "Περιθειας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260509",
+      "name": "Πεταλειας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260510",
+      "name": "Σφακερων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260602",
+      "name": "Κασσιοπης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260601",
+      "name": "Γιμαριου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260603",
+      "name": "Νησακιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260604",
+      "name": "Σινιων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260701",
+      "name": "Αλεπους",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260703",
+      "name": "Καναλιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260704",
+      "name": "Κερκυραιων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260702",
+      "name": "Εβροπουλων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260802",
+      "name": "Αργυραδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260805",
+      "name": "Περιβολιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260801",
+      "name": "Αγιου Νικολαου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260803",
+      "name": "Βασιλατικων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260804",
+      "name": "Κουσπαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260806",
+      "name": "Πετριτης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260903",
+      "name": "Λευκιμμης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260904",
+      "name": "Νεοχωριου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260901",
+      "name": "Ανω Λευκιμμης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "260902",
+      "name": "Βιταλαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261001",
+      "name": "Μαθρακιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261101",
+      "name": "Αγιου Ματθαιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261109",
+      "name": "Χλομου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261102",
+      "name": "Ανω Παυλιανας (Παυλιανας)",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261103",
+      "name": "Βουνιαταδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261104",
+      "name": "Κατω Παυλιανας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261105",
+      "name": "Μοραϊτικων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261106",
+      "name": "Πεντατιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261107",
+      "name": "Στρογγυλης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261108",
+      "name": "Χλοματιανων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261201",
+      "name": "Οθωνων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261306",
+      "name": "Λιαπαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261301",
+      "name": "Αλειμματαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261302",
+      "name": "Γαρδελαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261303",
+      "name": "Δουκαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261304",
+      "name": "Κρηνης",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261305",
+      "name": "Λακωνων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261307",
+      "name": "Μακραδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261308",
+      "name": "Σκριπερου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261510",
+      "name": "Σιναραδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261501",
+      "name": "Αγιου Ιωαννου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261502",
+      "name": "Αφρας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261503",
+      "name": "Βατου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261504",
+      "name": "Γιανναδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261505",
+      "name": "Κανακαδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261506",
+      "name": "Κοκκινιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261507",
+      "name": "Κομπιτσιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261508",
+      "name": "Μαρμαρου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261509",
+      "name": "Πελεκα",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261602",
+      "name": "Ανω Κορακιανας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261604",
+      "name": "Κατω Κορακιανας",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261601",
+      "name": "Αγιου Μαρκου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261603",
+      "name": "Ζυγου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261605",
+      "name": "Σγουραδων",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261606",
+      "name": "Σπαρτυλα",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261607",
+      "name": "Σωκρακιου",
+      "municipality": "Κερκυρας",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261401",
+      "name": "Γαϊου",
+      "municipality": "Παξων",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261402",
+      "name": "Λακκας",
+      "municipality": "Παξων",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261403",
+      "name": "Λογγου",
+      "municipality": "Παξων",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    },
+    {
+      "id": "261404",
+      "name": "Μαγαζιων",
+      "municipality": "Παξων",
+      "regional_unit": "Κερκυρας",
+      "region": "Ιονιων Νησων"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Κερκυρας (107) - Δωρεάν λήψη",
+    "description": "Οι 107 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Κερκυρας (Περιφέρεια Ιονιων Νησων) σύμφωνα με τον Καλλικράτη. Περιέχει 107 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Κερκυρας (107) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Κερκυρας (107) — 107 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 107 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

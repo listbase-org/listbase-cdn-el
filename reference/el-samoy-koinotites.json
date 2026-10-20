@@ -1,0 +1,296 @@
+{
+  "id": "el-samoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Σαμου (35)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Σαμου (35)",
+  "description": "Οι 35 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Σαμου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "460203",
+      "name": "Βαθεος",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460208",
+      "name": "Σαμιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460201",
+      "name": "Αγιου Κωνσταντινου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460202",
+      "name": "Αμπελου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460204",
+      "name": "Βουρλιωτων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460205",
+      "name": "Κοκκαριου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460206",
+      "name": "Μανολατων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460207",
+      "name": "Παλαιοκαστρου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460209",
+      "name": "Σταυρινηδων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460403",
+      "name": "Καρλοβασιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460401",
+      "name": "Αγιων Θεοδωρων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460402",
+      "name": "Δρακαιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460404",
+      "name": "Καστανεας",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460405",
+      "name": "Κονταιικων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460406",
+      "name": "Κοντακαιικων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460407",
+      "name": "Κοσμαδαιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460408",
+      "name": "Λεκας",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460409",
+      "name": "Πλατανου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460410",
+      "name": "Υδρουσσης",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460503",
+      "name": "Μαραθοκαμπου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460501",
+      "name": "Καλλιθεας",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460502",
+      "name": "Κουμαιικων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460504",
+      "name": "Νεοχωριου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460505",
+      "name": "Σκουραιικων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460605",
+      "name": "Μυτιληνιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460606",
+      "name": "Παγωνδου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460608",
+      "name": "Πυθαγορειου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460611",
+      "name": "Χωρας",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460601",
+      "name": "Κουμαραδαιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460602",
+      "name": "Μαυρατζαιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460603",
+      "name": "Μεσογειου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460604",
+      "name": "Μυλων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460607",
+      "name": "Πανδροσου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460609",
+      "name": "Πυργου",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "460610",
+      "name": "Σπαθαραιων",
+      "municipality": "Σαμου",
+      "regional_unit": "Σαμου",
+      "region": "Βορειου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Σαμου (35) - Δωρεάν λήψη",
+    "description": "Οι 35 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Σαμου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 35 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Σαμου (35) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Σαμου (35) — 35 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 35 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

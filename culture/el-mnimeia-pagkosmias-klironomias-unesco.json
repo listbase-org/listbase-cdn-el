@@ -1,0 +1,361 @@
+{
+  "id": "el-mnimeia-pagkosmias-klironomias-unesco",
+  "name": "Μνημεία Παγκόσμιας Κληρονομιάς της UNESCO στην Ελλάδα",
+  "title": "Μνημεία Παγκόσμιας Κληρονομιάς της UNESCO στην Ελλάδα",
+  "description": "Κατάλογος των Μνημείων Παγκόσμιας Κληρονομιάς της UNESCO που βρίσκονται στην Ελλάδα",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 18,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "category",
+      "label": "Category",
+      "type": "string"
+    },
+    {
+      "key": "date_inscribed",
+      "label": "Date Inscribed",
+      "type": "number"
+    },
+    {
+      "key": "criteria",
+      "label": "Criteria",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "states",
+      "label": "States",
+      "type": "string"
+    },
+    {
+      "key": "transboundary",
+      "label": "Transboundary",
+      "type": "boolean"
+    },
+    {
+      "key": "danger",
+      "label": "Danger",
+      "type": "boolean"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "short_description",
+      "label": "Short Description",
+      "type": "string"
+    },
+    {
+      "key": "id_number",
+      "label": "Id Number",
+      "type": "number"
+    },
+    {
+      "key": "url",
+      "label": "Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Temple of Apollo Epicurius at Bassae",
+      "category": "Cultural",
+      "date_inscribed": 1986,
+      "criteria": "(i)(ii)(iii)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.43498,
+      "longitude": 21.89694,
+      "short_description": "This famous temple to the god of healing and the sun was built towards the middle of the 5th century B.C. in the lonely heights of the Arcadian mountains. The temple, which has the oldest Corinthian capital yet found, combines the Archaic style and the serenity of the Doric style with some daring architectural features.",
+      "id_number": 392,
+      "url": "https://whc.unesco.org/en/list/392"
+    },
+    {
+      "name": "Acropolis, Athens",
+      "category": "Cultural",
+      "date_inscribed": 1987,
+      "criteria": "(i)(ii)(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.97087,
+      "longitude": 23.72618,
+      "short_description": "The Acropolis of Athens and its monuments are universal symbols of the classical spirit and civilization and form the greatest architectural and artistic complex bequeathed by Greek Antiquity to the world. In the second half of the fifth century bc, Athens, following the victory against the Persians and the establishment of democracy, took a leading position amongst the other city-states of the ancient world. In the age that followed, as thought and art flourished, an exceptional group of artists put into effect the ambitious plans of Athenian statesman Pericles and, under the inspired guidance of the sculptor Pheidias, transformed the rocky hill into a unique monument of thought and the arts. The most important monuments were built during that time: the Parthenon, built by Ictinus, the Erechtheon, the Propylaea, the monumental entrance to the Acropolis, designed by Mnesicles and the small temple Athena Nike.",
+      "id_number": 404,
+      "url": "https://whc.unesco.org/en/list/404"
+    },
+    {
+      "name": "Archaeological Site of Delphi",
+      "category": "Cultural",
+      "date_inscribed": 1987,
+      "criteria": "(i)(ii)(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 38.48149,
+      "longitude": 22.49617,
+      "short_description": "The pan-Hellenic sanctuary of Delphi, where the oracle of Apollo spoke, was the site of the omphalos, the 'navel of the world'. Blending harmoniously with the superb landscape and charged with sacred meaning, Delphi in the 6th century B.C. was indeed the religious centre and symbol of unity of the ancient Greek world.",
+      "id_number": 393,
+      "url": "https://whc.unesco.org/en/list/393"
+    },
+    {
+      "name": "Medieval City of Rhodes",
+      "category": "Cultural",
+      "date_inscribed": 1988,
+      "criteria": "(ii)(iv)(v)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 36.44722,
+      "longitude": 28.22778,
+      "short_description": "The Order of St John of Jerusalem occupied Rhodes from 1309 to 1523 and set about transforming the city into a stronghold. It subsequently came under Turkish and Italian rule. With the Palace of the Grand Masters, the Great Hospital and the Street of the Knights, the Upper Town is one of the most beautiful urban ensembles of the Gothic period. In the Lower Town, Gothic architecture coexists with mosques, public baths and other buildings dating from the Ottoman period.",
+      "id_number": 493,
+      "url": "https://whc.unesco.org/en/list/493"
+    },
+    {
+      "name": "Meteora",
+      "category": "Mixed",
+      "date_inscribed": 1988,
+      "criteria": "(i)(ii)(iv)(v)(vii)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 39.71667,
+      "longitude": 21.63333,
+      "short_description": "In a region of almost inaccessible sandstone peaks, monks settled on these 'columns of the sky' from the 11th century onwards. Twenty-four of these monasteries were built, despite incredible difficulties, at the time of the great revival of the eremetic ideal in the 15th century. Their 16th-century frescoes mark a key stage in the development of post-Byzantine painting.",
+      "id_number": 455,
+      "url": "https://whc.unesco.org/en/list/455"
+    },
+    {
+      "name": "Mount Athos",
+      "category": "Mixed",
+      "date_inscribed": 1988,
+      "criteria": "(i)(ii)(iv)(v)(vi)(vii)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 40.26667,
+      "longitude": 24.21667,
+      "short_description": "An Orthodox spiritual centre since 1054, Mount Athos has enjoyed an autonomous statute since Byzantine times. The 'Holy Mountain', which is forbidden to women and children, is also a recognized artistic site. The layout of the monasteries (about 20 of which are presently inhabited by some 1,400 monks) had an influence as far afield as Russia, and its school of painting influenced the history of Orthodox art.",
+      "id_number": 454,
+      "url": "https://whc.unesco.org/en/list/454"
+    },
+    {
+      "name": "Paleochristian and Byzantine Monuments of Thessalonika",
+      "category": "Cultural",
+      "date_inscribed": 1988,
+      "criteria": "(i)(ii)(iv)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 40.63833,
+      "longitude": 22.965,
+      "short_description": "Founded in 315 B.C., the provincial capital and sea port of Thessalonika was one of the first bases for the spread of Christianity. Among its Christian monuments are fine churches, some built on the Greek cross plan and others on the three-nave basilica plan. Constructed over a long period, from the 4th to the 15th century, they constitute a diachronic typological series, which had considerable influence in the Byzantine world. The mosaics of the rotunda, St Demetrius and St David are among the great masterpieces of early Christian art.",
+      "id_number": 456,
+      "url": "https://whc.unesco.org/en/list/456"
+    },
+    {
+      "name": "Sanctuary of Asklepios at Epidaurus",
+      "category": "Cultural",
+      "date_inscribed": 1988,
+      "criteria": "(i)(ii)(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.666667,
+      "longitude": 23.116667,
+      "short_description": "In a small valley in the Peloponnesus, the shrine of Asklepios, the god of medicine, developed out of a much earlier cult of Apollo (Maleatas), during the 6th century BC at the latest, as the official cult of the city state of Epidaurus. Its principal monuments, particularly the temple of Asklepios, the Tholos and the Theatre - considered one of the purest masterpieces of Greek architecture – date from the 4th century. The vast site, with its temples and hospital buildings devoted to its healing gods, provides valuable insight into the healing cults of Greek and Roman times.",
+      "id_number": 491,
+      "url": "https://whc.unesco.org/en/list/491"
+    },
+    {
+      "name": "Archaeological Site of Mystras",
+      "category": "Cultural",
+      "date_inscribed": 1989,
+      "criteria": "(ii)(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.08056,
+      "longitude": 22.36667,
+      "short_description": "Mystras, the 'wonder of the Morea', was built as an amphitheatre around the fortress erected in 1249 by the prince of Achaia, William of Villehardouin. Reconquered by the Byzantines, then occupied by the Turks and the Venetians, the city was abandoned in 1832, leaving only the breathtaking medieval ruins, standing in a beautiful landscape.",
+      "id_number": 511,
+      "url": "https://whc.unesco.org/en/list/511"
+    },
+    {
+      "name": "Archaeological Site of Olympia",
+      "category": "Cultural",
+      "date_inscribed": 1989,
+      "criteria": "(i)(ii)(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.65,
+      "longitude": 21.666667,
+      "short_description": "The site of Olympia, in a valley in the Peloponnesus, has been inhabited since prehistoric times. In the 10th century B.C., Olympia became a centre for the worship of Zeus. The Altis – the sanctuary to the gods – has one of the highest concentrations of masterpieces from the ancient Greek world. In addition to temples, there are the remains of all the sports structures erected for the Olympic Games, which were held in Olympia every four years beginning in 776 B.C.",
+      "id_number": 517,
+      "url": "https://whc.unesco.org/en/list/517"
+    },
+    {
+      "name": "Delos",
+      "category": "Cultural",
+      "date_inscribed": 1990,
+      "criteria": "(ii)(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.4,
+      "longitude": 25.26667,
+      "short_description": "According to Greek mythology, Apollo was born on this tiny island in the Cyclades archipelago. Apollo's sanctuary attracted pilgrims from all over Greece and Delos was a prosperous trading port. The island bears traces of the succeeding civilizations in the Aegean world, from the 3rd millennium B.C. to the palaeochristian era. The archaeological site is exceptionally extensive and rich and conveys the image of a great cosmopolitan Mediterranean port.",
+      "id_number": 530,
+      "url": "https://whc.unesco.org/en/list/530"
+    },
+    {
+      "name": "Monasteries of Daphni, Hosios Loukas and Nea Moni of Chios",
+      "category": "Cultural",
+      "date_inscribed": 1990,
+      "criteria": "(i)(iv)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 38.4,
+      "longitude": 22.75,
+      "short_description": "Although geographically distant from each other, these three monasteries (the first is in Attica, near Athens, the second in Phocida near Delphi, and the third on an island in the Aegean Sea, near Asia Minor) belong to the same typological series and share the same aesthetic characteristics. The churches are built on a cross-in-square plan with a large dome supported by squinches defining an octagonal space. In the 11th and 12th centuries they were decorated with superb marble works as well as mosaics on a gold background, all characteristic of the 'second golden age of Byzantine art'.",
+      "id_number": 537,
+      "url": "https://whc.unesco.org/en/list/537"
+    },
+    {
+      "name": "Pythagoreion and Heraion of Samos",
+      "category": "Cultural",
+      "date_inscribed": 1992,
+      "criteria": "(ii)(iii)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.69083,
+      "longitude": 26.94333,
+      "short_description": "Many civilizations have inhabited this small Aegean island, near Asia Minor, since the 3rd millennium B.C. The remains of Pythagoreion, an ancient fortified port with Greek and Roman monuments and a spectacular tunnel-aqueduct, as well as the Heraion, temple of the Samian Hera, can still be seen.",
+      "id_number": 595,
+      "url": "https://whc.unesco.org/en/list/595"
+    },
+    {
+      "name": "Archaeological Site of Aigai (modern name Vergina)",
+      "category": "Cultural",
+      "date_inscribed": 1996,
+      "criteria": "(i)(iii)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 40.47139,
+      "longitude": 22.31833,
+      "short_description": "The city of Aigai, the ancient first capital of the Kingdom of Macedonia, was discovered in the 19th century near Vergina, in northern Greece. The most important remains are the monumental palace, lavishly decorated with mosaics and painted stuccoes, and the burial ground with more than 300 tumuli, some of which date from the 11th century B.C. One of the royal tombs in the Great Tumulus is identified as that of Philip II, who conquered all the Greek cities, paving the way for his son Alexander and the expansion of the Hellenistic world.",
+      "id_number": 780,
+      "url": "https://whc.unesco.org/en/list/780"
+    },
+    {
+      "name": "Archaeological Sites of Mycenae and Tiryns",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(i)(ii)(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.733333,
+      "longitude": 22.75,
+      "short_description": "The archaeological sites of Mycenae and Tiryns are the imposing ruins of the two greatest cities of the Mycenaean civilization, which dominated the eastern Mediterranean world from the 15th to the 12th century B.C. and played a vital role in the development of classical Greek culture. These two cities are indissolubly linked to the Homeric epics, the Iliad and the Odyssey , which have influenced European art and literature for more than three millennia.",
+      "id_number": 941,
+      "url": "https://whc.unesco.org/en/list/941"
+    },
+    {
+      "name": "The Historic Centre (Chorá) with the Monastery of Saint-John the Theologian and the Cave of the Apocalypse on the Island of Pátmos",
+      "category": "Cultural",
+      "date_inscribed": 1999,
+      "criteria": "(iii)(iv)(vi)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 37.3,
+      "longitude": 26.55,
+      "short_description": "The small island of Pátmos in the Dodecanese is reputed to be where St John the Theologian wrote both his Gospel and the Apocalypse. A monastery dedicated to the ‘beloved disciple’ was founded there in the late 10th century and it has been a place of pilgrimage and Greek Orthodox learning ever since. The fine monastic complex dominates the island. The old settlement of Chorá, associated with it, contains many religious and secular buildings.",
+      "id_number": 942,
+      "url": "https://whc.unesco.org/en/list/942"
+    },
+    {
+      "name": "Old Town of Corfu",
+      "category": "Cultural",
+      "date_inscribed": 2007,
+      "criteria": "(iv)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 39.623941,
+      "longitude": 19.9275,
+      "short_description": "The Old Town of Corfu, on the Island of Corfu off the western coasts of Albania and Greece, is located in a strategic position at the entrance of the Adriatic Sea, and has its roots in the 8th century BC. The three forts of the town, designed by renowned Venetian engineers, were used for four centuries to defend the maritime trading interests of the Republic of Venice against the Ottoman Empire. In the course of time, the forts were repaired and partly rebuilt several times, more recently under British rule in the 19th century. The mainly neoclassical housing stock of the Old Town is partly from the Venetian period, partly of later construction, notably the 19th century. As a fortified Mediterranean port, Corfu’s urban and port ensemble is notable for its high level of integrity and authenticity.",
+      "id_number": 978,
+      "url": "https://whc.unesco.org/en/list/978"
+    },
+    {
+      "name": "Archaeological Site of Philippi",
+      "category": "Cultural",
+      "date_inscribed": 2016,
+      "criteria": "(iii)(iv)",
+      "region": "Europe and North America",
+      "states": "Greece",
+      "transboundary": false,
+      "danger": false,
+      "latitude": 41.014722,
+      "longitude": 24.285278,
+      "short_description": "The remains of this walled city lie at the foot of an acropolis in north-eastern Greece, on the ancient route linking Europe and Asia, the Via Egnatia . Founded in 356 BC by the Macedonian King Philip II, the city developed as a “small Rome” with the establishment of the Roman Empire in the decades following the Battle of Philippi, in 42 BCE. The vibrant Hellenistic city of Philip II, of which the walls and their gates, the theatre and the funerary heroon (temple) are to be seen, was supplemented with Roman public buildings such as the Forum and a monumental terrace with temples to its north . Later the city became a centre of the Christian faith following the visit of the Apostle Paul in 49-50 CE. The remains of its basilicas constitute an exceptional testimony to the early establishment of Christianity.",
+      "id_number": 1517,
+      "url": "https://whc.unesco.org/en/list/1517"
+    }
+  ],
+  "meta": {
+    "title": "Μνημεία Παγκόσμιας Κληρονομιάς της UNESCO στην Ελλάδα - Δωρεάν λήψη",
+    "description": "Κατάλογος των Μνημείων Παγκόσμιας Κληρονομιάς της UNESCO που βρίσκονται στην Ελλάδα Περιέχει 18 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Μνημεία Παγκόσμιας Κληρονομιάς της UNESCO στην Ελλάδα | ListBase",
+    "seo_description": "Λήψη Μνημεία Παγκόσμιας Κληρονομιάς της UNESCO στην Ελλάδα — 18 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 18 εγγραφές / 13 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

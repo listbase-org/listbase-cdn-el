@@ -1,0 +1,3736 @@
+{
+  "id": "el-kreopoleia",
+  "name": "Κρεοπωλεία Ελλάδας",
+  "title": "Κρεοπωλεία Ελλάδας",
+  "description": "Κρεοπωλεία σε όλη την Ελλάδα από το OpenStreetMap. Butcher shops across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 739,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "\"O Polis\"",
+      "latitude": 35.499785,
+      "longitude": 23.963503
+    },
+    {
+      "name": "\"Αγγέλου\"",
+      "latitude": 38.4714,
+      "longitude": 23.632648
+    },
+    {
+      "name": "\"Νάκας Χρ.\"",
+      "latitude": 41.260029,
+      "longitude": 23.00005
+    },
+    {
+      "name": "\"Το Χασαπάκi\"",
+      "latitude": 41.259804,
+      "longitude": 23.000322
+    },
+    {
+      "name": "7λοφος",
+      "latitude": 40.654253,
+      "longitude": 22.923507
+    },
+    {
+      "name": "A.Farm",
+      "latitude": 37.869929,
+      "longitude": 23.765295
+    },
+    {
+      "name": "Aggis",
+      "latitude": 38.022704,
+      "longitude": 23.798396
+    },
+    {
+      "name": "Al Wahid Market",
+      "latitude": 38.00624,
+      "longitude": 23.727695
+    },
+    {
+      "name": "Andriopoulos  Market κρεάτων και τροφίμων",
+      "latitude": 37.915708,
+      "longitude": 23.743918
+    },
+    {
+      "name": "Andriopoulos Meat Market",
+      "latitude": 38.138829,
+      "longitude": 23.853974
+    },
+    {
+      "name": "Antonopoulos",
+      "latitude": 37.674346,
+      "longitude": 21.437191
+    },
+    {
+      "name": "Art of Meat",
+      "latitude": 40.602466,
+      "longitude": 22.967806
+    },
+    {
+      "name": "Balkhi",
+      "latitude": 37.994389,
+      "longitude": 23.729174
+    },
+    {
+      "name": "Bandak",
+      "latitude": 41.140517,
+      "longitude": 24.891597
+    },
+    {
+      "name": "BIO STEAK OUT",
+      "latitude": 37.869154,
+      "longitude": 23.766425
+    },
+    {
+      "name": "Boucherie",
+      "latitude": 40.605893,
+      "longitude": 22.979417
+    },
+    {
+      "name": "Boutcher",
+      "latitude": 38.828856,
+      "longitude": 20.704841
+    },
+    {
+      "name": "Burnaveas",
+      "latitude": 39.363347,
+      "longitude": 21.928556
+    },
+    {
+      "name": "Butcher Kriklanis",
+      "latitude": 39.081535,
+      "longitude": 26.182977
+    },
+    {
+      "name": "Butchers",
+      "latitude": 37.940957,
+      "longitude": 23.648906
+    },
+    {
+      "name": "Butchery",
+      "latitude": 39.45346,
+      "longitude": 20.276858
+    },
+    {
+      "name": "Carnivorous",
+      "latitude": 35.510092,
+      "longitude": 24.01178
+    },
+    {
+      "name": "Chick In Καλαϊτζή",
+      "latitude": 40.269965,
+      "longitude": 22.506229
+    },
+    {
+      "name": "DASKALOS farm",
+      "latitude": 39.745036,
+      "longitude": 22.28102
+    },
+    {
+      "name": "Delenkos",
+      "latitude": 38.259928,
+      "longitude": 21.742794
+    },
+    {
+      "name": "Dermitzakis",
+      "latitude": 35.204724,
+      "longitude": 26.104175
+    },
+    {
+      "name": "Drakopoulos Meat & More",
+      "latitude": 37.914935,
+      "longitude": 23.71677
+    },
+    {
+      "name": "Drakoulis Wholesales",
+      "latitude": 37.890677,
+      "longitude": 23.881995
+    },
+    {
+      "name": "Euro Market",
+      "latitude": 38.009384,
+      "longitude": 23.825341
+    },
+    {
+      "name": "Ev'deli",
+      "latitude": 38.055222,
+      "longitude": 23.807723
+    },
+    {
+      "name": "Farmily",
+      "latitude": 37.971837,
+      "longitude": 23.656341
+    },
+    {
+      "name": "Fleischer",
+      "latitude": 36.808429,
+      "longitude": 21.915028
+    },
+    {
+      "name": "Fleischer",
+      "latitude": 36.808666,
+      "longitude": 21.915722
+    },
+    {
+      "name": "Fraggiadaki",
+      "latitude": 35.189284,
+      "longitude": 24.39855
+    },
+    {
+      "name": "Georgiou",
+      "latitude": 38.047594,
+      "longitude": 23.756497
+    },
+    {
+      "name": "Halal my market",
+      "latitude": 37.994907,
+      "longitude": 23.727333
+    },
+    {
+      "name": "Hanif",
+      "latitude": 37.990893,
+      "longitude": 23.727013
+    },
+    {
+      "name": "Hatzigeorgiou Panagiotis",
+      "latitude": 36.413887,
+      "longitude": 27.385499
+    },
+    {
+      "name": "Hey Joe",
+      "latitude": 40.654943,
+      "longitude": 22.923491
+    },
+    {
+      "name": "hlias",
+      "latitude": 39.081338,
+      "longitude": 26.183761
+    },
+    {
+      "name": "I Kathariotita",
+      "latitude": 41.419513,
+      "longitude": 26.225912
+    },
+    {
+      "name": "Kandavlos",
+      "latitude": 37.937716,
+      "longitude": 22.93143
+    },
+    {
+      "name": "KAPETEXNEIO",
+      "latitude": 35.051283,
+      "longitude": 24.873041
+    },
+    {
+      "name": "Kings of Vape",
+      "latitude": 37.90799,
+      "longitude": 23.748743
+    },
+    {
+      "name": "KREKA",
+      "latitude": 40.936851,
+      "longitude": 24.405054
+    },
+    {
+      "name": "Kreopoleio To Seli",
+      "latitude": 40.346548,
+      "longitude": 23.014803
+    },
+    {
+      "name": "Kreopolio",
+      "latitude": 35.096825,
+      "longitude": 24.687155
+    },
+    {
+      "name": "Kritsotakis",
+      "latitude": 35.003872,
+      "longitude": 25.584338
+    },
+    {
+      "name": "Lagoudakis",
+      "latitude": 37.864927,
+      "longitude": 23.748251
+    },
+    {
+      "name": "Lefkas Farm",
+      "latitude": 38.709236,
+      "longitude": 20.704938
+    },
+    {
+      "name": "Leonidopoulos",
+      "latitude": 38.259737,
+      "longitude": 21.74238
+    },
+    {
+      "name": "Levidis Meat Center",
+      "latitude": 38.371139,
+      "longitude": 26.133714
+    },
+    {
+      "name": "Madupa",
+      "latitude": 37.447043,
+      "longitude": 25.328204
+    },
+    {
+      "name": "Marinos Christou",
+      "latitude": 37.906963,
+      "longitude": 22.880404
+    },
+    {
+      "name": "Meat & m...eat",
+      "latitude": 37.9423,
+      "longitude": 23.72576
+    },
+    {
+      "name": "Meat 2 Meet",
+      "latitude": 40.600991,
+      "longitude": 22.989109
+    },
+    {
+      "name": "Meat Lovers",
+      "latitude": 38.001768,
+      "longitude": 23.719505
+    },
+    {
+      "name": "Meat Maria",
+      "latitude": 37.525813,
+      "longitude": 22.724921
+    },
+    {
+      "name": "MEAT STAR",
+      "latitude": 37.980393,
+      "longitude": 23.757692
+    },
+    {
+      "name": "Meating Place",
+      "latitude": 40.635029,
+      "longitude": 22.941733
+    },
+    {
+      "name": "MeatLand",
+      "latitude": 40.608665,
+      "longitude": 22.971797
+    },
+    {
+      "name": "Meats",
+      "latitude": 38.47869,
+      "longitude": 22.495239
+    },
+    {
+      "name": "Melliou Butcher Shop",
+      "latitude": 40.267483,
+      "longitude": 22.497261
+    },
+    {
+      "name": "Minimarket",
+      "latitude": 38.041523,
+      "longitude": 23.755758
+    },
+    {
+      "name": "MIRAN",
+      "latitude": 37.980014,
+      "longitude": 23.725809
+    },
+    {
+      "name": "Nenedakis",
+      "latitude": 35.347734,
+      "longitude": 24.299011
+    },
+    {
+      "name": "New tastes",
+      "latitude": 37.962372,
+      "longitude": 23.699381
+    },
+    {
+      "name": "O KOSTAS",
+      "latitude": 40.514207,
+      "longitude": 23.825248
+    },
+    {
+      "name": "O Nontas",
+      "latitude": 37.48718,
+      "longitude": 23.011125
+    },
+    {
+      "name": "O Toinihordis",
+      "latitude": 39.689673,
+      "longitude": 19.837601
+    },
+    {
+      "name": "O ΜΑΝΩΛΗΣ",
+      "latitude": 37.98625,
+      "longitude": 23.642313
+    },
+    {
+      "name": "Ochsenkopf",
+      "latitude": 40.57304,
+      "longitude": 22.991636
+    },
+    {
+      "name": "Petridis Butcher Shop",
+      "latitude": 40.275816,
+      "longitude": 23.147569
+    },
+    {
+      "name": "pitsoulis",
+      "latitude": 39.327218,
+      "longitude": 26.174862
+    },
+    {
+      "name": "Porky",
+      "latitude": 37.954439,
+      "longitude": 23.702707
+    },
+    {
+      "name": "Porky",
+      "latitude": 38.055267,
+      "longitude": 23.807288
+    },
+    {
+      "name": "Savvas",
+      "latitude": 40.25857,
+      "longitude": 23.202712
+    },
+    {
+      "name": "Savvas",
+      "latitude": 40.663957,
+      "longitude": 22.947165
+    },
+    {
+      "name": "St. Poulakis",
+      "latitude": 36.975859,
+      "longitude": 22.989995
+    },
+    {
+      "name": "Stivos",
+      "latitude": 40.669366,
+      "longitude": 22.911398
+    },
+    {
+      "name": "Symi Meat Market",
+      "latitude": 36.615477,
+      "longitude": 27.83547
+    },
+    {
+      "name": "Te Karvona",
+      "latitude": 39.687526,
+      "longitude": 19.838305
+    },
+    {
+      "name": "TEMETERON",
+      "latitude": 38.965235,
+      "longitude": 20.748575
+    },
+    {
+      "name": "The Buchers Family",
+      "latitude": 37.888561,
+      "longitude": 24.000506
+    },
+    {
+      "name": "The Butchers",
+      "latitude": 40.268498,
+      "longitude": 23.452055
+    },
+    {
+      "name": "The English butsher",
+      "latitude": 35.411628,
+      "longitude": 24.196146
+    },
+    {
+      "name": "Themis Butcher Shop",
+      "latitude": 37.500625,
+      "longitude": 23.453255
+    },
+    {
+      "name": "To Ximomero",
+      "latitude": 38.62026,
+      "longitude": 21.411722
+    },
+    {
+      "name": "Tolis",
+      "latitude": 38.0597,
+      "longitude": 23.796161
+    },
+    {
+      "name": "Tzimas Meat",
+      "latitude": 40.401173,
+      "longitude": 21.381906
+    },
+    {
+      "name": "Tzimas Meat (Thessaloniki)",
+      "latitude": 40.598374,
+      "longitude": 22.956152
+    },
+    {
+      "name": "¨Η Αφθονία¨",
+      "latitude": 38.257513,
+      "longitude": 21.745167
+    },
+    {
+      "name": "Άγης",
+      "latitude": 37.076639,
+      "longitude": 22.426493
+    },
+    {
+      "name": "Άκης Γράβαρης",
+      "latitude": 38.041096,
+      "longitude": 23.752025
+    },
+    {
+      "name": "Άριστο",
+      "latitude": 38.014189,
+      "longitude": 23.735455
+    },
+    {
+      "name": "Α. Γκατση - Π. Χητας",
+      "latitude": 39.768834,
+      "longitude": 21.181089
+    },
+    {
+      "name": "Α. Δημητρίου",
+      "latitude": 37.933599,
+      "longitude": 23.758997
+    },
+    {
+      "name": "ΑΓΝΟMARKET",
+      "latitude": 37.954675,
+      "longitude": 23.70401
+    },
+    {
+      "name": "Αγνοφάρμα Κολιοκίτσος",
+      "latitude": 39.637637,
+      "longitude": 20.863489
+    },
+    {
+      "name": "Αγνό Market",
+      "latitude": 37.918965,
+      "longitude": 23.727508
+    },
+    {
+      "name": "Αγνό market",
+      "latitude": 37.933119,
+      "longitude": 23.64537
+    },
+    {
+      "name": "Αγνό Market",
+      "latitude": 37.964175,
+      "longitude": 23.752495
+    },
+    {
+      "name": "Αγνό Μάρκετ",
+      "latitude": 37.949075,
+      "longitude": 23.73622
+    },
+    {
+      "name": "Αγορά Κομοτηνή",
+      "latitude": 41.120147,
+      "longitude": 25.402852
+    },
+    {
+      "name": "Αθανασίου",
+      "latitude": 39.63583,
+      "longitude": 22.420959
+    },
+    {
+      "name": "Αιμαμίτης Άγγελος",
+      "latitude": 40.613,
+      "longitude": 22.982659
+    },
+    {
+      "name": "Αλαφούζος",
+      "latitude": 38.014445,
+      "longitude": 23.832009
+    },
+    {
+      "name": "ΑΛΙΑΓΑΣ",
+      "latitude": 39.706896,
+      "longitude": 21.622704
+    },
+    {
+      "name": "Αλλαντοπωλείο του Πειραιά",
+      "latitude": 37.945435,
+      "longitude": 23.643474
+    },
+    {
+      "name": "Αμερικάνος",
+      "latitude": 37.953833,
+      "longitude": 23.746757
+    },
+    {
+      "name": "Αμινοξέα",
+      "latitude": 40.503898,
+      "longitude": 21.157805
+    },
+    {
+      "name": "Ανέστης",
+      "latitude": 40.662067,
+      "longitude": 22.946574
+    },
+    {
+      "name": "ΑΝΔΡΙΟΠΟΥΛΟΣ",
+      "latitude": 38.008629,
+      "longitude": 23.853765
+    },
+    {
+      "name": "Ανθουλάκης",
+      "latitude": 41.159809,
+      "longitude": 23.363917
+    },
+    {
+      "name": "Ανούσος",
+      "latitude": 37.070248,
+      "longitude": 22.429446
+    },
+    {
+      "name": "Αντικριστό",
+      "latitude": 37.949033,
+      "longitude": 23.669877
+    },
+    {
+      "name": "Αντώνης",
+      "latitude": 37.95072,
+      "longitude": 23.690365
+    },
+    {
+      "name": "Αντώνης Βλάμης",
+      "latitude": 37.974031,
+      "longitude": 23.774139
+    },
+    {
+      "name": "ΑΠΟΣΤΟΛΑΚΗΣ",
+      "latitude": 35.15016,
+      "longitude": 25.264427
+    },
+    {
+      "name": "Απόστολος Παπαγιάννης",
+      "latitude": 37.977633,
+      "longitude": 23.762582
+    },
+    {
+      "name": "Αρ. Γ. Τζαχρηστος",
+      "latitude": 38.79846,
+      "longitude": 23.478815
+    },
+    {
+      "name": "Αργύρης Σταύρος",
+      "latitude": 38.472991,
+      "longitude": 23.583318
+    },
+    {
+      "name": "Αργύρης Τσιαδήμας",
+      "latitude": 38.888147,
+      "longitude": 22.432639
+    },
+    {
+      "name": "Αριάδνη",
+      "latitude": 41.1478,
+      "longitude": 24.151861
+    },
+    {
+      "name": "Αρκάδες",
+      "latitude": 38.010771,
+      "longitude": 23.844357
+    },
+    {
+      "name": "Αρχιμανδρίτης",
+      "latitude": 37.953269,
+      "longitude": 23.752536
+    },
+    {
+      "name": "Ασγουδάκης",
+      "latitude": 37.939832,
+      "longitude": 23.751509
+    },
+    {
+      "name": "Αστεριώτη",
+      "latitude": 38.240391,
+      "longitude": 21.745479
+    },
+    {
+      "name": "Ατζέμης Αθανάσιος",
+      "latitude": 40.602249,
+      "longitude": 22.966532
+    },
+    {
+      "name": "Αυγέρος",
+      "latitude": 40.46521,
+      "longitude": 23.378361
+    },
+    {
+      "name": "Αυφαντής",
+      "latitude": 38.896621,
+      "longitude": 21.348131
+    },
+    {
+      "name": "Αφοί Βουδούρη",
+      "latitude": 40.273023,
+      "longitude": 22.506918
+    },
+    {
+      "name": "Αφοί Κρεμέτη",
+      "latitude": 40.267496,
+      "longitude": 22.514717
+    },
+    {
+      "name": "Αφοί Κρεμέτη",
+      "latitude": 40.269667,
+      "longitude": 22.514321
+    },
+    {
+      "name": "Αφοί Μοναχού",
+      "latitude": 39.502011,
+      "longitude": 20.265449
+    },
+    {
+      "name": "Αφοί Τσίρκα",
+      "latitude": 38.062095,
+      "longitude": 23.981886
+    },
+    {
+      "name": "Αφοι Βασιλούδη",
+      "latitude": 40.428494,
+      "longitude": 22.926447
+    },
+    {
+      "name": "Αφοι Η. Μοναχου",
+      "latitude": 39.502584,
+      "longitude": 20.265471
+    },
+    {
+      "name": "Αφοι Καβαλλαρη",
+      "latitude": 38.019001,
+      "longitude": 24.001307
+    },
+    {
+      "name": "Αφοι Κοντοδήμου",
+      "latitude": 37.167365,
+      "longitude": 22.859392
+    },
+    {
+      "name": "Αφοι Κοτσαμπα",
+      "latitude": 40.634834,
+      "longitude": 22.952438
+    },
+    {
+      "name": "Αφοι Μανδηλαρά",
+      "latitude": 37.099526,
+      "longitude": 25.38019
+    },
+    {
+      "name": "Αφοι Μαυρομάτη",
+      "latitude": 41.177377,
+      "longitude": 23.969163
+    },
+    {
+      "name": "ΑΦΟΙ ΝΟΥΛΗ",
+      "latitude": 40.613777,
+      "longitude": 22.955138
+    },
+    {
+      "name": "Αφοι Παγωνά",
+      "latitude": 38.081887,
+      "longitude": 23.739865
+    },
+    {
+      "name": "Αϊδηνίδης",
+      "latitude": 40.635633,
+      "longitude": 23.247304
+    },
+    {
+      "name": "Βάγιας",
+      "latitude": 38.460867,
+      "longitude": 23.597216
+    },
+    {
+      "name": "Βένος",
+      "latitude": 39.501905,
+      "longitude": 20.264607
+    },
+    {
+      "name": "Βαγένας",
+      "latitude": 40.675759,
+      "longitude": 22.935649
+    },
+    {
+      "name": "Βαλογιάννης",
+      "latitude": 38.030608,
+      "longitude": 21.365453
+    },
+    {
+      "name": "Βαρδακησ",
+      "latitude": 35.515127,
+      "longitude": 24.020536
+    },
+    {
+      "name": "Βασίλης",
+      "latitude": 39.421334,
+      "longitude": 20.078267
+    },
+    {
+      "name": "Βασίλης Τσιάμης",
+      "latitude": 39.705666,
+      "longitude": 21.625256
+    },
+    {
+      "name": "Βερβέρης",
+      "latitude": 37.93545,
+      "longitude": 23.635073
+    },
+    {
+      "name": "Βερβέρης",
+      "latitude": 37.937183,
+      "longitude": 23.643325
+    },
+    {
+      "name": "Βερβέρης",
+      "latitude": 37.964338,
+      "longitude": 23.632576
+    },
+    {
+      "name": "Βησσαριτης",
+      "latitude": 36.875884,
+      "longitude": 27.203669
+    },
+    {
+      "name": "Βικέντιος",
+      "latitude": 38.004315,
+      "longitude": 23.812409
+    },
+    {
+      "name": "ΒΙΚΑΤΟΣ",
+      "latitude": 38.019162,
+      "longitude": 23.731438
+    },
+    {
+      "name": "Βιολογικό Κρεοπωλειό",
+      "latitude": 38.010547,
+      "longitude": 23.85548
+    },
+    {
+      "name": "Βλάσης",
+      "latitude": 40.260985,
+      "longitude": 23.219813
+    },
+    {
+      "name": "Γαζέπης",
+      "latitude": 39.637704,
+      "longitude": 22.411466
+    },
+    {
+      "name": "Γαλακτιδις",
+      "latitude": 40.962261,
+      "longitude": 24.513323
+    },
+    {
+      "name": "ΓΕΩΡΓΙΟΣ Α. ΛΑΓΟΥΔΑΚΗΣ",
+      "latitude": 35.217886,
+      "longitude": 24.535822
+    },
+    {
+      "name": "Γεωργιος Δρακος",
+      "latitude": 38.048398,
+      "longitude": 24.320966
+    },
+    {
+      "name": "Γεωργιος Τζουνης",
+      "latitude": 38.573349,
+      "longitude": 21.666321
+    },
+    {
+      "name": "Γεώργιος Αλεξόπουλος",
+      "latitude": 38.243099,
+      "longitude": 21.73372
+    },
+    {
+      "name": "Γεώργιος Λεωνίδα Ζουμης",
+      "latitude": 38.370601,
+      "longitude": 26.136821
+    },
+    {
+      "name": "Γη Ελασσόνας",
+      "latitude": 38.056321,
+      "longitude": 23.808027
+    },
+    {
+      "name": "Γιάννης και Στέλιος",
+      "latitude": 37.744766,
+      "longitude": 23.431998
+    },
+    {
+      "name": "Γιάννης Κατσανδρής",
+      "latitude": 38.084312,
+      "longitude": 23.738146
+    },
+    {
+      "name": "Γιαννακούλας",
+      "latitude": 38.764207,
+      "longitude": 23.319909
+    },
+    {
+      "name": "Γιαννακόπουλος Αθανάσιος",
+      "latitude": 37.973282,
+      "longitude": 23.77467
+    },
+    {
+      "name": "Γιαννόπουλος",
+      "latitude": 38.041424,
+      "longitude": 23.75202
+    },
+    {
+      "name": "Γιαχαλής",
+      "latitude": 38.023466,
+      "longitude": 23.747873
+    },
+    {
+      "name": "Γιολδάσης",
+      "latitude": 39.163829,
+      "longitude": 20.985354
+    },
+    {
+      "name": "Γιώργος",
+      "latitude": 41.149403,
+      "longitude": 24.150845
+    },
+    {
+      "name": "Γιώργος Σταμούλης",
+      "latitude": 38.035394,
+      "longitude": 23.677486
+    },
+    {
+      "name": "Γκιουλές",
+      "latitude": 37.632285,
+      "longitude": 22.734617
+    },
+    {
+      "name": "Γκιόκας Ηλίας",
+      "latitude": 37.975864,
+      "longitude": 23.653577
+    },
+    {
+      "name": "Γκουδίνας",
+      "latitude": 40.601069,
+      "longitude": 22.963332
+    },
+    {
+      "name": "Γκούστης",
+      "latitude": 38.002497,
+      "longitude": 23.719471
+    },
+    {
+      "name": "Γλούφτσιος Δημήτριος",
+      "latitude": 40.884642,
+      "longitude": 23.765813
+    },
+    {
+      "name": "Γουρνοπουλα",
+      "latitude": 37.639352,
+      "longitude": 22.733853
+    },
+    {
+      "name": "Γρύπαρης",
+      "latitude": 37.997219,
+      "longitude": 23.729854
+    },
+    {
+      "name": "Γόγολος Χρ.",
+      "latitude": 39.501828,
+      "longitude": 20.266592
+    },
+    {
+      "name": "Δήμητρας",
+      "latitude": 37.892342,
+      "longitude": 23.751913
+    },
+    {
+      "name": "Δήμτσας",
+      "latitude": 40.272368,
+      "longitude": 22.509159
+    },
+    {
+      "name": "Δαβουτης",
+      "latitude": 38.043031,
+      "longitude": 23.760089
+    },
+    {
+      "name": "Δαβούτης",
+      "latitude": 38.016414,
+      "longitude": 23.813096
+    },
+    {
+      "name": "Δασκαλάκης",
+      "latitude": 35.149914,
+      "longitude": 25.26453
+    },
+    {
+      "name": "Δεληκωστόπουλος",
+      "latitude": 38.572529,
+      "longitude": 21.66651
+    },
+    {
+      "name": "Δερμιτζάκης",
+      "latitude": 35.198646,
+      "longitude": 25.70643
+    },
+    {
+      "name": "Δημήτρης Ψυχιάς",
+      "latitude": 38.373259,
+      "longitude": 26.13415
+    },
+    {
+      "name": "Δημήτριος Καλέμος, Dimitrios Kalemos",
+      "latitude": 40.550084,
+      "longitude": 23.018979
+    },
+    {
+      "name": "Δημήτριος Παππάς",
+      "latitude": 39.162475,
+      "longitude": 20.985289
+    },
+    {
+      "name": "Δημαραάκης",
+      "latitude": 37.944759,
+      "longitude": 23.758584
+    },
+    {
+      "name": "Δημητριάδη",
+      "latitude": 38.03713,
+      "longitude": 23.750451
+    },
+    {
+      "name": "Δημητριάδης",
+      "latitude": 40.851135,
+      "longitude": 25.875728
+    },
+    {
+      "name": "Δημοτικό Σφαγείο",
+      "latitude": 37.57767,
+      "longitude": 25.206306
+    },
+    {
+      "name": "Δημόπουλος",
+      "latitude": 38.042799,
+      "longitude": 23.751455
+    },
+    {
+      "name": "Δον Μοσχαρ",
+      "latitude": 40.849967,
+      "longitude": 25.865853
+    },
+    {
+      "name": "Δουγένης",
+      "latitude": 38.015954,
+      "longitude": 23.733464
+    },
+    {
+      "name": "Δουγένης",
+      "latitude": 38.041506,
+      "longitude": 23.75198
+    },
+    {
+      "name": "Δούρος Γ",
+      "latitude": 38.392759,
+      "longitude": 21.838157
+    },
+    {
+      "name": "Δρακόπουλος Ψαρρός",
+      "latitude": 37.935105,
+      "longitude": 23.729461
+    },
+    {
+      "name": "Ειλικρίνεια",
+      "latitude": 40.666764,
+      "longitude": 22.897292
+    },
+    {
+      "name": "Ελάφι",
+      "latitude": 40.083284,
+      "longitude": 21.428558
+    },
+    {
+      "name": "Ελληνικά Κρεοπωλεία",
+      "latitude": 40.655246,
+      "longitude": 22.922202
+    },
+    {
+      "name": "Ελληνικό",
+      "latitude": 40.662593,
+      "longitude": 22.930546
+    },
+    {
+      "name": "Ελληνικόν",
+      "latitude": 40.675076,
+      "longitude": 22.927079
+    },
+    {
+      "name": "Ελληνικόν",
+      "latitude": 40.684959,
+      "longitude": 22.931705
+    },
+    {
+      "name": "Εμπορία Κρεάτων",
+      "latitude": 37.979825,
+      "longitude": 23.727878
+    },
+    {
+      "name": "Ερμής",
+      "latitude": 38.016339,
+      "longitude": 23.694128
+    },
+    {
+      "name": "ΕΥΑΓ. ΚΟΥΣΟΥΛΑΣ",
+      "latitude": 37.63433,
+      "longitude": 22.722157
+    },
+    {
+      "name": "Ευθυμίου Αθανάσιος",
+      "latitude": 40.52162,
+      "longitude": 21.262075
+    },
+    {
+      "name": "Ευθύμης",
+      "latitude": 40.937123,
+      "longitude": 24.401187
+    },
+    {
+      "name": "Ευσταθίου",
+      "latitude": 40.846155,
+      "longitude": 25.873718
+    },
+    {
+      "name": "Ευσταθίου",
+      "latitude": 40.852386,
+      "longitude": 25.894289
+    },
+    {
+      "name": "Ζαλοκώστας",
+      "latitude": 38.536995,
+      "longitude": 21.409877
+    },
+    {
+      "name": "Ζαφείρης",
+      "latitude": 38.019625,
+      "longitude": 23.731035
+    },
+    {
+      "name": "Ζιάκας",
+      "latitude": 38.889184,
+      "longitude": 22.438859
+    },
+    {
+      "name": "Ζιώγας",
+      "latitude": 39.639402,
+      "longitude": 22.421873
+    },
+    {
+      "name": "Ζωή και Κότα",
+      "latitude": 40.275731,
+      "longitude": 22.503837
+    },
+    {
+      "name": "Ζωγραφιά του κρέατος",
+      "latitude": 40.582544,
+      "longitude": 22.960042
+    },
+    {
+      "name": "Ζώτος",
+      "latitude": 39.495823,
+      "longitude": 20.264411
+    },
+    {
+      "name": "Η Αφθονία",
+      "latitude": 38.023373,
+      "longitude": 23.73664
+    },
+    {
+      "name": "Η Γαλάτιστα",
+      "latitude": 40.661389,
+      "longitude": 22.931801
+    },
+    {
+      "name": "Η Γούβα",
+      "latitude": 37.959993,
+      "longitude": 23.74085
+    },
+    {
+      "name": "Η Ειλικρίνεια",
+      "latitude": 37.064195,
+      "longitude": 25.485348
+    },
+    {
+      "name": "Η Ευρυτανία",
+      "latitude": 38.626931,
+      "longitude": 21.405906
+    },
+    {
+      "name": "Η Θεσσαλία",
+      "latitude": 38.006051,
+      "longitude": 23.719595
+    },
+    {
+      "name": "Η Καρδίτσα",
+      "latitude": 38.019172,
+      "longitude": 23.824735
+    },
+    {
+      "name": "Η Κεφαλλονιά",
+      "latitude": 37.939,
+      "longitude": 23.75705
+    },
+    {
+      "name": "Η Λαμία",
+      "latitude": 38.021482,
+      "longitude": 23.754981
+    },
+    {
+      "name": "Η Μάρπησσα",
+      "latitude": 37.042876,
+      "longitude": 25.247575
+    },
+    {
+      "name": "Η Μακρακώμη",
+      "latitude": 37.987931,
+      "longitude": 23.759353
+    },
+    {
+      "name": "Η Μυτιλήνη",
+      "latitude": 37.949641,
+      "longitude": 23.69885
+    },
+    {
+      "name": "Η Μύκονος",
+      "latitude": 37.929506,
+      "longitude": 23.632628
+    },
+    {
+      "name": "Η Ορεινή Νάξος",
+      "latitude": 38.014398,
+      "longitude": 23.749172
+    },
+    {
+      "name": "Η Παράδοση",
+      "latitude": 40.668513,
+      "longitude": 22.922196
+    },
+    {
+      "name": "Η Παραγωγή",
+      "latitude": 40.268312,
+      "longitude": 22.50891
+    },
+    {
+      "name": "Η Ρουμέλη",
+      "latitude": 37.89774,
+      "longitude": 21.313875
+    },
+    {
+      "name": "Η Σςπινητσα",
+      "latitude": 36.824272,
+      "longitude": 22.281185
+    },
+    {
+      "name": "Η Στάνη",
+      "latitude": 38.499403,
+      "longitude": 24.11059
+    },
+    {
+      "name": "Η στάνη",
+      "latitude": 40.945524,
+      "longitude": 22.450438
+    },
+    {
+      "name": "Η Φάρμα",
+      "latitude": 40.254315,
+      "longitude": 21.555653
+    },
+    {
+      "name": "Η φάρμα του Σάμπλου",
+      "latitude": 36.793409,
+      "longitude": 24.574282
+    },
+    {
+      "name": "Η Ωραία Βρία",
+      "latitude": 40.271921,
+      "longitude": 22.504177
+    },
+    {
+      "name": "Η Ωραία Μικρόπολη",
+      "latitude": 41.189664,
+      "longitude": 23.823463
+    },
+    {
+      "name": "Ηλίας",
+      "latitude": 41.097735,
+      "longitude": 24.113939
+    },
+    {
+      "name": "Θανάσης",
+      "latitude": 38.089,
+      "longitude": 23.739862
+    },
+    {
+      "name": "Θεοδωροπουλος",
+      "latitude": 37.484018,
+      "longitude": 21.905122
+    },
+    {
+      "name": "Θεοχάρης",
+      "latitude": 39.365384,
+      "longitude": 21.925064
+    },
+    {
+      "name": "Θύμης",
+      "latitude": 37.930733,
+      "longitude": 23.695599
+    },
+    {
+      "name": "Ι. Καραγιάννη",
+      "latitude": 38.905801,
+      "longitude": 22.125396
+    },
+    {
+      "name": "Ιακοβίδης",
+      "latitude": 38.018665,
+      "longitude": 23.731855
+    },
+    {
+      "name": "Ιορδάνης",
+      "latitude": 38.025514,
+      "longitude": 23.747781
+    },
+    {
+      "name": "Ιωάννης Κυλερτζής",
+      "latitude": 38.462598,
+      "longitude": 23.596038
+    },
+    {
+      "name": "ΙΩΑΝΝΗΣ ΜΠΟΖΟΝΕΛΟΣ Ε.Π.Ε.",
+      "latitude": 37.652738,
+      "longitude": 22.728689
+    },
+    {
+      "name": "Ιωαννης Ταρλας",
+      "latitude": 38.798927,
+      "longitude": 23.478515
+    },
+    {
+      "name": "Κ. Κοριντζελης",
+      "latitude": 38.572778,
+      "longitude": 21.665787
+    },
+    {
+      "name": "Κάρυστος",
+      "latitude": 38.004866,
+      "longitude": 23.822338
+    },
+    {
+      "name": "Κάσπαρης",
+      "latitude": 41.150332,
+      "longitude": 24.150548
+    },
+    {
+      "name": "Κέντρο Κρέατος",
+      "latitude": 37.635346,
+      "longitude": 22.724579
+    },
+    {
+      "name": "Κέντρο Κρέατος \"Ο Αστακός\" Μάκης Καρβούνης",
+      "latitude": 37.964307,
+      "longitude": 23.722651
+    },
+    {
+      "name": "Κακαλετρης Γ. Ιωαννης",
+      "latitude": 37.071546,
+      "longitude": 22.429751
+    },
+    {
+      "name": "Κακανούδη",
+      "latitude": 39.635709,
+      "longitude": 22.419708
+    },
+    {
+      "name": "Κακογιώργος",
+      "latitude": 38.945887,
+      "longitude": 21.957728
+    },
+    {
+      "name": "Κακουλη",
+      "latitude": 40.253324,
+      "longitude": 21.555733
+    },
+    {
+      "name": "Καλαϊτζίδη",
+      "latitude": 40.621198,
+      "longitude": 22.963805
+    },
+    {
+      "name": "Καλλιακμιανης",
+      "latitude": 38.57368,
+      "longitude": 21.666794
+    },
+    {
+      "name": "Καλλιμάνης",
+      "latitude": 37.977831,
+      "longitude": 23.761386
+    },
+    {
+      "name": "Καλογιάννη",
+      "latitude": 37.969111,
+      "longitude": 23.710687
+    },
+    {
+      "name": "Καλτσάς Σπύρος",
+      "latitude": 38.394432,
+      "longitude": 21.83513
+    },
+    {
+      "name": "Καπλατζής",
+      "latitude": 37.587144,
+      "longitude": 22.744962
+    },
+    {
+      "name": "Καράμπελας",
+      "latitude": 37.947745,
+      "longitude": 23.729547
+    },
+    {
+      "name": "Καραγιαννάκος",
+      "latitude": 37.072151,
+      "longitude": 22.433697
+    },
+    {
+      "name": "Καραθανάση - Κοτόπουλα",
+      "latitude": 40.646653,
+      "longitude": 22.949762
+    },
+    {
+      "name": "Καραλής",
+      "latitude": 39.641288,
+      "longitude": 22.42734
+    },
+    {
+      "name": "Καραλής",
+      "latitude": 40.850701,
+      "longitude": 25.860035
+    },
+    {
+      "name": "Καρελας",
+      "latitude": 38.807394,
+      "longitude": 23.231953
+    },
+    {
+      "name": "Καρύγευμα",
+      "latitude": 40.60028,
+      "longitude": 22.957622
+    },
+    {
+      "name": "Κασσάνος",
+      "latitude": 37.632124,
+      "longitude": 22.734662
+    },
+    {
+      "name": "Κατσάρας Γεώργιος",
+      "latitude": 40.270064,
+      "longitude": 22.528475
+    },
+    {
+      "name": "Κατσίμπρας",
+      "latitude": 37.93604,
+      "longitude": 24.012053
+    },
+    {
+      "name": "Κατσίρης",
+      "latitude": 37.636162,
+      "longitude": 22.728418
+    },
+    {
+      "name": "Κατσανδρής",
+      "latitude": 38.084474,
+      "longitude": 23.738288
+    },
+    {
+      "name": "Κατσούλας",
+      "latitude": 38.026147,
+      "longitude": 23.859373
+    },
+    {
+      "name": "ΚΑΥΚΑΛΑΣ",
+      "latitude": 35.362377,
+      "longitude": 24.259441
+    },
+    {
+      "name": "Κεκκές",
+      "latitude": 38.022148,
+      "longitude": 23.750276
+    },
+    {
+      "name": "Κεντρική Κρεαταγορά Θεσσαλονίκης",
+      "latitude": 40.656634,
+      "longitude": 22.885195
+    },
+    {
+      "name": "Κεροπωλείο Μπλάγκου",
+      "latitude": 40.691166,
+      "longitude": 23.003911
+    },
+    {
+      "name": "Κιάκιας",
+      "latitude": 39.393057,
+      "longitude": 20.07018
+    },
+    {
+      "name": "Κοκκοτου",
+      "latitude": 38.573474,
+      "longitude": 21.666697
+    },
+    {
+      "name": "Κοκοζη",
+      "latitude": 41.180861,
+      "longitude": 23.282408
+    },
+    {
+      "name": "Κομματας Αποστολος",
+      "latitude": 38.906928,
+      "longitude": 22.125479
+    },
+    {
+      "name": "Κοντοχρήστος",
+      "latitude": 37.948225,
+      "longitude": 23.677731
+    },
+    {
+      "name": "Κοντοχρήστος",
+      "latitude": 38.25812,
+      "longitude": 21.74576
+    },
+    {
+      "name": "Κοντοχρήστος",
+      "latitude": 39.36296,
+      "longitude": 22.947377
+    },
+    {
+      "name": "Κοντοχρήστος - Κοτόπουλα Ναυπάκτου",
+      "latitude": 37.63508,
+      "longitude": 22.732759
+    },
+    {
+      "name": "ΚΟΡΑΚΑΚΗΣ ΕΜΜΑΝΟΥΗΛ",
+      "latitude": 37.940135,
+      "longitude": 23.742776
+    },
+    {
+      "name": "Κορναράκης",
+      "latitude": 38.000782,
+      "longitude": 23.714691
+    },
+    {
+      "name": "Κοτογωνιά",
+      "latitude": 37.931743,
+      "longitude": 23.631805
+    },
+    {
+      "name": "Κοτοπουλα",
+      "latitude": 40.670738,
+      "longitude": 22.803874
+    },
+    {
+      "name": "Κοτοπουλα",
+      "latitude": 40.672185,
+      "longitude": 22.804699
+    },
+    {
+      "name": "Κοτόπουλα",
+      "latitude": 40.583688,
+      "longitude": 22.965344
+    },
+    {
+      "name": "Κοτόπουλα Αλέκος",
+      "latitude": 40.602005,
+      "longitude": 22.968376
+    },
+    {
+      "name": "Κοτόπουλα Βάσος",
+      "latitude": 41.151953,
+      "longitude": 24.151454
+    },
+    {
+      "name": "Κοτόπουλα Βασιλικών",
+      "latitude": 40.602112,
+      "longitude": 22.957257
+    },
+    {
+      "name": "Κοτόπουλα Εξοχής Αμβροσιάδη",
+      "latitude": 40.271153,
+      "longitude": 22.494128
+    },
+    {
+      "name": "Κοτόπουλα Καλαϊτζή",
+      "latitude": 40.649979,
+      "longitude": 22.943389
+    },
+    {
+      "name": "Κοτόπουλα Καραγιαννίδη",
+      "latitude": 40.267437,
+      "longitude": 22.524168
+    },
+    {
+      "name": "Κοτόπουλα Ναυπάκτου",
+      "latitude": 38.250049,
+      "longitude": 22.09031
+    },
+    {
+      "name": "Κοτόπουλα Ξυδούς",
+      "latitude": 40.270026,
+      "longitude": 22.513065
+    },
+    {
+      "name": "Κουμουτσεας",
+      "latitude": 38.450552,
+      "longitude": 24.113172
+    },
+    {
+      "name": "Κουρλέτης",
+      "latitude": 38.029545,
+      "longitude": 23.723215
+    },
+    {
+      "name": "Κουτίνας",
+      "latitude": 39.634046,
+      "longitude": 22.415308
+    },
+    {
+      "name": "ΚΟΥΤΡΟΥΦΙΝΗΣ",
+      "latitude": 37.625664,
+      "longitude": 22.745726
+    },
+    {
+      "name": "Κουτσοδόντης",
+      "latitude": 39.626757,
+      "longitude": 22.397165
+    },
+    {
+      "name": "ΚΟΦΙΝΑΣ",
+      "latitude": 38.46271,
+      "longitude": 23.598533
+    },
+    {
+      "name": "Κούρτης",
+      "latitude": 37.672973,
+      "longitude": 21.436259
+    },
+    {
+      "name": "Κρέατα Κ. Μηλιάς Καραγιώργου",
+      "latitude": 40.268802,
+      "longitude": 22.500522
+    },
+    {
+      "name": "Κρέατα Φλώρινας",
+      "latitude": 38.007353,
+      "longitude": 23.827562
+    },
+    {
+      "name": "Κρέατος Τέχνη",
+      "latitude": 40.601847,
+      "longitude": 22.962506
+    },
+    {
+      "name": "Κρήτος",
+      "latitude": 40.03334,
+      "longitude": 23.476471
+    },
+    {
+      "name": "Κρε-Παν",
+      "latitude": 37.979659,
+      "longitude": 23.640099
+    },
+    {
+      "name": "ΚΡΕ-ΠΑΠ",
+      "latitude": 38.037267,
+      "longitude": 23.693171
+    },
+    {
+      "name": "Κρεας Delicato",
+      "latitude": 37.937026,
+      "longitude": 23.698904
+    },
+    {
+      "name": "ΚΡΕΑΤΑ ΑΧΑΙΑΣ Μανίκας Βασίλειος",
+      "latitude": 38.238293,
+      "longitude": 21.732842
+    },
+    {
+      "name": "ΚΡΕΑΤΑ ΜΑΚΕΔΟΝΙΑΣ",
+      "latitude": 40.661004,
+      "longitude": 22.85932
+    },
+    {
+      "name": "ΚΡΕΑΤΑ ΜΑΚΕΔΟΝΙΑΣ",
+      "latitude": 40.66934,
+      "longitude": 22.894321
+    },
+    {
+      "name": "Κρεατα Φλωρινας",
+      "latitude": 38.01902,
+      "longitude": 24.003364
+    },
+    {
+      "name": "Κρεαταγορά",
+      "latitude": 37.940054,
+      "longitude": 22.931325
+    },
+    {
+      "name": "Κρεαταγορά",
+      "latitude": 38.087218,
+      "longitude": 23.705947
+    },
+    {
+      "name": "Κρεαταγορά",
+      "latitude": 38.370888,
+      "longitude": 23.107794
+    },
+    {
+      "name": "Κρεαταγορά  ΚΙΛΙΚΊΔΗ",
+      "latitude": 40.621856,
+      "longitude": 22.969668
+    },
+    {
+      "name": "Κρεαταγορά \"Boucherie\"",
+      "latitude": 40.468331,
+      "longitude": 22.993922
+    },
+    {
+      "name": "Κρεαταγορά \"Ο Σερραίος\"",
+      "latitude": 40.60846,
+      "longitude": 22.973805
+    },
+    {
+      "name": "Κρεαταγορά - Παναγιώτης Λαμπρόπουλος",
+      "latitude": 38.084737,
+      "longitude": 23.719831
+    },
+    {
+      "name": "Κρεαταγορά Αθ. Σαμολαδάς",
+      "latitude": 37.974251,
+      "longitude": 23.766173
+    },
+    {
+      "name": "Κρεαταγορά Αριδαίος",
+      "latitude": 40.600315,
+      "longitude": 22.960782
+    },
+    {
+      "name": "Κρεαταγορά Βασίλουδη",
+      "latitude": 40.43238,
+      "longitude": 22.928261
+    },
+    {
+      "name": "Κρεαταγορά Βλαστός",
+      "latitude": 35.147591,
+      "longitude": 25.265155
+    },
+    {
+      "name": "Κρεαταγορά Βότση",
+      "latitude": 40.584272,
+      "longitude": 22.967194
+    },
+    {
+      "name": "Κρεαταγορά Γιαμαλάκης",
+      "latitude": 35.147022,
+      "longitude": 25.265393
+    },
+    {
+      "name": "Κρεαταγορά Δίου-Ολύμπου",
+      "latitude": 40.262784,
+      "longitude": 22.505296
+    },
+    {
+      "name": "Κρεαταγορά Διοματάς",
+      "latitude": 35.369533,
+      "longitude": 24.703762
+    },
+    {
+      "name": "Κρεαταγορά Ζήσης",
+      "latitude": 40.272224,
+      "longitude": 22.503605
+    },
+    {
+      "name": "Κρεαταγορά Θρακομακεδόνων",
+      "latitude": 38.119785,
+      "longitude": 23.75022
+    },
+    {
+      "name": "Κρεαταγορά Κρήνης",
+      "latitude": 40.57297,
+      "longitude": 22.95474
+    },
+    {
+      "name": "Κρεαταγορά Μπαλτάς",
+      "latitude": 37.940194,
+      "longitude": 23.764575
+    },
+    {
+      "name": "Κρεαταγορά Νάξου",
+      "latitude": 38.07545,
+      "longitude": 23.705135
+    },
+    {
+      "name": "Κρεαταγορά Νιγρίτα",
+      "latitude": 40.598339,
+      "longitude": 22.955184
+    },
+    {
+      "name": "Κρεαταγορά Τσεντίδης",
+      "latitude": 40.276092,
+      "longitude": 22.506554
+    },
+    {
+      "name": "Κρεαταγορά Φουρκιώτη",
+      "latitude": 40.270747,
+      "longitude": 22.506
+    },
+    {
+      "name": "ΚΡΕΑΤΑΓΟΡΑ ΜΠΟΡΜΠΟΥΔΑΚΗ",
+      "latitude": 35.328395,
+      "longitude": 25.307027
+    },
+    {
+      "name": "Κρεαταγόρα Κορυδαλλού",
+      "latitude": 37.976719,
+      "longitude": 23.644743
+    },
+    {
+      "name": "Κρεατεμπορική Δρεπάνου",
+      "latitude": 37.543832,
+      "longitude": 22.889673
+    },
+    {
+      "name": "Κρεατοζωεμπορική",
+      "latitude": 37.071998,
+      "longitude": 22.432938
+    },
+    {
+      "name": "Κρεατοτεχνείο",
+      "latitude": 35.207847,
+      "longitude": 26.105602
+    },
+    {
+      "name": "Κρεατοτεχνείο Αττικής",
+      "latitude": 38.026994,
+      "longitude": 23.732559
+    },
+    {
+      "name": "Κρεατούπολη",
+      "latitude": 37.926439,
+      "longitude": 23.692717
+    },
+    {
+      "name": "Κρεατόκοσμος",
+      "latitude": 38.016952,
+      "longitude": 23.691981
+    },
+    {
+      "name": "ΚΡΕΚΑ Α.Ε.",
+      "latitude": 40.940179,
+      "longitude": 24.403342
+    },
+    {
+      "name": "Κρεογνωσία",
+      "latitude": 40.63509,
+      "longitude": 22.941504
+    },
+    {
+      "name": "Κρεοπολειο",
+      "latitude": 39.661439,
+      "longitude": 19.838239
+    },
+    {
+      "name": "Κρεοπολειο",
+      "latitude": 40.668348,
+      "longitude": 22.80543
+    },
+    {
+      "name": "Κρεοπολειο",
+      "latitude": 40.668824,
+      "longitude": 22.805256
+    },
+    {
+      "name": "ΚΡΕΟΠΟΛΕΙΟ",
+      "latitude": 41.6473,
+      "longitude": 26.179314
+    },
+    {
+      "name": "ΚΡΕΟΠΟΛΕΙΟ Χελιωσης",
+      "latitude": 37.540373,
+      "longitude": 22.89293
+    },
+    {
+      "name": "Κρεοπωλεία Σκευαράκη",
+      "latitude": 40.604449,
+      "longitude": 22.955877
+    },
+    {
+      "name": "Κρεοπωλείο",
+      "latitude": 35.512817,
+      "longitude": 24.031056
+    },
+    {
+      "name": "Κρεοπωλείο",
+      "latitude": 38.046135,
+      "longitude": 23.775734
+    },
+    {
+      "name": "Κρεοπωλείο",
+      "latitude": 38.27163,
+      "longitude": 21.831761
+    },
+    {
+      "name": "Κρεοπωλείο",
+      "latitude": 38.600296,
+      "longitude": 21.791792
+    },
+    {
+      "name": "Κρεοπωλείο \"Κοντάκης\"",
+      "latitude": 38.098507,
+      "longitude": 23.810757
+    },
+    {
+      "name": "Κρεοπωλείο \"ΜΑΡΓΑΡΙΤΗΣ\"",
+      "latitude": 39.528108,
+      "longitude": 21.440084
+    },
+    {
+      "name": "Κρεοπωλείο \"Ο Σοχός\"",
+      "latitude": 40.599532,
+      "longitude": 22.963777
+    },
+    {
+      "name": "Κρεοπωλείο 33",
+      "latitude": 39.990094,
+      "longitude": 23.60789
+    },
+    {
+      "name": "Κρεοπωλείο «Μπαντής Ιωάννης»",
+      "latitude": 39.407574,
+      "longitude": 20.244685
+    },
+    {
+      "name": "Κρεοπωλείο αλά ελληνικά",
+      "latitude": 40.595859,
+      "longitude": 22.960804
+    },
+    {
+      "name": "Κρεοπωλείο Απόστολος",
+      "latitude": 40.957639,
+      "longitude": 25.369865
+    },
+    {
+      "name": "Κρεοπωλείο ΒΓ Πατεράκη",
+      "latitude": 35.495316,
+      "longitude": 23.653887
+    },
+    {
+      "name": "Κρεοπωλείο Βεινόγλου",
+      "latitude": 40.598865,
+      "longitude": 22.952728
+    },
+    {
+      "name": "Κρεοπωλείο Βλάχος",
+      "latitude": 38.755064,
+      "longitude": 20.719913
+    },
+    {
+      "name": "Κρεοπωλείο Βογιατζής",
+      "latitude": 38.468434,
+      "longitude": 23.60005
+    },
+    {
+      "name": "Κρεοπωλείο Γεωργίου Εμμ. Καδιανάκη",
+      "latitude": 35.013358,
+      "longitude": 25.000193
+    },
+    {
+      "name": "Κρεοπωλείο Γιαννόπουλος",
+      "latitude": 37.288055,
+      "longitude": 21.817872
+    },
+    {
+      "name": "Κρεοπωλείο Γκιόκας Γεώργιος",
+      "latitude": 38.046156,
+      "longitude": 22.586482
+    },
+    {
+      "name": "Κρεοπωλείο Δημήτρης",
+      "latitude": 38.024997,
+      "longitude": 23.808703
+    },
+    {
+      "name": "Κρεοπωλείο Δημήτρης",
+      "latitude": 40.631419,
+      "longitude": 22.951271
+    },
+    {
+      "name": "Κρεοπωλείο Θεοδούλα Γκαβανούδη",
+      "latitude": 39.362949,
+      "longitude": 22.946321
+    },
+    {
+      "name": "Κρεοπωλείο Καλοφουτης",
+      "latitude": 37.883473,
+      "longitude": 23.933106
+    },
+    {
+      "name": "Κρεοπωλείο Καμπούκος",
+      "latitude": 37.288608,
+      "longitude": 21.818161
+    },
+    {
+      "name": "Κρεοπωλείο Κεσανλής",
+      "latitude": 40.270114,
+      "longitude": 22.491542
+    },
+    {
+      "name": "Κρεοπωλείο Κοντάκης",
+      "latitude": 38.140282,
+      "longitude": 23.860127
+    },
+    {
+      "name": "Κρεοπωλείο Κουτσαλεδάκης",
+      "latitude": 35.35932,
+      "longitude": 24.572416
+    },
+    {
+      "name": "Κρεοπωλείο Λαμπριανίδη",
+      "latitude": 40.607128,
+      "longitude": 22.961506
+    },
+    {
+      "name": "Κρεοπωλείο Λυμπέρης",
+      "latitude": 36.849653,
+      "longitude": 22.666139
+    },
+    {
+      "name": "Κρεοπωλείο Μεταξάκης",
+      "latitude": 35.358848,
+      "longitude": 24.572503
+    },
+    {
+      "name": "Κρεοπωλείο Μπιτόπουλος",
+      "latitude": 40.272345,
+      "longitude": 22.511999
+    },
+    {
+      "name": "Κρεοπωλείο Μπουζούκας",
+      "latitude": 41.049489,
+      "longitude": 23.687681
+    },
+    {
+      "name": "Κρεοπωλείο Ο Σταύρος",
+      "latitude": 40.585203,
+      "longitude": 22.960187
+    },
+    {
+      "name": "Κρεοπωλείο Περί ανέμων και κρεάτων",
+      "latitude": 40.48617,
+      "longitude": 21.13463
+    },
+    {
+      "name": "Κρεοπωλείο Σούζας Ταξ",
+      "latitude": 38.392649,
+      "longitude": 21.827791
+    },
+    {
+      "name": "Κρεοπωλείο Σταμαδιάνου",
+      "latitude": 36.802617,
+      "longitude": 22.852536
+    },
+    {
+      "name": "Κρεοπωλείο Συτιλίδης",
+      "latitude": 40.52533,
+      "longitude": 21.120068
+    },
+    {
+      "name": "Κρεοπωλείο Τερτίπης",
+      "latitude": 38.860387,
+      "longitude": 23.39696
+    },
+    {
+      "name": "Κρεοπωλείο Φάρμα Γκότση",
+      "latitude": 37.288759,
+      "longitude": 21.817319
+    },
+    {
+      "name": "Κρεοπωλείο-Ψητοπολείο (γυρομανία)",
+      "latitude": 39.007002,
+      "longitude": 23.209749
+    },
+    {
+      "name": "Κρεοπωλείον Γαλακτοκομικά \"Ο Κουτσούπης\"",
+      "latitude": 35.430093,
+      "longitude": 24.156051
+    },
+    {
+      "name": "Κρεοπωλείον Μαρία Ρουσακη",
+      "latitude": 38.260827,
+      "longitude": 25.922003
+    },
+    {
+      "name": "ΚΡΕΟΠΩΛΕΙΟ",
+      "latitude": 35.511129,
+      "longitude": 24.010844
+    },
+    {
+      "name": "ΚΡΕΟΠΩΛΕΙΟ",
+      "latitude": 35.522709,
+      "longitude": 23.847802
+    },
+    {
+      "name": "ΚΡΕΟΠΩΛΕΙΟ",
+      "latitude": 37.521528,
+      "longitude": 22.859269
+    },
+    {
+      "name": "Κρεοπωλειο",
+      "latitude": 39.147511,
+      "longitude": 23.865065
+    },
+    {
+      "name": "Κρεοπωλειο",
+      "latitude": 40.665223,
+      "longitude": 23.694945
+    },
+    {
+      "name": "Κρεοπωλειο Α. Τσιρωνη",
+      "latitude": 40.70757,
+      "longitude": 24.534372
+    },
+    {
+      "name": "ΚΡΕΟΠΩΛΕΙΟ ΕΛΑΣΣΟΝΑΣ",
+      "latitude": 39.895027,
+      "longitude": 22.183937
+    },
+    {
+      "name": "ΚΡΕΟΠΩΛΕΙΟ ΙΩΑΝΝΙΔΗΣ ΑΝΤΩΝΗΣ",
+      "latitude": 37.959586,
+      "longitude": 23.735576
+    },
+    {
+      "name": "ΚΡΕΟΠΩΛΕΙΟ ΜΑΝΩΛΕΣ",
+      "latitude": 35.510025,
+      "longitude": 24.029758
+    },
+    {
+      "name": "Κρεοπωλειο Πετροπουλος",
+      "latitude": 38.238878,
+      "longitude": 21.733878
+    },
+    {
+      "name": "Κρεοπωλειον",
+      "latitude": 36.418145,
+      "longitude": 25.431914
+    },
+    {
+      "name": "ΚΡΕΠΑΠ",
+      "latitude": 38.022004,
+      "longitude": 23.694043
+    },
+    {
+      "name": "Κρεώπολις",
+      "latitude": 40.6708,
+      "longitude": 22.90479
+    },
+    {
+      "name": "Κρητικός",
+      "latitude": 35.208777,
+      "longitude": 26.103109
+    },
+    {
+      "name": "Κτήμα Κρίσκιος",
+      "latitude": 37.034675,
+      "longitude": 22.127948
+    },
+    {
+      "name": "Κυρίτσης",
+      "latitude": 37.963668,
+      "longitude": 22.638887
+    },
+    {
+      "name": "Κυριακάκης",
+      "latitude": 38.055318,
+      "longitude": 23.807771
+    },
+    {
+      "name": "Κυριακόπουλος",
+      "latitude": 35.365793,
+      "longitude": 24.507517
+    },
+    {
+      "name": "Κων. Ταρλας",
+      "latitude": 38.799152,
+      "longitude": 23.479303
+    },
+    {
+      "name": "Κωνσταντίνος Αναγνωστόπουλος",
+      "latitude": 38.437092,
+      "longitude": 21.353217
+    },
+    {
+      "name": "Κωστάρας Βασίλειος",
+      "latitude": 40.502405,
+      "longitude": 21.246039
+    },
+    {
+      "name": "Κωστογιάννης κοτόπουλα",
+      "latitude": 38.394407,
+      "longitude": 21.833618
+    },
+    {
+      "name": "Κωστόπουλος",
+      "latitude": 38.259108,
+      "longitude": 21.750669
+    },
+    {
+      "name": "Κόγιας",
+      "latitude": 39.369472,
+      "longitude": 22.945154
+    },
+    {
+      "name": "Κόκκορας",
+      "latitude": 39.635221,
+      "longitude": 22.428198
+    },
+    {
+      "name": "Κόντος",
+      "latitude": 37.540207,
+      "longitude": 22.892775
+    },
+    {
+      "name": "Κόσσυβας",
+      "latitude": 37.627196,
+      "longitude": 22.718864
+    },
+    {
+      "name": "Λάμπρος",
+      "latitude": 38.573014,
+      "longitude": 23.829153
+    },
+    {
+      "name": "Λίτσας",
+      "latitude": 38.029938,
+      "longitude": 23.779804
+    },
+    {
+      "name": "Λαβράνος",
+      "latitude": 39.622137,
+      "longitude": 19.918079
+    },
+    {
+      "name": "ΛΑΓΚΑΔΑΣ",
+      "latitude": 39.988175,
+      "longitude": 23.615065
+    },
+    {
+      "name": "Λαμπέλλης",
+      "latitude": 39.075845,
+      "longitude": 26.571863
+    },
+    {
+      "name": "Λαναράς",
+      "latitude": 39.643623,
+      "longitude": 22.415982
+    },
+    {
+      "name": "Λεβέντης",
+      "latitude": 37.963476,
+      "longitude": 23.658878
+    },
+    {
+      "name": "Λεσβιακή Κρεαταγορά",
+      "latitude": 39.10429,
+      "longitude": 26.552824
+    },
+    {
+      "name": "Λουκάς Κολίτας",
+      "latitude": 37.975025,
+      "longitude": 23.764682
+    },
+    {
+      "name": "Λυκογεώργιος",
+      "latitude": 38.524997,
+      "longitude": 21.474045
+    },
+    {
+      "name": "Μ & Μ",
+      "latitude": 37.935604,
+      "longitude": 22.925991
+    },
+    {
+      "name": "Μάκης",
+      "latitude": 40.610371,
+      "longitude": 22.984921
+    },
+    {
+      "name": "Μάλλιαρης",
+      "latitude": 37.945403,
+      "longitude": 23.643541
+    },
+    {
+      "name": "Μάρκετ Κρεάτων",
+      "latitude": 37.716896,
+      "longitude": 24.054485
+    },
+    {
+      "name": "Μίλτος",
+      "latitude": 40.718945,
+      "longitude": 23.705791
+    },
+    {
+      "name": "Μίσκος",
+      "latitude": 40.621606,
+      "longitude": 22.968497
+    },
+    {
+      "name": "Μίχος",
+      "latitude": 38.907025,
+      "longitude": 22.430811
+    },
+    {
+      "name": "Μαγγίνας",
+      "latitude": 38.121076,
+      "longitude": 23.860191
+    },
+    {
+      "name": "ΜΑΚΡΗ",
+      "latitude": 38.394218,
+      "longitude": 21.831573
+    },
+    {
+      "name": "Μαλεβος",
+      "latitude": 37.945528,
+      "longitude": 23.643303
+    },
+    {
+      "name": "ΜΑΛΛΙΑΡΟΣ ΚΩΣΤΑΣ ΤΟΥ ΕΥΑΓΓΕΛΟΥ",
+      "latitude": 38.99918,
+      "longitude": 22.925916
+    },
+    {
+      "name": "Μαλλιόπουλος",
+      "latitude": 37.673589,
+      "longitude": 21.436651
+    },
+    {
+      "name": "Μαλτέζας Βαγγέλης",
+      "latitude": 40.607816,
+      "longitude": 22.972106
+    },
+    {
+      "name": "Μανώλης",
+      "latitude": 35.186321,
+      "longitude": 24.403158
+    },
+    {
+      "name": "Μανώλης Μανωλάκης - Ντόπια Κρέατα",
+      "latitude": 38.368701,
+      "longitude": 26.133937
+    },
+    {
+      "name": "Μαρής",
+      "latitude": 35.370291,
+      "longitude": 24.703445
+    },
+    {
+      "name": "Μαραγιάννης",
+      "latitude": 38.573043,
+      "longitude": 21.666725
+    },
+    {
+      "name": "Μαργαρίτης",
+      "latitude": 38.377006,
+      "longitude": 22.631682
+    },
+    {
+      "name": "Μαργιαννης",
+      "latitude": 38.573951,
+      "longitude": 21.667149
+    },
+    {
+      "name": "Μαρούκας Αναστάσιος",
+      "latitude": 38.076358,
+      "longitude": 23.495937
+    },
+    {
+      "name": "Ματθιόπουλος",
+      "latitude": 37.944759,
+      "longitude": 23.650472
+    },
+    {
+      "name": "Ματσάς",
+      "latitude": 40.849257,
+      "longitude": 25.879996
+    },
+    {
+      "name": "Ματσούκης",
+      "latitude": 40.731105,
+      "longitude": 22.921654
+    },
+    {
+      "name": "Μαυρομανωλακης",
+      "latitude": 35.018326,
+      "longitude": 24.808495
+    },
+    {
+      "name": "Μελέτης",
+      "latitude": 37.906561,
+      "longitude": 23.75372
+    },
+    {
+      "name": "Μελέτης",
+      "latitude": 38.052984,
+      "longitude": 23.730326
+    },
+    {
+      "name": "ΜΕΡΑΚΛΗΣ",
+      "latitude": 39.942034,
+      "longitude": 23.669233
+    },
+    {
+      "name": "Μηλιας",
+      "latitude": 40.671603,
+      "longitude": 22.804361
+    },
+    {
+      "name": "Μικἐλη",
+      "latitude": 37.483134,
+      "longitude": 21.903616
+    },
+    {
+      "name": "ΜΙΧ. ΜΑΡΙΝΑΚΗΣ",
+      "latitude": 35.216602,
+      "longitude": 24.53527
+    },
+    {
+      "name": "Μιχάλης",
+      "latitude": 37.085461,
+      "longitude": 25.153757
+    },
+    {
+      "name": "Μιχάλης",
+      "latitude": 40.634447,
+      "longitude": 22.944073
+    },
+    {
+      "name": "Μιχάλης",
+      "latitude": 40.635162,
+      "longitude": 22.941848
+    },
+    {
+      "name": "Μιχάλης - Κρεοπωλείο",
+      "latitude": 37.96748,
+      "longitude": 23.754099
+    },
+    {
+      "name": "Μιχαήλαρος",
+      "latitude": 39.247283,
+      "longitude": 26.271901
+    },
+    {
+      "name": "Μορέντζος",
+      "latitude": 37.967091,
+      "longitude": 23.703952
+    },
+    {
+      "name": "Μοσχοβάκης",
+      "latitude": 38.265048,
+      "longitude": 21.746361
+    },
+    {
+      "name": "Μοσχολιός",
+      "latitude": 37.935098,
+      "longitude": 23.641704
+    },
+    {
+      "name": "Μουστάκας",
+      "latitude": 40.471801,
+      "longitude": 22.957344
+    },
+    {
+      "name": "Μουστακάς",
+      "latitude": 39.988994,
+      "longitude": 23.612541
+    },
+    {
+      "name": "Μπέλλας Κρέας",
+      "latitude": 40.60849,
+      "longitude": 22.96757
+    },
+    {
+      "name": "Μπέλλος",
+      "latitude": 38.033466,
+      "longitude": 23.753559
+    },
+    {
+      "name": "Μπέλλος",
+      "latitude": 38.499793,
+      "longitude": 24.110293
+    },
+    {
+      "name": "Μπέλτσιος Σπύρος",
+      "latitude": 39.637993,
+      "longitude": 22.408803
+    },
+    {
+      "name": "Μπαλτάς",
+      "latitude": 37.966783,
+      "longitude": 23.712384
+    },
+    {
+      "name": "ΜΠΑΡΚΑΣ Ν",
+      "latitude": 36.876575,
+      "longitude": 27.205716
+    },
+    {
+      "name": "Μπαϊράμογλου",
+      "latitude": 39.632512,
+      "longitude": 22.425271
+    },
+    {
+      "name": "Μπεκρής Ιω.",
+      "latitude": 36.999916,
+      "longitude": 21.682
+    },
+    {
+      "name": "ΜΠΕΛΛΗΣ",
+      "latitude": 40.780044,
+      "longitude": 21.405937
+    },
+    {
+      "name": "Μπιτόπουλος",
+      "latitude": 40.271428,
+      "longitude": 22.509228
+    },
+    {
+      "name": "Μπιτόπουλος",
+      "latitude": 40.275151,
+      "longitude": 22.511529
+    },
+    {
+      "name": "Μπιτόπουλος",
+      "latitude": 40.279524,
+      "longitude": 22.496886
+    },
+    {
+      "name": "Μπλετσοηλγιάννης",
+      "latitude": 39.458785,
+      "longitude": 21.621738
+    },
+    {
+      "name": "Μποζονέλος",
+      "latitude": 37.635797,
+      "longitude": 22.726504
+    },
+    {
+      "name": "Μποζούδης Νικόλαος",
+      "latitude": 40.938783,
+      "longitude": 24.403401
+    },
+    {
+      "name": "Μπουζάκης",
+      "latitude": 35.514473,
+      "longitude": 24.027051
+    },
+    {
+      "name": "Μπουκαράς Χρήστος",
+      "latitude": 37.634048,
+      "longitude": 22.726816
+    },
+    {
+      "name": "Μπουρουτζίδης",
+      "latitude": 40.852771,
+      "longitude": 25.870266
+    },
+    {
+      "name": "Μπουτίκ Κρεάτων Πάσχος",
+      "latitude": 40.607056,
+      "longitude": 22.967184
+    },
+    {
+      "name": "Μπουτίκ Κρεατόν",
+      "latitude": 40.248744,
+      "longitude": 23.694025
+    },
+    {
+      "name": "Μπουτικ Κρεατων Κώστας",
+      "latitude": 40.017519,
+      "longitude": 23.525325
+    },
+    {
+      "name": "Μπριντζίκης",
+      "latitude": 38.015409,
+      "longitude": 23.758143
+    },
+    {
+      "name": "Μπόλης",
+      "latitude": 41.000732,
+      "longitude": 22.567989
+    },
+    {
+      "name": "Μπόρας",
+      "latitude": 41.254223,
+      "longitude": 23.073283
+    },
+    {
+      "name": "Μπάρλος",
+      "latitude": 38.18027,
+      "longitude": 21.68629
+    },
+    {
+      "name": "Μυτιληνιός",
+      "latitude": 37.965952,
+      "longitude": 23.638906
+    },
+    {
+      "name": "Μόσχου",
+      "latitude": 40.614503,
+      "longitude": 22.961868
+    },
+    {
+      "name": "Ν. Τσέλιος",
+      "latitude": 40.527597,
+      "longitude": 23.762362
+    },
+    {
+      "name": "Νέα Αγορά",
+      "latitude": 40.597907,
+      "longitude": 22.957228
+    },
+    {
+      "name": "Νίκος Ζαφείρης",
+      "latitude": 38.370251,
+      "longitude": 26.136681
+    },
+    {
+      "name": "ΝΕΟ ΚΡΕΟΠΩΛΕΙΟ - ΧΟΝΔΡΟΣ ΣΤΑΜΑΤΗΣ",
+      "latitude": 36.875093,
+      "longitude": 27.201202
+    },
+    {
+      "name": "Νικηφόρος",
+      "latitude": 37.985653,
+      "longitude": 23.764407
+    },
+    {
+      "name": "Νικολούδης",
+      "latitude": 35.016233,
+      "longitude": 24.781836
+    },
+    {
+      "name": "Νικόλας",
+      "latitude": 37.932002,
+      "longitude": 23.699315
+    },
+    {
+      "name": "Νιώτης",
+      "latitude": 38.012576,
+      "longitude": 23.752707
+    },
+    {
+      "name": "Ντάρας",
+      "latitude": 37.041811,
+      "longitude": 25.251693
+    },
+    {
+      "name": "Ξένος",
+      "latitude": 35.19519,
+      "longitude": 25.713268
+    },
+    {
+      "name": "Ξενοφών Lady Butcher",
+      "latitude": 40.640507,
+      "longitude": 23.024802
+    },
+    {
+      "name": "Ξυδούς Η.",
+      "latitude": 40.272274,
+      "longitude": 22.512363
+    },
+    {
+      "name": "Ο Άγγελος",
+      "latitude": 38.009688,
+      "longitude": 23.737613
+    },
+    {
+      "name": "Ο Αντώνης",
+      "latitude": 38.033698,
+      "longitude": 23.759437
+    },
+    {
+      "name": "Ο Βαρόσοβα",
+      "latitude": 38.375859,
+      "longitude": 21.629531
+    },
+    {
+      "name": "Ο Βασίλης",
+      "latitude": 38.033349,
+      "longitude": 23.763145
+    },
+    {
+      "name": "Ο Γιάννης",
+      "latitude": 37.986965,
+      "longitude": 23.737786
+    },
+    {
+      "name": "Ο Γιάννης",
+      "latitude": 40.612048,
+      "longitude": 22.959162
+    },
+    {
+      "name": "Ο Θανάσης",
+      "latitude": 38.015437,
+      "longitude": 23.834192
+    },
+    {
+      "name": "Ο Θωμάς",
+      "latitude": 37.998341,
+      "longitude": 23.740893
+    },
+    {
+      "name": "Ο Θόδωρας",
+      "latitude": 37.947309,
+      "longitude": 23.736431
+    },
+    {
+      "name": "Ο Κρητικός",
+      "latitude": 38.02436,
+      "longitude": 23.722353
+    },
+    {
+      "name": "Ο κόμβος Καρκανοραχάκης",
+      "latitude": 35.48796,
+      "longitude": 24.072565
+    },
+    {
+      "name": "Ο Κώστας",
+      "latitude": 36.687128,
+      "longitude": 23.036871
+    },
+    {
+      "name": "Ο Κώστας",
+      "latitude": 37.99963,
+      "longitude": 23.729259
+    },
+    {
+      "name": "Ο Λευτέρης",
+      "latitude": 37.945478,
+      "longitude": 23.643386
+    },
+    {
+      "name": "Ο Λεωνίδας",
+      "latitude": 38.03196,
+      "longitude": 23.761324
+    },
+    {
+      "name": "Ο Λιάκος",
+      "latitude": 41.020239,
+      "longitude": 23.484218
+    },
+    {
+      "name": "Ο Μανώλης",
+      "latitude": 37.999133,
+      "longitude": 23.718387
+    },
+    {
+      "name": "Ο Μαρίνος",
+      "latitude": 38.000933,
+      "longitude": 23.740197
+    },
+    {
+      "name": "Ο Ματθαίος",
+      "latitude": 37.931325,
+      "longitude": 23.634318
+    },
+    {
+      "name": "ο Μερακλής",
+      "latitude": 40.050127,
+      "longitude": 23.413723
+    },
+    {
+      "name": "Ο Μπάμπης",
+      "latitude": 38.290503,
+      "longitude": 23.82431
+    },
+    {
+      "name": "Ο Μπέμπης",
+      "latitude": 41.074702,
+      "longitude": 24.246466
+    },
+    {
+      "name": "Ο Μπαρμπα Νίκος",
+      "latitude": 38.376973,
+      "longitude": 22.630735
+    },
+    {
+      "name": "Ο Νίκος",
+      "latitude": 37.99604,
+      "longitude": 23.717989
+    },
+    {
+      "name": "Ο Πάρης",
+      "latitude": 37.936997,
+      "longitude": 23.714606
+    },
+    {
+      "name": "Ο Παίονας",
+      "latitude": 40.946219,
+      "longitude": 22.451719
+    },
+    {
+      "name": "Ο Παναγιώτης",
+      "latitude": 37.947095,
+      "longitude": 23.668644
+    },
+    {
+      "name": "Ο Παρνωνας",
+      "latitude": 37.167544,
+      "longitude": 22.858783
+    },
+    {
+      "name": "Ο Παύλος",
+      "latitude": 39.112728,
+      "longitude": 26.551507
+    },
+    {
+      "name": "Ο Πηνειώτης",
+      "latitude": 37.856434,
+      "longitude": 21.456746
+    },
+    {
+      "name": "Ο Πλάτανος",
+      "latitude": 37.809278,
+      "longitude": 23.976174
+    },
+    {
+      "name": "Ο Πλάτανος",
+      "latitude": 40.946624,
+      "longitude": 22.453222
+    },
+    {
+      "name": "Ο Σάββας",
+      "latitude": 40.649236,
+      "longitude": 22.926127
+    },
+    {
+      "name": "Ο σακησ",
+      "latitude": 40.250206,
+      "longitude": 23.248594
+    },
+    {
+      "name": "Ο Σολακας",
+      "latitude": 37.437588,
+      "longitude": 24.935812
+    },
+    {
+      "name": "Ο Σοχός",
+      "latitude": 40.615638,
+      "longitude": 22.97657
+    },
+    {
+      "name": "Ο Σπύρος",
+      "latitude": 40.605146,
+      "longitude": 22.968248
+    },
+    {
+      "name": "Ο Στέλιος",
+      "latitude": 38.008392,
+      "longitude": 23.856252
+    },
+    {
+      "name": "Ο Στέφανος",
+      "latitude": 40.465287,
+      "longitude": 23.378363
+    },
+    {
+      "name": "Ο Σταμάτης",
+      "latitude": 37.930732,
+      "longitude": 23.642792
+    },
+    {
+      "name": "Ο Στράτος",
+      "latitude": 40.656908,
+      "longitude": 22.913581
+    },
+    {
+      "name": "Ο Σωτήρης (Ακριτίδης)",
+      "latitude": 40.783676,
+      "longitude": 21.481887
+    },
+    {
+      "name": "Ο Τάκης",
+      "latitude": 40.003694,
+      "longitude": 23.382971
+    },
+    {
+      "name": "Ο Τριαντάφυλλος - Κρέατα Σοχού",
+      "latitude": 40.602149,
+      "longitude": 22.9656
+    },
+    {
+      "name": "Ο Τσέλιγκας",
+      "latitude": 38.379699,
+      "longitude": 23.630482
+    },
+    {
+      "name": "Ο Τσέλιγκας",
+      "latitude": 38.917702,
+      "longitude": 20.890241
+    },
+    {
+      "name": "Ο Χασαπάκος",
+      "latitude": 40.270424,
+      "longitude": 22.5305
+    },
+    {
+      "name": "Ο Χελμός",
+      "latitude": 38.032925,
+      "longitude": 22.109779
+    },
+    {
+      "name": "Ο Χρηστοσ",
+      "latitude": 38.253399,
+      "longitude": 26.031361
+    },
+    {
+      "name": "Οικογένεια Σκουτέρη",
+      "latitude": 37.939409,
+      "longitude": 23.645277
+    },
+    {
+      "name": "Ομόνοια",
+      "latitude": 37.073099,
+      "longitude": 22.430432
+    },
+    {
+      "name": "Οξύλιθος",
+      "latitude": 38.026234,
+      "longitude": 23.842808
+    },
+    {
+      "name": "Πάνος",
+      "latitude": 41.150958,
+      "longitude": 24.150219
+    },
+    {
+      "name": "Πάσχος",
+      "latitude": 39.633278,
+      "longitude": 22.417796
+    },
+    {
+      "name": "Πέτρος",
+      "latitude": 37.142184,
+      "longitude": 24.514771
+    },
+    {
+      "name": "Πέτρος",
+      "latitude": 41.149572,
+      "longitude": 24.151224
+    },
+    {
+      "name": "Πίνδος",
+      "latitude": 39.639218,
+      "longitude": 22.416234
+    },
+    {
+      "name": "πίνδος",
+      "latitude": 40.935828,
+      "longitude": 24.407409
+    },
+    {
+      "name": "Παλιάκης",
+      "latitude": 37.966692,
+      "longitude": 23.743724
+    },
+    {
+      "name": "Παναγιώτης Στ. Κέκκας",
+      "latitude": 38.019607,
+      "longitude": 23.824257
+    },
+    {
+      "name": "ΠΑΝΑΓΟΥΛΗΣ",
+      "latitude": 37.857681,
+      "longitude": 21.807383
+    },
+    {
+      "name": "Παντελής",
+      "latitude": 40.684918,
+      "longitude": 22.951981
+    },
+    {
+      "name": "Παντοπωλείο Κρεοπωλείο Μίχος",
+      "latitude": 40.262306,
+      "longitude": 22.514998
+    },
+    {
+      "name": "Παπαδιούλης",
+      "latitude": 36.793737,
+      "longitude": 24.573819
+    },
+    {
+      "name": "Παπαμανος",
+      "latitude": 39.680188,
+      "longitude": 20.838491
+    },
+    {
+      "name": "Παπαράδης",
+      "latitude": 40.845247,
+      "longitude": 25.870919
+    },
+    {
+      "name": "Παπαράδης",
+      "latitude": 40.850646,
+      "longitude": 25.882933
+    },
+    {
+      "name": "Παπαχριστόπουλος",
+      "latitude": 39.106849,
+      "longitude": 26.556185
+    },
+    {
+      "name": "Παπαϊακώβου",
+      "latitude": 37.948407,
+      "longitude": 23.745298
+    },
+    {
+      "name": "Παπαϊωάννου",
+      "latitude": 38.382962,
+      "longitude": 23.629449
+    },
+    {
+      "name": "Παραδοσιακές Φάρμες",
+      "latitude": 40.59931,
+      "longitude": 22.970528
+    },
+    {
+      "name": "Παραδοσιακό",
+      "latitude": 40.670296,
+      "longitude": 22.900899
+    },
+    {
+      "name": "Παραδοσιακό κρεοπωλείο Ο Μητρο-Λιάκος",
+      "latitude": 39.466389,
+      "longitude": 20.512315
+    },
+    {
+      "name": "παραδοσιακό Κρεοπώλειο",
+      "latitude": 40.524178,
+      "longitude": 22.197219
+    },
+    {
+      "name": "Πατίδης",
+      "latitude": 40.501851,
+      "longitude": 22.541052
+    },
+    {
+      "name": "ΠΑΤΡΙΚΟΠΟΥΛΟΥ",
+      "latitude": 39.107272,
+      "longitude": 26.55733
+    },
+    {
+      "name": "ΠΑΤΡΙΚΟΠΟΥΛΟΥ ΕΡΓ",
+      "latitude": 39.109825,
+      "longitude": 26.526273
+    },
+    {
+      "name": "Παυλίδης",
+      "latitude": 37.964501,
+      "longitude": 23.704268
+    },
+    {
+      "name": "Παυλόπουλος",
+      "latitude": 37.906419,
+      "longitude": 23.743309
+    },
+    {
+      "name": "Περράκης",
+      "latitude": 37.930385,
+      "longitude": 23.752323
+    },
+    {
+      "name": "Πηγή του κρέατος",
+      "latitude": 38.038944,
+      "longitude": 23.670912
+    },
+    {
+      "name": "Πινδος",
+      "latitude": 38.237194,
+      "longitude": 21.728586
+    },
+    {
+      "name": "Πλαβούκος",
+      "latitude": 38.102722,
+      "longitude": 23.668937
+    },
+    {
+      "name": "Πλούμης Λουκάς",
+      "latitude": 38.394312,
+      "longitude": 21.835409
+    },
+    {
+      "name": "Πρώτο Κρέας",
+      "latitude": 37.991097,
+      "longitude": 23.729584
+    },
+    {
+      "name": "Πτηνοτροφεία Συρανίδη",
+      "latitude": 40.270469,
+      "longitude": 22.529713
+    },
+    {
+      "name": "Πτηνοτροφεία Συρανίδη",
+      "latitude": 40.271871,
+      "longitude": 22.500445
+    },
+    {
+      "name": "Ρίζος",
+      "latitude": 38.032014,
+      "longitude": 23.710641
+    },
+    {
+      "name": "Ρίζος",
+      "latitude": 38.089958,
+      "longitude": 23.737062
+    },
+    {
+      "name": "Ραβάνης",
+      "latitude": 37.943708,
+      "longitude": 23.758708
+    },
+    {
+      "name": "ΡΑΠΤΗΣ",
+      "latitude": 38.249986,
+      "longitude": 21.738119
+    },
+    {
+      "name": "Ρουσσουνέλος",
+      "latitude": 37.434189,
+      "longitude": 24.935401
+    },
+    {
+      "name": "Ρούσσης",
+      "latitude": 38.019326,
+      "longitude": 23.807139
+    },
+    {
+      "name": "Ρούσσης",
+      "latitude": 38.133971,
+      "longitude": 23.859086
+    },
+    {
+      "name": "Ρούσσης",
+      "latitude": 38.208311,
+      "longitude": 23.870035
+    },
+    {
+      "name": "Ρούσσος Κρεοπωλείο",
+      "latitude": 37.983197,
+      "longitude": 23.768872
+    },
+    {
+      "name": "Σάββας",
+      "latitude": 40.845757,
+      "longitude": 25.867995
+    },
+    {
+      "name": "Σήφης",
+      "latitude": 37.944605,
+      "longitude": 23.687471
+    },
+    {
+      "name": "Σίμος",
+      "latitude": 38.035497,
+      "longitude": 23.755254
+    },
+    {
+      "name": "Σαμσούρης Αστέριος",
+      "latitude": 40.274928,
+      "longitude": 22.504956
+    },
+    {
+      "name": "Σελμάνης",
+      "latitude": 37.929712,
+      "longitude": 23.698238
+    },
+    {
+      "name": "Σερέτης",
+      "latitude": 38.018518,
+      "longitude": 23.743302
+    },
+    {
+      "name": "Σερίφης",
+      "latitude": 40.275727,
+      "longitude": 22.50674
+    },
+    {
+      "name": "ΣΙΝΤΟΥ ΠΑΝΩΡΑΙΑ",
+      "latitude": 39.59975,
+      "longitude": 20.839426
+    },
+    {
+      "name": "Σιώρας",
+      "latitude": 41.344144,
+      "longitude": 23.866352
+    },
+    {
+      "name": "Σκλάβος Κοτόπουλα",
+      "latitude": 38.013003,
+      "longitude": 23.709139
+    },
+    {
+      "name": "Σκλαβούνος",
+      "latitude": 39.622166,
+      "longitude": 19.917958
+    },
+    {
+      "name": "Σκομπας",
+      "latitude": 37.999679,
+      "longitude": 23.742262
+    },
+    {
+      "name": "Σκυλογιάννης",
+      "latitude": 37.670907,
+      "longitude": 21.444811
+    },
+    {
+      "name": "Σμαράγδας",
+      "latitude": 41.117427,
+      "longitude": 25.390517
+    },
+    {
+      "name": "ΣΟΧΟΣ",
+      "latitude": 40.601266,
+      "longitude": 22.95423
+    },
+    {
+      "name": "Σοχός",
+      "latitude": 40.609644,
+      "longitude": 22.967086
+    },
+    {
+      "name": "Σοχός",
+      "latitude": 40.613444,
+      "longitude": 22.980291
+    },
+    {
+      "name": "Σπέντζος",
+      "latitude": 37.946055,
+      "longitude": 23.754687
+    },
+    {
+      "name": "ΣΠΑΝΑΚΗΣ",
+      "latitude": 35.208866,
+      "longitude": 25.337001
+    },
+    {
+      "name": "Σπυρόπουλος",
+      "latitude": 39.365088,
+      "longitude": 21.925139
+    },
+    {
+      "name": "Στέλιος",
+      "latitude": 37.937833,
+      "longitude": 23.657771
+    },
+    {
+      "name": "Σταμούλης",
+      "latitude": 38.170847,
+      "longitude": 20.495739
+    },
+    {
+      "name": "Συλεούνη",
+      "latitude": 38.945715,
+      "longitude": 21.958234
+    },
+    {
+      "name": "Συνολάκης",
+      "latitude": 35.365899,
+      "longitude": 24.509939
+    },
+    {
+      "name": "Σωτήρης Μπέτσικος",
+      "latitude": 39.516241,
+      "longitude": 21.6563
+    },
+    {
+      "name": "Σώρρος",
+      "latitude": 37.743791,
+      "longitude": 23.430328
+    },
+    {
+      "name": "Τάσος",
+      "latitude": 38.034553,
+      "longitude": 23.739487
+    },
+    {
+      "name": "Τα δύο αδέρφια",
+      "latitude": 40.57375,
+      "longitude": 22.956867
+    },
+    {
+      "name": "Τα Καλά Παιδιά",
+      "latitude": 38.059337,
+      "longitude": 23.795143
+    },
+    {
+      "name": "Τα μοσχαράκια",
+      "latitude": 40.657829,
+      "longitude": 22.925026
+    },
+    {
+      "name": "Τα Ντοπια",
+      "latitude": 40.252225,
+      "longitude": 21.555415
+    },
+    {
+      "name": "Τα Τρίκαλα",
+      "latitude": 37.985191,
+      "longitude": 23.740605
+    },
+    {
+      "name": "Τα χασαπάκια",
+      "latitude": 40.639494,
+      "longitude": 22.960347
+    },
+    {
+      "name": "ΤΑ ΧΑΣΙΑ",
+      "latitude": 40.084195,
+      "longitude": 21.428907
+    },
+    {
+      "name": "Ταζιαρχης",
+      "latitude": 40.85203,
+      "longitude": 25.829198
+    },
+    {
+      "name": "Ταξιάρχης",
+      "latitude": 37.98007,
+      "longitude": 23.654732
+    },
+    {
+      "name": "Ταξιάρχης",
+      "latitude": 37.983618,
+      "longitude": 23.656443
+    },
+    {
+      "name": "Τεμέτερον",
+      "latitude": 39.103481,
+      "longitude": 20.738419
+    },
+    {
+      "name": "Τζιμας",
+      "latitude": 40.451513,
+      "longitude": 21.258025
+    },
+    {
+      "name": "Τζώνης",
+      "latitude": 37.742299,
+      "longitude": 23.433811
+    },
+    {
+      "name": "ΤΟ ΑΔΑΜ",
+      "latitude": 40.598547,
+      "longitude": 22.967195
+    },
+    {
+      "name": "Το Γαλλικόν",
+      "latitude": 40.616072,
+      "longitude": 22.954539
+    },
+    {
+      "name": "το Δραμινό Καπάνι",
+      "latitude": 41.151607,
+      "longitude": 24.148571
+    },
+    {
+      "name": "Το Εκλεκτό",
+      "latitude": 37.969947,
+      "longitude": 23.65303
+    },
+    {
+      "name": "Το Καρπερο",
+      "latitude": 39.948467,
+      "longitude": 21.621044
+    },
+    {
+      "name": "Το Κρεοπωλείο",
+      "latitude": 37.99719,
+      "longitude": 23.739882
+    },
+    {
+      "name": "Το Κρεοπωλείο Μας",
+      "latitude": 40.273985,
+      "longitude": 22.540758
+    },
+    {
+      "name": "Το Κρεοπωλείο της Γειτονιας",
+      "latitude": 37.934619,
+      "longitude": 23.638643
+    },
+    {
+      "name": "Το Κρεοπωλείο Του Παύλου",
+      "latitude": 38.082009,
+      "longitude": 23.710488
+    },
+    {
+      "name": "Το Κρεοπωλείον",
+      "latitude": 38.06249,
+      "longitude": 23.713845
+    },
+    {
+      "name": "Το παραδοσιακ",
+      "latitude": 39.107001,
+      "longitude": 26.556373
+    },
+    {
+      "name": "Το Παραδοσιακό",
+      "latitude": 38.022279,
+      "longitude": 23.79996
+    },
+    {
+      "name": "Το Παραδοσιακό",
+      "latitude": 39.107302,
+      "longitude": 26.556829
+    },
+    {
+      "name": "Το Πρώτο",
+      "latitude": 38.91429,
+      "longitude": 22.615748
+    },
+    {
+      "name": "ΤΟ ΣΕΛΙΝΟ",
+      "latitude": 35.513315,
+      "longitude": 24.011374
+    },
+    {
+      "name": "Το χασάπικο της αγοράς",
+      "latitude": 37.640549,
+      "longitude": 22.73263
+    },
+    {
+      "name": "Το Χασαπάκι",
+      "latitude": 37.438637,
+      "longitude": 24.936965
+    },
+    {
+      "name": "Το Χασαπάκι",
+      "latitude": 41.265341,
+      "longitude": 23.251302
+    },
+    {
+      "name": "του Παντελή",
+      "latitude": 39.641365,
+      "longitude": 22.428117
+    },
+    {
+      "name": "Τσέλιγκας",
+      "latitude": 37.93787,
+      "longitude": 23.75633
+    },
+    {
+      "name": "ΤΣΑΚΥΡΗΣ",
+      "latitude": 39.247645,
+      "longitude": 26.272581
+    },
+    {
+      "name": "Τσαμπούλας",
+      "latitude": 39.522261,
+      "longitude": 21.104148
+    },
+    {
+      "name": "Τσεκουρας",
+      "latitude": 38.032282,
+      "longitude": 23.745155
+    },
+    {
+      "name": "Τσιάντας",
+      "latitude": 38.527763,
+      "longitude": 22.202362
+    },
+    {
+      "name": "Τσιάρας",
+      "latitude": 40.652237,
+      "longitude": 22.93662
+    },
+    {
+      "name": "Τσιλόγλου",
+      "latitude": 40.485915,
+      "longitude": 21.195837
+    },
+    {
+      "name": "Τσινούκας",
+      "latitude": 38.241751,
+      "longitude": 22.093452
+    },
+    {
+      "name": "Τσιουπρος",
+      "latitude": 40.280193,
+      "longitude": 22.497546
+    },
+    {
+      "name": "Τσιρογιάννη",
+      "latitude": 38.38086,
+      "longitude": 23.629545
+    },
+    {
+      "name": "Τσιτουμης",
+      "latitude": 38.952947,
+      "longitude": 23.151674
+    },
+    {
+      "name": "Τσούτσας",
+      "latitude": 39.636963,
+      "longitude": 22.420693
+    },
+    {
+      "name": "Τσούτσας",
+      "latitude": 39.638454,
+      "longitude": 22.42128
+    },
+    {
+      "name": "Τσωνος",
+      "latitude": 38.945733,
+      "longitude": 21.957642
+    },
+    {
+      "name": "Τόλης",
+      "latitude": 40.600916,
+      "longitude": 22.956982
+    },
+    {
+      "name": "υπέρ αγορά κρεάτων",
+      "latitude": 37.973705,
+      "longitude": 23.771523
+    },
+    {
+      "name": "Υπαιθρος",
+      "latitude": 37.969478,
+      "longitude": 23.705537
+    },
+    {
+      "name": "Φάρμα Αργυριάδη",
+      "latitude": 41.153742,
+      "longitude": 24.116027
+    },
+    {
+      "name": "Φάρμα Δ.Λίβανος",
+      "latitude": 40.050625,
+      "longitude": 23.413039
+    },
+    {
+      "name": "Φάρμα Δρίβας",
+      "latitude": 38.812128,
+      "longitude": 22.442768
+    },
+    {
+      "name": "Φάρμα Ελασσόνας",
+      "latitude": 40.635201,
+      "longitude": 22.942018
+    },
+    {
+      "name": "Φάρμα κρεάτων Αργυρούπολης",
+      "latitude": 37.911003,
+      "longitude": 23.750499
+    },
+    {
+      "name": "Φάρμα Μένης",
+      "latitude": 38.370036,
+      "longitude": 26.136627
+    },
+    {
+      "name": "Φάρμα Μπράλου",
+      "latitude": 38.087305,
+      "longitude": 23.809333
+    },
+    {
+      "name": "Φάρμα Ολύμπου",
+      "latitude": 39.634488,
+      "longitude": 22.415139
+    },
+    {
+      "name": "Φάρμα Παρνασσού",
+      "latitude": 37.947857,
+      "longitude": 23.668943
+    },
+    {
+      "name": "Φάρμες του χωριού μας",
+      "latitude": 40.571297,
+      "longitude": 22.958393
+    },
+    {
+      "name": "Φίλης",
+      "latitude": 38.085914,
+      "longitude": 23.740528
+    },
+    {
+      "name": "Φίλιππος",
+      "latitude": 40.607491,
+      "longitude": 22.993586
+    },
+    {
+      "name": "Φαλιέρος",
+      "latitude": 38.0898,
+      "longitude": 23.743903
+    },
+    {
+      "name": "Φαρμα επιδαύρου",
+      "latitude": 37.997609,
+      "longitude": 23.736989
+    },
+    {
+      "name": "Φιλάκης",
+      "latitude": 40.661218,
+      "longitude": 22.946849
+    },
+    {
+      "name": "Φούκης",
+      "latitude": 39.621618,
+      "longitude": 19.916717
+    },
+    {
+      "name": "Φραγκόπουλος",
+      "latitude": 37.974774,
+      "longitude": 23.652469
+    },
+    {
+      "name": "Φραγκόπουλος",
+      "latitude": 38.00873,
+      "longitude": 23.799078
+    },
+    {
+      "name": "Φωτόπουλος",
+      "latitude": 37.481534,
+      "longitude": 21.649732
+    },
+    {
+      "name": "Φώσκολος",
+      "latitude": 37.948791,
+      "longitude": 23.694242
+    },
+    {
+      "name": "Χ. Η. Παπαμιχαηα",
+      "latitude": 37.385913,
+      "longitude": 23.247501
+    },
+    {
+      "name": "Χαλέπι",
+      "latitude": 38.001806,
+      "longitude": 23.728004
+    },
+    {
+      "name": "Χαμακιωτη",
+      "latitude": 38.030951,
+      "longitude": 22.111437
+    },
+    {
+      "name": "Χανιώτης",
+      "latitude": 37.935129,
+      "longitude": 23.643935
+    },
+    {
+      "name": "Χαντζής",
+      "latitude": 37.964256,
+      "longitude": 23.631916
+    },
+    {
+      "name": "Χασάπικο",
+      "latitude": 37.967595,
+      "longitude": 23.709826
+    },
+    {
+      "name": "Χασανίδης",
+      "latitude": 40.852731,
+      "longitude": 25.883762
+    },
+    {
+      "name": "Χασιώτης",
+      "latitude": 39.363886,
+      "longitude": 21.925392
+    },
+    {
+      "name": "Χατζηαγγελίδης",
+      "latitude": 40.654917,
+      "longitude": 22.922704
+    },
+    {
+      "name": "Χατζηζήση Ζανέτ",
+      "latitude": 40.327038,
+      "longitude": 21.824502
+    },
+    {
+      "name": "Χρήστος",
+      "latitude": 40.667395,
+      "longitude": 22.897845
+    },
+    {
+      "name": "Χρήστος Θηραίος",
+      "latitude": 38.038627,
+      "longitude": 23.763807
+    },
+    {
+      "name": "Χρίστος",
+      "latitude": 35.187358,
+      "longitude": 24.402779
+    },
+    {
+      "name": "Χρηστοςω Νικ. Ιωάννου",
+      "latitude": 39.458446,
+      "longitude": 21.616096
+    },
+    {
+      "name": "Ψαρρής",
+      "latitude": 39.36589,
+      "longitude": 21.917791
+    },
+    {
+      "name": "Ψυλλάκης Βασίλειος | Κρεοπωλείο",
+      "latitude": 36.388611,
+      "longitude": 28.215138
+    },
+    {
+      "name": "Креатагора",
+      "latitude": 37.972223,
+      "longitude": 22.977967
+    },
+    {
+      "name": "мясной магазин",
+      "latitude": 35.318784,
+      "longitude": 25.387698
+    }
+  ],
+  "meta": {
+    "title": "Κρεοπωλεία Ελλάδας - Δωρεάν λήψη",
+    "description": "Κρεοπωλεία σε όλη την Ελλάδα από το OpenStreetMap. Butcher shops across Greece. Περιέχει 739 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κρεοπωλεία Ελλάδας | ListBase",
+    "seo_description": "Λήψη Κρεοπωλεία Ελλάδας — 739 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 739 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

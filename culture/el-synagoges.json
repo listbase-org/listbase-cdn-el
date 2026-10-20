@@ -1,0 +1,247 @@
+{
+  "id": "el-synagoges",
+  "name": "Συναγωγές της Ελλάδας",
+  "title": "Συναγωγές της Ελλάδας",
+  "description": "Synagogues in Greece from Wikidata (P31=Q34627 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "culture",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 16,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q130520375",
+      "name_el": "",
+      "name_en": "Kastoria Synagogue",
+      "admin_area_el": "Καστοριά",
+      "admin_area_en": "Kastoria",
+      "latitude": 40.516945851,
+      "longitude": 21.269144153,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130520375"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q56396859",
+      "name_el": "Παλαιά Συναγωγή Ιωαννίνων",
+      "name_en": "Ioannina Old Synagogue",
+      "admin_area_el": "Δήμος Ιωαννιτών",
+      "admin_area_en": "Ioannina Municipality",
+      "latitude": 39.671302,
+      "longitude": 20.857957,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56396859"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q111155095",
+      "name_el": "Πρώην συναγωγή Ιτάλια Γιασάν",
+      "name_en": "Former Italia Yasan Synagogue",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.617664519,
+      "longitude": 22.95609773,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111155095"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q54974402",
+      "name_el": "Συναγωγή Αίγινας",
+      "name_en": "Synagogue of Aigina",
+      "admin_area_el": "Δήμος Αίγινας",
+      "admin_area_en": "Aegina Municipality",
+      "latitude": 37.7492,
+      "longitude": 23.425,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q54974402"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7661939",
+      "name_el": "Συναγωγή Αρχαίας Αγοράς Αθήνας",
+      "name_en": "Synagogue in the Agora of Athens",
+      "admin_area_el": "Αθήνα",
+      "admin_area_en": "Athens",
+      "latitude": 37.974785,
+      "longitude": 23.722217,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7661939"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q1231296",
+      "name_el": "Συναγωγή Ετζ Χαγίμ",
+      "name_en": "Etz Hayyim Synagogue",
+      "admin_area_el": "Δήμος Χανίων",
+      "admin_area_en": "Chania Municipality",
+      "latitude": 35.5156531,
+      "longitude": 24.0166068,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1231296"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q33422723",
+      "name_el": "Συναγωγή Ετς Χαγίμ",
+      "name_en": "Etz Chaim Synagogue",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.9783,
+      "longitude": 23.7195,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q33422723"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q2920386",
+      "name_el": "Συναγωγή Καχάλ Σαλόμ",
+      "name_en": "Kahal Shalom Synagogue",
+      "admin_area_el": "Δήμος Ρόδου",
+      "admin_area_en": "Rodos Municipality",
+      "latitude": 36.4422,
+      "longitude": 28.2304,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q2920386"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q12884976",
+      "name_el": "Συναγωγή Κομοτηνής",
+      "name_en": "Komotini Bet El synagogue",
+      "admin_area_el": "Δήμος Κομοτηνής",
+      "admin_area_en": "Komotini Municipality",
+      "latitude": 41.12020278,
+      "longitude": 25.39958889,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12884976"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q5274689",
+      "name_el": "Συναγωγή Μοναστηριωτών",
+      "name_en": "Monastir Synagogue",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.639722222,
+      "longitude": 22.941944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5274689"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q4897633",
+      "name_el": "Συναγωγή Μπεθ Σαλώμ",
+      "name_en": "Beth Shalom Synagogue",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.978249,
+      "longitude": 23.720362,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4897633"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q29350593",
+      "name_el": "Συναγωγή Χαλκίδας",
+      "name_en": "Chalkida Synagogue",
+      "admin_area_el": "Δήμος Χαλκιδέων",
+      "admin_area_en": "Chalkideon Municipality",
+      "latitude": 38.461767,
+      "longitude": 23.592772,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q29350593"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q23825671",
+      "name_el": "Συναγωγή της Βέροιας",
+      "name_en": "Veria Synagogue",
+      "admin_area_el": "Δήμος Βέροιας",
+      "admin_area_en": "Veria Municipality",
+      "latitude": 40.5216209,
+      "longitude": 22.1994638,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q23825671"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q137674397",
+      "name_el": "Συναγωγή της Ξάνθης",
+      "name_en": "",
+      "admin_area_el": "Δήμος Ξάνθης",
+      "admin_area_en": "Xanthi Municipality",
+      "latitude": 41.135567,
+      "longitude": 24.886554,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137674397"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q60315753",
+      "name_el": "συναγωγή Γιάδ Λεζικαρόν",
+      "name_en": "Yad Lezikaron Synagogue",
+      "admin_area_el": "Θεσσαλονίκη",
+      "admin_area_en": "Thessaloniki",
+      "latitude": 40.634444444,
+      "longitude": 22.941111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q60315753"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q9349484",
+      "name_el": "συναγωγή Ταλμούδ Τορά",
+      "name_en": "Talmud Torah Agadol synagogue",
+      "admin_area_el": "Θεσσαλονίκη",
+      "admin_area_en": "Thessaloniki",
+      "latitude": 40.6345,
+      "longitude": 22.9423,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q9349484"
+    }
+  ],
+  "meta": {
+    "title": "Συναγωγές της Ελλάδας - Δωρεάν λήψη",
+    "description": "Synagogues in Greece from Wikidata (P31=Q34627 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 16 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Συναγωγές της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Συναγωγές της Ελλάδας — 16 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 16 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

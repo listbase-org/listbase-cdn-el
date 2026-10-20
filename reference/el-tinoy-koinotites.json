@@ -1,0 +1,142 @@
+{
+  "id": "el-tinoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Τηνου (13)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Τηνου (13)",
+  "description": "Οι 13 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Τηνου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "310801",
+      "name": "Αγαπης",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310802",
+      "name": "Καλλονης",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310803",
+      "name": "Καμπου",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310804",
+      "name": "Καρδιανης",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310805",
+      "name": "Κτικαδου",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310806",
+      "name": "Κωμης",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310807",
+      "name": "Στενης",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310808",
+      "name": "Υστερνιων",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "310809",
+      "name": "Φαλαταδου",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312201",
+      "name": "Πανορμου",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312902",
+      "name": "Τηνου",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312901",
+      "name": "Δυο Χωριων",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "312903",
+      "name": "Τριανταρου",
+      "municipality": "Τηνου",
+      "regional_unit": "Τηνου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Τηνου (13) - Δωρεάν λήψη",
+    "description": "Οι 13 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Τηνου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 13 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Τηνου (13) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Τηνου (13) — 13 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 13 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,436 @@
+{
+  "id": "el-attikis-dimoi-plithysmos",
+  "name": "Πληθυσμός δήμων Αθήνας και Πειραιά — Απογραφές 2011 και 2021",
+  "title": "Πληθυσμός δήμων Αθήνας και Πειραιά — Απογραφές 2011 και 2021",
+  "description": "Επίσημος πληθυσμός απογραφών 2011 και 2021 ανά δήμο/δημοτική ενότητα στην Αθήνα και τον Πειραιά, με τομέα Αττικής. Πηγή: ELSTAT (Hellenic Statistical Authority) / Region of Attica, μέσω Athens GIS Repository (uploaded 2025-08-20 per info note). (Census population 2011+2021 per municipal district — MERGED from the repo's Population2011.json and Population2021.json on identical FID+name keys, asserted; 55 districts covering Athens and Piraeus, not all 66 Attica municipalities.)",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 55,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "section",
+      "label": "Section",
+      "type": "string"
+    },
+    {
+      "key": "population_2011",
+      "label": "Population 2011",
+      "type": "number"
+    },
+    {
+      "key": "population_2021",
+      "label": "Population 2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 7,
+      "name": "ΔΗΜΟΣ ΧΑΛΑΝΔΡΙΟΥ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 74192,
+      "population_2021": 77102
+    },
+    {
+      "source_id": 8,
+      "name": "ΔΗΜΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 139981,
+      "population_2021": 133630
+    },
+    {
+      "source_id": 9,
+      "name": "ΔΗΜΟΣ ΑΓΙΑΣ ΒΑΡΒΑΡΑΣ",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 26550,
+      "population_2021": 26759
+    },
+    {
+      "source_id": 10,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 34168,
+      "population_2021": 32283
+    },
+    {
+      "source_id": 11,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΚΑΜΑΤΕΡΟΥ",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 28361,
+      "population_2021": 29179
+    },
+    {
+      "source_id": 12,
+      "name": "ΔΗΜΟΣ ΑΙΓΑΛΕΩ",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 69946,
+      "population_2021": 65831
+    },
+    {
+      "source_id": 13,
+      "name": "ΔΗΜΟΣ ΙΛΙΟΥ (ΝΕΩΝ ΛΙΟΣΙΩΝ)",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 84793,
+      "population_2021": 84004
+    },
+    {
+      "source_id": 14,
+      "name": "ΔΗΜΟΣ ΠΕΤΡΟΥΠΟΛΗΣ",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 58979,
+      "population_2021": 60146
+    },
+    {
+      "source_id": 15,
+      "name": "ΔΗΜΟΣ ΑΛΙΜΟΥ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 41720,
+      "population_2021": 43174
+    },
+    {
+      "source_id": 16,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΚΕΡΑΤΣΙΝΙΟΥ",
+      "section": "ΠΕΙΡΑΙΩΣ",
+      "population_2011": 77077,
+      "population_2021": 75721
+    },
+    {
+      "source_id": 17,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΔΡΑΠΕΤΣΩΝΑΣ",
+      "section": "ΠΕΙΡΑΙΩΣ",
+      "population_2011": 13968,
+      "population_2021": 13815
+    },
+    {
+      "source_id": 18,
+      "name": "ΔΗΜΟΣ ΚΟΡΥΔΑΛΛΟΥ",
+      "section": "ΠΕΙΡΑΙΩΣ",
+      "population_2011": 63445,
+      "population_2021": 61248
+    },
+    {
+      "source_id": 24,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΝΙΚΑΙΑΣ",
+      "section": "ΠΕΙΡΑΙΩΣ",
+      "population_2011": 89380,
+      "population_2021": 88077
+    },
+    {
+      "source_id": 25,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΑΓΙΟΥ ΙΩΑΝΝΟΥ ΡΕΝΤΗ",
+      "section": "ΠΕΙΡΑΙΩΣ",
+      "population_2011": 16050,
+      "population_2021": 15411
+    },
+    {
+      "source_id": 28,
+      "name": "ΔΗΜΟΣ ΓΛΥΦΑΔΑΣ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 87305,
+      "population_2021": 89597
+    },
+    {
+      "source_id": 29,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΑΡΓΥΡΟΥΠΟΛΗΣ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 34097,
+      "population_2021": 33312
+    },
+    {
+      "source_id": 30,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΕΛΛΗΝΙΚΟΥ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 17259,
+      "population_2021": 16715
+    },
+    {
+      "source_id": 31,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΜΟΣΧΑΤΟΥ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 25441,
+      "population_2021": 25322
+    },
+    {
+      "source_id": 32,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΤΑΥΡΟΥ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 14972,
+      "population_2021": 14339
+    },
+    {
+      "source_id": 33,
+      "name": "ΔΗΜΟΣ ΝΕΑΣ ΣΜΥΡΝΗΣ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 73076,
+      "population_2021": 72853
+    },
+    {
+      "source_id": 34,
+      "name": "ΔΗΜΟΣ ΠΑΛΑΙΟΥ ΦΑΛΗΡΟΥ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 64021,
+      "population_2021": 64863
+    },
+    {
+      "source_id": 35,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΔΑΦΝΗΣ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 22913,
+      "population_2021": 23431
+    },
+    {
+      "source_id": 36,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΥΜΗΤΤΟΥ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 10715,
+      "population_2021": 10455
+    },
+    {
+      "source_id": 37,
+      "name": "ΔΗΜΟΣ ΖΩΓΡΑΦΟΥ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 71026,
+      "population_2021": 69874
+    },
+    {
+      "source_id": 38,
+      "name": "ΔΗΜΟΣ ΗΛΙΟΥΠΟΛΗΣ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 78153,
+      "population_2021": 76730
+    },
+    {
+      "source_id": 39,
+      "name": "ΔΗΜΟΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 26458,
+      "population_2021": 26269
+    },
+    {
+      "source_id": 40,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΝΕΑΣ ΦΙΛΑΔΕΛΦΕΙΑΣ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 25734,
+      "population_2021": 25198
+    },
+    {
+      "source_id": 41,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΝΕΑΣ ΧΑΛΚΗΔΟΝΟΣ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 9822,
+      "population_2021": 9760
+    },
+    {
+      "source_id": 42,
+      "name": "ΔΗΜΟΣ ΑΜΑΡΟΥΣΙΟΥ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 72333,
+      "population_2021": 71830
+    },
+    {
+      "source_id": 43,
+      "name": "ΔΗΜΟΣ ΑΓΙΑΣ ΠΑΡΑΣΚΕΥΗΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 59704,
+      "population_2021": 62147
+    },
+    {
+      "source_id": 44,
+      "name": "ΔΗΜΟΣ ΒΡΙΛΗΣΣΙΩΝ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 30741,
+      "population_2021": 32417
+    },
+    {
+      "source_id": 45,
+      "name": "ΔΗΜΟΣ ΗΡΑΚΛΕΙΟΥ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 49642,
+      "population_2021": 50494
+    },
+    {
+      "source_id": 46,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΠΕΥΚΗΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 21415,
+      "population_2021": 21293
+    },
+    {
+      "source_id": 47,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΛΥΚΟΒΡΥΣΕΩΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 9738,
+      "population_2021": 9705
+    },
+    {
+      "source_id": 48,
+      "name": "ΔΗΜΟΣ ΜΕΤΑΜΟΡΦΩΣΕΩΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 29891,
+      "population_2021": 30174
+    },
+    {
+      "source_id": 49,
+      "name": "ΔΗΜΟΣ ΝΕΑΣ ΙΩΝΙΑΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 67134,
+      "population_2021": 64611
+    },
+    {
+      "source_id": 50,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΧΟΛΑΡΓΟΥ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 30840,
+      "population_2021": 31304
+    },
+    {
+      "source_id": 51,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΠΑΠΑΓΟΥ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 13699,
+      "population_2021": 13962
+    },
+    {
+      "source_id": 52,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΜΕΛΙΣΣΙΩΝ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 22741,
+      "population_2021": 23618
+    },
+    {
+      "source_id": 53,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΝΕΑΣ ΠΕΝΤΕΛΗΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 7198,
+      "population_2021": 6916
+    },
+    {
+      "source_id": 54,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΠΕΝΤΕΛΗΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 4995,
+      "population_2021": 5076
+    },
+    {
+      "source_id": 55,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΨΥΧΙΚΟΥ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 9529,
+      "population_2021": 9595
+    },
+    {
+      "source_id": 56,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΝΕΟΥ ΨΥΧΙΚΟΥ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 10137,
+      "population_2021": 10671
+    },
+    {
+      "source_id": 57,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΦΙΛΟΘΕΗΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 7302,
+      "population_2021": 7370
+    },
+    {
+      "source_id": 58,
+      "name": "ΔΗΜΟΣ ΑΘΗΝΑΙΩΝ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 664046,
+      "population_2021": 643452
+    },
+    {
+      "source_id": 59,
+      "name": "ΔΗΜΟΣ ΒΥΡΩΝΟΣ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 61308,
+      "population_2021": 59134
+    },
+    {
+      "source_id": 60,
+      "name": "ΔΗΜΟΣ ΓΑΛΑΤΣΙΟΥ",
+      "section": "ΚΕΝΤΡΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 59345,
+      "population_2021": 57909
+    },
+    {
+      "source_id": 61,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΚΗΦΙΣΙΑΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 47332,
+      "population_2021": 48700
+    },
+    {
+      "source_id": 62,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΕΚΑΛΗΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 5889,
+      "population_2021": 5574
+    },
+    {
+      "source_id": 63,
+      "name": "ΔΗΜΟΤΙΚΗ ΕΝΟΤΗΤΑ ΝΕΑΣ ΕΡΥΘΡΑΙΑΣ",
+      "section": "ΒΟΡΕΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 18038,
+      "population_2021": 18604
+    },
+    {
+      "source_id": 64,
+      "name": "ΔΗΜΟΣ ΧΑΪΔΑΡΙΟΥ",
+      "section": "ΔΥΤΙΚΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 46897,
+      "population_2021": 47051
+    },
+    {
+      "source_id": 65,
+      "name": "ΔΗΜΟΣ ΚΑΛΛΙΘΕΑΣ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 100641,
+      "population_2021": 97616
+    },
+    {
+      "source_id": 66,
+      "name": "ΔΗΜΟΣ ΑΓΙΟΥ ΔΗΜΗΤΡΙΟΥ",
+      "section": "ΝΟΤΙΟΣ ΤΟΜΕΑΣ ΑΘΗΝΩΝ",
+      "population_2011": 71294,
+      "population_2021": 71664
+    },
+    {
+      "source_id": 108,
+      "name": "ΔΗΜΟΣ ΠΕΙΡΑΙΩΣ",
+      "section": "ΠΕΙΡΑΙΩΣ",
+      "population_2011": 163688,
+      "population_2021": 168151
+    },
+    {
+      "source_id": 109,
+      "name": "ΔΗΜΟΣ ΠΕΡΑΜΑΤΟΣ",
+      "section": "ΠΕΙΡΑΙΩΣ",
+      "population_2011": 25389,
+      "population_2021": 25628
+    }
+  ],
+  "meta": {
+    "title": "Πληθυσμός δήμων Αθήνας και Πειραιά — Απογραφές 2011 και 2021 - Δωρεάν λήψη",
+    "description": "Επίσημος πληθυσμός απογραφών 2011 και 2021 ανά δήμο/δημοτική ενότητα στην Αθήνα και τον Πειραιά, με τομέα Αττικής. Πηγή: ELSTAT (Hellenic Statistical Authority) / Region of Attica, μέσω Athens GIS Repository (uploaded 2025-08-20 per info note). (Census population 2011+2021 per municipal district — MERGED from the repo's Population2011.json and Population2021.json on identical FID+name keys, asserted; 55 districts covering Athens and Piraeus, not all 66 Attica municipalities.) Περιέχει 55 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πληθυσμός δήμων Αθήνας και Πειραιά — Απογραφές 2011 και 2021 | ListBase",
+    "seo_description": "Λήψη Πληθυσμός δήμων Αθήνας και Πειραιά — Απογραφές 2011 και 2021 — 55 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 55 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

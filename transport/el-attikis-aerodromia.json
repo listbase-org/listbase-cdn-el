@@ -1,0 +1,237 @@
+{
+  "id": "el-attikis-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Αττικής",
+  "title": "Αεροδρόμια — Περιφέρεια Αττικής",
+  "description": "Αεροδρόμια στην «Περιφέρεια Αττικής» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Attica Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LGAT",
+      "iata": "HEW",
+      "name": "Athen Helenikon Airport",
+      "name_slug": "athen-helenikon-airport",
+      "city": "Athens",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 69,
+      "lat": 37.8932991028,
+      "lon": 23.7261009216,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGAV",
+      "iata": "ATH",
+      "name": "Eleftherios Venizelos International Airport",
+      "name_slug": "eleftherios-venizelos-international-airport",
+      "city": "Athens",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 308,
+      "lat": 37.9364013672,
+      "lon": 23.9444999695,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGEL",
+      "iata": "",
+      "name": "Elefsis Airport",
+      "name_slug": "elefsis-airport",
+      "city": "Elefsina",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 143,
+      "lat": 38.0638008118,
+      "lon": 23.5559997559,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGKC",
+      "iata": "KIT",
+      "name": "Kithira Airport",
+      "name_slug": "kithira-airport",
+      "city": "Kithira Island",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 1045,
+      "lat": 36.2742996216,
+      "lon": 23.0170001984,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKN",
+      "iata": "",
+      "name": "Marathon Kotroni Airport",
+      "name_slug": "marathon-kotroni-airport",
+      "city": "Marathon",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 682,
+      "lat": 38.1377983093,
+      "lon": 23.9510993958,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGMG",
+      "iata": "",
+      "name": "Megara Airport",
+      "name_slug": "megara-airport",
+      "city": "Megara",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 12,
+      "lat": 37.981098175,
+      "lon": 23.3654003143,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGMR",
+      "iata": "",
+      "name": "Marathon Wasser Airport",
+      "name_slug": "marathon-wasser-airport",
+      "city": "Marathon",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 3,
+      "lat": 38.143901825,
+      "lon": 24.0128002167,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGTT",
+      "iata": "",
+      "name": "Tatoi Airport",
+      "name_slug": "tatoi-airport",
+      "city": "Tatoi",
+      "perifereia": "Περιφέρεια Αττικής",
+      "perifereia_source": "Attica",
+      "perifereia_slug": "attikis",
+      "perifereia_en": "Attica Region",
+      "country": "GR",
+      "elevation_ft": 785,
+      "lat": 38.1088981628,
+      "lon": 23.7838001251,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Αττικής» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Attica Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Αττικής — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

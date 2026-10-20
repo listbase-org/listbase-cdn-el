@@ -1,0 +1,1496 @@
+{
+  "id": "el-pampes",
+  "name": "Παμπ Ελλάδας",
+  "title": "Παμπ Ελλάδας",
+  "description": "Παμπ σε όλη την Ελλάδα από το OpenStreetMap. Pubs across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 291,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "1866 Beer Bar",
+      "latitude": 36.885945,
+      "longitude": 22.232783
+    },
+    {
+      "name": "4 Εποχές",
+      "latitude": 39.361888,
+      "longitude": 22.949114
+    },
+    {
+      "name": "4 Εποχές",
+      "latitude": 40.637291,
+      "longitude": 22.939733
+    },
+    {
+      "name": "Akri Garden",
+      "latitude": 35.369029,
+      "longitude": 24.475124
+    },
+    {
+      "name": "Albatross Nest",
+      "latitude": 36.453445,
+      "longitude": 28.220647
+    },
+    {
+      "name": "Amaretto skiatos landings pub",
+      "latitude": 39.170162,
+      "longitude": 23.499122
+    },
+    {
+      "name": "Angel's",
+      "latitude": 35.363242,
+      "longitude": 24.260067
+    },
+    {
+      "name": "Arch Beer House",
+      "latitude": 38.014033,
+      "longitude": 23.688335
+    },
+    {
+      "name": "Ark",
+      "latitude": 37.815581,
+      "longitude": 20.864889
+    },
+    {
+      "name": "arkadi",
+      "latitude": 35.367589,
+      "longitude": 24.47735
+    },
+    {
+      "name": "Atoli Chill-Out Bar",
+      "latitude": 35.230445,
+      "longitude": 23.680026
+    },
+    {
+      "name": "Bar",
+      "latitude": 37.684313,
+      "longitude": 23.322392
+    },
+    {
+      "name": "Bar Gusto Archangelos",
+      "latitude": 36.214173,
+      "longitude": 28.116004
+    },
+    {
+      "name": "barazz",
+      "latitude": 37.960598,
+      "longitude": 23.726927
+    },
+    {
+      "name": "Barcoffee",
+      "latitude": 37.772755,
+      "longitude": 23.489219
+    },
+    {
+      "name": "Barrel",
+      "latitude": 40.599481,
+      "longitude": 22.953874
+    },
+    {
+      "name": "Beer Bar Q",
+      "latitude": 38.243395,
+      "longitude": 21.729346
+    },
+    {
+      "name": "Beer F.C. 1914",
+      "latitude": 40.600063,
+      "longitude": 22.970231
+    },
+    {
+      "name": "Beer king",
+      "latitude": 37.941745,
+      "longitude": 23.643735
+    },
+    {
+      "name": "Beer o' clock",
+      "latitude": 35.33979,
+      "longitude": 25.132754
+    },
+    {
+      "name": "Beer o' clock 2",
+      "latitude": 35.339787,
+      "longitude": 25.132603
+    },
+    {
+      "name": "Beer Station",
+      "latitude": 40.576711,
+      "longitude": 22.946057
+    },
+    {
+      "name": "Beer Time",
+      "latitude": 37.978283,
+      "longitude": 23.724991
+    },
+    {
+      "name": "Bellini",
+      "latitude": 39.627508,
+      "longitude": 19.921165
+    },
+    {
+      "name": "Berlin",
+      "latitude": 36.451539,
+      "longitude": 28.216856
+    },
+    {
+      "name": "Bike Cafe",
+      "latitude": 37.571358,
+      "longitude": 22.806545
+    },
+    {
+      "name": "Birdman",
+      "latitude": 37.974654,
+      "longitude": 23.732498
+    },
+    {
+      "name": "Birmingham Beer House",
+      "latitude": 37.944522,
+      "longitude": 23.686309
+    },
+    {
+      "name": "Bites & Pints",
+      "latitude": 38.021142,
+      "longitude": 23.802153
+    },
+    {
+      "name": "Blame The Sun Taproom",
+      "latitude": 37.964819,
+      "longitude": 23.723576
+    },
+    {
+      "name": "Blend",
+      "latitude": 35.319471,
+      "longitude": 25.391582
+    },
+    {
+      "name": "Bollero",
+      "latitude": 40.717693,
+      "longitude": 23.705335
+    },
+    {
+      "name": "Bozi Bar",
+      "latitude": 36.409844,
+      "longitude": 27.394608
+    },
+    {
+      "name": "Breeze Bar",
+      "latitude": 37.814347,
+      "longitude": 20.866579
+    },
+    {
+      "name": "Brew str.",
+      "latitude": 37.972871,
+      "longitude": 23.733015
+    },
+    {
+      "name": "brew your mind",
+      "latitude": 35.369303,
+      "longitude": 24.475993
+    },
+    {
+      "name": "Brilliant",
+      "latitude": 35.217941,
+      "longitude": 24.536103
+    },
+    {
+      "name": "Broken Clock",
+      "latitude": 40.637337,
+      "longitude": 22.93911
+    },
+    {
+      "name": "Bumerang",
+      "latitude": 36.451845,
+      "longitude": 28.217212
+    },
+    {
+      "name": "Cactus",
+      "latitude": 35.308346,
+      "longitude": 25.51955
+    },
+    {
+      "name": "Cafeneion El Greco",
+      "latitude": 35.385536,
+      "longitude": 24.95109
+    },
+    {
+      "name": "Cafeteria Pirate",
+      "latitude": 40.763584,
+      "longitude": 23.902953
+    },
+    {
+      "name": "Cantina Rock & Blues Pub",
+      "latitude": 36.9717,
+      "longitude": 26.93403
+    },
+    {
+      "name": "Carnayo",
+      "latitude": 39.181611,
+      "longitude": 20.205128
+    },
+    {
+      "name": "Catalan",
+      "latitude": 37.986497,
+      "longitude": 23.732671
+    },
+    {
+      "name": "Cheers sportsbar",
+      "latitude": 39.381563,
+      "longitude": 20.115428
+    },
+    {
+      "name": "Chico",
+      "latitude": 37.963112,
+      "longitude": 23.720668
+    },
+    {
+      "name": "Conroy's Irish Pub",
+      "latitude": 38.834012,
+      "longitude": 20.711378
+    },
+    {
+      "name": "Costas",
+      "latitude": 36.222996,
+      "longitude": 27.612553
+    },
+    {
+      "name": "Cuccurreddu caffe bar",
+      "latitude": 39.98962,
+      "longitude": 23.616062
+    },
+    {
+      "name": "Cult",
+      "latitude": 39.162572,
+      "longitude": 20.985088
+    },
+    {
+      "name": "Daluz Beach Bar",
+      "latitude": 39.14929,
+      "longitude": 23.404649
+    },
+    {
+      "name": "Dance12",
+      "latitude": 37.813031,
+      "longitude": 20.868771
+    },
+    {
+      "name": "Demis",
+      "latitude": 36.453372,
+      "longitude": 28.220881
+    },
+    {
+      "name": "Destino",
+      "latitude": 39.369206,
+      "longitude": 26.169667
+    },
+    {
+      "name": "Diverso",
+      "latitude": 39.371588,
+      "longitude": 21.184359
+    },
+    {
+      "name": "Drunk Moon Bar",
+      "latitude": 37.816234,
+      "longitude": 20.864484
+    },
+    {
+      "name": "Dundee's Pub",
+      "latitude": 36.38286,
+      "longitude": 28.03312
+    },
+    {
+      "name": "Eintracht Kneipe Mailia Kreta",
+      "latitude": 35.292597,
+      "longitude": 25.475012
+    },
+    {
+      "name": "Em-Beer-ia",
+      "latitude": 40.636562,
+      "longitude": 22.936583
+    },
+    {
+      "name": "Etisies Beach bar",
+      "latitude": 40.757199,
+      "longitude": 24.561422
+    },
+    {
+      "name": "Eukaliptos",
+      "latitude": 35.377663,
+      "longitude": 23.731731
+    },
+    {
+      "name": "Evangelia's",
+      "latitude": 35.261807,
+      "longitude": 25.723229
+    },
+    {
+      "name": "Fagopotion Polopetros",
+      "latitude": 35.287608,
+      "longitude": 24.373554
+    },
+    {
+      "name": "Fagotto",
+      "latitude": 35.517862,
+      "longitude": 24.015484
+    },
+    {
+      "name": "Faros",
+      "latitude": 36.990958,
+      "longitude": 26.931679
+    },
+    {
+      "name": "Film Cafe bar",
+      "latitude": 40.63725,
+      "longitude": 22.947339
+    },
+    {
+      "name": "Fiorendino",
+      "latitude": 38.458451,
+      "longitude": 20.66403
+    },
+    {
+      "name": "Fish N Chips",
+      "latitude": 38.029366,
+      "longitude": 23.7809
+    },
+    {
+      "name": "Flora",
+      "latitude": 36.2959,
+      "longitude": 28.17335
+    },
+    {
+      "name": "Fogg's Beerhouse",
+      "latitude": 39.161855,
+      "longitude": 20.984073
+    },
+    {
+      "name": "Friends",
+      "latitude": 37.818665,
+      "longitude": 20.862606
+    },
+    {
+      "name": "Galaxy",
+      "latitude": 35.283287,
+      "longitude": 25.460621
+    },
+    {
+      "name": "Galera",
+      "latitude": 40.509091,
+      "longitude": 22.925625
+    },
+    {
+      "name": "Galley",
+      "latitude": 35.20321,
+      "longitude": 25.715162
+    },
+    {
+      "name": "Geogioupolis Beach Canteen",
+      "latitude": 35.364327,
+      "longitude": 24.261473
+    },
+    {
+      "name": "George's Pub",
+      "latitude": 40.095777,
+      "longitude": 23.977398
+    },
+    {
+      "name": "Gerry's RePUBlic",
+      "latitude": 37.990263,
+      "longitude": 23.742167
+    },
+    {
+      "name": "Green Paradise Cafe Snack Bar",
+      "latitude": 38.07127,
+      "longitude": 20.798979
+    },
+    {
+      "name": "Green Rose",
+      "latitude": 38.01186,
+      "longitude": 23.69086
+    },
+    {
+      "name": "Grill",
+      "latitude": 35.220228,
+      "longitude": 24.532384
+    },
+    {
+      "name": "Gyroscopio",
+      "latitude": 35.307808,
+      "longitude": 25.527188
+    },
+    {
+      "name": "Happy Flo",
+      "latitude": 37.416253,
+      "longitude": 23.126304
+    },
+    {
+      "name": "Harry's Bar",
+      "latitude": 39.793872,
+      "longitude": 19.819968
+    },
+    {
+      "name": "Havana Club",
+      "latitude": 39.704534,
+      "longitude": 19.842334
+    },
+    {
+      "name": "Hedgehog",
+      "latitude": 37.565942,
+      "longitude": 22.798134
+    },
+    {
+      "name": "High Hopes Taproom",
+      "latitude": 35.34142,
+      "longitude": 25.130372
+    },
+    {
+      "name": "Il Cielo Beach Bar",
+      "latitude": 37.733307,
+      "longitude": 20.977159
+    },
+    {
+      "name": "Il Rivo",
+      "latitude": 40.778059,
+      "longitude": 21.40567
+    },
+    {
+      "name": "Illusion Bar",
+      "latitude": 39.790361,
+      "longitude": 19.921604
+    },
+    {
+      "name": "Imeros",
+      "latitude": 40.099643,
+      "longitude": 23.436849
+    },
+    {
+      "name": "Irini",
+      "latitude": 35.368117,
+      "longitude": 24.504203
+    },
+    {
+      "name": "Irish Pub",
+      "latitude": 39.791074,
+      "longitude": 19.708586
+    },
+    {
+      "name": "Irish Pub Rain",
+      "latitude": 40.271846,
+      "longitude": 22.498873
+    },
+    {
+      "name": "Jackey 'O",
+      "latitude": 37.992174,
+      "longitude": 23.33852
+    },
+    {
+      "name": "Jimmys",
+      "latitude": 37.34944,
+      "longitude": 21.72785
+    },
+    {
+      "name": "Johnny's pub",
+      "latitude": 36.452126,
+      "longitude": 28.22163
+    },
+    {
+      "name": "Joker's",
+      "latitude": 37.810601,
+      "longitude": 20.871879
+    },
+    {
+      "name": "Joy",
+      "latitude": 40.509534,
+      "longitude": 22.926431
+    },
+    {
+      "name": "Jumpin Jaks",
+      "latitude": 35.285083,
+      "longitude": 25.462341
+    },
+    {
+      "name": "Ka Mon",
+      "latitude": 35.517906,
+      "longitude": 24.02051
+    },
+    {
+      "name": "Kafenion",
+      "latitude": 35.403413,
+      "longitude": 23.710141
+    },
+    {
+      "name": "Kafenion Sirikari",
+      "latitude": 35.416033,
+      "longitude": 23.642548
+    },
+    {
+      "name": "Kafenion Vlatos",
+      "latitude": 35.388825,
+      "longitude": 23.650659
+    },
+    {
+      "name": "Kaliva Pub",
+      "latitude": 37.820464,
+      "longitude": 20.862474
+    },
+    {
+      "name": "Kapheneion",
+      "latitude": 35.339699,
+      "longitude": 25.136291
+    },
+    {
+      "name": "Kaza",
+      "latitude": 35.283399,
+      "longitude": 25.460895
+    },
+    {
+      "name": "kiki’s tavern",
+      "latitude": 37.485957,
+      "longitude": 25.360505
+    },
+    {
+      "name": "Kozel",
+      "latitude": 40.779986,
+      "longitude": 21.409093
+    },
+    {
+      "name": "La Bella Sposa",
+      "latitude": 39.668233,
+      "longitude": 20.859099
+    },
+    {
+      "name": "La Costa",
+      "latitude": 40.764938,
+      "longitude": 23.900389
+    },
+    {
+      "name": "LEUKES NYXTES",
+      "latitude": 37.939517,
+      "longitude": 23.642381
+    },
+    {
+      "name": "Level",
+      "latitude": 37.815102,
+      "longitude": 20.865759
+    },
+    {
+      "name": "Life",
+      "latitude": 37.58222,
+      "longitude": 25.189808
+    },
+    {
+      "name": "Litsa",
+      "latitude": 34.848669,
+      "longitude": 24.118961
+    },
+    {
+      "name": "LOGIN Billiard Center",
+      "latitude": 40.631181,
+      "longitude": 22.952414
+    },
+    {
+      "name": "Macao",
+      "latitude": 36.442946,
+      "longitude": 28.224605
+    },
+    {
+      "name": "Magdalena's Cocktail Bar",
+      "latitude": 37.811839,
+      "longitude": 20.872298
+    },
+    {
+      "name": "Malt Barrel",
+      "latitude": 36.450881,
+      "longitude": 28.216291
+    },
+    {
+      "name": "Mambo",
+      "latitude": 37.813649,
+      "longitude": 20.872393
+    },
+    {
+      "name": "Mamouth",
+      "latitude": 35.516103,
+      "longitude": 24.019184
+    },
+    {
+      "name": "Mango",
+      "latitude": 39.033289,
+      "longitude": 22.962253
+    },
+    {
+      "name": "Mansion group (night club)",
+      "latitude": 37.86672,
+      "longitude": 23.736642
+    },
+    {
+      "name": "Mare Blue",
+      "latitude": 35.309731,
+      "longitude": 25.523916
+    },
+    {
+      "name": "Melachrinos Café",
+      "latitude": 36.215578,
+      "longitude": 28.117841
+    },
+    {
+      "name": "Melodies",
+      "latitude": 39.652781,
+      "longitude": 19.842613
+    },
+    {
+      "name": "Mike's",
+      "latitude": 36.336412,
+      "longitude": 28.196835
+    },
+    {
+      "name": "Mike's pub old school",
+      "latitude": 35.320734,
+      "longitude": 25.391651
+    },
+    {
+      "name": "Mikro Horio",
+      "latitude": 36.422523,
+      "longitude": 27.370569
+    },
+    {
+      "name": "Mistral - Coffee & Wine Bar",
+      "latitude": 38.625113,
+      "longitude": 21.4087
+    },
+    {
+      "name": "Mojitos",
+      "latitude": 39.703734,
+      "longitude": 19.841757
+    },
+    {
+      "name": "Molly Malone's Irish Pub",
+      "latitude": 37.813181,
+      "longitude": 20.869445
+    },
+    {
+      "name": "Molly Malone's Irish Pub",
+      "latitude": 37.815424,
+      "longitude": 20.865235
+    },
+    {
+      "name": "Moment roof bar",
+      "latitude": 37.978088,
+      "longitude": 23.728689
+    },
+    {
+      "name": "Mozaik",
+      "latitude": 36.442883,
+      "longitude": 28.224599
+    },
+    {
+      "name": "Music Bar",
+      "latitude": 36.612111,
+      "longitude": 27.132497
+    },
+    {
+      "name": "Natural Café",
+      "latitude": 37.981613,
+      "longitude": 23.722888
+    },
+    {
+      "name": "Nomads",
+      "latitude": 37.977219,
+      "longitude": 23.721502
+    },
+    {
+      "name": "Norske Baren",
+      "latitude": 36.453162,
+      "longitude": 28.220806
+    },
+    {
+      "name": "O Platanos",
+      "latitude": 35.453237,
+      "longitude": 24.172336
+    },
+    {
+      "name": "Oasis bar",
+      "latitude": 35.258655,
+      "longitude": 25.728754
+    },
+    {
+      "name": "Ocean Pub",
+      "latitude": 36.72988,
+      "longitude": 22.555168
+    },
+    {
+      "name": "Old Post",
+      "latitude": 39.161909,
+      "longitude": 20.98796
+    },
+    {
+      "name": "Orange",
+      "latitude": 35.366963,
+      "longitude": 24.492443
+    },
+    {
+      "name": "Ouzeri O Stoukas",
+      "latitude": 36.951213,
+      "longitude": 26.986123
+    },
+    {
+      "name": "oxo",
+      "latitude": 35.00769,
+      "longitude": 25.739261
+    },
+    {
+      "name": "Padre",
+      "latitude": 37.986846,
+      "longitude": 23.733974
+    },
+    {
+      "name": "Panorama Taverna",
+      "latitude": 35.210267,
+      "longitude": 24.098889
+    },
+    {
+      "name": "Panoramic Taverna",
+      "latitude": 35.192286,
+      "longitude": 24.32976
+    },
+    {
+      "name": "Panther Music Bar",
+      "latitude": 34.930455,
+      "longitude": 24.923088
+    },
+    {
+      "name": "Paradiso Beach bar",
+      "latitude": 40.771158,
+      "longitude": 23.887825
+    },
+    {
+      "name": "Paradosiako cafeneio",
+      "latitude": 37.605027,
+      "longitude": 25.074934
+    },
+    {
+      "name": "Paris Garden",
+      "latitude": 36.441566,
+      "longitude": 28.225721
+    },
+    {
+      "name": "Passion",
+      "latitude": 36.60217,
+      "longitude": 22.909541
+    },
+    {
+      "name": "Peninsula Taverna by the Pool",
+      "latitude": 35.414847,
+      "longitude": 25.019019
+    },
+    {
+      "name": "Pepper",
+      "latitude": 40.628987,
+      "longitude": 22.945268
+    },
+    {
+      "name": "piazza coffee - bar",
+      "latitude": 39.100087,
+      "longitude": 23.076816
+    },
+    {
+      "name": "Pirates",
+      "latitude": 38.62366,
+      "longitude": 20.681399
+    },
+    {
+      "name": "Piscina Pool Bar",
+      "latitude": 37.812829,
+      "longitude": 20.868225
+    },
+    {
+      "name": "Planet Pub",
+      "latitude": 37.813117,
+      "longitude": 20.870355
+    },
+    {
+      "name": "Planos Pub",
+      "latitude": 37.817692,
+      "longitude": 20.86618
+    },
+    {
+      "name": "Platanos",
+      "latitude": 36.336163,
+      "longitude": 28.196522
+    },
+    {
+      "name": "Play",
+      "latitude": 40.661006,
+      "longitude": 22.928668
+    },
+    {
+      "name": "Pool Side Bar",
+      "latitude": 38.072354,
+      "longitude": 20.797571
+    },
+    {
+      "name": "Portioli",
+      "latitude": 37.416105,
+      "longitude": 23.126252
+    },
+    {
+      "name": "Porto",
+      "latitude": 38.830407,
+      "longitude": 20.712008
+    },
+    {
+      "name": "Potamos Kafenion",
+      "latitude": 35.451858,
+      "longitude": 24.173509
+    },
+    {
+      "name": "Pub 38",
+      "latitude": 39.707503,
+      "longitude": 21.622553
+    },
+    {
+      "name": "Pub Stegna Bay",
+      "latitude": 36.202859,
+      "longitude": 28.138444
+    },
+    {
+      "name": "Red Apple",
+      "latitude": 37.81917,
+      "longitude": 20.862468
+    },
+    {
+      "name": "Red Lion",
+      "latitude": 36.450414,
+      "longitude": 28.216378
+    },
+    {
+      "name": "Red Lion Pub",
+      "latitude": 37.974503,
+      "longitude": 23.749966
+    },
+    {
+      "name": "Red Rock",
+      "latitude": 37.165844,
+      "longitude": 22.862825
+    },
+    {
+      "name": "Reflections",
+      "latitude": 36.453352,
+      "longitude": 28.220972
+    },
+    {
+      "name": "REMEBER",
+      "latitude": 39.081324,
+      "longitude": 26.18443
+    },
+    {
+      "name": "Rendevou",
+      "latitude": 37.811614,
+      "longitude": 20.872333
+    },
+    {
+      "name": "Rock Garden",
+      "latitude": 36.073499,
+      "longitude": 28.056296
+    },
+    {
+      "name": "Rooster",
+      "latitude": 37.97719,
+      "longitude": 23.728417
+    },
+    {
+      "name": "Rovers Return Inn",
+      "latitude": 35.292281,
+      "longitude": 25.438032
+    },
+    {
+      "name": "Sallys Garden Bar",
+      "latitude": 38.07478,
+      "longitude": 20.79698
+    },
+    {
+      "name": "Saloon",
+      "latitude": 38.249506,
+      "longitude": 21.738098
+    },
+    {
+      "name": "Sazerac",
+      "latitude": 37.714291,
+      "longitude": 24.054044
+    },
+    {
+      "name": "Self Service",
+      "latitude": 37.583126,
+      "longitude": 25.17107
+    },
+    {
+      "name": "Shelter",
+      "latitude": 37.977226,
+      "longitude": 23.771815
+    },
+    {
+      "name": "Shenanigans Irish Pub",
+      "latitude": 35.318971,
+      "longitude": 25.391706
+    },
+    {
+      "name": "Silver Spur",
+      "latitude": 39.55722,
+      "longitude": 21.766795
+    },
+    {
+      "name": "Sips N Guts",
+      "latitude": 37.936898,
+      "longitude": 23.639358
+    },
+    {
+      "name": "Soler",
+      "latitude": 40.662498,
+      "longitude": 22.931532
+    },
+    {
+      "name": "Sorry Mom Taproom",
+      "latitude": 38.006225,
+      "longitude": 23.826924
+    },
+    {
+      "name": "Spiros Bond 007",
+      "latitude": 39.708273,
+      "longitude": 19.701814
+    },
+    {
+      "name": "Spit Jack",
+      "latitude": 37.974067,
+      "longitude": 23.732547
+    },
+    {
+      "name": "splash",
+      "latitude": 40.717663,
+      "longitude": 23.708412
+    },
+    {
+      "name": "Sport cafe",
+      "latitude": 40.641438,
+      "longitude": 22.933868
+    },
+    {
+      "name": "Sports Cafe",
+      "latitude": 35.306324,
+      "longitude": 25.394509
+    },
+    {
+      "name": "Status",
+      "latitude": 36.783069,
+      "longitude": 27.140722
+    },
+    {
+      "name": "Stockholm Pub",
+      "latitude": 37.986432,
+      "longitude": 23.755045
+    },
+    {
+      "name": "Strada Beer Bar",
+      "latitude": 39.626028,
+      "longitude": 19.920986
+    },
+    {
+      "name": "Strike - Bowling Billiards Cafe",
+      "latitude": 39.721348,
+      "longitude": 19.675883
+    },
+    {
+      "name": "Sunset",
+      "latitude": 37.816602,
+      "longitude": 20.864564
+    },
+    {
+      "name": "Sunset Café",
+      "latitude": 36.933117,
+      "longitude": 27.13289
+    },
+    {
+      "name": "Ta Giouvetsakia\nTaverna Ta Yuvetsakia",
+      "latitude": 37.971628,
+      "longitude": 23.730283
+    },
+    {
+      "name": "Ta Naftakia",
+      "latitude": 39.667985,
+      "longitude": 20.859105
+    },
+    {
+      "name": "Tam Tam Beach Bar",
+      "latitude": 36.857362,
+      "longitude": 27.106773
+    },
+    {
+      "name": "Tap 27",
+      "latitude": 37.968745,
+      "longitude": 23.743576
+    },
+    {
+      "name": "Tapfield",
+      "latitude": 37.978144,
+      "longitude": 23.723234
+    },
+    {
+      "name": "Tar",
+      "latitude": 38.020067,
+      "longitude": 23.737276
+    },
+    {
+      "name": "Taverna Femina",
+      "latitude": 38.076433,
+      "longitude": 20.772547
+    },
+    {
+      "name": "Taverna Mazedonien",
+      "latitude": 35.366728,
+      "longitude": 24.475547
+    },
+    {
+      "name": "Taverna No7",
+      "latitude": 40.851786,
+      "longitude": 25.7868
+    },
+    {
+      "name": "Taverna Preveli",
+      "latitude": 35.18374,
+      "longitude": 24.452382
+    },
+    {
+      "name": "Tawerna Diogenes",
+      "latitude": 35.206959,
+      "longitude": 25.713462
+    },
+    {
+      "name": "Tennis Bar",
+      "latitude": 36.760824,
+      "longitude": 27.098893
+    },
+    {
+      "name": "Teory",
+      "latitude": 37.566304,
+      "longitude": 22.79783
+    },
+    {
+      "name": "The Alchemical Pub",
+      "latitude": 39.625759,
+      "longitude": 19.919907
+    },
+    {
+      "name": "The Barley Pub",
+      "latitude": 40.299595,
+      "longitude": 21.787526
+    },
+    {
+      "name": "The Blackbird Taverna",
+      "latitude": 39.148777,
+      "longitude": 23.391885
+    },
+    {
+      "name": "The Bristol Pub",
+      "latitude": 40.599188,
+      "longitude": 22.951601
+    },
+    {
+      "name": "The Dogs Place",
+      "latitude": 37.967403,
+      "longitude": 23.712622
+    },
+    {
+      "name": "The Grey Cat",
+      "latitude": 38.032152,
+      "longitude": 23.737396
+    },
+    {
+      "name": "The Guiness House",
+      "latitude": 35.334111,
+      "longitude": 25.304891
+    },
+    {
+      "name": "The Highlander",
+      "latitude": 36.418517,
+      "longitude": 25.431774
+    },
+    {
+      "name": "The Hoppy Pub",
+      "latitude": 40.627933,
+      "longitude": 22.948913
+    },
+    {
+      "name": "The Hub",
+      "latitude": 35.289925,
+      "longitude": 25.461198
+    },
+    {
+      "name": "The James Joyce",
+      "latitude": 37.97686,
+      "longitude": 23.722684
+    },
+    {
+      "name": "The Jolly Roger",
+      "latitude": 35.309512,
+      "longitude": 25.523162
+    },
+    {
+      "name": "The Leaky Tap",
+      "latitude": 37.940164,
+      "longitude": 23.648566
+    },
+    {
+      "name": "The Local Pub",
+      "latitude": 38.021199,
+      "longitude": 23.802029
+    },
+    {
+      "name": "The Lucky Sparrow",
+      "latitude": 37.977959,
+      "longitude": 23.711584
+    },
+    {
+      "name": "The Old Fisherman",
+      "latitude": 40.635109,
+      "longitude": 22.937175
+    },
+    {
+      "name": "The pub",
+      "latitude": 40.635283,
+      "longitude": 22.937317
+    },
+    {
+      "name": "Tikla cuzina & wine bar",
+      "latitude": 36.885811,
+      "longitude": 22.232641
+    },
+    {
+      "name": "To Kentpo",
+      "latitude": 38.445616,
+      "longitude": 20.646667
+    },
+    {
+      "name": "To Steki",
+      "latitude": 36.222838,
+      "longitude": 27.612392
+    },
+    {
+      "name": "Tropical Bar",
+      "latitude": 35.308529,
+      "longitude": 25.524488
+    },
+    {
+      "name": "Tsakalof",
+      "latitude": 37.977983,
+      "longitude": 23.740634
+    },
+    {
+      "name": "Tsayius",
+      "latitude": 38.581687,
+      "longitude": 23.837924
+    },
+    {
+      "name": "Tudor Inn",
+      "latitude": 39.652841,
+      "longitude": 19.842298
+    },
+    {
+      "name": "U Fleku",
+      "latitude": 40.635716,
+      "longitude": 22.936698
+    },
+    {
+      "name": "Unlimit cocktail bar",
+      "latitude": 39.67547,
+      "longitude": 19.713165
+    },
+    {
+      "name": "Utopia",
+      "latitude": 37.81496,
+      "longitude": 20.866298
+    },
+    {
+      "name": "Valentin - Curious Bierkneipe",
+      "latitude": 39.363753,
+      "longitude": 22.935897
+    },
+    {
+      "name": "Vasilis Meze Place (The Office)",
+      "latitude": 35.358749,
+      "longitude": 24.572214
+    },
+    {
+      "name": "Venue",
+      "latitude": 38.07404,
+      "longitude": 20.797703
+    },
+    {
+      "name": "Vergina",
+      "latitude": 39.671023,
+      "longitude": 19.736711
+    },
+    {
+      "name": "Wembley Bar",
+      "latitude": 35.33326,
+      "longitude": 25.305791
+    },
+    {
+      "name": "ēstro",
+      "latitude": 35.5152,
+      "longitude": 24.020075
+    },
+    {
+      "name": "Αββαείο",
+      "latitude": 37.073323,
+      "longitude": 22.430239
+    },
+    {
+      "name": "Ανάφης γη",
+      "latitude": 36.350971,
+      "longitude": 25.767725
+    },
+    {
+      "name": "Αποσπερίτης",
+      "latitude": 40.633606,
+      "longitude": 22.951994
+    },
+    {
+      "name": "Βινύλιο Μπυραρία",
+      "latitude": 38.875256,
+      "longitude": 23.436705
+    },
+    {
+      "name": "Δροσια",
+      "latitude": 35.254993,
+      "longitude": 24.172169
+    },
+    {
+      "name": "Ζύθοινος",
+      "latitude": 40.798079,
+      "longitude": 22.414712
+    },
+    {
+      "name": "Θυμωμένο Πορτραίτο",
+      "latitude": 39.660118,
+      "longitude": 20.848843
+    },
+    {
+      "name": "Ιέρα Club",
+      "latitude": 39.065708,
+      "longitude": 26.471415
+    },
+    {
+      "name": "Καραμέλα",
+      "latitude": 38.365571,
+      "longitude": 20.715137
+    },
+    {
+      "name": "Καφενείο Κοτύλης",
+      "latitude": 40.342731,
+      "longitude": 21.031844
+    },
+    {
+      "name": "Κοτόπουλα του Τάκη",
+      "latitude": 40.084901,
+      "longitude": 21.426647
+    },
+    {
+      "name": "Κουρδιστό Πορτοκάλι",
+      "latitude": 39.160012,
+      "longitude": 20.983479
+    },
+    {
+      "name": "Κυκάω",
+      "latitude": 38.300905,
+      "longitude": 21.819093
+    },
+    {
+      "name": "Λυχνάρι",
+      "latitude": 39.339888,
+      "longitude": 23.01089
+    },
+    {
+      "name": "Μέγαρο",
+      "latitude": 40.660939,
+      "longitude": 22.934447
+    },
+    {
+      "name": "Μαρακανά",
+      "latitude": 40.674469,
+      "longitude": 22.927666
+    },
+    {
+      "name": "Ματζορε",
+      "latitude": 40.634592,
+      "longitude": 22.950746
+    },
+    {
+      "name": "Μουσική σκηνή \"Σταυρός του Νότου\"",
+      "latitude": 37.962184,
+      "longitude": 23.726185
+    },
+    {
+      "name": "ΜΟΥΣΙΚΟ ΚΑΦΕΝΕΙΟ",
+      "latitude": 39.107369,
+      "longitude": 26.558344
+    },
+    {
+      "name": "Μουσικό Καφενείο",
+      "latitude": 37.947883,
+      "longitude": 23.714627
+    },
+    {
+      "name": "Μπαρόκ",
+      "latitude": 37.420008,
+      "longitude": 24.879354
+    },
+    {
+      "name": "Μπουάτ Αλογόκριτο",
+      "latitude": 37.96449,
+      "longitude": 23.743936
+    },
+    {
+      "name": "Μπυραρία του Ρούντι",
+      "latitude": 35.51783,
+      "longitude": 24.02157
+    },
+    {
+      "name": "Μπυρολόγος",
+      "latitude": 39.554179,
+      "longitude": 21.767827
+    },
+    {
+      "name": "Μπύραμα",
+      "latitude": 37.939806,
+      "longitude": 23.649685
+    },
+    {
+      "name": "Μύθος",
+      "latitude": 40.637384,
+      "longitude": 22.939376
+    },
+    {
+      "name": "Ξιρας",
+      "latitude": 35.254761,
+      "longitude": 24.171858
+    },
+    {
+      "name": "Οιωνός",
+      "latitude": 39.122074,
+      "longitude": 23.727437
+    },
+    {
+      "name": "Ουζερί Ψησταριά ο μπάρμπαγιάννης",
+      "latitude": 39.100097,
+      "longitude": 23.076596
+    },
+    {
+      "name": "Πέτρινο",
+      "latitude": 38.256882,
+      "longitude": 21.741623
+    },
+    {
+      "name": "Πρεσβεία",
+      "latitude": 39.67128,
+      "longitude": 20.857228
+    },
+    {
+      "name": "Ρακαδημία",
+      "latitude": 35.008454,
+      "longitude": 25.739886
+    },
+    {
+      "name": "Ριζα",
+      "latitude": 39.668808,
+      "longitude": 20.850759
+    },
+    {
+      "name": "ΣΑΛΙΜΑΡ",
+      "latitude": 39.079025,
+      "longitude": 26.535748
+    },
+    {
+      "name": "Σταυρός του Νότου Club",
+      "latitude": 37.961929,
+      "longitude": 23.725973
+    },
+    {
+      "name": "Σταυρός του Νότου Plus",
+      "latitude": 37.961929,
+      "longitude": 23.725606
+    },
+    {
+      "name": "στεριά [sterja]",
+      "latitude": 35.516253,
+      "longitude": 24.021551
+    },
+    {
+      "name": "Στουπί Καφενείο",
+      "latitude": 38.012397,
+      "longitude": 23.692308
+    },
+    {
+      "name": "Στρατιδακης",
+      "latitude": 35.218039,
+      "longitude": 24.535033
+    },
+    {
+      "name": "Τζεπέτο",
+      "latitude": 35.371288,
+      "longitude": 24.472788
+    },
+    {
+      "name": "Τηνιακό",
+      "latitude": 37.990459,
+      "longitude": 23.737963
+    },
+    {
+      "name": "ΤΟ ΠΑΛΙΟ ΣΤΕΚΙ",
+      "latitude": 41.132212,
+      "longitude": 24.866813
+    },
+    {
+      "name": "Το Περίπτερο",
+      "latitude": 37.818183,
+      "longitude": 24.834739
+    },
+    {
+      "name": "Τσέχικη Μπυραρία - Ο Τσέχος",
+      "latitude": 40.611895,
+      "longitude": 22.982646
+    },
+    {
+      "name": "Φανός",
+      "latitude": 36.935677,
+      "longitude": 25.615447
+    }
+  ],
+  "meta": {
+    "title": "Παμπ Ελλάδας - Δωρεάν λήψη",
+    "description": "Παμπ σε όλη την Ελλάδα από το OpenStreetMap. Pubs across Greece. Περιέχει 291 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Παμπ Ελλάδας | ListBase",
+    "seo_description": "Λήψη Παμπ Ελλάδας — 291 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 291 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

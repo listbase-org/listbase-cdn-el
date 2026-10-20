@@ -1,0 +1,6 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LG54","","Tympaki Airport","tympaki-airport","Crete Island","Περιφέρεια Κρήτης","Crete","kritis","Crete Region","GR","7","35.0637016296","24.7674007416","Europe/Athens","false"
+"LGIR","HER","Heraklion International Nikos Kazantzakis Airport","heraklion-international-nikos-kazantzakis-airport","Heraklion","Περιφέρεια Κρήτης","Crete","kritis","Crete Region","GR","115","35.3396987915","25.1802997589","Europe/Athens","true"
+"LGSA","CHQ","Chania International Airport","chania-international-airport","Souda","Περιφέρεια Κρήτης","Crete","kritis","Crete Region","GR","490","35.5317001343","24.1497001648","Europe/Athens","true"
+"LGST","JSH","Sitia Airport","sitia-airport","Crete Island","Περιφέρεια Κρήτης","Crete","kritis","Crete Region","GR","376","35.2160987854","26.1012992859","Europe/Athens","true"
+"LGTL","","Kasteli Airport","kasteli-airport","Crete Island","Περιφέρεια Κρήτης","Crete","kritis","Crete Region","GR","1180","35.1920013428","25.3269996643","Europe/Athens","false"

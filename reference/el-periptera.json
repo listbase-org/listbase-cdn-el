@@ -1,0 +1,1421 @@
+{
+  "id": "el-periptera",
+  "name": "Περίπτερα στην Ελλάδα",
+  "title": "Περίπτερα στην Ελλάδα",
+  "description": "Περίπτερα στην Ελλάδα από δεδομένα OpenStreetMap (shop=kiosk). Όνομα και συντεταγμένες WGS84.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 276,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": ".Red Spot",
+      "latitude": 35.367063,
+      "longitude": 24.480043
+    },
+    {
+      "name": ".red spot",
+      "latitude": 37.02472,
+      "longitude": 22.116713
+    },
+    {
+      "name": "24 ώρες ΑΝΟΙΧΤΑ",
+      "latitude": 37.938586,
+      "longitude": 22.936674
+    },
+    {
+      "name": "24h ΠΕΡΙΠΤΕΡΟ",
+      "latitude": 38.01832,
+      "longitude": 23.692751
+    },
+    {
+      "name": "7&7 Discount Store",
+      "latitude": 38.029315,
+      "longitude": 23.734501
+    },
+    {
+      "name": "all in",
+      "latitude": 40.589545,
+      "longitude": 22.95935
+    },
+    {
+      "name": "alt.deal",
+      "latitude": 40.475514,
+      "longitude": 22.869332
+    },
+    {
+      "name": "alt.deal",
+      "latitude": 40.646267,
+      "longitude": 22.920223
+    },
+    {
+      "name": "Amoudi Tourist Shop",
+      "latitude": 37.840714,
+      "longitude": 20.804497
+    },
+    {
+      "name": "AQUA",
+      "latitude": 39.136134,
+      "longitude": 25.927094
+    },
+    {
+      "name": "ARCHELON Information Kiosk",
+      "latitude": 34.993352,
+      "longitude": 24.751236
+    },
+    {
+      "name": "Aspasia",
+      "latitude": 35.319807,
+      "longitude": 25.39187
+    },
+    {
+      "name": "Billy's kiosk",
+      "latitude": 36.278905,
+      "longitude": 28.153264
+    },
+    {
+      "name": "Black Diamond Hall",
+      "latitude": 40.52059,
+      "longitude": 21.262459
+    },
+    {
+      "name": "Books Kiosk",
+      "latitude": 37.98274,
+      "longitude": 23.733474
+    },
+    {
+      "name": "Bridge",
+      "latitude": 35.48622,
+      "longitude": 23.688198
+    },
+    {
+      "name": "Bus stop",
+      "latitude": 38.191862,
+      "longitude": 22.197259
+    },
+    {
+      "name": "Bye Bye Kiosk",
+      "latitude": 37.946443,
+      "longitude": 23.75921
+    },
+    {
+      "name": "CAFE & MORE",
+      "latitude": 35.328427,
+      "longitude": 25.307468
+    },
+    {
+      "name": "Cape Sol Mini Market",
+      "latitude": 37.909361,
+      "longitude": 23.713288
+    },
+    {
+      "name": "City Kiosk",
+      "latitude": 38.962384,
+      "longitude": 20.749704
+    },
+    {
+      "name": "Coffee Corner",
+      "latitude": 35.328016,
+      "longitude": 25.307301
+    },
+    {
+      "name": "E. Πλακούτση",
+      "latitude": 39.250909,
+      "longitude": 21.159635
+    },
+    {
+      "name": "Ergo Kiosk",
+      "latitude": 37.975118,
+      "longitude": 23.727311
+    },
+    {
+      "name": "Erythros Kiosky's",
+      "latitude": 37.992434,
+      "longitude": 23.766776
+    },
+    {
+      "name": "Eudeia",
+      "latitude": 35.534075,
+      "longitude": 24.075552
+    },
+    {
+      "name": "Executive kiosk",
+      "latitude": 37.861709,
+      "longitude": 23.752765
+    },
+    {
+      "name": "Executive Kiosk",
+      "latitude": 37.962389,
+      "longitude": 23.725412
+    },
+    {
+      "name": "Executive kiosk",
+      "latitude": 37.980254,
+      "longitude": 23.759077
+    },
+    {
+      "name": "Executive kiosk",
+      "latitude": 37.980762,
+      "longitude": 23.755079
+    },
+    {
+      "name": "Executive Kiosk",
+      "latitude": 37.99904,
+      "longitude": 23.722493
+    },
+    {
+      "name": "Executive Kiosk",
+      "latitude": 38.003424,
+      "longitude": 23.79308
+    },
+    {
+      "name": "Executive kiosk",
+      "latitude": 38.052265,
+      "longitude": 23.851682
+    },
+    {
+      "name": "Executive kiosk",
+      "latitude": 38.061913,
+      "longitude": 23.783009
+    },
+    {
+      "name": "Executive Kiosk",
+      "latitude": 40.104388,
+      "longitude": 22.501171
+    },
+    {
+      "name": "Executive Kiosk",
+      "latitude": 40.631192,
+      "longitude": 22.945328
+    },
+    {
+      "name": "Flavor Spot",
+      "latitude": 35.513377,
+      "longitude": 24.012629
+    },
+    {
+      "name": "Flavor Spot",
+      "latitude": 37.565804,
+      "longitude": 22.800416
+    },
+    {
+      "name": "Flavor spot",
+      "latitude": 37.944613,
+      "longitude": 23.648353
+    },
+    {
+      "name": "Flavor Spot",
+      "latitude": 38.01199,
+      "longitude": 23.728944
+    },
+    {
+      "name": "Flavor spot",
+      "latitude": 38.020969,
+      "longitude": 23.735618
+    },
+    {
+      "name": "Flavor Spot",
+      "latitude": 38.023614,
+      "longitude": 23.721796
+    },
+    {
+      "name": "Free 2 Go",
+      "latitude": 37.976078,
+      "longitude": 23.727389
+    },
+    {
+      "name": "Hellas-Egypt",
+      "latitude": 37.982202,
+      "longitude": 23.727679
+    },
+    {
+      "name": "Hellen's tiny Kiosk",
+      "latitude": 38.04451,
+      "longitude": 23.892245
+    },
+    {
+      "name": "Hellenic Kiosk",
+      "latitude": 40.641545,
+      "longitude": 22.959146
+    },
+    {
+      "name": "Hellenic Seaways",
+      "latitude": 37.945504,
+      "longitude": 23.639219
+    },
+    {
+      "name": "Hondos Center",
+      "latitude": 37.863461,
+      "longitude": 23.749585
+    },
+    {
+      "name": "Hondos Center",
+      "latitude": 37.977619,
+      "longitude": 23.737655
+    },
+    {
+      "name": "Ikarus Beach",
+      "latitude": 35.367424,
+      "longitude": 24.484345
+    },
+    {
+      "name": "Iqos",
+      "latitude": 38.033607,
+      "longitude": 23.737862
+    },
+    {
+      "name": "JAS4U",
+      "latitude": 37.863349,
+      "longitude": 23.750095
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 35.007402,
+      "longitude": 25.735337
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 36.205104,
+      "longitude": 28.139526
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 36.432275,
+      "longitude": 28.231993
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 36.437477,
+      "longitude": 28.229035
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 36.439152,
+      "longitude": 28.22419
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 36.439553,
+      "longitude": 28.231064
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 36.449932,
+      "longitude": 28.221936
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 38.072873,
+      "longitude": 23.81477
+    },
+    {
+      "name": "Kiosk",
+      "latitude": 38.3287,
+      "longitude": 21.876096
+    },
+    {
+      "name": "Kiosk Kardamili",
+      "latitude": 36.888406,
+      "longitude": 22.232185
+    },
+    {
+      "name": "Kiosk Mamouna Περίπτερο 'ΜΑΜΟΥΝΑ'",
+      "latitude": 38.033408,
+      "longitude": 22.110105
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.865066,
+      "longitude": 23.744146
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.868935,
+      "longitude": 23.759249
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.95484,
+      "longitude": 23.746659
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.954901,
+      "longitude": 23.679745
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.967555,
+      "longitude": 23.763215
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.967941,
+      "longitude": 23.747095
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.969575,
+      "longitude": 23.753464
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.976131,
+      "longitude": 23.725812
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.983624,
+      "longitude": 23.728293
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.98485,
+      "longitude": 23.767193
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.988744,
+      "longitude": 23.85053
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.991501,
+      "longitude": 23.682102
+    },
+    {
+      "name": "kiosky's",
+      "latitude": 37.992127,
+      "longitude": 23.732647
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.993232,
+      "longitude": 23.730101
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.994064,
+      "longitude": 23.765382
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 37.997445,
+      "longitude": 23.782528
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 38.004224,
+      "longitude": 23.775647
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 38.009937,
+      "longitude": 23.734971
+    },
+    {
+      "name": "Kiosky's",
+      "latitude": 38.02855,
+      "longitude": 23.751528
+    },
+    {
+      "name": "kiosky's",
+      "latitude": 38.057617,
+      "longitude": 23.771719
+    },
+    {
+      "name": "kioskys",
+      "latitude": 38.033267,
+      "longitude": 23.83453
+    },
+    {
+      "name": "Kiosky’s",
+      "latitude": 38.008145,
+      "longitude": 23.774225
+    },
+    {
+      "name": "Lindas MiniMarket",
+      "latitude": 39.603822,
+      "longitude": 19.799293
+    },
+    {
+      "name": "Luggage Storage",
+      "latitude": 39.626019,
+      "longitude": 19.910312
+    },
+    {
+      "name": "Magic Box",
+      "latitude": 37.74771,
+      "longitude": 23.905317
+    },
+    {
+      "name": "Magic Box",
+      "latitude": 37.862848,
+      "longitude": 23.74612
+    },
+    {
+      "name": "Magic Box",
+      "latitude": 37.863275,
+      "longitude": 23.747051
+    },
+    {
+      "name": "Magic box",
+      "latitude": 37.947935,
+      "longitude": 23.636296
+    },
+    {
+      "name": "Magic Box",
+      "latitude": 37.970715,
+      "longitude": 23.653711
+    },
+    {
+      "name": "Magic box",
+      "latitude": 37.973601,
+      "longitude": 23.650578
+    },
+    {
+      "name": "Magic Box",
+      "latitude": 37.974854,
+      "longitude": 23.655474
+    },
+    {
+      "name": "Mellow Yellow canteen",
+      "latitude": 39.138447,
+      "longitude": 25.919271
+    },
+    {
+      "name": "METRO Εισιτήρια - Κάρτες διαρκείας",
+      "latitude": 38.006835,
+      "longitude": 23.699904
+    },
+    {
+      "name": "Mini Kiosk",
+      "latitude": 35.33794,
+      "longitude": 25.135553
+    },
+    {
+      "name": "Mini Market",
+      "latitude": 35.364013,
+      "longitude": 24.45917
+    },
+    {
+      "name": "Mini Market",
+      "latitude": 36.95315,
+      "longitude": 26.977127
+    },
+    {
+      "name": "Mini Market Non-Stop",
+      "latitude": 36.875975,
+      "longitude": 27.154855
+    },
+    {
+      "name": "Mini Market Sophia",
+      "latitude": 35.318384,
+      "longitude": 24.414706
+    },
+    {
+      "name": "Mini stop kiosk",
+      "latitude": 37.947923,
+      "longitude": 23.710668
+    },
+    {
+      "name": "Mini stop kiosk",
+      "latitude": 38.017256,
+      "longitude": 23.741247
+    },
+    {
+      "name": "Mini-Market",
+      "latitude": 37.729059,
+      "longitude": 27.035494
+    },
+    {
+      "name": "MiniM",
+      "latitude": 40.604322,
+      "longitude": 22.978195
+    },
+    {
+      "name": "Mobile (phone) kiosk",
+      "latitude": 40.633744,
+      "longitude": 22.94467
+    },
+    {
+      "name": "Mougios",
+      "latitude": 37.498351,
+      "longitude": 23.454341
+    },
+    {
+      "name": "MΑΡΙΑ ΜΠΕΡΜΠΕΡΟΓΛΟγ",
+      "latitude": 40.629555,
+      "longitude": 22.953195
+    },
+    {
+      "name": "Natasa cigarette & newspaper shop",
+      "latitude": 41.259632,
+      "longitude": 22.998889
+    },
+    {
+      "name": "Nefeli's shop",
+      "latitude": 35.361961,
+      "longitude": 24.259588
+    },
+    {
+      "name": "Noulis",
+      "latitude": 35.363854,
+      "longitude": 24.457399
+    },
+    {
+      "name": "O Garrattas",
+      "latitude": 36.973373,
+      "longitude": 24.723703
+    },
+    {
+      "name": "One Stop",
+      "latitude": 39.644544,
+      "longitude": 19.85352
+    },
+    {
+      "name": "One up",
+      "latitude": 37.976414,
+      "longitude": 23.720433
+    },
+    {
+      "name": "One up",
+      "latitude": 37.996313,
+      "longitude": 23.743849
+    },
+    {
+      "name": "Periptero Splantzia",
+      "latitude": 35.516389,
+      "longitude": 24.021229
+    },
+    {
+      "name": "Pesto store 24h tobacco store",
+      "latitude": 40.613075,
+      "longitude": 22.957344
+    },
+    {
+      "name": "Pireus Bank",
+      "latitude": 40.31109,
+      "longitude": 23.063232
+    },
+    {
+      "name": "Pramateytis",
+      "latitude": 36.293862,
+      "longitude": 28.162688
+    },
+    {
+      "name": "Red Spot",
+      "latitude": 36.756779,
+      "longitude": 22.568903
+    },
+    {
+      "name": "Robinstore",
+      "latitude": 36.759506,
+      "longitude": 27.099309
+    },
+    {
+      "name": "Skordis",
+      "latitude": 36.343304,
+      "longitude": 28.200234
+    },
+    {
+      "name": "Small Market",
+      "latitude": 37.713333,
+      "longitude": 24.058146
+    },
+    {
+      "name": "Smile kiosk",
+      "latitude": 37.959274,
+      "longitude": 23.615213
+    },
+    {
+      "name": "Smile Kiosk",
+      "latitude": 37.965434,
+      "longitude": 23.665433
+    },
+    {
+      "name": "Smile kiosk",
+      "latitude": 37.968977,
+      "longitude": 23.75286
+    },
+    {
+      "name": "Smile Kiosk",
+      "latitude": 37.978169,
+      "longitude": 23.634933
+    },
+    {
+      "name": "Smile kiosk",
+      "latitude": 37.999219,
+      "longitude": 23.664655
+    },
+    {
+      "name": "smile kiosk",
+      "latitude": 38.006422,
+      "longitude": 23.699583
+    },
+    {
+      "name": "smile kiosk",
+      "latitude": 38.012595,
+      "longitude": 23.728759
+    },
+    {
+      "name": "Smile Kiosk",
+      "latitude": 38.016951,
+      "longitude": 23.691611
+    },
+    {
+      "name": "Snack bar",
+      "latitude": 37.698845,
+      "longitude": 26.746827
+    },
+    {
+      "name": "STORY STReat",
+      "latitude": 37.939262,
+      "longitude": 23.639955
+    },
+    {
+      "name": "Street Coffee",
+      "latitude": 39.458328,
+      "longitude": 21.613863
+    },
+    {
+      "name": "Sunny Beach",
+      "latitude": 37.674225,
+      "longitude": 24.350745
+    },
+    {
+      "name": "Super Foods Kiosk",
+      "latitude": 40.635208,
+      "longitude": 22.942422
+    },
+    {
+      "name": "Super kiosk",
+      "latitude": 37.979903,
+      "longitude": 23.670693
+    },
+    {
+      "name": "Super Mini Market",
+      "latitude": 37.947743,
+      "longitude": 23.679685
+    },
+    {
+      "name": "Super Περππτεράκι",
+      "latitude": 40.521789,
+      "longitude": 21.260803
+    },
+    {
+      "name": "Take & Go 24h",
+      "latitude": 40.59691,
+      "longitude": 22.952952
+    },
+    {
+      "name": "The Street Point",
+      "latitude": 37.926184,
+      "longitude": 23.692527
+    },
+    {
+      "name": "TOBACCO SHOP",
+      "latitude": 40.610993,
+      "longitude": 22.986943
+    },
+    {
+      "name": "today",
+      "latitude": 40.613894,
+      "longitude": 22.979421
+    },
+    {
+      "name": "Today Stores",
+      "latitude": 40.616741,
+      "longitude": 22.958434
+    },
+    {
+      "name": "Totem Kiosk",
+      "latitude": 40.258254,
+      "longitude": 23.207501
+    },
+    {
+      "name": "Traditional Kiosk",
+      "latitude": 37.967547,
+      "longitude": 23.7304
+    },
+    {
+      "name": "Turtle Canteen",
+      "latitude": 39.136545,
+      "longitude": 25.925762
+    },
+    {
+      "name": "Unity",
+      "latitude": 37.975816,
+      "longitude": 23.733443
+    },
+    {
+      "name": "Urban Kiosk",
+      "latitude": 37.931941,
+      "longitude": 23.633859
+    },
+    {
+      "name": "Vamos Kiosk",
+      "latitude": 38.004636,
+      "longitude": 23.825107
+    },
+    {
+      "name": "Vermpi Aliki",
+      "latitude": 37.961465,
+      "longitude": 23.751965
+    },
+    {
+      "name": "Vodafone",
+      "latitude": 39.104048,
+      "longitude": 26.554779
+    },
+    {
+      "name": "Your city spot",
+      "latitude": 37.971578,
+      "longitude": 23.758104
+    },
+    {
+      "name": "Αγροτικός Συνεταιρισμός Φιστικοπαραγωγών Αίγινας",
+      "latitude": 37.746193,
+      "longitude": 23.427167
+    },
+    {
+      "name": "Αλέκα",
+      "latitude": 40.610157,
+      "longitude": 22.985013
+    },
+    {
+      "name": "Βένος",
+      "latitude": 40.609102,
+      "longitude": 22.991424
+    },
+    {
+      "name": "Βασίλης",
+      "latitude": 40.783073,
+      "longitude": 21.411088
+    },
+    {
+      "name": "Βασιλική Μπεσύρη",
+      "latitude": 38.134244,
+      "longitude": 22.493545
+    },
+    {
+      "name": "Ζουνης",
+      "latitude": 38.905515,
+      "longitude": 22.125317
+    },
+    {
+      "name": "Ηροδότου",
+      "latitude": 35.338193,
+      "longitude": 25.158615
+    },
+    {
+      "name": "Κέντρο Τύπου",
+      "latitude": 38.464848,
+      "longitude": 23.59275
+    },
+    {
+      "name": "Κέντρο Τύπου Πηγαδάς",
+      "latitude": 40.299491,
+      "longitude": 21.798308
+    },
+    {
+      "name": "Κεφης",
+      "latitude": 40.50507,
+      "longitude": 21.24094
+    },
+    {
+      "name": "Κεφης Δισπηλιο",
+      "latitude": 40.454293,
+      "longitude": 21.25814
+    },
+    {
+      "name": "Κορυδαλλός",
+      "latitude": 37.980833,
+      "longitude": 23.654414
+    },
+    {
+      "name": "Κούρος Ψιλικά",
+      "latitude": 38.436974,
+      "longitude": 21.351288
+    },
+    {
+      "name": "Μ. ΠΑΝΟΠΟΥΛΟΥ",
+      "latitude": 37.940958,
+      "longitude": 23.648033
+    },
+    {
+      "name": "ΜΙΝΙ ΜΑΡΚΕΤ",
+      "latitude": 38.012818,
+      "longitude": 23.797936
+    },
+    {
+      "name": "ΜΙΝΙ ΜΑΡΚΕΤ",
+      "latitude": 38.01296,
+      "longitude": 23.800652
+    },
+    {
+      "name": "Μπαχουρος Αθανασιος",
+      "latitude": 37.441892,
+      "longitude": 21.774366
+    },
+    {
+      "name": "Νικολετα Λιακοπούλου",
+      "latitude": 38.020505,
+      "longitude": 23.691514
+    },
+    {
+      "name": "ΝΟΑ",
+      "latitude": 38.339531,
+      "longitude": 23.688743
+    },
+    {
+      "name": "Ο Ποδηλάτης",
+      "latitude": 38.023063,
+      "longitude": 23.812952
+    },
+    {
+      "name": "οικιστικές ζώνες",
+      "latitude": 35.33415,
+      "longitude": 25.158585
+    },
+    {
+      "name": "ΟΙΝΟΠΩΛΕΙΟΝ",
+      "latitude": 40.643011,
+      "longitude": 22.942438
+    },
+    {
+      "name": "Ουζερί Η Μούχα",
+      "latitude": 39.620613,
+      "longitude": 22.40635
+    },
+    {
+      "name": "Πέτρινο Περίπτερο",
+      "latitude": 38.02168,
+      "longitude": 23.783431
+    },
+    {
+      "name": "ΠΑΙΔΙΚΕΣ ΚΑΤΑΣΚΗΝΩΣΕΙΣ",
+      "latitude": 39.067226,
+      "longitude": 26.59364
+    },
+    {
+      "name": "Παμε περίπτερο!",
+      "latitude": 38.029529,
+      "longitude": 21.363241
+    },
+    {
+      "name": "περίπτερο",
+      "latitude": 35.337762,
+      "longitude": 25.146584
+    },
+    {
+      "name": "περίπτερο",
+      "latitude": 35.338965,
+      "longitude": 25.145048
+    },
+    {
+      "name": "περίπτερο",
+      "latitude": 35.339223,
+      "longitude": 25.152829
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 36.416371,
+      "longitude": 25.433379
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 36.431733,
+      "longitude": 28.236177
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.123201,
+      "longitude": 25.23829
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.124186,
+      "longitude": 25.237009
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.444189,
+      "longitude": 25.328424
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.446201,
+      "longitude": 25.334647
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.480867,
+      "longitude": 21.64969
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.635373,
+      "longitude": 22.726344
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.639256,
+      "longitude": 25.041525
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.668285,
+      "longitude": 21.440776
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.669934,
+      "longitude": 21.429081
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.67035,
+      "longitude": 21.446579
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.670527,
+      "longitude": 21.429042
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.671686,
+      "longitude": 21.453154
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.672321,
+      "longitude": 21.434543
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.673201,
+      "longitude": 21.437915
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.673233,
+      "longitude": 21.443418
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.675715,
+      "longitude": 21.432966
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.679923,
+      "longitude": 21.440203
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.711118,
+      "longitude": 24.051366
+    },
+    {
+      "name": "περίπτερο",
+      "latitude": 37.736437,
+      "longitude": 23.906149
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.893084,
+      "longitude": 23.881276
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.925806,
+      "longitude": 23.692075
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.927203,
+      "longitude": 23.693092
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.949039,
+      "longitude": 23.7374
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.952198,
+      "longitude": 23.718758
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.976002,
+      "longitude": 23.778129
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.97609,
+      "longitude": 23.782487
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.977337,
+      "longitude": 23.72784
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.97756,
+      "longitude": 23.650224
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.977997,
+      "longitude": 23.712356
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.982594,
+      "longitude": 23.764424
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.982965,
+      "longitude": 23.648534
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.989677,
+      "longitude": 23.793927
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.991686,
+      "longitude": 23.680504
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.991989,
+      "longitude": 23.679195
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 37.992233,
+      "longitude": 23.67837
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.000535,
+      "longitude": 23.420428
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.002306,
+      "longitude": 23.880804
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.022306,
+      "longitude": 23.814704
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.069529,
+      "longitude": 23.993269
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.102022,
+      "longitude": 23.883782
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.237203,
+      "longitude": 22.095754
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.241016,
+      "longitude": 22.085202
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.241135,
+      "longitude": 22.091025
+    },
+    {
+      "name": "περίπτερο",
+      "latitude": 38.242807,
+      "longitude": 22.072265
+    },
+    {
+      "name": "περίπτερο",
+      "latitude": 38.246683,
+      "longitude": 22.077077
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.249668,
+      "longitude": 22.074707
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.250742,
+      "longitude": 22.081025
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.251244,
+      "longitude": 22.08848
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.284491,
+      "longitude": 22.028029
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.285535,
+      "longitude": 22.026341
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.462433,
+      "longitude": 23.589713
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 38.850536,
+      "longitude": 22.987819
+    },
+    {
+      "name": "περίπτερο",
+      "latitude": 39.379708,
+      "longitude": 22.926391
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 39.630122,
+      "longitude": 22.422206
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 39.933982,
+      "longitude": 20.671952
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 40.613632,
+      "longitude": 22.957564
+    },
+    {
+      "name": "Περίπτερο",
+      "latitude": 40.783261,
+      "longitude": 21.482854
+    },
+    {
+      "name": "Περίπτερο \"Μπέκας\",πλατεία Βουδ",
+      "latitude": 38.238513,
+      "longitude": 21.736854
+    },
+    {
+      "name": "Περίπτερο άμαν άμαν",
+      "latitude": 37.709761,
+      "longitude": 24.051366
+    },
+    {
+      "name": "Περίπτερο Βασιλείου",
+      "latitude": 38.437861,
+      "longitude": 21.364502
+    },
+    {
+      "name": "Περίπτερο Γ. Μπλέσσα",
+      "latitude": 37.982971,
+      "longitude": 23.79296
+    },
+    {
+      "name": "Περίπτερο Γεωργιτσάκη-Μητρώκα",
+      "latitude": 37.49621,
+      "longitude": 23.449277
+    },
+    {
+      "name": "Περίπτερο γηπέδου",
+      "latitude": 39.096913,
+      "longitude": 26.553103
+    },
+    {
+      "name": "Περίπτερο Καγιόγλου",
+      "latitude": 40.296192,
+      "longitude": 21.78477
+    },
+    {
+      "name": "Περίπτερο Λαλακιάς",
+      "latitude": 37.442253,
+      "longitude": 24.937111
+    },
+    {
+      "name": "Περίπτερο Τάσος",
+      "latitude": 40.76702,
+      "longitude": 21.616048
+    },
+    {
+      "name": "Περίπτερο/Kiosk",
+      "latitude": 37.982824,
+      "longitude": 23.765008
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 36.759872,
+      "longitude": 22.565194
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.669949,
+      "longitude": 21.435423
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.672116,
+      "longitude": 21.437972
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.673145,
+      "longitude": 21.429081
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.67356,
+      "longitude": 21.441061
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.674085,
+      "longitude": 21.435873
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.677147,
+      "longitude": 21.439071
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.679914,
+      "longitude": 21.440212
+    },
+    {
+      "name": "Περιπτερο",
+      "latitude": 37.67994,
+      "longitude": 21.423895
+    },
+    {
+      "name": "Σιάσιος",
+      "latitude": 40.501729,
+      "longitude": 21.246252
+    },
+    {
+      "name": "Σκουλούδης Μιχαήλ",
+      "latitude": 35.193175,
+      "longitude": 25.711637
+    },
+    {
+      "name": "ΣΟΒΟΛΟΣ",
+      "latitude": 37.879781,
+      "longitude": 23.758157
+    },
+    {
+      "name": "Σοκολατοποιείον",
+      "latitude": 40.937178,
+      "longitude": 24.408894
+    },
+    {
+      "name": "ΣΩΚΡΑΤΗ",
+      "latitude": 39.099666,
+      "longitude": 26.554912
+    },
+    {
+      "name": "Τεχνικό Λύκειο Εμπορικού \"Αλέξανδρος\"",
+      "latitude": 37.94753,
+      "longitude": 23.711878
+    },
+    {
+      "name": "Το Κοσμικό",
+      "latitude": 40.501414,
+      "longitude": 21.16238
+    },
+    {
+      "name": "Το κουλούρι της Κηφισιάς",
+      "latitude": 38.072876,
+      "longitude": 23.811598
+    },
+    {
+      "name": "Το νέο περίπτερο",
+      "latitude": 38.060238,
+      "longitude": 23.796734
+    },
+    {
+      "name": "Το Περίπτερο",
+      "latitude": 39.413503,
+      "longitude": 20.08954
+    },
+    {
+      "name": "Το Περίπτερο Delivery",
+      "latitude": 37.977909,
+      "longitude": 23.770249
+    },
+    {
+      "name": "ΤΟ ΠΕΡΙΠΤΕΡΟ",
+      "latitude": 37.407936,
+      "longitude": 22.714679
+    },
+    {
+      "name": "Το στέκι",
+      "latitude": 39.10878,
+      "longitude": 26.557547
+    },
+    {
+      "name": "ΤΟ ΣΤΕΚΙ",
+      "latitude": 36.847478,
+      "longitude": 22.661901
+    },
+    {
+      "name": "Χαρούλα",
+      "latitude": 40.781476,
+      "longitude": 21.413283
+    },
+    {
+      "name": "Χατζηνικολάου",
+      "latitude": 40.656715,
+      "longitude": 22.990341
+    }
+  ],
+  "meta": {
+    "title": "Περίπτερα στην Ελλάδα - Δωρεάν λήψη",
+    "description": "Περίπτερα στην Ελλάδα από δεδομένα OpenStreetMap (shop=kiosk). Όνομα και συντεταγμένες WGS84. Περιέχει 276 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Περίπτερα στην Ελλάδα | ListBase",
+    "seo_description": "Λήψη Περίπτερα στην Ελλάδα — 276 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 276 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

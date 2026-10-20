@@ -1,0 +1,328 @@
+{
+  "id": "el-stereas-elladas-sidirodromikoi-stathmoi",
+  "name": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Στερεάς Ελλάδας",
+  "title": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Στερεάς Ελλάδας",
+  "description": "Σιδηροδρομικοί σταθμοί του εθνικού δικτύου (ΟΣΕ / Hellenic Train) στην Περιφέρεια Στερεάς Ελλάδας, εξαιρουμένων Μετρό/Τραμ. Υποσύνολο του καταλόγου «Σιδηροδρομικοί σταθμοί της Ελλάδας», φιλτραρισμένο ανά περιφέρεια (Wikidata P131* -> Q207299). Πηγή: Wikidata. (National heavy-rail stations in Περιφέρεια Στερεάς Ελλάδας; per-region subset.)",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "operator",
+      "label": "Operator",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q15208868",
+      "name_el": "Σιδηροδρομικός σταθμός Χαλκίδας",
+      "name_en": "Chalkida railway station",
+      "latitude": 38.462612,
+      "longitude": 23.587693,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Ευβοίας",
+      "municipality": "Δήμος Χαλκιδέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A7%CE%B1%CE%BB%CE%BA%CE%AF%CE%B4%CE%B1%CF%82"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q12884437",
+      "name_el": "σιδηροδρομικός σταθμός Αυλίδας",
+      "name_en": "Avlida railway station",
+      "latitude": 38.40445,
+      "longitude": 23.60336,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Ευβοίας",
+      "municipality": "Δήμος Χαλκιδέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CF%83%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%91%CF%85%CE%BB%CE%AF%CE%B4%CE%B1%CF%82"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q18009309",
+      "name_el": "σιδηροδρομικός σταθμός Καλοχωρίου-Παντειχίου",
+      "name_en": "Kalochori–Panteichi station",
+      "latitude": 38.3892,
+      "longitude": 23.5932,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Ευβοίας",
+      "municipality": "Δήμος Χαλκιδέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9A%CE%B1%CE%BB%CE%BF%CF%87%CF%8E%CF%81%CE%B9-%CE%A0%CE%B1%CE%BD%CF%84%CE%B5%CE%AF%CF%87%CE%B9_(%CE%A0%CF%81%CE%BF%CE%B1%CF%83%CF%84%CE%B9%CE%B1%CE%BA%CF%8C%CF%82_%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%CF%82)"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q18692503",
+      "name_el": "Μώλος",
+      "name_en": "Molos",
+      "latitude": 38.81233,
+      "longitude": 22.65751,
+      "operator": "Hellenic Train",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Καμένων Βούρλων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CF%8E%CE%BB%CE%BF%CF%85"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q18335631",
+      "name_el": "Σιδηροδρομική Στάση Μεγάλης Βρύσης",
+      "name_en": "Megali Vrysi railway stop",
+      "latitude": 38.89453,
+      "longitude": 22.47432,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Λαμιέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CE%B5%CE%B3%CE%AC%CE%BB%CE%B7%CF%82_%CE%92%CF%81%CF%8D%CF%83%CE%B7%CF%82"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q14943093",
+      "name_el": "σιδηροδρομικός σταθμός Δομοκού",
+      "name_en": "Domokos railway station",
+      "latitude": 39.1788,
+      "longitude": 22.2867,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Δομοκού",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%94%CE%BF%CE%BC%CE%BF%CE%BA%CE%BF%CF%8D"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q17449588",
+      "name_el": "σιδηροδρομικός σταθμός Λαμίας",
+      "name_en": "Lamia railway station",
+      "latitude": 38.896189,
+      "longitude": 22.434704,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Λαμιέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9B%CE%B1%CE%BC%CE%AF%CE%B1%CF%82"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q15242217",
+      "name_el": "σιδηροδρομικός σταθμός Λειανοκλαδίου",
+      "name_en": "Leianokladi railway station",
+      "latitude": 38.89095,
+      "longitude": 22.37282,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Λαμιέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9B%CE%B9%CE%B1%CE%BD%CE%BF%CE%BA%CE%BB%CE%B1%CE%B4%CE%AF%CE%BF%CF%85"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q18009322",
+      "name_el": "σιδηροδρομικός σταθμός Μπράλου Φθιώτιδας",
+      "name_en": "Bralos Railway Station",
+      "latitude": 38.7021,
+      "longitude": 22.4577,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Αμφίκλειας - Ελάτειας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9C%CF%80%CF%81%CE%AC%CE%BB%CE%BF%CF%85"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q18335689",
+      "name_el": "σιδηροδρομικός σταθμός Ροδίτσας",
+      "name_en": "Roditsa railway stop",
+      "latitude": 38.895095,
+      "longitude": 22.456993,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Λαμιέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A1%CE%BF%CE%B4%CE%AF%CF%84%CF%83%CE%B1%CF%82"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q18009336",
+      "name_el": "σιδηροδρομικός σταθμός Τιθορέας",
+      "name_en": "Tithorea railway station",
+      "latitude": 38.6084,
+      "longitude": 22.7185,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Φθιώτιδας",
+      "municipality": "Δήμος Αμφίκλειας - Ελάτειας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A4%CE%B9%CE%B8%CE%BF%CF%81%CE%AD%CE%B1%CF%82"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q14943091",
+      "name_el": "Σιδηροδρομικός Σταθμός Θήβας",
+      "name_en": "Thebes railway station",
+      "latitude": 38.3296,
+      "longitude": 23.3184,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Θηβαίων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%98%CE%AE%CE%B2%CE%B1%CF%82"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q18009335",
+      "name_el": "Σιδηροδρομικός σταθμός Τανάγρας",
+      "name_en": "Tanagra railway station",
+      "latitude": 38.34245,
+      "longitude": 23.57418,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Τανάγρας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%A4%CE%B1%CE%BD%CE%AC%CE%B3%CF%81%CE%B1%CF%82"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q18009300",
+      "name_el": "σιδηροδρομικός σταθμός Αγίου Γεωργίου",
+      "name_en": "Agios Georgios railway station",
+      "latitude": 38.3555,
+      "longitude": 23.6069,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Τανάγρας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%91%CE%B3%CE%AF%CE%BF%CF%85_%CE%93%CE%B5%CF%89%CF%81%CE%B3%CE%AF%CE%BF%CF%85_(%CE%A0%CF%81%CE%BF%CE%B1%CF%83%CF%84%CE%B9%CE%B1%CE%BA%CF%8C%CF%82_%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%CF%82)"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q111949532",
+      "name_el": "σιδηροδρομικός σταθμός Αλαλκομενών",
+      "name_en": "Alalkomenes railway station",
+      "latitude": 38.4083,
+      "longitude": 22.9824,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Λεβαδέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%91%CE%BB%CE%B1%CE%BB%CE%BA%CE%BF%CE%BC%CE%B5%CE%BD%CF%8E%CE%BD"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q12884431",
+      "name_el": "σιδηροδρομικός σταθμός Δαύλειας Βοιωτίας",
+      "name_en": "Davleia railway station",
+      "latitude": 38.5344,
+      "longitude": 22.8119,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Λεβαδέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%94%CE%B1%CF%85%CE%BB%CE%B5%CE%AF%CE%B1%CF%82"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q18009302",
+      "name_el": "σιδηροδρομικός σταθμός Δηλεσίου",
+      "name_en": "Dilesi railway station",
+      "latitude": 38.338,
+      "longitude": 23.6098,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Τανάγρας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%94%CE%AE%CE%BB%CE%B5%CF%83%CE%B9_(%CE%A0%CF%81%CE%BF%CE%B1%CF%83%CF%84%CE%B9%CE%B1%CE%BA%CF%8C%CF%82_%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%CF%82)"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q12884448",
+      "name_el": "σιδηροδρομικός σταθμός Λιβαδειάς",
+      "name_en": "Livadeia railway station",
+      "latitude": 38.4709,
+      "longitude": 22.9269,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Λεβαδέων",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9B%CE%B9%CE%B2%CE%B1%CE%B4%CE%B5%CE%B9%CE%AC%CF%82"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q14769813",
+      "name_el": "σιδηροδρομικός σταθμός Οινόης",
+      "name_en": "Oinoi railway station",
+      "latitude": 38.32216,
+      "longitude": 23.60979,
+      "operator": "",
+      "region": "Περιφέρεια Στερεάς Ελλάδας",
+      "regional_unit": "Περιφερειακή ενότητα Βοιωτίας",
+      "municipality": "Δήμος Τανάγρας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A3%CE%B9%CE%B4%CE%B7%CF%81%CE%BF%CE%B4%CF%81%CE%BF%CE%BC%CE%B9%CE%BA%CF%8C%CF%82_%CE%A3%CF%84%CE%B1%CE%B8%CE%BC%CF%8C%CF%82_%CE%9F%CE%B9%CE%BD%CF%8C%CE%B7%CF%82"
+    }
+  ],
+  "meta": {
+    "title": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Στερεάς Ελλάδας - Δωρεάν λήψη",
+    "description": "Σιδηροδρομικοί σταθμοί του εθνικού δικτύου (ΟΣΕ / Hellenic Train) στην Περιφέρεια Στερεάς Ελλάδας, εξαιρουμένων Μετρό/Τραμ. Υποσύνολο του καταλόγου «Σιδηροδρομικοί σταθμοί της Ελλάδας», φιλτραρισμένο ανά περιφέρεια (Wikidata P131* -> Q207299). Πηγή: Wikidata. (National heavy-rail stations in Περιφέρεια Στερεάς Ελλάδας; per-region subset.) Περιέχει 19 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Σιδηροδρομικοί σταθμοί — Περιφέρεια Στερεάς Ελλάδας | ListBase",
+    "seo_description": "Λήψη Σιδηροδρομικοί σταθμοί — Περιφέρεια Στερεάς Ελλάδας — 19 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 19 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

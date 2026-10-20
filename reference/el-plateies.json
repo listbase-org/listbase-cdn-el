@@ -1,0 +1,929 @@
+{
+  "id": "el-plateies",
+  "name": "Πλατείες της Ελλάδας",
+  "title": "Πλατείες της Ελλάδας",
+  "description": "Squares in Greece from Wikidata (P31=Q174782 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q130710651",
+      "name_el": "",
+      "name_en": "7th Martiou Square",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.449568,
+      "longitude": 28.224979,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130710651"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q126597857",
+      "name_el": "",
+      "name_en": "Agios Dimitrios Square",
+      "admin_area_el": "Δήμος Πύλου - Νέστορος",
+      "admin_area_en": "Municipality of Pylos-Nestor",
+      "latitude": 36.79688,
+      "longitude": 21.95678,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126597857"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q124507504",
+      "name_el": "",
+      "name_en": "Archiepiskopou Chrysanthou Square",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.44995,
+      "longitude": 28.21582,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124507504"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q124504896",
+      "name_el": "",
+      "name_en": "Bobovy Samouil Square",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.45257,
+      "longitude": 28.21975,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124504896"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q81662904",
+      "name_el": "",
+      "name_en": "Eleftherias Square, Kos",
+      "admin_area_el": "Κως",
+      "admin_area_en": "Kos",
+      "latitude": 36.893056,
+      "longitude": 27.288611,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81662904"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q124528441",
+      "name_el": "",
+      "name_en": "Eleftherias Square, Rhodes",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.4514,
+      "longitude": 28.22426,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124528441"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q5358636",
+      "name_el": "",
+      "name_en": "Eleftheriou Venizelou Street",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.2332,
+      "longitude": 21.7341,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5358636"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q124476431",
+      "name_el": "",
+      "name_en": "Enydriou Square",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.45648,
+      "longitude": 28.22065,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124476431"
+    },
+    {
+      "id": 9,
+      "wikidata_id": "Q124460037",
+      "name_el": "",
+      "name_en": "Gavriil Charitou Square",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.45465,
+      "longitude": 28.22051,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124460037"
+    },
+    {
+      "id": 10,
+      "wikidata_id": "Q124632229",
+      "name_el": "",
+      "name_en": "Hippokratous Square",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.4436,
+      "longitude": 28.22822,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124632229"
+    },
+    {
+      "id": 11,
+      "wikidata_id": "Q82810593",
+      "name_el": "",
+      "name_en": "Platanou Square",
+      "admin_area_el": "Κως",
+      "admin_area_en": "Kos",
+      "latitude": 36.894722,
+      "longitude": 27.291028,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q82810593"
+    },
+    {
+      "id": 12,
+      "wikidata_id": "Q124536904",
+      "name_el": "",
+      "name_en": "Plateia Kyprou",
+      "admin_area_el": "Ρόδος",
+      "admin_area_en": "Rhodes",
+      "latitude": 36.44849,
+      "longitude": 28.22375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124536904"
+    },
+    {
+      "id": 13,
+      "wikidata_id": "Q126595088",
+      "name_el": "",
+      "name_en": "Plateía Georgíou Drosopoúlou",
+      "admin_area_el": "Δήμος Μήλου",
+      "admin_area_en": "Milos Municipality",
+      "latitude": 36.74367,
+      "longitude": 24.42375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q126595088"
+    },
+    {
+      "id": 14,
+      "wikidata_id": "Q81661331",
+      "name_el": "",
+      "name_en": "Square Saint Paraskevi",
+      "admin_area_el": "Κως",
+      "admin_area_en": "Kos",
+      "latitude": 36.892622,
+      "longitude": 27.288694,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81661331"
+    },
+    {
+      "id": 15,
+      "wikidata_id": "Q137970434",
+      "name_el": "",
+      "name_en": "Stavrou Avgoustaki Square",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 36.431857,
+      "longitude": 28.236414,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137970434"
+    },
+    {
+      "id": 16,
+      "wikidata_id": "Q134444842",
+      "name_el": "Κάτω Πιάτσα",
+      "name_en": "Kato Piatsa",
+      "admin_area_el": "Δήμος Σερίφου",
+      "admin_area_en": "Serifos Municipality",
+      "latitude": 37.153370794,
+      "longitude": 24.505196929,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134444842"
+    },
+    {
+      "id": 17,
+      "wikidata_id": "Q111587104",
+      "name_el": "Κεντρική πλατεία Γκούρας",
+      "name_en": "Central square of Goura",
+      "admin_area_el": "Δήμος Σικυωνίων",
+      "admin_area_en": "Sikyona Municipality",
+      "latitude": 37.933518,
+      "longitude": 22.340942,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111587104"
+    },
+    {
+      "id": 18,
+      "wikidata_id": "Q1235440",
+      "name_el": "Μοναστηράκι",
+      "name_en": "Monastiraki",
+      "admin_area_el": "1η Κοινότητα Αθηνών",
+      "admin_area_en": "1st District of Athens",
+      "latitude": 37.97639,
+      "longitude": 23.72361,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1235440"
+    },
+    {
+      "id": 19,
+      "wikidata_id": "Q7843143",
+      "name_el": "Οδός Τριών Ναυάρχων",
+      "name_en": "Trion Navarchon Street",
+      "admin_area_el": "Πάτρα",
+      "admin_area_en": "Patras",
+      "latitude": 38.2425,
+      "longitude": 21.7304,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7843143"
+    },
+    {
+      "id": 20,
+      "wikidata_id": "Q134444848",
+      "name_el": "Πάνω Πιάτσα",
+      "name_en": "Pano Piatsa",
+      "admin_area_el": "Δήμος Σερίφου",
+      "admin_area_en": "Serifos Municipality",
+      "latitude": 37.155588066,
+      "longitude": 24.505911469,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q134444848"
+    },
+    {
+      "id": 21,
+      "wikidata_id": "Q14948213",
+      "name_el": "Πλατεία Αβησσυνίας",
+      "name_en": "Avissinias Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.976388888,
+      "longitude": 23.723888888,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14948213"
+    },
+    {
+      "id": 22,
+      "wikidata_id": "Q16152081",
+      "name_el": "Πλατεία Αγίας Σοφίας",
+      "name_en": "Agias Sofias Square",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.6333,
+      "longitude": 22.9459,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16152081"
+    },
+    {
+      "id": 23,
+      "wikidata_id": "Q111509507",
+      "name_el": "Πλατεία Αγίου Γεωργίου",
+      "name_en": "Agios Georios Square",
+      "admin_area_el": "Δήμος Πατρέων",
+      "admin_area_en": "Municipality of Patras",
+      "latitude": 38.24349,
+      "longitude": 21.7374,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111509507"
+    },
+    {
+      "id": 24,
+      "wikidata_id": "Q112630859",
+      "name_el": "Πλατεία Αγίου Γεωργίου, Ζαγορά",
+      "name_en": "Agios Georgios Square, Zagora",
+      "admin_area_el": "Δήμος Ζαγοράς - Μουρεσίου",
+      "admin_area_en": "Zagora-Mouresi Municipality",
+      "latitude": 39.443952,
+      "longitude": 23.10327,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112630859"
+    },
+    {
+      "id": 25,
+      "wikidata_id": "Q56237401",
+      "name_el": "Πλατεία Αγίου Λαυρεντίου",
+      "name_en": "Square of Agios Lavrentios",
+      "admin_area_el": "Δήμος Βόλου",
+      "admin_area_en": "Volos Municipality",
+      "latitude": 39.361562,
+      "longitude": 23.059671,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q56237401"
+    },
+    {
+      "id": 26,
+      "wikidata_id": "Q19725037",
+      "name_el": "Πλατεία Αιγύπτου",
+      "name_en": "Aigyptou Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.99214,
+      "longitude": 23.7319,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19725037"
+    },
+    {
+      "id": 27,
+      "wikidata_id": "Q65964456",
+      "name_el": "Πλατεία Αλεξάνδρας",
+      "name_en": "Alexandra's Square",
+      "admin_area_el": "Πειραιάς",
+      "admin_area_en": "Piraeus",
+      "latitude": 37.934191844,
+      "longitude": 23.65031898,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q65964456"
+    },
+    {
+      "id": 28,
+      "wikidata_id": "Q19514945",
+      "name_el": "Πλατεία Αμερικής",
+      "name_en": "Amerikis Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 38.002388888,
+      "longitude": 23.733669444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19514945"
+    },
+    {
+      "id": 29,
+      "wikidata_id": "Q12883510",
+      "name_el": "Πλατεία Αναλήψεως Βριλησσίων",
+      "name_en": "Analipseos Square",
+      "admin_area_el": "Δήμος Βριλησσίων",
+      "admin_area_en": "Vrilissia Municipality",
+      "latitude": 38.03611111,
+      "longitude": 23.82777778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12883510"
+    },
+    {
+      "id": 30,
+      "wikidata_id": "Q667472",
+      "name_el": "Πλατεία Αριστοτέλους",
+      "name_en": "Aristotelous Square",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.632458,
+      "longitude": 22.941194,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q667472"
+    },
+    {
+      "id": 31,
+      "wikidata_id": "Q19604711",
+      "name_el": "Πλατεία Βικτωρίας",
+      "name_en": "Viktoria Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.99305556,
+      "longitude": 23.72944444,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19604711"
+    },
+    {
+      "id": 32,
+      "wikidata_id": "Q125939550",
+      "name_el": "Πλατεία Βραχλιώτη",
+      "name_en": "Vrachlioti square",
+      "admin_area_el": "Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "admin_area_en": "Municipality of Central Corfu and Diapontia Islands",
+      "latitude": 39.62389998,
+      "longitude": 19.92177432,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125939550"
+    },
+    {
+      "id": 33,
+      "wikidata_id": "Q3566079",
+      "name_el": "Πλατεία Γεωργίου Α΄",
+      "name_en": "Georgiou I Square",
+      "admin_area_el": "Δήμος Πατρέων",
+      "admin_area_en": "Municipality of Patras",
+      "latitude": 38.2462,
+      "longitude": 21.7351,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3566079"
+    },
+    {
+      "id": 34,
+      "wikidata_id": "Q135765920",
+      "name_el": "Πλατεία Γουλανδρή, Χώρα Άνδρου",
+      "name_en": "Goulandris square",
+      "admin_area_el": "Δήμος Άνδρου",
+      "admin_area_en": "Andros Municipality",
+      "latitude": 37.836666666,
+      "longitude": 24.936666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q135765920"
+    },
+    {
+      "id": 35,
+      "wikidata_id": "Q5277736",
+      "name_el": "Πλατεία Δημοκρατίας",
+      "name_en": "Dimokratias Square",
+      "admin_area_el": "Δήμος Αγρινίου",
+      "admin_area_en": "Agrinio municipality",
+      "latitude": 38.6248,
+      "longitude": 21.4095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q5277736"
+    },
+    {
+      "id": 36,
+      "wikidata_id": "Q61467039",
+      "name_el": "Πλατεία Δημοκρατίας",
+      "name_en": "Dimokratias Square",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.64031,
+      "longitude": 22.93562,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q61467039"
+    },
+    {
+      "id": 37,
+      "wikidata_id": "Q7086725",
+      "name_el": "Πλατεία Εθνικής Αντιστάσεως",
+      "name_en": "Ethnikis Antistaseos Square",
+      "admin_area_el": "Δήμος Πατρέων",
+      "admin_area_en": "Municipality of Patras",
+      "latitude": 38.2492,
+      "longitude": 21.7375,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7086725"
+    },
+    {
+      "id": 38,
+      "wikidata_id": "Q20717313",
+      "name_el": "Πλατεία Ελευθερίας",
+      "name_en": "Eleftherias Square",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.634,
+      "longitude": 22.938,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20717313"
+    },
+    {
+      "id": 39,
+      "wikidata_id": "Q130259759",
+      "name_el": "Πλατεία Ελευθερίας (Κορυδαλλός)",
+      "name_en": "",
+      "admin_area_el": "Δήμος Κορυδαλλού",
+      "admin_area_en": "Korydallos Municipality",
+      "latitude": 37.976994175,
+      "longitude": 23.650526837,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q130259759"
+    },
+    {
+      "id": 40,
+      "wikidata_id": "Q27849280",
+      "name_el": "Πλατεία Ελευθερίας, Δράμα",
+      "name_en": "Elefteria Square, Drama",
+      "admin_area_el": "Δήμος Δράμας",
+      "admin_area_en": "Drama Municipality",
+      "latitude": 41.149722222,
+      "longitude": 24.146666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q27849280"
+    },
+    {
+      "id": 41,
+      "wikidata_id": "Q6555912",
+      "name_el": "Πλατεία Ελευθερίου Βενιζέλου",
+      "name_en": "Lions Square",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.3391,
+      "longitude": 25.1331,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6555912"
+    },
+    {
+      "id": 42,
+      "wikidata_id": "Q100804227",
+      "name_el": "Πλατεία Εξαρχείων",
+      "name_en": "Exarchia Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.986555555,
+      "longitude": 23.734861111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q100804227"
+    },
+    {
+      "id": 43,
+      "wikidata_id": "Q12883516",
+      "name_el": "Πλατεία Εσταυρωμένου Αιγάλεω",
+      "name_en": "Estavromenos square Aigaleo",
+      "admin_area_el": "Δήμος Αιγάλεω",
+      "admin_area_en": "Aegaleo Municipality",
+      "latitude": 37.992652,
+      "longitude": 23.682365,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12883516"
+    },
+    {
+      "id": 44,
+      "wikidata_id": "Q47074519",
+      "name_el": "Πλατεία Θεάτρου",
+      "name_en": "Theatrou square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.980837,
+      "longitude": 23.724685,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q47074519"
+    },
+    {
+      "id": 45,
+      "wikidata_id": "Q19604717",
+      "name_el": "Πλατεία Κάνιγγος",
+      "name_en": "Kaningos Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.985555555,
+      "longitude": 23.730833333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19604717"
+    },
+    {
+      "id": 46,
+      "wikidata_id": "Q75814339",
+      "name_el": "Πλατεία Καραϊσκάκη (Αθήνα)",
+      "name_en": "Karaiskaki Square (Athens)",
+      "admin_area_el": "Αθήνα",
+      "admin_area_en": "Athens",
+      "latitude": 37.985555555,
+      "longitude": 23.721527777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q75814339"
+    },
+    {
+      "id": 47,
+      "wikidata_id": "Q109955502",
+      "name_el": "Πλατεία Καρύτση",
+      "name_en": "Karytsi square",
+      "admin_area_el": "Αθήνα",
+      "admin_area_en": "Athens",
+      "latitude": 37.97788,
+      "longitude": 23.7313,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109955502"
+    },
+    {
+      "id": 48,
+      "wikidata_id": "Q125677261",
+      "name_el": "Πλατεία Κολιάτσου",
+      "name_en": "Koliatsou square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 38.01008,
+      "longitude": 23.73493,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125677261"
+    },
+    {
+      "id": 49,
+      "wikidata_id": "Q4669658",
+      "name_el": "Πλατεία Κολωνακίου",
+      "name_en": "Kolonaki Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.9769,
+      "longitude": 23.7409,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q4669658"
+    },
+    {
+      "id": 50,
+      "wikidata_id": "Q3389927",
+      "name_el": "Πλατεία Κοτζιά",
+      "name_en": "Kotzia Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.98166667,
+      "longitude": 23.72777778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q3389927"
+    },
+    {
+      "id": 51,
+      "wikidata_id": "Q12883513",
+      "name_el": "Πλατεία Κουμουνδούρου",
+      "name_en": "Koumoundourou square",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.980425,
+      "longitude": 23.721702,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12883513"
+    },
+    {
+      "id": 52,
+      "wikidata_id": "Q138848483",
+      "name_el": "Πλατεία Κρεμαστής",
+      "name_en": "",
+      "admin_area_el": "Κέρκυρα",
+      "admin_area_en": "Corfu",
+      "latitude": 39.626370339,
+      "longitude": 19.921979527,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q138848483"
+    },
+    {
+      "id": 53,
+      "wikidata_id": "Q109955467",
+      "name_el": "Πλατεία Κυψέλης",
+      "name_en": "Kypseli square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 38.00275,
+      "longitude": 23.7415,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q109955467"
+    },
+    {
+      "id": 54,
+      "wikidata_id": "Q933125",
+      "name_el": "Πλατεία Λέοντος Αυδή",
+      "name_en": "Avdi Square",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.98429,
+      "longitude": 23.72056,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q933125"
+    },
+    {
+      "id": 55,
+      "wikidata_id": "Q111595436",
+      "name_el": "Πλατεία Μαδρίτης",
+      "name_en": "Madritis Square, Athens",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.975,
+      "longitude": 23.7508,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111595436"
+    },
+    {
+      "id": 56,
+      "wikidata_id": "Q131763192",
+      "name_el": "Πλατεία Μακεδονομάχων, Θεσσαλονίκη",
+      "name_en": "Plateía Makedonomáchōn",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.63522,
+      "longitude": 22.94723,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q131763192"
+    },
+    {
+      "id": 57,
+      "wikidata_id": "Q111674763",
+      "name_el": "Πλατεία Μαρκάτου",
+      "name_en": "Markato Square",
+      "admin_area_el": "Δήμος Πατρέων",
+      "admin_area_en": "Municipality of Patras",
+      "latitude": 38.24531,
+      "longitude": 21.73809,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111674763"
+    },
+    {
+      "id": 58,
+      "wikidata_id": "Q81033801",
+      "name_el": "Πλατεία Μεγάλης του Γένους Σχολής",
+      "name_en": "Great School of the Genos Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.97658,
+      "longitude": 23.74925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q81033801"
+    },
+    {
+      "id": 59,
+      "wikidata_id": "Q58102897",
+      "name_el": "Πλατεία Μεταξουργείου",
+      "name_en": "Metaxourgeio Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.985194444,
+      "longitude": 23.719666666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58102897"
+    },
+    {
+      "id": 60,
+      "wikidata_id": "Q17013466",
+      "name_el": "Πλατεία Μιαούλη",
+      "name_en": "Miaoulis Square",
+      "admin_area_el": "Δήμος Σύρου - Ερμούπολης",
+      "admin_area_en": "Syros-Ermoupoli Municipality",
+      "latitude": 37.444722222,
+      "longitude": 24.942777777,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17013466"
+    },
+    {
+      "id": 61,
+      "wikidata_id": "Q112968748",
+      "name_el": "Πλατεία Μοναστηρακίου",
+      "name_en": "Monastiraki Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.97644,
+      "longitude": 23.72586,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112968748"
+    },
+    {
+      "id": 62,
+      "wikidata_id": "Q12883521",
+      "name_el": "Πλατεία Νίκης",
+      "name_en": "Nikis Square",
+      "admin_area_el": "Δήμος Κοζάνης",
+      "admin_area_en": "Kozani Municipality",
+      "latitude": 40.30138889,
+      "longitude": 21.78805556,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12883521"
+    },
+    {
+      "id": 63,
+      "wikidata_id": "Q16932536",
+      "name_el": "Πλατεία Ναβαρίνου",
+      "name_en": "Navarinou Square",
+      "admin_area_el": "Δήμος Θεσσαλονίκης",
+      "admin_area_en": "Thessaloniki Municipality",
+      "latitude": 40.6307,
+      "longitude": 22.9487,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16932536"
+    },
+    {
+      "id": 64,
+      "wikidata_id": "Q20552891",
+      "name_el": "Πλατεία Οδησσού",
+      "name_en": "",
+      "admin_area_el": "Πειραιάς",
+      "admin_area_en": "Piraeus",
+      "latitude": 37.94772,
+      "longitude": 23.64316,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20552891"
+    },
+    {
+      "id": 65,
+      "wikidata_id": "Q425754",
+      "name_el": "Πλατεία Ομονοίας",
+      "name_en": "Omonoia Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.984084,
+      "longitude": 23.728344,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q425754"
+    },
+    {
+      "id": 66,
+      "wikidata_id": "Q58069726",
+      "name_el": "Πλατεία Ουρουγουάης",
+      "name_en": "Ourougouais Square, Athens",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.97566,
+      "longitude": 23.75183,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q58069726"
+    },
+    {
+      "id": 67,
+      "wikidata_id": "Q12883512",
+      "name_el": "Πλατεία Πυθαγόρα",
+      "name_en": "Pythagoras square",
+      "admin_area_el": "Δήμος Σάμου",
+      "admin_area_en": "Samos Municipality",
+      "latitude": 37.75606,
+      "longitude": 26.97666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12883512"
+    },
+    {
+      "id": 68,
+      "wikidata_id": "Q75963059",
+      "name_el": "Πλατεία Σπηλίας",
+      "name_en": "Spilia Square",
+      "admin_area_el": "Κέρκυρα",
+      "admin_area_en": "Corfu",
+      "latitude": 39.626388888,
+      "longitude": 19.919166666,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q75963059"
+    },
+    {
+      "id": 69,
+      "wikidata_id": "Q1137997",
+      "name_el": "Πλατεία Συντάγματος",
+      "name_en": "Syntagma Square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.975556,
+      "longitude": 23.734722,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1137997"
+    },
+    {
+      "id": 70,
+      "wikidata_id": "Q137462229",
+      "name_el": "Πλατεία Χρήστου Τσιριγώτη",
+      "name_en": "",
+      "admin_area_el": "Κέρκυρα",
+      "admin_area_en": "Corfu",
+      "latitude": 39.621390747,
+      "longitude": 19.916372322,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q137462229"
+    },
+    {
+      "id": 71,
+      "wikidata_id": "Q15966790",
+      "name_el": "Πλατεία Χρυσοστόμου Σμύρνης",
+      "name_en": "Chrysostomos of Smyrna square",
+      "admin_area_el": "Δήμος Νέας Σμύρνης",
+      "admin_area_en": "Nea Smyrni Municipality",
+      "latitude": 37.9493,
+      "longitude": 23.7095,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q15966790"
+    },
+    {
+      "id": 72,
+      "wikidata_id": "Q1435551",
+      "name_el": "Ρωμαϊκή Αγορά της Αθήνας",
+      "name_en": "Roman Agora of Athens",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.974167,
+      "longitude": 23.726111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1435551"
+    },
+    {
+      "id": 73,
+      "wikidata_id": "Q125939640",
+      "name_el": "Σαρόκο",
+      "name_en": "Saroko Square",
+      "admin_area_el": "Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "admin_area_en": "Municipality of Central Corfu and Diapontia Islands",
+      "latitude": 39.62178027,
+      "longitude": 19.918207526,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125939640"
+    },
+    {
+      "id": 74,
+      "wikidata_id": "Q16900398",
+      "name_el": "Σπιανάδα",
+      "name_en": "Spianada",
+      "admin_area_el": "Δήμος Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "admin_area_en": "Municipality of Central Corfu and Diapontia Islands",
+      "latitude": 39.623,
+      "longitude": 19.925,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16900398"
+    },
+    {
+      "id": 75,
+      "wikidata_id": "Q136535867",
+      "name_el": "Ψηλά Αλώνια Αιγίου",
+      "name_en": "Psila Alonia",
+      "admin_area_el": "Δήμος Αιγιαλείας",
+      "admin_area_en": "Aigialeia Municipality",
+      "latitude": 38.251502,
+      "longitude": 22.082617,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q136535867"
+    },
+    {
+      "id": 76,
+      "wikidata_id": "Q16332814",
+      "name_el": "πλατεία Κλαυθμώνος",
+      "name_en": "Klafthmonos square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.979166666,
+      "longitude": 23.731111111,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q16332814"
+    },
+    {
+      "id": 77,
+      "wikidata_id": "Q124506334",
+      "name_el": "πλατεία Ψυρρή",
+      "name_en": "Psyrri square",
+      "admin_area_el": "Δήμος Αθηναίων",
+      "admin_area_en": "Athens Municipality",
+      "latitude": 37.97846,
+      "longitude": 23.72489,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q124506334"
+    },
+    {
+      "id": 78,
+      "wikidata_id": "Q12883517",
+      "name_el": "πλατεία της Σπλάντζιας",
+      "name_en": "Plateia 1821",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 35.51644444,
+      "longitude": 24.02161667,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12883517"
+    }
+  ],
+  "meta": {
+    "title": "Πλατείες της Ελλάδας - Δωρεάν λήψη",
+    "description": "Squares in Greece from Wikidata (P31=Q174782 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 78 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Πλατείες της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Πλατείες της Ελλάδας — 78 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 78 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

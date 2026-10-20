@@ -1,0 +1,276 @@
+{
+  "id": "el-ethnikes-eortes",
+  "name": "Επίσημες αργίες της Ελλάδας",
+  "title": "Επίσημες αργίες της Ελλάδας",
+  "description": "Εθνικές αργίες, εορτές, Ορθόδοξες θρησκευτικές γιορτές και επετειακές μέρες της Ελληνικής Δημοκρατίας. Κανόνες κινητών εορτών (Πάσχα, Πεντηκοστή) προέρχονται από το ορθόδοξο εκκλησιαστικό ημερολόγιο. Πηγή: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0).",
+  "category": "time",
+  "source": "https://github.com/commenthol/date-holidays",
+  "source_url": "https://github.com/commenthol/date-holidays",
+  "updated": "2026-04",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "rule",
+      "label": "Rule",
+      "type": "string"
+    },
+    {
+      "key": "name_native",
+      "label": "Name Native",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "reference",
+      "label": "Reference",
+      "type": "string"
+    },
+    {
+      "key": "note",
+      "label": "Note",
+      "type": "string"
+    },
+    {
+      "key": "active",
+      "label": "Active",
+      "type": "string"
+    },
+    {
+      "key": "substitute",
+      "label": "Substitute",
+      "type": "boolean"
+    },
+    {
+      "key": "disable",
+      "label": "Disable",
+      "type": "string"
+    },
+    {
+      "key": "enable",
+      "label": "Enable",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "rule": "01-01",
+      "name_native": "Πρωτοχρονιά",
+      "name_en": "New Year's Day",
+      "type": "public",
+      "reference": "01-01",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 2,
+      "rule": "01-06",
+      "name_native": "Θεοφάνεια",
+      "name_en": "Epiphany",
+      "type": "public",
+      "reference": "01-06",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 3,
+      "rule": "orthodox -48",
+      "name_native": "Καθαρά Δευτέρα",
+      "name_en": "Ash Sunday",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 4,
+      "rule": "03-25",
+      "name_native": "Ευαγγελισμός, Εθνική Εορτή",
+      "name_en": "Annunciation, Anniversary of 1821 Revolution",
+      "type": "public",
+      "reference": "",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 5,
+      "rule": "orthodox -2",
+      "name_native": "Μεγάλη Παρασκευή",
+      "name_en": "Good Friday",
+      "type": "public",
+      "reference": "easter -2",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 6,
+      "rule": "orthodox",
+      "name_native": "Πάσχα",
+      "name_en": "Easter Sunday",
+      "type": "public",
+      "reference": "easter",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 7,
+      "rule": "orthodox 1",
+      "name_native": "Δευτέρα του Πάσχα",
+      "name_en": "Easter Monday",
+      "type": "public",
+      "reference": "easter 1",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 8,
+      "rule": "05-01",
+      "name_native": "Εργατική Πρωτομαγιά",
+      "name_en": "Labour Day",
+      "type": "public",
+      "reference": "05-01",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 9,
+      "rule": "orthodox 49",
+      "name_native": "Πεντηκοστή",
+      "name_en": "Pentecost",
+      "type": "public",
+      "reference": "easter 49",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 10,
+      "rule": "orthodox 50",
+      "name_native": "Αγίου Πνεύματος",
+      "name_en": "Whit Monday",
+      "type": "public",
+      "reference": "easter 50",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 11,
+      "rule": "2nd sunday in May",
+      "name_native": "Γιορτή της μητέρας",
+      "name_en": "Mother's Day",
+      "type": "observance",
+      "reference": "Mothers Day",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 12,
+      "rule": "08-15",
+      "name_native": "Κοίμηση της Θεοτόκου",
+      "name_en": "Assumption",
+      "type": "public",
+      "reference": "08-15",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 13,
+      "rule": "10-28",
+      "name_native": "Επέτειος του Όχι",
+      "name_en": "National Holiday",
+      "type": "public",
+      "reference": "National Holiday",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 14,
+      "rule": "12-25",
+      "name_native": "Χριστούγεννα",
+      "name_en": "Christmas Day",
+      "type": "public",
+      "reference": "12-25",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    },
+    {
+      "id": 15,
+      "rule": "12-26",
+      "name_native": "Δεύτερη μέρα των Χριστουγέννων",
+      "name_en": "Boxing Day",
+      "type": "public",
+      "reference": "12-26",
+      "note": "",
+      "active": "",
+      "substitute": false,
+      "disable": "",
+      "enable": ""
+    }
+  ],
+  "meta": {
+    "title": "Επίσημες αργίες της Ελλάδας - Δωρεάν λήψη",
+    "description": "Εθνικές αργίες, εορτές, Ορθόδοξες θρησκευτικές γιορτές και επετειακές μέρες της Ελληνικής Δημοκρατίας. Κανόνες κινητών εορτών (Πάσχα, Πεντηκοστή) προέρχονται από το ορθόδοξο εκκλησιαστικό ημερολόγιο. Πηγή: commenthol/date-holidays (Wikipedia, CC-BY-SA-3.0). Περιέχει 15 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Επίσημες αργίες της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Επίσημες αργίες της Ελλάδας — 15 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 15 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/commenthol/date-holidays"
+    ]
+  }
+}

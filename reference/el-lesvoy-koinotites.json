@@ -1,0 +1,562 @@
+{
+  "id": "el-lesvoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Λεσβου (73)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Λεσβου (73)",
+  "description": "Οι 73 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λεσβου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 73,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "350101",
+      "name": "Αγιας Παρασκευης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350102",
+      "name": "Ναπης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350201",
+      "name": "Αγιασου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350501",
+      "name": "Μεσαγρου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350502",
+      "name": "Παλαιοκηπου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350503",
+      "name": "Παππαδου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350506",
+      "name": "Σκοπελου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350504",
+      "name": "Περαματος",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350505",
+      "name": "Πλακαδου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350601",
+      "name": "Αντισσης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350603",
+      "name": "Ερεσου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350604",
+      "name": "Μεσοτοπου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350602",
+      "name": "Βατουσσης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350605",
+      "name": "Πτερουντος",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350606",
+      "name": "Σιγριου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350607",
+      "name": "Χιδηρων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350701",
+      "name": "Ασωματου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350702",
+      "name": "Ιππειου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350703",
+      "name": "Κατω Τριτους",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350704",
+      "name": "Κεραμειων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350705",
+      "name": "Λαμπου Μυλων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350706",
+      "name": "Μυχου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350707",
+      "name": "Συκουντος",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350801",
+      "name": "Αγρας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350805",
+      "name": "Καλλονης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350802",
+      "name": "Ανεμοτιας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350803",
+      "name": "Αρισβης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350804",
+      "name": "Δαφιων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350806",
+      "name": "Κεραμιου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350807",
+      "name": "Παρακοιλων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350808",
+      "name": "Σκαλοχωριου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350809",
+      "name": "Φιλιας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350902",
+      "name": "Λουτροπολεως Θερμης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350901",
+      "name": "Κωμης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350903",
+      "name": "Μιστεγνων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350904",
+      "name": "Νεων Κυδωνιων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350905",
+      "name": "Πηγης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "350906",
+      "name": "Πυργων Θερμης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351003",
+      "name": "Μανταμαδου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351001",
+      "name": "Καπης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351002",
+      "name": "Κλειους",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351004",
+      "name": "Πελοπης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351103",
+      "name": "Μηθυμνης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351101",
+      "name": "Αργεννου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351102",
+      "name": "Λεπετυμνου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351104",
+      "name": "Συκαμινεας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351404",
+      "name": "Λουτρων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351405",
+      "name": "Μοριας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351406",
+      "name": "Μυτιληνης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351407",
+      "name": "Παμφιλων (Παμφυλλων)",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351401",
+      "name": "Αγιας Μαρινης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351402",
+      "name": "Αλυφαντων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351403",
+      "name": "Αφαλωνος",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351408",
+      "name": "Παναγιουδας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351409",
+      "name": "Ταξιαρχων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351602",
+      "name": "Πετρας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351603",
+      "name": "Σκουταρου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351604",
+      "name": "Στυψης",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351601",
+      "name": "Λαφιωνας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351605",
+      "name": "Υψηλομετωπου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351707",
+      "name": "Πλωμαριου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351701",
+      "name": "Ακρασιου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351702",
+      "name": "Αμπελικου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351703",
+      "name": "Μεγαλοχωριου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351704",
+      "name": "Νεοχωριου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351705",
+      "name": "Παλαιοχωριου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351706",
+      "name": "Πλαγιας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351708",
+      "name": "Τρυγονα",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351804",
+      "name": "Πολιχνιτου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351801",
+      "name": "Βασιλικων",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351802",
+      "name": "Βρισας",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351803",
+      "name": "Λισβοριου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    },
+    {
+      "id": "351805",
+      "name": "Σταυρου",
+      "municipality": "Λεσβου",
+      "regional_unit": "Λεσβου",
+      "region": "Βορειου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Λεσβου (73) - Δωρεάν λήψη",
+    "description": "Οι 73 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Λεσβου (Περιφέρεια Βορειου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 73 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Λεσβου (73) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Λεσβου (73) — 73 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 73 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

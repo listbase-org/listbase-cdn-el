@@ -1,0 +1,4086 @@
+{
+  "id": "el-atm",
+  "name": "ATM Ελλάδας",
+  "title": "ATM Ελλάδας",
+  "description": "Αυτόματες ταμειολογιστικές μηχανές (ATM) σε όλη την Ελλάδα από το OpenStreetMap (διακριτό από το el-trapezes). ATMs across Greece.",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 809,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Alpha",
+      "latitude": 37.930576,
+      "longitude": 23.639958
+    },
+    {
+      "name": "Alpha",
+      "latitude": 38.041554,
+      "longitude": 23.755215
+    },
+    {
+      "name": "Alpha",
+      "latitude": 39.08073,
+      "longitude": 26.371961
+    },
+    {
+      "name": "Alpha",
+      "latitude": 39.099896,
+      "longitude": 26.555559
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.098192,
+      "longitude": 24.68618
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.207761,
+      "longitude": 26.106156
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.283495,
+      "longitude": 25.460246
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.289969,
+      "longitude": 25.45635
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.329379,
+      "longitude": 25.137572
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.336648,
+      "longitude": 25.174235
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.366704,
+      "longitude": 24.483181
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.367788,
+      "longitude": 24.529275
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.369926,
+      "longitude": 24.474955
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.406045,
+      "longitude": 25.017404
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.416892,
+      "longitude": 24.65038
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.417777,
+      "longitude": 24.685906
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.494242,
+      "longitude": 23.653987
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.511659,
+      "longitude": 24.031012
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 35.512496,
+      "longitude": 24.005086
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.09211,
+      "longitude": 28.085168
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.150615,
+      "longitude": 22.985726
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.29033,
+      "longitude": 28.162926
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.34084,
+      "longitude": 28.2039
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.377713,
+      "longitude": 25.479573
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.382038,
+      "longitude": 28.032767
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.406726,
+      "longitude": 28.22699
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.41752,
+      "longitude": 28.173966
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.418228,
+      "longitude": 25.432568
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.510626,
+      "longitude": 22.979591
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.62854,
+      "longitude": 24.919658
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.685793,
+      "longitude": 23.037551
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.72335,
+      "longitude": 25.272639
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.725644,
+      "longitude": 24.446972
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.759701,
+      "longitude": 22.565218
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.801958,
+      "longitude": 27.089687
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.851319,
+      "longitude": 22.666729
+    },
+    {
+      "name": "Alpha bank",
+      "latitude": 36.887532,
+      "longitude": 22.232802
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.95204,
+      "longitude": 26.982403
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 36.996551,
+      "longitude": 26.935599
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.103439,
+      "longitude": 25.375289
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.404192,
+      "longitude": 22.723057
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.441471,
+      "longitude": 24.941406
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.44587,
+      "longitude": 25.32676
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.566326,
+      "longitude": 22.797297
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.615312,
+      "longitude": 26.29603
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.64514,
+      "longitude": 21.625768
+    },
+    {
+      "name": "Alpha bank",
+      "latitude": 37.646975,
+      "longitude": 21.316833
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.651363,
+      "longitude": 22.464563
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.707597,
+      "longitude": 26.670269
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.786737,
+      "longitude": 20.898892
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.841705,
+      "longitude": 20.767447
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.906195,
+      "longitude": 23.73538
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.906502,
+      "longitude": 23.74431
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.925625,
+      "longitude": 23.741588
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.929942,
+      "longitude": 23.685492
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.936169,
+      "longitude": 23.94649
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.936324,
+      "longitude": 22.929566
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.936452,
+      "longitude": 21.146498
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.936807,
+      "longitude": 23.947087
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.972197,
+      "longitude": 23.710069
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.973913,
+      "longitude": 23.748071
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.976772,
+      "longitude": 23.754642
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.979745,
+      "longitude": 23.746549
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.980152,
+      "longitude": 23.755404
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.981096,
+      "longitude": 23.732072
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.989794,
+      "longitude": 23.703521
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.992924,
+      "longitude": 23.664814
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.993304,
+      "longitude": 23.766525
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.997305,
+      "longitude": 23.699781
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 37.9991,
+      "longitude": 23.784772
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.000025,
+      "longitude": 23.414703
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.014875,
+      "longitude": 23.735494
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.016225,
+      "longitude": 23.692317
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.033366,
+      "longitude": 23.679984
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.033854,
+      "longitude": 23.759334
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.035039,
+      "longitude": 23.748609
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.070712,
+      "longitude": 23.784497
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.114847,
+      "longitude": 23.828049
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.129891,
+      "longitude": 23.758601
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.232176,
+      "longitude": 21.725228
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.241405,
+      "longitude": 22.109238
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.253864,
+      "longitude": 26.031552
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.334005,
+      "longitude": 21.766304
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.367439,
+      "longitude": 23.537696
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.368878,
+      "longitude": 26.138122
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.407651,
+      "longitude": 23.604323
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.408588,
+      "longitude": 21.275332
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.633501,
+      "longitude": 21.402857
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 38.960072,
+      "longitude": 20.755142
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.479942,
+      "longitude": 19.925362
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.501583,
+      "longitude": 20.263575
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.54714,
+      "longitude": 19.912806
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.631825,
+      "longitude": 19.882428
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.637738,
+      "longitude": 22.415767
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.644761,
+      "longitude": 19.854715
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.652673,
+      "longitude": 19.842089
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.677196,
+      "longitude": 20.841724
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.698194,
+      "longitude": 19.838303
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.772289,
+      "longitude": 21.181234
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.788495,
+      "longitude": 19.920851
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.789361,
+      "longitude": 19.788043
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.793284,
+      "longitude": 19.818353
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.988144,
+      "longitude": 23.614525
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 39.99714,
+      "longitude": 23.575314
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.057318,
+      "longitude": 22.565475
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.084709,
+      "longitude": 21.427405
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.09833,
+      "longitude": 23.312634
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.274127,
+      "longitude": 22.512698
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.450366,
+      "longitude": 21.259436
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.519858,
+      "longitude": 21.263497
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.523955,
+      "longitude": 22.976382
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.539398,
+      "longitude": 23.029919
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.548153,
+      "longitude": 23.003976
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.572792,
+      "longitude": 22.957738
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.602001,
+      "longitude": 22.969398
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.630325,
+      "longitude": 22.951731
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.631572,
+      "longitude": 22.953048
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.634619,
+      "longitude": 22.947368
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.654124,
+      "longitude": 22.944496
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.709461,
+      "longitude": 24.754493
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.758504,
+      "longitude": 24.577919
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.763643,
+      "longitude": 23.907141
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.768558,
+      "longitude": 22.156418
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.841059,
+      "longitude": 22.92092
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.856082,
+      "longitude": 25.923236
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 40.908508,
+      "longitude": 23.500495
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 41.025842,
+      "longitude": 26.295376
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 41.071718,
+      "longitude": 24.241883
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 41.116819,
+      "longitude": 25.403871
+    },
+    {
+      "name": "Alpha Bank",
+      "latitude": 41.121018,
+      "longitude": 24.898004
+    },
+    {
+      "name": "Alpha Bank ATM",
+      "latitude": 36.436234,
+      "longitude": 28.237575
+    },
+    {
+      "name": "Alpha Bank ATM",
+      "latitude": 37.886106,
+      "longitude": 24.004158
+    },
+    {
+      "name": "Alpha Bank ATM",
+      "latitude": 40.301148,
+      "longitude": 21.787391
+    },
+    {
+      "name": "Alphabank",
+      "latitude": 37.98499,
+      "longitude": 23.740139
+    },
+    {
+      "name": "Aplha Bank",
+      "latitude": 38.075739,
+      "longitude": 23.704409
+    },
+    {
+      "name": "Atm",
+      "latitude": 35.306498,
+      "longitude": 25.392697
+    },
+    {
+      "name": "ATM",
+      "latitude": 35.370965,
+      "longitude": 24.537095
+    },
+    {
+      "name": "ATM",
+      "latitude": 36.022254,
+      "longitude": 27.923465
+    },
+    {
+      "name": "Atm",
+      "latitude": 36.710961,
+      "longitude": 25.296171
+    },
+    {
+      "name": "Atm",
+      "latitude": 36.712773,
+      "longitude": 25.295942
+    },
+    {
+      "name": "Atm",
+      "latitude": 36.715118,
+      "longitude": 25.29425
+    },
+    {
+      "name": "Atm",
+      "latitude": 36.715676,
+      "longitude": 25.292885
+    },
+    {
+      "name": "ATM",
+      "latitude": 36.831629,
+      "longitude": 25.899518
+    },
+    {
+      "name": "ATM",
+      "latitude": 37.004115,
+      "longitude": 25.223333
+    },
+    {
+      "name": "Atm",
+      "latitude": 39.67294,
+      "longitude": 19.703989
+    },
+    {
+      "name": "ATM",
+      "latitude": 40.334066,
+      "longitude": 23.92257
+    },
+    {
+      "name": "ATM Alpha Bank",
+      "latitude": 37.295464,
+      "longitude": 26.767925
+    },
+    {
+      "name": "ATM Alpha Bank",
+      "latitude": 39.422105,
+      "longitude": 20.045201
+    },
+    {
+      "name": "ATM Attica",
+      "latitude": 40.497858,
+      "longitude": 22.988331
+    },
+    {
+      "name": "ATM Eurobank",
+      "latitude": 38.248604,
+      "longitude": 22.089053
+    },
+    {
+      "name": "ATM Euronet",
+      "latitude": 35.249623,
+      "longitude": 23.810709
+    },
+    {
+      "name": "ATM Euronet",
+      "latitude": 39.421456,
+      "longitude": 20.07749
+    },
+    {
+      "name": "ATM National Bank",
+      "latitude": 38.191545,
+      "longitude": 22.197084
+    },
+    {
+      "name": "ATM National Bank",
+      "latitude": 40.52464,
+      "longitude": 22.976028
+    },
+    {
+      "name": "ATM Τράπεζα Πειραιώς",
+      "latitude": 38.037814,
+      "longitude": 23.6741
+    },
+    {
+      "name": "ATM Τράπεζας Πειραιώς",
+      "latitude": 36.402045,
+      "longitude": 28.089935
+    },
+    {
+      "name": "ATM Τράπεζας Πειραιώς",
+      "latitude": 41.418637,
+      "longitude": 26.225112
+    },
+    {
+      "name": "Attica",
+      "latitude": 35.489249,
+      "longitude": 24.063495
+    },
+    {
+      "name": "Attica",
+      "latitude": 35.512059,
+      "longitude": 24.016393
+    },
+    {
+      "name": "Attica",
+      "latitude": 37.958734,
+      "longitude": 23.733862
+    },
+    {
+      "name": "Attica",
+      "latitude": 38.020963,
+      "longitude": 23.777582
+    },
+    {
+      "name": "Attica",
+      "latitude": 38.353865,
+      "longitude": 22.789007
+    },
+    {
+      "name": "Attica",
+      "latitude": 38.514103,
+      "longitude": 22.732971
+    },
+    {
+      "name": "Attica",
+      "latitude": 40.503507,
+      "longitude": 22.216394
+    },
+    {
+      "name": "Attica",
+      "latitude": 40.522606,
+      "longitude": 23.054351
+    },
+    {
+      "name": "Attica",
+      "latitude": 40.608612,
+      "longitude": 22.951687
+    },
+    {
+      "name": "Attica",
+      "latitude": 40.938176,
+      "longitude": 24.378166
+    },
+    {
+      "name": "Attica",
+      "latitude": 41.11233,
+      "longitude": 25.411842
+    },
+    {
+      "name": "Attica Bank",
+      "latitude": 40.796384,
+      "longitude": 22.414436
+    },
+    {
+      "name": "Bank Automat",
+      "latitude": 40.730579,
+      "longitude": 24.759596
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 35.338653,
+      "longitude": 25.130611
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 36.418881,
+      "longitude": 25.431278
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 36.447318,
+      "longitude": 28.225677
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 37.040268,
+      "longitude": 22.112173
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 37.963763,
+      "longitude": 23.722982
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 37.968377,
+      "longitude": 23.698166
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 38.006135,
+      "longitude": 23.698071
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 38.007948,
+      "longitude": 23.807937
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 38.251465,
+      "longitude": 21.737913
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 39.669466,
+      "longitude": 20.854055
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 40.607827,
+      "longitude": 22.96306
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 40.846202,
+      "longitude": 25.878145
+    },
+    {
+      "name": "Bcash Bitcoin ATM",
+      "latitude": 41.088589,
+      "longitude": 23.546955
+    },
+    {
+      "name": "Bcash Shop",
+      "latitude": 37.89269,
+      "longitude": 23.764983
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 37.981794,
+      "longitude": 23.733415
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 40.607925,
+      "longitude": 22.957318
+    },
+    {
+      "name": "Bitcoin ATM - Shitcoins.club",
+      "latitude": 40.641252,
+      "longitude": 22.928707
+    },
+    {
+      "name": "Bitcoin Spot",
+      "latitude": 39.634282,
+      "longitude": 22.419044
+    },
+    {
+      "name": "Bitcoinmat Bitcoin ATM",
+      "latitude": 37.863298,
+      "longitude": 23.74781
+    },
+    {
+      "name": "Bitcoinmat Bitcoin ATM",
+      "latitude": 37.957841,
+      "longitude": 23.734502
+    },
+    {
+      "name": "Cash Zone",
+      "latitude": 38.834515,
+      "longitude": 20.710979
+    },
+    {
+      "name": "CashFlex ATM",
+      "latitude": 40.292909,
+      "longitude": 21.7835
+    },
+    {
+      "name": "CashFlex ATM",
+      "latitude": 40.300697,
+      "longitude": 21.787447
+    },
+    {
+      "name": "CashFlex ATM",
+      "latitude": 40.302428,
+      "longitude": 21.788336
+    },
+    {
+      "name": "Citibank",
+      "latitude": 36.339983,
+      "longitude": 28.203567
+    },
+    {
+      "name": "Citibank",
+      "latitude": 36.84886,
+      "longitude": 27.076091
+    },
+    {
+      "name": "Citibank",
+      "latitude": 39.36928,
+      "longitude": 26.16911
+    },
+    {
+      "name": "citibank ATM",
+      "latitude": 36.878438,
+      "longitude": 27.145917
+    },
+    {
+      "name": "Coop Bank",
+      "latitude": 35.454014,
+      "longitude": 23.912234
+    },
+    {
+      "name": "Distributeur",
+      "latitude": 36.930603,
+      "longitude": 25.599878
+    },
+    {
+      "name": "Ethniki",
+      "latitude": 39.099922,
+      "longitude": 26.555573
+    },
+    {
+      "name": "Ethniki",
+      "latitude": 39.102796,
+      "longitude": 26.556291
+    },
+    {
+      "name": "Ethniki atm",
+      "latitude": 37.993137,
+      "longitude": 23.74958
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.189131,
+      "longitude": 24.397224
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.289696,
+      "longitude": 25.449361
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.338343,
+      "longitude": 25.135854
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.36671,
+      "longitude": 24.479207
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.369857,
+      "longitude": 24.475999
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.388312,
+      "longitude": 24.605932
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.406556,
+      "longitude": 24.782787
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.418483,
+      "longitude": 24.690669
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.418577,
+      "longitude": 24.660334
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 35.506994,
+      "longitude": 27.211315
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.091672,
+      "longitude": 28.085688
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.149813,
+      "longitude": 22.987512
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.253149,
+      "longitude": 28.165539
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.340384,
+      "longitude": 28.200573
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.402785,
+      "longitude": 28.091372
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.418184,
+      "longitude": 25.432569
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.425175,
+      "longitude": 25.429137
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.461378,
+      "longitude": 25.372611
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.462064,
+      "longitude": 25.382738
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.462126,
+      "longitude": 25.379382
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.615168,
+      "longitude": 27.835777
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.761234,
+      "longitude": 22.564192
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.845916,
+      "longitude": 22.259434
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.894213,
+      "longitude": 27.287691
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 36.949294,
+      "longitude": 26.982525
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.026263,
+      "longitude": 22.109334
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.104802,
+      "longitude": 25.375758
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.124074,
+      "longitude": 25.237414
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.328435,
+      "longitude": 23.143738
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.445721,
+      "longitude": 25.32666
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.565891,
+      "longitude": 22.797687
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.587404,
+      "longitude": 22.74463
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.634927,
+      "longitude": 22.729593
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.67522,
+      "longitude": 21.433894
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.746372,
+      "longitude": 23.428377
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.754587,
+      "longitude": 26.9772
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.77829,
+      "longitude": 26.892176
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.81331,
+      "longitude": 23.782353
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.81368,
+      "longitude": 20.867412
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.879309,
+      "longitude": 23.757943
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.927418,
+      "longitude": 23.14209
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.93561,
+      "longitude": 23.946658
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.936438,
+      "longitude": 23.641393
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.945007,
+      "longitude": 23.646297
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.961665,
+      "longitude": 23.69881
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.962407,
+      "longitude": 23.612009
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.964058,
+      "longitude": 23.758967
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.967702,
+      "longitude": 23.708904
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.973416,
+      "longitude": 23.751261
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.975648,
+      "longitude": 23.725394
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.976247,
+      "longitude": 23.650535
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.980501,
+      "longitude": 23.730236
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.987774,
+      "longitude": 23.760393
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 37.99238,
+      "longitude": 23.798513
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.007186,
+      "longitude": 23.427594
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.019511,
+      "longitude": 23.728872
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.023684,
+      "longitude": 23.786562
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.025842,
+      "longitude": 23.833785
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.033741,
+      "longitude": 21.364988
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.035052,
+      "longitude": 23.748593
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.111501,
+      "longitude": 23.762969
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.160727,
+      "longitude": 20.482699
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.242308,
+      "longitude": 21.735854
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.370664,
+      "longitude": 26.137586
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.474015,
+      "longitude": 23.623308
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.528717,
+      "longitude": 21.529387
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.624409,
+      "longitude": 21.408902
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.787765,
+      "longitude": 20.612181
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.831133,
+      "longitude": 20.705014
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 38.833875,
+      "longitude": 20.708126
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.062425,
+      "longitude": 26.598618
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.099865,
+      "longitude": 26.555549
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.106668,
+      "longitude": 26.556443
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.362967,
+      "longitude": 21.920383
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.367902,
+      "longitude": 26.174814
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.479093,
+      "longitude": 19.926886
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.479656,
+      "longitude": 19.925867
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.501079,
+      "longitude": 20.263668
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.617986,
+      "longitude": 19.838211
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.674258,
+      "longitude": 20.846748
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.680889,
+      "longitude": 19.837736
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.791039,
+      "longitude": 19.813619
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.791655,
+      "longitude": 19.815872
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.792325,
+      "longitude": 19.707484
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.993142,
+      "longitude": 22.622723
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 39.997148,
+      "longitude": 23.575744
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.084858,
+      "longitude": 21.426792
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.239762,
+      "longitude": 23.281504
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.268574,
+      "longitude": 22.509861
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.311662,
+      "longitude": 23.064086
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.396167,
+      "longitude": 23.87501
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.596814,
+      "longitude": 22.963144
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.602487,
+      "longitude": 22.965775
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.625693,
+      "longitude": 24.578297
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.633806,
+      "longitude": 22.955575
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.634482,
+      "longitude": 22.937792
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.653912,
+      "longitude": 22.902062
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.657061,
+      "longitude": 22.986587
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.658185,
+      "longitude": 22.956696
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.66002,
+      "longitude": 22.935025
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.675396,
+      "longitude": 22.92679
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.691422,
+      "longitude": 22.939762
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.768042,
+      "longitude": 22.1568
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.921903,
+      "longitude": 24.622646
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.937009,
+      "longitude": 24.410429
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 40.944393,
+      "longitude": 23.999939
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 41.121119,
+      "longitude": 24.897971
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 41.122925,
+      "longitude": 24.869295
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 41.127174,
+      "longitude": 22.552467
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 41.140435,
+      "longitude": 24.887797
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 41.150763,
+      "longitude": 24.147362
+    },
+    {
+      "name": "Eurobank",
+      "latitude": 41.348652,
+      "longitude": 26.494535
+    },
+    {
+      "name": "Eurobank ATM",
+      "latitude": 37.886021,
+      "longitude": 24.004414
+    },
+    {
+      "name": "Eurobank ATM",
+      "latitude": 40.293077,
+      "longitude": 21.783327
+    },
+    {
+      "name": "Eurobank ATM",
+      "latitude": 40.30048,
+      "longitude": 21.789181
+    },
+    {
+      "name": "Eurobank ATM",
+      "latitude": 40.52407,
+      "longitude": 22.97657
+    },
+    {
+      "name": "Eurobank-ΕΛΤΑ",
+      "latitude": 39.9936,
+      "longitude": 22.621576
+    },
+    {
+      "name": "Eurobank-ΕΛΤΑ",
+      "latitude": 40.038335,
+      "longitude": 23.944266
+    },
+    {
+      "name": "Eurobank-ΕΛΤΑ",
+      "latitude": 41.50128,
+      "longitude": 26.533426
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.003974,
+      "longitude": 25.584623
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.182605,
+      "longitude": 24.232219
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.19833,
+      "longitude": 25.712195
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.20097,
+      "longitude": 24.136611
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.230797,
+      "longitude": 23.680214
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.282618,
+      "longitude": 25.464418
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.289647,
+      "longitude": 25.448994
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.290013,
+      "longitude": 25.459324
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.290044,
+      "longitude": 25.45673
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.290322,
+      "longitude": 25.445971
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.290579,
+      "longitude": 25.460882
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.290798,
+      "longitude": 25.443082
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.292115,
+      "longitude": 25.460082
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.29772,
+      "longitude": 25.422654
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.308386,
+      "longitude": 25.384678
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.318933,
+      "longitude": 25.391503
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.319849,
+      "longitude": 25.391671
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.329738,
+      "longitude": 25.262499
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.331355,
+      "longitude": 25.2503
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.334796,
+      "longitude": 25.313709
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.335625,
+      "longitude": 25.069527
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.335713,
+      "longitude": 25.303194
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.335754,
+      "longitude": 25.078132
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.360295,
+      "longitude": 24.260009
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.362971,
+      "longitude": 24.259772
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.366593,
+      "longitude": 24.468424
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.370658,
+      "longitude": 24.47431
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.388749,
+      "longitude": 24.608427
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.414646,
+      "longitude": 24.783035
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.515632,
+      "longitude": 24.019024
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.516139,
+      "longitude": 24.017837
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.516548,
+      "longitude": 24.017526
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.519322,
+      "longitude": 23.927684
+    },
+    {
+      "name": "Euronet",
+      "latitude": 35.541392,
+      "longitude": 24.136529
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.055201,
+      "longitude": 27.97427
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.227771,
+      "longitude": 27.854933
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.342289,
+      "longitude": 28.198785
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.41818,
+      "longitude": 25.432256
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.42005,
+      "longitude": 25.431872
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.428141,
+      "longitude": 28.1989
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.444662,
+      "longitude": 28.227714
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.460298,
+      "longitude": 25.371171
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.462366,
+      "longitude": 25.380989
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.481847,
+      "longitude": 22.400377
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.508233,
+      "longitude": 22.979514
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.888027,
+      "longitude": 22.232563
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.990525,
+      "longitude": 26.93206
+    },
+    {
+      "name": "Euronet",
+      "latitude": 36.995599,
+      "longitude": 26.934948
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.052607,
+      "longitude": 25.368184
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.299767,
+      "longitude": 21.695998
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.423588,
+      "longitude": 25.323572
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.425074,
+      "longitude": 25.322853
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.43381,
+      "longitude": 25.331741
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.450093,
+      "longitude": 25.33004
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.565936,
+      "longitude": 22.797368
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.56721,
+      "longitude": 22.798584
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.646711,
+      "longitude": 21.316794
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.709744,
+      "longitude": 23.365025
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.712943,
+      "longitude": 23.34674
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.754638,
+      "longitude": 20.869529
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.77827,
+      "longitude": 26.886837
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.778851,
+      "longitude": 26.892937
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.81317,
+      "longitude": 20.869575
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.815677,
+      "longitude": 20.868795
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.816879,
+      "longitude": 20.864028
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.817484,
+      "longitude": 20.865537
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.906714,
+      "longitude": 20.705574
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.967852,
+      "longitude": 23.729413
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.967916,
+      "longitude": 23.727917
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.968753,
+      "longitude": 23.725956
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.969456,
+      "longitude": 23.730532
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.969881,
+      "longitude": 23.731225
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.970402,
+      "longitude": 23.73168
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.970447,
+      "longitude": 23.730108
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.975406,
+      "longitude": 23.728125
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.975476,
+      "longitude": 23.719412
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.97789,
+      "longitude": 23.724609
+    },
+    {
+      "name": "Euronet",
+      "latitude": 37.984886,
+      "longitude": 23.727796
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.156785,
+      "longitude": 20.481647
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.159813,
+      "longitude": 20.482465
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.161066,
+      "longitude": 20.482681
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.18031,
+      "longitude": 20.487455
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.30321,
+      "longitude": 20.598219
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.787384,
+      "longitude": 20.612644
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.833792,
+      "longitude": 20.707938
+    },
+    {
+      "name": "Euronet",
+      "latitude": 38.835162,
+      "longitude": 20.709465
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.06245,
+      "longitude": 26.598692
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.134906,
+      "longitude": 25.931026
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.144167,
+      "longitude": 23.864055
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.150318,
+      "longitude": 23.8447
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.153429,
+      "longitude": 23.402593
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.163348,
+      "longitude": 23.488586
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.16369,
+      "longitude": 23.487106
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.205872,
+      "longitude": 26.210459
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.285132,
+      "longitude": 20.412032
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.327316,
+      "longitude": 26.174896
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.369239,
+      "longitude": 26.169055
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.541091,
+      "longitude": 19.914989
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.545976,
+      "longitude": 19.913521
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.547355,
+      "longitude": 19.912243
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.591692,
+      "longitude": 19.917165
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.60683,
+      "longitude": 19.914562
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.622766,
+      "longitude": 19.923486
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.623609,
+      "longitude": 19.921025
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.624029,
+      "longitude": 19.922057
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.624125,
+      "longitude": 19.9143
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.624487,
+      "longitude": 19.92371
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.719666,
+      "longitude": 19.871004
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.72571,
+      "longitude": 19.89612
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.743851,
+      "longitude": 19.650957
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.789872,
+      "longitude": 19.710631
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.791665,
+      "longitude": 19.708003
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.792059,
+      "longitude": 19.703054
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.792566,
+      "longitude": 19.816697
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.792762,
+      "longitude": 19.702398
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.792965,
+      "longitude": 19.817766
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.963089,
+      "longitude": 23.379246
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.977043,
+      "longitude": 22.652902
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.977282,
+      "longitude": 22.654123
+    },
+    {
+      "name": "Euronet",
+      "latitude": 39.979588,
+      "longitude": 22.645911
+    },
+    {
+      "name": "Euronet",
+      "latitude": 40.633575,
+      "longitude": 22.938551
+    },
+    {
+      "name": "Euronet",
+      "latitude": 40.634906,
+      "longitude": 22.943556
+    },
+    {
+      "name": "Euronet",
+      "latitude": 40.932463,
+      "longitude": 24.412356
+    },
+    {
+      "name": "Euronet ATM",
+      "latitude": 39.568498,
+      "longitude": 19.909339
+    },
+    {
+      "name": "Euronet ATM",
+      "latitude": 40.267382,
+      "longitude": 21.81278
+    },
+    {
+      "name": "Euronet ATM",
+      "latitude": 40.292633,
+      "longitude": 21.783208
+    },
+    {
+      "name": "Euronet ATM",
+      "latitude": 40.309669,
+      "longitude": 21.816431
+    },
+    {
+      "name": "HSBC",
+      "latitude": 37.968774,
+      "longitude": 23.751937
+    },
+    {
+      "name": "I-Bank",
+      "latitude": 36.722766,
+      "longitude": 25.280985
+    },
+    {
+      "name": "Marfin Egnatia Bank",
+      "latitude": 37.754131,
+      "longitude": 20.886624
+    },
+    {
+      "name": "MediaMarkt",
+      "latitude": 39.606778,
+      "longitude": 22.442599
+    },
+    {
+      "name": "National Bank",
+      "latitude": 36.548826,
+      "longitude": 26.352813
+    },
+    {
+      "name": "National Bank",
+      "latitude": 36.616282,
+      "longitude": 27.835549
+    },
+    {
+      "name": "National Bank",
+      "latitude": 37.567006,
+      "longitude": 22.802327
+    },
+    {
+      "name": "National Bank of Greece",
+      "latitude": 40.182618,
+      "longitude": 22.00039
+    },
+    {
+      "name": "National Bank of Greece",
+      "latitude": 40.301814,
+      "longitude": 21.788058
+    },
+    {
+      "name": "National Bank of Greece",
+      "latitude": 40.302659,
+      "longitude": 21.788399
+    },
+    {
+      "name": "National Bank of Greece",
+      "latitude": 40.304577,
+      "longitude": 21.784219
+    },
+    {
+      "name": "National Bank of Greece",
+      "latitude": 40.321817,
+      "longitude": 21.791029
+    },
+    {
+      "name": "Nationalbank of Greece",
+      "latitude": 37.936814,
+      "longitude": 23.947305
+    },
+    {
+      "name": "NBG",
+      "latitude": 36.796971,
+      "longitude": 21.957075
+    },
+    {
+      "name": "Nbg",
+      "latitude": 38.375222,
+      "longitude": 22.384815
+    },
+    {
+      "name": "NBG (Εθνική Τράπεζα)",
+      "latitude": 38.321675,
+      "longitude": 23.79715
+    },
+    {
+      "name": "Peiraeus Bank",
+      "latitude": 38.297861,
+      "longitude": 22.001407
+    },
+    {
+      "name": "Peireus Bank",
+      "latitude": 37.566068,
+      "longitude": 22.799069
+    },
+    {
+      "name": "Peraeus bank",
+      "latitude": 36.112893,
+      "longitude": 28.05705
+    },
+    {
+      "name": "Piraeus",
+      "latitude": 36.545528,
+      "longitude": 26.352692
+    },
+    {
+      "name": "Piraeus",
+      "latitude": 37.501093,
+      "longitude": 23.454518
+    },
+    {
+      "name": "Piraeus",
+      "latitude": 37.975988,
+      "longitude": 23.727783
+    },
+    {
+      "name": "Piraeus",
+      "latitude": 39.284467,
+      "longitude": 20.40151
+    },
+    {
+      "name": "Piraeus",
+      "latitude": 39.422499,
+      "longitude": 20.06241
+    },
+    {
+      "name": "Piraeus",
+      "latitude": 40.653918,
+      "longitude": 22.902108
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 35.284173,
+      "longitude": 25.460551
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 35.285811,
+      "longitude": 25.461254
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 35.522604,
+      "longitude": 23.848689
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 36.401899,
+      "longitude": 28.089797
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 38.069775,
+      "longitude": 20.748289
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 38.833147,
+      "longitude": 20.710639
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 39.15705,
+      "longitude": 20.998669
+    },
+    {
+      "name": "Piraeus Bank",
+      "latitude": 40.524097,
+      "longitude": 22.976559
+    },
+    {
+      "name": "Pireaus Bank ATM",
+      "latitude": 40.479977,
+      "longitude": 23.136682
+    },
+    {
+      "name": "Pireus Bank",
+      "latitude": 35.540043,
+      "longitude": 24.140647
+    },
+    {
+      "name": "Pireus Bank",
+      "latitude": 37.815683,
+      "longitude": 20.864713
+    },
+    {
+      "name": "ΑΤΜ Alpha Bank",
+      "latitude": 40.223859,
+      "longitude": 23.66754
+    },
+    {
+      "name": "ΑΤΜ Εθνικής",
+      "latitude": 37.416032,
+      "longitude": 22.766465
+    },
+    {
+      "name": "ΑΤΜ Εθνικής Τράπεζας",
+      "latitude": 38.032514,
+      "longitude": 21.364226
+    },
+    {
+      "name": "ΑΤΜ Εθνικής Τράπεζας",
+      "latitude": 40.223771,
+      "longitude": 23.667686
+    },
+    {
+      "name": "ΑΤΜ ΕΘΝΙΚΗ",
+      "latitude": 36.875746,
+      "longitude": 27.203843
+    },
+    {
+      "name": "ΑΤΜ ΠΕΙΡΑΙΩΣ",
+      "latitude": 36.876049,
+      "longitude": 27.204732
+    },
+    {
+      "name": "ΑΤΜ Πειραιώς",
+      "latitude": 37.41598,
+      "longitude": 22.767011
+    },
+    {
+      "name": "Εθνική",
+      "latitude": 35.494456,
+      "longitude": 23.653966
+    },
+    {
+      "name": "Εθνική",
+      "latitude": 37.932346,
+      "longitude": 23.633802
+    },
+    {
+      "name": "Εθνική",
+      "latitude": 37.945524,
+      "longitude": 23.640927
+    },
+    {
+      "name": "Εθνική",
+      "latitude": 40.09644,
+      "longitude": 23.978604
+    },
+    {
+      "name": "Εθνική",
+      "latitude": 41.117819,
+      "longitude": 25.405818
+    },
+    {
+      "name": "Εθνική ATM",
+      "latitude": 40.62542,
+      "longitude": 22.96042
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 35.148025,
+      "longitude": 25.26522
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 35.206121,
+      "longitude": 26.104294
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 35.28347,
+      "longitude": 25.460285
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 35.336747,
+      "longitude": 25.173129
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 35.365684,
+      "longitude": 24.496421
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 36.149139,
+      "longitude": 29.591898
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 36.411737,
+      "longitude": 28.226645
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 36.851699,
+      "longitude": 22.668432
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 36.891714,
+      "longitude": 27.299604
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 36.893287,
+      "longitude": 27.288276
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.022054,
+      "longitude": 25.115682
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.032637,
+      "longitude": 22.10929
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.041568,
+      "longitude": 25.252103
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.078516,
+      "longitude": 25.145774
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.122866,
+      "longitude": 25.238273
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.328206,
+      "longitude": 23.146104
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.441272,
+      "longitude": 24.941181
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.484324,
+      "longitude": 21.648139
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.5874,
+      "longitude": 22.744597
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.636992,
+      "longitude": 23.157037
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.672621,
+      "longitude": 21.438178
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.675787,
+      "longitude": 21.430522
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.749077,
+      "longitude": 23.90569
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.752076,
+      "longitude": 23.903143
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.897211,
+      "longitude": 22.12299
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.906447,
+      "longitude": 23.744312
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.915499,
+      "longitude": 23.716839
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.918556,
+      "longitude": 23.727513
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.933261,
+      "longitude": 23.710564
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.935902,
+      "longitude": 23.946875
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.936154,
+      "longitude": 23.658945
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.947985,
+      "longitude": 23.627371
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.95498,
+      "longitude": 23.715103
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.964286,
+      "longitude": 23.751624
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.969617,
+      "longitude": 23.708514
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.975656,
+      "longitude": 23.725362
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.976343,
+      "longitude": 23.761542
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.976397,
+      "longitude": 23.654247
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.976588,
+      "longitude": 23.73604
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.976955,
+      "longitude": 23.755135
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.977315,
+      "longitude": 23.737627
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.979687,
+      "longitude": 23.640092
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.980798,
+      "longitude": 23.729509
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.981014,
+      "longitude": 23.7285
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.986472,
+      "longitude": 23.761889
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.989842,
+      "longitude": 23.755986
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.991655,
+      "longitude": 23.769157
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 37.997282,
+      "longitude": 23.699746
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.000459,
+      "longitude": 23.415607
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.005371,
+      "longitude": 23.868765
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.014464,
+      "longitude": 23.831665
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.019762,
+      "longitude": 23.735804
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.020499,
+      "longitude": 23.855349
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.023713,
+      "longitude": 23.711081
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.029494,
+      "longitude": 23.692347
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.035064,
+      "longitude": 23.748576
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.074638,
+      "longitude": 23.740917
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.075319,
+      "longitude": 23.496588
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.082343,
+      "longitude": 23.732582
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.087204,
+      "longitude": 23.976623
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.119771,
+      "longitude": 23.749872
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.253763,
+      "longitude": 21.744798
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.256474,
+      "longitude": 21.742883
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.408971,
+      "longitude": 21.276495
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.479576,
+      "longitude": 22.582327
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.483441,
+      "longitude": 23.547512
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.493208,
+      "longitude": 22.981731
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.571959,
+      "longitude": 21.665063
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.830389,
+      "longitude": 20.708
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.862143,
+      "longitude": 21.165903
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 38.958999,
+      "longitude": 20.751029
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.1395,
+      "longitude": 23.643972
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.162325,
+      "longitude": 20.985914
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.326299,
+      "longitude": 22.925802
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.633444,
+      "longitude": 20.850513
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.637902,
+      "longitude": 22.422484
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.638527,
+      "longitude": 22.415185
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.664973,
+      "longitude": 20.851409
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.794275,
+      "longitude": 19.819142
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 39.990165,
+      "longitude": 23.607796
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.262774,
+      "longitude": 21.325374
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.27182,
+      "longitude": 22.499231
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.27253,
+      "longitude": 22.512278
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.279729,
+      "longitude": 22.496838
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.464092,
+      "longitude": 22.858943
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.50262,
+      "longitude": 22.908244
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.572582,
+      "longitude": 22.957516
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.619908,
+      "longitude": 22.953979
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.622335,
+      "longitude": 22.969856
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.626457,
+      "longitude": 24.575279
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.629787,
+      "longitude": 22.963797
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.630061,
+      "longitude": 23.043908
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.63018,
+      "longitude": 22.947557
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.630636,
+      "longitude": 22.956574
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.644559,
+      "longitude": 22.929111
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.668231,
+      "longitude": 22.894396
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.686925,
+      "longitude": 22.301483
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.689427,
+      "longitude": 22.936535
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.768007,
+      "longitude": 22.154768
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.846249,
+      "longitude": 25.86521
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.847918,
+      "longitude": 25.886632
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.850356,
+      "longitude": 25.834707
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.938182,
+      "longitude": 24.413146
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.94751,
+      "longitude": 22.45603
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 40.992179,
+      "longitude": 22.873285
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.010998,
+      "longitude": 24.292331
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.023595,
+      "longitude": 25.69597
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.07945,
+      "longitude": 23.539511
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.087738,
+      "longitude": 23.541539
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.08915,
+      "longitude": 23.550854
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.089231,
+      "longitude": 24.22447
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.091398,
+      "longitude": 23.588799
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.098176,
+      "longitude": 23.496756
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.114216,
+      "longitude": 25.402605
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.11785,
+      "longitude": 25.632102
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.119864,
+      "longitude": 25.401287
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.133873,
+      "longitude": 24.892084
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.139389,
+      "longitude": 24.889129
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.14012,
+      "longitude": 24.881598
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.142904,
+      "longitude": 24.889412
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.146213,
+      "longitude": 24.144579
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.152845,
+      "longitude": 24.146961
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.275641,
+      "longitude": 23.29355
+    },
+    {
+      "name": "Εθνική Τράπεζα",
+      "latitude": 41.705563,
+      "longitude": 26.293218
+    },
+    {
+      "name": "Εθνική Τράπεζα ATM",
+      "latitude": 37.884372,
+      "longitude": 24.010581
+    },
+    {
+      "name": "Εθνικη τραπεζα",
+      "latitude": 36.417671,
+      "longitude": 25.431702
+    },
+    {
+      "name": "Εθνικη Τραπεζα",
+      "latitude": 38.363946,
+      "longitude": 20.718101
+    },
+    {
+      "name": "Ελληνική Τράπεζα",
+      "latitude": 38.787731,
+      "longitude": 20.612205
+    },
+    {
+      "name": "Ετε",
+      "latitude": 38.527644,
+      "longitude": 26.093058
+    },
+    {
+      "name": "Παγκρήτια Τράπεζα",
+      "latitude": 35.156513,
+      "longitude": 25.644789
+    },
+    {
+      "name": "Παγκρήτια Τράπεζα",
+      "latitude": 40.634941,
+      "longitude": 22.938817
+    },
+    {
+      "name": "Πειραιως",
+      "latitude": 38.015947,
+      "longitude": 23.737538
+    },
+    {
+      "name": "Πειραιώς",
+      "latitude": 39.387878,
+      "longitude": 20.109889
+    },
+    {
+      "name": "Πειραιώς",
+      "latitude": 39.389214,
+      "longitude": 20.108201
+    },
+    {
+      "name": "Πειραιώς",
+      "latitude": 40.096401,
+      "longitude": 23.978573
+    },
+    {
+      "name": "Πειραιώς",
+      "latitude": 40.610267,
+      "longitude": 22.995094
+    },
+    {
+      "name": "Πειραιώς",
+      "latitude": 41.134569,
+      "longitude": 25.373101
+    },
+    {
+      "name": "Συνεταιριστική Τράπεζα Ηπείρου",
+      "latitude": 39.503449,
+      "longitude": 20.263225
+    },
+    {
+      "name": "Τράπεζα Ατικής",
+      "latitude": 39.620761,
+      "longitude": 19.920118
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.190498,
+      "longitude": 24.395276
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.304989,
+      "longitude": 25.072678
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.311341,
+      "longitude": 25.135641
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.329995,
+      "longitude": 25.257606
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.330044,
+      "longitude": 25.255468
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.334875,
+      "longitude": 25.316469
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.337885,
+      "longitude": 25.133716
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.338958,
+      "longitude": 25.132517
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.365203,
+      "longitude": 24.480771
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.367462,
+      "longitude": 24.498209
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.41384,
+      "longitude": 24.783005
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.453359,
+      "longitude": 24.17231
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.479853,
+      "longitude": 27.120414
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.494395,
+      "longitude": 23.65406
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.513942,
+      "longitude": 24.017919
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.519073,
+      "longitude": 23.923126
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 35.587745,
+      "longitude": 27.070836
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.227067,
+      "longitude": 27.855034
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.292841,
+      "longitude": 28.170563
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.339137,
+      "longitude": 28.1989
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.34019,
+      "longitude": 28.199368
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.344344,
+      "longitude": 25.77062
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.416056,
+      "longitude": 28.227796
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.416459,
+      "longitude": 25.433598
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.417504,
+      "longitude": 25.432292
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.419163,
+      "longitude": 28.183012
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.420182,
+      "longitude": 25.430581
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.422213,
+      "longitude": 28.154121
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.665954,
+      "longitude": 22.380918
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.686593,
+      "longitude": 23.038199
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.743706,
+      "longitude": 24.424867
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.796935,
+      "longitude": 21.957926
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.802964,
+      "longitude": 22.850812
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.824107,
+      "longitude": 22.281941
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.831687,
+      "longitude": 25.896049
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.869892,
+      "longitude": 25.517804
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.883596,
+      "longitude": 27.331163
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.901322,
+      "longitude": 25.977001
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 36.959337,
+      "longitude": 21.927724
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.060916,
+      "longitude": 25.356932
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.068381,
+      "longitude": 25.35684
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.072925,
+      "longitude": 22.430553
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.076631,
+      "longitude": 22.427748
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.104174,
+      "longitude": 25.375593
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.123862,
+      "longitude": 25.237456
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.167685,
+      "longitude": 22.857959
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.424511,
+      "longitude": 25.323218
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.430209,
+      "longitude": 25.332616
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.441524,
+      "longitude": 21.774323
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.446688,
+      "longitude": 25.392563
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.520557,
+      "longitude": 22.859176
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.540228,
+      "longitude": 22.893393
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.567155,
+      "longitude": 22.801655
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.616232,
+      "longitude": 26.295407
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.632153,
+      "longitude": 26.150783
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.634997,
+      "longitude": 22.729776
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.637057,
+      "longitude": 23.157037
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.640322,
+      "longitude": 24.341124
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.644576,
+      "longitude": 21.626519
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.669033,
+      "longitude": 21.438517
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.672517,
+      "longitude": 21.434698
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.673604,
+      "longitude": 21.437694
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.674448,
+      "longitude": 21.442454
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.690304,
+      "longitude": 26.939889
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.691267,
+      "longitude": 26.914585
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.778971,
+      "longitude": 26.891258
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.89788,
+      "longitude": 21.313264
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.906163,
+      "longitude": 23.735434
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.918592,
+      "longitude": 23.72754
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.929918,
+      "longitude": 23.68548
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.930563,
+      "longitude": 23.636331
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.933932,
+      "longitude": 23.641782
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.946317,
+      "longitude": 23.640718
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.946344,
+      "longitude": 23.649846
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.960136,
+      "longitude": 23.69738
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.960164,
+      "longitude": 23.698922
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.965075,
+      "longitude": 23.756006
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.975483,
+      "longitude": 23.668265
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.975652,
+      "longitude": 23.725379
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.976682,
+      "longitude": 23.7739
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.977275,
+      "longitude": 23.737661
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.985824,
+      "longitude": 23.764084
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.986264,
+      "longitude": 23.758268
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.990257,
+      "longitude": 23.753314
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.991254,
+      "longitude": 23.730095
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 37.999724,
+      "longitude": 23.72298
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.025791,
+      "longitude": 23.833742
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.026972,
+      "longitude": 23.858958
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.048617,
+      "longitude": 24.320186
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.058661,
+      "longitude": 23.858546
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.074474,
+      "longitude": 23.706053
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.074731,
+      "longitude": 23.739865
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.094454,
+      "longitude": 23.7518
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.096379,
+      "longitude": 23.750306
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.120092,
+      "longitude": 20.626039
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.128944,
+      "longitude": 23.758135
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.145204,
+      "longitude": 21.55174
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.229353,
+      "longitude": 22.104283
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.251176,
+      "longitude": 21.736546
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.319161,
+      "longitude": 26.152994
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.369292,
+      "longitude": 21.430351
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.376102,
+      "longitude": 21.430879
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.407321,
+      "longitude": 23.605767
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.408911,
+      "longitude": 21.276545
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.437148,
+      "longitude": 21.353515
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.47847,
+      "longitude": 22.494702
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.534144,
+      "longitude": 21.080824
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.570687,
+      "longitude": 21.666865
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.632567,
+      "longitude": 24.103624
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.830154,
+      "longitude": 20.707847
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 38.904721,
+      "longitude": 24.564752
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.099834,
+      "longitude": 26.555531
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.135149,
+      "longitude": 25.931063
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.144617,
+      "longitude": 23.865385
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.15786,
+      "longitude": 21.012906
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.163023,
+      "longitude": 23.489795
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.225799,
+      "longitude": 20.16203
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.226902,
+      "longitude": 23.219695
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.329555,
+      "longitude": 26.1777
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.36119,
+      "longitude": 22.93301
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.464838,
+      "longitude": 20.512873
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.488602,
+      "longitude": 20.25928
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.498014,
+      "longitude": 20.263877
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.499833,
+      "longitude": 20.264032
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.508913,
+      "longitude": 19.923692
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.621205,
+      "longitude": 19.919388
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.624653,
+      "longitude": 19.922097
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.635333,
+      "longitude": 22.414647
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.635461,
+      "longitude": 22.417662
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.635693,
+      "longitude": 22.413291
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.637858,
+      "longitude": 22.414635
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.652628,
+      "longitude": 19.84209
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.661507,
+      "longitude": 20.854741
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.667918,
+      "longitude": 20.855925
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.743544,
+      "longitude": 19.648886
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.788933,
+      "longitude": 19.920686
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.794615,
+      "longitude": 19.819702
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 39.988541,
+      "longitude": 23.613252
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.03329,
+      "longitude": 23.478018
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.239332,
+      "longitude": 23.282068
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.248257,
+      "longitude": 23.699412
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.267423,
+      "longitude": 22.523037
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.274465,
+      "longitude": 22.515
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.42745,
+      "longitude": 22.928374
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.473641,
+      "longitude": 23.091783
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.501841,
+      "longitude": 21.162248
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.600381,
+      "longitude": 22.986734
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.602117,
+      "longitude": 22.972587
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.622313,
+      "longitude": 22.969859
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.625711,
+      "longitude": 22.960212
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.628093,
+      "longitude": 22.950196
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.630622,
+      "longitude": 22.956595
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.635682,
+      "longitude": 23.246714
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.636884,
+      "longitude": 22.957611
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.640323,
+      "longitude": 23.024978
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.652653,
+      "longitude": 22.92868
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.653989,
+      "longitude": 22.944215
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.65449,
+      "longitude": 22.919169
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.661222,
+      "longitude": 22.947313
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.672823,
+      "longitude": 22.963907
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.675723,
+      "longitude": 22.962726
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.690733,
+      "longitude": 23.004368
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.767401,
+      "longitude": 22.155273
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.840268,
+      "longitude": 24.304725
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 40.856577,
+      "longitude": 25.957829
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 41.120353,
+      "longitude": 25.40237
+    },
+    {
+      "name": "Τράπεζα Πειραιώς",
+      "latitude": 41.276583,
+      "longitude": 23.294754
+    },
+    {
+      "name": "Τράπεζα Πειραιώς ATM",
+      "latitude": 37.8861,
+      "longitude": 24.004181
+    },
+    {
+      "name": "Τράπεζας Πειραιώς",
+      "latitude": 37.118747,
+      "longitude": 25.535206
+    },
+    {
+      "name": "ΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ",
+      "latitude": 36.991893,
+      "longitude": 22.706185
+    },
+    {
+      "name": "Τραπεζα πειραιως",
+      "latitude": 38.446672,
+      "longitude": 20.64648
+    },
+    {
+      "name": "Τραπεζα Πειραιώς",
+      "latitude": 37.948915,
+      "longitude": 23.629254
+    }
+  ],
+  "meta": {
+    "title": "ATM Ελλάδας - Δωρεάν λήψη",
+    "description": "Αυτόματες ταμειολογιστικές μηχανές (ATM) σε όλη την Ελλάδα από το OpenStreetMap (διακριτό από το el-trapezes). ATMs across Greece. Περιέχει 809 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "ATM Ελλάδας | ListBase",
+    "seo_description": "Λήψη ATM Ελλάδας — 809 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 809 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

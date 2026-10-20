@@ -1,0 +1,86 @@
+{
+  "id": "el-evroy-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Εβρου (5)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Εβρου (5)",
+  "description": "Οι 5 δήμοι της Περιφερειακής Ενότητας Εβρου (Περιφέρεια Αν. Μακεδονιας & Θρακης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9006",
+      "name": "Αλεξανδρουπολης",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9007",
+      "name": "Διδυμοτειχου",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9008",
+      "name": "Ορεστιαδος",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9009",
+      "name": "Σαμοθρακης",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    },
+    {
+      "id": "9010",
+      "name": "Σουφλιου",
+      "regional_unit_id": "0102",
+      "regional_unit": "Εβρου",
+      "region": "Αν. Μακεδονιας & Θρακης"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Εβρου (5) - Δωρεάν λήψη",
+    "description": "Οι 5 δήμοι της Περιφερειακής Ενότητας Εβρου (Περιφέρεια Αν. Μακεδονιας & Θρακης) σύμφωνα με τον Καλλικράτη. Περιέχει 5 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Εβρου (5) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Εβρου (5) — 5 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 5 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

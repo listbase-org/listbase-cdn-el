@@ -1,0 +1,842 @@
+{
+  "id": "el-athina-stasis-tram",
+  "name": "Στάσεις Τραμ Αθήνας",
+  "title": "Στάσεις Τραμ Αθήνας",
+  "description": "Οι στάσεις του Τραμ της Αθήνας με ελληνική και αγγλική ονομασία και συντεταγμένες WGS84. Ένα record ανά αποβάθρα/κατεύθυνση (113 σημεία / 60 μοναδικές στάσεις). Πηγές: OSM, ΣΤΑΣΥ, Ελληνικό Μετρό μέσω Athens GIS Repository (snapshot 2026-02-27). (Athens Tram stops — one record per platform/direction; 113 points, 60 unique stop names.)",
+  "category": "transport",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 113,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 8,
+      "name": "Ζάππειο",
+      "name_en": "Zappeion",
+      "latitude": 37.9693061,
+      "longitude": 23.7363994
+    },
+    {
+      "source_id": 13,
+      "name": "Ζάππειο",
+      "name_en": "Zappeion",
+      "latitude": 37.968665,
+      "longitude": 23.7379117
+    },
+    {
+      "source_id": 15,
+      "name": "Βουλιαγμένης",
+      "name_en": "Vouliagmenis",
+      "latitude": 37.9666755,
+      "longitude": 23.7317897
+    },
+    {
+      "source_id": 24,
+      "name": "Πλατεία Εσπερίδων",
+      "name_en": "Platia Esperidon",
+      "latitude": 37.8601549,
+      "longitude": 23.7541971
+    },
+    {
+      "source_id": 28,
+      "name": "Αγίας Φωτεινής",
+      "name_en": "Agias Fotinis",
+      "latitude": 37.9467197,
+      "longitude": 23.7151247
+    },
+    {
+      "source_id": 29,
+      "name": "Ευαγγελική Σχολή",
+      "name_en": "Evangeliki Scholi",
+      "latitude": 37.9332861,
+      "longitude": 23.7109285
+    },
+    {
+      "source_id": 31,
+      "name": "Νέος Κόσμος",
+      "name_en": "Neos Kosmos",
+      "latitude": 37.9579004,
+      "longitude": 23.7273818
+    },
+    {
+      "source_id": 45,
+      "name": "Νέος Κόσμος",
+      "name_en": "Neos Kosmos",
+      "latitude": 37.9569955,
+      "longitude": 23.7270853
+    },
+    {
+      "source_id": 64,
+      "name": "Αχιλλέως",
+      "name_en": "Achilleos",
+      "latitude": 37.9301057,
+      "longitude": 23.7098664
+    },
+    {
+      "source_id": 84,
+      "name": "Αγία Παρασκευή",
+      "name_en": "Aghia Paraskevi",
+      "latitude": 37.9401997,
+      "longitude": 23.7131022
+    },
+    {
+      "source_id": 102,
+      "name": "Μπακνανά",
+      "name_en": "Baknana",
+      "latitude": 37.9546303,
+      "longitude": 23.7239423
+    },
+    {
+      "source_id": 103,
+      "name": "Μπακνανά",
+      "name_en": "Baknana",
+      "latitude": 37.9546714,
+      "longitude": 23.7238777
+    },
+    {
+      "source_id": 109,
+      "name": "Αγίας Φωτεινής",
+      "name_en": "Agias Fotinis",
+      "latitude": 37.9467388,
+      "longitude": 23.7150445
+    },
+    {
+      "source_id": 125,
+      "name": "Κασομούλη",
+      "name_en": "Kasomouli",
+      "latitude": 37.9604329,
+      "longitude": 23.7235293
+    },
+    {
+      "source_id": 157,
+      "name": "Σύνταγμα",
+      "name_en": "Syntagma",
+      "latitude": 37.9744347,
+      "longitude": 23.7353381
+    },
+    {
+      "source_id": 169,
+      "name": "Άγγελου Μεταξά",
+      "name_en": "Agheiou Metaxa",
+      "latitude": 37.8627705,
+      "longitude": 23.751444
+    },
+    {
+      "source_id": 195,
+      "name": "1η Αγίου Κοσμά",
+      "name_en": "1st Aghiou Kosma",
+      "latitude": 37.8942956,
+      "longitude": 23.7211661
+    },
+    {
+      "source_id": 219,
+      "name": "Άγιος Αλέξανδρος",
+      "name_en": "Aghios Alexandros",
+      "latitude": 37.885049,
+      "longitude": 23.7269291
+    },
+    {
+      "source_id": 235,
+      "name": "Κολυμβητήριο",
+      "name_en": "Kolymvitirio",
+      "latitude": 37.8560655,
+      "longitude": 23.7543119
+    },
+    {
+      "source_id": 349,
+      "name": "Πλατεία Ιπποδαμείας",
+      "name_en": "Plateia Ippodameias",
+      "latitude": 37.9474688,
+      "longitude": 23.6475793
+    },
+    {
+      "source_id": 355,
+      "name": "34ου Συντάγματος Πεζικού",
+      "name_en": "34 Syntagmatos Pezikou",
+      "latitude": 37.9485363,
+      "longitude": 23.6522544
+    },
+    {
+      "source_id": 373,
+      "name": "Ευαγγελίστρια",
+      "name_en": "Evangelistria",
+      "latitude": 37.9446187,
+      "longitude": 23.6532456
+    },
+    {
+      "source_id": 405,
+      "name": "Μοσχάτο",
+      "name_en": "Moschato",
+      "latitude": 37.9442591,
+      "longitude": 23.6779634
+    },
+    {
+      "source_id": 512,
+      "name": "Σύνταγμα",
+      "name_en": "Syntagma",
+      "latitude": 37.9744246,
+      "longitude": 23.7354098
+    },
+    {
+      "source_id": 518,
+      "name": "Αιγαίου",
+      "name_en": "Aegeou",
+      "latitude": 37.9501045,
+      "longitude": 23.7189614
+    },
+    {
+      "source_id": 519,
+      "name": "Αιγαίου",
+      "name_en": "Aegeou",
+      "latitude": 37.9501464,
+      "longitude": 23.7189049
+    },
+    {
+      "source_id": 520,
+      "name": "Αχιλλέως",
+      "name_en": "Achilleos",
+      "latitude": 37.9300906,
+      "longitude": 23.7099534
+    },
+    {
+      "source_id": 521,
+      "name": "Ευαγγελική Σχολή",
+      "name_en": "Evangeliki Scholi",
+      "latitude": 37.9333042,
+      "longitude": 23.7108485
+    },
+    {
+      "source_id": 522,
+      "name": "Μηδείας - Μυκάλης",
+      "name_en": "Medeas - Mykalis",
+      "latitude": 37.9371506,
+      "longitude": 23.7120552
+    },
+    {
+      "source_id": 523,
+      "name": "Μεγάλου Αλεξάνδρου",
+      "name_en": "Alexander the Great",
+      "latitude": 37.9426876,
+      "longitude": 23.7138698
+    },
+    {
+      "source_id": 524,
+      "name": "Μεγάλου Αλεξάνδρου",
+      "name_en": "Alexander the Great",
+      "latitude": 37.9427014,
+      "longitude": 23.7137932
+    },
+    {
+      "source_id": 525,
+      "name": "Βουλιαγμένης",
+      "name_en": "Vouliagmenis",
+      "latitude": 37.9667197,
+      "longitude": 23.7317325
+    },
+    {
+      "source_id": 526,
+      "name": "Φίξ",
+      "name_en": "Fix",
+      "latitude": 37.9648164,
+      "longitude": 23.7276122
+    },
+    {
+      "source_id": 527,
+      "name": "Κασομούλη",
+      "name_en": "Kasomouli",
+      "latitude": 37.9604298,
+      "longitude": 23.7234816
+    },
+    {
+      "source_id": 530,
+      "name": "Πλατεία Βάσω Κατράκη",
+      "name_en": "Platia Vaso Katraki",
+      "latitude": 37.8634938,
+      "longitude": 23.7475038
+    },
+    {
+      "source_id": 531,
+      "name": "Πλατεία Βάσω Κατράκη",
+      "name_en": "Platia Vaso Katraki",
+      "latitude": 37.8634672,
+      "longitude": 23.747509
+    },
+    {
+      "source_id": 566,
+      "name": "Ακτή Ποσειδώνος",
+      "name_en": "Akti Poseidonos",
+      "latitude": 37.9449553,
+      "longitude": 23.642952
+    },
+    {
+      "source_id": 618,
+      "name": "Ασκληπιείο Βούλας",
+      "name_en": "Asklipiio Voulas",
+      "latitude": 37.8496644,
+      "longitude": 23.75259
+    },
+    {
+      "source_id": 619,
+      "name": "Ασκληπιείο Βούλας",
+      "name_en": "Asklipiio Voulas",
+      "latitude": 37.8496781,
+      "longitude": 23.7526673
+    },
+    {
+      "source_id": 675,
+      "name": "Ασκληπιείο Βούλας",
+      "name_en": "Asklipiio Voulas",
+      "latitude": 37.8496597,
+      "longitude": 23.7525512
+    },
+    {
+      "source_id": 676,
+      "name": "Κολυμβητήριο",
+      "name_en": "Kolymvitirio",
+      "latitude": 37.8560908,
+      "longitude": 23.7542381
+    },
+    {
+      "source_id": 677,
+      "name": "Άγγελου Μεταξά",
+      "name_en": "Agheiou Metaxa",
+      "latitude": 37.8627144,
+      "longitude": 23.7514044
+    },
+    {
+      "source_id": 678,
+      "name": "Παλαιό Δημαρχείο",
+      "name_en": "Paleo Demarhio",
+      "latitude": 37.8646797,
+      "longitude": 23.7432044
+    },
+    {
+      "source_id": 679,
+      "name": "Παραλία Γλυφάδας",
+      "name_en": "Paralia Glyfadas",
+      "latitude": 37.8677699,
+      "longitude": 23.7383984
+    },
+    {
+      "source_id": 680,
+      "name": "Πλατεία Βεργωτή",
+      "name_en": "Platia Vergoti",
+      "latitude": 37.8714878,
+      "longitude": 23.7352243
+    },
+    {
+      "source_id": 681,
+      "name": "Κέντρο Ιστιοπλοΐας",
+      "name_en": "Kentro Istioploias",
+      "latitude": 37.8758956,
+      "longitude": 23.7319015
+    },
+    {
+      "source_id": 682,
+      "name": "Ελλήνων Ολυμπιονικών",
+      "name_en": "Ellinon Olymbionikon",
+      "latitude": 37.8811682,
+      "longitude": 23.7294839
+    },
+    {
+      "source_id": 683,
+      "name": "Άγιος Αλέξανδρος",
+      "name_en": "Aghios Alexandros",
+      "latitude": 37.8850599,
+      "longitude": 23.7269688
+    },
+    {
+      "source_id": 684,
+      "name": "2η Αγίου Κοσμά",
+      "name_en": "2nd Aghiou Kosma",
+      "latitude": 37.8907954,
+      "longitude": 23.7232371
+    },
+    {
+      "source_id": 685,
+      "name": "1η Αγίου Κοσμά",
+      "name_en": "1st Aghiou Kosma",
+      "latitude": 37.8943001,
+      "longitude": 23.7212086
+    },
+    {
+      "source_id": 686,
+      "name": "Ελληνικό",
+      "name_en": "Elliniko",
+      "latitude": 37.897593,
+      "longitude": 23.7202185
+    },
+    {
+      "source_id": 687,
+      "name": "Λουτρά Αλίμου",
+      "name_en": "Loutra Alimou",
+      "latitude": 37.9022284,
+      "longitude": 23.7195316
+    },
+    {
+      "source_id": 688,
+      "name": "Ζέφυρος",
+      "name_en": "Zefyros",
+      "latitude": 37.9063769,
+      "longitude": 23.7170206
+    },
+    {
+      "source_id": 689,
+      "name": "Μαρίνα Αλίμου",
+      "name_en": "Marina Alimou",
+      "latitude": 37.9130019,
+      "longitude": 23.7087588
+    },
+    {
+      "source_id": 690,
+      "name": "Πικροδάφνη",
+      "name_en": "Pikrodafni",
+      "latitude": 37.9159342,
+      "longitude": 23.7054737
+    },
+    {
+      "source_id": 691,
+      "name": "Έδεμ",
+      "name_en": "Edem",
+      "latitude": 37.9187302,
+      "longitude": 23.7006817
+    },
+    {
+      "source_id": 692,
+      "name": "Μπάτης",
+      "name_en": "Batis",
+      "latitude": 37.9215266,
+      "longitude": 23.6964201
+    },
+    {
+      "source_id": 693,
+      "name": "Φλοίσβος",
+      "name_en": "Flisvos",
+      "latitude": 37.9235633,
+      "longitude": 23.6927091
+    },
+    {
+      "source_id": 694,
+      "name": "Πάρκο Φλοίσβου",
+      "name_en": "Parko Flisvou",
+      "latitude": 37.9278472,
+      "longitude": 23.6884354
+    },
+    {
+      "source_id": 695,
+      "name": "Τροκαντερό",
+      "name_en": "Trocadero",
+      "latitude": 37.9313941,
+      "longitude": 23.6872264
+    },
+    {
+      "source_id": 696,
+      "name": "Τζιτζιφιές",
+      "name_en": "Tzitzifies",
+      "latitude": 37.9407062,
+      "longitude": 23.6880185
+    },
+    {
+      "source_id": 697,
+      "name": "Καλλιθέα",
+      "name_en": "Kallithea",
+      "latitude": 37.9427133,
+      "longitude": 23.6840167
+    },
+    {
+      "source_id": 698,
+      "name": "Μοσχάτο",
+      "name_en": "Moschato",
+      "latitude": 37.9442948,
+      "longitude": 23.6779672
+    },
+    {
+      "source_id": 699,
+      "name": "Νέο Φάληρο",
+      "name_en": "Neo Faliro",
+      "latitude": 37.9446084,
+      "longitude": 23.6685509
+    },
+    {
+      "source_id": 700,
+      "name": "Στάδιο Ειρήνης και Φιλίας",
+      "name_en": "Peace and Friendship Stadium",
+      "latitude": 37.9438634,
+      "longitude": 23.663807
+    },
+    {
+      "source_id": 719,
+      "name": "Αγία Σκέπη",
+      "name_en": "Aghia Skepi",
+      "latitude": 37.9340166,
+      "longitude": 23.6939305
+    },
+    {
+      "source_id": 724,
+      "name": "Δέλτα Φαλήρου",
+      "name_en": "Delta Falirou",
+      "latitude": 37.9374095,
+      "longitude": 23.6922895
+    },
+    {
+      "source_id": 729,
+      "name": "Γήπεδο Καραϊσκάκη",
+      "name_en": "Gipedo Karaiskaki",
+      "latitude": 37.9444227,
+      "longitude": 23.6648381
+    },
+    {
+      "source_id": 731,
+      "name": "Μικράς Ασίας",
+      "name_en": "Mikras Asias",
+      "latitude": 37.9459167,
+      "longitude": 23.6600426
+    },
+    {
+      "source_id": 732,
+      "name": "Λαμπράκη",
+      "name_en": "Lambraki",
+      "latitude": 37.9479423,
+      "longitude": 23.6560599
+    },
+    {
+      "source_id": 736,
+      "name": "Δημαρχείο",
+      "name_en": "Dimarcheio",
+      "latitude": 37.9426367,
+      "longitude": 23.6475015
+    },
+    {
+      "source_id": 737,
+      "name": "Αγία Τριάδα",
+      "name_en": "Agia Triada",
+      "latitude": 37.9449403,
+      "longitude": 23.6451956
+    },
+    {
+      "source_id": 738,
+      "name": "Ανδρούτσου",
+      "name_en": "Androutsou",
+      "latitude": 37.9478346,
+      "longitude": 23.6560463
+    },
+    {
+      "source_id": 739,
+      "name": "Ομηρίδου Σκυλίτση",
+      "name_en": "Omiridou Skylitsi",
+      "latitude": 37.9450359,
+      "longitude": 23.6609189
+    },
+    {
+      "source_id": 751,
+      "name": "Φίξ",
+      "name_en": "Fix",
+      "latitude": 37.9647897,
+      "longitude": 23.7276386
+    },
+    {
+      "source_id": 752,
+      "name": "Πικροδάφνη",
+      "name_en": "Pikrodafni",
+      "latitude": 37.9159801,
+      "longitude": 23.7055338
+    },
+    {
+      "source_id": 753,
+      "name": "Πικροδάφνη",
+      "name_en": "Pikrodafni",
+      "latitude": 37.915892,
+      "longitude": 23.7054124
+    },
+    {
+      "source_id": 754,
+      "name": "Έδεμ",
+      "name_en": "Edem",
+      "latitude": 37.9187406,
+      "longitude": 23.7007245
+    },
+    {
+      "source_id": 755,
+      "name": "Μπάτης",
+      "name_en": "Batis",
+      "latitude": 37.9215586,
+      "longitude": 23.6964427
+    },
+    {
+      "source_id": 756,
+      "name": "Φλοίσβος",
+      "name_en": "Flisvos",
+      "latitude": 37.9235855,
+      "longitude": 23.692748
+    },
+    {
+      "source_id": 757,
+      "name": "Πάρκο Φλοίσβου",
+      "name_en": "Parko Flisvou",
+      "latitude": 37.9278719,
+      "longitude": 23.6884569
+    },
+    {
+      "source_id": 758,
+      "name": "Τροκαντερό",
+      "name_en": "Trocadero",
+      "latitude": 37.9313816,
+      "longitude": 23.6872731
+    },
+    {
+      "source_id": 759,
+      "name": "Αγία Σκέπη",
+      "name_en": "Aghia Skepi",
+      "latitude": 37.9339982,
+      "longitude": 23.6939623
+    },
+    {
+      "source_id": 760,
+      "name": "Δέλτα Φαλήρου",
+      "name_en": "Delta Falirou",
+      "latitude": 37.9374697,
+      "longitude": 23.6923141
+    },
+    {
+      "source_id": 761,
+      "name": "Τζιτζιφιές",
+      "name_en": "Tzitzifies",
+      "latitude": 37.9407543,
+      "longitude": 23.6880597
+    },
+    {
+      "source_id": 762,
+      "name": "Καλλιθέα",
+      "name_en": "Kallithea",
+      "latitude": 37.9427462,
+      "longitude": 23.684035
+    },
+    {
+      "source_id": 764,
+      "name": "Νέο Φάληρο",
+      "name_en": "Neo Faliro",
+      "latitude": 37.9445726,
+      "longitude": 23.6685528
+    },
+    {
+      "source_id": 765,
+      "name": "Στάδιο Ειρήνης και Φιλίας",
+      "name_en": "Peace and Friendship Stadium",
+      "latitude": 37.9437488,
+      "longitude": 23.6637946
+    },
+    {
+      "source_id": 766,
+      "name": "Στάδιο Ειρήνης και Φιλίας",
+      "name_en": "Peace and Friendship Stadium",
+      "latitude": 37.9438207,
+      "longitude": 23.6638025
+    },
+    {
+      "source_id": 767,
+      "name": "Στάδιο Ειρήνης και Φιλίας",
+      "name_en": "Peace and Friendship Stadium",
+      "latitude": 37.9439231,
+      "longitude": 23.6638158
+    },
+    {
+      "source_id": 769,
+      "name": "Ασκληπιείο Βούλας",
+      "name_en": "Asklipiio Voulas",
+      "latitude": 37.8496458,
+      "longitude": 23.7524734
+    },
+    {
+      "source_id": 770,
+      "name": "Αγία Παρασκευή",
+      "name_en": "Aghia Paraskevi",
+      "latitude": 37.9402146,
+      "longitude": 23.713026
+    },
+    {
+      "source_id": 771,
+      "name": "Μηδείας - Μυκάλης",
+      "name_en": "Medeas - Mykalis",
+      "latitude": 37.9371344,
+      "longitude": 23.7121311
+    },
+    {
+      "source_id": 772,
+      "name": "Μουσών",
+      "name_en": "Mousson",
+      "latitude": 37.9220022,
+      "longitude": 23.6997361
+    },
+    {
+      "source_id": 773,
+      "name": "Μουσών",
+      "name_en": "Mousson",
+      "latitude": 37.9219725,
+      "longitude": 23.6998145
+    },
+    {
+      "source_id": 774,
+      "name": "Παναγίτσα",
+      "name_en": "Panaghitsa",
+      "latitude": 37.9252678,
+      "longitude": 23.7018664
+    },
+    {
+      "source_id": 775,
+      "name": "Παναγίτσα",
+      "name_en": "Panaghitsa",
+      "latitude": 37.9252402,
+      "longitude": 23.7019427
+    },
+    {
+      "source_id": 776,
+      "name": "Αμφιθέας",
+      "name_en": "Amfitheas",
+      "latitude": 37.9283313,
+      "longitude": 23.706026
+    },
+    {
+      "source_id": 777,
+      "name": "Αμφιθέας",
+      "name_en": "Amfitheas",
+      "latitude": 37.92814,
+      "longitude": 23.7050355
+    },
+    {
+      "source_id": 778,
+      "name": "Πλατεία Εσπερίδων",
+      "name_en": "Platia Esperidon",
+      "latitude": 37.8601811,
+      "longitude": 23.7542756
+    },
+    {
+      "source_id": 779,
+      "name": "Παλαιό Δημαρχείο",
+      "name_en": "Paleo Demarhio",
+      "latitude": 37.8646553,
+      "longitude": 23.7431856
+    },
+    {
+      "source_id": 780,
+      "name": "Παραλία Γλυφάδας",
+      "name_en": "Paralia Glyfadas",
+      "latitude": 37.8677342,
+      "longitude": 23.7383803
+    },
+    {
+      "source_id": 781,
+      "name": "Πλατεία Βεργωτή",
+      "name_en": "Platia Vergoti",
+      "latitude": 37.8714672,
+      "longitude": 23.7351894
+    },
+    {
+      "source_id": 782,
+      "name": "Κέντρο Ιστιοπλοΐας",
+      "name_en": "Kentro Istioploias",
+      "latitude": 37.8758816,
+      "longitude": 23.7318572
+    },
+    {
+      "source_id": 783,
+      "name": "Ελλήνων Ολυμπιονικών",
+      "name_en": "Ellinon Olymbionikon",
+      "latitude": 37.8811588,
+      "longitude": 23.7294629
+    },
+    {
+      "source_id": 784,
+      "name": "2η Αγίου Κοσμά",
+      "name_en": "2nd Aghiou Kosma",
+      "latitude": 37.8907821,
+      "longitude": 23.7231968
+    },
+    {
+      "source_id": 785,
+      "name": "Ελληνικό",
+      "name_en": "Elliniko",
+      "latitude": 37.8975873,
+      "longitude": 23.7201746
+    },
+    {
+      "source_id": 786,
+      "name": "Λουτρά Αλίμου",
+      "name_en": "Loutra Alimou",
+      "latitude": 37.9022276,
+      "longitude": 23.7195751
+    },
+    {
+      "source_id": 787,
+      "name": "Ζέφυρος",
+      "name_en": "Zefyros",
+      "latitude": 37.9063911,
+      "longitude": 23.7170574
+    },
+    {
+      "source_id": 788,
+      "name": "Καλαμάκι",
+      "name_en": "Kalamaki",
+      "latitude": 37.9096776,
+      "longitude": 23.7128631
+    },
+    {
+      "source_id": 789,
+      "name": "Καλαμάκι",
+      "name_en": "Kalamaki",
+      "latitude": 37.9097065,
+      "longitude": 23.7128837
+    },
+    {
+      "source_id": 790,
+      "name": "Μαρίνα Αλίμου",
+      "name_en": "Marina Alimou",
+      "latitude": 37.9129907,
+      "longitude": 23.7087188
+    },
+    {
+      "source_id": 805,
+      "name": "Πλατεία Δεληγιάννη",
+      "name_en": "Plateia Deligianni",
+      "latitude": 37.9413445,
+      "longitude": 23.6503944
+    }
+  ],
+  "meta": {
+    "title": "Στάσεις Τραμ Αθήνας - Δωρεάν λήψη",
+    "description": "Οι στάσεις του Τραμ της Αθήνας με ελληνική και αγγλική ονομασία και συντεταγμένες WGS84. Ένα record ανά αποβάθρα/κατεύθυνση (113 σημεία / 60 μοναδικές στάσεις). Πηγές: OSM, ΣΤΑΣΥ, Ελληνικό Μετρό μέσω Athens GIS Repository (snapshot 2026-02-27). (Athens Tram stops — one record per platform/direction; 113 points, 60 unique stop names.) Περιέχει 113 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Στάσεις Τραμ Αθήνας | ListBase",
+    "seo_description": "Λήψη Στάσεις Τραμ Αθήνας — 113 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 113 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

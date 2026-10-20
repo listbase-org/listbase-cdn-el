@@ -1,0 +1,3161 @@
+{
+  "id": "el-tachydromeia",
+  "name": "Ταχυδρομεία Ελλάδας",
+  "title": "Ταχυδρομεία Ελλάδας",
+  "description": "Ταχυδρομικά γραφεία σε όλη την Ελλάδα από το OpenStreetMap (διακριτό από τους ταχυδρομικούς κώδικες el-tachydromikoi-kodikes). Post offices across Greece.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 624,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "'Δέλτα' Τηλεόραση",
+      "latitude": 40.860956,
+      "longitude": 25.963442
+    },
+    {
+      "name": "ACS",
+      "latitude": 35.205917,
+      "longitude": 26.101939
+    },
+    {
+      "name": "ACS",
+      "latitude": 35.230742,
+      "longitude": 23.681938
+    },
+    {
+      "name": "ACS",
+      "latitude": 35.330458,
+      "longitude": 25.13317
+    },
+    {
+      "name": "ACS",
+      "latitude": 36.440167,
+      "longitude": 28.237403
+    },
+    {
+      "name": "ACS",
+      "latitude": 37.401553,
+      "longitude": 22.133603
+    },
+    {
+      "name": "ACS",
+      "latitude": 37.901822,
+      "longitude": 23.755554
+    },
+    {
+      "name": "ACS",
+      "latitude": 37.924126,
+      "longitude": 23.705344
+    },
+    {
+      "name": "Acs",
+      "latitude": 37.934231,
+      "longitude": 23.710906
+    },
+    {
+      "name": "ACS",
+      "latitude": 37.939329,
+      "longitude": 23.646109
+    },
+    {
+      "name": "ACS",
+      "latitude": 37.952811,
+      "longitude": 23.680975
+    },
+    {
+      "name": "ACS",
+      "latitude": 37.973271,
+      "longitude": 23.747973
+    },
+    {
+      "name": "ACS",
+      "latitude": 37.993839,
+      "longitude": 23.674939
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.003043,
+      "longitude": 23.702588
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.017017,
+      "longitude": 23.692023
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.029209,
+      "longitude": 23.714953
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.032213,
+      "longitude": 23.74389
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.03738,
+      "longitude": 23.803205
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.092453,
+      "longitude": 23.792339
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.200737,
+      "longitude": 20.437442
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.246051,
+      "longitude": 21.73158
+    },
+    {
+      "name": "ACS",
+      "latitude": 38.325332,
+      "longitude": 23.762478
+    },
+    {
+      "name": "ACS",
+      "latitude": 39.148018,
+      "longitude": 23.865811
+    },
+    {
+      "name": "ACS",
+      "latitude": 39.36053,
+      "longitude": 22.944135
+    },
+    {
+      "name": "ACS",
+      "latitude": 39.738543,
+      "longitude": 22.287687
+    },
+    {
+      "name": "ACS",
+      "latitude": 40.622643,
+      "longitude": 22.440677
+    },
+    {
+      "name": "ACS",
+      "latitude": 40.63779,
+      "longitude": 22.949373
+    },
+    {
+      "name": "ACS",
+      "latitude": 40.65021,
+      "longitude": 22.917033
+    },
+    {
+      "name": "ACS",
+      "latitude": 40.782413,
+      "longitude": 21.408859
+    },
+    {
+      "name": "ACS",
+      "latitude": 41.144085,
+      "longitude": 24.150169
+    },
+    {
+      "name": "ACS -  ΑΜΠΕΛΟΚΗΠΟΙ",
+      "latitude": 37.995689,
+      "longitude": 23.738332
+    },
+    {
+      "name": "ACS - KIOSK ΑΘΗΝΑ",
+      "latitude": 37.996808,
+      "longitude": 23.740664
+    },
+    {
+      "name": "ACS - KIOSK ΒΥΡΩΝΑΣ",
+      "latitude": 37.958827,
+      "longitude": 23.762241
+    },
+    {
+      "name": "ACS - KIOSK ΚΟΛΩΝΑΚΙΟΥ",
+      "latitude": 37.976771,
+      "longitude": 23.741289
+    },
+    {
+      "name": "ACS - ΙΠΠΟΚΡΑΤΟΥΣ",
+      "latitude": 37.982846,
+      "longitude": 23.735503
+    },
+    {
+      "name": "ACS - ΚΑΝΙΓΓΟΣ",
+      "latitude": 37.984981,
+      "longitude": 23.730621
+    },
+    {
+      "name": "ACS - ΛΥΚΑΒΗΤΤΟΣ",
+      "latitude": 37.979723,
+      "longitude": 23.7461
+    },
+    {
+      "name": "ACS - ΣΥΝΤΑΓΜΑ",
+      "latitude": 37.975865,
+      "longitude": 23.728832
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 35.368314,
+      "longitude": 24.70589
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 36.686696,
+      "longitude": 23.039195
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 36.80533,
+      "longitude": 22.851787
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 36.852209,
+      "longitude": 22.66919
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 37.132632,
+      "longitude": 26.854191
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 37.628444,
+      "longitude": 22.720931
+    },
+    {
+      "name": "ACS courier",
+      "latitude": 37.795457,
+      "longitude": 26.704719
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 37.95963,
+      "longitude": 23.614807
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 37.980672,
+      "longitude": 23.650641
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 37.989017,
+      "longitude": 23.725781
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 38.009952,
+      "longitude": 23.808057
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 38.469869,
+      "longitude": 23.616578
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 38.898639,
+      "longitude": 22.438478
+    },
+    {
+      "name": "ACS COURIER",
+      "latitude": 39.098209,
+      "longitude": 26.555243
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 40.275845,
+      "longitude": 22.514138
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 40.615615,
+      "longitude": 22.969653
+    },
+    {
+      "name": "ACS courier",
+      "latitude": 40.649858,
+      "longitude": 22.917007
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 40.706849,
+      "longitude": 22.932536
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 40.789695,
+      "longitude": 21.414038
+    },
+    {
+      "name": "ACS Courier",
+      "latitude": 41.147666,
+      "longitude": 24.15294
+    },
+    {
+      "name": "ACS Courier Ζωργάφου",
+      "latitude": 37.972748,
+      "longitude": 23.781266
+    },
+    {
+      "name": "ACS courrier",
+      "latitude": 39.510456,
+      "longitude": 20.259566
+    },
+    {
+      "name": "ACS Βούτες Ηρακλείου",
+      "latitude": 35.314194,
+      "longitude": 25.091966
+    },
+    {
+      "name": "Afandou post office",
+      "latitude": 36.295771,
+      "longitude": 28.161736
+    },
+    {
+      "name": "Ancient Corinth Post Office",
+      "latitude": 37.907296,
+      "longitude": 22.881011
+    },
+    {
+      "name": "Blue Bell",
+      "latitude": 38.007866,
+      "longitude": 23.774232
+    },
+    {
+      "name": "Carry 4U",
+      "latitude": 37.892279,
+      "longitude": 23.749363
+    },
+    {
+      "name": "Chikoria DKL",
+      "latitude": 37.983983,
+      "longitude": 23.724587
+    },
+    {
+      "name": "Courier",
+      "latitude": 37.996097,
+      "longitude": 23.847942
+    },
+    {
+      "name": "Courier center",
+      "latitude": 38.059768,
+      "longitude": 23.797364
+    },
+    {
+      "name": "Courier Center",
+      "latitude": 40.276922,
+      "longitude": 22.514567
+    },
+    {
+      "name": "Courier Center",
+      "latitude": 40.61273,
+      "longitude": 22.965008
+    },
+    {
+      "name": "COURIER CENTER ΠΑΤΡΑΣ",
+      "latitude": 38.239772,
+      "longitude": 21.728426
+    },
+    {
+      "name": "Courier Center Τούμπα",
+      "latitude": 40.616386,
+      "longitude": 22.969202
+    },
+    {
+      "name": "DHL",
+      "latitude": 35.507053,
+      "longitude": 24.034177
+    },
+    {
+      "name": "DHL",
+      "latitude": 37.573677,
+      "longitude": 22.803471
+    },
+    {
+      "name": "DHL",
+      "latitude": 37.907465,
+      "longitude": 23.729169
+    },
+    {
+      "name": "DHL",
+      "latitude": 37.935946,
+      "longitude": 23.636606
+    },
+    {
+      "name": "DHL",
+      "latitude": 37.943553,
+      "longitude": 23.714384
+    },
+    {
+      "name": "DHL",
+      "latitude": 37.94674,
+      "longitude": 23.688174
+    },
+    {
+      "name": "DHL",
+      "latitude": 37.972126,
+      "longitude": 23.73326
+    },
+    {
+      "name": "DHL",
+      "latitude": 37.995768,
+      "longitude": 23.732073
+    },
+    {
+      "name": "DHL",
+      "latitude": 38.011673,
+      "longitude": 23.812136
+    },
+    {
+      "name": "DHL",
+      "latitude": 39.655839,
+      "longitude": 20.850082
+    },
+    {
+      "name": "DHL",
+      "latitude": 40.269019,
+      "longitude": 22.516169
+    },
+    {
+      "name": "DHL",
+      "latitude": 40.302274,
+      "longitude": 21.797692
+    },
+    {
+      "name": "DHL",
+      "latitude": 40.6287,
+      "longitude": 22.953084
+    },
+    {
+      "name": "DHL",
+      "latitude": 40.629153,
+      "longitude": 22.95136
+    },
+    {
+      "name": "DHL",
+      "latitude": 40.845313,
+      "longitude": 25.878477
+    },
+    {
+      "name": "DHL Χαλκίδα",
+      "latitude": 38.459775,
+      "longitude": 23.598383
+    },
+    {
+      "name": "Dolphin",
+      "latitude": 37.935552,
+      "longitude": 23.634238
+    },
+    {
+      "name": "Dpd",
+      "latitude": 40.63814,
+      "longitude": 22.941602
+    },
+    {
+      "name": "Ease Point",
+      "latitude": 40.635666,
+      "longitude": 22.950817
+    },
+    {
+      "name": "Easy Mail",
+      "latitude": 37.632682,
+      "longitude": 22.733815
+    },
+    {
+      "name": "Eata",
+      "latitude": 37.386469,
+      "longitude": 23.247253
+    },
+    {
+      "name": "eftase",
+      "latitude": 37.633522,
+      "longitude": 22.730444
+    },
+    {
+      "name": "ELTA",
+      "latitude": 38.249836,
+      "longitude": 21.738895
+    },
+    {
+      "name": "ELTA",
+      "latitude": 39.179329,
+      "longitude": 22.759873
+    },
+    {
+      "name": "ELTA",
+      "latitude": 39.285676,
+      "longitude": 20.401013
+    },
+    {
+      "name": "ELTA",
+      "latitude": 39.466734,
+      "longitude": 19.912699
+    },
+    {
+      "name": "ELTA - Hellenic Post",
+      "latitude": 36.782209,
+      "longitude": 27.143834
+    },
+    {
+      "name": "ELTA Courier",
+      "latitude": 37.085968,
+      "longitude": 25.152585
+    },
+    {
+      "name": "ELTA Courier",
+      "latitude": 37.9354,
+      "longitude": 22.928549
+    },
+    {
+      "name": "Elta Courier",
+      "latitude": 39.097524,
+      "longitude": 26.550494
+    },
+    {
+      "name": "ELTA Courier",
+      "latitude": 39.652376,
+      "longitude": 20.847646
+    },
+    {
+      "name": "Elta Courrier",
+      "latitude": 35.186517,
+      "longitude": 25.710084
+    },
+    {
+      "name": "ELTA Courrier",
+      "latitude": 38.084946,
+      "longitude": 23.730144
+    },
+    {
+      "name": "ELTA-Postoffice",
+      "latitude": 35.188763,
+      "longitude": 24.397846
+    },
+    {
+      "name": "EMS",
+      "latitude": 37.95894,
+      "longitude": 23.734569
+    },
+    {
+      "name": "express intercity",
+      "latitude": 40.616301,
+      "longitude": 22.968637
+    },
+    {
+      "name": "Fairsky shipping",
+      "latitude": 37.994255,
+      "longitude": 23.692997
+    },
+    {
+      "name": "Family courier services",
+      "latitude": 37.938452,
+      "longitude": 23.641475
+    },
+    {
+      "name": "FedEx",
+      "latitude": 38.461616,
+      "longitude": 23.593135
+    },
+    {
+      "name": "FedEx",
+      "latitude": 39.100019,
+      "longitude": 26.553983
+    },
+    {
+      "name": "FedEx Express",
+      "latitude": 39.367387,
+      "longitude": 21.923982
+    },
+    {
+      "name": "Goldwind",
+      "latitude": 37.938029,
+      "longitude": 23.698829
+    },
+    {
+      "name": "Hellenic post",
+      "latitude": 35.316545,
+      "longitude": 25.390709
+    },
+    {
+      "name": "Hellenic Post",
+      "latitude": 36.544828,
+      "longitude": 26.350796
+    },
+    {
+      "name": "Hellenic Post",
+      "latitude": 36.887764,
+      "longitude": 22.232493
+    },
+    {
+      "name": "Hellenic Post",
+      "latitude": 37.636993,
+      "longitude": 23.15477
+    },
+    {
+      "name": "Hellenic Post",
+      "latitude": 37.835002,
+      "longitude": 24.931783
+    },
+    {
+      "name": "Hellenic Post",
+      "latitude": 37.914381,
+      "longitude": 23.716101
+    },
+    {
+      "name": "Hellenic Post",
+      "latitude": 38.089841,
+      "longitude": 23.817723
+    },
+    {
+      "name": "Hellenic Post",
+      "latitude": 39.11889,
+      "longitude": 23.729122
+    },
+    {
+      "name": "Hellenic Post - ELTA",
+      "latitude": 41.419195,
+      "longitude": 26.22572
+    },
+    {
+      "name": "Hellenic Post Office",
+      "latitude": 35.517251,
+      "longitude": 23.914303
+    },
+    {
+      "name": "House of Wheels",
+      "latitude": 37.877803,
+      "longitude": 23.755734
+    },
+    {
+      "name": "Mail Boxes Etc.",
+      "latitude": 41.183748,
+      "longitude": 23.28362
+    },
+    {
+      "name": "Mini Market",
+      "latitude": 38.293922,
+      "longitude": 22.0215
+    },
+    {
+      "name": "Nea Styra Post Office",
+      "latitude": 38.178689,
+      "longitude": 24.208127
+    },
+    {
+      "name": "Oia post office",
+      "latitude": 36.461841,
+      "longitude": 25.374196
+    },
+    {
+      "name": "Post",
+      "latitude": 36.808468,
+      "longitude": 21.916002
+    },
+    {
+      "name": "Post",
+      "latitude": 37.779507,
+      "longitude": 26.891887
+    },
+    {
+      "name": "Post boxes",
+      "latitude": 36.403295,
+      "longitude": 28.201138
+    },
+    {
+      "name": "Post Office",
+      "latitude": 36.462046,
+      "longitude": 25.373825
+    },
+    {
+      "name": "Post Office Lixouri",
+      "latitude": 38.201463,
+      "longitude": 20.438818
+    },
+    {
+      "name": "Red Courier",
+      "latitude": 37.947443,
+      "longitude": 23.68915
+    },
+    {
+      "name": "Speedex",
+      "latitude": 37.674637,
+      "longitude": 21.435135
+    },
+    {
+      "name": "Speedex",
+      "latitude": 37.93832,
+      "longitude": 23.640053
+    },
+    {
+      "name": "Speedex",
+      "latitude": 37.988232,
+      "longitude": 23.766749
+    },
+    {
+      "name": "Speedex",
+      "latitude": 38.020711,
+      "longitude": 23.737748
+    },
+    {
+      "name": "Speedex",
+      "latitude": 38.654742,
+      "longitude": 22.996559
+    },
+    {
+      "name": "Speedex",
+      "latitude": 39.090517,
+      "longitude": 26.555048
+    },
+    {
+      "name": "Speedex",
+      "latitude": 39.503958,
+      "longitude": 20.264007
+    },
+    {
+      "name": "Speedex",
+      "latitude": 40.27433,
+      "longitude": 22.512296
+    },
+    {
+      "name": "Speedex",
+      "latitude": 40.617653,
+      "longitude": 22.969371
+    },
+    {
+      "name": "Speedex",
+      "latitude": 40.62359,
+      "longitude": 22.440112
+    },
+    {
+      "name": "SPEEDEX",
+      "latitude": 41.081934,
+      "longitude": 23.542047
+    },
+    {
+      "name": "Speedex",
+      "latitude": 41.147774,
+      "longitude": 24.148312
+    },
+    {
+      "name": "SPEEDEX - ΑΓ. ΠΑΡΑΣΚΕΥΗ",
+      "latitude": 38.010949,
+      "longitude": 23.842617
+    },
+    {
+      "name": "SPEEDEX - ΑΓΙΟΣ ΔΗΜΗΤΡΙΟΣ",
+      "latitude": 37.932603,
+      "longitude": 23.743703
+    },
+    {
+      "name": "SPEEDEX - ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ",
+      "latitude": 35.187885,
+      "longitude": 25.713601
+    },
+    {
+      "name": "SPEEDEX - ΑΓΡΙΑ ΒΟΛΟΥ",
+      "latitude": 39.339295,
+      "longitude": 23.014141
+    },
+    {
+      "name": "SPEEDEX - ΑΓΡΙΝΙΟ",
+      "latitude": 38.622583,
+      "longitude": 21.408991
+    },
+    {
+      "name": "SPEEDEX - ΑΙΓΙΝΑ",
+      "latitude": 37.746169,
+      "longitude": 23.430693
+    },
+    {
+      "name": "SPEEDEX - ΑΛΙΒΕΡΙ",
+      "latitude": 38.406906,
+      "longitude": 24.042547
+    },
+    {
+      "name": "SPEEDEX - ΑΛΜΥΡΟΣ",
+      "latitude": 39.179834,
+      "longitude": 22.759101
+    },
+    {
+      "name": "SPEEDEX - ΑΜΦΙΣΣΑ",
+      "latitude": 38.52801,
+      "longitude": 22.376542
+    },
+    {
+      "name": "SPEEDEX - ΑΝΑΒΥΣΣΟΣ",
+      "latitude": 37.735934,
+      "longitude": 23.948701
+    },
+    {
+      "name": "SPEEDEX - ΑΡΓΟΣ",
+      "latitude": 37.633479,
+      "longitude": 22.730538
+    },
+    {
+      "name": "SPEEDEX - ΑΡΙΔΑΙΑ",
+      "latitude": 40.972775,
+      "longitude": 22.059593
+    },
+    {
+      "name": "SPEEDEX - ΑΡΤΑ",
+      "latitude": 39.156122,
+      "longitude": 20.979295
+    },
+    {
+      "name": "Speedex - Βέροια",
+      "latitude": 40.532524,
+      "longitude": 22.204717
+    },
+    {
+      "name": "SPEEDEX - ΒΟΛΟΣ",
+      "latitude": 39.36377,
+      "longitude": 22.949238
+    },
+    {
+      "name": "SPEEDEX - ΒΟΝΙΤΣΑ",
+      "latitude": 38.916771,
+      "longitude": 20.889103
+    },
+    {
+      "name": "SPEEDEX - ΒΟΤΑΝΙΚΟΣ",
+      "latitude": 37.980061,
+      "longitude": 23.707494
+    },
+    {
+      "name": "SPEEDEX - ΒΟΥΛΑ",
+      "latitude": 37.847303,
+      "longitude": 23.754849
+    },
+    {
+      "name": "SPEEDEX - ΒΥΡΩΝΑΣ",
+      "latitude": 37.955088,
+      "longitude": 23.76734
+    },
+    {
+      "name": "SPEEDEX - ΓΛΥΦΑΔΑ",
+      "latitude": 37.894645,
+      "longitude": 23.762165
+    },
+    {
+      "name": "SPEEDEX - ΓΡΕΒΕΝΑ",
+      "latitude": 40.084578,
+      "longitude": 21.429957
+    },
+    {
+      "name": "SPEEDEX - ΔΙΔΥΜΟΤΕΙΧΟ",
+      "latitude": 41.349677,
+      "longitude": 26.49417
+    },
+    {
+      "name": "SPEEDEX - ΕΔΕΣΣΑ",
+      "latitude": 40.797262,
+      "longitude": 22.047139
+    },
+    {
+      "name": "SPEEDEX - ΕΛΑΣΣΟΝΑ",
+      "latitude": 39.89502,
+      "longitude": 22.189698
+    },
+    {
+      "name": "SPEEDEX - ΕΛΕΥΣΙΝΑ",
+      "latitude": 38.046895,
+      "longitude": 23.531056
+    },
+    {
+      "name": "SPEEDEX - ΖΑΚΥΝΘΟΣ",
+      "latitude": 37.78694,
+      "longitude": 20.898365
+    },
+    {
+      "name": "SPEEDEX - ΗΓΟΥΜΕΝΙΤΣΑ",
+      "latitude": 39.505214,
+      "longitude": 20.262909
+    },
+    {
+      "name": "SPEEDEX - ΗΡΑΚΛΕΙΟ",
+      "latitude": 35.337032,
+      "longitude": 25.141729
+    },
+    {
+      "name": "SPEEDEX - ΘΗΒΑ",
+      "latitude": 38.313766,
+      "longitude": 23.318136
+    },
+    {
+      "name": "SPEEDEX - ΙΕΡΑΠΕΤΡΑ",
+      "latitude": 35.010375,
+      "longitude": 25.740792
+    },
+    {
+      "name": "SPEEDEX - ΙΤΕΑ",
+      "latitude": 38.431584,
+      "longitude": 22.42547
+    },
+    {
+      "name": "SPEEDEX - ΚΑΒΑΛΑ",
+      "latitude": 40.936341,
+      "longitude": 24.414715
+    },
+    {
+      "name": "SPEEDEX - ΚΑΛΑΜΑΤΑ",
+      "latitude": 37.031444,
+      "longitude": 22.113571
+    },
+    {
+      "name": "SPEEDEX - ΚΑΛΛΙΘΕΑ",
+      "latitude": 37.948109,
+      "longitude": 23.690045
+    },
+    {
+      "name": "SPEEDEX - ΚΑΡΔΙΤΣΑ",
+      "latitude": 39.368424,
+      "longitude": 21.919314
+    },
+    {
+      "name": "SPEEDEX - ΚΕΡΚΥΡΑ",
+      "latitude": 39.626472,
+      "longitude": 19.902396
+    },
+    {
+      "name": "SPEEDEX - ΚΗΦΙΣΙΑ",
+      "latitude": 38.073986,
+      "longitude": 23.805045
+    },
+    {
+      "name": "SPEEDEX - ΚΙΣΣΑΜΟΣ",
+      "latitude": 35.49524,
+      "longitude": 23.653541
+    },
+    {
+      "name": "SPEEDEX - ΚΟΖΑΝΗ",
+      "latitude": 40.297187,
+      "longitude": 21.784995
+    },
+    {
+      "name": "SPEEDEX - ΚΟΜΟΤΗΝΗ",
+      "latitude": 41.11554,
+      "longitude": 25.402122
+    },
+    {
+      "name": "SPEEDEX - ΚΟΡΙΝΘΟΣ",
+      "latitude": 37.935986,
+      "longitude": 22.925371
+    },
+    {
+      "name": "SPEEDEX - ΚΟΡΩΠΙ",
+      "latitude": 37.916411,
+      "longitude": 23.875272
+    },
+    {
+      "name": "SPEEDEX - ΚΥΠΑΡΙΣΣΙΑ ΚΑΛΑΜΑΤΑΣ",
+      "latitude": 37.250725,
+      "longitude": 21.670389
+    },
+    {
+      "name": "SPEEDEX - ΛΑΜΙΑ",
+      "latitude": 38.900313,
+      "longitude": 22.438303
+    },
+    {
+      "name": "SPEEDEX - ΛΑΡΙΣΑ",
+      "latitude": 39.630733,
+      "longitude": 22.418334
+    },
+    {
+      "name": "Speedex - Λευκαδα",
+      "latitude": 38.82925,
+      "longitude": 20.703834
+    },
+    {
+      "name": "SPEEDEX - ΛΗΞΟΥΡΙ",
+      "latitude": 38.199714,
+      "longitude": 20.438607
+    },
+    {
+      "name": "SPEEDEX - ΛΙΒΑΔΕΙΑ",
+      "latitude": 38.440306,
+      "longitude": 22.880429
+    },
+    {
+      "name": "SPEEDEX - ΜΑΡΟΥΣΙ",
+      "latitude": 38.047249,
+      "longitude": 23.809742
+    },
+    {
+      "name": "SPEEDEX - ΜΕΓΑΛΟΠΟΛΗ",
+      "latitude": 37.399983,
+      "longitude": 22.133747
+    },
+    {
+      "name": "SPEEDEX - ΜΕΛΙΣΣΙΑ",
+      "latitude": 38.056551,
+      "longitude": 23.838229
+    },
+    {
+      "name": "SPEEDEX - ΜΕΝΙΔΙ",
+      "latitude": 38.086345,
+      "longitude": 23.745456
+    },
+    {
+      "name": "SPEEDEX - ΜΕΣΟΛΟΓΓΙ",
+      "latitude": 38.37009,
+      "longitude": 21.431945
+    },
+    {
+      "name": "SPEEDEX - ΜΟΙΡΕΣ",
+      "latitude": 35.049849,
+      "longitude": 24.87764
+    },
+    {
+      "name": "SPEEDEX - ΜΟΥΔΑΝΙΑ",
+      "latitude": 40.24524,
+      "longitude": 23.288218
+    },
+    {
+      "name": "SPEEDEX - ΝΑΟΥΣΑ",
+      "latitude": 40.629025,
+      "longitude": 22.070063
+    },
+    {
+      "name": "SPEEDEX - ΝΑΥΠΑΚΤΟΣ",
+      "latitude": 38.394178,
+      "longitude": 21.833105
+    },
+    {
+      "name": "SPEEDEX - ΝΑΥΠΛΙΟ",
+      "latitude": 37.56634,
+      "longitude": 22.804834
+    },
+    {
+      "name": "SPEEDEX - ΝΙΚΑΙΑ",
+      "latitude": 37.979246,
+      "longitude": 23.659734
+    },
+    {
+      "name": "SPEEDEX - ΞΑΝΘΗ",
+      "latitude": 41.132653,
+      "longitude": 24.886881
+    },
+    {
+      "name": "SPEEDEX - ΞΑΝΘΗ",
+      "latitude": 41.138712,
+      "longitude": 24.884754
+    },
+    {
+      "name": "SPEEDEX - ΟΙΝΟΦΥΤΑ",
+      "latitude": 38.310362,
+      "longitude": 23.637746
+    },
+    {
+      "name": "SPEEDEX - ΟΡΕΣΤΙΑΔΑ",
+      "latitude": 41.502402,
+      "longitude": 26.530173
+    },
+    {
+      "name": "SPEEDEX - ΠΕΙΡΑΙΑΣ",
+      "latitude": 37.95853,
+      "longitude": 23.653526
+    },
+    {
+      "name": "SPEEDEX - ΠΕΡΙΣΤΕΡΙ",
+      "latitude": 38.020963,
+      "longitude": 23.693701
+    },
+    {
+      "name": "SPEEDEX - ΠΕΥΚΗ",
+      "latitude": 38.051803,
+      "longitude": 23.790371
+    },
+    {
+      "name": "SPEEDEX - ΠΡΕΒΕΖΑ",
+      "latitude": 38.963131,
+      "longitude": 20.749442
+    },
+    {
+      "name": "SPEEDEX - ΡΕΘΥΜΝΟ",
+      "latitude": 35.364306,
+      "longitude": 24.475654
+    },
+    {
+      "name": "SPEEDEX - ΡΟΔΟΣ",
+      "latitude": 36.433794,
+      "longitude": 28.231015
+    },
+    {
+      "name": "SPEEDEX - ΣΗΤΕΙΑ",
+      "latitude": 35.205757,
+      "longitude": 26.101607
+    },
+    {
+      "name": "SPEEDEX - ΣΚΥΔΡΑ",
+      "latitude": 40.767103,
+      "longitude": 22.151406
+    },
+    {
+      "name": "SPEEDEX - ΣΠΑΡΤΗ",
+      "latitude": 37.073456,
+      "longitude": 22.434995
+    },
+    {
+      "name": "SPEEDEX - ΤΡΙΚΑΛΑ",
+      "latitude": 39.54842,
+      "longitude": 21.772192
+    },
+    {
+      "name": "SPEEDEX - ΤΡΙΠΟΛΗ",
+      "latitude": 37.509484,
+      "longitude": 22.377504
+    },
+    {
+      "name": "SPEEDEX - ΤΥΡΝΑΒΟΣ",
+      "latitude": 39.741131,
+      "longitude": 22.28747
+    },
+    {
+      "name": "SPEEDEX - ΦΑΡΣΑΛΑ",
+      "latitude": 39.295488,
+      "longitude": 22.384346
+    },
+    {
+      "name": "SPEEDEX - ΦΙΛΙΑΤΕΣ ΘΕΣΠΡΩΤΙΑΣ",
+      "latitude": 39.599916,
+      "longitude": 20.311853
+    },
+    {
+      "name": "SPEEDEX - ΦΙΛΙΠΠΙΑΔΑ",
+      "latitude": 39.206598,
+      "longitude": 20.880915
+    },
+    {
+      "name": "SPEEDEX - ΧΑΛΑΝΔΡΙ",
+      "latitude": 38.019965,
+      "longitude": 23.802884
+    },
+    {
+      "name": "SPEEDEX - ΧΑΛΚΙΔΑ",
+      "latitude": 38.45848,
+      "longitude": 23.595325
+    },
+    {
+      "name": "SPEEDEX - ΧΑΛΚΙΔΑ",
+      "latitude": 38.46161,
+      "longitude": 23.592336
+    },
+    {
+      "name": "SPEEDEX - ΧΑΝΙΑ",
+      "latitude": 35.509189,
+      "longitude": 24.016241
+    },
+    {
+      "name": "SPEEDEX -ΑΛΕΞΑΝΔΡΟΥΠΟΛΗ",
+      "latitude": 40.848241,
+      "longitude": 25.887289
+    },
+    {
+      "name": "SPEEDEX -ΑΛΙΜΟΣ ΑΛΙΜΟΣ",
+      "latitude": 37.912237,
+      "longitude": 23.731838
+    },
+    {
+      "name": "SPEEDEX -ΓΙΑΝΝΙΤΣΑ\t20ης ΟΚΤΩΒΡΙΟΥ 21",
+      "latitude": 40.792433,
+      "longitude": 22.409325
+    },
+    {
+      "name": "SPEEDEX -ΚΕΦΑΛΛΟΝΙΑ",
+      "latitude": 38.172447,
+      "longitude": 20.493379
+    },
+    {
+      "name": "SPEEDEX -ΚΙΑΤΟ",
+      "latitude": 38.013519,
+      "longitude": 22.748113
+    },
+    {
+      "name": "SPEEDEX -ΝΕΟΣ ΚΟΣΜΟΣ",
+      "latitude": 37.955839,
+      "longitude": 23.717027
+    },
+    {
+      "name": "SPEEDEX -ΠΑΛΛΗΝΗ",
+      "latitude": 38.022087,
+      "longitude": 23.861881
+    },
+    {
+      "name": "SPEEDEX -ΠΥΡΓΟΣ",
+      "latitude": 37.675067,
+      "longitude": 21.434278
+    },
+    {
+      "name": "SPEEDEX -ΣΑΛΑΜΙΝΑ",
+      "latitude": 37.965488,
+      "longitude": 23.505307
+    },
+    {
+      "name": "SPEEDEX Courier",
+      "latitude": 36.804123,
+      "longitude": 22.852032
+    },
+    {
+      "name": "Speedex Courier",
+      "latitude": 40.511164,
+      "longitude": 21.677686
+    },
+    {
+      "name": "Speedex Courier",
+      "latitude": 40.521366,
+      "longitude": 21.258199
+    },
+    {
+      "name": "Speedex Ίλιον",
+      "latitude": 38.03593,
+      "longitude": 23.710773
+    },
+    {
+      "name": "Speedex Νέας Ιωνίας",
+      "latitude": 38.0401,
+      "longitude": 23.751178
+    },
+    {
+      "name": "Tachidromio Platias Kesarianis",
+      "latitude": 37.96797,
+      "longitude": 23.75914
+    },
+    {
+      "name": "Tsupa Burger",
+      "latitude": 38.011834,
+      "longitude": 23.692108
+    },
+    {
+      "name": "Αετός",
+      "latitude": 37.936497,
+      "longitude": 23.640471
+    },
+    {
+      "name": "ΑΝΔΡΗΣ ΑΓΓΕΛΟΣ - Νάξου",
+      "latitude": 38.011265,
+      "longitude": 23.745703
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 35.206542,
+      "longitude": 26.107022
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 35.332963,
+      "longitude": 25.114576
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 36.851195,
+      "longitude": 22.6699
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.628269,
+      "longitude": 22.720145
+    },
+    {
+      "name": "Γενική ταχυδρομική",
+      "latitude": 37.834481,
+      "longitude": 23.805094
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.835296,
+      "longitude": 23.790946
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.9305,
+      "longitude": 23.632359
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.944329,
+      "longitude": 23.685434
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.948489,
+      "longitude": 23.739203
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.971542,
+      "longitude": 23.747357
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.974164,
+      "longitude": 23.652256
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.979964,
+      "longitude": 23.72872
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.983624,
+      "longitude": 23.735555
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.995117,
+      "longitude": 23.778069
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 37.9955,
+      "longitude": 23.737669
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.014852,
+      "longitude": 24.419372
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.015195,
+      "longitude": 23.74533
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.023993,
+      "longitude": 23.792012
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.02652,
+      "longitude": 23.810607
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.031763,
+      "longitude": 23.701638
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.053224,
+      "longitude": 23.810736
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.091092,
+      "longitude": 23.820024
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.243624,
+      "longitude": 21.72791
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.320468,
+      "longitude": 23.791568
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.392557,
+      "longitude": 21.827474
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.469642,
+      "longitude": 23.611048
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 38.471293,
+      "longitude": 23.619321
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 39.105315,
+      "longitude": 26.546716
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 39.363794,
+      "longitude": 22.946417
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 39.648439,
+      "longitude": 20.847868
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 40.277142,
+      "longitude": 22.515257
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 40.568612,
+      "longitude": 22.959753
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 40.600723,
+      "longitude": 22.964164
+    },
+    {
+      "name": "Γενική ταχυδρομική",
+      "latitude": 40.600816,
+      "longitude": 22.950939
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 40.603872,
+      "longitude": 22.969991
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 40.614584,
+      "longitude": 22.966769
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 40.639787,
+      "longitude": 22.935819
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 40.848757,
+      "longitude": 25.889695
+    },
+    {
+      "name": "Γενική Ταχυδρομική",
+      "latitude": 41.115649,
+      "longitude": 25.402701
+    },
+    {
+      "name": "Γενική Ταχυδρομική 40 Εκκλησιές",
+      "latitude": 40.632019,
+      "longitude": 22.965801
+    },
+    {
+      "name": "Γενική Ταχυδρομική Κορυδαλλού",
+      "latitude": 37.97967,
+      "longitude": 23.645334
+    },
+    {
+      "name": "Γενική Ταχυδρομική Ντεπώ",
+      "latitude": 40.597125,
+      "longitude": 22.95285
+    },
+    {
+      "name": "Γενική Ταχυδρομικη",
+      "latitude": 36.434855,
+      "longitude": 28.216178
+    },
+    {
+      "name": "γενικη ταχυδρομική",
+      "latitude": 37.349655,
+      "longitude": 23.466282
+    },
+    {
+      "name": "Γενιξή Ταχυδρομική",
+      "latitude": 40.629412,
+      "longitude": 22.951997
+    },
+    {
+      "name": "Διανομές Θεσσαλονίκης ΙΚΕ",
+      "latitude": 40.576165,
+      "longitude": 22.976296
+    },
+    {
+      "name": "Διανομή Γλυφάδας ΕΛΤΑ",
+      "latitude": 37.882805,
+      "longitude": 23.763087
+    },
+    {
+      "name": "Είδη δώρων Παιχνίδια Σχολικά Εποχιακά Είδη πάρτυ Οργάνωση εκδηλώσεων",
+      "latitude": 38.375177,
+      "longitude": 22.385147
+    },
+    {
+      "name": "ΕΛ-ΤΑ",
+      "latitude": 39.359739,
+      "longitude": 22.948817
+    },
+    {
+      "name": "ΕΛ-ΤΑ",
+      "latitude": 39.443158,
+      "longitude": 23.103524
+    },
+    {
+      "name": "ΕΛ-ΤΑ",
+      "latitude": 39.758069,
+      "longitude": 22.57915
+    },
+    {
+      "name": "ΕΛ.ΤΑ",
+      "latitude": 40.512682,
+      "longitude": 21.681231
+    },
+    {
+      "name": "ΕΛ.ΤΑ Courier",
+      "latitude": 38.460134,
+      "longitude": 23.600013
+    },
+    {
+      "name": "ΕΛ.ΤΑ Θέρμης",
+      "latitude": 40.546854,
+      "longitude": 23.018323
+    },
+    {
+      "name": "ΕΛ.ΤΑ Καρύστου",
+      "latitude": 38.016061,
+      "longitude": 24.418885
+    },
+    {
+      "name": "ΕΛ.ΤΑ Μεγάλης Παναγίας",
+      "latitude": 40.445194,
+      "longitude": 23.680134
+    },
+    {
+      "name": "ΕΛ.ΤΑ.",
+      "latitude": 38.960929,
+      "longitude": 20.754549
+    },
+    {
+      "name": "ΕΛ.ΤΑ.",
+      "latitude": 40.255453,
+      "longitude": 22.070295
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομία",
+      "latitude": 38.51166,
+      "longitude": 23.637077
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 35.049925,
+      "longitude": 24.872379
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 35.28346,
+      "longitude": 25.459584
+    },
+    {
+      "name": "ΕΛληνικά ΤΑχυδρομεία",
+      "latitude": 35.331649,
+      "longitude": 25.13963
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 35.370645,
+      "longitude": 24.702501
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 35.487843,
+      "longitude": 24.073227
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 35.510733,
+      "longitude": 24.010808
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 35.512258,
+      "longitude": 24.020204
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 36.149824,
+      "longitude": 22.987538
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 36.761295,
+      "longitude": 22.564136
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 37.441507,
+      "longitude": 21.774448
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 37.483318,
+      "longitude": 21.903401
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 37.924122,
+      "longitude": 23.692797
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 37.942845,
+      "longitude": 23.687144
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 37.944944,
+      "longitude": 23.64614
+    },
+    {
+      "name": "Ελληνικά ταχυδρομεία",
+      "latitude": 37.954589,
+      "longitude": 23.659972
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 37.964124,
+      "longitude": 23.722777
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 37.988855,
+      "longitude": 23.716588
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 38.006759,
+      "longitude": 23.788054
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 38.01947,
+      "longitude": 23.735031
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 38.175651,
+      "longitude": 20.489355
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 38.905247,
+      "longitude": 22.125565
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 38.953812,
+      "longitude": 23.14995
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.170569,
+      "longitude": 25.934328
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.250637,
+      "longitude": 21.159465
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.458676,
+      "longitude": 21.621077
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.620047,
+      "longitude": 19.918999
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.659976,
+      "longitude": 19.841048
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.705912,
+      "longitude": 21.625054
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.753223,
+      "longitude": 20.648841
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 39.851625,
+      "longitude": 21.229407
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 40.257439,
+      "longitude": 21.553675
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 40.263158,
+      "longitude": 21.326734
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 40.488695,
+      "longitude": 21.215498
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 40.501023,
+      "longitude": 21.245666
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 40.503995,
+      "longitude": 21.158122
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 40.857824,
+      "longitude": 24.705232
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 41.022678,
+      "longitude": 25.695248
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία",
+      "latitude": 41.116774,
+      "longitude": 25.403571
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία (ΕΛΤΑ)",
+      "latitude": 36.431379,
+      "longitude": 28.233072
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία (ΕΛΤΑ)",
+      "latitude": 38.002067,
+      "longitude": 23.732594
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία (ΕΛΤΑ)",
+      "latitude": 38.039766,
+      "longitude": 23.687374
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία - ΕΛ.ΤΑ",
+      "latitude": 38.464718,
+      "longitude": 23.593322
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία Καπανδριτίου",
+      "latitude": 38.214655,
+      "longitude": 23.875713
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεία Σταυρούπολης",
+      "latitude": 40.660132,
+      "longitude": 22.93496
+    },
+    {
+      "name": "Ελληνικά Ταχυδρομεια Hellenic Post",
+      "latitude": 35.201505,
+      "longitude": 24.136642
+    },
+    {
+      "name": "Ελληνική Ταχυδρομεία",
+      "latitude": 40.944373,
+      "longitude": 23.99995
+    },
+    {
+      "name": "ΕΛΛΗΝΙΚΑ ΤΑΧΥΔΡΟΜΕΙΑ",
+      "latitude": 35.337629,
+      "longitude": 25.132904
+    },
+    {
+      "name": "Ελληνικό Ταχυδρομείο Αλεξάνδρειας",
+      "latitude": 40.627461,
+      "longitude": 22.440662
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.186751,
+      "longitude": 25.710122
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.198148,
+      "longitude": 25.488674
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.206911,
+      "longitude": 26.106068
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.217891,
+      "longitude": 24.535743
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.314277,
+      "longitude": 25.394462
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.330118,
+      "longitude": 25.258049
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.334315,
+      "longitude": 25.120829
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.365196,
+      "longitude": 24.475272
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.454408,
+      "longitude": 24.170812
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 35.494308,
+      "longitude": 23.65461
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 36.212834,
+      "longitude": 28.114512
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 36.849782,
+      "longitude": 22.66725
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 36.875979,
+      "longitude": 27.204819
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 36.888423,
+      "longitude": 27.281982
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 36.891894,
+      "longitude": 27.288834
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 36.912863,
+      "longitude": 21.695737
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.000083,
+      "longitude": 21.68332
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.036079,
+      "longitude": 22.111497
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.074878,
+      "longitude": 22.433486
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.08385,
+      "longitude": 22.432276
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.101549,
+      "longitude": 25.374957
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.119886,
+      "longitude": 25.24133
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.156473,
+      "longitude": 26.850527
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.349502,
+      "longitude": 23.466524
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.443918,
+      "longitude": 24.944174
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.45879,
+      "longitude": 26.971659
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.511234,
+      "longitude": 22.371651
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.538681,
+      "longitude": 22.89047
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.566541,
+      "longitude": 22.800655
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.600588,
+      "longitude": 26.079709
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.630965,
+      "longitude": 26.178396
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.633988,
+      "longitude": 22.726944
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.717489,
+      "longitude": 24.054215
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.785079,
+      "longitude": 20.896684
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.797255,
+      "longitude": 26.70517
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.81082,
+      "longitude": 23.972366
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.855166,
+      "longitude": 21.517045
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.907294,
+      "longitude": 23.873023
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.911239,
+      "longitude": 23.748295
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.925083,
+      "longitude": 23.740149
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.932934,
+      "longitude": 22.340527
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.936504,
+      "longitude": 23.947092
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.937578,
+      "longitude": 22.931639
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.958875,
+      "longitude": 23.734424
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.962807,
+      "longitude": 23.676135
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.963649,
+      "longitude": 22.638795
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.963787,
+      "longitude": 23.57275
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.965891,
+      "longitude": 23.701216
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.969411,
+      "longitude": 23.730408
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.973458,
+      "longitude": 23.71056
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.973464,
+      "longitude": 23.694782
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.97526,
+      "longitude": 23.733609
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.977049,
+      "longitude": 23.770444
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.980416,
+      "longitude": 23.736856
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.982267,
+      "longitude": 23.728306
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.983223,
+      "longitude": 23.729323
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.985273,
+      "longitude": 23.724915
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.987359,
+      "longitude": 23.745039
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.989778,
+      "longitude": 23.794076
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.994285,
+      "longitude": 23.768317
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 37.994661,
+      "longitude": 23.345639
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.000391,
+      "longitude": 23.793277
+    },
+    {
+      "name": "Ελτα",
+      "latitude": 38.008318,
+      "longitude": 23.856633
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.020522,
+      "longitude": 23.799013
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.03234,
+      "longitude": 22.111508
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.042692,
+      "longitude": 23.753279
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.197701,
+      "longitude": 21.740044
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.2435,
+      "longitude": 21.732701
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.251076,
+      "longitude": 22.088263
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.317328,
+      "longitude": 23.178702
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.3176,
+      "longitude": 23.317446
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.348342,
+      "longitude": 23.580419
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.36445,
+      "longitude": 20.717817
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.372786,
+      "longitude": 23.099792
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.393925,
+      "longitude": 21.830347
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.408914,
+      "longitude": 21.275807
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.431748,
+      "longitude": 22.422549
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.438906,
+      "longitude": 22.874723
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.527483,
+      "longitude": 22.204879
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.528039,
+      "longitude": 21.506692
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.528769,
+      "longitude": 21.529346
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.537117,
+      "longitude": 21.411337
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.574648,
+      "longitude": 21.667892
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.831142,
+      "longitude": 20.70504
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.861819,
+      "longitude": 21.1657
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.900143,
+      "longitude": 22.438601
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.912939,
+      "longitude": 21.794492
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.918403,
+      "longitude": 20.889
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.946108,
+      "longitude": 21.956201
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 38.974615,
+      "longitude": 26.370825
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.034678,
+      "longitude": 26.457132
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.099021,
+      "longitude": 26.553526
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.146346,
+      "longitude": 23.864773
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.340499,
+      "longitude": 23.007879
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.371188,
+      "longitude": 21.183922
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.422217,
+      "longitude": 20.063118
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.47355,
+      "longitude": 21.078663
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.510122,
+      "longitude": 20.261222
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.523133,
+      "longitude": 21.104621
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.636733,
+      "longitude": 22.415064
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.771599,
+      "longitude": 21.182809
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.79497,
+      "longitude": 19.820185
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.877112,
+      "longitude": 25.060781
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 39.987442,
+      "longitude": 23.614348
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.03835,
+      "longitude": 23.944271
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.048581,
+      "longitude": 23.411244
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.094837,
+      "longitude": 23.781775
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.239798,
+      "longitude": 23.281591
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.270868,
+      "longitude": 22.510229
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.311665,
+      "longitude": 23.06403
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.380156,
+      "longitude": 23.441683
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.519432,
+      "longitude": 21.256643
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.570087,
+      "longitude": 22.972569
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.578525,
+      "longitude": 22.946563
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.599689,
+      "longitude": 22.954232
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.600206,
+      "longitude": 22.983954
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.614686,
+      "longitude": 22.957846
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.625743,
+      "longitude": 24.578282
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.629886,
+      "longitude": 22.956622
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.633761,
+      "longitude": 22.942959
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.65003,
+      "longitude": 22.952888
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.664085,
+      "longitude": 23.700392
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.730126,
+      "longitude": 22.599554
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.730874,
+      "longitude": 22.921222
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.780209,
+      "longitude": 21.404551
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.79078,
+      "longitude": 22.412954
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.799303,
+      "longitude": 22.04936
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.817597,
+      "longitude": 23.35639
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.843314,
+      "longitude": 25.87329
+    },
+    {
+      "name": "ελτα",
+      "latitude": 40.848355,
+      "longitude": 25.889833
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.936343,
+      "longitude": 24.408381
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.945153,
+      "longitude": 22.450799
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.962856,
+      "longitude": 24.358999
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 40.992978,
+      "longitude": 22.872996
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.075522,
+      "longitude": 24.245855
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.090804,
+      "longitude": 23.552308
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.116237,
+      "longitude": 25.400892
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.146559,
+      "longitude": 24.148536
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.166715,
+      "longitude": 22.803245
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.17822,
+      "longitude": 23.969631
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.275257,
+      "longitude": 23.29249
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.344701,
+      "longitude": 23.865894
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.348613,
+      "longitude": 26.494562
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.501202,
+      "longitude": 26.533432
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.575662,
+      "longitude": 26.226759
+    },
+    {
+      "name": "ΕΛΤΑ",
+      "latitude": 41.645775,
+      "longitude": 26.475774
+    },
+    {
+      "name": "ΕΛΤΑ (Zefi)",
+      "latitude": 39.407378,
+      "longitude": 20.243896
+    },
+    {
+      "name": "ΕΛΤΑ (ΑΘΗΝΑΣ 13)",
+      "latitude": 38.002369,
+      "longitude": 23.74131
+    },
+    {
+      "name": "ΕΛΤΑ - ΕΛΛΗΝΙΚΑ ΤΑΧΥΔΡΟΜΕΙΑ ΑΕ - ΓΡΑΦΕΙΟ ΔΙΑΝΟΜΗΣ",
+      "latitude": 37.932527,
+      "longitude": 23.697362
+    },
+    {
+      "name": "ΕΛΤΑ - Μονάδα Διανομής Βέροιας",
+      "latitude": 40.527045,
+      "longitude": 22.215874
+    },
+    {
+      "name": "ΕΛΤΑ - Ταχυμεταφορές",
+      "latitude": 41.090474,
+      "longitude": 23.5546
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 36.802593,
+      "longitude": 22.851359
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 37.633877,
+      "longitude": 22.726867
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 37.933208,
+      "longitude": 23.631
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 37.942521,
+      "longitude": 23.741004
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 37.946723,
+      "longitude": 23.65011
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 37.955027,
+      "longitude": 23.680749
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 37.961812,
+      "longitude": 23.711276
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 37.974916,
+      "longitude": 23.661149
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 37.989316,
+      "longitude": 23.73008
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 38.013359,
+      "longitude": 23.722574
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 38.04967,
+      "longitude": 23.808322
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 38.053345,
+      "longitude": 23.810091
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 38.317715,
+      "longitude": 23.31801
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 38.898239,
+      "longitude": 22.437406
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 40.268225,
+      "longitude": 22.520634
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 40.382132,
+      "longitude": 23.444615
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 40.610312,
+      "longitude": 22.984864
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 40.618608,
+      "longitude": 22.968002
+    },
+    {
+      "name": "Ελτα courier",
+      "latitude": 40.634229,
+      "longitude": 22.9439
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 40.639304,
+      "longitude": 22.946415
+    },
+    {
+      "name": "ΕΛΤΑ courier",
+      "latitude": 40.651746,
+      "longitude": 22.913395
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 40.654939,
+      "longitude": 22.958798
+    },
+    {
+      "name": "ΕΛΤΑ Courier",
+      "latitude": 40.990967,
+      "longitude": 22.871628
+    },
+    {
+      "name": "ΕΛΤΑ Courier Καλαμαριάς",
+      "latitude": 40.58197,
+      "longitude": 22.953941
+    },
+    {
+      "name": "ΕΛΤΑ Courier Κολωνού",
+      "latitude": 38.00062,
+      "longitude": 23.719784
+    },
+    {
+      "name": "ΕΛΤΑ courrier",
+      "latitude": 39.50373,
+      "longitude": 20.264126
+    },
+    {
+      "name": "ΕΛΤΑ Hellenic Post",
+      "latitude": 40.085161,
+      "longitude": 21.424799
+    },
+    {
+      "name": "ΕΛΤΑ Άνω Λιοσίων",
+      "latitude": 38.077615,
+      "longitude": 23.70287
+    },
+    {
+      "name": "ΕΛΤΑ Άστρους",
+      "latitude": 37.402963,
+      "longitude": 22.723049
+    },
+    {
+      "name": "ΕΛΤΑ Αίγινας",
+      "latitude": 37.747361,
+      "longitude": 23.427023
+    },
+    {
+      "name": "ΕΛΤΑ Αγίων Θεοδώρων",
+      "latitude": 37.927947,
+      "longitude": 23.141331
+    },
+    {
+      "name": "ΕΛΤΑ ΑΓΡΙΝΙΟΥ",
+      "latitude": 38.626114,
+      "longitude": 21.409991
+    },
+    {
+      "name": "ΕΛΤΑ Αρεόπολη",
+      "latitude": 36.667405,
+      "longitude": 22.3813
+    },
+    {
+      "name": "ΕΛΤΑ Αρναίας",
+      "latitude": 40.487655,
+      "longitude": 23.597241
+    },
+    {
+      "name": "ΕΛΤΑ Αρχαίας Ολυμπίας",
+      "latitude": 37.643038,
+      "longitude": 21.624736
+    },
+    {
+      "name": "ΕΛΤΑ Αυλώνα",
+      "latitude": 38.254054,
+      "longitude": 23.694232
+    },
+    {
+      "name": "ΕΛΤΑ Βριλησσίων",
+      "latitude": 38.038073,
+      "longitude": 23.826796
+    },
+    {
+      "name": "ΕΛΤΑ Βύρωνα",
+      "latitude": 37.961613,
+      "longitude": 23.752021
+    },
+    {
+      "name": "ΕΛΤΑ ΓΑΖΙΟΥ",
+      "latitude": 35.325059,
+      "longitude": 25.06606
+    },
+    {
+      "name": "ΕΛΤΑ Δάφνης",
+      "latitude": 37.950454,
+      "longitude": 23.736262
+    },
+    {
+      "name": "ΕΛΤΑ Δεσκάτης",
+      "latitude": 39.924715,
+      "longitude": 21.806256
+    },
+    {
+      "name": "ΕΛΤΑ Ελληνικά Ταχυδρομεία",
+      "latitude": 36.416002,
+      "longitude": 27.385063
+    },
+    {
+      "name": "ΕΛΤΑ Ελληνικού",
+      "latitude": 37.892773,
+      "longitude": 23.759982
+    },
+    {
+      "name": "ΕΛΤΑ Ζεφυρίου",
+      "latitude": 38.068634,
+      "longitude": 23.71812
+    },
+    {
+      "name": "ΕΛΤΑ ΙΑΛΥΣΟΥ",
+      "latitude": 36.416801,
+      "longitude": 28.154697
+    },
+    {
+      "name": "ΕΛΤΑ Κέντρο Διαλογής",
+      "latitude": 37.992096,
+      "longitude": 23.849231
+    },
+    {
+      "name": "ΕΛΤΑ Κεντρικό",
+      "latitude": 40.299503,
+      "longitude": 21.797072
+    },
+    {
+      "name": "ΕΛΤΑ Κολωνού",
+      "latitude": 38.000649,
+      "longitude": 23.719776
+    },
+    {
+      "name": "ΕΛΤΑ Κορυδαλλού 2",
+      "latitude": 37.97621,
+      "longitude": 23.650549
+    },
+    {
+      "name": "ΕΛΤΑ Μολάων",
+      "latitude": 36.802405,
+      "longitude": 22.851934
+    },
+    {
+      "name": "ΕΛΤΑ Μονεμβασίας",
+      "latitude": 36.686615,
+      "longitude": 23.037676
+    },
+    {
+      "name": "ΕΛΤΑ Μοσχάτου",
+      "latitude": 37.95087,
+      "longitude": 23.679497
+    },
+    {
+      "name": "ΕΛΤΑ ΜΟΥΔΡΟΥ",
+      "latitude": 39.872803,
+      "longitude": 25.26803
+    },
+    {
+      "name": "ΕΛΤΑ Νέας Φιλαδέλφειας",
+      "latitude": 38.035495,
+      "longitude": 23.738766
+    },
+    {
+      "name": "ΕΛΤΑ Νέας Χαλκηδόνας",
+      "latitude": 38.027194,
+      "longitude": 23.730071
+    },
+    {
+      "name": "ΕΛΤΑ Νικήσιανης",
+      "latitude": 40.948973,
+      "longitude": 24.142086
+    },
+    {
+      "name": "ΕΛΤΑ Νικήτης",
+      "latitude": 40.222397,
+      "longitude": 23.668471
+    },
+    {
+      "name": "ΕΛΤΑ Ξυλόπολης",
+      "latitude": 40.927359,
+      "longitude": 23.176998
+    },
+    {
+      "name": "ΕΛΤΑ Πορτα",
+      "latitude": 35.50985,
+      "longitude": 24.019878
+    },
+    {
+      "name": "ΕΛΤΑ Πύργου",
+      "latitude": 37.672777,
+      "longitude": 21.435747
+    },
+    {
+      "name": "ΕΛΤΑ Σκύδρας",
+      "latitude": 40.767745,
+      "longitude": 22.153457
+    },
+    {
+      "name": "ΕΛΤΑ Τούμπας",
+      "latitude": 40.608571,
+      "longitude": 22.980831
+    },
+    {
+      "name": "ΕΛΤΑ Ψαχνών",
+      "latitude": 38.578693,
+      "longitude": 23.64138
+    },
+    {
+      "name": "ΕΛΤΑ Ἱεράπετρας",
+      "latitude": 35.009408,
+      "longitude": 25.739375
+    },
+    {
+      "name": "ΕΜΕΛ (Ποταμιάς) - ΕΘΝΙΚΗ ΜΕΤΑΦΟΡΙΚΗ ΛΑΡΙΣΑΣ",
+      "latitude": 37.97855,
+      "longitude": 23.696866
+    },
+    {
+      "name": "ΕΝΩΣΗ ΜΑΚΕΔΟΝΙΑΣ ΗΡΑΣ 4",
+      "latitude": 37.972006,
+      "longitude": 23.689418
+    },
+    {
+      "name": "Εφημερίδα Ανεξάρτητος - σερραϊκή Εβδομάδα",
+      "latitude": 41.098602,
+      "longitude": 23.497787
+    },
+    {
+      "name": "Ιωνίας Θεσσαλονίκης",
+      "latitude": 40.684716,
+      "longitude": 22.857568
+    },
+    {
+      "name": "Κέντρο Διανομής ΕΛΤΑ",
+      "latitude": 38.021266,
+      "longitude": 23.743408
+    },
+    {
+      "name": "Κέντρο Διανομής ΕΛΤΑ Άνω Κυψέλης",
+      "latitude": 38.005761,
+      "longitude": 23.747509
+    },
+    {
+      "name": "ΚΑΛΑΜΑΣ - ALPHACOM",
+      "latitude": 37.951575,
+      "longitude": 23.652735
+    },
+    {
+      "name": "Κατάστημα Καλλιθέας 3",
+      "latitude": 37.956888,
+      "longitude": 23.704658
+    },
+    {
+      "name": "Κεντικό Κατάστημα Καλλιθέας",
+      "latitude": 37.96227,
+      "longitude": 23.711471
+    },
+    {
+      "name": "Κεντρικό Ταχυδρομείο Σάμου",
+      "latitude": 37.751582,
+      "longitude": 26.979307
+    },
+    {
+      "name": "ΜΕΤΜΠΑ ΑΕ - ΜΠΑΜΠΑΛΗΣ ΑΕ Όλη την Ελλάδα",
+      "latitude": 37.978333,
+      "longitude": 23.696988
+    },
+    {
+      "name": "ΜΠΕΛΕΧΑΣ ΙΚΕ Πάτρα",
+      "latitude": 37.985061,
+      "longitude": 23.685449
+    },
+    {
+      "name": "ΝΙΚΑΣ ΙΩΑΝΝΗΣ Πρέβεζα Β-10",
+      "latitude": 37.981662,
+      "longitude": 23.683288
+    },
+    {
+      "name": "Πρακτορείο ΕΛΤΑ",
+      "latitude": 40.635855,
+      "longitude": 23.246903
+    },
+    {
+      "name": "Πόρτα-πόρτα ΕΛΤΑ courrier",
+      "latitude": 40.608179,
+      "longitude": 22.993285
+    },
+    {
+      "name": "Σίνδου",
+      "latitude": 40.671916,
+      "longitude": 22.805102
+    },
+    {
+      "name": "Ταβλαρίδης",
+      "latitude": 37.989148,
+      "longitude": 23.729795
+    },
+    {
+      "name": "Ταχ. Κατάστημα",
+      "latitude": 39.02436,
+      "longitude": 21.322305
+    },
+    {
+      "name": "Ταχυδέμα",
+      "latitude": 37.93823,
+      "longitude": 23.641323
+    },
+    {
+      "name": "Ταχυδέμα",
+      "latitude": 38.025334,
+      "longitude": 23.730684
+    },
+    {
+      "name": "Ταχυδέμα",
+      "latitude": 39.104784,
+      "longitude": 26.551865
+    },
+    {
+      "name": "Ταχυδρομέας (taxypost) Courier",
+      "latitude": 40.605199,
+      "longitude": 22.975071
+    },
+    {
+      "name": "Ταχυδρομίο Βορεινού",
+      "latitude": 41.027971,
+      "longitude": 22.082734
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 35.037678,
+      "longitude": 25.972469
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 36.450504,
+      "longitude": 28.224245
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 37.925285,
+      "longitude": 23.937189
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 37.970176,
+      "longitude": 23.652299
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 38.108899,
+      "longitude": 21.781729
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 38.370693,
+      "longitude": 26.134256
+    },
+    {
+      "name": "ταχυδρομείο",
+      "latitude": 39.080588,
+      "longitude": 26.181633
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 39.665758,
+      "longitude": 20.852981
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 39.893016,
+      "longitude": 22.1883
+    },
+    {
+      "name": "Ταχυδρομείο",
+      "latitude": 40.973323,
+      "longitude": 22.059976
+    },
+    {
+      "name": "Ταχυδρομείο Αγίας Φωτεινής ( ΕΛ.ΤΑ ) & Eurobank",
+      "latitude": 35.253683,
+      "longitude": 24.633993
+    },
+    {
+      "name": "Ταχυδρομείο Αχιλλείου",
+      "latitude": 39.594364,
+      "longitude": 19.892952
+    },
+    {
+      "name": "Ταχυδρομείο Καλαμάτας",
+      "latitude": 37.026413,
+      "longitude": 22.110648
+    },
+    {
+      "name": "Ταχυδρομείο Κόνιτσα (ΕΛΤΑ))",
+      "latitude": 40.047584,
+      "longitude": 20.751664
+    },
+    {
+      "name": "Ταχυδρομείο Νέας Σμύρνης",
+      "latitude": 37.948402,
+      "longitude": 23.713909
+    },
+    {
+      "name": "Ταχυδρομείο Πέλλας",
+      "latitude": 40.760779,
+      "longitude": 22.527614
+    },
+    {
+      "name": "Ταχυδρομειο",
+      "latitude": 37.975978,
+      "longitude": 23.641849
+    },
+    {
+      "name": "Ταχυδρομειο",
+      "latitude": 38.032604,
+      "longitude": 21.364264
+    },
+    {
+      "name": "ΤΑΧΥΔΡΟΜΕΙΟ",
+      "latitude": 39.104104,
+      "longitude": 26.553459
+    },
+    {
+      "name": "Ταχυδρομειο",
+      "latitude": 41.269308,
+      "longitude": 26.386786
+    },
+    {
+      "name": "Ταχυδρομικές Θυρίδες",
+      "latitude": 37.963701,
+      "longitude": 23.583755
+    },
+    {
+      "name": "Ταχυδρομικές Θυρίδες",
+      "latitude": 37.964002,
+      "longitude": 23.592665
+    },
+    {
+      "name": "Ταχυδρομικές Θυρίδες",
+      "latitude": 37.96514,
+      "longitude": 23.582574
+    },
+    {
+      "name": "Ταχυδρομικές Θυρίδες",
+      "latitude": 37.96638,
+      "longitude": 23.582816
+    },
+    {
+      "name": "ταχυδρομική θυρίδα",
+      "latitude": 38.277517,
+      "longitude": 23.586764
+    },
+    {
+      "name": "Ταχυδρομικό Πρακτορείο Γαύδου",
+      "latitude": 34.835137,
+      "longitude": 24.084278
+    },
+    {
+      "name": "Ταχυδρομικό Πρακτορείο ΕΛΤΑ",
+      "latitude": 39.665184,
+      "longitude": 22.394033
+    },
+    {
+      "name": "Ταχυδρομικό Πρακτορείο ΕΛΤΑ",
+      "latitude": 40.640685,
+      "longitude": 22.533123
+    },
+    {
+      "name": "Ταχυδρομικό Πρακτορείο Φιλιατρών",
+      "latitude": 37.158273,
+      "longitude": 21.583014
+    },
+    {
+      "name": "Ταχυμεταφορές Easy Mail | Courier",
+      "latitude": 40.606757,
+      "longitude": 22.963297
+    },
+    {
+      "name": "Ταχυμεταφορές ΕΛΤΑ",
+      "latitude": 36.431885,
+      "longitude": 28.234185
+    },
+    {
+      "name": "ΤΝΤ",
+      "latitude": 40.272052,
+      "longitude": 22.494542
+    }
+  ],
+  "meta": {
+    "title": "Ταχυδρομεία Ελλάδας - Δωρεάν λήψη",
+    "description": "Ταχυδρομικά γραφεία σε όλη την Ελλάδα από το OpenStreetMap (διακριτό από τους ταχυδρομικούς κώδικες el-tachydromikoi-kodikes). Post offices across Greece. Περιέχει 624 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Ταχυδρομεία Ελλάδας | ListBase",
+    "seo_description": "Λήψη Ταχυδρομεία Ελλάδας — 624 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 624 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

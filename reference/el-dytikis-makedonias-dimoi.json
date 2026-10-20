@@ -1,0 +1,237 @@
+{
+  "id": "el-dytikis-makedonias-dimoi",
+  "name": "Δήμοι — Περιφέρεια Δυτικής Μακεδονίας",
+  "title": "Δήμοι — Περιφέρεια Δυτικής Μακεδονίας",
+  "description": "Οι δήμοι της Περιφέρειας Δυτικής Μακεδονίας (Western Macedonia) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 12 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9061",
+      "name": "Γρεβενων",
+      "slug": "grevenon",
+      "regional_unit_id": "0301",
+      "regional_unit_name": "Γρεβενων",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 13,
+      "communities_count": 62
+    },
+    {
+      "id": "9062",
+      "name": "Δεσκατης",
+      "slug": "deskatis",
+      "regional_unit_id": "0301",
+      "regional_unit_name": "Γρεβενων",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 2,
+      "communities_count": 8
+    },
+    {
+      "id": "9063",
+      "name": "Καστοριας",
+      "slug": "kastorias",
+      "regional_unit_id": "0302",
+      "regional_unit_name": "Καστοριας",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 9,
+      "communities_count": 37
+    },
+    {
+      "id": "9064",
+      "name": "Νεστοριου",
+      "slug": "nestorioy",
+      "regional_unit_id": "0302",
+      "regional_unit_name": "Καστοριας",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 4,
+      "communities_count": 12
+    },
+    {
+      "id": "9065",
+      "name": "Ορεστιδος",
+      "slug": "orestidos",
+      "regional_unit_id": "0302",
+      "regional_unit_name": "Καστοριας",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 2,
+      "communities_count": 18
+    },
+    {
+      "id": "9066",
+      "name": "Βοϊου",
+      "slug": "voioy",
+      "regional_unit_id": "0303",
+      "regional_unit_name": "Κοζανης",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 5,
+      "communities_count": 59
+    },
+    {
+      "id": "9067",
+      "name": "Εορδαιας",
+      "slug": "eordaias",
+      "regional_unit_id": "0303",
+      "regional_unit_name": "Κοζανης",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 5,
+      "communities_count": 26
+    },
+    {
+      "id": "9068",
+      "name": "Κοζανης",
+      "slug": "kozanis",
+      "regional_unit_id": "0303",
+      "regional_unit_name": "Κοζανης",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 5,
+      "communities_count": 52
+    },
+    {
+      "id": "9069",
+      "name": "Σερβιων-Βελβεντου",
+      "slug": "servion-velventoy",
+      "regional_unit_id": "0303",
+      "regional_unit_name": "Κοζανης",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 4,
+      "communities_count": 23
+    },
+    {
+      "id": "9070",
+      "name": "Αμυνταιου",
+      "slug": "amyntaioy",
+      "regional_unit_id": "0304",
+      "regional_unit_name": "Φλωρινας",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 6,
+      "communities_count": 26
+    },
+    {
+      "id": "9071",
+      "name": "Πρεσπων",
+      "slug": "prespon",
+      "regional_unit_id": "0304",
+      "regional_unit_name": "Φλωρινας",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 2,
+      "communities_count": 16
+    },
+    {
+      "id": "9072",
+      "name": "Φλωρινας",
+      "slug": "florinas",
+      "regional_unit_id": "0304",
+      "regional_unit_name": "Φλωρινας",
+      "periphery_id": 3,
+      "periphery_name": "Δυτικης Μακεδονιας",
+      "periphery_name_native": "Δυτικής Μακεδονίας",
+      "periphery_slug": "dytikis-makedonias",
+      "municipal_units_count": 4,
+      "communities_count": 48
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Δυτικής Μακεδονίας - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Δυτικής Μακεδονίας (Western Macedonia) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 12 δήμοι. Περιέχει 12 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Δυτικής Μακεδονίας | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Δυτικής Μακεδονίας — 12 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 12 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

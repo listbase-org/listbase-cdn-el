@@ -1,0 +1,1766 @@
+{
+  "id": "el-camping",
+  "name": "Κάμπινγκ Ελλάδας",
+  "title": "Κάμπινγκ Ελλάδας",
+  "description": "Χώροι κατασκήνωσης (κάμπινγκ) σε όλη την Ελλάδα από το OpenStreetMap. Campsites across Greece.",
+  "category": "tourism",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 345,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "2 jour",
+      "latitude": 41.231307,
+      "longitude": 26.025031
+    },
+    {
+      "name": "Acrogiali",
+      "latitude": 39.134769,
+      "longitude": 20.58447
+    },
+    {
+      "name": "Aegali camping",
+      "latitude": 36.906244,
+      "longitude": 25.97937
+    },
+    {
+      "name": "Aginara Beach",
+      "latitude": 37.837088,
+      "longitude": 21.129033
+    },
+    {
+      "name": "Agrilia",
+      "latitude": 38.639093,
+      "longitude": 20.994538
+    },
+    {
+      "name": "Aigeas Camping",
+      "latitude": 40.316928,
+      "longitude": 23.043896
+    },
+    {
+      "name": "Akrata Beach",
+      "latitude": 38.173362,
+      "longitude": 22.33733
+    },
+    {
+      "name": "Alexandroupoli Municipal Camping",
+      "latitude": 40.846579,
+      "longitude": 25.85491
+    },
+    {
+      "name": "Anamour",
+      "latitude": 39.995924,
+      "longitude": 23.887997
+    },
+    {
+      "name": "Anassa Cycladic Village",
+      "latitude": 37.416838,
+      "longitude": 24.879822
+    },
+    {
+      "name": "Aphroditi",
+      "latitude": 40.029547,
+      "longitude": 22.587038
+    },
+    {
+      "name": "Apollo village",
+      "latitude": 37.39684,
+      "longitude": 21.677306
+    },
+    {
+      "name": "Apollon",
+      "latitude": 38.483024,
+      "longitude": 22.475759
+    },
+    {
+      "name": "Areti",
+      "latitude": 40.02375,
+      "longitude": 23.816652
+    },
+    {
+      "name": "Argolic Strand",
+      "latitude": 37.533097,
+      "longitude": 22.892479
+    },
+    {
+      "name": "Arion",
+      "latitude": 40.015832,
+      "longitude": 22.589438
+    },
+    {
+      "name": "Assini Beach",
+      "latitude": 37.530677,
+      "longitude": 22.883914
+    },
+    {
+      "name": "Ayannis",
+      "latitude": 38.423121,
+      "longitude": 22.459805
+    },
+    {
+      "name": "Batis",
+      "latitude": 40.915514,
+      "longitude": 24.377867
+    },
+    {
+      "name": "Bekas Beach",
+      "latitude": 37.618546,
+      "longitude": 23.156541
+    },
+    {
+      "name": "Blue Aura",
+      "latitude": 37.121021,
+      "longitude": 25.214046
+    },
+    {
+      "name": "Blue Bay",
+      "latitude": 38.758021,
+      "longitude": 22.877276
+    },
+    {
+      "name": "Blue Dream Camping",
+      "latitude": 40.095207,
+      "longitude": 23.312397
+    },
+    {
+      "name": "Camping",
+      "latitude": 40.148877,
+      "longitude": 22.544635
+    },
+    {
+      "name": "Camping Agia Roumeli",
+      "latitude": 35.229179,
+      "longitude": 23.96395
+    },
+    {
+      "name": "Camping Agiannis",
+      "latitude": 40.427239,
+      "longitude": 22.604396
+    },
+    {
+      "name": "Camping Alexandros",
+      "latitude": 40.958807,
+      "longitude": 24.516068
+    },
+    {
+      "name": "Camping Alkioni",
+      "latitude": 38.054368,
+      "longitude": 23.02139
+    },
+    {
+      "name": "Camping Alphios",
+      "latitude": 37.643508,
+      "longitude": 21.619501
+    },
+    {
+      "name": "Camping Andros",
+      "latitude": 37.884248,
+      "longitude": 24.741502
+    },
+    {
+      "name": "Camping Anemomilos",
+      "latitude": 36.806023,
+      "longitude": 21.801694
+    },
+    {
+      "name": "Camping Antiparos",
+      "latitude": 37.048307,
+      "longitude": 25.081792
+    },
+    {
+      "name": "Camping Apollonia",
+      "latitude": 35.188604,
+      "longitude": 24.400007
+    },
+    {
+      "name": "Camping Argostoli",
+      "latitude": 38.18997,
+      "longitude": 20.472163
+    },
+    {
+      "name": "Camping Astros",
+      "latitude": 37.432495,
+      "longitude": 22.757708
+    },
+    {
+      "name": "Camping Athina",
+      "latitude": 38.008918,
+      "longitude": 23.672848
+    },
+    {
+      "name": "Camping Atreus",
+      "latitude": 37.719388,
+      "longitude": 22.741815
+    },
+    {
+      "name": "Camping Bacchus",
+      "latitude": 37.676394,
+      "longitude": 24.048645
+    },
+    {
+      "name": "Camping Burano",
+      "latitude": 39.05011,
+      "longitude": 20.703484
+    },
+    {
+      "name": "Camping Chrissa",
+      "latitude": 38.473338,
+      "longitude": 22.458841
+    },
+    {
+      "name": "Camping Diana",
+      "latitude": 37.645355,
+      "longitude": 21.622851
+    },
+    {
+      "name": "Camping Dias",
+      "latitude": 36.711708,
+      "longitude": 22.523281
+    },
+    {
+      "name": "Camping Drepanos",
+      "latitude": 39.508962,
+      "longitude": 20.221756
+    },
+    {
+      "name": "Camping Elizabeth",
+      "latitude": 35.368437,
+      "longitude": 24.515068
+    },
+    {
+      "name": "Camping Elizabeth",
+      "latitude": 40.189274,
+      "longitude": 22.563117
+    },
+    {
+      "name": "Camping Erodios",
+      "latitude": 36.952707,
+      "longitude": 21.695993
+    },
+    {
+      "name": "Camping Glaros",
+      "latitude": 37.953028,
+      "longitude": 23.181135
+    },
+    {
+      "name": "Camping Gold Beach",
+      "latitude": 40.186627,
+      "longitude": 22.564788
+    },
+    {
+      "name": "Camping Hania",
+      "latitude": 35.511542,
+      "longitude": 23.984814
+    },
+    {
+      "name": "Camping Ierissos",
+      "latitude": 40.403453,
+      "longitude": 23.876496
+    },
+    {
+      "name": "Camping Ionion",
+      "latitude": 38.67195,
+      "longitude": 20.95246
+    },
+    {
+      "name": "Camping Isthmia beach",
+      "latitude": 37.890095,
+      "longitude": 23.006196
+    },
+    {
+      "name": "Camping Kalami Beach",
+      "latitude": 39.473732,
+      "longitude": 20.240104
+    },
+    {
+      "name": "Camping Kalamitsi",
+      "latitude": 38.973905,
+      "longitude": 20.716041
+    },
+    {
+      "name": "Camping Kalogria",
+      "latitude": 36.848979,
+      "longitude": 22.259178
+    },
+    {
+      "name": "Camping Kalogria",
+      "latitude": 38.159798,
+      "longitude": 21.371539
+    },
+    {
+      "name": "Camping Karavomilos Beach",
+      "latitude": 38.25081,
+      "longitude": 20.637917
+    },
+    {
+      "name": "Camping Kariotes Beach",
+      "latitude": 38.804437,
+      "longitude": 20.714294
+    },
+    {
+      "name": "Camping Kea",
+      "latitude": 37.598951,
+      "longitude": 24.278603
+    },
+    {
+      "name": "Camping Koutsou",
+      "latitude": 35.008047,
+      "longitude": 25.821512
+    },
+    {
+      "name": "Camping Kronos",
+      "latitude": 36.709547,
+      "longitude": 22.520674
+    },
+    {
+      "name": "Camping Leros",
+      "latitude": 37.113082,
+      "longitude": 26.862906
+    },
+    {
+      "name": "Camping Lola",
+      "latitude": 38.976599,
+      "longitude": 23.096118
+    },
+    {
+      "name": "Camping Makedonia",
+      "latitude": 40.185593,
+      "longitude": 22.561835
+    },
+    {
+      "name": "Camping Makis",
+      "latitude": 36.99071,
+      "longitude": 24.680546
+    },
+    {
+      "name": "Camping Melissa",
+      "latitude": 37.885736,
+      "longitude": 21.112033
+    },
+    {
+      "name": "Camping Mithimna",
+      "latitude": 35.501655,
+      "longitude": 23.70321
+    },
+    {
+      "name": "Camping Mongonisi",
+      "latitude": 39.182062,
+      "longitude": 20.205769
+    },
+    {
+      "name": "Camping Monolithi",
+      "latitude": 39.048748,
+      "longitude": 20.706575
+    },
+    {
+      "name": "Camping Mycenae",
+      "latitude": 37.71923,
+      "longitude": 22.74671
+    },
+    {
+      "name": "Camping Navarino",
+      "latitude": 36.946946,
+      "longitude": 21.707242
+    },
+    {
+      "name": "Camping Nea Epidavros",
+      "latitude": 37.677902,
+      "longitude": 23.149229
+    },
+    {
+      "name": "Camping Nea Makri",
+      "latitude": 38.092248,
+      "longitude": 23.974369
+    },
+    {
+      "name": "Camping Nireas",
+      "latitude": 40.177237,
+      "longitude": 22.554694
+    },
+    {
+      "name": "Camping No Problem",
+      "latitude": 35.099918,
+      "longitude": 24.694698
+    },
+    {
+      "name": "Camping Nopigia",
+      "latitude": 35.508903,
+      "longitude": 23.720172
+    },
+    {
+      "name": "Camping OLIZON",
+      "latitude": 39.164939,
+      "longitude": 23.217178
+    },
+    {
+      "name": "Camping Orpheus",
+      "latitude": 40.021151,
+      "longitude": 22.585705
+    },
+    {
+      "name": "Camping Paleochora",
+      "latitude": 35.237538,
+      "longitude": 23.691637
+    },
+    {
+      "name": "Camping Paleochora",
+      "latitude": 35.237978,
+      "longitude": 23.692776
+    },
+    {
+      "name": "Camping Paleokastritsa",
+      "latitude": 39.676899,
+      "longitude": 19.725267
+    },
+    {
+      "name": "Camping Panorama",
+      "latitude": 39.03393,
+      "longitude": 20.713999
+    },
+    {
+      "name": "Camping Pefkari Beach",
+      "latitude": 40.615778,
+      "longitude": 24.600446
+    },
+    {
+      "name": "Camping Porto",
+      "latitude": 39.991678,
+      "longitude": 23.992015
+    },
+    {
+      "name": "camping prinos",
+      "latitude": 40.761089,
+      "longitude": 24.564362
+    },
+    {
+      "name": "Camping Proti",
+      "latitude": 37.067657,
+      "longitude": 21.579204
+    },
+    {
+      "name": "Camping Rea",
+      "latitude": 40.205614,
+      "longitude": 23.763432
+    },
+    {
+      "name": "Camping Repontina",
+      "latitude": 37.329307,
+      "longitude": 22.808215
+    },
+    {
+      "name": "Camping Rovies",
+      "latitude": 38.83234,
+      "longitude": 23.199016
+    },
+    {
+      "name": "Camping RV Parking",
+      "latitude": 39.969851,
+      "longitude": 20.661386
+    },
+    {
+      "name": "Camping Santa Maria",
+      "latitude": 37.130537,
+      "longitude": 25.276318
+    },
+    {
+      "name": "Camping Scala",
+      "latitude": 37.519286,
+      "longitude": 22.976324
+    },
+    {
+      "name": "Camping Semeli",
+      "latitude": 37.14967,
+      "longitude": 22.892508
+    },
+    {
+      "name": "Camping Sissi",
+      "latitude": 35.304197,
+      "longitude": 25.508332
+    },
+    {
+      "name": "Camping site",
+      "latitude": 37.619007,
+      "longitude": 23.156873
+    },
+    {
+      "name": "Camping Sofas",
+      "latitude": 39.378533,
+      "longitude": 20.282679
+    },
+    {
+      "name": "Camping Stolos",
+      "latitude": 40.184927,
+      "longitude": 22.5618
+    },
+    {
+      "name": "Camping Sylvia",
+      "latitude": 40.116698,
+      "longitude": 22.554914
+    },
+    {
+      "name": "Camping Tholo",
+      "latitude": 37.410731,
+      "longitude": 21.668434
+    },
+    {
+      "name": "Camping Tsapi",
+      "latitude": 36.755684,
+      "longitude": 21.855509
+    },
+    {
+      "name": "Camping Village Episkopos",
+      "latitude": 38.769548,
+      "longitude": 20.721048
+    },
+    {
+      "name": "Camping Zante",
+      "latitude": 37.824482,
+      "longitude": 20.850443
+    },
+    {
+      "name": "Camping Αυτοκινητοδρομίου Σερρών",
+      "latitude": 41.073995,
+      "longitude": 23.518063
+    },
+    {
+      "name": "Camping Βάρκιζας",
+      "latitude": 37.80566,
+      "longitude": 23.799445
+    },
+    {
+      "name": "Camping Λιβάδι",
+      "latitude": 36.605592,
+      "longitude": 24.951625
+    },
+    {
+      "name": "Camping Στάνη",
+      "latitude": 40.18207,
+      "longitude": 22.558737
+    },
+    {
+      "name": "Camping Στομίου",
+      "latitude": 39.87018,
+      "longitude": 22.732516
+    },
+    {
+      "name": "Castello Camping",
+      "latitude": 40.125834,
+      "longitude": 23.765149
+    },
+    {
+      "name": "Castle",
+      "latitude": 40.010553,
+      "longitude": 22.593609
+    },
+    {
+      "name": "Castle View",
+      "latitude": 37.069963,
+      "longitude": 22.381638
+    },
+    {
+      "name": "Chorefto Camping",
+      "latitude": 39.448221,
+      "longitude": 23.130642
+    },
+    {
+      "name": "Christina Kriaritsi",
+      "latitude": 40.024254,
+      "longitude": 24.016936
+    },
+    {
+      "name": "Closed",
+      "latitude": 37.647396,
+      "longitude": 22.11486
+    },
+    {
+      "name": "Club Resort Agia Anna",
+      "latitude": 38.859153,
+      "longitude": 23.442125
+    },
+    {
+      "name": "Communal Orfanou",
+      "latitude": 40.759511,
+      "longitude": 23.908458
+    },
+    {
+      "name": "Corali",
+      "latitude": 39.134136,
+      "longitude": 20.585587
+    },
+    {
+      "name": "Coralli",
+      "latitude": 37.137079,
+      "longitude": 24.514095
+    },
+    {
+      "name": "Creta Camping",
+      "latitude": 35.33337,
+      "longitude": 25.292677
+    },
+    {
+      "name": "Daluz",
+      "latitude": 38.500102,
+      "longitude": 23.53595
+    },
+    {
+      "name": "Delphi Camping",
+      "latitude": 38.47862,
+      "longitude": 22.4741
+    },
+    {
+      "name": "Dessimi Beach",
+      "latitude": 38.67227,
+      "longitude": 20.711184
+    },
+    {
+      "name": "Dionissotis",
+      "latitude": 38.105202,
+      "longitude": 23.813471
+    },
+    {
+      "name": "Dionysus Camping Village",
+      "latitude": 39.66499,
+      "longitude": 19.84493
+    },
+    {
+      "name": "Dolphin Camping",
+      "latitude": 39.788922,
+      "longitude": 19.724418
+    },
+    {
+      "name": "Dragonera Cliffs",
+      "latitude": 38.54629,
+      "longitude": 24.045433
+    },
+    {
+      "name": "Elenas Beach",
+      "latitude": 39.460013,
+      "longitude": 20.261413
+    },
+    {
+      "name": "Enjoy Lichnos",
+      "latitude": 39.282044,
+      "longitude": 20.434234
+    },
+    {
+      "name": "Fare",
+      "latitude": 37.021262,
+      "longitude": 22.143319
+    },
+    {
+      "name": "FarOut Beach Resort & Camping",
+      "latitude": 36.710724,
+      "longitude": 25.297086
+    },
+    {
+      "name": "Finikes",
+      "latitude": 36.802522,
+      "longitude": 21.780954
+    },
+    {
+      "name": "Flat place",
+      "latitude": 35.189295,
+      "longitude": 24.959329
+    },
+    {
+      "name": "Flat under apple tree",
+      "latitude": 35.211114,
+      "longitude": 24.603928
+    },
+    {
+      "name": "Flat, grass",
+      "latitude": 35.188918,
+      "longitude": 24.958665
+    },
+    {
+      "name": "Flat, gravel",
+      "latitude": 35.175346,
+      "longitude": 24.93873
+    },
+    {
+      "name": "Flat, no wind",
+      "latitude": 35.199204,
+      "longitude": 24.572062
+    },
+    {
+      "name": "For Nature Lovers",
+      "latitude": 40.765814,
+      "longitude": 24.592404
+    },
+    {
+      "name": "Fournia Beach",
+      "latitude": 37.89917,
+      "longitude": 21.116667
+    },
+    {
+      "name": "Free Camping",
+      "latitude": 37.720423,
+      "longitude": 23.924306
+    },
+    {
+      "name": "Free Camping (private owner)",
+      "latitude": 35.099405,
+      "longitude": 26.263563
+    },
+    {
+      "name": "Golden Beach Campsite",
+      "latitude": 40.726375,
+      "longitude": 24.757285
+    },
+    {
+      "name": "Golden Sunset",
+      "latitude": 38.144165,
+      "longitude": 21.587903
+    },
+    {
+      "name": "Golden Village",
+      "latitude": 40.721253,
+      "longitude": 24.750571
+    },
+    {
+      "name": "Good",
+      "latitude": 35.217176,
+      "longitude": 24.626288
+    },
+    {
+      "name": "Grammeno Camping",
+      "latitude": 35.234551,
+      "longitude": 23.636033
+    },
+    {
+      "name": "Green Camp",
+      "latitude": 37.977698,
+      "longitude": 21.261438
+    },
+    {
+      "name": "Gythion Bay",
+      "latitude": 36.727849,
+      "longitude": 22.54592
+    },
+    {
+      "name": "Haliki camp",
+      "latitude": 39.689312,
+      "longitude": 21.192307
+    },
+    {
+      "name": "Happy Days",
+      "latitude": 40.23615,
+      "longitude": 23.563211
+    },
+    {
+      "name": "Hellas",
+      "latitude": 39.31012,
+      "longitude": 23.108628
+    },
+    {
+      "name": "Heraklia Beach Camping & Apartments",
+      "latitude": 40.011906,
+      "longitude": 22.593657
+    },
+    {
+      "name": "Hydras Wave",
+      "latitude": 37.405445,
+      "longitude": 23.314776
+    },
+    {
+      "name": "Ikaria Camping",
+      "latitude": 37.633335,
+      "longitude": 26.145834
+    },
+    {
+      "name": "Interstation",
+      "latitude": 38.896538,
+      "longitude": 22.654917
+    },
+    {
+      "name": "Ionion Beach",
+      "latitude": 37.835342,
+      "longitude": 21.133483
+    },
+    {
+      "name": "Ionnina Glamping",
+      "latitude": 39.555702,
+      "longitude": 20.868062
+    },
+    {
+      "name": "Ipsos Beach",
+      "latitude": 39.695929,
+      "longitude": 19.837431
+    },
+    {
+      "name": "Iria Beach Camping",
+      "latitude": 37.497159,
+      "longitude": 22.990882
+    },
+    {
+      "name": "Jovanka rooms",
+      "latitude": 39.991113,
+      "longitude": 23.988864
+    },
+    {
+      "name": "Kalamaki",
+      "latitude": 39.985523,
+      "longitude": 22.632054
+    },
+    {
+      "name": "Kalandra",
+      "latitude": 39.964167,
+      "longitude": 23.364722
+    },
+    {
+      "name": "Karda Beach",
+      "latitude": 39.685894,
+      "longitude": 19.838555
+    },
+    {
+      "name": "Karpero Camping",
+      "latitude": 39.955177,
+      "longitude": 21.624733
+    },
+    {
+      "name": "Kastraki",
+      "latitude": 37.528098,
+      "longitude": 22.875992
+    },
+    {
+      "name": "Kastri Beach",
+      "latitude": 39.143291,
+      "longitude": 23.305338
+    },
+    {
+      "name": "Katerina",
+      "latitude": 40.050659,
+      "longitude": 23.990538
+    },
+    {
+      "name": "Kathisma",
+      "latitude": 38.775733,
+      "longitude": 20.606372
+    },
+    {
+      "name": "Kinderland κατασκήνωση",
+      "latitude": 38.280316,
+      "longitude": 23.88001
+    },
+    {
+      "name": "Koroni Camping",
+      "latitude": 36.799474,
+      "longitude": 21.950994
+    },
+    {
+      "name": "KOULA CAMPING",
+      "latitude": 37.091408,
+      "longitude": 25.157262
+    },
+    {
+      "name": "Kourouta",
+      "latitude": 37.765055,
+      "longitude": 21.298595
+    },
+    {
+      "name": "Kouyoni",
+      "latitude": 40.264556,
+      "longitude": 23.462873
+    },
+    {
+      "name": "Krios beach camping",
+      "latitude": 37.0958,
+      "longitude": 25.14472
+    },
+    {
+      "name": "Kryopigi camping",
+      "latitude": 40.038514,
+      "longitude": 23.487358
+    },
+    {
+      "name": "la scala beach",
+      "latitude": 40.783248,
+      "longitude": 24.672522
+    },
+    {
+      "name": "Lefka Beach",
+      "latitude": 37.533814,
+      "longitude": 22.931534
+    },
+    {
+      "name": "Lido",
+      "latitude": 37.529,
+      "longitude": 22.866284
+    },
+    {
+      "name": "Limnopoula",
+      "latitude": 39.677518,
+      "longitude": 20.843508
+    },
+    {
+      "name": "Louisa",
+      "latitude": 39.144231,
+      "longitude": 23.275757
+    },
+    {
+      "name": "Loutsa camping",
+      "latitude": 36.804334,
+      "longitude": 21.822234
+    },
+    {
+      "name": "Mani beach",
+      "latitude": 36.727193,
+      "longitude": 22.542582
+    },
+    {
+      "name": "Maragas Camping",
+      "latitude": 37.060709,
+      "longitude": 25.357348
+    },
+    {
+      "name": "Matala Camping",
+      "latitude": 34.994684,
+      "longitude": 24.751329
+    },
+    {
+      "name": "Meltemi",
+      "latitude": 36.731187,
+      "longitude": 22.553003
+    },
+    {
+      "name": "Meteora Garden",
+      "latitude": 39.708677,
+      "longitude": 21.609496
+    },
+    {
+      "name": "Methoni",
+      "latitude": 36.817877,
+      "longitude": 21.715026
+    },
+    {
+      "name": "Milos Achivadolimni",
+      "latitude": 36.68729,
+      "longitude": 24.448592
+    },
+    {
+      "name": "Mitari",
+      "latitude": 40.143255,
+      "longitude": 23.734997
+    },
+    {
+      "name": "Molivos Camping (CLOSED)",
+      "latitude": 39.368626,
+      "longitude": 26.193007
+    },
+    {
+      "name": "Mykonos Camping",
+      "latitude": 37.407803,
+      "longitude": 25.3518
+    },
+    {
+      "name": "Natura",
+      "latitude": 40.969419,
+      "longitude": 25.013227
+    },
+    {
+      "name": "Naxos Camping",
+      "latitude": 37.085604,
+      "longitude": 25.371585
+    },
+    {
+      "name": "Nea Kifissia",
+      "latitude": 38.099442,
+      "longitude": 23.791668
+    },
+    {
+      "name": "Near stream",
+      "latitude": 35.21879,
+      "longitude": 24.486317
+    },
+    {
+      "name": "New Triton",
+      "latitude": 37.532225,
+      "longitude": 22.891447
+    },
+    {
+      "name": "Nicolas II",
+      "latitude": 37.616111,
+      "longitude": 23.158611
+    },
+    {
+      "name": "Night ride border crosiing camp",
+      "latitude": 40.992571,
+      "longitude": 23.192321
+    },
+    {
+      "name": "Nik",
+      "latitude": 39.987282,
+      "longitude": 22.631541
+    },
+    {
+      "name": "Nissos",
+      "latitude": 39.094928,
+      "longitude": 20.637462
+    },
+    {
+      "name": "Oasis Village",
+      "latitude": 38.851456,
+      "longitude": 23.451603
+    },
+    {
+      "name": "Octopus",
+      "latitude": 38.13167,
+      "longitude": 24.007217
+    },
+    {
+      "name": "Oelia",
+      "latitude": 40.215814,
+      "longitude": 23.317639
+    },
+    {
+      "name": "Ouranoupoli",
+      "latitude": 40.338895,
+      "longitude": 23.970551
+    },
+    {
+      "name": "Ouzouni",
+      "latitude": 40.216458,
+      "longitude": 23.317606
+    },
+    {
+      "name": "Overland Greece Lodge",
+      "latitude": 38.624253,
+      "longitude": 23.49782
+    },
+    {
+      "name": "Paleologio Mystras",
+      "latitude": 37.071925,
+      "longitude": 22.40522
+    },
+    {
+      "name": "Palouki",
+      "latitude": 37.753334,
+      "longitude": 21.30523
+    },
+    {
+      "name": "Papa Nero",
+      "latitude": 39.412544,
+      "longitude": 23.166053
+    },
+    {
+      "name": "Paradise",
+      "latitude": 37.41113,
+      "longitude": 25.355909
+    },
+    {
+      "name": "Paradise",
+      "latitude": 37.757658,
+      "longitude": 21.30464
+    },
+    {
+      "name": "Paradiso",
+      "latitude": 40.870217,
+      "longitude": 24.313271
+    },
+    {
+      "name": "Paradisos",
+      "latitude": 40.025314,
+      "longitude": 24.016941
+    },
+    {
+      "name": "Pefki",
+      "latitude": 39.01937,
+      "longitude": 23.225582
+    },
+    {
+      "name": "Petalidi Beach",
+      "latitude": 36.981889,
+      "longitude": 21.928908
+    },
+    {
+      "name": "Petrines Kataskinoseis",
+      "latitude": 40.901992,
+      "longitude": 25.51894
+    },
+    {
+      "name": "Plaka Camping",
+      "latitude": 37.053259,
+      "longitude": 25.367577
+    },
+    {
+      "name": "Plaka Olympus",
+      "latitude": 40.102484,
+      "longitude": 22.563056
+    },
+    {
+      "name": "Poros Beach",
+      "latitude": 38.640783,
+      "longitude": 20.696643
+    },
+    {
+      "name": "Poseidon Beach",
+      "latitude": 40.013695,
+      "longitude": 22.591441
+    },
+    {
+      "name": "Rafting",
+      "latitude": 38.453919,
+      "longitude": 21.708782
+    },
+    {
+      "name": "River Party Νεστόριο",
+      "latitude": 40.405415,
+      "longitude": 21.059402
+    },
+    {
+      "name": "ROCKS",
+      "latitude": 39.138037,
+      "longitude": 23.86116
+    },
+    {
+      "name": "Roda Beach",
+      "latitude": 39.784444,
+      "longitude": 19.784726
+    },
+    {
+      "name": "Roma Camp",
+      "latitude": 39.042661,
+      "longitude": 26.459025
+    },
+    {
+      "name": "Roma camp",
+      "latitude": 39.113234,
+      "longitude": 26.53575
+    },
+    {
+      "name": "Santa Maura",
+      "latitude": 38.675302,
+      "longitude": 20.714108
+    },
+    {
+      "name": "Santa Mavra",
+      "latitude": 38.674268,
+      "longitude": 20.71488
+    },
+    {
+      "name": "Santorini Camping",
+      "latitude": 36.41904,
+      "longitude": 25.438534
+    },
+    {
+      "name": "Scout camp 'Alkion'",
+      "latitude": 40.902008,
+      "longitude": 25.4358
+    },
+    {
+      "name": "Sikia",
+      "latitude": 39.309626,
+      "longitude": 23.109583
+    },
+    {
+      "name": "Simos Camping",
+      "latitude": 36.476919,
+      "longitude": 22.975269
+    },
+    {
+      "name": "Sougia",
+      "latitude": 35.248743,
+      "longitude": 23.814003
+    },
+    {
+      "name": "Stavros",
+      "latitude": 40.0425,
+      "longitude": 23.813611
+    },
+    {
+      "name": "Sunny Bay",
+      "latitude": 40.227626,
+      "longitude": 23.589344
+    },
+    {
+      "name": "Sunset",
+      "latitude": 35.415059,
+      "longitude": 23.559969
+    },
+    {
+      "name": "Sunset",
+      "latitude": 37.530128,
+      "longitude": 22.865013
+    },
+    {
+      "name": "Surf Club Keros Lodge & Spa",
+      "latitude": 39.91764,
+      "longitude": 25.366027
+    },
+    {
+      "name": "Tartaruga Camping",
+      "latitude": 37.697916,
+      "longitude": 20.839138
+    },
+    {
+      "name": "Tent Camping",
+      "latitude": 40.908505,
+      "longitude": 25.433752
+    },
+    {
+      "name": "the Cave",
+      "latitude": 39.720213,
+      "longitude": 21.619728
+    },
+    {
+      "name": "Thines Camping",
+      "latitude": 36.805302,
+      "longitude": 21.795556
+    },
+    {
+      "name": "Thirea",
+      "latitude": 37.401184,
+      "longitude": 22.752297
+    },
+    {
+      "name": "Triton II",
+      "latitude": 37.532489,
+      "longitude": 22.890231
+    },
+    {
+      "name": "Tsolis camp",
+      "latitude": 38.320833,
+      "longitude": 21.971944
+    },
+    {
+      "name": "Valtos Camping",
+      "latitude": 39.286218,
+      "longitude": 20.389667
+    },
+    {
+      "name": "Variko Beach",
+      "latitude": 40.176009,
+      "longitude": 22.553556
+    },
+    {
+      "name": "Vasiliki Beach Camping",
+      "latitude": 38.630942,
+      "longitude": 20.60647
+    },
+    {
+      "name": "Venezuela",
+      "latitude": 38.823047,
+      "longitude": 22.716668
+    },
+    {
+      "name": "Via Natura",
+      "latitude": 39.45278,
+      "longitude": 21.035133
+    },
+    {
+      "name": "Vrachos",
+      "latitude": 39.712995,
+      "longitude": 21.614547
+    },
+    {
+      "name": "Vutsikaki wild camp",
+      "latitude": 39.27989,
+      "longitude": 21.678143
+    },
+    {
+      "name": "wild camp",
+      "latitude": 39.139678,
+      "longitude": 21.701649
+    },
+    {
+      "name": "wild camp",
+      "latitude": 39.243659,
+      "longitude": 21.721806
+    },
+    {
+      "name": "wild camp",
+      "latitude": 39.247289,
+      "longitude": 21.690566
+    },
+    {
+      "name": "wild camp",
+      "latitude": 39.267614,
+      "longitude": 21.536083
+    },
+    {
+      "name": "Wild Nature Eco Lodge Camp",
+      "latitude": 35.228943,
+      "longitude": 24.619594
+    },
+    {
+      "name": "Xeni",
+      "latitude": 37.53023,
+      "longitude": 22.872531
+    },
+    {
+      "name": "Άγιος Γεώργιος",
+      "latitude": 40.206358,
+      "longitude": 23.678593
+    },
+    {
+      "name": "Άγρια κατασκήνωση",
+      "latitude": 35.248966,
+      "longitude": 23.815383
+    },
+    {
+      "name": "Άμμος",
+      "latitude": 36.805312,
+      "longitude": 21.791383
+    },
+    {
+      "name": "Ακτή ονείρου Camping-Bungalows",
+      "latitude": 40.159413,
+      "longitude": 23.895475
+    },
+    {
+      "name": "Ακτή Ρετζίκα",
+      "latitude": 40.382571,
+      "longitude": 22.926946
+    },
+    {
+      "name": "Αλυκές",
+      "latitude": 40.320362,
+      "longitude": 23.915688
+    },
+    {
+      "name": "Αντάμωμα Σαρακατσάνων",
+      "latitude": 41.479681,
+      "longitude": 24.331512
+    },
+    {
+      "name": "Αρμενιστής",
+      "latitude": 40.153487,
+      "longitude": 23.914811
+    },
+    {
+      "name": "Αστερίας",
+      "latitude": 39.098415,
+      "longitude": 20.635308
+    },
+    {
+      "name": "Αυτοδιαχειριζόμενο Κάμπινγκ Βούλας",
+      "latitude": 37.851749,
+      "longitude": 23.749468
+    },
+    {
+      "name": "Βαράδες",
+      "latitude": 40.494052,
+      "longitude": 25.63665
+    },
+    {
+      "name": "Δημοτικές κατασκηνώσεις Παραμυθιάς",
+      "latitude": 39.463919,
+      "longitude": 20.519993
+    },
+    {
+      "name": "Δημοτικό Κάμπινγκ",
+      "latitude": 40.956103,
+      "longitude": 25.139231
+    },
+    {
+      "name": "Δημοτικό Κάμπινγκ Αμοργού",
+      "latitude": 36.828815,
+      "longitude": 25.86884
+    },
+    {
+      "name": "Δημοτικό Κάμπινγκ Καψαλίου",
+      "latitude": 36.146042,
+      "longitude": 23.001703
+    },
+    {
+      "name": "Δρω",
+      "latitude": 38.438215,
+      "longitude": 21.724462
+    },
+    {
+      "name": "Ζαρίτσι",
+      "latitude": 37.275508,
+      "longitude": 22.840248
+    },
+    {
+      "name": "Κάμπιγκ Ποσειδών",
+      "latitude": 37.505427,
+      "longitude": 22.986597
+    },
+    {
+      "name": "Κάμπινγκ Ασπροβάλτας",
+      "latitude": 40.734583,
+      "longitude": 23.71795
+    },
+    {
+      "name": "κάμπινγκ Αστυπάλαια",
+      "latitude": 36.560572,
+      "longitude": 26.35349
+    },
+    {
+      "name": "Κάμπινγκ Δαίδαλος",
+      "latitude": 40.736268,
+      "longitude": 24.555723
+    },
+    {
+      "name": "Κάμπινγκ Μαρμαρά",
+      "latitude": 40.097295,
+      "longitude": 23.774287
+    },
+    {
+      "name": "Κάμπινγκ Μελίσση",
+      "latitude": 40.045259,
+      "longitude": 23.983691
+    },
+    {
+      "name": "Κάμπινγκ Μύτικας",
+      "latitude": 40.150309,
+      "longitude": 22.543848
+    },
+    {
+      "name": "Κάμπινγκ ΠΙΤΣΩΝΗ",
+      "latitude": 40.04662,
+      "longitude": 23.98394
+    },
+    {
+      "name": "Κάμπινγκ Πλατιάς",
+      "latitude": 40.500837,
+      "longitude": 25.619575
+    },
+    {
+      "name": "Κάτω Αλισσός",
+      "latitude": 38.15003,
+      "longitude": 21.577424
+    },
+    {
+      "name": "Καλαμίτσι",
+      "latitude": 39.98758,
+      "longitude": 23.986942
+    },
+    {
+      "name": "Καλαμίτσι",
+      "latitude": 39.992809,
+      "longitude": 23.9923
+    },
+    {
+      "name": "καλυβα του βουνου",
+      "latitude": 40.945909,
+      "longitude": 22.27008
+    },
+    {
+      "name": "Καλύβας",
+      "latitude": 40.228372,
+      "longitude": 23.595948
+    },
+    {
+      "name": "ΚΑΜΠΙΝΓΚ ΙΖΑ",
+      "latitude": 39.996705,
+      "longitude": 23.881678
+    },
+    {
+      "name": "Καμπινγκ ΟΤΕ",
+      "latitude": 40.95953,
+      "longitude": 25.136987
+    },
+    {
+      "name": "Καρουσάδες",
+      "latitude": 39.789041,
+      "longitude": 19.75814
+    },
+    {
+      "name": "Καστάνης",
+      "latitude": 36.827045,
+      "longitude": 25.879088
+    },
+    {
+      "name": "Κατασκήνωση \"Χαρούμενα Παιδιά\"",
+      "latitude": 38.125476,
+      "longitude": 23.331639
+    },
+    {
+      "name": "Κατασκήνωση ¨Η Χαρούμενη Πολιτεία)",
+      "latitude": 38.173463,
+      "longitude": 22.081608
+    },
+    {
+      "name": "Κατασκήνωση Αναρριχητικού πεδίου",
+      "latitude": 41.085009,
+      "longitude": 22.171384
+    },
+    {
+      "name": "Κατασκήνωση Αναρριχητικού πεδίου",
+      "latitude": 41.118047,
+      "longitude": 22.155342
+    },
+    {
+      "name": "Κατασκήνωση ΓΕΧΑ",
+      "latitude": 41.149498,
+      "longitude": 23.539655
+    },
+    {
+      "name": "Κατασκήνωση Δήμου Σερρών",
+      "latitude": 41.16926,
+      "longitude": 23.561604
+    },
+    {
+      "name": "Κατασκήνωση Ελαφίνας",
+      "latitude": 40.410311,
+      "longitude": 22.311156
+    },
+    {
+      "name": "Κατασκήνωση Κάλαμος",
+      "latitude": 38.280022,
+      "longitude": 23.869543
+    },
+    {
+      "name": "Κατασκήνωση ΚΟΡΕΛΚΟ",
+      "latitude": 38.280387,
+      "longitude": 23.888547
+    },
+    {
+      "name": "Κατασκήνωση Κρυονέρι",
+      "latitude": 40.908235,
+      "longitude": 25.433972
+    },
+    {
+      "name": "Κατασκήνωση Μητροπόλεως Δράμας",
+      "latitude": 41.289417,
+      "longitude": 23.921696
+    },
+    {
+      "name": "Κατασκήνωση Μητροπόλεως Καλαβρύτων & Αιγιαλείας",
+      "latitude": 38.014294,
+      "longitude": 22.08933
+    },
+    {
+      "name": "Κατασκήνωση ΠΙΚΠΑ",
+      "latitude": 41.171115,
+      "longitude": 23.561433
+    },
+    {
+      "name": "Κατασκήνωση Προσκόπων",
+      "latitude": 41.107669,
+      "longitude": 23.551011
+    },
+    {
+      "name": "Κατασκήνωση Προσκόπων",
+      "latitude": 41.173247,
+      "longitude": 23.558606
+    },
+    {
+      "name": "Κατασκήνωση Χριστιανικής Ένωσης Πύργου",
+      "latitude": 37.788263,
+      "longitude": 21.762928
+    },
+    {
+      "name": "ΚΑΤΑΣΚΗΝΩΣΕΙΣ ΤΥΠΕΤ",
+      "latitude": 39.192496,
+      "longitude": 20.527839
+    },
+    {
+      "name": "ΚΑΤΑΣΚΗΝΩΣΗ ΣΚΟΥΡΑΣ",
+      "latitude": 40.123168,
+      "longitude": 23.416917
+    },
+    {
+      "name": "Κατασκηνωτικό Κέντρο Προσκόπων \"Περδικόβρυση\" Παρνασσός",
+      "latitude": 38.612402,
+      "longitude": 22.578181
+    },
+    {
+      "name": "Κατασκηνώσεις Ερυθρού Σταυρού",
+      "latitude": 39.386738,
+      "longitude": 23.005508
+    },
+    {
+      "name": "Κατασκηνώσεις Καστανούσας Ο.Χ.Α. Απολύτρωσις",
+      "latitude": 41.307333,
+      "longitude": 22.88782
+    },
+    {
+      "name": "Κατασκηνώσεις Κουρούνας",
+      "latitude": 40.08534,
+      "longitude": 21.156142
+    },
+    {
+      "name": "Κατασκηνώσεις Πανδρόσου",
+      "latitude": 41.191627,
+      "longitude": 25.442864
+    },
+    {
+      "name": "Κατασκηνώσεις Προφήτη Ηλία",
+      "latitude": 36.265566,
+      "longitude": 27.933268
+    },
+    {
+      "name": "Κατασκηνώσεις Χριστιανικής Αγωγής",
+      "latitude": 39.387024,
+      "longitude": 23.005039
+    },
+    {
+      "name": "Κατασκηνώσεις Χριστιανικών Μαθητικών Ομάδων Παρνασσός",
+      "latitude": 38.621571,
+      "longitude": 22.576396
+    },
+    {
+      "name": "Κατασκηνώση Ζωοδόχου Πηγης",
+      "latitude": 40.398119,
+      "longitude": 22.087265
+    },
+    {
+      "name": "Κεραμωτής",
+      "latitude": 40.854828,
+      "longitude": 24.694137
+    },
+    {
+      "name": "Κοινοτικό Κάμπινγκ",
+      "latitude": 40.524617,
+      "longitude": 23.276998
+    },
+    {
+      "name": "Κομίτσα",
+      "latitude": 40.377058,
+      "longitude": 23.965005
+    },
+    {
+      "name": "Μελετάκι: Κατασκήνωση ΧΑΕΕ-ΧΟΝ",
+      "latitude": 38.054083,
+      "longitude": 23.425391
+    },
+    {
+      "name": "Ναυτίλος",
+      "latitude": 39.443894,
+      "longitude": 20.258063
+    },
+    {
+      "name": "Νικόλας I",
+      "latitude": 37.62987,
+      "longitude": 23.158019
+    },
+    {
+      "name": "Ξένιαστο μελίσσι",
+      "latitude": 37.681741,
+      "longitude": 24.063379
+    },
+    {
+      "name": "Ο Καλός Ποιμήν",
+      "latitude": 39.961401,
+      "longitude": 23.369111
+    },
+    {
+      "name": "Οπακε-Ομε ΟΤΕ",
+      "latitude": 38.245716,
+      "longitude": 22.131715
+    },
+    {
+      "name": "Παιδικές Κατασκηνώσεις",
+      "latitude": 40.932188,
+      "longitude": 24.978006
+    },
+    {
+      "name": "Παιδική κατασκήνωση",
+      "latitude": 38.660015,
+      "longitude": 23.946586
+    },
+    {
+      "name": "Πανεπιστημιακή Κατασκήνωση Καλάνδρας Α.Π.Θ. Ποσείδι",
+      "latitude": 39.962113,
+      "longitude": 23.364132
+    },
+    {
+      "name": "Πλάκα Beach",
+      "latitude": 37.533589,
+      "longitude": 22.892994
+    },
+    {
+      "name": "Πλατανίτσι",
+      "latitude": 40.117459,
+      "longitude": 23.976481
+    },
+    {
+      "name": "Προσκοπικές Κατασκηνώσεις",
+      "latitude": 39.644455,
+      "longitude": 19.926513
+    },
+    {
+      "name": "Προσκοπικό Εκπαιδευτικό Κέντρο \"Άγιος Ανδρέας\"",
+      "latitude": 38.063482,
+      "longitude": 23.992551
+    },
+    {
+      "name": "Προσκοπικό Κέντρο",
+      "latitude": 39.626374,
+      "longitude": 19.924796
+    },
+    {
+      "name": "Προσκοπικό Κέντρο Ελευθερία",
+      "latitude": 39.971071,
+      "longitude": 22.467843
+    },
+    {
+      "name": "Προσκοπικό Κέντρο Καβαλάρι",
+      "latitude": 41.278063,
+      "longitude": 22.790634
+    },
+    {
+      "name": "Προσκοπικό Κατασκηνωτικό Κέντρο \"Θεόδωρος Λίτσας\"",
+      "latitude": 40.600433,
+      "longitude": 23.101151
+    },
+    {
+      "name": "Σκηνή",
+      "latitude": 38.045319,
+      "longitude": 23.44777
+    },
+    {
+      "name": "Σκηνη",
+      "latitude": 38.042052,
+      "longitude": 23.470705
+    },
+    {
+      "name": "Στραβόρεμα",
+      "latitude": 41.493468,
+      "longitude": 24.343857
+    },
+    {
+      "name": "Τα Κονάκια, Σώμα Ελληνικού Οδηγισμού",
+      "latitude": 38.063366,
+      "longitude": 23.98668
+    },
+    {
+      "name": "ΧΑΝΘ",
+      "latitude": 40.658228,
+      "longitude": 21.500865
+    },
+    {
+      "name": "Бухта осьминогов",
+      "latitude": 35.425115,
+      "longitude": 24.258937
+    },
+    {
+      "name": "🐴 Claudia/WERNER",
+      "latitude": 38.650256,
+      "longitude": 23.937498
+    }
+  ],
+  "meta": {
+    "title": "Κάμπινγκ Ελλάδας - Δωρεάν λήψη",
+    "description": "Χώροι κατασκήνωσης (κάμπινγκ) σε όλη την Ελλάδα από το OpenStreetMap. Campsites across Greece. Περιέχει 345 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κάμπινγκ Ελλάδας | ListBase",
+    "seo_description": "Λήψη Κάμπινγκ Ελλάδας — 345 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 345 εγγραφές / 3 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

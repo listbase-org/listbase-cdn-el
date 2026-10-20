@@ -1,0 +1,100 @@
+{
+  "id": "el-dytikis-elladas-ethnikoi-drymoi",
+  "name": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Ελλάδας",
+  "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Ελλάδας",
+  "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Δυτικής Ελλάδας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Δυτικής Ελλάδας.)",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 1,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "established_year",
+      "label": "Established Year",
+      "type": "number"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q16331019",
+      "name_el": "Εθνικό Πάρκο Υγροτόπων Κοτυχίου Στροφυλιάς",
+      "name_en": "Kotychi and Strofylia Wetlands National Park",
+      "latitude": 38.121829,
+      "longitude": 21.37094,
+      "established_year": 2009,
+      "area_ha": 159.75,
+      "region": "Περιφέρεια Δυτικής Ελλάδας",
+      "regional_unit": "Περιφερειακή Ενότητα Ηλείας",
+      "municipality": "Δήμος Δυτικής Αχαΐας",
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%95%CE%B8%CE%BD%CE%B9%CE%BA%CF%8C_%CE%A0%CE%AC%CF%81%CE%BA%CE%BF_%CF%85%CE%B3%CF%81%CE%BF%CF%84%CF%8C%CF%80%CF%89%CE%BD_%CE%9A%CE%BF%CF%84%CF%85%CF%87%CE%AF%CE%BF%CF%85_%E2%80%93_%CE%A3%CF%84%CF%81%CE%BF%CF%86%CF%85%CE%BB%CE%B9%CE%AC%CF%82"
+    }
+  ],
+  "meta": {
+    "title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Ελλάδας - Δωρεάν λήψη",
+    "description": "Εθνικοί δρυμοί και εθνικά πάρκα στην Περιφέρεια Δυτικής Ελλάδας. Υποσύνολο του καταλόγου «Εθνικοί δρυμοί και εθνικά πάρκα της Ελλάδας», φιλτραρισμένο ανά περιφέρεια μέσω της ιδιότητας διοικητικής υπαγωγής (Wikidata P131* -> περιφέρεια Q207299). Πηγή: Wikidata. (National parks of Greece in Περιφέρεια Δυτικής Ελλάδας.) Περιέχει 1 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Ελλάδας | ListBase",
+    "seo_description": "Λήψη Εθνικοί δρυμοί και εθνικά πάρκα — Περιφέρεια Δυτικής Ελλάδας — 1 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 1 εγγραφές / 12 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

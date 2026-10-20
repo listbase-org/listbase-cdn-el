@@ -1,0 +1,982 @@
+{
+  "id": "el-rethymnoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Ρεθυμνου (133)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Ρεθυμνου (133)",
+  "description": "Οι 133 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ρεθυμνου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "440601",
+      "name": "Αγιας Γαληνης",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440602",
+      "name": "Ακουμιων",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440603",
+      "name": "Αρδακτου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440604",
+      "name": "Δριμισκου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440605",
+      "name": "Καρινων",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440606",
+      "name": "Κεντροχωριου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440607",
+      "name": "Κεραμε",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440608",
+      "name": "Κισσου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440609",
+      "name": "Κρυας Βρυσης",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440610",
+      "name": "Λαμπινης",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440611",
+      "name": "Μελαμπων",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440612",
+      "name": "Μουρνες",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440613",
+      "name": "Μυξορρουμα",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440614",
+      "name": "Ορνες",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440615",
+      "name": "Σακτουριων",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440616",
+      "name": "Σπηλιου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441101",
+      "name": "Αγιου Βασιλειου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441102",
+      "name": "Αγιου Ιωαννου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441103",
+      "name": "Αγκουσελιανων",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441104",
+      "name": "Ασωματου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441105",
+      "name": "Κοξαρες",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441106",
+      "name": "Λευκογειων",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441107",
+      "name": "Μαριου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441108",
+      "name": "Μυρθιου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441109",
+      "name": "Ροδακινου",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441110",
+      "name": "Σελλιων",
+      "municipality": "Αγιου Βασιλειου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440501",
+      "name": "Αγιας Παρασκευης",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440502",
+      "name": "Αγιου Ιωαννου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440503",
+      "name": "Αποδουλου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440504",
+      "name": "Βιζαριου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440505",
+      "name": "Κουρουτων",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440506",
+      "name": "Λαμπιωτων",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440507",
+      "name": "Λοχριας",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440508",
+      "name": "Νιθαυρεως",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440509",
+      "name": "Πετροχωριου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440510",
+      "name": "Πλατανιων",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440511",
+      "name": "Πλατανου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440512",
+      "name": "Φουρφουρα",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441001",
+      "name": "Αμαριου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441002",
+      "name": "Ανω Μερους",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441003",
+      "name": "Αποστολων",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441004",
+      "name": "Βισταγης",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441005",
+      "name": "Βρυσων",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441006",
+      "name": "Βωλεωνων",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441007",
+      "name": "Γερακαριου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441008",
+      "name": "Ελενων",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441009",
+      "name": "Θρονου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441010",
+      "name": "Καλογερου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441011",
+      "name": "Μερωνα",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441012",
+      "name": "Μοναστηρακιου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441013",
+      "name": "Παντανασσης",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441014",
+      "name": "Πατσου",
+      "municipality": "Αμαριου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440101",
+      "name": "Ανωγειων",
+      "municipality": "Ανωγειων",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440301",
+      "name": "Αγγελιανων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440302",
+      "name": "Αγιου Μαμαντος",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440303",
+      "name": "Αλφας",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440304",
+      "name": "Αχλαδε",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440305",
+      "name": "Καλανδαρες",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440306",
+      "name": "Μαργαριτων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440307",
+      "name": "Μελιδονιου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440308",
+      "name": "Μελισσουργακιου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440309",
+      "name": "Ορθε",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440310",
+      "name": "Πανορμου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440311",
+      "name": "Πασαλιτων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440312",
+      "name": "Περαματος",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440313",
+      "name": "Ρουμελης",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440314",
+      "name": "Σισων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440315",
+      "name": "Σκεπαστης",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440316",
+      "name": "Χουμεριου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "441201",
+      "name": "Ζωνιανων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440401",
+      "name": "Αγιας",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440402",
+      "name": "Αγιου Ιωαννου Μυλοποταμου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440403",
+      "name": "Αϊμονα",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440404",
+      "name": "Αλοϊδων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440405",
+      "name": "Αξου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440406",
+      "name": "Απλαδιανων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440407",
+      "name": "Βενιου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440408",
+      "name": "Γαραζου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440409",
+      "name": "Δαμαβολου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440410",
+      "name": "Δοξαρου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440411",
+      "name": "Επισκοπης",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440112",
+      "name": "Θεοδωρας",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440413",
+      "name": "Καλυβου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440414",
+      "name": "Κρυονεριου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440415",
+      "name": "Λιβαδιων",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440416",
+      "name": "Χωνου",
+      "municipality": "Μυλοποταμου",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440201",
+      "name": "Αδελε",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440202",
+      "name": "Αμνατου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440203",
+      "name": "Αρχαιας Ελευθερνας(Πρινε)",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440204",
+      "name": "Ελευθερνης",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440205",
+      "name": "Ερφων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440206",
+      "name": "Κυριαννας",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440207",
+      "name": "Μεσης",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440208",
+      "name": "Παγκαλοχωριου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440209",
+      "name": "Πηγης",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440210",
+      "name": "Πρινου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440211",
+      "name": "Σκουλουφιων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440212",
+      "name": "Χαμαλευριου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440213",
+      "name": "Χαρκιων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440701",
+      "name": "Αργυρουπολεως",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440702",
+      "name": "Αρχοντικης",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440703",
+      "name": "Βιλανδρεδου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440704",
+      "name": "Επισκοπης",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440705",
+      "name": "Καρωτη",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440706",
+      "name": "Κατω Πορου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440707",
+      "name": "Κουφης",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440708",
+      "name": "Μυριοκεφαλων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440803",
+      "name": "Ατσιποπουλου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440801",
+      "name": "Αγιου Κωνσταντινου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440802",
+      "name": "Ανω Βαλσαμονερου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440804",
+      "name": "Γερανιου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440805",
+      "name": "Γωνιας",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440806",
+      "name": "Ζουριδιου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440807",
+      "name": "Καλονυκτου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440808",
+      "name": "Κατω Βαλσαμονερου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440809",
+      "name": "Μαλακιων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440810",
+      "name": "Μουντρου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440811",
+      "name": "Πρινε",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440812",
+      "name": "Ρουστικων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440813",
+      "name": "Σαϊτουρων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440814",
+      "name": "Φραντζεσκιανων Μετοχιων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440909",
+      "name": "Ρεθυμνης",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440901",
+      "name": "Αρμενων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440902",
+      "name": "Γουλεδιανων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440903",
+      "name": "Καρες",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440904",
+      "name": "Καστελλου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440905",
+      "name": "Κουμων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440906",
+      "name": "Μαρουλα",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440907",
+      "name": "Ορους",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440908",
+      "name": "Πρασιων",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440910",
+      "name": "Ρουσσοσπιτιου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440911",
+      "name": "Σελλιου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "440912",
+      "name": "Χρομοναστηριου",
+      "municipality": "Ρεθυμνης",
+      "regional_unit": "Ρεθυμνου",
+      "region": "Κρητης"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Ρεθυμνου (133) - Δωρεάν λήψη",
+    "description": "Οι 133 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ρεθυμνου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη. Περιέχει 133 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Ρεθυμνου (133) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Ρεθυμνου (133) — 133 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 133 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

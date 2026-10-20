@@ -1,0 +1,186 @@
+{
+  "id": "el-peloponnisou-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Πελοποννήσου",
+  "title": "Αεροδρόμια — Περιφέρεια Πελοποννήσου",
+  "description": "Αεροδρόμια στην «Περιφέρεια Πελοποννήσου» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Peloponnese Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 5,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LG55",
+      "iata": "",
+      "name": "Triodhon Airport",
+      "name_slug": "triodhon-airport",
+      "city": "Triodhon",
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "perifereia_source": "Peloponnese",
+      "perifereia_slug": "peloponnisou",
+      "perifereia_en": "Peloponnese Region",
+      "country": "GR",
+      "elevation_ft": 36,
+      "lat": 37.0941009521,
+      "lon": 21.9904003143,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    },
+    {
+      "icao": "LGHL",
+      "iata": "PKH",
+      "name": "Porto Cheli Airport",
+      "name_slug": "porto-cheli-airport",
+      "city": "Porto Cheli",
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "perifereia_source": "Peloponnese",
+      "perifereia_slug": "peloponnisou",
+      "perifereia_en": "Peloponnese Region",
+      "country": "GR",
+      "elevation_ft": 69,
+      "lat": 37.2975006104,
+      "lon": 23.1478004456,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKL",
+      "iata": "KLX",
+      "name": "Kalamata Airport",
+      "name_slug": "kalamata-airport",
+      "city": "Kalamata",
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "perifereia_source": "Peloponnese",
+      "perifereia_slug": "peloponnisou",
+      "perifereia_en": "Peloponnese Region",
+      "country": "GR",
+      "elevation_ft": 26,
+      "lat": 37.0682983398,
+      "lon": 22.0254993439,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGSP",
+      "iata": "SPJ",
+      "name": "Sparti Airport",
+      "name_slug": "sparti-airport",
+      "city": "Sparti",
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "perifereia_source": "Peloponnese",
+      "perifereia_slug": "peloponnisou",
+      "perifereia_en": "Peloponnese Region",
+      "country": "GR",
+      "elevation_ft": 500,
+      "lat": 36.9738998413,
+      "lon": 22.5263004303,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGTP",
+      "iata": "",
+      "name": "Tripolis Airport",
+      "name_slug": "tripolis-airport",
+      "city": "Tripoli",
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "perifereia_source": "Peloponnese",
+      "perifereia_slug": "peloponnisou",
+      "perifereia_en": "Peloponnese Region",
+      "country": "GR",
+      "elevation_ft": 2113,
+      "lat": 37.5306015015,
+      "lon": 22.4036006927,
+      "timezone": "Europe/Athens",
+      "has_iata": false
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Πελοποννήσου - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Πελοποννήσου» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Peloponnese Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 5 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Πελοποννήσου | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Πελοποννήσου — 5 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 5 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

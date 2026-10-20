@@ -1,0 +1,3894 @@
+{
+  "id": "el-attikis-trapezes-katastimata",
+  "name": "Τραπεζικά καταστήματα — Περιφέρεια Αττικής",
+  "title": "Τραπεζικά καταστήματα — Περιφέρεια Αττικής",
+  "description": "Σημεία τραπεζικών καταστημάτων στην Περιφέρεια Αττικής με ελληνική ονομασία, αγγλική ονομασία (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-10-01). (Bank branch locations in Attica; distinct from el-trapezes which lists SWIFT/BIC institution codes.)",
+  "category": "finance",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 549,
+  "columns": [
+    {
+      "key": "source_id",
+      "label": "Source Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "source_id": 13,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.981133,
+      "longitude": 23.7283786
+    },
+    {
+      "source_id": 16,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9804623,
+      "longitude": 23.730401
+    },
+    {
+      "source_id": 39,
+      "name": "Ταμείο Παρακαταθηκών & Δανείων",
+      "name_en": "Consignment Deposits and Loans Fund",
+      "latitude": 37.9799884,
+      "longitude": 23.7360008
+    },
+    {
+      "source_id": 95,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.981494,
+      "longitude": 23.7294371
+    },
+    {
+      "source_id": 96,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9809508,
+      "longitude": 23.7296866
+    },
+    {
+      "source_id": 104,
+      "name": "Τράπεζα της Ελλάδος",
+      "name_en": "Bank of Greece",
+      "latitude": 37.9786965,
+      "longitude": 23.7335139
+    },
+    {
+      "source_id": 125,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.7140435,
+      "longitude": 24.0551441
+    },
+    {
+      "source_id": 822,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.8636791,
+      "longitude": 23.749055
+    },
+    {
+      "source_id": 830,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.980847,
+      "longitude": 23.731372
+    },
+    {
+      "source_id": 831,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9803485,
+      "longitude": 23.7316993
+    },
+    {
+      "source_id": 840,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8748271,
+      "longitude": 23.7564327
+    },
+    {
+      "source_id": 882,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9853836,
+      "longitude": 23.765026
+    },
+    {
+      "source_id": 885,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0823844,
+      "longitude": 23.7324776
+    },
+    {
+      "source_id": 886,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0944274,
+      "longitude": 23.7517371
+    },
+    {
+      "source_id": 1008,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9707996,
+      "longitude": 23.7304656
+    },
+    {
+      "source_id": 1055,
+      "name": "Attica",
+      "name_en": "",
+      "latitude": 37.9420322,
+      "longitude": 23.6459449
+    },
+    {
+      "source_id": 1115,
+      "name": "Παγκρήτια Τράπεζα",
+      "name_en": "",
+      "latitude": 37.9748254,
+      "longitude": 23.7344427
+    },
+    {
+      "source_id": 1116,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9747305,
+      "longitude": 23.734812
+    },
+    {
+      "source_id": 1403,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9782589,
+      "longitude": 23.7307529
+    },
+    {
+      "source_id": 1420,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9803648,
+      "longitude": 23.7287701
+    },
+    {
+      "source_id": 1421,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9807056,
+      "longitude": 23.7287777
+    },
+    {
+      "source_id": 1422,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9806683,
+      "longitude": 23.7290139
+    },
+    {
+      "source_id": 1423,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9805689,
+      "longitude": 23.7287424
+    },
+    {
+      "source_id": 1434,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9797324,
+      "longitude": 23.7300575
+    },
+    {
+      "source_id": 1524,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9810245,
+      "longitude": 23.7289953
+    },
+    {
+      "source_id": 1645,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.073267,
+      "longitude": 23.8119802
+    },
+    {
+      "source_id": 1903,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9871228,
+      "longitude": 23.7564249
+    },
+    {
+      "source_id": 2465,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0323053,
+      "longitude": 23.7098372
+    },
+    {
+      "source_id": 2466,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0318965,
+      "longitude": 23.7094827
+    },
+    {
+      "source_id": 2927,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.1383957,
+      "longitude": 23.85426
+    },
+    {
+      "source_id": 3108,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0021634,
+      "longitude": 23.7739254
+    },
+    {
+      "source_id": 3110,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0047304,
+      "longitude": 23.7765086
+    },
+    {
+      "source_id": 3139,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9098747,
+      "longitude": 23.7516849
+    },
+    {
+      "source_id": 3168,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9074888,
+      "longitude": 23.7526348
+    },
+    {
+      "source_id": 3183,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8979047,
+      "longitude": 23.7470972
+    },
+    {
+      "source_id": 3255,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0517362,
+      "longitude": 23.8382777
+    },
+    {
+      "source_id": 3494,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0076093,
+      "longitude": 23.8595056
+    },
+    {
+      "source_id": 3748,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8092808,
+      "longitude": 23.9766788
+    },
+    {
+      "source_id": 4163,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.7164373,
+      "longitude": 24.0544579
+    },
+    {
+      "source_id": 4178,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.7113847,
+      "longitude": 24.0547992
+    },
+    {
+      "source_id": 4180,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0129462,
+      "longitude": 23.7354175
+    },
+    {
+      "source_id": 4216,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.7172048,
+      "longitude": 24.0543411
+    },
+    {
+      "source_id": 4929,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.7465128,
+      "longitude": 23.4276949
+    },
+    {
+      "source_id": 4930,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.7465129,
+      "longitude": 23.4275812
+    },
+    {
+      "source_id": 4931,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.7465136,
+      "longitude": 23.427318
+    },
+    {
+      "source_id": 4935,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.7458331,
+      "longitude": 23.4292246
+    },
+    {
+      "source_id": 5056,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9671673,
+      "longitude": 23.6504621
+    },
+    {
+      "source_id": 5063,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9640869,
+      "longitude": 23.5706467
+    },
+    {
+      "source_id": 5067,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9625712,
+      "longitude": 23.6764734
+    },
+    {
+      "source_id": 5089,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0588932,
+      "longitude": 23.7135883
+    },
+    {
+      "source_id": 5123,
+      "name": "National Bank",
+      "name_en": "",
+      "latitude": 38.0201174,
+      "longitude": 24.0086925
+    },
+    {
+      "source_id": 5127,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9857921,
+      "longitude": 23.8504305
+    },
+    {
+      "source_id": 5141,
+      "name": "National Bank",
+      "name_en": "National Bank",
+      "latitude": 38.1346527,
+      "longitude": 23.8577485
+    },
+    {
+      "source_id": 5143,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.1389596,
+      "longitude": 23.8537025
+    },
+    {
+      "source_id": 5147,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9532102,
+      "longitude": 23.8517066
+    },
+    {
+      "source_id": 5157,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0413353,
+      "longitude": 23.686654
+    },
+    {
+      "source_id": 5207,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8396171,
+      "longitude": 23.7676419
+    },
+    {
+      "source_id": 5215,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0877102,
+      "longitude": 23.8176026
+    },
+    {
+      "source_id": 5229,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8827141,
+      "longitude": 23.9329351
+    },
+    {
+      "source_id": 5230,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.883386,
+      "longitude": 23.9331296
+    },
+    {
+      "source_id": 5234,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.1069023,
+      "longitude": 23.8339054
+    },
+    {
+      "source_id": 5235,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0871941,
+      "longitude": 23.817135
+    },
+    {
+      "source_id": 5293,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0418712,
+      "longitude": 23.7550197
+    },
+    {
+      "source_id": 5294,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0450032,
+      "longitude": 23.7563558
+    },
+    {
+      "source_id": 5295,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0429517,
+      "longitude": 23.7535051
+    },
+    {
+      "source_id": 5324,
+      "name": "Alpha Bank",
+      "name_en": "Alpha Bank",
+      "latitude": 37.9252917,
+      "longitude": 23.6919669
+    },
+    {
+      "source_id": 5325,
+      "name": "Optima Bank",
+      "name_en": "Optima Bank",
+      "latitude": 37.9254987,
+      "longitude": 23.6920939
+    },
+    {
+      "source_id": 5326,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9260062,
+      "longitude": 23.6916639
+    },
+    {
+      "source_id": 5428,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.8798545,
+      "longitude": 23.7637628
+    },
+    {
+      "source_id": 5543,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9057426,
+      "longitude": 23.7515092
+    },
+    {
+      "source_id": 5642,
+      "name": "",
+      "name_en": "",
+      "latitude": 36.1497622,
+      "longitude": 22.9869869
+    },
+    {
+      "source_id": 5670,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 36.149581,
+      "longitude": 22.986979
+    },
+    {
+      "source_id": 5860,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9927462,
+      "longitude": 23.7669731
+    },
+    {
+      "source_id": 5910,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9890906,
+      "longitude": 23.7460973
+    },
+    {
+      "source_id": 5917,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9853471,
+      "longitude": 23.7608929
+    },
+    {
+      "source_id": 5918,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9848112,
+      "longitude": 23.7606321
+    },
+    {
+      "source_id": 6035,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9886947,
+      "longitude": 23.7483904
+    },
+    {
+      "source_id": 6042,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.8218531,
+      "longitude": 23.8040566
+    },
+    {
+      "source_id": 6220,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0019807,
+      "longitude": 23.7188838
+    },
+    {
+      "source_id": 6381,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0332254,
+      "longitude": 23.7372461
+    },
+    {
+      "source_id": 6892,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.073614,
+      "longitude": 23.8150525
+    },
+    {
+      "source_id": 7026,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0920531,
+      "longitude": 23.794311
+    },
+    {
+      "source_id": 7291,
+      "name": "Alpha",
+      "name_en": "",
+      "latitude": 37.8735767,
+      "longitude": 23.8624016
+    },
+    {
+      "source_id": 7471,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.055936,
+      "longitude": 23.8078806
+    },
+    {
+      "source_id": 7963,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9568878,
+      "longitude": 23.736033
+    },
+    {
+      "source_id": 8071,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9950121,
+      "longitude": 23.3439758
+    },
+    {
+      "source_id": 8087,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9960533,
+      "longitude": 23.34414
+    },
+    {
+      "source_id": 8088,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9945158,
+      "longitude": 23.3418346
+    },
+    {
+      "source_id": 8106,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9522966,
+      "longitude": 23.6789519
+    },
+    {
+      "source_id": 8115,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0023089,
+      "longitude": 23.7420179
+    },
+    {
+      "source_id": 8116,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0032919,
+      "longitude": 23.7415744
+    },
+    {
+      "source_id": 8117,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0032033,
+      "longitude": 23.7417142
+    },
+    {
+      "source_id": 8140,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9904042,
+      "longitude": 23.7307696
+    },
+    {
+      "source_id": 8146,
+      "name": "HSBC",
+      "name_en": "",
+      "latitude": 37.9912855,
+      "longitude": 23.7706034
+    },
+    {
+      "source_id": 8148,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0009731,
+      "longitude": 23.727398
+    },
+    {
+      "source_id": 8149,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.979767,
+      "longitude": 23.7270895
+    },
+    {
+      "source_id": 8179,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0442098,
+      "longitude": 23.8057478
+    },
+    {
+      "source_id": 8205,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9746188,
+      "longitude": 23.7660748
+    },
+    {
+      "source_id": 8240,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0270606,
+      "longitude": 23.7249911
+    },
+    {
+      "source_id": 8245,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0324068,
+      "longitude": 23.7374874
+    },
+    {
+      "source_id": 8246,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0333475,
+      "longitude": 23.7373761
+    },
+    {
+      "source_id": 8260,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8657848,
+      "longitude": 23.7451995
+    },
+    {
+      "source_id": 8282,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.4987078,
+      "longitude": 23.45248
+    },
+    {
+      "source_id": 8312,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.5003237,
+      "longitude": 23.4521508
+    },
+    {
+      "source_id": 8352,
+      "name": "Alpha Bank",
+      "name_en": "Alpha Bank",
+      "latitude": 37.979632,
+      "longitude": 23.7638148
+    },
+    {
+      "source_id": 8353,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9781101,
+      "longitude": 23.7695166
+    },
+    {
+      "source_id": 8354,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9256526,
+      "longitude": 23.7416135
+    },
+    {
+      "source_id": 8373,
+      "name": "Eurobank",
+      "name_en": "Eurobank",
+      "latitude": 37.978077,
+      "longitude": 23.7687504
+    },
+    {
+      "source_id": 8415,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0233596,
+      "longitude": 23.7362858
+    },
+    {
+      "source_id": 8416,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0221388,
+      "longitude": 23.7356892
+    },
+    {
+      "source_id": 8417,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0231229,
+      "longitude": 23.7362391
+    },
+    {
+      "source_id": 8422,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0360459,
+      "longitude": 23.8250584
+    },
+    {
+      "source_id": 8423,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0379857,
+      "longitude": 23.8281043
+    },
+    {
+      "source_id": 8424,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0376351,
+      "longitude": 23.8276457
+    },
+    {
+      "source_id": 8430,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0596376,
+      "longitude": 23.7390539
+    },
+    {
+      "source_id": 8523,
+      "name": "Παγκρήτια τράπεζα",
+      "name_en": "",
+      "latitude": 37.9776473,
+      "longitude": 23.7362022
+    },
+    {
+      "source_id": 8610,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.028007,
+      "longitude": 23.7890669
+    },
+    {
+      "source_id": 8613,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0035914,
+      "longitude": 23.7750525
+    },
+    {
+      "source_id": 8626,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0302711,
+      "longitude": 23.7791909
+    },
+    {
+      "source_id": 8671,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0512709,
+      "longitude": 23.8386527
+    },
+    {
+      "source_id": 8672,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0514307,
+      "longitude": 23.838556
+    },
+    {
+      "source_id": 8677,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0513445,
+      "longitude": 23.8362272
+    },
+    {
+      "source_id": 8678,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.053213,
+      "longitude": 23.8394119
+    },
+    {
+      "source_id": 8680,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0836651,
+      "longitude": 23.7371526
+    },
+    {
+      "source_id": 8681,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0338314,
+      "longitude": 23.7592874
+    },
+    {
+      "source_id": 8689,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0413248,
+      "longitude": 23.754959
+    },
+    {
+      "source_id": 8694,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0879865,
+      "longitude": 23.8170652
+    },
+    {
+      "source_id": 8695,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0882121,
+      "longitude": 23.8173613
+    },
+    {
+      "source_id": 8696,
+      "name": "Attica",
+      "name_en": "",
+      "latitude": 38.0879923,
+      "longitude": 23.8180723
+    },
+    {
+      "source_id": 8700,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9963777,
+      "longitude": 23.7274995
+    },
+    {
+      "source_id": 8736,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.993273,
+      "longitude": 23.7666386
+    },
+    {
+      "source_id": 8737,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.976161,
+      "longitude": 23.7611149
+    },
+    {
+      "source_id": 8742,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0909293,
+      "longitude": 23.7966571
+    },
+    {
+      "source_id": 8743,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.862692,
+      "longitude": 23.7486677
+    },
+    {
+      "source_id": 8825,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0078874,
+      "longitude": 23.8576718
+    },
+    {
+      "source_id": 8830,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.983291,
+      "longitude": 23.7684497
+    },
+    {
+      "source_id": 8832,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9829253,
+      "longitude": 23.7675619
+    },
+    {
+      "source_id": 8838,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9277172,
+      "longitude": 23.7438982
+    },
+    {
+      "source_id": 8845,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9933812,
+      "longitude": 23.7492361
+    },
+    {
+      "source_id": 8848,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9925886,
+      "longitude": 23.7611357
+    },
+    {
+      "source_id": 8852,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0105362,
+      "longitude": 23.7811329
+    },
+    {
+      "source_id": 8866,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0081019,
+      "longitude": 23.857084
+    },
+    {
+      "source_id": 8883,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9898892,
+      "longitude": 23.7940296
+    },
+    {
+      "source_id": 8884,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9896648,
+      "longitude": 23.7929832
+    },
+    {
+      "source_id": 8896,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9934118,
+      "longitude": 23.7992905
+    },
+    {
+      "source_id": 8930,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9960161,
+      "longitude": 23.7399784
+    },
+    {
+      "source_id": 8946,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0171874,
+      "longitude": 23.7284447
+    },
+    {
+      "source_id": 8948,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0814988,
+      "longitude": 23.7375377
+    },
+    {
+      "source_id": 8951,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0826978,
+      "longitude": 23.7366966
+    },
+    {
+      "source_id": 8959,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9809105,
+      "longitude": 23.8518589
+    },
+    {
+      "source_id": 8961,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9121718,
+      "longitude": 23.7134428
+    },
+    {
+      "source_id": 8969,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9980861,
+      "longitude": 23.7221844
+    },
+    {
+      "source_id": 8970,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9961978,
+      "longitude": 23.7230041
+    },
+    {
+      "source_id": 8972,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.991163,
+      "longitude": 23.6835526
+    },
+    {
+      "source_id": 8979,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9941276,
+      "longitude": 23.7687783
+    },
+    {
+      "source_id": 8986,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9412618,
+      "longitude": 23.6504451
+    },
+    {
+      "source_id": 8991,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0499749,
+      "longitude": 23.7637268
+    },
+    {
+      "source_id": 8992,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0476148,
+      "longitude": 23.7670406
+    },
+    {
+      "source_id": 8993,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0469787,
+      "longitude": 23.7591659
+    },
+    {
+      "source_id": 8999,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0005602,
+      "longitude": 23.7304606
+    },
+    {
+      "source_id": 9032,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9907782,
+      "longitude": 23.6851238
+    },
+    {
+      "source_id": 9033,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.990905,
+      "longitude": 23.684641
+    },
+    {
+      "source_id": 9034,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9909537,
+      "longitude": 23.6832141
+    },
+    {
+      "source_id": 9035,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9909135,
+      "longitude": 23.6834206
+    },
+    {
+      "source_id": 9036,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9927103,
+      "longitude": 23.677914
+    },
+    {
+      "source_id": 9038,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9136084,
+      "longitude": 23.7091651
+    },
+    {
+      "source_id": 9041,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9109039,
+      "longitude": 23.7501305
+    },
+    {
+      "source_id": 9042,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8940721,
+      "longitude": 23.7627985
+    },
+    {
+      "source_id": 9050,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.963607,
+      "longitude": 23.6581105
+    },
+    {
+      "source_id": 9104,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9450123,
+      "longitude": 23.6449486
+    },
+    {
+      "source_id": 9105,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9408592,
+      "longitude": 23.6497153
+    },
+    {
+      "source_id": 9111,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9395771,
+      "longitude": 23.6486232
+    },
+    {
+      "source_id": 9113,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0209268,
+      "longitude": 23.7533019
+    },
+    {
+      "source_id": 9139,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9666043,
+      "longitude": 23.7289575
+    },
+    {
+      "source_id": 9141,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9663123,
+      "longitude": 23.7285429
+    },
+    {
+      "source_id": 9149,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0430201,
+      "longitude": 23.845883
+    },
+    {
+      "source_id": 9166,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.910929,
+      "longitude": 23.7459552
+    },
+    {
+      "source_id": 9172,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0459847,
+      "longitude": 23.7659863
+    },
+    {
+      "source_id": 9188,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9394005,
+      "longitude": 23.6406919
+    },
+    {
+      "source_id": 9189,
+      "name": "Alpha",
+      "name_en": "",
+      "latitude": 37.9403161,
+      "longitude": 23.6413778
+    },
+    {
+      "source_id": 9190,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9419134,
+      "longitude": 23.6427152
+    },
+    {
+      "source_id": 9192,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9462018,
+      "longitude": 23.6460137
+    },
+    {
+      "source_id": 9196,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9423609,
+      "longitude": 23.6431111
+    },
+    {
+      "source_id": 9201,
+      "name": "NBG",
+      "name_en": "",
+      "latitude": 37.9439199,
+      "longitude": 23.719372
+    },
+    {
+      "source_id": 9202,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.2146971,
+      "longitude": 23.8762
+    },
+    {
+      "source_id": 9206,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.2172196,
+      "longitude": 23.8765782
+    },
+    {
+      "source_id": 9213,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0498036,
+      "longitude": 23.7484127
+    },
+    {
+      "source_id": 9224,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0059591,
+      "longitude": 23.7174728
+    },
+    {
+      "source_id": 9249,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0286426,
+      "longitude": 23.7193672
+    },
+    {
+      "source_id": 9278,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0779618,
+      "longitude": 23.7385836
+    },
+    {
+      "source_id": 9296,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9254092,
+      "longitude": 23.7245658
+    },
+    {
+      "source_id": 9299,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9332916,
+      "longitude": 23.7285362
+    },
+    {
+      "source_id": 9300,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9329907,
+      "longitude": 23.7283409
+    },
+    {
+      "source_id": 9301,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9351753,
+      "longitude": 23.7294564
+    },
+    {
+      "source_id": 9304,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9529794,
+      "longitude": 23.6554905
+    },
+    {
+      "source_id": 9318,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9803763,
+      "longitude": 23.7326387
+    },
+    {
+      "source_id": 9319,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9798541,
+      "longitude": 23.7331147
+    },
+    {
+      "source_id": 9320,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9676086,
+      "longitude": 23.7543341
+    },
+    {
+      "source_id": 9326,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0343619,
+      "longitude": 23.7378129
+    },
+    {
+      "source_id": 9331,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0286671,
+      "longitude": 23.734028
+    },
+    {
+      "source_id": 9346,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9101893,
+      "longitude": 23.7129114
+    },
+    {
+      "source_id": 9353,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0585088,
+      "longitude": 23.755424
+    },
+    {
+      "source_id": 9358,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.1149009,
+      "longitude": 23.8281141
+    },
+    {
+      "source_id": 9370,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9455826,
+      "longitude": 23.6454795
+    },
+    {
+      "source_id": 9377,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.1010519,
+      "longitude": 23.8082463
+    },
+    {
+      "source_id": 9378,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1014187,
+      "longitude": 23.8093488
+    },
+    {
+      "source_id": 9411,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0592155,
+      "longitude": 23.7140086
+    },
+    {
+      "source_id": 9414,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0585803,
+      "longitude": 23.7136212
+    },
+    {
+      "source_id": 9419,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9124487,
+      "longitude": 23.7097708
+    },
+    {
+      "source_id": 9422,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0160216,
+      "longitude": 23.6909713
+    },
+    {
+      "source_id": 9444,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9706156,
+      "longitude": 23.6535376
+    },
+    {
+      "source_id": 9445,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9708813,
+      "longitude": 23.6533948
+    },
+    {
+      "source_id": 9455,
+      "name": "Εθνική",
+      "name_en": "",
+      "latitude": 38.0043834,
+      "longitude": 23.7230588
+    },
+    {
+      "source_id": 9472,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9363976,
+      "longitude": 23.6413897
+    },
+    {
+      "source_id": 9478,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9457366,
+      "longitude": 23.6444289
+    },
+    {
+      "source_id": 9503,
+      "name": "Παγκρήτια Συνεταιριστική Τράπεζα",
+      "name_en": "",
+      "latitude": 37.9477607,
+      "longitude": 23.6437536
+    },
+    {
+      "source_id": 9517,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.00002,
+      "longitude": 23.7337137
+    },
+    {
+      "source_id": 9574,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0392416,
+      "longitude": 23.6911191
+    },
+    {
+      "source_id": 9634,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.1404062,
+      "longitude": 23.860035
+    },
+    {
+      "source_id": 9640,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.1573922,
+      "longitude": 23.9593354
+    },
+    {
+      "source_id": 9641,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.1574715,
+      "longitude": 23.9592842
+    },
+    {
+      "source_id": 9672,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0737642,
+      "longitude": 23.7075037
+    },
+    {
+      "source_id": 9682,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0022702,
+      "longitude": 23.4194497
+    },
+    {
+      "source_id": 9703,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9743432,
+      "longitude": 23.7338137
+    },
+    {
+      "source_id": 9724,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9777311,
+      "longitude": 23.7401388
+    },
+    {
+      "source_id": 9782,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.3497558,
+      "longitude": 23.46625
+    },
+    {
+      "source_id": 9790,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.021874,
+      "longitude": 23.7984935
+    },
+    {
+      "source_id": 9803,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9878975,
+      "longitude": 23.7525954
+    },
+    {
+      "source_id": 9840,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.00475,
+      "longitude": 23.701793
+    },
+    {
+      "source_id": 9844,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9570042,
+      "longitude": 23.7032159
+    },
+    {
+      "source_id": 9867,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9526546,
+      "longitude": 23.6556285
+    },
+    {
+      "source_id": 9868,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9508298,
+      "longitude": 23.656821
+    },
+    {
+      "source_id": 9869,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.949408,
+      "longitude": 23.6569817
+    },
+    {
+      "source_id": 9884,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.059183,
+      "longitude": 23.7942031
+    },
+    {
+      "source_id": 9925,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.2651879,
+      "longitude": 23.1584341
+    },
+    {
+      "source_id": 9928,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.2668165,
+      "longitude": 23.1561348
+    },
+    {
+      "source_id": 9930,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.2673184,
+      "longitude": 23.1558765
+    },
+    {
+      "source_id": 9963,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9426808,
+      "longitude": 23.6992413
+    },
+    {
+      "source_id": 9964,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9456394,
+      "longitude": 23.701777
+    },
+    {
+      "source_id": 9965,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9527091,
+      "longitude": 23.7107614
+    },
+    {
+      "source_id": 9968,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.100858,
+      "longitude": 23.8057353
+    },
+    {
+      "source_id": 9977,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0419185,
+      "longitude": 23.7617997
+    },
+    {
+      "source_id": 9979,
+      "name": "Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0440992,
+      "longitude": 23.7521752
+    },
+    {
+      "source_id": 9984,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0047791,
+      "longitude": 23.7010172
+    },
+    {
+      "source_id": 9986,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0055452,
+      "longitude": 23.7007783
+    },
+    {
+      "source_id": 9988,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0130279,
+      "longitude": 23.7533963
+    },
+    {
+      "source_id": 10002,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0036025,
+      "longitude": 23.8774876
+    },
+    {
+      "source_id": 10003,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.003635,
+      "longitude": 23.8771061
+    },
+    {
+      "source_id": 10015,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0129872,
+      "longitude": 23.8189926
+    },
+    {
+      "source_id": 10017,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0385002,
+      "longitude": 23.8281091
+    },
+    {
+      "source_id": 10018,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0412823,
+      "longitude": 23.8325025
+    },
+    {
+      "source_id": 10021,
+      "name": "HSBC",
+      "name_en": "",
+      "latitude": 38.001924,
+      "longitude": 23.7764627
+    },
+    {
+      "source_id": 10038,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9919218,
+      "longitude": 23.6792581
+    },
+    {
+      "source_id": 10039,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9712451,
+      "longitude": 23.7509791
+    },
+    {
+      "source_id": 10040,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9687155,
+      "longitude": 23.7573857
+    },
+    {
+      "source_id": 10041,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9685889,
+      "longitude": 23.7579151
+    },
+    {
+      "source_id": 10126,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9861878,
+      "longitude": 23.7276121
+    },
+    {
+      "source_id": 10131,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0240113,
+      "longitude": 23.8003267
+    },
+    {
+      "source_id": 10134,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0227224,
+      "longitude": 23.8004715
+    },
+    {
+      "source_id": 10135,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0028534,
+      "longitude": 23.7744971
+    },
+    {
+      "source_id": 10136,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0090962,
+      "longitude": 23.7798592
+    },
+    {
+      "source_id": 10137,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.013881,
+      "longitude": 23.7840307
+    },
+    {
+      "source_id": 10156,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9359411,
+      "longitude": 23.6384744
+    },
+    {
+      "source_id": 10159,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9373388,
+      "longitude": 23.6419541
+    },
+    {
+      "source_id": 10261,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9759663,
+      "longitude": 23.7527835
+    },
+    {
+      "source_id": 10276,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9419406,
+      "longitude": 23.6474475
+    },
+    {
+      "source_id": 10289,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9753226,
+      "longitude": 23.7141012
+    },
+    {
+      "source_id": 10293,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9737745,
+      "longitude": 23.7132625
+    },
+    {
+      "source_id": 10311,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9751529,
+      "longitude": 23.732753
+    },
+    {
+      "source_id": 10520,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9845639,
+      "longitude": 23.7393849
+    },
+    {
+      "source_id": 10649,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0848554,
+      "longitude": 23.9775659
+    },
+    {
+      "source_id": 10650,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0817261,
+      "longitude": 23.979239
+    },
+    {
+      "source_id": 10651,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0806032,
+      "longitude": 23.9803205
+    },
+    {
+      "source_id": 10677,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9514463,
+      "longitude": 23.6789645
+    },
+    {
+      "source_id": 10706,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.944273,
+      "longitude": 23.7013341
+    },
+    {
+      "source_id": 10707,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9555184,
+      "longitude": 23.701781
+    },
+    {
+      "source_id": 10708,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.955459,
+      "longitude": 23.7016658
+    },
+    {
+      "source_id": 10721,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.8629165,
+      "longitude": 23.7475311
+    },
+    {
+      "source_id": 10797,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9282718,
+      "longitude": 23.6894221
+    },
+    {
+      "source_id": 10798,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9339181,
+      "longitude": 23.7108211
+    },
+    {
+      "source_id": 10799,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9391713,
+      "longitude": 23.6415392
+    },
+    {
+      "source_id": 10835,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.930902,
+      "longitude": 23.7098782
+    },
+    {
+      "source_id": 10918,
+      "name": "Aegean Baltic",
+      "name_en": "",
+      "latitude": 37.859551,
+      "longitude": 23.7519476
+    },
+    {
+      "source_id": 10960,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9508877,
+      "longitude": 23.679212
+    },
+    {
+      "source_id": 10997,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0471131,
+      "longitude": 23.7666315
+    },
+    {
+      "source_id": 11018,
+      "name": "Alpha",
+      "name_en": "",
+      "latitude": 37.9519546,
+      "longitude": 23.6660753
+    },
+    {
+      "source_id": 11050,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0758652,
+      "longitude": 23.8198053
+    },
+    {
+      "source_id": 11080,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9495552,
+      "longitude": 23.6402135
+    },
+    {
+      "source_id": 11105,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9641926,
+      "longitude": 23.6280689
+    },
+    {
+      "source_id": 11161,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9426459,
+      "longitude": 23.6512481
+    },
+    {
+      "source_id": 11171,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.964308,
+      "longitude": 23.6271871
+    },
+    {
+      "source_id": 11271,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9877572,
+      "longitude": 23.7073903
+    },
+    {
+      "source_id": 11314,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9950354,
+      "longitude": 23.7128715
+    },
+    {
+      "source_id": 11539,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9642583,
+      "longitude": 23.7260395
+    },
+    {
+      "source_id": 11545,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9503261,
+      "longitude": 23.6410445
+    },
+    {
+      "source_id": 11548,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9610855,
+      "longitude": 23.6742869
+    },
+    {
+      "source_id": 11549,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9615313,
+      "longitude": 23.6753101
+    },
+    {
+      "source_id": 11550,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9616227,
+      "longitude": 23.6753748
+    },
+    {
+      "source_id": 11679,
+      "name": "EFG Eurobank ergasias AE",
+      "name_en": "",
+      "latitude": 38.072085,
+      "longitude": 23.8112018
+    },
+    {
+      "source_id": 11695,
+      "name": "Optima Bank",
+      "name_en": "",
+      "latitude": 37.9783346,
+      "longitude": 23.7344151
+    },
+    {
+      "source_id": 11697,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0586081,
+      "longitude": 23.85769
+    },
+    {
+      "source_id": 11700,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0407699,
+      "longitude": 23.831796
+    },
+    {
+      "source_id": 11807,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9794711,
+      "longitude": 23.7294064
+    },
+    {
+      "source_id": 11821,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9897076,
+      "longitude": 23.7587333
+    },
+    {
+      "source_id": 11940,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9781112,
+      "longitude": 23.7351082
+    },
+    {
+      "source_id": 11949,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9782346,
+      "longitude": 23.7350095
+    },
+    {
+      "source_id": 11960,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0197105,
+      "longitude": 24.0062528
+    },
+    {
+      "source_id": 11968,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0050657,
+      "longitude": 23.6872236
+    },
+    {
+      "source_id": 11969,
+      "name": "Attica",
+      "name_en": "Attica",
+      "latitude": 38.0177066,
+      "longitude": 23.692013
+    },
+    {
+      "source_id": 11972,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0123028,
+      "longitude": 23.8197229
+    },
+    {
+      "source_id": 11973,
+      "name": "Attica Bank",
+      "name_en": "",
+      "latitude": 38.0139092,
+      "longitude": 23.8222186
+    },
+    {
+      "source_id": 11975,
+      "name": "Συνεταιριστική Τράπεζα Χανίων",
+      "name_en": "",
+      "latitude": 38.014229,
+      "longitude": 23.8194134
+    },
+    {
+      "source_id": 12008,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9463078,
+      "longitude": 23.6867899
+    },
+    {
+      "source_id": 12050,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9467026,
+      "longitude": 23.7153851
+    },
+    {
+      "source_id": 12052,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9470707,
+      "longitude": 23.7143685
+    },
+    {
+      "source_id": 12053,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9472483,
+      "longitude": 23.713529
+    },
+    {
+      "source_id": 12058,
+      "name": "Attica",
+      "name_en": "Attica",
+      "latitude": 37.9452463,
+      "longitude": 23.7149361
+    },
+    {
+      "source_id": 12060,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9438757,
+      "longitude": 23.7192544
+    },
+    {
+      "source_id": 12064,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9220518,
+      "longitude": 23.706632
+    },
+    {
+      "source_id": 12065,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9659507,
+      "longitude": 23.7313422
+    },
+    {
+      "source_id": 12090,
+      "name": "HSBC",
+      "name_en": "",
+      "latitude": 37.9486884,
+      "longitude": 23.7111622
+    },
+    {
+      "source_id": 12091,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9456342,
+      "longitude": 23.7141099
+    },
+    {
+      "source_id": 12092,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9475336,
+      "longitude": 23.7108645
+    },
+    {
+      "source_id": 12269,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9807007,
+      "longitude": 23.7251606
+    },
+    {
+      "source_id": 12767,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9764261,
+      "longitude": 23.7342525
+    },
+    {
+      "source_id": 12772,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.976431,
+      "longitude": 23.7335931
+    },
+    {
+      "source_id": 12778,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9776465,
+      "longitude": 23.7366636
+    },
+    {
+      "source_id": 12820,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.977162,
+      "longitude": 23.7402586
+    },
+    {
+      "source_id": 12821,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9771217,
+      "longitude": 23.7401375
+    },
+    {
+      "source_id": 12822,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9766367,
+      "longitude": 23.7384522
+    },
+    {
+      "source_id": 13134,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.910855,
+      "longitude": 23.7454179
+    },
+    {
+      "source_id": 13223,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9001016,
+      "longitude": 23.872788
+    },
+    {
+      "source_id": 13292,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.964292,
+      "longitude": 23.5690796
+    },
+    {
+      "source_id": 13296,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0467749,
+      "longitude": 23.8072379
+    },
+    {
+      "source_id": 13297,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0436723,
+      "longitude": 23.8051218
+    },
+    {
+      "source_id": 13300,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9442304,
+      "longitude": 23.7012859
+    },
+    {
+      "source_id": 13301,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0276653,
+      "longitude": 23.7212376
+    },
+    {
+      "source_id": 13615,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9698215,
+      "longitude": 23.7110764
+    },
+    {
+      "source_id": 13767,
+      "name": "Attica",
+      "name_en": "",
+      "latitude": 37.9785098,
+      "longitude": 23.734277
+    },
+    {
+      "source_id": 14113,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8628762,
+      "longitude": 23.7516751
+    },
+    {
+      "source_id": 14137,
+      "name": "Pancretan",
+      "name_en": "",
+      "latitude": 38.0092263,
+      "longitude": 23.697821
+    },
+    {
+      "source_id": 14287,
+      "name": "Pancreta",
+      "name_en": "",
+      "latitude": 37.9397983,
+      "longitude": 23.6481767
+    },
+    {
+      "source_id": 14584,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9908594,
+      "longitude": 23.7704202
+    },
+    {
+      "source_id": 14833,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.8393059,
+      "longitude": 23.9275534
+    },
+    {
+      "source_id": 14893,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9600727,
+      "longitude": 23.7538739
+    },
+    {
+      "source_id": 14945,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.8102272,
+      "longitude": 23.9733307
+    },
+    {
+      "source_id": 15008,
+      "name": "Εθνική",
+      "name_en": "",
+      "latitude": 37.9748165,
+      "longitude": 23.7192898
+    },
+    {
+      "source_id": 15147,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9243616,
+      "longitude": 23.7216047
+    },
+    {
+      "source_id": 15149,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9305057,
+      "longitude": 23.7026857
+    },
+    {
+      "source_id": 15169,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9695292,
+      "longitude": 23.7111414
+    },
+    {
+      "source_id": 15311,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9781904,
+      "longitude": 23.7445386
+    },
+    {
+      "source_id": 15393,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0133033,
+      "longitude": 23.7534948
+    },
+    {
+      "source_id": 15489,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9396242,
+      "longitude": 23.6443539
+    },
+    {
+      "source_id": 15515,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9806427,
+      "longitude": 23.6556956
+    },
+    {
+      "source_id": 15633,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.980741,
+      "longitude": 23.6543073
+    },
+    {
+      "source_id": 15751,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9843229,
+      "longitude": 23.7635773
+    },
+    {
+      "source_id": 15856,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8882972,
+      "longitude": 23.7612192
+    },
+    {
+      "source_id": 15941,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0034099,
+      "longitude": 23.774855
+    },
+    {
+      "source_id": 15965,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0369919,
+      "longitude": 23.7995227
+    },
+    {
+      "source_id": 15966,
+      "name": "HSBC",
+      "name_en": "",
+      "latitude": 38.0724776,
+      "longitude": 23.8120944
+    },
+    {
+      "source_id": 15969,
+      "name": "Optima Bank",
+      "name_en": "",
+      "latitude": 38.0080964,
+      "longitude": 23.7786988
+    },
+    {
+      "source_id": 15970,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0343856,
+      "longitude": 23.7965867
+    },
+    {
+      "source_id": 15981,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0013284,
+      "longitude": 23.737533
+    },
+    {
+      "source_id": 16056,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9868097,
+      "longitude": 23.7608432
+    },
+    {
+      "source_id": 16225,
+      "name": "Optima Bank",
+      "name_en": "",
+      "latitude": 37.9861362,
+      "longitude": 23.7614067
+    },
+    {
+      "source_id": 16361,
+      "name": "Western Union",
+      "name_en": "",
+      "latitude": 37.9464703,
+      "longitude": 23.6424836
+    },
+    {
+      "source_id": 16391,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9903465,
+      "longitude": 23.765464
+    },
+    {
+      "source_id": 16413,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9773343,
+      "longitude": 23.7341033
+    },
+    {
+      "source_id": 16436,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0055033,
+      "longitude": 23.7961098
+    },
+    {
+      "source_id": 16534,
+      "name": "lakouva",
+      "name_en": "",
+      "latitude": 37.9442163,
+      "longitude": 23.7566946
+    },
+    {
+      "source_id": 16894,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9460909,
+      "longitude": 23.6689229
+    },
+    {
+      "source_id": 17016,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0756762,
+      "longitude": 23.7044092
+    },
+    {
+      "source_id": 17022,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0747638,
+      "longitude": 23.7068388
+    },
+    {
+      "source_id": 17243,
+      "name": "Pireaus Bank",
+      "name_en": "",
+      "latitude": 38.1203744,
+      "longitude": 23.8579356
+    },
+    {
+      "source_id": 17249,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.1207883,
+      "longitude": 23.8586604
+    },
+    {
+      "source_id": 17292,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9398858,
+      "longitude": 23.7499763
+    },
+    {
+      "source_id": 17440,
+      "name": "Piraeus",
+      "name_en": "",
+      "latitude": 37.981343,
+      "longitude": 23.7272055
+    },
+    {
+      "source_id": 17468,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0537222,
+      "longitude": 23.8087163
+    },
+    {
+      "source_id": 17493,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9582636,
+      "longitude": 23.685331
+    },
+    {
+      "source_id": 17635,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9773122,
+      "longitude": 23.741429
+    },
+    {
+      "source_id": 17705,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9416572,
+      "longitude": 23.6966732
+    },
+    {
+      "source_id": 17732,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9633708,
+      "longitude": 23.4937964
+    },
+    {
+      "source_id": 17802,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9372887,
+      "longitude": 23.757937
+    },
+    {
+      "source_id": 17873,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9952782,
+      "longitude": 23.345173
+    },
+    {
+      "source_id": 17894,
+      "name": "FairSpot",
+      "name_en": "",
+      "latitude": 37.9850175,
+      "longitude": 23.7324184
+    },
+    {
+      "source_id": 18111,
+      "name": "Εθνική",
+      "name_en": "",
+      "latitude": 37.9441923,
+      "longitude": 23.6852666
+    },
+    {
+      "source_id": 18114,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9862379,
+      "longitude": 23.7617812
+    },
+    {
+      "source_id": 18221,
+      "name": "Alpha Bank",
+      "name_en": "Alpha Bank",
+      "latitude": 37.9776857,
+      "longitude": 23.6502432
+    },
+    {
+      "source_id": 18337,
+      "name": "ΤΡΑΠΕΖΑ ΠΕΙΡΑΙΩΣ",
+      "name_en": "",
+      "latitude": 38.0220279,
+      "longitude": 23.7505867
+    },
+    {
+      "source_id": 18415,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8402294,
+      "longitude": 23.9282168
+    },
+    {
+      "source_id": 18765,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.8834311,
+      "longitude": 23.9336567
+    },
+    {
+      "source_id": 18795,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0977901,
+      "longitude": 23.7981541
+    },
+    {
+      "source_id": 18893,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9536316,
+      "longitude": 23.6982209
+    },
+    {
+      "source_id": 18942,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9721989,
+      "longitude": 23.7101122
+    },
+    {
+      "source_id": 19028,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0126098,
+      "longitude": 23.7290084
+    },
+    {
+      "source_id": 19105,
+      "name": "Alpha",
+      "name_en": "",
+      "latitude": 37.8852963,
+      "longitude": 23.7509891
+    },
+    {
+      "source_id": 19232,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0633651,
+      "longitude": 23.7637988
+    },
+    {
+      "source_id": 19236,
+      "name": "attica bank",
+      "name_en": "",
+      "latitude": 37.9591855,
+      "longitude": 23.734362
+    },
+    {
+      "source_id": 19247,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0269293,
+      "longitude": 23.7175874
+    },
+    {
+      "source_id": 19434,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9487264,
+      "longitude": 23.6289578
+    },
+    {
+      "source_id": 19438,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9489179,
+      "longitude": 23.6292933
+    },
+    {
+      "source_id": 19854,
+      "name": "Εθνική",
+      "name_en": "",
+      "latitude": 37.9924154,
+      "longitude": 23.7143225
+    },
+    {
+      "source_id": 19954,
+      "name": "Western Union",
+      "name_en": "",
+      "latitude": 37.9839718,
+      "longitude": 23.7254614
+    },
+    {
+      "source_id": 20005,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.955668,
+      "longitude": 23.6397796
+    },
+    {
+      "source_id": 20006,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9698347,
+      "longitude": 23.6528973
+    },
+    {
+      "source_id": 20015,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9584052,
+      "longitude": 23.6234184
+    },
+    {
+      "source_id": 20061,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0036449,
+      "longitude": 23.8781083
+    },
+    {
+      "source_id": 20063,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9364639,
+      "longitude": 23.636865
+    },
+    {
+      "source_id": 20080,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9550663,
+      "longitude": 23.6410275
+    },
+    {
+      "source_id": 20130,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.968049,
+      "longitude": 23.6986108
+    },
+    {
+      "source_id": 20142,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9576797,
+      "longitude": 23.6268859
+    },
+    {
+      "source_id": 20151,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9613816,
+      "longitude": 23.6836803
+    },
+    {
+      "source_id": 20156,
+      "name": "National Bank",
+      "name_en": "",
+      "latitude": 37.9677847,
+      "longitude": 23.6970645
+    },
+    {
+      "source_id": 20160,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.96587,
+      "longitude": 23.6231911
+    },
+    {
+      "source_id": 20173,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9691587,
+      "longitude": 23.6516171
+    },
+    {
+      "source_id": 20216,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9883566,
+      "longitude": 23.8507255
+    },
+    {
+      "source_id": 20230,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9543044,
+      "longitude": 23.8539496
+    },
+    {
+      "source_id": 20246,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.1388962,
+      "longitude": 23.8544391
+    },
+    {
+      "source_id": 20321,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.321113,
+      "longitude": 23.792201
+    },
+    {
+      "source_id": 20425,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8198139,
+      "longitude": 23.803162
+    },
+    {
+      "source_id": 20466,
+      "name": "Volkswagen Band",
+      "name_en": "",
+      "latitude": 37.934634,
+      "longitude": 23.7444659
+    },
+    {
+      "source_id": 20499,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.8541685,
+      "longitude": 23.7671721
+    },
+    {
+      "source_id": 20513,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.936412,
+      "longitude": 23.7584911
+    },
+    {
+      "source_id": 20518,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.8598726,
+      "longitude": 23.7547695
+    },
+    {
+      "source_id": 20558,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "",
+      "latitude": 37.9506264,
+      "longitude": 23.7378314
+    },
+    {
+      "source_id": 20662,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9675521,
+      "longitude": 23.7482947
+    },
+    {
+      "source_id": 20664,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9677414,
+      "longitude": 23.7464976
+    },
+    {
+      "source_id": 20672,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.1208758,
+      "longitude": 23.8581164
+    },
+    {
+      "source_id": 20766,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.8925395,
+      "longitude": 23.7598644
+    },
+    {
+      "source_id": 20770,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.8925533,
+      "longitude": 23.7584536
+    },
+    {
+      "source_id": 20772,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.8922295,
+      "longitude": 23.7566575
+    },
+    {
+      "source_id": 20791,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9820306,
+      "longitude": 23.7564453
+    },
+    {
+      "source_id": 20792,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9837282,
+      "longitude": 23.7628544
+    },
+    {
+      "source_id": 20837,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9812513,
+      "longitude": 23.73191
+    },
+    {
+      "source_id": 20840,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9766915,
+      "longitude": 23.7738568
+    },
+    {
+      "source_id": 20861,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.018925,
+      "longitude": 23.8061795
+    },
+    {
+      "source_id": 20889,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0030075,
+      "longitude": 23.7927279
+    },
+    {
+      "source_id": 20890,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0025926,
+      "longitude": 23.7921356
+    },
+    {
+      "source_id": 20927,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0021866,
+      "longitude": 23.7340693
+    },
+    {
+      "source_id": 20950,
+      "name": "Εθνικη Τραπεζα",
+      "name_en": "",
+      "latitude": 38.0371257,
+      "longitude": 23.7670796
+    },
+    {
+      "source_id": 21062,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0320156,
+      "longitude": 23.7476545
+    },
+    {
+      "source_id": 21180,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0563002,
+      "longitude": 23.7133335
+    },
+    {
+      "source_id": 21181,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0563566,
+      "longitude": 23.7133543
+    },
+    {
+      "source_id": 21475,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9466423,
+      "longitude": 23.6444727
+    },
+    {
+      "source_id": 22068,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0116317,
+      "longitude": 23.697038
+    },
+    {
+      "source_id": 22186,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9554022,
+      "longitude": 23.7016009
+    },
+    {
+      "source_id": 22210,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9619825,
+      "longitude": 23.7440196
+    },
+    {
+      "source_id": 22211,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.949681,
+      "longitude": 23.7368491
+    },
+    {
+      "source_id": 22399,
+      "name": "Attica",
+      "name_en": "Attica",
+      "latitude": 38.0448931,
+      "longitude": 23.7566722
+    },
+    {
+      "source_id": 22438,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0228118,
+      "longitude": 23.73008
+    },
+    {
+      "source_id": 22484,
+      "name": "Alpha Bank",
+      "name_en": "Alpha Bank",
+      "latitude": 37.709186,
+      "longitude": 23.3639929
+    },
+    {
+      "source_id": 22698,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0462199,
+      "longitude": 23.76722
+    },
+    {
+      "source_id": 22919,
+      "name": "Alpha Bank",
+      "name_en": "Alpha Bank",
+      "latitude": 38.0007817,
+      "longitude": 23.737552
+    },
+    {
+      "source_id": 22997,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9918668,
+      "longitude": 23.7298213
+    },
+    {
+      "source_id": 23034,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9625055,
+      "longitude": 23.7107757
+    },
+    {
+      "source_id": 23270,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0453043,
+      "longitude": 23.7574053
+    },
+    {
+      "source_id": 23346,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9463541,
+      "longitude": 23.7152434
+    },
+    {
+      "source_id": 23403,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.987567,
+      "longitude": 23.7293333
+    },
+    {
+      "source_id": 23404,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9867513,
+      "longitude": 23.7288213
+    },
+    {
+      "source_id": 23419,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.8835826,
+      "longitude": 23.9348311
+    },
+    {
+      "source_id": 23420,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9676683,
+      "longitude": 23.7491696
+    },
+    {
+      "source_id": 23452,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9850061,
+      "longitude": 23.720516
+    },
+    {
+      "source_id": 23454,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9918423,
+      "longitude": 23.7014918
+    },
+    {
+      "source_id": 23485,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.054467,
+      "longitude": 23.8079076
+    },
+    {
+      "source_id": 23492,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9837109,
+      "longitude": 23.7291654
+    },
+    {
+      "source_id": 23493,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9853704,
+      "longitude": 23.7315873
+    },
+    {
+      "source_id": 23523,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.977906,
+      "longitude": 23.7389217
+    },
+    {
+      "source_id": 23528,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0597056,
+      "longitude": 23.7879511
+    },
+    {
+      "source_id": 23529,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0896357,
+      "longitude": 23.7373922
+    },
+    {
+      "source_id": 23531,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9498486,
+      "longitude": 23.6781984
+    },
+    {
+      "source_id": 23547,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9931918,
+      "longitude": 23.6828454
+    },
+    {
+      "source_id": 23551,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9524435,
+      "longitude": 23.7117372
+    },
+    {
+      "source_id": 23572,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0169908,
+      "longitude": 23.8446292
+    },
+    {
+      "source_id": 23573,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0138274,
+      "longitude": 23.8212591
+    },
+    {
+      "source_id": 23574,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.3500045,
+      "longitude": 23.4670504
+    },
+    {
+      "source_id": 23650,
+      "name": "Πειραιώς",
+      "name_en": "",
+      "latitude": 37.349922,
+      "longitude": 23.4667851
+    },
+    {
+      "source_id": 23652,
+      "name": "Alpha",
+      "name_en": "",
+      "latitude": 37.3501032,
+      "longitude": 23.4669292
+    },
+    {
+      "source_id": 23675,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9137272,
+      "longitude": 23.7112524
+    },
+    {
+      "source_id": 23727,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0136147,
+      "longitude": 23.8326214
+    },
+    {
+      "source_id": 23757,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9685528,
+      "longitude": 23.6993994
+    },
+    {
+      "source_id": 23973,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0203217,
+      "longitude": 24.0086474
+    },
+    {
+      "source_id": 24190,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.020381,
+      "longitude": 24.0085958
+    },
+    {
+      "source_id": 24575,
+      "name": "Optima",
+      "name_en": "",
+      "latitude": 38.0543954,
+      "longitude": 23.8070814
+    },
+    {
+      "source_id": 24583,
+      "name": "Συνεταιριστική Τράπεζα Χανίων",
+      "name_en": "",
+      "latitude": 38.0553553,
+      "longitude": 23.8070453
+    },
+    {
+      "source_id": 25067,
+      "name": "Optima",
+      "name_en": "",
+      "latitude": 38.0633817,
+      "longitude": 23.8090207
+    },
+    {
+      "source_id": 25087,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9195165,
+      "longitude": 23.724139
+    },
+    {
+      "source_id": 25187,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9932547,
+      "longitude": 23.7318421
+    },
+    {
+      "source_id": 25530,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9649928,
+      "longitude": 23.5022445
+    },
+    {
+      "source_id": 25961,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9755491,
+      "longitude": 23.7280132
+    },
+    {
+      "source_id": 25963,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9780489,
+      "longitude": 23.7266502
+    },
+    {
+      "source_id": 26498,
+      "name": "Attica",
+      "name_en": "",
+      "latitude": 37.8627236,
+      "longitude": 23.7503079
+    },
+    {
+      "source_id": 26499,
+      "name": "Attica",
+      "name_en": "",
+      "latitude": 38.0555049,
+      "longitude": 23.8058371
+    },
+    {
+      "source_id": 26500,
+      "name": "Attica",
+      "name_en": "",
+      "latitude": 38.0156312,
+      "longitude": 23.7352297
+    },
+    {
+      "source_id": 26628,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9733933,
+      "longitude": 24.0083176
+    },
+    {
+      "source_id": 26815,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.8637381,
+      "longitude": 23.7481689
+    },
+    {
+      "source_id": 26838,
+      "name": "Aegean Baltic Bank",
+      "name_en": "",
+      "latitude": 37.9364589,
+      "longitude": 23.6366941
+    },
+    {
+      "source_id": 27065,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.06884,
+      "longitude": 23.7165092
+    },
+    {
+      "source_id": 27076,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0119356,
+      "longitude": 23.7075528
+    },
+    {
+      "source_id": 27171,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0142056,
+      "longitude": 23.6942792
+    },
+    {
+      "source_id": 27174,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0155256,
+      "longitude": 23.6926909
+    },
+    {
+      "source_id": 27193,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0067229,
+      "longitude": 23.6985707
+    },
+    {
+      "source_id": 27207,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0113547,
+      "longitude": 23.6897114
+    },
+    {
+      "source_id": 27336,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9675913,
+      "longitude": 23.7474073
+    },
+    {
+      "source_id": 27984,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9395624,
+      "longitude": 23.7503194
+    },
+    {
+      "source_id": 27985,
+      "name": "Attica",
+      "name_en": "Attica",
+      "latitude": 37.9401138,
+      "longitude": 23.7500321
+    },
+    {
+      "source_id": 28074,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0729758,
+      "longitude": 23.8149145
+    },
+    {
+      "source_id": 28080,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0731528,
+      "longitude": 23.8124959
+    },
+    {
+      "source_id": 28094,
+      "name": "Optima",
+      "name_en": "",
+      "latitude": 38.0734125,
+      "longitude": 23.8125945
+    },
+    {
+      "source_id": 28197,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9963147,
+      "longitude": 23.7411824
+    },
+    {
+      "source_id": 28256,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0319058,
+      "longitude": 23.7095187
+    },
+    {
+      "source_id": 28259,
+      "name": "Optima bank",
+      "name_en": "",
+      "latitude": 38.0223095,
+      "longitude": 23.7360676
+    },
+    {
+      "source_id": 28260,
+      "name": "Pireos",
+      "name_en": "",
+      "latitude": 38.0227711,
+      "longitude": 23.7361677
+    },
+    {
+      "source_id": 28269,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9696138,
+      "longitude": 23.6504545
+    },
+    {
+      "source_id": 28270,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 37.9642732,
+      "longitude": 23.6489437
+    },
+    {
+      "source_id": 28498,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0047959,
+      "longitude": 23.7345538
+    },
+    {
+      "source_id": 28499,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0084591,
+      "longitude": 23.7349619
+    },
+    {
+      "source_id": 28509,
+      "name": "",
+      "name_en": "",
+      "latitude": 37.9263857,
+      "longitude": 23.6923177
+    },
+    {
+      "source_id": 28517,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9333748,
+      "longitude": 23.7013482
+    },
+    {
+      "source_id": 28650,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.9980366,
+      "longitude": 23.7405447
+    },
+    {
+      "source_id": 28744,
+      "name": "Τράπεζα Χανίων",
+      "name_en": "",
+      "latitude": 37.9677765,
+      "longitude": 23.7481078
+    },
+    {
+      "source_id": 28873,
+      "name": "Attica",
+      "name_en": "Attica",
+      "latitude": 37.9703317,
+      "longitude": 23.6515333
+    },
+    {
+      "source_id": 28874,
+      "name": "Optima Bank",
+      "name_en": "",
+      "latitude": 37.9703856,
+      "longitude": 23.6517424
+    },
+    {
+      "source_id": 29112,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9663067,
+      "longitude": 23.6947277
+    },
+    {
+      "source_id": 29118,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9766774,
+      "longitude": 23.7287527
+    },
+    {
+      "source_id": 29132,
+      "name": "Optima",
+      "name_en": "",
+      "latitude": 37.9547443,
+      "longitude": 23.6999011
+    },
+    {
+      "source_id": 29193,
+      "name": "Alpha",
+      "name_en": "",
+      "latitude": 37.9185279,
+      "longitude": 23.7016395
+    },
+    {
+      "source_id": 30712,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus bank",
+      "latitude": 38.0190078,
+      "longitude": 23.7885328
+    },
+    {
+      "source_id": 30896,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0468842,
+      "longitude": 23.7664204
+    },
+    {
+      "source_id": 31512,
+      "name": "Optima Bank",
+      "name_en": "",
+      "latitude": 38.0120558,
+      "longitude": 23.6967705
+    },
+    {
+      "source_id": 31541,
+      "name": "Optima Bank",
+      "name_en": "",
+      "latitude": 37.9424068,
+      "longitude": 23.648243
+    },
+    {
+      "source_id": 32247,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.989408,
+      "longitude": 23.7471514
+    },
+    {
+      "source_id": 32513,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0133168,
+      "longitude": 23.7530193
+    },
+    {
+      "source_id": 32608,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 37.8628192,
+      "longitude": 23.748884
+    },
+    {
+      "source_id": 32692,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0089965,
+      "longitude": 23.8252475
+    },
+    {
+      "source_id": 32699,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0096795,
+      "longitude": 23.824658
+    },
+    {
+      "source_id": 32702,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.008759,
+      "longitude": 23.8258431
+    },
+    {
+      "source_id": 32840,
+      "name": "Τράπεζα Πειραιώς",
+      "name_en": "Piraeus Bank",
+      "latitude": 38.0229386,
+      "longitude": 23.8018328
+    },
+    {
+      "source_id": 32869,
+      "name": "Attica",
+      "name_en": "",
+      "latitude": 38.0206453,
+      "longitude": 23.7982724
+    },
+    {
+      "source_id": 33146,
+      "name": "Εθνική Τράπεζα",
+      "name_en": "National Bank of Greece",
+      "latitude": 38.0429977,
+      "longitude": 23.5401897
+    },
+    {
+      "source_id": 33153,
+      "name": "",
+      "name_en": "",
+      "latitude": 38.0209843,
+      "longitude": 24.0065357
+    },
+    {
+      "source_id": 33175,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 37.9800456,
+      "longitude": 23.7320748
+    },
+    {
+      "source_id": 33176,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.978049,
+      "longitude": 23.7334253
+    },
+    {
+      "source_id": 33216,
+      "name": "Τράπεζα Χανίων",
+      "name_en": "",
+      "latitude": 37.9650119,
+      "longitude": 23.7270258
+    },
+    {
+      "source_id": 33289,
+      "name": "Συνεταιριστική Τράπεζα Χανίων",
+      "name_en": "",
+      "latitude": 37.8625661,
+      "longitude": 23.7485289
+    },
+    {
+      "source_id": 33409,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 37.9835367,
+      "longitude": 23.7288039
+    },
+    {
+      "source_id": 33534,
+      "name": "Eurobank",
+      "name_en": "",
+      "latitude": 38.0317168,
+      "longitude": 23.7078465
+    },
+    {
+      "source_id": 33793,
+      "name": "Pancreta Bank",
+      "name_en": "",
+      "latitude": 37.9909313,
+      "longitude": 23.7706569
+    },
+    {
+      "source_id": 33841,
+      "name": "Alpha Bank",
+      "name_en": "",
+      "latitude": 38.0059125,
+      "longitude": 23.7975553
+    },
+    {
+      "source_id": 34120,
+      "name": "Optima Bank",
+      "name_en": "",
+      "latitude": 38.0140723,
+      "longitude": 23.8198265
+    }
+  ],
+  "meta": {
+    "title": "Τραπεζικά καταστήματα — Περιφέρεια Αττικής - Δωρεάν λήψη",
+    "description": "Σημεία τραπεζικών καταστημάτων στην Περιφέρεια Αττικής με ελληνική ονομασία, αγγλική ονομασία (όπου υπάρχει) και συντεταγμένες WGS84. Πηγή: OpenStreetMap μέσω Athens GIS Repository (snapshot 2025-10-01). (Bank branch locations in Attica; distinct from el-trapezes which lists SWIFT/BIC institution codes.) Περιέχει 549 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Τραπεζικά καταστήματα — Περιφέρεια Αττικής | ListBase",
+    "seo_description": "Λήψη Τραπεζικά καταστήματα — Περιφέρεια Αττικής — 549 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 549 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

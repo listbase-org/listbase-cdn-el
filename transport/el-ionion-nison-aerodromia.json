@@ -1,0 +1,152 @@
+{
+  "id": "el-ionion-nison-aerodromia",
+  "name": "Αεροδρόμια — Περιφέρεια Ιονίων Νήσων",
+  "title": "Αεροδρόμια — Περιφέρεια Ιονίων Νήσων",
+  "description": "Αεροδρόμια στην «Περιφέρεια Ιονίων Νήσων» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Ionian Islands Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.)",
+  "category": "transport",
+  "source": "https://github.com/mwgg/Airports",
+  "source_url": "https://github.com/mwgg/Airports",
+  "updated": "2026-04",
+  "record_count": 3,
+  "columns": [
+    {
+      "key": "icao",
+      "label": "Icao",
+      "type": "string"
+    },
+    {
+      "key": "iata",
+      "label": "Iata",
+      "type": "string"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_slug",
+      "label": "Name Slug",
+      "type": "string"
+    },
+    {
+      "key": "city",
+      "label": "City",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_source",
+      "label": "Perifereia Source",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_slug",
+      "label": "Perifereia Slug",
+      "type": "string"
+    },
+    {
+      "key": "perifereia_en",
+      "label": "Perifereia En",
+      "type": "string"
+    },
+    {
+      "key": "country",
+      "label": "Country",
+      "type": "string"
+    },
+    {
+      "key": "elevation_ft",
+      "label": "Elevation Ft",
+      "type": "number"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    },
+    {
+      "key": "timezone",
+      "label": "Timezone",
+      "type": "string"
+    },
+    {
+      "key": "has_iata",
+      "label": "Has Iata",
+      "type": "boolean"
+    }
+  ],
+  "rows": [
+    {
+      "icao": "LGKF",
+      "iata": "EFL",
+      "name": "Kefallinia Airport",
+      "name_slug": "kefallinia-airport",
+      "city": "Kefallinia Island",
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "perifereia_source": "Ionian-Islands",
+      "perifereia_slug": "ionion-nison",
+      "perifereia_en": "Ionian Islands Region",
+      "country": "GR",
+      "elevation_ft": 59,
+      "lat": 38.120098114,
+      "lon": 20.5004997253,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGKR",
+      "iata": "CFU",
+      "name": "Ioannis Kapodistrias International Airport",
+      "name_slug": "ioannis-kapodistrias-international-airport",
+      "city": "Kerkyra Island",
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "perifereia_source": "Ionian-Islands",
+      "perifereia_slug": "ionion-nison",
+      "perifereia_en": "Ionian Islands Region",
+      "country": "GR",
+      "elevation_ft": 6,
+      "lat": 39.6018981934,
+      "lon": 19.911699295,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    },
+    {
+      "icao": "LGZA",
+      "iata": "ZTH",
+      "name": "Dionysios Solomos Airport",
+      "name_slug": "dionysios-solomos-airport",
+      "city": "Zakynthos Island",
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "perifereia_source": "Ionian-Islands",
+      "perifereia_slug": "ionion-nison",
+      "perifereia_en": "Ionian Islands Region",
+      "country": "GR",
+      "elevation_ft": 15,
+      "lat": 37.7509002686,
+      "lon": 20.8843002319,
+      "timezone": "Europe/Athens",
+      "has_iata": true
+    }
+  ],
+  "meta": {
+    "title": "Αεροδρόμια — Περιφέρεια Ιονίων Νήσων - Δωρεάν λήψη",
+    "description": "Αεροδρόμια στην «Περιφέρεια Ιονίων Νήσων» στην Ελλάδα με κωδικούς ICAO/IATA, πόλη, συντεταγμένες (WGS84) και υψόμετρο. (Ionian Islands Region — list of airports with ICAO/IATA codes, city, WGS84 coordinates, and elevation.) Περιέχει 3 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Αεροδρόμια — Περιφέρεια Ιονίων Νήσων | ListBase",
+    "seo_description": "Λήψη Αεροδρόμια — Περιφέρεια Ιονίων Νήσων — 3 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 3 εγγραφές / 15 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: https://github.com/mwgg/Airports"
+    ]
+  }
+}

@@ -1,0 +1,4 @@
+﻿"Icao","Iata","Name","Name Slug","City","Perifereia","Perifereia Source","Perifereia Slug","Perifereia En","Country","Elevation Ft","Lat","Lon","Timezone","Has Iata"
+"LGAX","","Alexandria Airport","alexandria-airport","Alexandria","Περιφέρεια Κεντρικής Μακεδονίας","Central-Macedonia","kentrikis-makedonias","Central Macedonia Region","GR","27","40.6511001587","22.4887008667","Europe/Athens","false"
+"LGSD","","Sedes Airport","sedes-airport","Sedes","Περιφέρεια Κεντρικής Μακεδονίας","Central-Macedonia","kentrikis-makedonias","Central Macedonia Region","GR","85","40.5331001282","23.0252990723","Europe/Athens","false"
+"LGTS","SKG","Thessaloniki Macedonia International Airport","thessaloniki-macedonia-international-airport","Thessaloniki","Περιφέρεια Κεντρικής Μακεδονίας","Central-Macedonia","kentrikis-makedonias","Central Macedonia Region","GR","22","40.5196990967","22.9708995819","Europe/Athens","true"

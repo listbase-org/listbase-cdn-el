@@ -1,0 +1,224 @@
+{
+  "id": "el-katarraktes",
+  "name": "Καταρράκτες της Ελλάδας — Greek waterfalls",
+  "title": "Καταρράκτες της Ελλάδας — Greek waterfalls",
+  "description": "Waterfalls of Greece (καταρράκτες της Ελλάδας). Sourced from the Greek Wikipedia category Κατηγορία:Καταρράκτες στην Ελλάδα plus supplemental Wikidata entities with P31 → Q34038 (waterfall) and P17 = Q41 (Greece) surfaced via wbsearchentities. Each record carries the Greek Wikipedia / Wikidata name, English name (where distinct), height_m, width_m, elevation_m, basin, mountain_range, admin (δήμος / περιφερειακή ενότητα), coordinates, and the el.wikipedia link when available. Coverage: 8/8 (100%) name_el, 8/8 (100%) name_en, 1 (12.5%) with height (Λειβαδίτης / Livaditis 60 m — generally cited as the tallest waterfall in Greece and the Balkans), 0 (0%) with width, 0 (0%) with elevation above sea level, 0 (0%) with basin, 0 (0%) with mountain_range (P4552 sparse for Greek waterfalls), 6 (75.0%) with admin (Δήμος Ξάνθης, Δήμος Αργοστολίου, Δήμος Μαντουδίου – Λίμνης – Αγίας Άννας, τοπική κοινότητα Άνω Βιάννου, Δήμος Δυτικής Λέσβου, Δήμος Άνδρου), 8 (100%) with coordinates, 4 (50.0%) with el.wikipedia link (Καταρράκτες Εδέσσης / Waterfalls Park Edessa, Καταρράκτες της Δρυμώνας / Drymona, Μαν Κάτσα / Man Katsa Lesvos, Φαράγγι του Ρίχτη / Richtis Gorge Crete; 4 are Wikidata-only items without el.wiki articles: Λειβαδίτης / Livaditis Xanthi, Καταρράκτες Γραδού / Gradou Cephalonia, Καταρράκτης Ρίχτρα Βιάννος Crete, καταρράκτες Πυθάρας / Pytharas Andros). The Φαράγγι του Ρίχτη (Richtis Gorge, Crete) entry is multi-class (Q34038 waterfall + Q40080 gorge) and is accepted because the gorge contains the well-known Richtis waterfall. Excluded by strict filter: 3 rivers tagged P31=Q4022 from the category (Εδεσσαίος river feeding Edessa falls, Νέδα river, Φαρασινός stream) and 1 gorge tagged only P31=Q150784 (Φαράγγι Λεπίδας / Lepida Gorge — no waterfall class attached).",
+  "category": "geography",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "string"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "height_m",
+      "label": "Height M",
+      "type": "number"
+    },
+    {
+      "key": "width_m",
+      "label": "Width M",
+      "type": "string"
+    },
+    {
+      "key": "elevation_m",
+      "label": "Elevation M",
+      "type": "string"
+    },
+    {
+      "key": "basin",
+      "label": "Basin",
+      "type": "string"
+    },
+    {
+      "key": "part_of",
+      "label": "Part Of",
+      "type": "string"
+    },
+    {
+      "key": "mountain_range",
+      "label": "Mountain Range",
+      "type": "string"
+    },
+    {
+      "key": "admin",
+      "label": "Admin",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikipedia_el",
+      "label": "Wikipedia El",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "Q109562646",
+      "wikidata_id": "Q109562646",
+      "name_el": "Λειβαδίτης",
+      "name_en": "Livaditis",
+      "height_m": 60,
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Δήμος Ξάνθης",
+      "latitude": 41.328067745162606,
+      "longitude": 24.672220272863267,
+      "wikipedia_el": ""
+    },
+    {
+      "id": "Q138856139",
+      "wikidata_id": "Q138856139",
+      "name_el": "Καταρράκτες Γραδού",
+      "name_en": "Gradou waterfalls",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Δήμος Αργοστολίου",
+      "latitude": 38.124300902089935,
+      "longitude": 20.792284727358496,
+      "wikipedia_el": ""
+    },
+    {
+      "id": "Q50809609",
+      "wikidata_id": "Q50809609",
+      "name_el": "Καταρράκτες Εδέσσης",
+      "name_en": "Waterfalls Park, Edessa",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "",
+      "latitude": 40.80346361111111,
+      "longitude": 22.0553005,
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%B1%CF%81%CF%81%CE%AC%CE%BA%CF%84%CE%B5%CF%82_%CE%88%CE%B4%CE%B5%CF%83%CF%83%CE%B1%CF%82"
+    },
+    {
+      "id": "Q96143730",
+      "wikidata_id": "Q96143730",
+      "name_el": "Καταρράκτες της Δρυμώνας",
+      "name_en": "Drymona waterfalls",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Δήμος Μαντουδίου - Λίμνης - Αγίας Άννας",
+      "latitude": 38.872271,
+      "longitude": 23.293446,
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%B1%CF%81%CF%81%CE%AC%CE%BA%CF%84%CE%B5%CF%82_%CF%84%CE%B7%CF%82_%CE%94%CF%81%CF%85%CE%BC%CF%8E%CE%BD%CE%B1%CF%82"
+    },
+    {
+      "id": "Q139492828",
+      "wikidata_id": "Q139492828",
+      "name_el": "Καταρράκτης Ρίχτρα, Βιάννος",
+      "name_en": "Richtra waterfall, Viannos",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "τοπική κοινότητα Άνω Βιάννου Ηρακλείου",
+      "latitude": 35.0065636726743,
+      "longitude": 25.386400222778324,
+      "wikipedia_el": ""
+    },
+    {
+      "id": "Q105529431",
+      "wikidata_id": "Q105529431",
+      "name_el": "Μαν Κάτσα",
+      "name_en": "Man Katsa waterfall",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Δήμος Δυτικής Λέσβου",
+      "latitude": 39.27637,
+      "longitude": 26.35883,
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%9C%CE%B1%CE%BD_%CE%9A%CE%AC%CF%84%CF%83%CE%B1"
+    },
+    {
+      "id": "Q7331108",
+      "wikidata_id": "Q7331108",
+      "name_el": "Φαράγγι του Ρίχτη",
+      "name_en": "Richtis Gorge",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "",
+      "latitude": 35.16416667,
+      "longitude": 25.98888889,
+      "wikipedia_el": "https://el.wikipedia.org/wiki/%CE%A6%CE%B1%CF%81%CE%AC%CE%B3%CE%B3%CE%B9_%CF%84%CE%BF%CF%85_%CE%A1%CE%AF%CF%87%CF%84%CE%B7"
+    },
+    {
+      "id": "Q134580916",
+      "wikidata_id": "Q134580916",
+      "name_el": "καταρράκτες Πυθάρας",
+      "name_en": "Pytharas waterfalls",
+      "height_m": "",
+      "width_m": "",
+      "elevation_m": "",
+      "basin": "",
+      "part_of": "",
+      "mountain_range": "",
+      "admin": "Δήμος Άνδρου",
+      "latitude": 37.844560882909946,
+      "longitude": 24.90286016483879,
+      "wikipedia_el": ""
+    }
+  ],
+  "meta": {
+    "title": "Καταρράκτες της Ελλάδας — Greek waterfalls - Δωρεάν λήψη",
+    "description": "Waterfalls of Greece (καταρράκτες της Ελλάδας). Sourced from the Greek Wikipedia category Κατηγορία:Καταρράκτες στην Ελλάδα plus supplemental Wikidata entities with P31 → Q34038 (waterfall) and P17 = Q41 (Greece) surfaced via wbsearchentities. Each record carries the Greek Wikipedia / Wikidata name, English name (where distinct), height_m, width_m, elevation_m, basin, mountain_range, admin (δήμος / περιφερειακή ενότητα), coordinates, and the el.wikipedia link when available. Coverage: 8/8 (100%) name_el, 8/8 (100%) name_en, 1 (12.5%) with height (Λειβαδίτης / Livaditis 60 m — generally cited as the tallest waterfall in Greece and the Balkans), 0 (0%) with width, 0 (0%) with elevation above sea level, 0 (0%) with basin, 0 (0%) with mountain_range (P4552 sparse for Greek waterfalls), 6 (75.0%) with admin (Δήμος Ξάνθης, Δήμος Αργοστολίου, Δήμος Μαντουδίου – Λίμνης – Αγίας Άννας, τοπική κοινότητα Άνω Βιάννου, Δήμος Δυτικής Λέσβου, Δήμος Άνδρου), 8 (100%) with coordinates, 4 (50.0%) with el.wikipedia link (Καταρράκτες Εδέσσης / Waterfalls Park Edessa, Καταρράκτες της Δρυμώνας / Drymona, Μαν Κάτσα / Man Katsa Lesvos, Φαράγγι του Ρίχτη / Richtis Gorge Crete; 4 are Wikidata-only items without el.wiki articles: Λειβαδίτης / Livaditis Xanthi, Καταρράκτες Γραδού / Gradou Cephalonia, Καταρράκτης Ρίχτρα Βιάννος Crete, καταρράκτες Πυθάρας / Pytharas Andros). The Φαράγγι του Ρίχτη (Richtis Gorge, Crete) entry is multi-class (Q34038 waterfall + Q40080 gorge) and is accepted because the gorge contains the well-known Richtis waterfall. Excluded by strict filter: 3 rivers tagged P31=Q4022 from the category (Εδεσσαίος river feeding Edessa falls, Νέδα river, Φαρασινός stream) and 1 gorge tagged only P31=Q150784 (Φαράγγι Λεπίδας / Lepida Gorge — no waterfall class attached). Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Καταρράκτες της Ελλάδας — Greek waterfalls | ListBase",
+    "seo_description": "Λήψη Καταρράκτες της Ελλάδας — Greek waterfalls — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 14 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

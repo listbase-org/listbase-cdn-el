@@ -1,0 +1,2038 @@
+{
+  "id": "el-thanatoi-covid-dimous-2020-2021",
+  "name": "Θάνατοι από COVID-19 ανά Δήμο, 2020–2021",
+  "title": "Θάνατοι από COVID-19 ανά Δήμο, 2020–2021",
+  "description": "Αριθμός θανάτων από COVID-19 σε κάθε δήμο της Ελλάδας για τα έτη 2020 και 2021. Number of COVID-19 deaths per municipality of Greece for the years 2020 and 2021. Source: iMEdD Lab COVID-19 dataset.",
+  "category": "health",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 332,
+  "columns": [
+    {
+      "key": "municipality_el",
+      "label": "Municipality El",
+      "type": "string"
+    },
+    {
+      "key": "deaths_2020",
+      "label": "Deaths 2020",
+      "type": "number"
+    },
+    {
+      "key": "deaths_2021",
+      "label": "Deaths 2021",
+      "type": "number"
+    },
+    {
+      "key": "deaths_total_2020_2021",
+      "label": "Deaths Total 2020 2021",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "municipality_el": "Άργους Ορεστικού",
+      "deaths_2020": 14,
+      "deaths_2021": 27,
+      "deaths_total_2020_2021": 41
+    },
+    {
+      "municipality_el": "Αίγινας",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Αβδήρων",
+      "deaths_2020": 0,
+      "deaths_2021": 15,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Αγίας Βαρβάρας",
+      "deaths_2020": 1,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Αγίας Παρασκευής",
+      "deaths_2020": 8,
+      "deaths_2021": 24,
+      "deaths_total_2020_2021": 32
+    },
+    {
+      "municipality_el": "Αγίου Βασιλείου",
+      "deaths_2020": 0,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Αγίου Δημητρίου",
+      "deaths_2020": 5,
+      "deaths_2021": 14,
+      "deaths_total_2020_2021": 19
+    },
+    {
+      "municipality_el": "Αγίου Ευστρατίου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Αγίου Νικολάου",
+      "deaths_2020": 2,
+      "deaths_2021": 13,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Αγαθονησίου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Αγιάς",
+      "deaths_2020": 2,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 10
+    },
+    {
+      "municipality_el": "Αγιων Αναργύρων - Καματερού",
+      "deaths_2020": 6,
+      "deaths_2021": 81,
+      "deaths_total_2020_2021": 87
+    },
+    {
+      "municipality_el": "Αγκιστρίου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Αγράφων",
+      "deaths_2020": 0,
+      "deaths_2021": 9,
+      "deaths_total_2020_2021": 9
+    },
+    {
+      "municipality_el": "Αγρινίου",
+      "deaths_2020": 28,
+      "deaths_2021": 131,
+      "deaths_total_2020_2021": 159
+    },
+    {
+      "municipality_el": "Αθηναίων",
+      "deaths_2020": 249,
+      "deaths_2021": 1155,
+      "deaths_total_2020_2021": 1404
+    },
+    {
+      "municipality_el": "Αιγάλεω",
+      "deaths_2020": 0,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Αιγιαλείας",
+      "deaths_2020": 3,
+      "deaths_2021": 101,
+      "deaths_total_2020_2021": 104
+    },
+    {
+      "municipality_el": "Ακτιου - Βόνιτσας",
+      "deaths_2020": 2,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 18
+    },
+    {
+      "municipality_el": "Αλίμου",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Αλεξάνδρειας",
+      "deaths_2020": 52,
+      "deaths_2021": 84,
+      "deaths_total_2020_2021": 136
+    },
+    {
+      "municipality_el": "Αλεξανδρούπολης",
+      "deaths_2020": 27,
+      "deaths_2021": 72,
+      "deaths_total_2020_2021": 99
+    },
+    {
+      "municipality_el": "Αλιάρτου - Θεσπιέων",
+      "deaths_2020": 1,
+      "deaths_2021": 11,
+      "deaths_total_2020_2021": 12
+    },
+    {
+      "municipality_el": "Αλμυρού",
+      "deaths_2020": 1,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 9
+    },
+    {
+      "municipality_el": "Αλμωπίας",
+      "deaths_2020": 77,
+      "deaths_2021": 61,
+      "deaths_total_2020_2021": 138
+    },
+    {
+      "municipality_el": "Αλοννήσου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Αμαρίου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Αμαρουσίου",
+      "deaths_2020": 8,
+      "deaths_2021": 87,
+      "deaths_total_2020_2021": 95
+    },
+    {
+      "municipality_el": "Αμοργού",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Αμπελοκήπων - Μενεμένης",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Αμυνταίου",
+      "deaths_2020": 14,
+      "deaths_2021": 24,
+      "deaths_total_2020_2021": 38
+    },
+    {
+      "municipality_el": "Αμφίκλειας - Ελάτειας",
+      "deaths_2020": 1,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 13
+    },
+    {
+      "municipality_el": "Αμφίπολης",
+      "deaths_2020": 6,
+      "deaths_2021": 29,
+      "deaths_total_2020_2021": 35
+    },
+    {
+      "municipality_el": "Αμφιλοχίας",
+      "deaths_2020": 3,
+      "deaths_2021": 34,
+      "deaths_total_2020_2021": 37
+    },
+    {
+      "municipality_el": "Ανάφης",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Ανατολικής Μάνης",
+      "deaths_2020": 0,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 5
+    },
+    {
+      "municipality_el": "Ανατολικής Σάμου",
+      "deaths_2020": 0,
+      "deaths_2021": 11,
+      "deaths_total_2020_2021": 11
+    },
+    {
+      "municipality_el": "Ανδρίτσαινας - Κρεστένων",
+      "deaths_2020": 1,
+      "deaths_2021": 10,
+      "deaths_total_2020_2021": 11
+    },
+    {
+      "municipality_el": "Ανδραβίδας - Κυλλήνης",
+      "deaths_2020": 1,
+      "deaths_2021": 25,
+      "deaths_total_2020_2021": 26
+    },
+    {
+      "municipality_el": "Ανδρου",
+      "deaths_2020": 1,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Αντιπάρου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Ανωγείων",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Αποκορώνου",
+      "deaths_2020": 2,
+      "deaths_2021": 20,
+      "deaths_total_2020_2021": 22
+    },
+    {
+      "municipality_el": "Αργιθέας",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Αργοστολίου",
+      "deaths_2020": 1,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 13
+    },
+    {
+      "municipality_el": "Αργους - Μυκηνών",
+      "deaths_2020": 0,
+      "deaths_2021": 36,
+      "deaths_total_2020_2021": 36
+    },
+    {
+      "municipality_el": "Αριστοτέλη",
+      "deaths_2020": 47,
+      "deaths_2021": 18,
+      "deaths_total_2020_2021": 65
+    },
+    {
+      "municipality_el": "Αρριανών",
+      "deaths_2020": 6,
+      "deaths_2021": 15,
+      "deaths_total_2020_2021": 21
+    },
+    {
+      "municipality_el": "Αρταίων",
+      "deaths_2020": 5,
+      "deaths_2021": 33,
+      "deaths_total_2020_2021": 38
+    },
+    {
+      "municipality_el": "Αρχαίας Ολυμπίας",
+      "deaths_2020": 3,
+      "deaths_2021": 19,
+      "deaths_total_2020_2021": 22
+    },
+    {
+      "municipality_el": "Αρχανών - Αστερουσίων",
+      "deaths_2020": 1,
+      "deaths_2021": 24,
+      "deaths_total_2020_2021": 25
+    },
+    {
+      "municipality_el": "Ασπροπύργου",
+      "deaths_2020": 11,
+      "deaths_2021": 68,
+      "deaths_total_2020_2021": 79
+    },
+    {
+      "municipality_el": "Αστυπάλαιας",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Αχαρνών",
+      "deaths_2020": 14,
+      "deaths_2021": 147,
+      "deaths_total_2020_2021": 161
+    },
+    {
+      "municipality_el": "Βάρης - Βούλας - Βουλιαγμένης",
+      "deaths_2020": 8,
+      "deaths_2021": 37,
+      "deaths_total_2020_2021": 45
+    },
+    {
+      "municipality_el": "Βέλου - Βόχας",
+      "deaths_2020": 1,
+      "deaths_2021": 28,
+      "deaths_total_2020_2021": 29
+    },
+    {
+      "municipality_el": "Βέροιας",
+      "deaths_2020": 81,
+      "deaths_2021": 130,
+      "deaths_total_2020_2021": 211
+    },
+    {
+      "municipality_el": "Βελβεντού",
+      "deaths_2020": 4,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 7
+    },
+    {
+      "municipality_el": "Βιάννου",
+      "deaths_2020": 1,
+      "deaths_2021": 6,
+      "deaths_total_2020_2021": 7
+    },
+    {
+      "municipality_el": "Βισαλτίας",
+      "deaths_2020": 53,
+      "deaths_2021": 61,
+      "deaths_total_2020_2021": 114
+    },
+    {
+      "municipality_el": "Βορείων Τζουμέρκων",
+      "deaths_2020": 1,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Βοϊου",
+      "deaths_2020": 27,
+      "deaths_2021": 43,
+      "deaths_total_2020_2021": 70
+    },
+    {
+      "municipality_el": "Βριλησσίων",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Βόλβης",
+      "deaths_2020": 32,
+      "deaths_2021": 62,
+      "deaths_total_2020_2021": 94
+    },
+    {
+      "municipality_el": "Βόλου",
+      "deaths_2020": 125,
+      "deaths_2021": 351,
+      "deaths_total_2020_2021": 476
+    },
+    {
+      "municipality_el": "Βόρειας Κέρκυρας",
+      "deaths_2020": 1,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 9
+    },
+    {
+      "municipality_el": "Βόρειας Κυνουρίας",
+      "deaths_2020": 0,
+      "deaths_2021": 7,
+      "deaths_total_2020_2021": 7
+    },
+    {
+      "municipality_el": "Βύρωνος",
+      "deaths_2020": 38,
+      "deaths_2021": 149,
+      "deaths_total_2020_2021": 187
+    },
+    {
+      "municipality_el": "Γαλατσίου",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Γαύδου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Γεωργίου Καραϊσκάκη",
+      "deaths_2020": 0,
+      "deaths_2021": 4,
+      "deaths_total_2020_2021": 4
+    },
+    {
+      "municipality_el": "Γλυφάδας",
+      "deaths_2020": 11,
+      "deaths_2021": 58,
+      "deaths_total_2020_2021": 69
+    },
+    {
+      "municipality_el": "Γορτυνίας",
+      "deaths_2020": 6,
+      "deaths_2021": 17,
+      "deaths_total_2020_2021": 23
+    },
+    {
+      "municipality_el": "Γρεβενών",
+      "deaths_2020": 23,
+      "deaths_2021": 33,
+      "deaths_total_2020_2021": 56
+    },
+    {
+      "municipality_el": "Γόρτυνας",
+      "deaths_2020": 1,
+      "deaths_2021": 21,
+      "deaths_total_2020_2021": 22
+    },
+    {
+      "municipality_el": "Δάφνης - Υμηττού",
+      "deaths_2020": 1,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Δέλτα",
+      "deaths_2020": 45,
+      "deaths_2021": 113,
+      "deaths_total_2020_2021": 158
+    },
+    {
+      "municipality_el": "Δίου - Ολύμπου",
+      "deaths_2020": 47,
+      "deaths_2021": 48,
+      "deaths_total_2020_2021": 95
+    },
+    {
+      "municipality_el": "Δελφών",
+      "deaths_2020": 8,
+      "deaths_2021": 28,
+      "deaths_total_2020_2021": 36
+    },
+    {
+      "municipality_el": "Δεσκάτης",
+      "deaths_2020": 30,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 33
+    },
+    {
+      "municipality_el": "Διδυμοτείχου",
+      "deaths_2020": 9,
+      "deaths_2021": 56,
+      "deaths_total_2020_2021": 65
+    },
+    {
+      "municipality_el": "Διονύσου",
+      "deaths_2020": 10,
+      "deaths_2021": 23,
+      "deaths_total_2020_2021": 33
+    },
+    {
+      "municipality_el": "Διρφύων - Μεσσαπίων",
+      "deaths_2020": 0,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 5
+    },
+    {
+      "municipality_el": "Διστόμου - Αράχοβας - Αντίκυρας",
+      "deaths_2020": 2,
+      "deaths_2021": 6,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Δομοκού",
+      "deaths_2020": 3,
+      "deaths_2021": 22,
+      "deaths_total_2020_2021": 25
+    },
+    {
+      "municipality_el": "Δοξάτου",
+      "deaths_2020": 25,
+      "deaths_2021": 38,
+      "deaths_total_2020_2021": 63
+    },
+    {
+      "municipality_el": "Δράμας",
+      "deaths_2020": 93,
+      "deaths_2021": 74,
+      "deaths_total_2020_2021": 167
+    },
+    {
+      "municipality_el": "Δυτικής Αχαϊας",
+      "deaths_2020": 0,
+      "deaths_2021": 57,
+      "deaths_total_2020_2021": 57
+    },
+    {
+      "municipality_el": "Δυτικής Λέσβου",
+      "deaths_2020": 6,
+      "deaths_2021": 20,
+      "deaths_total_2020_2021": 26
+    },
+    {
+      "municipality_el": "Δυτικής Μάνης",
+      "deaths_2020": 0,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 5
+    },
+    {
+      "municipality_el": "Δυτικής Σάμου",
+      "deaths_2020": 1,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 4
+    },
+    {
+      "municipality_el": "Δωδώνης",
+      "deaths_2020": 3,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Δωρίδος",
+      "deaths_2020": 0,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 16
+    },
+    {
+      "municipality_el": "Εδεσσας",
+      "deaths_2020": 57,
+      "deaths_2021": 59,
+      "deaths_total_2020_2021": 116
+    },
+    {
+      "municipality_el": "Ελασσόνας",
+      "deaths_2020": 14,
+      "deaths_2021": 49,
+      "deaths_total_2020_2021": 63
+    },
+    {
+      "municipality_el": "Ελαφονήσου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Ελευσίνας",
+      "deaths_2020": 14,
+      "deaths_2021": 70,
+      "deaths_total_2020_2021": 84
+    },
+    {
+      "municipality_el": "Ελληνικού - Αργυρούπολης",
+      "deaths_2020": 6,
+      "deaths_2021": 27,
+      "deaths_total_2020_2021": 33
+    },
+    {
+      "municipality_el": "Εμμανουήλ Παππά",
+      "deaths_2020": 21,
+      "deaths_2021": 64,
+      "deaths_total_2020_2021": 85
+    },
+    {
+      "municipality_el": "Εορδαίας",
+      "deaths_2020": 32,
+      "deaths_2021": 95,
+      "deaths_total_2020_2021": 127
+    },
+    {
+      "municipality_el": "Επιδαύρου",
+      "deaths_2020": 0,
+      "deaths_2021": 17,
+      "deaths_total_2020_2021": 17
+    },
+    {
+      "municipality_el": "Ερέτριας",
+      "deaths_2020": 0,
+      "deaths_2021": 27,
+      "deaths_total_2020_2021": 27
+    },
+    {
+      "municipality_el": "Ερμιονίδας",
+      "deaths_2020": 1,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 17
+    },
+    {
+      "municipality_el": "Ερυμάνθου",
+      "deaths_2020": 0,
+      "deaths_2021": 23,
+      "deaths_total_2020_2021": 23
+    },
+    {
+      "municipality_el": "Ευρώτα",
+      "deaths_2020": 1,
+      "deaths_2021": 14,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Ζίτσας",
+      "deaths_2020": 0,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Ζαγοράς - Μουρεσίου",
+      "deaths_2020": 2,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 14
+    },
+    {
+      "municipality_el": "Ζαγορίου",
+      "deaths_2020": 0,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Ζακύνθου",
+      "deaths_2020": 2,
+      "deaths_2021": 36,
+      "deaths_total_2020_2021": 38
+    },
+    {
+      "municipality_el": "Ζαχάρως",
+      "deaths_2020": 4,
+      "deaths_2021": 6,
+      "deaths_total_2020_2021": 10
+    },
+    {
+      "municipality_el": "Ζηρού",
+      "deaths_2020": 2,
+      "deaths_2021": 18,
+      "deaths_total_2020_2021": 20
+    },
+    {
+      "municipality_el": "Ζωγράφου",
+      "deaths_2020": 19,
+      "deaths_2021": 134,
+      "deaths_total_2020_2021": 153
+    },
+    {
+      "municipality_el": "Ηγουμενίτσας",
+      "deaths_2020": 3,
+      "deaths_2021": 11,
+      "deaths_total_2020_2021": 14
+    },
+    {
+      "municipality_el": "Ηλιδας",
+      "deaths_2020": 2,
+      "deaths_2021": 39,
+      "deaths_total_2020_2021": 41
+    },
+    {
+      "municipality_el": "Ηλιουπόλεως",
+      "deaths_2020": 6,
+      "deaths_2021": 60,
+      "deaths_total_2020_2021": 66
+    },
+    {
+      "municipality_el": "Ηρακλείας",
+      "deaths_2020": 41,
+      "deaths_2021": 78,
+      "deaths_total_2020_2021": 119
+    },
+    {
+      "municipality_el": "Ηρακλείου",
+      "deaths_2020": 12,
+      "deaths_2021": 99,
+      "deaths_total_2020_2021": 111
+    },
+    {
+      "municipality_el": "Ηρακλείου Αττικής",
+      "deaths_2020": 0,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Ηρωικής Νήσου Κάσου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Ηρωικής Νήσου Ψαρών",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Ηρωικής Πόλεως Νάουσας",
+      "deaths_2020": 33,
+      "deaths_2021": 60,
+      "deaths_total_2020_2021": 93
+    },
+    {
+      "municipality_el": "Θάσου",
+      "deaths_2020": 3,
+      "deaths_2021": 25,
+      "deaths_total_2020_2021": 28
+    },
+    {
+      "municipality_el": "Θέρμης",
+      "deaths_2020": 32,
+      "deaths_2021": 97,
+      "deaths_total_2020_2021": 129
+    },
+    {
+      "municipality_el": "Θέρμου",
+      "deaths_2020": 3,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 19
+    },
+    {
+      "municipality_el": "Θήρας",
+      "deaths_2020": 0,
+      "deaths_2021": 6,
+      "deaths_total_2020_2021": 6
+    },
+    {
+      "municipality_el": "Θερμαϊκού",
+      "deaths_2020": 26,
+      "deaths_2021": 90,
+      "deaths_total_2020_2021": 116
+    },
+    {
+      "municipality_el": "Θεσσαλονίκης",
+      "deaths_2020": 346,
+      "deaths_2021": 686,
+      "deaths_total_2020_2021": 1032
+    },
+    {
+      "municipality_el": "Θηβαίων",
+      "deaths_2020": 2,
+      "deaths_2021": 71,
+      "deaths_total_2020_2021": 73
+    },
+    {
+      "municipality_el": "Ιάσμου",
+      "deaths_2020": 10,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 26
+    },
+    {
+      "municipality_el": "Ιεράπετρας",
+      "deaths_2020": 0,
+      "deaths_2021": 15,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Ιεράς Πόλης Μεσολογγίου",
+      "deaths_2020": 3,
+      "deaths_2021": 88,
+      "deaths_total_2020_2021": 91
+    },
+    {
+      "municipality_el": "Ιητών",
+      "deaths_2020": 0,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Ιθάκης",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Ικαρίας",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Ιλίου",
+      "deaths_2020": 8,
+      "deaths_2021": 64,
+      "deaths_total_2020_2021": 72
+    },
+    {
+      "municipality_el": "Ιστιαίας - Αιδηψού",
+      "deaths_2020": 4,
+      "deaths_2021": 28,
+      "deaths_total_2020_2021": 32
+    },
+    {
+      "municipality_el": "Ιωαννιτών",
+      "deaths_2020": 9,
+      "deaths_2021": 19,
+      "deaths_total_2020_2021": 28
+    },
+    {
+      "municipality_el": "Κάτω Νευροκοπίου",
+      "deaths_2020": 21,
+      "deaths_2021": 19,
+      "deaths_total_2020_2021": 40
+    },
+    {
+      "municipality_el": "Κέας",
+      "deaths_2020": 0,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Καβάλας",
+      "deaths_2020": 76,
+      "deaths_2021": 108,
+      "deaths_total_2020_2021": 184
+    },
+    {
+      "municipality_el": "Καισαριανής",
+      "deaths_2020": 17,
+      "deaths_2021": 78,
+      "deaths_total_2020_2021": 95
+    },
+    {
+      "municipality_el": "Καλαβρύτων",
+      "deaths_2020": 1,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 6
+    },
+    {
+      "municipality_el": "Καλαμάτας",
+      "deaths_2020": 5,
+      "deaths_2021": 61,
+      "deaths_total_2020_2021": 66
+    },
+    {
+      "municipality_el": "Καλαμαριάς",
+      "deaths_2020": 2,
+      "deaths_2021": 21,
+      "deaths_total_2020_2021": 23
+    },
+    {
+      "municipality_el": "Καλλιθέας",
+      "deaths_2020": 26,
+      "deaths_2021": 120,
+      "deaths_total_2020_2021": 146
+    },
+    {
+      "municipality_el": "Καλυμνίων",
+      "deaths_2020": 0,
+      "deaths_2021": 15,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Καμένων Βούρλων",
+      "deaths_2020": 1,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 6
+    },
+    {
+      "municipality_el": "Καντάνου - Σελίνου",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Καρδίτσας",
+      "deaths_2020": 21,
+      "deaths_2021": 58,
+      "deaths_total_2020_2021": 79
+    },
+    {
+      "municipality_el": "Καρπάθου",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Καρπενησίου",
+      "deaths_2020": 4,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 16
+    },
+    {
+      "municipality_el": "Καρύστου",
+      "deaths_2020": 1,
+      "deaths_2021": 9,
+      "deaths_total_2020_2021": 10
+    },
+    {
+      "municipality_el": "Κασσάνδρας",
+      "deaths_2020": 11,
+      "deaths_2021": 25,
+      "deaths_total_2020_2021": 36
+    },
+    {
+      "municipality_el": "Καστοριάς",
+      "deaths_2020": 25,
+      "deaths_2021": 46,
+      "deaths_total_2020_2021": 71
+    },
+    {
+      "municipality_el": "Κατερίνης",
+      "deaths_2020": 174,
+      "deaths_2021": 246,
+      "deaths_total_2020_2021": 420
+    },
+    {
+      "municipality_el": "Κεντρικής Κέρκυρας και Διαποντίων Νήσων",
+      "deaths_2020": 2,
+      "deaths_2021": 19,
+      "deaths_total_2020_2021": 21
+    },
+    {
+      "municipality_el": "Κεντρικών Τζουμέρκων",
+      "deaths_2020": 2,
+      "deaths_2021": 17,
+      "deaths_total_2020_2021": 19
+    },
+    {
+      "municipality_el": "Κερατσινίου - Δραπετσώνας",
+      "deaths_2020": 35,
+      "deaths_2021": 244,
+      "deaths_total_2020_2021": 279
+    },
+    {
+      "municipality_el": "Κηφισιάς",
+      "deaths_2020": 11,
+      "deaths_2021": 93,
+      "deaths_total_2020_2021": 104
+    },
+    {
+      "municipality_el": "Κιλελέρ",
+      "deaths_2020": 7,
+      "deaths_2021": 30,
+      "deaths_total_2020_2021": 37
+    },
+    {
+      "municipality_el": "Κιλκίς",
+      "deaths_2020": 149,
+      "deaths_2021": 275,
+      "deaths_total_2020_2021": 424
+    },
+    {
+      "municipality_el": "Κιμώλου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Κισσάμου",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Κοζάνης",
+      "deaths_2020": 28,
+      "deaths_2021": 102,
+      "deaths_total_2020_2021": 130
+    },
+    {
+      "municipality_el": "Κομοτηνής",
+      "deaths_2020": 37,
+      "deaths_2021": 59,
+      "deaths_total_2020_2021": 96
+    },
+    {
+      "municipality_el": "Κορδελιού - Ευόσμου",
+      "deaths_2020": 237,
+      "deaths_2021": 512,
+      "deaths_total_2020_2021": 749
+    },
+    {
+      "municipality_el": "Κορινθίων",
+      "deaths_2020": 2,
+      "deaths_2021": 58,
+      "deaths_total_2020_2021": 60
+    },
+    {
+      "municipality_el": "Κορυδαλλού",
+      "deaths_2020": 0,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Κρωπίας",
+      "deaths_2020": 1,
+      "deaths_2021": 22,
+      "deaths_total_2020_2021": 23
+    },
+    {
+      "municipality_el": "Κυθήρων",
+      "deaths_2020": 0,
+      "deaths_2021": 4,
+      "deaths_total_2020_2021": 4
+    },
+    {
+      "municipality_el": "Κω",
+      "deaths_2020": 0,
+      "deaths_2021": 14,
+      "deaths_total_2020_2021": 14
+    },
+    {
+      "municipality_el": "Κόνιτσας",
+      "deaths_2020": 1,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Κύθνου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Κύμης - Αλιβερίου",
+      "deaths_2020": 1,
+      "deaths_2021": 10,
+      "deaths_total_2020_2021": 11
+    },
+    {
+      "municipality_el": "Λέρου",
+      "deaths_2020": 0,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Λήμνου",
+      "deaths_2020": 3,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 11
+    },
+    {
+      "municipality_el": "Λίμνης Πλαστήρα",
+      "deaths_2020": 1,
+      "deaths_2021": 4,
+      "deaths_total_2020_2021": 5
+    },
+    {
+      "municipality_el": "Λαγκαδά",
+      "deaths_2020": 80,
+      "deaths_2021": 188,
+      "deaths_total_2020_2021": 268
+    },
+    {
+      "municipality_el": "Λαμιέων",
+      "deaths_2020": 15,
+      "deaths_2021": 164,
+      "deaths_total_2020_2021": 179
+    },
+    {
+      "municipality_el": "Λαρισαίων",
+      "deaths_2020": 101,
+      "deaths_2021": 356,
+      "deaths_total_2020_2021": 457
+    },
+    {
+      "municipality_el": "Λαυρεωτικής",
+      "deaths_2020": 2,
+      "deaths_2021": 32,
+      "deaths_total_2020_2021": 34
+    },
+    {
+      "municipality_el": "Λεβαδέων",
+      "deaths_2020": 2,
+      "deaths_2021": 25,
+      "deaths_total_2020_2021": 27
+    },
+    {
+      "municipality_el": "Λειψών",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Λευκάδας",
+      "deaths_2020": 2,
+      "deaths_2021": 17,
+      "deaths_total_2020_2021": 19
+    },
+    {
+      "municipality_el": "Ληξουρίου",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Λοκρών",
+      "deaths_2020": 4,
+      "deaths_2021": 43,
+      "deaths_total_2020_2021": 47
+    },
+    {
+      "municipality_el": "Λουτρακίου - Περαχώρας - Αγ. Θεοδώρων",
+      "deaths_2020": 1,
+      "deaths_2021": 13,
+      "deaths_total_2020_2021": 14
+    },
+    {
+      "municipality_el": "Λυκόβρυσης - Πεύκης",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Μάνδρας - Ειδυλλίας",
+      "deaths_2020": 2,
+      "deaths_2021": 49,
+      "deaths_total_2020_2021": 51
+    },
+    {
+      "municipality_el": "Μήλου",
+      "deaths_2020": 0,
+      "deaths_2021": 4,
+      "deaths_total_2020_2021": 4
+    },
+    {
+      "municipality_el": "Μακρακώμης",
+      "deaths_2020": 5,
+      "deaths_2021": 24,
+      "deaths_total_2020_2021": 29
+    },
+    {
+      "municipality_el": "Μαλεβιζίου",
+      "deaths_2020": 4,
+      "deaths_2021": 26,
+      "deaths_total_2020_2021": 30
+    },
+    {
+      "municipality_el": "Μαντουδίου - Λίμνης - Αγίας Αννας",
+      "deaths_2020": 0,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Μαραθώνος",
+      "deaths_2020": 4,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 20
+    },
+    {
+      "municipality_el": "Μαρκοπούλου Μεσογαίας",
+      "deaths_2020": 2,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 18
+    },
+    {
+      "municipality_el": "Μαρωνείας - Σαπών",
+      "deaths_2020": 11,
+      "deaths_2021": 26,
+      "deaths_total_2020_2021": 37
+    },
+    {
+      "municipality_el": "Μεγίστης",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Μεγαλόπολης",
+      "deaths_2020": 0,
+      "deaths_2021": 9,
+      "deaths_total_2020_2021": 9
+    },
+    {
+      "municipality_el": "Μεγανησίου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Μεγαρέων",
+      "deaths_2020": 1,
+      "deaths_2021": 17,
+      "deaths_total_2020_2021": 18
+    },
+    {
+      "municipality_el": "Μεσσήνης",
+      "deaths_2020": 6,
+      "deaths_2021": 40,
+      "deaths_total_2020_2021": 46
+    },
+    {
+      "municipality_el": "Μεταμορφώσεως",
+      "deaths_2020": 1,
+      "deaths_2021": 32,
+      "deaths_total_2020_2021": 33
+    },
+    {
+      "municipality_el": "Μετεώρων",
+      "deaths_2020": 12,
+      "deaths_2021": 32,
+      "deaths_total_2020_2021": 44
+    },
+    {
+      "municipality_el": "Μετσόβου",
+      "deaths_2020": 2,
+      "deaths_2021": 15,
+      "deaths_total_2020_2021": 17
+    },
+    {
+      "municipality_el": "Μινώα Πεδιάδας",
+      "deaths_2020": 2,
+      "deaths_2021": 24,
+      "deaths_total_2020_2021": 26
+    },
+    {
+      "municipality_el": "Μονεμβασίας",
+      "deaths_2020": 0,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 12
+    },
+    {
+      "municipality_el": "Μοσχάτου - Ταύρου",
+      "deaths_2020": 2,
+      "deaths_2021": 7,
+      "deaths_total_2020_2021": 9
+    },
+    {
+      "municipality_el": "Μουζακίου",
+      "deaths_2020": 4,
+      "deaths_2021": 18,
+      "deaths_total_2020_2021": 22
+    },
+    {
+      "municipality_el": "Μυκόνου",
+      "deaths_2020": 0,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 5
+    },
+    {
+      "municipality_el": "Μυλοποτάμου",
+      "deaths_2020": 0,
+      "deaths_2021": 17,
+      "deaths_total_2020_2021": 17
+    },
+    {
+      "municipality_el": "Μυτιλήνης",
+      "deaths_2020": 28,
+      "deaths_2021": 55,
+      "deaths_total_2020_2021": 83
+    },
+    {
+      "municipality_el": "Μύκης",
+      "deaths_2020": 24,
+      "deaths_2021": 22,
+      "deaths_total_2020_2021": 46
+    },
+    {
+      "municipality_el": "Νάξου & Μικρών Κυκλάδων",
+      "deaths_2020": 0,
+      "deaths_2021": 11,
+      "deaths_total_2020_2021": 11
+    },
+    {
+      "municipality_el": "Νέας Ζίχνης",
+      "deaths_2020": 15,
+      "deaths_2021": 30,
+      "deaths_total_2020_2021": 45
+    },
+    {
+      "municipality_el": "Νέας Ιωνίας",
+      "deaths_2020": 1,
+      "deaths_2021": 21,
+      "deaths_total_2020_2021": 22
+    },
+    {
+      "municipality_el": "Νέας Προποντίδας",
+      "deaths_2020": 36,
+      "deaths_2021": 98,
+      "deaths_total_2020_2021": 134
+    },
+    {
+      "municipality_el": "Νέας Σμύρνης",
+      "deaths_2020": 10,
+      "deaths_2021": 40,
+      "deaths_total_2020_2021": 50
+    },
+    {
+      "municipality_el": "Νέας Φιλαδέλφειας - Νέας Χαλκηδόνας",
+      "deaths_2020": 36,
+      "deaths_2021": 198,
+      "deaths_total_2020_2021": 234
+    },
+    {
+      "municipality_el": "Νέστου",
+      "deaths_2020": 31,
+      "deaths_2021": 52,
+      "deaths_total_2020_2021": 83
+    },
+    {
+      "municipality_el": "Νίκαιας - Αγίου Ι. Ρέντη",
+      "deaths_2020": 98,
+      "deaths_2021": 698,
+      "deaths_total_2020_2021": 796
+    },
+    {
+      "municipality_el": "Ναυπακτίας",
+      "deaths_2020": 1,
+      "deaths_2021": 32,
+      "deaths_total_2020_2021": 33
+    },
+    {
+      "municipality_el": "Ναυπλιέων",
+      "deaths_2020": 0,
+      "deaths_2021": 26,
+      "deaths_total_2020_2021": 26
+    },
+    {
+      "municipality_el": "Νεάπολης - Συκεών",
+      "deaths_2020": 5,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 21
+    },
+    {
+      "municipality_el": "Νεμέας",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Νεστορίου",
+      "deaths_2020": 7,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 12
+    },
+    {
+      "municipality_el": "Νικολάου Σκουφά",
+      "deaths_2020": 1,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 9
+    },
+    {
+      "municipality_el": "Νισύρου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Νοτίου Πηλίου",
+      "deaths_2020": 4,
+      "deaths_2021": 15,
+      "deaths_total_2020_2021": 19
+    },
+    {
+      "municipality_el": "Νότιας Κέρκυρας",
+      "deaths_2020": 3,
+      "deaths_2021": 20,
+      "deaths_total_2020_2021": 23
+    },
+    {
+      "municipality_el": "Νότιας Κυνουρίας",
+      "deaths_2020": 1,
+      "deaths_2021": 6,
+      "deaths_total_2020_2021": 7
+    },
+    {
+      "municipality_el": "Ξάνθης",
+      "deaths_2020": 42,
+      "deaths_2021": 114,
+      "deaths_total_2020_2021": 156
+    },
+    {
+      "municipality_el": "Ξηρομέρου",
+      "deaths_2020": 7,
+      "deaths_2021": 24,
+      "deaths_total_2020_2021": 31
+    },
+    {
+      "municipality_el": "Ξυλοκάστρου - Ευρωστίνης",
+      "deaths_2020": 1,
+      "deaths_2021": 9,
+      "deaths_total_2020_2021": 10
+    },
+    {
+      "municipality_el": "Οινουσσών",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Οιχαλίας",
+      "deaths_2020": 0,
+      "deaths_2021": 18,
+      "deaths_total_2020_2021": 18
+    },
+    {
+      "municipality_el": "Ορεστιάδας",
+      "deaths_2020": 9,
+      "deaths_2021": 60,
+      "deaths_total_2020_2021": 69
+    },
+    {
+      "municipality_el": "Οροπεδίου Λασιθίου",
+      "deaths_2020": 0,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Ορχομενού",
+      "deaths_2020": 5,
+      "deaths_2021": 19,
+      "deaths_total_2020_2021": 24
+    },
+    {
+      "municipality_el": "Πάργας",
+      "deaths_2020": 3,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Πάρου",
+      "deaths_2020": 1,
+      "deaths_2021": 10,
+      "deaths_total_2020_2021": 11
+    },
+    {
+      "municipality_el": "Πάτμου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Πέλλας",
+      "deaths_2020": 73,
+      "deaths_2021": 187,
+      "deaths_total_2020_2021": 260
+    },
+    {
+      "municipality_el": "Παγγαίου",
+      "deaths_2020": 33,
+      "deaths_2021": 59,
+      "deaths_total_2020_2021": 92
+    },
+    {
+      "municipality_el": "Παιανίας",
+      "deaths_2020": 5,
+      "deaths_2021": 22,
+      "deaths_total_2020_2021": 27
+    },
+    {
+      "municipality_el": "Παιονίας",
+      "deaths_2020": 48,
+      "deaths_2021": 124,
+      "deaths_total_2020_2021": 172
+    },
+    {
+      "municipality_el": "Παλαιού Φαλήρου",
+      "deaths_2020": 7,
+      "deaths_2021": 44,
+      "deaths_total_2020_2021": 51
+    },
+    {
+      "municipality_el": "Παλαμά",
+      "deaths_2020": 15,
+      "deaths_2021": 40,
+      "deaths_total_2020_2021": 55
+    },
+    {
+      "municipality_el": "Παλλήνης",
+      "deaths_2020": 6,
+      "deaths_2021": 28,
+      "deaths_total_2020_2021": 34
+    },
+    {
+      "municipality_el": "Παξών",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Παπάγου - Χολαργού",
+      "deaths_2020": 3,
+      "deaths_2021": 39,
+      "deaths_total_2020_2021": 42
+    },
+    {
+      "municipality_el": "Παρανεστίου",
+      "deaths_2020": 3,
+      "deaths_2021": 9,
+      "deaths_total_2020_2021": 12
+    },
+    {
+      "municipality_el": "Πατρέων",
+      "deaths_2020": 28,
+      "deaths_2021": 331,
+      "deaths_total_2020_2021": 359
+    },
+    {
+      "municipality_el": "Παύλου Μελά",
+      "deaths_2020": 10,
+      "deaths_2021": 39,
+      "deaths_total_2020_2021": 49
+    },
+    {
+      "municipality_el": "Πειραιώς",
+      "deaths_2020": 2,
+      "deaths_2021": 14,
+      "deaths_total_2020_2021": 16
+    },
+    {
+      "municipality_el": "Πεντέλης",
+      "deaths_2020": 10,
+      "deaths_2021": 45,
+      "deaths_total_2020_2021": 55
+    },
+    {
+      "municipality_el": "Περάματος",
+      "deaths_2020": 3,
+      "deaths_2021": 35,
+      "deaths_total_2020_2021": 38
+    },
+    {
+      "municipality_el": "Περιστερίου",
+      "deaths_2020": 33,
+      "deaths_2021": 169,
+      "deaths_total_2020_2021": 202
+    },
+    {
+      "municipality_el": "Πετρουπόλεως",
+      "deaths_2020": 13,
+      "deaths_2021": 68,
+      "deaths_total_2020_2021": 81
+    },
+    {
+      "municipality_el": "Πηνειού",
+      "deaths_2020": 1,
+      "deaths_2021": 27,
+      "deaths_total_2020_2021": 28
+    },
+    {
+      "municipality_el": "Πλατανιά",
+      "deaths_2020": 0,
+      "deaths_2021": 18,
+      "deaths_total_2020_2021": 18
+    },
+    {
+      "municipality_el": "Πολυγύρου",
+      "deaths_2020": 17,
+      "deaths_2021": 33,
+      "deaths_total_2020_2021": 50
+    },
+    {
+      "municipality_el": "Πρέβεζας",
+      "deaths_2020": 5,
+      "deaths_2021": 17,
+      "deaths_total_2020_2021": 22
+    },
+    {
+      "municipality_el": "Πρεσπών",
+      "deaths_2020": 2,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Προσοτσάνης",
+      "deaths_2020": 44,
+      "deaths_2021": 27,
+      "deaths_total_2020_2021": 71
+    },
+    {
+      "municipality_el": "Πυλαίας - Χορτιάτη",
+      "deaths_2020": 35,
+      "deaths_2021": 72,
+      "deaths_total_2020_2021": 107
+    },
+    {
+      "municipality_el": "Πωγωνίου",
+      "deaths_2020": 1,
+      "deaths_2021": 7,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Πόρου",
+      "deaths_2020": 0,
+      "deaths_2021": 2,
+      "deaths_total_2020_2021": 2
+    },
+    {
+      "municipality_el": "Πύδνας - Κολινδρού",
+      "deaths_2020": 20,
+      "deaths_2021": 40,
+      "deaths_total_2020_2021": 60
+    },
+    {
+      "municipality_el": "Πύλης",
+      "deaths_2020": 12,
+      "deaths_2021": 18,
+      "deaths_total_2020_2021": 30
+    },
+    {
+      "municipality_el": "Πύλου - Νέστορος",
+      "deaths_2020": 0,
+      "deaths_2021": 15,
+      "deaths_total_2020_2021": 15
+    },
+    {
+      "municipality_el": "Πύργου",
+      "deaths_2020": 9,
+      "deaths_2021": 58,
+      "deaths_total_2020_2021": 67
+    },
+    {
+      "municipality_el": "Ρήγα Φεραίου",
+      "deaths_2020": 15,
+      "deaths_2021": 37,
+      "deaths_total_2020_2021": 52
+    },
+    {
+      "municipality_el": "Ραφήνας - Πικερμίου",
+      "deaths_2020": 1,
+      "deaths_2021": 16,
+      "deaths_total_2020_2021": 17
+    },
+    {
+      "municipality_el": "Ρεθύμνης",
+      "deaths_2020": 2,
+      "deaths_2021": 25,
+      "deaths_total_2020_2021": 27
+    },
+    {
+      "municipality_el": "Ρόδου",
+      "deaths_2020": 5,
+      "deaths_2021": 51,
+      "deaths_total_2020_2021": 56
+    },
+    {
+      "municipality_el": "Σάμης",
+      "deaths_2020": 0,
+      "deaths_2021": 8,
+      "deaths_total_2020_2021": 8
+    },
+    {
+      "municipality_el": "Σίφνου",
+      "deaths_2020": 1,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Σαλαμίνος",
+      "deaths_2020": 5,
+      "deaths_2021": 74,
+      "deaths_total_2020_2021": 79
+    },
+    {
+      "municipality_el": "Σαμοθράκης",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Σαρωνικού",
+      "deaths_2020": 1,
+      "deaths_2021": 6,
+      "deaths_total_2020_2021": 7
+    },
+    {
+      "municipality_el": "Σερίφου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Σερβίων",
+      "deaths_2020": 4,
+      "deaths_2021": 18,
+      "deaths_total_2020_2021": 22
+    },
+    {
+      "municipality_el": "Σερρών",
+      "deaths_2020": 94,
+      "deaths_2021": 159,
+      "deaths_total_2020_2021": 253
+    },
+    {
+      "municipality_el": "Σητείας",
+      "deaths_2020": 0,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 5
+    },
+    {
+      "municipality_el": "Σιθωνίας",
+      "deaths_2020": 4,
+      "deaths_2021": 19,
+      "deaths_total_2020_2021": 23
+    },
+    {
+      "municipality_el": "Σικίνου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Σικυωνίων",
+      "deaths_2020": 0,
+      "deaths_2021": 40,
+      "deaths_total_2020_2021": 40
+    },
+    {
+      "municipality_el": "Σιντικής",
+      "deaths_2020": 49,
+      "deaths_2021": 120,
+      "deaths_total_2020_2021": 169
+    },
+    {
+      "municipality_el": "Σκιάθου",
+      "deaths_2020": 0,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 3
+    },
+    {
+      "municipality_el": "Σκοπέλου",
+      "deaths_2020": 0,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 5
+    },
+    {
+      "municipality_el": "Σκύδρας",
+      "deaths_2020": 54,
+      "deaths_2021": 70,
+      "deaths_total_2020_2021": 124
+    },
+    {
+      "municipality_el": "Σκύρου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Σουλίου",
+      "deaths_2020": 2,
+      "deaths_2021": 11,
+      "deaths_total_2020_2021": 13
+    },
+    {
+      "municipality_el": "Σουφλίου",
+      "deaths_2020": 3,
+      "deaths_2021": 25,
+      "deaths_total_2020_2021": 28
+    },
+    {
+      "municipality_el": "Σοφάδων",
+      "deaths_2020": 8,
+      "deaths_2021": 28,
+      "deaths_total_2020_2021": 36
+    },
+    {
+      "municipality_el": "Σπάρτης",
+      "deaths_2020": 1,
+      "deaths_2021": 35,
+      "deaths_total_2020_2021": 36
+    },
+    {
+      "municipality_el": "Σπάτων - Αρτέμιδος",
+      "deaths_2020": 2,
+      "deaths_2021": 34,
+      "deaths_total_2020_2021": 36
+    },
+    {
+      "municipality_el": "Σπετσών",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Στυλίδας",
+      "deaths_2020": 2,
+      "deaths_2021": 12,
+      "deaths_total_2020_2021": 14
+    },
+    {
+      "municipality_el": "Σφακίων",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Σύμης",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Σύρου - Ερμούπολης",
+      "deaths_2020": 0,
+      "deaths_2021": 6,
+      "deaths_total_2020_2021": 6
+    },
+    {
+      "municipality_el": "Τήλου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Τήνου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Τανάγρας",
+      "deaths_2020": 1,
+      "deaths_2021": 39,
+      "deaths_total_2020_2021": 40
+    },
+    {
+      "municipality_el": "Τεμπών",
+      "deaths_2020": 12,
+      "deaths_2021": 30,
+      "deaths_total_2020_2021": 42
+    },
+    {
+      "municipality_el": "Τοπείρου",
+      "deaths_2020": 15,
+      "deaths_2021": 30,
+      "deaths_total_2020_2021": 45
+    },
+    {
+      "municipality_el": "Τρίπολης",
+      "deaths_2020": 6,
+      "deaths_2021": 76,
+      "deaths_total_2020_2021": 82
+    },
+    {
+      "municipality_el": "Τρικκαίων",
+      "deaths_2020": 44,
+      "deaths_2021": 132,
+      "deaths_total_2020_2021": 176
+    },
+    {
+      "municipality_el": "Τριφυλίας",
+      "deaths_2020": 1,
+      "deaths_2021": 22,
+      "deaths_total_2020_2021": 23
+    },
+    {
+      "municipality_el": "Τροιζηνίας - Μεθάνων",
+      "deaths_2020": 1,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 6
+    },
+    {
+      "municipality_el": "Τυρνάβου",
+      "deaths_2020": 30,
+      "deaths_2021": 37,
+      "deaths_total_2020_2021": 67
+    },
+    {
+      "municipality_el": "Υδρας",
+      "deaths_2020": 1,
+      "deaths_2021": 5,
+      "deaths_total_2020_2021": 6
+    },
+    {
+      "municipality_el": "Φαιστού",
+      "deaths_2020": 0,
+      "deaths_2021": 14,
+      "deaths_total_2020_2021": 14
+    },
+    {
+      "municipality_el": "Φαρκαδόνας",
+      "deaths_2020": 5,
+      "deaths_2021": 31,
+      "deaths_total_2020_2021": 36
+    },
+    {
+      "municipality_el": "Φαρσάλων",
+      "deaths_2020": 15,
+      "deaths_2021": 39,
+      "deaths_total_2020_2021": 54
+    },
+    {
+      "municipality_el": "Φιλιατών",
+      "deaths_2020": 1,
+      "deaths_2021": 3,
+      "deaths_total_2020_2021": 4
+    },
+    {
+      "municipality_el": "Φιλοθέης - Ψυχικού",
+      "deaths_2020": 0,
+      "deaths_2021": 1,
+      "deaths_total_2020_2021": 1
+    },
+    {
+      "municipality_el": "Φλώρινας",
+      "deaths_2020": 42,
+      "deaths_2021": 43,
+      "deaths_total_2020_2021": 85
+    },
+    {
+      "municipality_el": "Φολεγάνδρου",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Φούρνων Κορσεών",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Φυλής",
+      "deaths_2020": 7,
+      "deaths_2021": 61,
+      "deaths_total_2020_2021": 68
+    },
+    {
+      "municipality_el": "Χάλκης",
+      "deaths_2020": 0,
+      "deaths_2021": 0,
+      "deaths_total_2020_2021": 0
+    },
+    {
+      "municipality_el": "Χίου",
+      "deaths_2020": 8,
+      "deaths_2021": 29,
+      "deaths_total_2020_2021": 37
+    },
+    {
+      "municipality_el": "Χαλανδρίου",
+      "deaths_2020": 12,
+      "deaths_2021": 71,
+      "deaths_total_2020_2021": 83
+    },
+    {
+      "municipality_el": "Χαλκηδόνος",
+      "deaths_2020": 47,
+      "deaths_2021": 107,
+      "deaths_total_2020_2021": 154
+    },
+    {
+      "municipality_el": "Χαλκιδέων",
+      "deaths_2020": 9,
+      "deaths_2021": 94,
+      "deaths_total_2020_2021": 103
+    },
+    {
+      "municipality_el": "Χανίων",
+      "deaths_2020": 2,
+      "deaths_2021": 41,
+      "deaths_total_2020_2021": 43
+    },
+    {
+      "municipality_el": "Χαϊδαρίου",
+      "deaths_2020": 16,
+      "deaths_2021": 86,
+      "deaths_total_2020_2021": 102
+    },
+    {
+      "municipality_el": "Χερσονήσου",
+      "deaths_2020": 5,
+      "deaths_2021": 21,
+      "deaths_total_2020_2021": 26
+    },
+    {
+      "municipality_el": "Ωραιοκάστρου",
+      "deaths_2020": 37,
+      "deaths_2021": 61,
+      "deaths_total_2020_2021": 98
+    },
+    {
+      "municipality_el": "Ωρωπού",
+      "deaths_2020": 1,
+      "deaths_2021": 28,
+      "deaths_total_2020_2021": 29
+    }
+  ],
+  "meta": {
+    "title": "Θάνατοι από COVID-19 ανά Δήμο, 2020–2021 - Δωρεάν λήψη",
+    "description": "Αριθμός θανάτων από COVID-19 σε κάθε δήμο της Ελλάδας για τα έτη 2020 και 2021. Number of COVID-19 deaths per municipality of Greece for the years 2020 and 2021. Source: iMEdD Lab COVID-19 dataset. Περιέχει 332 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Θάνατοι από COVID-19 ανά Δήμο, 2020–2021 | ListBase",
+    "seo_description": "Λήψη Θάνατοι από COVID-19 ανά Δήμο, 2020–2021 — 332 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 332 εγγραφές / 4 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,1430 @@
+{
+  "id": "el-irakleioy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Ηρακλειου (197)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Ηρακλειου (197)",
+  "description": "Οι 197 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ηρακλειου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 197,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "190301",
+      "name": "Αρχανων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190302",
+      "name": "Κατω Αρχανων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190401",
+      "name": "Αχεντρια",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190402",
+      "name": "Εθιας",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190403",
+      "name": "Καλυβιων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190404",
+      "name": "Λιγορτυνου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190405",
+      "name": "Μεσοχωριου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190406",
+      "name": "Παρανυμφων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190407",
+      "name": "Πραιτοριων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190408",
+      "name": "Πυργου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190409",
+      "name": "Τεφελιου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190410",
+      "name": "Χαρακιου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190411",
+      "name": "Χαρακος",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192001",
+      "name": "Αγιου Βασιλειου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192002",
+      "name": "Αγιων Παρασκιων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192003",
+      "name": "Αλαγνιου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192004",
+      "name": "Αστρακων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192005",
+      "name": "Αστριτσιου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192006",
+      "name": "Δαμανιων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192007",
+      "name": "Καλλονης",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192008",
+      "name": "Καταλαγαριου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192009",
+      "name": "Κουναβων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192010",
+      "name": "Μελεσων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192011",
+      "name": "Μεταξοχωριου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192012",
+      "name": "Μυρτιας",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192013",
+      "name": "Πεζων",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192014",
+      "name": "Χουδετσιου",
+      "municipality": "Αρχανων - Αστερουσιων",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190501",
+      "name": "Αγιου Βασιλειου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190502",
+      "name": "Αμιρα",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190503",
+      "name": "Ανω Βιαννου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190504",
+      "name": "Αφρατιου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190505",
+      "name": "Βαχου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190506",
+      "name": "Εμπαρου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190507",
+      "name": "Καλαμιου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190508",
+      "name": "Κατω Βιαννου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190509",
+      "name": "Κατω Συμης",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190510",
+      "name": "Κεφαλοβρυσιου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190511",
+      "name": "Μαρθας",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190512",
+      "name": "Μιλλιαραδων",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190513",
+      "name": "Ξενιακου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190514",
+      "name": "Πευκου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190515",
+      "name": "Συκολογου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190516",
+      "name": "Χονδρου",
+      "municipality": "Βιαννου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190101",
+      "name": "Αγιας Βαρβαρας",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190102",
+      "name": "Αγιου Θωμα",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190103",
+      "name": "Ανω Μουλιων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190104",
+      "name": "Δουλιου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190105",
+      "name": "Λαρανιου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190106",
+      "name": "Μεγαλης Βρυσης",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190107",
+      "name": "Πρινια",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190801",
+      "name": "Αγιου Κυριλλου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190802",
+      "name": "Αγιων Δεκα",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190803",
+      "name": "Αμπελουζου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190804",
+      "name": "Απεσωκαριου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190805",
+      "name": "Βαγιονιας",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190806",
+      "name": "Βασιλικης",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190807",
+      "name": "Βασιλικων Ανωγειων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190808",
+      "name": "Γκαγκαλων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190809",
+      "name": "Μητροπολεως",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190810",
+      "name": "Μιαμους",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190811",
+      "name": "Πλατανου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190812",
+      "name": "Πλωρας",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190813",
+      "name": "Χουστουλιανων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191501",
+      "name": "Ανω Ακριων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191502",
+      "name": "Ασημιου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191503",
+      "name": "Διονυσιου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191504",
+      "name": "Λουρων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191505",
+      "name": "Σοκαρα",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191506",
+      "name": "Σταβιων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191507",
+      "name": "Στερνων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191508",
+      "name": "Στολων",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192101",
+      "name": "Γεργερης",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192102",
+      "name": "Νυβριτου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192103",
+      "name": "Πανασου",
+      "municipality": "Γορτυνας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190701",
+      "name": "Αγιου Μυρωνος",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190702",
+      "name": "Ανω Ασιτων",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190703",
+      "name": "Κατω Ασιτων",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190704",
+      "name": "Πενταμοδιου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190705",
+      "name": "Πετροκεφαλου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190706",
+      "name": "Πυργους",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191204",
+      "name": "1Ο Δημ. Διαμερ. Ηρακλειου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191204",
+      "name": "2Ο Δημ. Διαμερ. Ηρακλειου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191204",
+      "name": "3Ο Δημ. Διαμερ. Ηρακλειου(Συμπεριλαμβάνονται Οι Οικισμοί Αθάνατων, Γουρνών, Δρακουλιάρη, Λοφουπόλεως Σέμελης Και Φοινικιά)",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191204",
+      "name": "4Ο Δημ. Διαμερ. Ηρακλειου(Συμπεριλαμβάνονται Οι Οικισμοί Αγίας Ειρήνης, Βλυχιάς, Κνωσού Και Μαραθίτη",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191201",
+      "name": "Βασιλειων",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191202",
+      "name": "Βουτων",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191203",
+      "name": "Δαφνε",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191205",
+      "name": "Σκαλανιου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191206",
+      "name": "Σταυρακιων",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191902",
+      "name": "Νεας Αλικαρνασσου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191901",
+      "name": "Καλλιθεας",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192301",
+      "name": "Αυγενικης",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192302",
+      "name": "Βενερατου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192303",
+      "name": "Κερασιων",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192304",
+      "name": "Σιβας",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192201",
+      "name": "Αγιου Συλλα",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192202",
+      "name": "Κυπαρισσου",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192203",
+      "name": "Προφητου Ηλια",
+      "municipality": "Ηρακλειου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190602",
+      "name": "Γαζιου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190601",
+      "name": "Αχλαδας",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190603",
+      "name": "Καλεσιων",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190603",
+      "name": "Ροδιας",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190604",
+      "name": "Φοδελε",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191602",
+      "name": "Κρουσωνος",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191601",
+      "name": "Κορφων",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191603",
+      "name": "Λουτρακιου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191604",
+      "name": "Σαρχου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192401",
+      "name": "Αηδονοχωριου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192402",
+      "name": "Αστυρακιου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192403",
+      "name": "Γωνιων Μαλεβιζιου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192404",
+      "name": "Δαμαστας",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192405",
+      "name": "Καμαριου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192406",
+      "name": "Καμαριωτου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192407",
+      "name": "Κεραμουτσιου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192408",
+      "name": "Μαραθου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192409",
+      "name": "Μονης",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192410",
+      "name": "Τυλισου",
+      "municipality": "Μαλεβιζιου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190201",
+      "name": "Αρκαλοχωριου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190202",
+      "name": "Γαριπας",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190203",
+      "name": "Δεματιου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190204",
+      "name": "Ινιου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190205",
+      "name": "Καραβαδου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190206",
+      "name": "Κασανου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190207",
+      "name": "Καστελλιανων",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190208",
+      "name": "Λευκοχωριου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190209",
+      "name": "Νιπιδιτου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190210",
+      "name": "Παναγιας",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190211",
+      "name": "Πανοραματος",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190212",
+      "name": "Παρτιρων",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190213",
+      "name": "Πατσιδερου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190214",
+      "name": "Σκινια",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191301",
+      "name": "Βονης",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191302",
+      "name": "Ζωφορων",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191303",
+      "name": "Θραψανου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191304",
+      "name": "Σαμπα",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191401",
+      "name": "Αμαριανου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191402",
+      "name": "Αποστολων",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191403",
+      "name": "Αρχαγγελου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191404",
+      "name": "Ασκων",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191405",
+      "name": "Γερακιου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191406",
+      "name": "Ευαγγελισμου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191407",
+      "name": "Καρουζανων",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191408",
+      "name": "Κασταμονιτσης",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191409",
+      "name": "Καστελλιου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191410",
+      "name": "Λιλιανου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191411",
+      "name": "Λυττου (Ξυδα)",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191412",
+      "name": "Μαθιας",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191413",
+      "name": "Πολυθεας",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191414",
+      "name": "Σμαριου",
+      "municipality": "Μινωα Πεδιαδας",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191102",
+      "name": "Ζαρου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191101",
+      "name": "Βοριζιων",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191103",
+      "name": "Μορονιου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191806",
+      "name": "Μοιρων",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191801",
+      "name": "Αληθινης",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191802",
+      "name": "Αντισκαριου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191803",
+      "name": "Γαλιας",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191804",
+      "name": "Καστελλιου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191805",
+      "name": "Κουσε",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191807",
+      "name": "Περιου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191808",
+      "name": "Πετροκεφαλιου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191809",
+      "name": "Πηγαϊδακιων",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191810",
+      "name": "Πομπιας",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191811",
+      "name": "Ρουφα",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191812",
+      "name": "Σκουρβουλων",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192510",
+      "name": "Τυμπακιου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192501",
+      "name": "Βωρων",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192502",
+      "name": "Γρηγοριας",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192503",
+      "name": "Καμαρων",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192504",
+      "name": "Καμηλαριου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192505",
+      "name": "Κληματος",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192506",
+      "name": "Λαγολιου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192507",
+      "name": "Μαγαρικαριου",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192508",
+      "name": "Πιτσιδιων",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192509",
+      "name": "Σιβα",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192511",
+      "name": "Φανερωμενης",
+      "municipality": "Φαιστου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190901",
+      "name": "Ανωπολεως",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190902",
+      "name": "Γουβων",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190903",
+      "name": "Ελαιας",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190904",
+      "name": "Επανω Βαθειας",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190905",
+      "name": "Καλου Χωριου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190906",
+      "name": "Κατω Βαθειας",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190907",
+      "name": "Κοξαρης",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "190908",
+      "name": "Χαρασου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191001",
+      "name": "Αϊτανιων",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191002",
+      "name": "Γαλιφας",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191003",
+      "name": "Επισκοπης",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191004",
+      "name": "Καινουργιου Χωριου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191005",
+      "name": "Σγουροκεφαλιου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191702",
+      "name": "Μαλιων",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191703",
+      "name": "Μοχου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "191701",
+      "name": "Κρασιου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192604",
+      "name": "Λιμενος Χερσονησου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192606",
+      "name": "Χερσονησου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192601",
+      "name": "Αβδου",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192602",
+      "name": "Γωνιων Πεδιαδος",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192603",
+      "name": "Κερας",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    },
+    {
+      "id": "192605",
+      "name": "Ποταμιων",
+      "municipality": "Χερσονησου",
+      "regional_unit": "Ηρακλειου",
+      "region": "Κρητης"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Ηρακλειου (197) - Δωρεάν λήψη",
+    "description": "Οι 197 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ηρακλειου (Περιφέρεια Κρητης) σύμφωνα με τον Καλλικράτη. Περιέχει 197 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Ηρακλειου (197) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Ηρακλειου (197) — 197 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 197 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

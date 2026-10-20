@@ -1,0 +1,93 @@
+{
+  "id": "el-korinthias-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Κορινθιας (6)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Κορινθιας (6)",
+  "description": "Οι 6 δήμοι της Περιφερειακής Ενότητας Κορινθιας (Περιφέρεια Πελοποννησου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 6,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9242",
+      "name": "Βελου-Βοχας",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9243",
+      "name": "Κορινθιων",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9244",
+      "name": "Λουτρακιου-Αγ.θεοδωρων",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9245",
+      "name": "Νεμεας",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9246",
+      "name": "Ξυλοκαστρου-Ευρωστινης",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    },
+    {
+      "id": "9247",
+      "name": "Σικυωνιων",
+      "regional_unit_id": "1003",
+      "regional_unit": "Κορινθιας",
+      "region": "Πελοποννησου"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Κορινθιας (6) - Δωρεάν λήψη",
+    "description": "Οι 6 δήμοι της Περιφερειακής Ενότητας Κορινθιας (Περιφέρεια Πελοποννησου) σύμφωνα με τον Καλλικράτη. Περιέχει 6 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Κορινθιας (6) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Κορινθιας (6) — 6 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 6 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "el-ionion-nison-dimoi",
+  "name": "Δήμοι — Περιφέρεια Ιονίων Νήσων",
+  "title": "Δήμοι — Περιφέρεια Ιονίων Νήσων",
+  "description": "Οι δήμοι της Περιφέρειας Ιονίων Νήσων (Ionian Islands) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 7 δήμοι.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "slug",
+      "label": "Slug",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit_name",
+      "label": "Regional Unit Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_id",
+      "label": "Periphery Id",
+      "type": "number"
+    },
+    {
+      "key": "periphery_name",
+      "label": "Periphery Name",
+      "type": "string"
+    },
+    {
+      "key": "periphery_name_native",
+      "label": "Periphery Name Native",
+      "type": "string"
+    },
+    {
+      "key": "periphery_slug",
+      "label": "Periphery Slug",
+      "type": "string"
+    },
+    {
+      "key": "municipal_units_count",
+      "label": "Municipal Units Count",
+      "type": "number"
+    },
+    {
+      "key": "communities_count",
+      "label": "Communities Count",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9116",
+      "name": "Ζακυνθου",
+      "slug": "zakynthoy",
+      "regional_unit_id": "0601",
+      "regional_unit_name": "Ζακυνθου",
+      "periphery_id": 6,
+      "periphery_name": "Ιονιων Νησων",
+      "periphery_name_native": "Ιονίων Νήσων",
+      "periphery_slug": "ionion-nison",
+      "municipal_units_count": 6,
+      "communities_count": 47
+    },
+    {
+      "id": "9117",
+      "name": "Ιθακης",
+      "slug": "ithakis",
+      "regional_unit_id": "0602",
+      "regional_unit_name": "Ιθακης",
+      "periphery_id": 6,
+      "periphery_name": "Ιονιων Νησων",
+      "periphery_name_native": "Ιονίων Νήσων",
+      "periphery_slug": "ionion-nison",
+      "municipal_units_count": 1,
+      "communities_count": 8
+    },
+    {
+      "id": "9118",
+      "name": "Κερκυρας",
+      "slug": "kerkyras",
+      "regional_unit_id": "0603",
+      "regional_unit_name": "Κερκυρας",
+      "periphery_id": 6,
+      "periphery_name": "Ιονιων Νησων",
+      "periphery_name_native": "Ιονίων Νήσων",
+      "periphery_slug": "ionion-nison",
+      "municipal_units_count": 15,
+      "communities_count": 103
+    },
+    {
+      "id": "9119",
+      "name": "Παξων",
+      "slug": "paxon",
+      "regional_unit_id": "0603",
+      "regional_unit_name": "Κερκυρας",
+      "periphery_id": 6,
+      "periphery_name": "Ιονιων Νησων",
+      "periphery_name_native": "Ιονίων Νήσων",
+      "periphery_slug": "ionion-nison",
+      "municipal_units_count": 1,
+      "communities_count": 4
+    },
+    {
+      "id": "9120",
+      "name": "Κεφαλονιας",
+      "slug": "kefalonias",
+      "regional_unit_id": "0604",
+      "regional_unit_name": "Κεφαλληνιας",
+      "periphery_id": 6,
+      "periphery_name": "Ιονιων Νησων",
+      "periphery_name_native": "Ιονίων Νήσων",
+      "periphery_slug": "ionion-nison",
+      "municipal_units_count": 8,
+      "communities_count": 71
+    },
+    {
+      "id": "9121",
+      "name": "Λευκαδας",
+      "slug": "leykadas",
+      "regional_unit_id": "0605",
+      "regional_unit_name": "Λευκαδας",
+      "periphery_id": 6,
+      "periphery_name": "Ιονιων Νησων",
+      "periphery_name_native": "Ιονίων Νήσων",
+      "periphery_slug": "ionion-nison",
+      "municipal_units_count": 7,
+      "communities_count": 42
+    },
+    {
+      "id": "9122",
+      "name": "Μεγανησιου",
+      "slug": "meganisioy",
+      "regional_unit_id": "0605",
+      "regional_unit_name": "Λευκαδας",
+      "periphery_id": 6,
+      "periphery_name": "Ιονιων Νησων",
+      "periphery_name_native": "Ιονίων Νήσων",
+      "periphery_slug": "ionion-nison",
+      "municipal_units_count": 1,
+      "communities_count": 3
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι — Περιφέρεια Ιονίων Νήσων - Δωρεάν λήψη",
+    "description": "Οι δήμοι της Περιφέρειας Ιονίων Νήσων (Ionian Islands) σύμφωνα με το πρόγραμμα Καλλικράτης (Ν. 3852/2010). Σύνολο: 7 δήμοι. Περιέχει 7 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι — Περιφέρεια Ιονίων Νήσων | ListBase",
+    "seo_description": "Λήψη Δήμοι — Περιφέρεια Ιονίων Νήσων — 7 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 7 εγγραφές / 11 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

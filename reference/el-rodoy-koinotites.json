@@ -1,0 +1,387 @@
+{
+  "id": "el-rodoy-koinotites",
+  "name": "Κοινότητες Περιφερειακής Ενότητας Ροδου (48)",
+  "title": "Κοινότητες Περιφερειακής Ενότητας Ροδου (48)",
+  "description": "Οι 48 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ροδου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 48,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "municipality",
+      "label": "Municipality",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "121801",
+      "name": "Μεγιστης",
+      "municipality": "Μεγιστης",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120201",
+      "name": "Αρχαγγελου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120202",
+      "name": "Μαλωνος",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120203",
+      "name": "Μασαρων",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120402",
+      "name": "Εμπωνα",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120401",
+      "name": "Αγιου Ισιδωρου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120403",
+      "name": "Κρητηνιας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120404",
+      "name": "Μονολιθου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120405",
+      "name": "Σιανων",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120502",
+      "name": "Αφαντου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120501",
+      "name": "Αρχιπολεως",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120801",
+      "name": "Ιαλυσου (Τριαντα)",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120901",
+      "name": "Καλυθιων",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120902",
+      "name": "Κοσκινου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "120903",
+      "name": "Ψινθου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121106",
+      "name": "Σορωνης",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121101",
+      "name": "Απολλωνα",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121102",
+      "name": "Διμυλιας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121103",
+      "name": "Καλαβαρδα",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121104",
+      "name": "Πλατανιων",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121105",
+      "name": "Σαλακου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121107",
+      "name": "Φανων",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121703",
+      "name": "Λαρδου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121704",
+      "name": "Λινδου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121701",
+      "name": "Καλαθου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121702",
+      "name": "Λαερμων",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "121705",
+      "name": "Πυλωνος",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122001",
+      "name": "Απολακκιας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122002",
+      "name": "Αρνιθας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122003",
+      "name": "Ασκληπιειου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122004",
+      "name": "Βατιου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122005",
+      "name": "Γενναδιου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122006",
+      "name": "Ιστριου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122007",
+      "name": "Κατταβιας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122008",
+      "name": "Λαχανιας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122009",
+      "name": "Μεσαναγρου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122010",
+      "name": "Προφιλιας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122303",
+      "name": "Κρεμαστης",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122304",
+      "name": "Μαριτσων",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122305",
+      "name": "Παραδεισιου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122306",
+      "name": "Παστιδας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122301",
+      "name": "Δαματριας",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122302",
+      "name": "Θεολογου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122401",
+      "name": "Ροδου",
+      "municipality": "Ροδου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122501",
+      "name": "Συμης",
+      "municipality": "Συμης",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122601",
+      "name": "Λιβαδιων",
+      "municipality": "Τηλου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122602",
+      "name": "Μεγαλου Χωριου",
+      "municipality": "Τηλου",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    },
+    {
+      "id": "122701",
+      "name": "Χαλκης",
+      "municipality": "Χαλκης",
+      "regional_unit": "Ροδου",
+      "region": "Νοτιου Αιγαιου"
+    }
+  ],
+  "meta": {
+    "title": "Κοινότητες Περιφερειακής Ενότητας Ροδου (48) - Δωρεάν λήψη",
+    "description": "Οι 48 κοινότητες/τοπικές κοινότητες της Περιφερειακής Ενότητας Ροδου (Περιφέρεια Νοτιου Αιγαιου) σύμφωνα με τον Καλλικράτη. Περιέχει 48 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Κοινότητες Περιφερειακής Ενότητας Ροδου (48) | ListBase",
+    "seo_description": "Λήψη Κοινότητες Περιφερειακής Ενότητας Ροδου (48) — 48 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 48 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

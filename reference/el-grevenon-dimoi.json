@@ -1,0 +1,65 @@
+{
+  "id": "el-grevenon-dimoi",
+  "name": "Δήμοι Περιφερειακής Ενότητας Γρεβενων (2)",
+  "title": "Δήμοι Περιφερειακής Ενότητας Γρεβενων (2)",
+  "description": "Οι 2 δήμοι της Περιφερειακής Ενότητας Γρεβενων (Περιφέρεια Δυτικης Μακεδονιας) σύμφωνα με τον Καλλικράτη.",
+  "category": "reference",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 2,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "regional_unit_id",
+      "label": "Regional Unit Id",
+      "type": "number"
+    },
+    {
+      "key": "regional_unit",
+      "label": "Regional Unit",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": "9061",
+      "name": "Γρεβενων",
+      "regional_unit_id": "0301",
+      "regional_unit": "Γρεβενων",
+      "region": "Δυτικης Μακεδονιας"
+    },
+    {
+      "id": "9062",
+      "name": "Δεσκατης",
+      "regional_unit_id": "0301",
+      "regional_unit": "Γρεβενων",
+      "region": "Δυτικης Μακεδονιας"
+    }
+  ],
+  "meta": {
+    "title": "Δήμοι Περιφερειακής Ενότητας Γρεβενων (2) - Δωρεάν λήψη",
+    "description": "Οι 2 δήμοι της Περιφερειακής Ενότητας Γρεβενων (Περιφέρεια Δυτικης Μακεδονιας) σύμφωνα με τον Καλλικράτη. Περιέχει 2 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Δήμοι Περιφερειακής Ενότητας Γρεβενων (2) | ListBase",
+    "seo_description": "Λήψη Δήμοι Περιφερειακής Ενότητας Γρεβενων (2) — 2 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 2 εγγραφές / 5 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}

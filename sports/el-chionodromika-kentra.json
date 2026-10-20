@@ -1,0 +1,159 @@
+{
+  "id": "el-chionodromika-kentra",
+  "name": "Χιονοδρομικά κέντρα της Ελλάδας",
+  "title": "Χιονοδρομικά κέντρα της Ελλάδας",
+  "description": "Ski resorts in Greece from Wikidata (P31=Q130003 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise.",
+  "category": "sports",
+  "source": "",
+  "source_url": "",
+  "updated": "2026-04",
+  "record_count": 8,
+  "columns": [
+    {
+      "key": "id",
+      "label": "Id",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_id",
+      "label": "Wikidata Id",
+      "type": "string"
+    },
+    {
+      "key": "name_el",
+      "label": "Name El",
+      "type": "string"
+    },
+    {
+      "key": "name_en",
+      "label": "Name En",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_el",
+      "label": "Admin Area El",
+      "type": "string"
+    },
+    {
+      "key": "admin_area_en",
+      "label": "Admin Area En",
+      "type": "string"
+    },
+    {
+      "key": "latitude",
+      "label": "Latitude",
+      "type": "number"
+    },
+    {
+      "key": "longitude",
+      "label": "Longitude",
+      "type": "number"
+    },
+    {
+      "key": "wikidata_url",
+      "label": "Wikidata Url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "id": 1,
+      "wikidata_id": "Q18380212",
+      "name_el": "",
+      "name_en": "Mainalon",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 37.6757,
+      "longitude": 22.2166,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q18380212"
+    },
+    {
+      "id": 2,
+      "wikidata_id": "Q111212130",
+      "name_el": "Χιονοδρομικό Κέντρο Βίγλας-Πισοδερίου",
+      "name_en": "Vigla-Pisoderi Ski Resort",
+      "admin_area_el": "Δήμος Πρεσπών",
+      "admin_area_en": "Prespes Municipality",
+      "latitude": 40.772,
+      "longitude": 21.2672,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111212130"
+    },
+    {
+      "id": 3,
+      "wikidata_id": "Q17640406",
+      "name_el": "Χιονοδρομικό Κέντρο Βελουχίου",
+      "name_en": "Velouchi Ski Resort",
+      "admin_area_el": "Δήμος Καρπενησίου",
+      "admin_area_en": "Karpenisi Municipality",
+      "latitude": 38.94159,
+      "longitude": 21.80715,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17640406"
+    },
+    {
+      "id": 4,
+      "wikidata_id": "Q12886103",
+      "name_el": "Χιονοδρομικό Κέντρο Καλαβρύτων",
+      "name_en": "Kalavrita Ski Resort",
+      "admin_area_el": "Δήμος Καλαβρύτων",
+      "admin_area_en": "Kalavryta Municipality",
+      "latitude": 38,
+      "longitude": 22.18333333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12886103"
+    },
+    {
+      "id": 5,
+      "wikidata_id": "Q7139293",
+      "name_el": "Χιονοδρομικό Κέντρο Παρνασσού",
+      "name_en": "Parnassos Ski Centre",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 38.55,
+      "longitude": 22.59,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q7139293"
+    },
+    {
+      "id": 6,
+      "wikidata_id": "Q17346965",
+      "name_el": "Χιονοδρομικό κέντρο 3-5 Πηγάδια",
+      "name_en": "3-5 Pigadia ski resort",
+      "admin_area_el": "Δήμος Ηρωικής Πόλεως Νάουσας",
+      "admin_area_en": "Naousa Municipality",
+      "latitude": 40.641,
+      "longitude": 21.9675,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q17346965"
+    },
+    {
+      "id": 7,
+      "wikidata_id": "Q12886106",
+      "name_el": "Χιονοδρομικό κέντρο Πηλίου",
+      "name_en": "Pelion Ski Center",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 39.39138889,
+      "longitude": 23.07583333,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12886106"
+    },
+    {
+      "id": 8,
+      "wikidata_id": "Q12886104",
+      "name_el": "Χιονοδρομικό κέντρο Σελίου",
+      "name_en": "Seli Ski Centre",
+      "admin_area_el": "",
+      "admin_area_en": "",
+      "latitude": 40.54055556,
+      "longitude": 22.01027778,
+      "wikidata_url": "https://www.wikidata.org/wiki/Q12886104"
+    }
+  ],
+  "meta": {
+    "title": "Χιονοδρομικά κέντρα της Ελλάδας - Δωρεάν λήψη",
+    "description": "Ski resorts in Greece from Wikidata (P31=Q130003 ∩ P17=Q41 Greece), with coordinates. Native Greek (name_el) preserved where available; English label otherwise. Περιέχει 8 εγγραφές. Λήψη σε μορφή Excel, CSV, PDF.",
+    "seo_title": "Χιονοδρομικά κέντρα της Ελλάδας | ListBase",
+    "seo_description": "Λήψη Χιονοδρομικά κέντρα της Ελλάδας — 8 εγγραφές. Διαθέσιμο σε μορφή Excel, CSV, PDF.",
+    "key_takeaways": [
+      "Περιέχει 8 εγγραφές / 9 πεδία",
+      "Δωρεάν λήψη σε μορφή Excel, CSV και PDF",
+      "Πηγή δεδομένων: open data"
+    ]
+  }
+}
