@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-20T04:01:17.439Z",
-  "total_datasets": 419,
-  "total_records": 192317,
+  "generated": "2026-10-24T00:03:11.299Z",
+  "total_datasets": 420,
+  "total_records": 192326,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "language",
@@ -4312,6 +4312,33 @@
         "xlsx": {
           "name": "el-iroa-mnimeia_EL.xlsx",
           "size": 53442
+        }
+      }
+    },
+    {
+      "id": "el-vasileis-tis-elladas",
+      "name": "Βασιλείς της Ελλάδας και περίοδοι βασιλείας",
+      "category": "history",
+      "record_count": 9,
+      "columns": [
+        "name",
+        "marriage",
+        "children",
+        "reign",
+        "relation_to_predecessor",
+        "source_url"
+      ],
+      "source": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861",
+      "updated": "2026-10",
+      "size": 9773,
+      "files": {
+        "csv": {
+          "name": "el-vasileis-tis-elladas_EL.csv",
+          "size": 5302
+        },
+        "xlsx": {
+          "name": "el-vasileis-tis-elladas_EL.xlsx",
+          "size": 8066
         }
       }
     },

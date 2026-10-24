@@ -1,0 +1,133 @@
+{
+  "id": "el-vasileis-tis-elladas",
+  "name": "Βασιλείς της Ελλάδας και περίοδοι βασιλείας",
+  "title": "Βασιλείς της Ελλάδας και περίοδοι βασιλείας",
+  "description": "Κατάλογος βασιλέων της Ελλάδας με περιόδους βασιλείας και οικογενειακές σχέσεις από την ελληνική Βικιπαίδεια. Οι χωριστές περίοδοι του ίδιου μονάρχη παραμένουν χωριστές εγγραφές.",
+  "category": "history",
+  "source": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861",
+  "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "el.wikipedia.org contributors; source page history and revision linked in source_url.",
+  "retrieved": "2026-10-24",
+  "localization": "Source values retained without translation; HTML, reference markers and hidden sorting keys removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Όνομα",
+      "type": "string"
+    },
+    {
+      "key": "marriage",
+      "label": "Γάμος",
+      "type": "string"
+    },
+    {
+      "key": "children",
+      "label": "Τέκνα",
+      "type": "string"
+    },
+    {
+      "key": "reign",
+      "label": "Βασιλεία",
+      "type": "string"
+    },
+    {
+      "key": "relation_to_predecessor",
+      "label": "Σχέση με προκάτοχο",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "Πηγή",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Όθων Α΄",
+      "marriage": "Αμαλία του Ολδεμβούργου χωρίς παιδιά",
+      "children": "-",
+      "reign": "7 Μαΐου 1832 - 24 Οκτωβρίου 1862 (30 έτη και 170 ημέρες)",
+      "relation_to_predecessor": "Επιλέχθηκε από τις Μεγάλες Δυνάμεις",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Γεώργιος Α΄",
+      "marriage": "Όλγα Κωνσταντίνοβνα της Ρωσίας",
+      "children": "Κωνσταντίνος Α΄ Γεώργιος Αλεξάνδρα Νικόλαος Μαρία Όλγα Ανδρέας Χριστόφορος",
+      "reign": "30 Μαρτίου 1863 - 18 Μαρτίου 1913 (49 έτη και 353 ημέρες)",
+      "relation_to_predecessor": "Έβδομος ξάδερφος του Βασιλιά Όθωνα ως απόγονος του Γουλιέλμου ΣΤ΄ του Λύνεμπουργκ . Επιλέχθηκε ως Βασιλιάς.",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Κωνσταντίνος Α΄",
+      "marriage": "Σοφία της Πρωσίας",
+      "children": "Γεώργιος Β΄ Αλέξανδρος Α΄ Ελένη Παύλος Α΄ Ειρήνη Αικατερίνη",
+      "reign": "1η βασιλεία 18 Μαρτίου 1913 - 11 Ιουνίου 1917 (4 έτη και 85 ημέρες)",
+      "relation_to_predecessor": "Γιος του Γεωργίου Α΄ και της Όλγα Κωνσταντίνοβνα της Ρωσίας",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Αλέξανδρος Α΄",
+      "marriage": "Ασπασία Μάνου ( μοργανατικός γάμος )",
+      "children": "Αλεξάνδρα",
+      "reign": "11 Ιουνίου 1917 - 25 Οκτωβρίου 1920 (3 έτη και 136 ημέρες)",
+      "relation_to_predecessor": "Γιος του Κωνσταντίνου Α΄ και της Σοφία της Πρωσίας",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Κωνσταντίνος Α΄",
+      "marriage": "Σοφία της Πρωσίας",
+      "children": "Γεώργιος Β΄ Αλέξανδρος Α΄ Ελένη Παύλος Α΄ Ειρήνη Αικατερίνη",
+      "reign": "2η βασιλεία 19 Δεκεμβρίου 1920 - 27 Σεπτεμβρίου 1922 (1 έτος και 282 ημέρες)",
+      "relation_to_predecessor": "Πατέρας του Αλεξάνδρου Α΄ Γιος του Γεωργίου Α΄ και της Όλγα Κωνσταντίνοβνα της Ρωσίας",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Γεώργιος Β΄",
+      "marriage": "Ελισάβετ της Ρουμανίας",
+      "children": "-",
+      "reign": "1η βασιλεία 27 Σεπτεμβρίου 1922 - 25 Μαρτίου 1924 (1 έτος και 160 ημέρες)",
+      "relation_to_predecessor": "Γιος του Κωνσταντίνου Α΄ και της Σοφία της Πρωσίας",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Γεώργιος Β΄",
+      "marriage": "Ελισάβετ της Ρουμανίας",
+      "children": "-",
+      "reign": "2η βασιλεία 25 Νοεμβρίου 1935 - 1 Απριλίου 1947 (11 έτη και 149 ημέρες)",
+      "relation_to_predecessor": "Γιος του Κωνσταντίνου Α΄ και της Σοφία της Πρωσίας",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Παύλος Α΄",
+      "marriage": "Φρειδερίκη του Ανόβερου",
+      "children": "Σοφία Κωνσταντίνος Β΄ Ειρήνη",
+      "reign": "1 Απριλίου 1947 - 6 Μαρτίου 1964 (16 έτη και 340 ημέρες)",
+      "relation_to_predecessor": "Αδελφός του Γεωργίου Β΄ Γιος του Κωνσταντίνου Α΄ και της Σοφία της Πρωσίας",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    },
+    {
+      "name": "Κωνσταντίνος Β΄",
+      "marriage": "Άννα-Μαρία της Δανίας",
+      "children": "Αλεξία Παύλος Νικόλαος Θεοδώρα Φίλιππος",
+      "reign": "6 Μαρτίου 1964 - 1 Ιουνίου 1973 (9 έτη και 89 ημέρες)",
+      "relation_to_predecessor": "Γιος του Παύλου Α΄ και της Φρειδερίκης του Ανόβερου",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    }
+  ],
+  "meta": {
+    "title": "Βασιλείς της Ελλάδας και περίοδοι βασιλείας - Free Download",
+    "description": "Κατάλογος βασιλέων της Ελλάδας με περιόδους βασιλείας και οικογενειακές σχέσεις από την ελληνική Βικιπαίδεια. Οι χωριστές περίοδοι του ίδιου μονάρχη παραμένουν χωριστές εγγραφές. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Βασιλείς της Ελλάδας και περίοδοι βασιλείας | ListBase",
+    "seo_description": "Download Βασιλείς της Ελλάδας και περίοδοι βασιλείας — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/w/index.php?title=%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CE%B2%CE%B1%CF%83%CE%B9%CE%BB%CE%AD%CF%89%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82&oldid=11856861"
+    ]
+  }
+}
