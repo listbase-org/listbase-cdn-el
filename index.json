@@ -1,12 +1,12 @@
 {
   "lang": "el",
-  "generated": "2026-10-24T00:03:11.299Z",
-  "total_datasets": 420,
-  "total_records": 192326,
+  "generated": "2026-10-24T00:06:03.128Z",
+  "total_datasets": 421,
+  "total_records": 192338,
   "categories": [
     {
       "id": "culture",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "education",
@@ -258,6 +258,30 @@
         "xlsx": {
           "name": "el-attikis-theatra_EL.xlsx",
           "size": 13341
+        }
+      }
+    },
+    {
+      "id": "el-dodeka-theoi-olympou",
+      "name": "Οι δώδεκα θεοί του Ολύμπου",
+      "category": "culture",
+      "record_count": 12,
+      "columns": [
+        "name",
+        "description",
+        "source_url"
+      ],
+      "source": "https://el.wikipedia.org/w/index.php?title=%CE%94%CF%8E%CE%B4%CE%B5%CE%BA%CE%B1_%CE%B8%CE%B5%CE%BF%CE%AF_%CF%84%CE%BF%CF%85_%CE%9F%CE%BB%CF%8D%CE%BC%CF%80%CE%BF%CF%85&oldid=11745584",
+      "updated": "2026-10",
+      "size": 31662,
+      "files": {
+        "csv": {
+          "name": "el-dodeka-theoi-olympou_EL.csv",
+          "size": 28154
+        },
+        "xlsx": {
+          "name": "el-dodeka-theoi-olympou_EL.xlsx",
+          "size": 14368
         }
       }
     },
