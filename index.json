@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-24T00:06:03.128Z",
-  "total_datasets": 421,
-  "total_records": 192338,
+  "generated": "2026-10-25T14:10:12.859Z",
+  "total_datasets": 422,
+  "total_records": 192347,
   "categories": [
     {
       "id": "culture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "language",
@@ -4312,6 +4312,30 @@
         "xlsx": {
           "name": "el-thanatoi-covid-dimous-2020-2021_EL.xlsx",
           "size": 16545
+        }
+      }
+    },
+    {
+      "id": "el-archaioi-ellinikoi-choroi",
+      "name": "Αρχαίοι ελληνικοί χοροί",
+      "category": "history",
+      "record_count": 9,
+      "columns": [
+        "name",
+        "group",
+        "source_url"
+      ],
+      "source": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505",
+      "updated": "2026-10",
+      "size": 5017,
+      "files": {
+        "csv": {
+          "name": "el-archaioi-ellinikoi-choroi_EL.csv",
+          "size": 1953
+        },
+        "xlsx": {
+          "name": "el-archaioi-ellinikoi-choroi_EL.xlsx",
+          "size": 7137
         }
       }
     },

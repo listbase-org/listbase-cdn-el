@@ -1,0 +1,91 @@
+{
+  "id": "el-archaioi-ellinikoi-choroi",
+  "name": "Αρχαίοι ελληνικοί χοροί",
+  "title": "Αρχαίοι ελληνικοί χοροί",
+  "description": "Ονόματα αρχαίων ελληνικών χορών από τη σχετική ενότητα της ελληνικής Βικιπαίδειας. Διατηρείται η γραφή της πηγής, συμπεριλαμβανομένων των λατινικών αποδόσεων.",
+  "category": "history",
+  "source": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505",
+  "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "el.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-25",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 9,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Αντιστροφή",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Carpaea",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Χορεία (χορός)",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Cordax",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Διονυσιακός",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Υπόχημα",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Κορυμπάντες",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Πυρρίχιος (χορός)",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    },
+    {
+      "name": "Συρτός",
+      "group": "Αρχαίοι ελληνικοί χοροί",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    }
+  ],
+  "meta": {
+    "title": "Αρχαίοι ελληνικοί χοροί - Free Download",
+    "description": "Ονόματα αρχαίων ελληνικών χορών από τη σχετική ενότητα της ελληνικής Βικιπαίδειας. Διατηρείται η γραφή της πηγής, συμπεριλαμβανομένων των λατινικών αποδόσεων. Contains 9 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αρχαίοι ελληνικοί χοροί | ListBase",
+    "seo_description": "Download Αρχαίοι ελληνικοί χοροί — 9 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 9 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CF%87%CE%BF%CF%81%CE%BF%CE%AF&oldid=11245505"
+    ]
+  }
+}
