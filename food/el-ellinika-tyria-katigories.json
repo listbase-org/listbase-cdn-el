@@ -1,0 +1,371 @@
+{
+  "id": "el-ellinika-tyria-katigories",
+  "name": "Ελληνικά τυριά ανά κατηγορία",
+  "title": "Ελληνικά τυριά ανά κατηγορία",
+  "description": "Ονομασίες ελληνικών τυριών με τις περιοχές και τις ενδείξεις προστασίας που αναφέρει η πηγή. Διατηρούνται οι κατηγορίες της ελληνικής Βικιπαίδειας· ένα τυρί μπορεί να εμφανίζεται σε περισσότερες από μία.",
+  "category": "food",
+  "source": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745",
+  "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "el.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-26",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 65,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ανεβατό Γρεβενών και Νομού Κοζάνης (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Ανθότυρος",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Αρμεξιά Άνδρου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Αρμόγαλο Σάμου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Γαλένι Κρήτης",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Γαλομυζήθρα Κρήτης",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Γαλοτύρι Ηπείρου και Θεσσαλίας (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Γκερεμέζι Ηπείρου και Αίγινας",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Καθούρα Ικαρίας",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Καλαθάκι Λήμνου (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κατίκι Δομοκού (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κεφαλάκι (ή στρογγυλό ή βολάκι Τήνου & Άνδρου)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κοπανιστή Ικαρίας",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Kοπανιστή Κυκλάδων (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μαλαξιά Άνδρου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μανούρι Θεσσαλίας και Δυτικής Μακεδονίας (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μαστέλο Χίου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μελίχλωρο Λήμνου και Χίου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μτσι Λήμνου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μυζήθρα",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Ξινομυζήθρα Κρήτης και Κυκλάδων (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Ξύγαλο Σητείας (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Πετρωτό (ή πετρωτή ή πέτρωμα Τήνου)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Πρέντζα Κεφαλονιάς",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Πηχτόγαλο Χανίων (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Σιμπουκουκίρα Λεωνιδίου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Σιτάκα Κάσου και Καρπάθου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Σκοτύρι Ίου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Στάκα Κρήτης",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Τουλουμοτύρι",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Τσαλαφούτι Καρπενησίου (ΠΟΠ)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Τυρογιλιάτα Αγρινίου",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Τυροζούλι Κρήτης",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Τυρομάλαμα Κρήτης",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Φέτα ΠΟΠ (Μακεδονίας, Θράκης, Ηπείρου, Θεσσαλίας, Στερεάς Ελλάδας, Πελοποννήσου και Νομού Λέσβου)",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Χλωρό Σαντορίνης",
+      "group": "Φρέσκα ή μαλακά τυρια",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Βικτώρια Θεσσαλονίκης",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κασέρι (ΠΟΠ)",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κασκαβάλι Πίνδου (ΠΓΕ)",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μελίχλωρο Λήμνου",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μετσοβέλα",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μετσοβόνε (ΠΟΠ)",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Περχαροτύρι ποντιακό",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Σφέλα Μεσσηνίας και Λακωνίας (ΠΟΠ)",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Ταλαγάνι",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Τελεμές",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Τουλουμοτύρι Κυκλάδων, Λέσβου και Τζιάς",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Φράτσια Κυθήρων",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Φορμαέλα Αράχωβας (ΠΟΠ)",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Φρουμαέλα Πελοποννήσου",
+      "group": "Ημίσκληρα τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Αρσενικό Νάξου (ΠΟΠ)",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Γραβιέρα ΠΟΠ (Κρήτης, Νάξου, Αγράφων)",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Καρίκι Τήνου",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κεφαλάκι (ή στρογγυλό ή βολάκι Τήνου & Άνδρου)",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κεφαλογραβιέρα ΠΟΠ (Δ. Μακεδονίας, Ηπείρου, Αιτωλοακαρνανίας και Ευρυτανίας)",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κεφαλοτύρι",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κορφού Κέρκυρας",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Κρασοτύρι Κω (ΠΓΕ)",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Λαδοτύρι Μυτιλήνης",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μανούρα Σίφνου , γυλωμένη",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μπάτζος (ΠΟΠ) Μακεδονίας και Θεσσαλίας",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Σαν Μιχάλη Σύρου (ΠΟΠ)",
+      "group": "Σκληρά τυριά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Ανθότυρος",
+      "group": "Τυριά ορού γάλακτος",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μανούρι",
+      "group": "Τυριά ορού γάλακτος",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    },
+    {
+      "name": "Μυζήθρα",
+      "group": "Τυριά ορού γάλακτος",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικά τυριά ανά κατηγορία - Free Download",
+    "description": "Ονομασίες ελληνικών τυριών με τις περιοχές και τις ενδείξεις προστασίας που αναφέρει η πηγή. Διατηρούνται οι κατηγορίες της ελληνικής Βικιπαίδειας· ένα τυρί μπορεί να εμφανίζεται σε περισσότερες από μία. Contains 65 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικά τυριά ανά κατηγορία | ListBase",
+    "seo_description": "Download Ελληνικά τυριά ανά κατηγορία — 65 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 65 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC_%CF%84%CF%85%CF%81%CE%B9%CE%AC&oldid=11805745"
+    ]
+  }
+}
