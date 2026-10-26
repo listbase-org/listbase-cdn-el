@@ -1,0 +1,641 @@
+{
+  "id": "el-ellinika-piata",
+  "name": "Ελληνικά πιάτα ανά κατηγορία",
+  "title": "Ελληνικά πιάτα ανά κατηγορία",
+  "description": "Πιάτα και σύντομες περιγραφές από τις ενότητες ορεκτικών, σούπας, χορτοφαγικών πιάτων, κρέατος και γλυκών της ελληνικής Βικιπαίδειας. Διατηρείται το κείμενο της πηγής.",
+  "category": "food",
+  "source": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744",
+  "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744",
+  "source_license": "CC-BY-SA-4.0",
+  "source_license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "source_attribution": "el.wikipedia.org contributors; all source URLs in rows. See page histories.",
+  "retrieved": "2026-10-26",
+  "localization": "Source text retained; markup and reference markers removed; duplicate identical rows removed; row spans flattened.",
+  "updated": "2026-10",
+  "record_count": 119,
+  "columns": [
+    {
+      "key": "name",
+      "label": "name",
+      "type": "string"
+    },
+    {
+      "key": "group",
+      "label": "group",
+      "type": "string"
+    },
+    {
+      "key": "source_url",
+      "label": "source_url",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Ντάκος , μια κρητική σαλάτα που αποτελείται από αποξηραμένο ή κρίθινο παξιμάδι, που ολοκληρώνεται με ψιλοκομμένες ντομάτες και θρυμματισμένη φέτα ή μυζήθρα.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ντολμαδάκια , αμπελόφυλλα γεμιστά με ρύζι και λαχανικά που συχνά περιλαμβάνει κρέας.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χωριάτικη σαλάτα , είναι ουσιαστικά μια σαλάτα με ντομάτα, αγγούρι , κρεμμύδι, φέτα, ελιές και ελαιόλαδο.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μαρουλοσαλάτα : Μαρούλι κομμένο, αλάτι, ξερό κρεμμύδι, λάδι, ξύδι.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπουγιουρντί , είναι ένας Θεσσαλονικιός μεζές και φτιάχνεται με φέτα, ψιλοκομμένες ντομάτες, πιπεριές, ελαιόλαδο και προαιρετικά κρεμμύδι.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λαχανοσαλάτα , πολύ λεπτο-αλεσμένο λάχανο με αλάτι, ελαιόλαδο και χυμό λεμονιού ή ξιδιού.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Παντζαροσαλάτα , με ελαιόλαδο και ξίδι.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Πατατοσαλάτα , με ελαιόλαδο, ψιλοκομμένο κρεμμύδι, μαγιονέζα και χυμό λεμονιού ή ξιδιού.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χόρτα , άγρια ή καλλιεργούμενα χόρτα, στον ατμό ή καθαρισμένα με ελαιόλαδο.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπρόκολο σαλάτα : Βρασμένο μπρόκολο, αλάτι, λάδι, λεμόνι.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μελιτζανοσαλάτα",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Καλαμαράκια , συνήθως τηγανιτά αλλά και κοκκινιστά.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κολοκυθάκια",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κολοκυθανθοί , γεμιστοί με ρύζι ή τυρί και μυρωδικά.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κολοκυθοκεφτέδες , συνήθως τηγανιτοί.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μαρίδες τηγανητές , συνήθως σερβίρονται με φέτες λεμονιού.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μελιτζάνες , αξιοσημείωτη είναι η λευκή μελιτζάνα Σαντορίνης.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σαγανάκι , τηγανητό κίτρινο τυρί (συνήθως γραβιέρα).",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σκορδαλιά , παχύ σκόρδο και πουρέ πατάτας, συνήθως συνοδεύεται με τηγανητά ψάρια.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σπανακόπιτα , με σπανάκι, τυρί φέτα, κρεμμύδια (ξερά, φρέσκα), άνηθο ή μάραθο, πράσσα, Αλάτι, Πιπέρι, ελαιόλαδο. Τυλιγμένα σε φύλλο σε μορφή πίτας.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Πατσαβουρόπιτα με τυρί ή σπανάκι",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ταραμοσαλάτα",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Τζατζίκι , γιαούρτι με αγγούρι και σκόρδο πουρέ, που χρησιμοποιείται ως μια βουτιά. Σερβίρεται και ζεστό με πίτα.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Τυρόπιτα , λευκό τυρί κρέμα (συνήθως μυζήθρα) τυλιγμένο σε πίτα με φύλλο κρούστας.",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Τυροπιτάκια",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λουκάνικο χωριάτικο",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λαδόπιτα , πίτα με ελαιόλαδο και τυρί (συνήθως φέτα).",
+      "group": "Ορεκτικά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Φασολάδα , ορίζεται σε πολλά βιβλία μαγειρικής, σαν το παραδοσιακό ελληνικό πιάτο, μερικές φορές ακόμη ονομάζεται και \"το εθνικό φαγητό των Ελλήνων\".",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Φακές , σούπα με φακές, συνήθως σερβίρεται με ξύδι και το ελαιόλαδο.",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ρεβυθόσουπα",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Τραχανάς",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γιουβαρλάκια",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κοτόσουπα",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μαγειρίτσα , η παραδοσιακή σούπα του Πάσχα που γίνεται με εντόσθια αρνιού, πυκνώνει με αυγολέμονο .",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Πατσάς",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κακαβιά",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ψαρόσουπα , μπορεί να γίνει με μια ποικιλία ψαριών, καθώς και διάφορα είδη λαχανικών, διάφορες ποικιλίες περιλαμβάνουν την κλασική κακαβιά με ελαιόλαδο.",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κρεμμυδόσουπα , σερβίρεται με τριμμένο τυρί.",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ντοματόσουπα",
+      "group": "Σούπες",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Αγκινάρες",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Αμπελοφάσουλα",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Αρακάς",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπάμιες , με σάλτσα ντομάτας.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπριάμ , συνήθως περιλαμβάνει πατάτες, μελιτζάνες, ντομάτες, κολοκυθάκια, κρεμμύδια, σκόρδο και άφθονα αρωματικά βότανα και καρυκεύματα.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Τοματοκεφτέδες , με δυόσμο, τηγανισμένοι σε ελαιόλαδο και συνήθως σερβίρονται με φάβα . Είναι κυρίως ένα κυκλαδίτικο πιάτο.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Φασολάκια , φρέσκα πράσινα φασόλια βρασμένα με πατάτες, κολοκυθάκια και σάλτσα ντομάτας.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γεμιστά , ντομάτες, πιπεριές, κολοκυθάκια και άλλα λαχανικά κούφια με γέμιση ρύζι ή κάποιες φορές με κιμά.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μελιτζάνες κοκκινιστές : με φρέσκες μελιτζάνες, πατάτες, σάλτσα ντομάτας, κρεμμύδι ξερό σκόρδο, μαϊντανό ψιλοκομμένο, ελαιόλαδο.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κουνουπίδι κοκκινιστό : Κουνουπίδι, κρεμμύδι ψιλοκομμένο, πατάτες, πελτέ ντομάτας, αλάτι, πιπέρι, μαϊντανό λάδι.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γαρίδες πλακί",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χόρτα (έχει ήδη αναφερθεί στην ενότητα ορεκτικά), αρκετά συχνά καταναλώνονται ως ένα ελαφρύ κύριο γεύμα, με βραστές πατάτες και ψωμί.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ντολμαδάκια , τυλιχτό φαγητό από αμπελόφυλλα με ρύζι και ενίοτε μοσχαρίσιο κιμά.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λαχανοντολμάδες , γεμιστοί με ρύζι (και μερικές με φορές κρέας), καρυκευμένοι με διάφορα βότανα.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λαχανόρυζο",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Πρασόρυζο",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σπανακόρυζο , σπανάκι και ρύζι, μαγειρεύεται στιφάδο με λεμόνι και ελαιόλαδο.",
+      "group": "Χορτοφαγικά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Παστίτσιο , ένα παράδειγμα της μαγειρικής επιρροής από την Ιταλία (βενετσιάνικη κουζίνα).",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Απάκι , άπαχο χοιρινό μαριναρισμένο σε ξίδι, καπνιστό με αρωματικά βότανα.",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Αστακομακαρονάδα",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Αθερίνα",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χταπόδι στη σχάρα , ψητό χταπόδι σε ξίδι, λάδι και ρίγανη.",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χταπόδι ξιδάτο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Φαγκρί στη σχάρα",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γαριδομακαρονάδα",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γαύρος τηγανητός",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γιουβέτσι , αρνί ή μοσχάρι ψημένο σε πήλινο δοχείο με κριθαράκι και ντομάτες.",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γόπες τηγανιτές",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γύρος , κρέας που ψήνεται σε κάθετη σούβλα και σερβίρεται συχνότερα με πίτα. Συνήθως είναι χοιρινός, ενώ μπορεί να είναι ή κοτόπουλο και ή αρνίσιος (ντονέρ).",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χυλοπίτες με κοτόπουλο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Καλαμαράκια πιο συχνά τηγανητά.",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κοτόπουλο στον φούρνο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κλέφτικο , είναι αρνί ψημένο, πρώτα μαριναρισμένο σε σκόρδο και χυμό λεμονιού.",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κεφτεδάκια",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λουκάνικο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μουσακάς",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μοσχάρι κοκκινιστό ή λεμονάτο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπακαλιάρος",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπριζόλες ψητές",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπαρμπούνια",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπιφτέκι",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μύδια",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Αρνάκι φούρνου με πατάτες , Ένα από τα πιο κοινά πιάτα της \" Κυριακής \". Υπάρχουν πολλές παραλλαγές με πρόσθετα συστατικά.",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κατσικάκι στον φούρνο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κατσικάκι λαδορίγανη",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Παϊδάκια , ψητά παϊδάκια με λεμόνι, ρίγανη, αλάτι και πιπέρι .",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χοιρινό με σέλινο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Οφτό (αντικριστό) , παραδοσιακός τρόπος ψησίματος (κυρίως αρνί) στην Κρήτη",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σουπιές στο μελάνι τους",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σουτζουκάκια σμυρνέικα (σμυρνέικοι κεφτέδες)",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σουβλάκι",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κοντοσούβλι",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Σπετσοφάι ένα στιφάδο από χωριάτικο λουκάνικο, πράσινες πιπεριές, κρεμμύδια και κρασί. Προέρχεται από το Πήλιο .",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Στιφάδο , κουνέλι ή λαγός , καθώς και αγριογούρουνο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ξιφίας",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γιουβαρλάκια , κεφτεδάκια σούπα με σάλτσα αυγολέμονο",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Τηγανιά , κομματάκια χοιρινού κρέατος με ελαιόλαδο. Πολλές φορές επίσης βάζουν κρασί ή ούζο (για σβήσιμο).",
+      "group": "Κρέας & θαλασσινά πιάτα",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Αμυγδαλωτά",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γιαούρτι με μέλι , συνοδεύεται συχνά από καρύδια",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Παστέλι",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Φοινικιά , μπισκότο ολοκληρώνεται με τεμαχισμένα καρύδια.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Δίπλες",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γαλακτομπούρεκο , κρέμα που ψήνεται μεταξύ των στρωμάτων της φύλλο, και στη συνέχεια, εμποτισμένο με άρωμα λεμόνι σιρόπι μελιού.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Καρυδόπιτα , ένα κέικ από θρυμματισμένα καρύδια, εμποτισμένο ή όχι σε σιρόπι.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κουλουράκια",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κουραμπιέδες , σφαιρικά μπισκότα με βούτυρο και άχνη ζάχαρη.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Κρέμα βανίλια",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λουκουμάδες , είναι ουσιαστικά τηγανητές μπάλες από ζυμάρι βουτηγμένες σε μέλι και πασπαλίζονται με κανέλα.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Λουκούμι κατασκευάζεται από άμυλο και ζάχαρη. Μια παραλλαγή από τις Σέρρες ονομάζεται Ακανές .",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μελομακάρονα",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μηλόπιτα",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μουστοκούλουρα , μπισκότα από αλεύρι ζυμωμένα με φρέσκο χυμό σταφυλιών (μούστος) αντί για νερό.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Μπακλαβάς , πίτα με αμύγδαλο και καρύδι",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Ρυζόγαλο",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γλυκά του κουταλιού από διάφορα φρούτα, ώριμα ή άγουρα αλλά και καρύδια και αμύγδαλα.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Τσουρέκι , ένα παραδοσιακό γλυκό ψωμί των Χριστουγέννων και του Πάσχα.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Βασιλόπιτα , παραδοσιακό γλυκό που παρασκευάζεται τις παραμονές της Πρωτοχρονιάς και κόβεται λίγο αφότου αλλάξει ο χρόνος.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Γιαούρτι με μέλι και καρύδια",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Φανουρόπιτα , πίτα που τη τρώμε στις 27 Αυγούστου για τη μνήμη του Άγιου Φανουρίου.",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    },
+    {
+      "name": "Χαλβάς",
+      "group": "Επιδόρπια και γλυκά",
+      "source_url": "https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικά πιάτα ανά κατηγορία - Free Download",
+    "description": "Πιάτα και σύντομες περιγραφές από τις ενότητες ορεκτικών, σούπας, χορτοφαγικών πιάτων, κρέατος και γλυκών της ελληνικής Βικιπαίδειας. Διατηρείται το κείμενο της πηγής. Contains 119 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικά πιάτα ανά κατηγορία | ListBase",
+    "seo_description": "Download Ελληνικά πιάτα ανά κατηγορία — 119 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 119 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/w/index.php?title=%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%BA%CE%BF%CF%85%CE%B6%CE%AF%CE%BD%CE%B1&oldid=11847744"
+    ]
+  }
+}
