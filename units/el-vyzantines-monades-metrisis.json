@@ -1,0 +1,403 @@
+{
+  "id": "el-vyzantines-monades-metrisis",
+  "name": "Βυζαντινές μονάδες μέτρησης",
+  "title": "Βυζαντινές μονάδες μέτρησης",
+  "description": "Οι μονάδες μέτρησης μήκους, επιφάνειας, όγκου και βάρους της Βυζαντινής Αυτοκρατορίας με την αντιστοιχία τους στο μετρικό σύστημα.",
+  "category": "units",
+  "source": "https://el.wikipedia.org/wiki/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%AD%CF%82_%CE%BC%CE%BF%CE%BD%CE%AC%CE%B4%CE%B5%CF%82_%CE%BC%CE%AD%CF%84%CF%81%CE%B7%CF%83%CE%B7%CF%82",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%AD%CF%82_%CE%BC%CE%BF%CE%BD%CE%AC%CE%B4%CE%B5%CF%82_%CE%BC%CE%AD%CF%84%CF%81%CE%B7%CF%83%CE%B7%CF%82",
+  "updated": "2026-10",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "unit",
+      "label": "Unit",
+      "type": "string"
+    },
+    {
+      "key": "greek_name",
+      "label": "Greek Name",
+      "type": "string"
+    },
+    {
+      "key": "base_ratio",
+      "label": "Base Ratio",
+      "type": "string"
+    },
+    {
+      "key": "metric_value",
+      "label": "Metric Value",
+      "type": "number"
+    },
+    {
+      "key": "metric_unit",
+      "label": "Metric Unit",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "type": "μήκος",
+      "unit": "δάκτυλος",
+      "greek_name": "",
+      "base_ratio": "1 ⁄ 16",
+      "metric_value": 0.0195,
+      "metric_unit": "μέτρα",
+      "notes": "Λέγεται και μονάς (μονάδα), καθώς ήταν η μικρότερη μονάδα μέτρησης."
+    },
+    {
+      "type": "μήκος",
+      "unit": "παλάμη",
+      "greek_name": "",
+      "base_ratio": "1 ⁄ 4",
+      "metric_value": 0.0787,
+      "metric_unit": "μέτρα",
+      "notes": "4 δάκτυλα"
+    },
+    {
+      "type": "μήκος",
+      "unit": "ήμισυ ποδός",
+      "greek_name": "ή ημιπόδιον",
+      "base_ratio": "1 ⁄ 2",
+      "metric_value": 0.1574,
+      "metric_unit": "μέτρα",
+      "notes": "8 δάκτυλα"
+    },
+    {
+      "type": "μήκος",
+      "unit": "σπιθαμή",
+      "greek_name": "3 παλάμες",
+      "base_ratio": "3 ⁄ 4",
+      "metric_value": 0.2361,
+      "metric_unit": "μέτρα",
+      "notes": "12 δάκτυλα"
+    },
+    {
+      "type": "μήκος",
+      "unit": "πους",
+      "greek_name": "πόδι (πέλμα)",
+      "base_ratio": "1",
+      "metric_value": 0.3123,
+      "metric_unit": "μέτρα",
+      "notes": "Προέρχεται από τον αρχαιοελληνικό πόδα. Ο Ρωμαϊκός πους είναι 0.3123 μ., αλλά στην πράξη κυμαινόταν από 0.308 ως 0.320 μ."
+    },
+    {
+      "type": "μήκος",
+      "unit": "δημόσιος πήχυς",
+      "greek_name": "ή τεκτονικός πήχυς",
+      "base_ratio": "1 1 ⁄ 3",
+      "metric_value": 0.4688,
+      "metric_unit": "μέτρα",
+      "notes": "Το εμπρός μέρος του χεριού. O δημόσιος πήχυς είχε 24 δακτύλους και χρησιμοποιείτο κυρίως για κατασκευές, έτσι λεγόταν λιθικός ή (ξυλο)πριστικός (πριονιστικός)."
+    },
+    {
+      "type": "μήκος",
+      "unit": "αυτοκρατορικός πήχυς",
+      "greek_name": "ή γεωμετρικός πήχυς",
+      "base_ratio": "2",
+      "metric_value": 0.625,
+      "metric_unit": "μέτρα",
+      "notes": "Ο αυτοκρατορικός ή γεωμετρικός πήχυς είχε 32 δακτύλους και χρησιμοποιείτο για αγρούς ή φορολογική εκτίμηση. Τοπικές παραλλαγές υπήρχαν επίσης για διάφορα άλλα εμπορεύματα."
+    },
+    {
+      "type": "μήκος",
+      "unit": "(απλούν) βήμα",
+      "greek_name": "",
+      "base_ratio": "2 1 ⁄ 2",
+      "metric_value": 0.787,
+      "metric_unit": "μέτρα",
+      "notes": "Το αγγλικό βήμα."
+    },
+    {
+      "type": "μήκος",
+      "unit": "διπλούν βήμα",
+      "greek_name": "",
+      "base_ratio": "5",
+      "metric_value": 1.574,
+      "metric_unit": "μέτρα",
+      "notes": "Το ρωμαϊκό βήμα."
+    },
+    {
+      "type": "μήκος",
+      "unit": "(απλή) οργυιά",
+      "greek_name": "",
+      "base_ratio": "6",
+      "metric_value": 1.87,
+      "metric_unit": "μέτρα",
+      "notes": "Προέρχεται ακριβώς από την αρχαιοελληνική οργυιά (1.89 μ.) Από τον 14ο αι. υπήρχαν τοπικές παραλλαγές, συχνά με το όνομα κάννα από το ιταλικό canna . Είναι το αγγλικό fathom."
+    },
+    {
+      "type": "μήκος",
+      "unit": "βασιλική οργυιά",
+      "greek_name": "ή γεωμετρική οργυιά",
+      "base_ratio": "6 3 ⁄ 4",
+      "metric_value": 2.1,
+      "metric_unit": "μέτρα",
+      "notes": "9 σπιθαμαί = 108 δάκτυλοι. Για τη μέτρηση αγρών και της φορολογικής εκτίμησής τους. Για να ελαφρύνει τα φορολογικά βάρη των κτημάτων, ο Μιχαήλ Δ΄ εισήγαγε το μεγαλύτερο μήκος των 9,25 σπιθαμών (2,17 μ.) για τα μεσαίας και υψηλής ποιότητας κτήματα, ενώ για τα κατώτερης ποιότητας διατήρησε το μικρότερο μήκος."
+    },
+    {
+      "type": "μήκος",
+      "unit": "δεκάποδον",
+      "greek_name": "",
+      "base_ratio": "10",
+      "metric_value": 3.148,
+      "metric_unit": "μέτρα",
+      "notes": ""
+    },
+    {
+      "type": "μήκος",
+      "unit": "σχοινίον",
+      "greek_name": "",
+      "base_ratio": "60 72",
+      "metric_value": "",
+      "metric_unit": "μέτρα",
+      "notes": "Μικρός σχοίνος. Ήταν η βάση της φορολογικής εκτίμησης γης: 10 οργυιές σε έφορα εδάφη της Βαλκανικής και ανατολικής Μ. Ασίας και 12 οργυιές στη λοιπή Μ. Ασία."
+    },
+    {
+      "type": "μήκος",
+      "unit": "πλέθρον",
+      "greek_name": "",
+      "base_ratio": "100",
+      "metric_value": 31.48,
+      "metric_unit": "μέτρα",
+      "notes": "Όσο μήκος μπορεί να οργώσει ζεύγος βοών, ώσπου να ξεκουραστούν. Ασύνηθες στις πηγές."
+    },
+    {
+      "type": "μήκος",
+      "unit": "στάδιον",
+      "greek_name": "",
+      "base_ratio": "600",
+      "metric_value": 188.8,
+      "metric_unit": "μέτρα",
+      "notes": "Το αγγλικό furlong."
+    },
+    {
+      "type": "μήκος",
+      "unit": "τόξου βολή",
+      "greek_name": "",
+      "base_ratio": "1000",
+      "metric_value": 314.8,
+      "metric_unit": "μέτρα",
+      "notes": ""
+    },
+    {
+      "type": "μήκος",
+      "unit": "μίλιον",
+      "greek_name": "",
+      "base_ratio": "5000",
+      "metric_value": 1574,
+      "metric_unit": "μέτρα",
+      "notes": "Το ρωμαϊκό milion."
+    },
+    {
+      "type": "μήκος",
+      "unit": "σχοίνος",
+      "greek_name": "",
+      "base_ratio": "20 000",
+      "metric_value": 6296,
+      "metric_unit": "μέτρα",
+      "notes": "Σχοινί πλεγμένο από το χόρτο σχοίνος. Ίσος με 33 1 ⁄ 3 στάδια."
+    },
+    {
+      "type": "μήκος",
+      "unit": "οδός ημέρας",
+      "greek_name": "οδοιπορία μίας ημέρας",
+      "base_ratio": "150 000",
+      "metric_value": 47220,
+      "metric_unit": "μέτρα",
+      "notes": ""
+    },
+    {
+      "type": "μήκος",
+      "unit": "οδός σαββάτου",
+      "greek_name": "οδοιπορία μίας εβδομάδας",
+      "base_ratio": "1 050 000",
+      "metric_value": 330540,
+      "metric_unit": "μέτρα",
+      "notes": ""
+    },
+    {
+      "type": "μήκος",
+      "unit": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "greek_name": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "base_ratio": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "metric_value": "",
+      "metric_unit": "μέτρα",
+      "notes": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate."
+    },
+    {
+      "type": "επιφάνεια",
+      "unit": "τετραγ. πους",
+      "greek_name": "",
+      "base_ratio": "1",
+      "metric_value": 0.095,
+      "metric_unit": "τετρ. μέτρα",
+      "notes": "Η βασική μνάδα."
+    },
+    {
+      "type": "επιφάνεια",
+      "unit": "στρέμμα",
+      "greek_name": "",
+      "base_ratio": "10 000",
+      "metric_value": 991,
+      "metric_unit": "τετρ. μέτρα",
+      "notes": "Κυριολεκτικά σημαίνει στροφή . Ήταν ένα τετράγωνο πλευράς ενός πλέθρου (αν και το πλέθρο δεν ήταν σύνηθες) . Ήταν η έκταση, που μπορούσε να οργώσει ένα ζεύγος βοών σε μία ημέρα, καθώς έστριβε διαδοχικά . Αυτό ανάλογα με την ποιότητα της γης κυμαινόταν από 900 ως 1900 τ.μ."
+    },
+    {
+      "type": "επιφάνεια",
+      "unit": "μόδιος",
+      "greek_name": "ή ζευγάριον",
+      "base_ratio": "30 000",
+      "metric_value": 2973,
+      "metric_unit": "τετρ. μέτρα",
+      "notes": "Κυμαινόμενο· άρχιζε από 100-250 . Το μόδιο είναι μονάδα όγκου σιτηρών και το ζευγάριον αναφέρεται σε ζεύγος βοών."
+    },
+    {
+      "type": "επιφάνεια",
+      "unit": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "greek_name": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "base_ratio": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "metric_value": "",
+      "metric_unit": "τετρ. μέτρα",
+      "notes": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate."
+    },
+    {
+      "type": "όγκος",
+      "unit": "ουγγιά",
+      "greek_name": "",
+      "base_ratio": "1 ⁄ 12",
+      "metric_value": 0.1824,
+      "metric_unit": "λίτρα",
+      "notes": "είναι η ρωμαϊκή ουγγιά."
+    },
+    {
+      "type": "όγκος",
+      "unit": "κοτύλη",
+      "greek_name": "ή ημιξέστιο",
+      "base_ratio": "1 ⁄ 8",
+      "metric_value": 0.276,
+      "metric_unit": "λίτρα",
+      "notes": "αντιστοιχεί στο ρωμαϊκό semi-sextarius"
+    },
+    {
+      "type": "όγκος",
+      "unit": "ξέστης",
+      "greek_name": "2 κοτύλες ή 3 ουγγιές",
+      "base_ratio": "1 ⁄ 4",
+      "metric_value": 0.548,
+      "metric_unit": "λίτρα",
+      "notes": "αντιστοιχεί στο ρωμαϊκό sextarius"
+    },
+    {
+      "type": "όγκος",
+      "unit": "λίτρα",
+      "greek_name": "",
+      "base_ratio": "1",
+      "metric_value": 2.1888,
+      "metric_unit": "λίτρα",
+      "notes": "αντιστοιχεί στη ρωμαϊκή libra"
+    },
+    {
+      "type": "όγκος",
+      "unit": "φούκτα",
+      "greek_name": "",
+      "base_ratio": "1 13 ⁄ 24",
+      "metric_value": 3.367,
+      "metric_unit": "λίτρα",
+      "notes": ""
+    },
+    {
+      "type": "όγκος",
+      "unit": "μόδιος",
+      "greek_name": "",
+      "base_ratio": "40",
+      "metric_value": 87.552,
+      "metric_unit": "λίτρα",
+      "notes": ""
+    },
+    {
+      "type": "όγκος",
+      "unit": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "greek_name": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "base_ratio": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "metric_value": "",
+      "metric_unit": "λίτρα",
+      "notes": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate."
+    },
+    {
+      "type": "βάρος",
+      "unit": "scruple (βότσαλο)",
+      "greek_name": "γράμμα ή τρημίσις",
+      "base_ratio": "1 ⁄ 24",
+      "metric_value": 1.55,
+      "metric_unit": "γραμμάρια",
+      "notes": "1/2 σημίσι"
+    },
+    {
+      "type": "βάρος",
+      "unit": "semissis",
+      "greek_name": "σημίσις",
+      "base_ratio": "1 ⁄ 12",
+      "metric_value": 2.27,
+      "metric_unit": "γραμμάρια",
+      "notes": "1/2 νομίσματος"
+    },
+    {
+      "type": "βάρος",
+      "unit": "nomisma",
+      "greek_name": "νόμισμα",
+      "base_ratio": "1 ⁄ 6",
+      "metric_value": 4.55,
+      "metric_unit": "γραμμάρια",
+      "notes": "1/72 λίβρας"
+    },
+    {
+      "type": "βάρος",
+      "unit": "ounce",
+      "greek_name": "ουγγιά",
+      "base_ratio": "1",
+      "metric_value": 27.3,
+      "metric_unit": "γραμμάρια",
+      "notes": "η ρωμαϊκή ουγγιά"
+    },
+    {
+      "type": "βάρος",
+      "unit": "libra",
+      "greek_name": "λίβρα",
+      "base_ratio": "12",
+      "metric_value": 327.6,
+      "metric_unit": "γραμμάρια",
+      "notes": "Η τιμή αυτή σε γραμμάρια είναι περί το 309· με τον καιρό ελαττωνόταν."
+    },
+    {
+      "type": "βάρος",
+      "unit": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "greek_name": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "base_ratio": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate.",
+      "metric_value": "",
+      "metric_unit": "γραμμάρια",
+      "notes": "Source: Loizos, unless otherwise noted. Metric equivalents are approximate."
+    }
+  ],
+  "meta": {
+    "title": "Βυζαντινές μονάδες μέτρησης - Free Download",
+    "description": "Οι μονάδες μέτρησης μήκους, επιφάνειας, όγκου και βάρους της Βυζαντινής Αυτοκρατορίας με την αντιστοιχία τους στο μετρικό σύστημα. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Βυζαντινές μονάδες μέτρησης | ListBase",
+    "seo_description": "Download Βυζαντινές μονάδες μέτρησης — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%92%CF%85%CE%B6%CE%B1%CE%BD%CF%84%CE%B9%CE%BD%CE%AD%CF%82_%CE%BC%CE%BF%CE%BD%CE%AC%CE%B4%CE%B5%CF%82_%CE%BC%CE%AD%CF%84%CF%81%CE%B7%CF%83%CE%B7%CF%82"
+    ]
+  }
+}
