@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:16.106Z",
-  "total_datasets": 428,
-  "total_records": 192638,
+  "generated": "2026-10-27T02:24:18.720Z",
+  "total_datasets": 429,
+  "total_records": 192662,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -4496,6 +4496,33 @@
         "xlsx": {
           "name": "el-vasileis-tis-elladas_EL.xlsx",
           "size": 8066
+        }
+      }
+    },
+    {
+      "id": "el-elliniko-alfavito",
+      "name": "Το ελληνικό αλφάβητο — γράμματα, ονόματα και προφορά",
+      "category": "language",
+      "record_count": 24,
+      "columns": [
+        "letter",
+        "ancient_name",
+        "modern_name",
+        "ancient_ipa",
+        "modern_ipa",
+        "phoenician"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%B1%CE%BB%CF%86%CE%AC%CE%B2%CE%B7%CF%84%CE%BF",
+      "updated": "2026-10",
+      "size": 7414,
+      "files": {
+        "csv": {
+          "name": "el-elliniko-alfavito_EL.csv",
+          "size": 1607
+        },
+        "xlsx": {
+          "name": "el-elliniko-alfavito_EL.xlsx",
+          "size": 8162
         }
       }
     },

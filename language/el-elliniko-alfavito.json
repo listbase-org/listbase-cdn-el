@@ -1,0 +1,248 @@
+{
+  "id": "el-elliniko-alfavito",
+  "name": "Το ελληνικό αλφάβητο — γράμματα, ονόματα και προφορά",
+  "title": "Το ελληνικό αλφάβητο — γράμματα, ονόματα και προφορά",
+  "description": "Τα 24 γράμματα του ελληνικού αλφαβήτου με αρχαίο και νέο όνομα, προφορά (ΔΦΑ) στην αρχαία και νέα ελληνική και το αντίστοιχο φοινικικό γράμμα.",
+  "category": "language",
+  "source": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%B1%CE%BB%CF%86%CE%AC%CE%B2%CE%B7%CF%84%CE%BF",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%B1%CE%BB%CF%86%CE%AC%CE%B2%CE%B7%CF%84%CE%BF",
+  "updated": "2026-10",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "letter",
+      "label": "Letter",
+      "type": "string"
+    },
+    {
+      "key": "ancient_name",
+      "label": "Ancient Name",
+      "type": "string"
+    },
+    {
+      "key": "modern_name",
+      "label": "Modern Name",
+      "type": "string"
+    },
+    {
+      "key": "ancient_ipa",
+      "label": "Ancient Ipa",
+      "type": "string"
+    },
+    {
+      "key": "modern_ipa",
+      "label": "Modern Ipa",
+      "type": "string"
+    },
+    {
+      "key": "phoenician",
+      "label": "Phoenician",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "letter": "Α α",
+      "ancient_name": "ἄλφα",
+      "modern_name": "άλφα",
+      "ancient_ipa": "[a] [aː]",
+      "modern_ipa": "[a]",
+      "phoenician": "Άλεφ"
+    },
+    {
+      "letter": "Β β ϐ",
+      "ancient_name": "βῆτα",
+      "modern_name": "βήτα",
+      "ancient_ipa": "[b]",
+      "modern_ipa": "[v]",
+      "phoenician": "Μπετ"
+    },
+    {
+      "letter": "Γ γ",
+      "ancient_name": "γάμμα",
+      "modern_name": "γάμμα",
+      "ancient_ipa": "[g]",
+      "modern_ipa": "[ʝ] πριν από [e̞], [i], αλλιώς [ɣ]",
+      "phoenician": "Γκιμέλ"
+    },
+    {
+      "letter": "Δ δ",
+      "ancient_name": "δέλτα",
+      "modern_name": "δέλτα",
+      "ancient_ipa": "[d]",
+      "modern_ipa": "[ð]",
+      "phoenician": "Ντάλετ"
+    },
+    {
+      "letter": "Ε ε ϵ",
+      "ancient_name": "ἒ ψιλόν",
+      "modern_name": "έψιλον",
+      "ancient_ipa": "[e]",
+      "modern_ipa": "[e̞]",
+      "phoenician": "Χε"
+    },
+    {
+      "letter": "Ζ ζ",
+      "ancient_name": "ζῆτα",
+      "modern_name": "ζήτα",
+      "ancient_ipa": "[zd] ή [dz] , αργότερα [zː]",
+      "modern_ipa": "[z]",
+      "phoenician": "Ζαΐν"
+    },
+    {
+      "letter": "Η η",
+      "ancient_name": "ἦτα",
+      "modern_name": "ήτα",
+      "ancient_ipa": "[ɛː] ([h])",
+      "modern_ipa": "[i]",
+      "phoenician": "Χετ"
+    },
+    {
+      "letter": "Θ θ",
+      "ancient_name": "θῆτα",
+      "modern_name": "θήτα",
+      "ancient_ipa": "[tʰ]",
+      "modern_ipa": "[θ]",
+      "phoenician": "Τετ"
+    },
+    {
+      "letter": "Ι ι",
+      "ancient_name": "ἰῶτα",
+      "modern_name": "ιώτα",
+      "ancient_ipa": "[i] [iː]",
+      "modern_ipa": "[i], [ʝ]",
+      "phoenician": "Γιοντ"
+    },
+    {
+      "letter": "Κ κ",
+      "ancient_name": "κάππα",
+      "modern_name": "κάππα",
+      "ancient_ipa": "[k]",
+      "modern_ipa": "[c] πριν από [e̞], [i], αλλιώς [k]",
+      "phoenician": "Καφ"
+    },
+    {
+      "letter": "Λ λ",
+      "ancient_name": "λάβδα ή λάμβδα",
+      "modern_name": "λάμδα",
+      "ancient_ipa": "[l]",
+      "modern_ipa": "[l]",
+      "phoenician": "Λαμέντ"
+    },
+    {
+      "letter": "Μ μ",
+      "ancient_name": "μῦ",
+      "modern_name": "μυ",
+      "ancient_ipa": "[m]",
+      "modern_ipa": "[m]",
+      "phoenician": "Μεμ"
+    },
+    {
+      "letter": "Ν ν",
+      "ancient_name": "νῦ",
+      "modern_name": "νυ",
+      "ancient_ipa": "[n]",
+      "modern_ipa": "[n]",
+      "phoenician": "Νούν"
+    },
+    {
+      "letter": "Ξ ξ",
+      "ancient_name": "ξῖ",
+      "modern_name": "ξι",
+      "ancient_ipa": "[ks]",
+      "modern_ipa": "[ks]",
+      "phoenician": "Σαμέκ"
+    },
+    {
+      "letter": "Ο ο",
+      "ancient_name": "ὄ μικρόν",
+      "modern_name": "όμικρον",
+      "ancient_ipa": "[o]",
+      "modern_ipa": "[o̞]",
+      "phoenician": "Αγίν"
+    },
+    {
+      "letter": "Π π",
+      "ancient_name": "πῖ",
+      "modern_name": "πι",
+      "ancient_ipa": "[p]",
+      "modern_ipa": "[p]",
+      "phoenician": "Πε"
+    },
+    {
+      "letter": "Ρ ρ",
+      "ancient_name": "ῥῶ",
+      "modern_name": "ρω",
+      "ancient_ipa": "[r], [r̥]",
+      "modern_ipa": "[ɾ]",
+      "phoenician": "Ρες"
+    },
+    {
+      "letter": "Σ σ",
+      "ancient_name": "σῖγμα",
+      "modern_name": "σίγμα",
+      "ancient_ipa": "[s]",
+      "modern_ipa": "[s]",
+      "phoenician": "Σιν"
+    },
+    {
+      "letter": "Τ τ",
+      "ancient_name": "ταῦ",
+      "modern_name": "ταυ",
+      "ancient_ipa": "[t]",
+      "modern_ipa": "[t]",
+      "phoenician": "Τάου ή Ταῦ"
+    },
+    {
+      "letter": "Υ υ",
+      "ancient_name": "ὖ ψιλόν",
+      "modern_name": "ύψιλον",
+      "ancient_ipa": "[y] [yː]",
+      "modern_ipa": "[i]",
+      "phoenician": "Βάου ή Βαῦ"
+    },
+    {
+      "letter": "Φ φ",
+      "ancient_name": "φῖ",
+      "modern_name": "φι",
+      "ancient_ipa": "[pʰ]",
+      "modern_ipa": "[f]",
+      "phoenician": ""
+    },
+    {
+      "letter": "Χ χ",
+      "ancient_name": "χῖ",
+      "modern_name": "χι",
+      "ancient_ipa": "[kʰ] ([ks])",
+      "modern_ipa": "[ç] πριν από [e̞], [i], αλλιώς [x]",
+      "phoenician": ""
+    },
+    {
+      "letter": "Ψ ψ",
+      "ancient_name": "ψῖ",
+      "modern_name": "ψι",
+      "ancient_ipa": "[ps]",
+      "modern_ipa": "[ps]",
+      "phoenician": ""
+    },
+    {
+      "letter": "Ω ω",
+      "ancient_name": "ὦ μέγα",
+      "modern_name": "ωμέγα",
+      "ancient_ipa": "[ɔː]",
+      "modern_ipa": "[o̞]",
+      "phoenician": ""
+    }
+  ],
+  "meta": {
+    "title": "Το ελληνικό αλφάβητο — γράμματα, ονόματα και προφορά - Free Download",
+    "description": "Τα 24 γράμματα του ελληνικού αλφαβήτου με αρχαίο και νέο όνομα, προφορά (ΔΦΑ) στην αρχαία και νέα ελληνική και το αντίστοιχο φοινικικό γράμμα. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Το ελληνικό αλφάβητο — γράμματα, ονόματα και προφορά | ListBase",
+    "seo_description": "Download Το ελληνικό αλφάβητο — γράμματα, ονόματα και προφορά — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8C_%CE%B1%CE%BB%CF%86%CE%AC%CE%B2%CE%B7%CF%84%CE%BF"
+    ]
+  }
+}
