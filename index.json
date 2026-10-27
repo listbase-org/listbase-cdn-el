@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:39.371Z",
-  "total_datasets": 437,
-  "total_records": 193038,
+  "generated": "2026-10-27T02:24:41.673Z",
+  "total_datasets": 438,
+  "total_records": 193072,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "reference",
@@ -4907,6 +4907,30 @@
         "xlsx": {
           "name": "el-prothipourgoi_EL.xlsx",
           "size": 23816
+        }
+      }
+    },
+    {
+      "id": "el-prothypourgoi-ana-topo-katagogis",
+      "name": "Πρωθυπουργοί της Ελλάδας ανά τόπο καταγωγής",
+      "category": "politics",
+      "record_count": 34,
+      "columns": [
+        "origin",
+        "prime_ministers",
+        "names"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%AC%CE%BB%CE%BF%CE%B3%CE%BF%CF%82_%CF%80%CF%81%CF%89%CE%B8%CF%85%CF%80%CE%BF%CF%85%CF%81%CE%B3%CF%8E%CE%BD_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 9357,
+      "files": {
+        "csv": {
+          "name": "el-prothypourgoi-ana-topo-katagogis_EL.csv",
+          "size": 4658
+        },
+        "xlsx": {
+          "name": "el-prothypourgoi-ana-topo-katagogis_EL.xlsx",
+          "size": 8736
         }
       }
     },
