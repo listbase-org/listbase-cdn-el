@@ -1,0 +1,149 @@
+{
+  "id": "el-perifereies-akatharisti-prostithemeni-axia",
+  "name": "Ακαθάριστη Προστιθέμενη Αξία ανά Περιφέρεια της Ελλάδας (2023)",
+  "title": "Ακαθάριστη Προστιθέμενη Αξία ανά Περιφέρεια της Ελλάδας (2023)",
+  "description": "Ακαθάριστη Προστιθέμενη Αξία (εκατ. €, 2023), ποσοστό συμμετοχής και κατά κεφαλήν ΑΕΠ για κάθε Περιφέρεια της Ελλάδας.",
+  "category": "economy",
+  "source": "https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+  "updated": "2026-10",
+  "record_count": 14,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "gva_million_eur_2023",
+      "label": "Gva Million Eur 2023",
+      "type": "number"
+    },
+    {
+      "key": "share",
+      "label": "Share",
+      "type": "string"
+    },
+    {
+      "key": "gdp_per_capita_eur",
+      "label": "Gdp Per Capita Eur",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "region": "Αττική",
+      "gva_million_eur_2023": 95758,
+      "share": "48,8%",
+      "gdp_per_capita_eur": 29732
+    },
+    {
+      "no": 2,
+      "region": "Κεντρική Μακεδονία",
+      "gva_million_eur_2023": 27207,
+      "share": "13,9%",
+      "gdp_per_capita_eur": 16982
+    },
+    {
+      "no": 3,
+      "region": "Κρήτη",
+      "gva_million_eur_2023": 10068,
+      "share": "5,1%",
+      "gdp_per_capita_eur": 18345
+    },
+    {
+      "no": 4,
+      "region": "Θεσσαλία",
+      "gva_million_eur_2023": 9963,
+      "share": "5,1%",
+      "gdp_per_capita_eur": 16286
+    },
+    {
+      "no": 5,
+      "region": "Στερεά Ελλάδα",
+      "gva_million_eur_2023": 8807,
+      "share": "4,5%",
+      "gdp_per_capita_eur": 18469
+    },
+    {
+      "no": 6,
+      "region": "Πελοπόννησος",
+      "gva_million_eur_2023": 8755,
+      "share": "4,5%",
+      "gdp_per_capita_eur": 17841
+    },
+    {
+      "no": 7,
+      "region": "Δυτική Ελλάδα",
+      "gva_million_eur_2023": 8478,
+      "share": "4,3%",
+      "gdp_per_capita_eur": 15210
+    },
+    {
+      "no": 8,
+      "region": "Ανατολική Μακεδονία και Θράκη",
+      "gva_million_eur_2023": 7097,
+      "share": "3,6%",
+      "gdp_per_capita_eur": 13840
+    },
+    {
+      "no": 9,
+      "region": "Νότιο Αιγαίο",
+      "gva_million_eur_2023": 6479,
+      "share": "3,3%",
+      "gdp_per_capita_eur": 21610
+    },
+    {
+      "no": 10,
+      "region": "Δυτική Μακεδονία",
+      "gva_million_eur_2023": 3510,
+      "share": "1,8%",
+      "gdp_per_capita_eur": 15543
+    },
+    {
+      "no": 11,
+      "region": "Ήπειρος",
+      "gva_million_eur_2023": 3934,
+      "share": "2,0%",
+      "gdp_per_capita_eur": 13789
+    },
+    {
+      "no": 12,
+      "region": "Ιόνια Νησιά",
+      "gva_million_eur_2023": 3402,
+      "share": "1,7%",
+      "gdp_per_capita_eur": 19502
+    },
+    {
+      "no": 13,
+      "region": "Βόρειο Αιγαίο",
+      "gva_million_eur_2023": 2595,
+      "share": "1,3%",
+      "gdp_per_capita_eur": 13136
+    },
+    {
+      "no": "",
+      "region": "Σύνολο Ελλάδας",
+      "gva_million_eur_2023": 196051,
+      "share": "100,0%",
+      "gdp_per_capita_eur": 21301
+    }
+  ],
+  "meta": {
+    "title": "Ακαθάριστη Προστιθέμενη Αξία ανά Περιφέρεια της Ελλάδας (2023) - Free Download",
+    "description": "Ακαθάριστη Προστιθέμενη Αξία (εκατ. €, 2023), ποσοστό συμμετοχής και κατά κεφαλήν ΑΕΠ για κάθε Περιφέρεια της Ελλάδας. Contains 14 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ακαθάριστη Προστιθέμενη Αξία ανά Περιφέρεια της Ελλάδας (2023) | ListBase",
+    "seo_description": "Download Ακαθάριστη Προστιθέμενη Αξία ανά Περιφέρεια της Ελλάδας (2023) — 14 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 14 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82"
+    ]
+  }
+}

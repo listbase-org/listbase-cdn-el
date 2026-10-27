@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:27.035Z",
-  "total_datasets": 432,
-  "total_records": 192879,
+  "generated": "2026-10-27T02:24:29.551Z",
+  "total_datasets": 433,
+  "total_records": 192893,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "education",
@@ -1382,6 +1382,32 @@
         "xlsx": {
           "name": "el-oikonomia-elladas-dedomena-ana-etos_EL.xlsx",
           "size": 9604
+        }
+      }
+    },
+    {
+      "id": "el-perifereies-akatharisti-prostithemeni-axia",
+      "name": "Ακαθάριστη Προστιθέμενη Αξία ανά Περιφέρεια της Ελλάδας (2023)",
+      "category": "economy",
+      "record_count": 14,
+      "columns": [
+        "no",
+        "region",
+        "gva_million_eur_2023",
+        "share",
+        "gdp_per_capita_eur"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 4877,
+      "files": {
+        "csv": {
+          "name": "el-perifereies-akatharisti-prostithemeni-axia_EL.csv",
+          "size": 829
+        },
+        "xlsx": {
+          "name": "el-perifereies-akatharisti-prostithemeni-axia_EL.xlsx",
+          "size": 7457
         }
       }
     },
