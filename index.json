@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:59.160Z",
-  "total_datasets": 445,
-  "total_records": 194222,
+  "generated": "2026-10-27T02:25:01.751Z",
+  "total_datasets": 446,
+  "total_records": 194268,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "environment",
@@ -1626,6 +1626,31 @@
         "xlsx": {
           "name": "el-vraveia-ellinikis-akadimias-kinimatografou_EL.xlsx",
           "size": 20135
+        }
+      }
+    },
+    {
+      "id": "el-ypovoles-oskar-diethnous-tainias",
+      "name": "Ελληνικές ταινίες που υποβλήθηκαν για το Όσκαρ Διεθνούς Ταινίας",
+      "category": "entertainment",
+      "record_count": 46,
+      "columns": [
+        "year",
+        "title",
+        "director",
+        "result"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82_%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82_%CF%80%CE%BF%CF%85_%CF%85%CF%80%CE%BF%CE%B2%CE%BB%CE%AE%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD_%CE%B3%CE%B9%CE%B1_%CF%84%CE%BF_%CE%8C%CF%83%CE%BA%CE%B1%CF%81_%CE%9A%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B7%CF%82_%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%BF%CF%8D%CF%82_%CE%A4%CE%B1%CE%B9%CE%BD%CE%AF%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 11609,
+      "files": {
+        "csv": {
+          "name": "el-ypovoles-oskar-diethnous-tainias_EL.csv",
+          "size": 4786
+        },
+        "xlsx": {
+          "name": "el-ypovoles-oskar-diethnous-tainias_EL.xlsx",
+          "size": 8982
         }
       }
     },

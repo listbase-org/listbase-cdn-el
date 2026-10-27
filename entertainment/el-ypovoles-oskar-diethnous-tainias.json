@@ -1,0 +1,322 @@
+{
+  "id": "el-ypovoles-oskar-diethnous-tainias",
+  "name": "Ελληνικές ταινίες που υποβλήθηκαν για το Όσκαρ Διεθνούς Ταινίας",
+  "title": "Ελληνικές ταινίες που υποβλήθηκαν για το Όσκαρ Διεθνούς Ταινίας",
+  "description": "Οι ελληνικές υποψηφιότητες για το Όσκαρ Καλύτερης Διεθνούς (Ξενόγλωσσης) Ταινίας ανά έτος: τίτλος, σκηνοθέτης και αποτέλεσμα.",
+  "category": "entertainment",
+  "source": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82_%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82_%CF%80%CE%BF%CF%85_%CF%85%CF%80%CE%BF%CE%B2%CE%BB%CE%AE%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD_%CE%B3%CE%B9%CE%B1_%CF%84%CE%BF_%CE%8C%CF%83%CE%BA%CE%B1%CF%81_%CE%9A%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B7%CF%82_%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%BF%CF%8D%CF%82_%CE%A4%CE%B1%CE%B9%CE%BD%CE%AF%CE%B1%CF%82",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82_%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82_%CF%80%CE%BF%CF%85_%CF%85%CF%80%CE%BF%CE%B2%CE%BB%CE%AE%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD_%CE%B3%CE%B9%CE%B1_%CF%84%CE%BF_%CE%8C%CF%83%CE%BA%CE%B1%CF%81_%CE%9A%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B7%CF%82_%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%BF%CF%8D%CF%82_%CE%A4%CE%B1%CE%B9%CE%BD%CE%AF%CE%B1%CF%82",
+  "updated": "2026-10",
+  "record_count": 46,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    },
+    {
+      "key": "result",
+      "label": "Result",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1955,
+      "title": "Στέλλα",
+      "director": "Μιχάλης Κακογιάννης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1957,
+      "title": "Η λίμνη των πόθων",
+      "director": "Γιώργος Ζερβός",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1962,
+      "title": "Ηλέκτρα",
+      "director": "Μιχάλης Κακογιάννης",
+      "result": "Επιλέχθηκε"
+    },
+    {
+      "year": 1963,
+      "title": "Τα κόκκινα φανάρια",
+      "director": "Βασίλης Γεωργιάδης",
+      "result": "Επιλέχθηκε"
+    },
+    {
+      "year": 1964,
+      "title": "Προδοσία",
+      "director": "Κώστας Μανουσάκης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1965,
+      "title": "Το χώμα βάφτηκε κόκκινο",
+      "director": "Βασίλης Γεωργιάδης",
+      "result": "Επιλέχθηκε"
+    },
+    {
+      "year": 1966,
+      "title": "Ντάμα σπαθί",
+      "director": "Γιώργος Σκαλενάκης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1968,
+      "title": "Βυζαντινή ραψωδία",
+      "director": "Γιώργος Σκαλενάκης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1969,
+      "title": "Κορίτσια στον ήλιο",
+      "director": "Βασίλης Γεωργιάδης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1975,
+      "title": "Ο θίασος",
+      "director": "Θόδωρος Αγγελόπουλος",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1977,
+      "title": "Ιφιγένεια",
+      "director": "Μιχάλης Κακογιάννης",
+      "result": "Επιλέχθηκε"
+    },
+    {
+      "year": 1981,
+      "title": "Ο άνθρωπος με το γαρύφαλλο",
+      "director": "Νίκος Τζίμας",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1982,
+      "title": "Άγγελος",
+      "director": "Γιώργος Κατακουζηνός",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1987,
+      "title": "Θεόφιλος",
+      "director": "Λάκης Παπαστάθης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1988,
+      "title": "Στη σκιά του τρόμου",
+      "director": "Γιώργος Καρυπίδης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1989,
+      "title": "Τοπίο στην ομίχλη",
+      "director": "Θόδωρος Αγγελόπουλος",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1990,
+      "title": "Έρωτας στη χουρμαδιά",
+      "director": "Σταύρος Τσιώλης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1995,
+      "title": "Το βλέμμα του Οδυσσέα",
+      "director": "Θόδωρος Αγγελόπουλος",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1997,
+      "title": "Η σφαγή του κόκορα",
+      "director": "Ανδρέας Πάντζης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1998,
+      "title": "Μία αιωνιότητα και μία μέρα",
+      "director": "Θόδωρος Αγγελόπουλος",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 1999,
+      "title": "Από την άκρη της πόλης",
+      "director": "Κωνσταντίνος Γιάνναρης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2000,
+      "title": "Peppermint",
+      "director": "Κώστας Κάπακας",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2001,
+      "title": "Ένας κι ένας",
+      "director": "Νίκος Ζαπατίνας",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2002,
+      "title": "Το μόνον της ζωής του ταξείδιον",
+      "director": "Λάκης Παπαστάθης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2003,
+      "title": "Θα το μετανιώσεις",
+      "director": "Κατερίνα Ευαγγελάκου",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2004,
+      "title": "Πολίτικη κουζίνα",
+      "director": "Τάσος Μπουλμέτης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2006,
+      "title": "Η χορωδία του Χαρίτωνα",
+      "director": "Γρηγόρης Καραντινάκης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2007,
+      "title": "Eduart",
+      "director": "Αγγελική Αντωνίου",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2008,
+      "title": "Διόρθωση",
+      "director": "Θάνος Αναστόπουλος",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2009,
+      "title": "Οι σκλάβοι στα δεσμά τους",
+      "director": "Τώνης Λυκουρέσης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2010,
+      "title": "Κυνόδοντας",
+      "director": "Γιώργος Λάνθιμος",
+      "result": "Επιλέχθηκε"
+    },
+    {
+      "year": 2011,
+      "title": "Attenberg",
+      "director": "Αθηνά Ραχήλ Τσαγγάρη",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2012,
+      "title": "Άδικος κόσμος",
+      "director": "Φίλιππος Τσίτος",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2013,
+      "title": "Το αγόρι τρώει το φαγητό του πουλιού",
+      "director": "Έκτορας Λυγίζος",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2014,
+      "title": "Μικρά Αγγλία",
+      "director": "Παντελής Βούλγαρης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2015,
+      "title": "Ξενία",
+      "director": "Πάνος Κούτρας",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2016,
+      "title": "Chevalier",
+      "director": "Αθηνά Ραχήλ Τσαγγάρη",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2017,
+      "title": "Πλατεία Αμερικής",
+      "director": "Γιάννης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2018,
+      "title": "Πολυξένη: Μια ιστορία από την Πόλη",
+      "director": "Δώρα Μασκλαβάνου",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2019,
+      "title": "Όταν ο Βάγκνερ συνάντησε τις ντομάτες",
+      "director": "Μαριάννα Οικονόμου",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2020,
+      "title": "Μήλα",
+      "director": "Χρήστος Νίκου",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2021,
+      "title": "Digger",
+      "director": "Τζώρτζης Γρηγοράκης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2022,
+      "title": "Μαγνητικά πεδία",
+      "director": "Γιώργος Γούσης",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2023,
+      "title": "Πίσω από τις θημωνιές",
+      "director": "Ασημίνα Προέδρου",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2024,
+      "title": "Φόνισσα",
+      "director": "Εύα Νάθενα",
+      "result": "Δεν επιλέχθηκε"
+    },
+    {
+      "year": 2025,
+      "title": "Αρκάντια",
+      "director": "Γιώργος Ζώης",
+      "result": "Δεν επιλέχθηκε"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικές ταινίες που υποβλήθηκαν για το Όσκαρ Διεθνούς Ταινίας - Free Download",
+    "description": "Οι ελληνικές υποψηφιότητες για το Όσκαρ Καλύτερης Διεθνούς (Ξενόγλωσσης) Ταινίας ανά έτος: τίτλος, σκηνοθέτης και αποτέλεσμα. Contains 46 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικές ταινίες που υποβλήθηκαν για το Όσκαρ Διεθνούς Ταινίας | ListBase",
+    "seo_description": "Download Ελληνικές ταινίες που υποβλήθηκαν για το Όσκαρ Διεθνούς Ταινίας — 46 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 46 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AD%CF%82_%CF%84%CE%B1%CE%B9%CE%BD%CE%AF%CE%B5%CF%82_%CF%80%CE%BF%CF%85_%CF%85%CF%80%CE%BF%CE%B2%CE%BB%CE%AE%CE%B8%CE%B7%CE%BA%CE%B1%CE%BD_%CE%B3%CE%B9%CE%B1_%CF%84%CE%BF_%CE%8C%CF%83%CE%BA%CE%B1%CF%81_%CE%9A%CE%B1%CE%BB%CF%8D%CF%84%CE%B5%CF%81%CE%B7%CF%82_%CE%94%CE%B9%CE%B5%CE%B8%CE%BD%CE%BF%CF%8D%CF%82_%CE%A4%CE%B1%CE%B9%CE%BD%CE%AF%CE%B1%CF%82"
+    ]
+  }
+}
