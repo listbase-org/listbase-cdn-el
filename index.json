@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:24.606Z",
-  "total_datasets": 431,
-  "total_records": 192833,
+  "generated": "2026-10-27T02:24:27.035Z",
+  "total_datasets": 432,
+  "total_records": 192879,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "education",
@@ -1352,6 +1352,36 @@
         "xlsx": {
           "name": "el-apascholisi-anergia-ana-perifereia_EL.xlsx",
           "size": 7425
+        }
+      }
+    },
+    {
+      "id": "el-oikonomia-elladas-dedomena-ana-etos",
+      "name": "Οικονομία της Ελλάδας — βασικοί δείκτες ανά έτος",
+      "category": "economy",
+      "record_count": 46,
+      "columns": [
+        "year",
+        "gdp_ppp_bn_usd",
+        "gdp_ppp_per_capita_usd",
+        "gdp_nominal_bn_usd",
+        "gdp_nominal_per_capita_usd",
+        "real_gdp_growth",
+        "inflation_pct",
+        "unemployment_pct",
+        "government_debt_pct_gdp"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 17962,
+      "files": {
+        "csv": {
+          "name": "el-oikonomia-elladas-dedomena-ana-etos_EL.csv",
+          "size": 3496
+        },
+        "xlsx": {
+          "name": "el-oikonomia-elladas-dedomena-ana-etos_EL.xlsx",
+          "size": 9604
         }
       }
     },
