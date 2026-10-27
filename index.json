@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:49.273Z",
-  "total_datasets": 441,
-  "total_records": 193373,
+  "generated": "2026-10-27T02:24:51.744Z",
+  "total_datasets": 442,
+  "total_records": 193753,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "time",
@@ -11711,6 +11711,31 @@
         "xlsx": {
           "name": "el-prothemata-kinitis-tilefonias_EL.xlsx",
           "size": 10840
+        }
+      }
+    },
+    {
+      "id": "el-tilefonikoi-kodikoi-perioxon",
+      "name": "Τηλεφωνικοί κωδικοί περιοχών της Ελλάδας",
+      "category": "tech",
+      "record_count": 380,
+      "columns": [
+        "code",
+        "area",
+        "localities",
+        "zone"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%A4%CE%B7%CE%BB%CE%B5%CF%86%CF%89%CE%BD%CE%B9%CE%BA%CE%BF%CE%AF_%CE%BA%CF%89%CE%B4%CE%B9%CE%BA%CE%BF%CE%AF_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 122556,
+      "files": {
+        "csv": {
+          "name": "el-tilefonikoi-kodikoi-perioxon_EL.csv",
+          "size": 90483
+        },
+        "xlsx": {
+          "name": "el-tilefonikoi-kodikoi-perioxon_EL.xlsx",
+          "size": 28210
         }
       }
     },
