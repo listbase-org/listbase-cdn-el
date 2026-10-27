@@ -1,0 +1,136 @@
+{
+  "id": "el-apascholisi-anergia-ana-perifereia",
+  "name": "Απασχόληση και ανεργία ανά Περιφέρεια της Ελλάδας",
+  "title": "Απασχόληση και ανεργία ανά Περιφέρεια της Ελλάδας",
+  "description": "Ποσοστά απασχολουμένων, ανέργων και κενών θέσεων εργασίας ανά Περιφέρεια της Ελλάδας.",
+  "category": "economy",
+  "source": "https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+  "updated": "2026-10",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "employed",
+      "label": "Employed",
+      "type": "string"
+    },
+    {
+      "key": "unemployed",
+      "label": "Unemployed",
+      "type": "string"
+    },
+    {
+      "key": "vacancies",
+      "label": "Vacancies",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "region": "Ανατολικής Μακεδονίας και Θράκης",
+      "employed": "39,6%",
+      "unemployed": "18,5%",
+      "vacancies": "1,4%"
+    },
+    {
+      "region": "Κεντρικής Μακεδονίας",
+      "employed": "40,5%",
+      "unemployed": "16,1%",
+      "vacancies": "9,6%"
+    },
+    {
+      "region": "Δυτικής Μακεδονίας",
+      "employed": "38,7%",
+      "unemployed": "19,7%",
+      "vacancies": "1,1%"
+    },
+    {
+      "region": "Ηπείρου",
+      "employed": "36%",
+      "unemployed": "15,1%",
+      "vacancies": "0,9%"
+    },
+    {
+      "region": "Ιονίων Νήσων",
+      "employed": "42,5%",
+      "unemployed": "13,2%",
+      "vacancies": "7,4%"
+    },
+    {
+      "region": "Θεσσαλίας",
+      "employed": "41,9%",
+      "unemployed": "16,6%",
+      "vacancies": "2,1%"
+    },
+    {
+      "region": "Δυτικής Ελλάδας",
+      "employed": "40,8%",
+      "unemployed": "17,4%",
+      "vacancies": "2,8%"
+    },
+    {
+      "region": "Αττικής",
+      "employed": "46,9%",
+      "unemployed": "11,9%",
+      "vacancies": "61,1%"
+    },
+    {
+      "region": "Στερεάς Ελλάδας",
+      "employed": "40,9%",
+      "unemployed": "17,2%",
+      "vacancies": "1,9%"
+    },
+    {
+      "region": "Πελοποννήσου",
+      "employed": "45,7%",
+      "unemployed": "12,7%",
+      "vacancies": "1,5%"
+    },
+    {
+      "region": "Βορείου Αιγαίου",
+      "employed": "43,5%",
+      "unemployed": "13,8%",
+      "vacancies": "7,6%"
+    },
+    {
+      "region": "Νοτίου Αιγαίου",
+      "employed": "43,1%",
+      "unemployed": "18,8%",
+      "vacancies": "0,8%"
+    },
+    {
+      "region": "Κρήτης",
+      "employed": "44,5%",
+      "unemployed": "16,3%",
+      "vacancies": "1,9%"
+    },
+    {
+      "region": "Άγιο Όρος (αυτοδιοίκητο)",
+      "employed": "",
+      "unemployed": "",
+      "vacancies": ""
+    },
+    {
+      "region": "Σύνολο επικράτειας",
+      "employed": "85,3%",
+      "unemployed": "14,7%",
+      "vacancies": ""
+    }
+  ],
+  "meta": {
+    "title": "Απασχόληση και ανεργία ανά Περιφέρεια της Ελλάδας - Free Download",
+    "description": "Ποσοστά απασχολουμένων, ανέργων και κενών θέσεων εργασίας ανά Περιφέρεια της Ελλάδας. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Απασχόληση και ανεργία ανά Περιφέρεια της Ελλάδας | ListBase",
+    "seo_description": "Download Απασχόληση και ανεργία ανά Περιφέρεια της Ελλάδας — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82"
+    ]
+  }
+}

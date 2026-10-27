@@ -1,12 +1,16 @@
 {
   "lang": "el",
-  "generated": "2026-10-26T02:57:05.291Z",
-  "total_datasets": 424,
-  "total_records": 192531,
+  "generated": "2026-10-27T02:24:08.218Z",
+  "total_datasets": 425,
+  "total_records": 192546,
   "categories": [
     {
       "id": "culture",
       "dataset_count": 19
+    },
+    {
+      "id": "economy",
+      "dataset_count": 1
     },
     {
       "id": "education",
@@ -1287,6 +1291,31 @@
         "xlsx": {
           "name": "el-vyzantines-ekklisies_EL.xlsx",
           "size": 58127
+        }
+      }
+    },
+    {
+      "id": "el-apascholisi-anergia-ana-perifereia",
+      "name": "Απασχόληση και ανεργία ανά Περιφέρεια της Ελλάδας",
+      "category": "economy",
+      "record_count": 15,
+      "columns": [
+        "region",
+        "employed",
+        "unemployed",
+        "vacancies"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%9F%CE%B9%CE%BA%CE%BF%CE%BD%CE%BF%CE%BC%CE%AF%CE%B1_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 4368,
+      "files": {
+        "csv": {
+          "name": "el-apascholisi-anergia-ana-perifereia_EL.csv",
+          "size": 851
+        },
+        "xlsx": {
+          "name": "el-apascholisi-anergia-ana-perifereia_EL.xlsx",
+          "size": 7425
         }
       }
     },
