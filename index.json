@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:34.474Z",
-  "total_datasets": 435,
-  "total_records": 192953,
+  "generated": "2026-10-27T02:24:36.823Z",
+  "total_datasets": 436,
+  "total_records": 192982,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "music",
@@ -4660,6 +4660,31 @@
         "xlsx": {
           "name": "el-proedroi-areiou-pagou_EL.xlsx",
           "size": 10869
+        }
+      }
+    },
+    {
+      "id": "el-proedroi-symvouliou-epikrateias",
+      "name": "Πρόεδροι του Συμβουλίου της Επικρατείας",
+      "category": "law",
+      "record_count": 29,
+      "columns": [
+        "no",
+        "president",
+        "term",
+        "notes"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CE%B2%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CF%84%CE%B7%CF%82_%CE%95%CF%80%CE%B9%CE%BA%CF%81%CE%B1%CF%84%CE%B5%CE%AF%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 6873,
+      "files": {
+        "csv": {
+          "name": "el-proedroi-symvouliou-epikrateias_EL.csv",
+          "size": 2501
+        },
+        "xlsx": {
+          "name": "el-proedroi-symvouliou-epikrateias_EL.xlsx",
+          "size": 8242
         }
       }
     },

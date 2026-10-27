@@ -1,0 +1,220 @@
+{
+  "id": "el-proedroi-symvouliou-epikrateias",
+  "name": "Πρόεδροι του Συμβουλίου της Επικρατείας",
+  "title": "Πρόεδροι του Συμβουλίου της Επικρατείας",
+  "description": "Κατάλογος των Προέδρων του Συμβουλίου της Επικρατείας (ανώτατο διοικητικό δικαστήριο της Ελλάδας) από το 1929.",
+  "category": "law",
+  "source": "https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CE%B2%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CF%84%CE%B7%CF%82_%CE%95%CF%80%CE%B9%CE%BA%CF%81%CE%B1%CF%84%CE%B5%CE%AF%CE%B1%CF%82",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CE%B2%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CF%84%CE%B7%CF%82_%CE%95%CF%80%CE%B9%CE%BA%CF%81%CE%B1%CF%84%CE%B5%CE%AF%CE%B1%CF%82",
+  "updated": "2026-10",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "no",
+      "label": "No",
+      "type": "number"
+    },
+    {
+      "key": "president",
+      "label": "President",
+      "type": "string"
+    },
+    {
+      "key": "term",
+      "label": "Term",
+      "type": "string"
+    },
+    {
+      "key": "notes",
+      "label": "Notes",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "no": 1,
+      "president": "Κωνσταντίνος Ρακτιβάν",
+      "term": "1929-1935",
+      "notes": ""
+    },
+    {
+      "no": 2,
+      "president": "Στάμος Παπαφράγκος",
+      "term": "1935-1941",
+      "notes": ""
+    },
+    {
+      "no": 3,
+      "president": "Παναγιώτης Τριανταφυλλάκος",
+      "term": "1941-1943",
+      "notes": ""
+    },
+    {
+      "no": 4,
+      "president": "Παναγιώτης Πουλίτσας",
+      "term": "1943-1951",
+      "notes": "Προσωρινός Πρωθυπουργός του Βασιλείου της Ελλάδος (4 έως 18 Απριλίου 1946)"
+    },
+    {
+      "no": 5,
+      "president": "Σωτήριος Σολιώτης",
+      "term": "1951-1961",
+      "notes": ""
+    },
+    {
+      "no": 6,
+      "president": "Χαρίλαος Μητρέλιας",
+      "term": "1961-1966",
+      "notes": ""
+    },
+    {
+      "no": 7,
+      "president": "Μιχαήλ Στασινόπουλος",
+      "term": "1966-1969",
+      "notes": ""
+    },
+    {
+      "no": 8,
+      "president": "Αλέξανδρος Δήμιτσας",
+      "term": "1969-1974",
+      "notes": ""
+    },
+    {
+      "no": 9,
+      "president": "Γεώργιος Μαραγκόπουλος",
+      "term": "1974-1976",
+      "notes": ""
+    },
+    {
+      "no": 10,
+      "president": "Όθων Κυριακός (19??-2000 )",
+      "term": "1976-1977",
+      "notes": ""
+    },
+    {
+      "no": 11,
+      "president": "Νικόλαος Μπουρόπουλος",
+      "term": "1977-1981",
+      "notes": ""
+    },
+    {
+      "no": 12,
+      "president": "Άγγελος Ιατρίδης (19??-2001)",
+      "term": "1981-1983",
+      "notes": "Κηδεύτηκε στις 19 Φεβρουαρίου 2001."
+    },
+    {
+      "no": 13,
+      "president": "Θεμιστοκλής Κουρουσόπουλος",
+      "term": "1983-1988",
+      "notes": ""
+    },
+    {
+      "no": 14,
+      "president": "Βασίλειος Ρώτης",
+      "term": "1988",
+      "notes": ""
+    },
+    {
+      "no": 15,
+      "president": "Βασίλειος Μποτόπουλος",
+      "term": "1988-1999",
+      "notes": "Ο μακροβιότερος Πρόεδρος στην ιστορία του ΣτΕ (θητεία 11 ετών)"
+    },
+    {
+      "no": 16,
+      "president": "Χρίστος Γεραρής",
+      "term": "1999-2005",
+      "notes": ""
+    },
+    {
+      "no": 17,
+      "president": "Γεώργιος Παναγιωτόπουλος",
+      "term": "2005-2009",
+      "notes": ""
+    },
+    {
+      "no": 18,
+      "president": "Παναγιώτης Πικραμμένος",
+      "term": "2009-2012",
+      "notes": "Παραίτηση λόγω ανάληψης καθηκόντων ως Υπηρεσιακός Πρωθυπουργός της Ελληνικής Δημοκρατίας"
+    },
+    {
+      "no": 19,
+      "president": "Κωνσταντίνος Μενουδάκος",
+      "term": "2012",
+      "notes": "Αντιπρόεδρος - Εκτελών χρέη Προέδρου"
+    },
+    {
+      "no": 20,
+      "president": "Κωνσταντίνος Μενουδάκος",
+      "term": "2012-2013",
+      "notes": ""
+    },
+    {
+      "no": 21,
+      "president": "Σωτήριος Ρίζος",
+      "term": "2013-2015",
+      "notes": ""
+    },
+    {
+      "no": 22,
+      "president": "Νικόλαος Σακελλαρίου",
+      "term": "2015-2018",
+      "notes": "Παραίτηση"
+    },
+    {
+      "no": 23,
+      "president": "Αθανάσιος Ράντος",
+      "term": "2018",
+      "notes": "Αντιπρόεδρος - Εκτελών χρέη Προέδρου"
+    },
+    {
+      "no": 24,
+      "president": "Αικατερίνη Σακελλαροπούλου",
+      "term": "2018-2020",
+      "notes": "Παραίτηση λόγω εκλογής ως Πρόεδρος της Ελληνικής Δημοκρατίας"
+    },
+    {
+      "no": 25,
+      "president": "Αθανάσιος Ράντος",
+      "term": "2020",
+      "notes": ""
+    },
+    {
+      "no": 26,
+      "president": "Μαίρη Σαρπ",
+      "term": "2020-2021",
+      "notes": ""
+    },
+    {
+      "no": 27,
+      "president": "Δημήτρης Σκαλτσούνης",
+      "term": "2021-2022",
+      "notes": ""
+    },
+    {
+      "no": 28,
+      "president": "Ευαγγελία Νίκα",
+      "term": "2022-2024",
+      "notes": ""
+    },
+    {
+      "no": 29,
+      "president": "Μιχαήλ Πικραμένος",
+      "term": "2024-",
+      "notes": ""
+    }
+  ],
+  "meta": {
+    "title": "Πρόεδροι του Συμβουλίου της Επικρατείας - Free Download",
+    "description": "Κατάλογος των Προέδρων του Συμβουλίου της Επικρατείας (ανώτατο διοικητικό δικαστήριο της Ελλάδας) από το 1929. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Πρόεδροι του Συμβουλίου της Επικρατείας | ListBase",
+    "seo_description": "Download Πρόεδροι του Συμβουλίου της Επικρατείας — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CE%B2%CE%BF%CF%8D%CE%BB%CE%B9%CE%BF_%CF%84%CE%B7%CF%82_%CE%95%CF%80%CE%B9%CE%BA%CF%81%CE%B1%CF%84%CE%B5%CE%AF%CE%B1%CF%82"
+    ]
+  }
+}
