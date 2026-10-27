@@ -1,0 +1,191 @@
+{
+  "id": "el-elaiolada-pop-pge",
+  "name": "Ελληνικά ελαιόλαδα ΠΟΠ και ΠΓΕ",
+  "title": "Ελληνικά ελαιόλαδα ΠΟΠ και ΠΓΕ",
+  "description": "Τα ελληνικά ελαιόλαδα με Προστατευόμενη Ονομασία Προέλευσης (ΠΟΠ) ή Προστατευόμενη Γεωγραφική Ένδειξη (ΠΓΕ) και η περιοχή προέλευσής τους.",
+  "category": "agriculture",
+  "source": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%B1%CE%B9%CE%BF%CE%BA%CE%BF%CE%BC%CE%AF%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%B1%CE%B9%CE%BF%CE%BA%CE%BF%CE%BC%CE%AF%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",
+  "updated": "2026-10",
+  "record_count": 30,
+  "columns": [
+    {
+      "key": "product",
+      "label": "Product",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "designation",
+      "label": "Designation",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "product": "Αποκόρωνας Χανίων Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Αρχάνες Ηρακλείου Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Εξαιρετικό Παρθένο Ελαιόλαδο Σέλινο Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Φοινίκη Λακωνίας",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Καλαμάτα",
+      "region": "Μεσσηνία",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Κολυμβάρι Χανίων Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Κρανίδι Αργολίδας",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Κρήτη",
+      "region": "Κρήτη",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Κροκεές Λακωνίας",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Λακωνία",
+      "region": "Λακωνία",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Λέσβος (Μυτιλήνη)",
+      "region": "Νησιά Αιγαίου",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Λυγουριό Ασκληπιείου",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Ολυμπία",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Πετρίνα Λακωνίας",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Πεζά Ηρακλείου Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Πρέβεζα",
+      "region": "Ήπειρος",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Ρόδος",
+      "region": "Ρόδος",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Σάμη",
+      "region": "Κεφαλονιά",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Σητεία Λασιθίου Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Θραψανό",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Θάσος",
+      "region": "Θάσος",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Βόρειος Μυλοπόταμος Ρεθύμνης Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Βιάννος Ηρακλείου Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Ζάκυνθος",
+      "region": "Ζάκυνθος",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Άγιος Ματθαίος Κέρκυρας",
+      "region": "Κέρκυρα",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Χανιά Κρήτης",
+      "region": "Κρήτη",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Κεφαλονιά",
+      "region": "Κεφαλονιά",
+      "designation": "Π.Γ.Ε."
+    },
+    {
+      "product": "Μεσαρά",
+      "region": "Κρήτη",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Τροιζηνία",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Ο.Π."
+    },
+    {
+      "product": "Τροιζηνία (Troizinia)",
+      "region": "Πελοπόννησος",
+      "designation": "Π.Ο.Π."
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικά ελαιόλαδα ΠΟΠ και ΠΓΕ - Free Download",
+    "description": "Τα ελληνικά ελαιόλαδα με Προστατευόμενη Ονομασία Προέλευσης (ΠΟΠ) ή Προστατευόμενη Γεωγραφική Ένδειξη (ΠΓΕ) και η περιοχή προέλευσής τους. Contains 30 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικά ελαιόλαδα ΠΟΠ και ΠΓΕ | ListBase",
+    "seo_description": "Download Ελληνικά ελαιόλαδα ΠΟΠ και ΠΓΕ — 30 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 30 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%B1%CE%B9%CE%BF%CE%BA%CE%BF%CE%BC%CE%AF%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1"
+    ]
+  }
+}

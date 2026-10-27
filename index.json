@@ -1,9 +1,13 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:11.052Z",
-  "total_datasets": 426,
-  "total_records": 192556,
+  "generated": "2026-10-27T02:24:13.692Z",
+  "total_datasets": 427,
+  "total_records": 192586,
   "categories": [
+    {
+      "id": "agriculture",
+      "dataset_count": 1
+    },
     {
       "id": "culture",
       "dataset_count": 19
@@ -78,6 +82,30 @@
     }
   ],
   "datasets": [
+    {
+      "id": "el-elaiolada-pop-pge",
+      "name": "Ελληνικά ελαιόλαδα ΠΟΠ και ΠΓΕ",
+      "category": "agriculture",
+      "record_count": 30,
+      "columns": [
+        "product",
+        "region",
+        "designation"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%B1%CE%B9%CE%BF%CE%BA%CE%BF%CE%BC%CE%AF%CE%B1_%CF%83%CF%84%CE%B7%CE%BD_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",
+      "updated": "2026-10",
+      "size": 6111,
+      "files": {
+        "csv": {
+          "name": "el-elaiolada-pop-pge_EL.csv",
+          "size": 1920
+        },
+        "xlsx": {
+          "name": "el-elaiolada-pop-pge_EL.xlsx",
+          "size": 7675
+        }
+      }
+    },
     {
       "id": "el-agalmata",
       "name": "Αγάλματα της Ελλάδας",
