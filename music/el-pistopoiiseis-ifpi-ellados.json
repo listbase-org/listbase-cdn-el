@@ -1,0 +1,112 @@
+{
+  "id": "el-pistopoiiseis-ifpi-ellados",
+  "name": "Όρια πιστοποιήσεων IFPI Ελλάδος (χρυσό/πλατινένιο)",
+  "title": "Όρια πιστοποιήσεων IFPI Ελλάδος (χρυσό/πλατινένιο)",
+  "description": "Τα όρια πωλήσεων για χρυσή και πλατινένια πιστοποίηση άλμπουμ και σινγκλ από την IFPI Ελλάδος ανά περίοδο.",
+  "category": "music",
+  "source": "https://el.wikipedia.org/wiki/IFPI_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%BF%CF%82",
+  "source_url": "https://el.wikipedia.org/wiki/IFPI_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%BF%CF%82",
+  "updated": "2026-10",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "type",
+      "label": "Type",
+      "type": "string"
+    },
+    {
+      "key": "period",
+      "label": "Period",
+      "type": "string"
+    },
+    {
+      "key": "gold",
+      "label": "Gold",
+      "type": "number"
+    },
+    {
+      "key": "platinum",
+      "label": "Platinum",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "type": "Άλμπουμ",
+      "period": "Μέχρι το 1990",
+      "gold": 50000,
+      "platinum": 100000
+    },
+    {
+      "type": "Άλμπουμ",
+      "period": "1990–1997",
+      "gold": 30000,
+      "platinum": 60000
+    },
+    {
+      "type": "Άλμπουμ",
+      "period": "1997–09/2002",
+      "gold": 25000,
+      "platinum": 50000
+    },
+    {
+      "type": "Άλμπουμ",
+      "period": "09/2002–09/2006",
+      "gold": 20000,
+      "platinum": 40000
+    },
+    {
+      "type": "Άλμπουμ",
+      "period": "09/2006–07/2008",
+      "gold": 15000,
+      "platinum": 30000
+    },
+    {
+      "type": "Άλμπουμ",
+      "period": "07/2008–σήμερα",
+      "gold": 6000,
+      "platinum": 12000
+    },
+    {
+      "type": "Σινγκλ",
+      "period": "1997–09/2002",
+      "gold": 15000,
+      "platinum": 30000
+    },
+    {
+      "type": "Σινγκλ",
+      "period": "09/2002–09/2006",
+      "gold": 10000,
+      "platinum": 20000
+    },
+    {
+      "type": "Σινγκλ",
+      "period": "09/2006–06/2007",
+      "gold": 7500,
+      "platinum": 15000
+    },
+    {
+      "type": "Σινγκλ",
+      "period": "06/2007–07/2008",
+      "gold": 5000,
+      "platinum": 10000
+    },
+    {
+      "type": "Σινγκλ",
+      "period": "07/2008–σήμερα",
+      "gold": 3000,
+      "platinum": 6000
+    }
+  ],
+  "meta": {
+    "title": "Όρια πιστοποιήσεων IFPI Ελλάδος (χρυσό/πλατινένιο) - Free Download",
+    "description": "Τα όρια πωλήσεων για χρυσή και πλατινένια πιστοποίηση άλμπουμ και σινγκλ από την IFPI Ελλάδος ανά περίοδο. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Όρια πιστοποιήσεων IFPI Ελλάδος (χρυσό/πλατινένιο) | ListBase",
+    "seo_description": "Download Όρια πιστοποιήσεων IFPI Ελλάδος (χρυσό/πλατινένιο) — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/IFPI_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%BF%CF%82"
+    ]
+  }
+}
