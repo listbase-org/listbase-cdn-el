@@ -1,0 +1,586 @@
+{
+  "id": "el-ellada-sti-eurovision",
+  "name": "Συμμετοχές της Ελλάδας στη Eurovision",
+  "title": "Συμμετοχές της Ελλάδας στη Eurovision",
+  "description": "Όλες οι συμμετοχές της Ελλάδας στον Διαγωνισμό Τραγουδιού Eurovision από το 1974: καλλιτέχνης, τραγούδι, γλώσσα, θέση και βαθμοί σε τελικό και ημιτελικό.",
+  "category": "music",
+  "source": "https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82_%CF%83%CF%84%CE%B7_Eurovision",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82_%CF%83%CF%84%CE%B7_Eurovision",
+  "updated": "2026-10",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "artist",
+      "label": "Artist",
+      "type": "string"
+    },
+    {
+      "key": "song",
+      "label": "Song",
+      "type": "string"
+    },
+    {
+      "key": "language",
+      "label": "Language",
+      "type": "string"
+    },
+    {
+      "key": "final_place",
+      "label": "Final Place",
+      "type": "number"
+    },
+    {
+      "key": "final_points",
+      "label": "Final Points",
+      "type": "number"
+    },
+    {
+      "key": "semifinal_place",
+      "label": "Semifinal Place",
+      "type": "string"
+    },
+    {
+      "key": "semifinal_points",
+      "label": "Semifinal Points",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1974,
+      "artist": "Μαρινέλλα",
+      "song": "Κρασί, Θάλασσα και τ' Αγόρι μου",
+      "language": "Ελληνικά",
+      "final_place": "11",
+      "final_points": "7",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1975,
+      "artist": "Δε συμμετείχε",
+      "song": "Δε συμμετείχε",
+      "language": "Δε συμμετείχε",
+      "final_place": "Δε συμμετείχε",
+      "final_points": "Δε συμμετείχε",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1976,
+      "artist": "Μαρίζα Κωχ",
+      "song": "Παναγιά Μου, Παναγιά Μου",
+      "language": "Ελληνικά",
+      "final_place": "13",
+      "final_points": "20",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1977,
+      "artist": "Πασχάλης , Μαριάννα , Ρόμπερτ & Μπέσσυ",
+      "song": "Μάθημα Σολφέζ",
+      "language": "Ελληνικά",
+      "final_place": "5",
+      "final_points": "92",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1978,
+      "artist": "Τάνια Τσανακλίδου",
+      "song": "Τσάρλι Τσάπλιν",
+      "language": "Ελληνικά",
+      "final_place": "8",
+      "final_points": "66",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1979,
+      "artist": "Ελπίδα",
+      "song": "Σωκράτης",
+      "language": "Ελληνικά",
+      "final_place": "8",
+      "final_points": "69",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1980,
+      "artist": "Άννα Βίσση & Επίκουροι",
+      "song": "Ώτοστοπ",
+      "language": "Ελληνικά",
+      "final_place": "13",
+      "final_points": "30",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1981,
+      "artist": "Γιάννης Δημητράς",
+      "song": "Φεγγάρι Καλοκαιρινό",
+      "language": "Ελληνικά",
+      "final_place": "8",
+      "final_points": "55",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1982,
+      "artist": "Θέμης Αδαμαντίδης",
+      "song": "Σαρανταπέντε Κοπελιές",
+      "language": "Ελληνικά",
+      "final_place": "Αποχώρησε X",
+      "final_points": "Αποχώρησε X",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1983,
+      "artist": "Κρίστη Στασινοπούλου",
+      "song": "Μου Λες",
+      "language": "Ελληνικά",
+      "final_place": "14",
+      "final_points": "32",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1984,
+      "artist": "Δε συμμετείχε",
+      "song": "Δε συμμετείχε",
+      "language": "Δε συμμετείχε",
+      "final_place": "Δε συμμετείχε",
+      "final_points": "Δε συμμετείχε",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1985,
+      "artist": "Τάκης Μπινιάρης",
+      "song": "Μοιάζουμε",
+      "language": "Ελληνικά",
+      "final_place": "16",
+      "final_points": "15",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1986,
+      "artist": "Πωλίνα",
+      "song": "Βαγκόν-λι",
+      "language": "Ελληνικά",
+      "final_place": "Αποχώρησε X",
+      "final_points": "Αποχώρησε X",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1987,
+      "artist": "Bang",
+      "song": "Stop",
+      "language": "Ελληνικά",
+      "final_place": "10",
+      "final_points": "64",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1988,
+      "artist": "Αφροδίτη Φρυδά",
+      "song": "Κλόουν",
+      "language": "Ελληνικά",
+      "final_place": "17",
+      "final_points": "10",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1989,
+      "artist": "Μαριάννα Ευστρατίου",
+      "song": "Το Δικό σου Αστέρι",
+      "language": "Ελληνικά",
+      "final_place": "9",
+      "final_points": "56",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1990,
+      "artist": "Χρήστος Κάλοου & Wave",
+      "song": "Χωρίς Σκοπό",
+      "language": "Ελληνικά",
+      "final_place": "19",
+      "final_points": "11",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1991,
+      "artist": "Σοφία Βόσσου",
+      "song": "Η Άνοιξη",
+      "language": "Ελληνικά",
+      "final_place": "13",
+      "final_points": "36",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1992,
+      "artist": "Κλεοπάτρα",
+      "song": "Όλου του Κόσμου η Ελπίδα",
+      "language": "Ελληνικά",
+      "final_place": "5",
+      "final_points": "94",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1993,
+      "artist": "Καίτη Γαρμπή",
+      "song": "Ελλάδα, Χώρα του Φωτός",
+      "language": "Ελληνικά",
+      "final_place": "9",
+      "final_points": "64",
+      "semifinal_place": "Kvalifikacija za Millstreet",
+      "semifinal_points": "Kvalifikacija za Millstreet"
+    },
+    {
+      "year": 1994,
+      "artist": "Κώστας Μπίγαλης & The Sea Lovers",
+      "song": "Το Τρεχαντήρι (Ντίρι-Ντίρι)",
+      "language": "Ελληνικά",
+      "final_place": "14",
+      "final_points": "44",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1995,
+      "artist": "Ελίνα Κωνσταντοπούλου",
+      "song": "Ποια Προσευχή",
+      "language": "Ελληνικά",
+      "final_place": "12",
+      "final_points": "68",
+      "semifinal_place": "Δεν υπήρχαν ημτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημτελικοί"
+    },
+    {
+      "year": 1996,
+      "artist": "Μαριάννα Ευστρατίου",
+      "song": "Εμείς Φοράμε το Χειμώνα Ανοιξιάτικα",
+      "language": "Ελληνικά",
+      "final_place": "14",
+      "final_points": "36",
+      "semifinal_place": "12",
+      "semifinal_points": "45"
+    },
+    {
+      "year": 1997,
+      "artist": "Μαριάννα Ζορμπά",
+      "song": "Χόρεψε",
+      "language": "Ελληνικά",
+      "final_place": "12",
+      "final_points": "39",
+      "semifinal_place": "Δεν υπήρχαν ημιτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημιτελικοί"
+    },
+    {
+      "year": 1998,
+      "artist": "Θάλασσα",
+      "song": "Μια Κρυφή Ευαισθησία",
+      "language": "Ελληνικά",
+      "final_place": "20",
+      "final_points": "12",
+      "semifinal_place": "Δεν υπήρχαν ημιτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημιτελικοί"
+    },
+    {
+      "year": 2001,
+      "artist": "Antique",
+      "song": "(I Would) Die for You",
+      "language": "Αγγλικά , Ελληνικά",
+      "final_place": "3",
+      "final_points": "147",
+      "semifinal_place": "Δεν υπήρχαν ημιτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημιτελικοί"
+    },
+    {
+      "year": 2002,
+      "artist": "Μιχάλης Ρακιντζής",
+      "song": "S.A.G.A.P.O.",
+      "language": "Αγγλικά",
+      "final_place": "17",
+      "final_points": "27",
+      "semifinal_place": "Δεν υπήρχαν ημιτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημιτελικοί"
+    },
+    {
+      "year": 2003,
+      "artist": "Μαντώ",
+      "song": "Never Let You Go",
+      "language": "Αγγλικά",
+      "final_place": "17",
+      "final_points": "25",
+      "semifinal_place": "Δεν υπήρχαν ημιτελικοί",
+      "semifinal_points": "Δεν υπήρχαν ημιτελικοί"
+    },
+    {
+      "year": 2004,
+      "artist": "Σάκης Ρουβάς",
+      "song": "Shake It",
+      "language": "Αγγλικά",
+      "final_place": "3",
+      "final_points": "252",
+      "semifinal_place": "3",
+      "semifinal_points": "238"
+    },
+    {
+      "year": 2005,
+      "artist": "Έλενα Παπαρίζου",
+      "song": "My Number One",
+      "language": "Αγγλικά",
+      "final_place": "1",
+      "final_points": "230",
+      "semifinal_place": "Top 10 την προηγούμενη χρονιά",
+      "semifinal_points": "Top 10 την προηγούμενη χρονιά"
+    },
+    {
+      "year": 2006,
+      "artist": "Άννα Βίσση",
+      "song": "Everything",
+      "language": "Αγγλικά",
+      "final_place": "9",
+      "final_points": "128",
+      "semifinal_place": "Διοργανώτρια χώρα",
+      "semifinal_points": "Διοργανώτρια χώρα"
+    },
+    {
+      "year": 2007,
+      "artist": "Σαρμπέλ",
+      "song": "Yassou Maria",
+      "language": "Αγγλικά",
+      "final_place": "7",
+      "final_points": "139",
+      "semifinal_place": "Top 10 την προηγούμενη χρονιά",
+      "semifinal_points": "Top 10 την προηγούμενη χρονιά"
+    },
+    {
+      "year": 2008,
+      "artist": "Καλομοίρα",
+      "song": "Secret Combination",
+      "language": "Αγγλικά",
+      "final_place": "3",
+      "final_points": "218",
+      "semifinal_place": "1",
+      "semifinal_points": "156"
+    },
+    {
+      "year": 2009,
+      "artist": "Σάκης Ρουβάς",
+      "song": "This Is Our Night",
+      "language": "Αγγλικά",
+      "final_place": "7",
+      "final_points": "120",
+      "semifinal_place": "4",
+      "semifinal_points": "110"
+    },
+    {
+      "year": 2010,
+      "artist": "Γιώργος Αλκαίος & Friends",
+      "song": "ΏΠΑ",
+      "language": "Ελληνικά",
+      "final_place": "8",
+      "final_points": "140",
+      "semifinal_place": "2",
+      "semifinal_points": "133"
+    },
+    {
+      "year": 2011,
+      "artist": "Λούκας Γιώρκας & Stereo Mike",
+      "song": "Watch My Dance",
+      "language": "Ελληνικά, Αγγλικά",
+      "final_place": "7",
+      "final_points": "120",
+      "semifinal_place": "1",
+      "semifinal_points": "133"
+    },
+    {
+      "year": 2012,
+      "artist": "Ελευθερία Ελευθερίου",
+      "song": "Aphrodisiac",
+      "language": "Αγγλικά",
+      "final_place": "17",
+      "final_points": "64",
+      "semifinal_place": "4",
+      "semifinal_points": "116"
+    },
+    {
+      "year": 2013,
+      "artist": "Koza Mostra & Αγάθωνας Ιακωβίδης",
+      "song": "Alcohol Is Free",
+      "language": "Ελληνικά, Αγγλικά",
+      "final_place": "6",
+      "final_points": "152",
+      "semifinal_place": "2",
+      "semifinal_points": "121"
+    },
+    {
+      "year": 2014,
+      "artist": "Freaky Fortune & RiskyKidd",
+      "song": "Rise Up",
+      "language": "Αγγλικά",
+      "final_place": "20",
+      "final_points": "35",
+      "semifinal_place": "7",
+      "semifinal_points": "74"
+    },
+    {
+      "year": 2015,
+      "artist": "Μαρία Έλενα Κυριάκου",
+      "song": "One Last Breath",
+      "language": "Αγγλικά",
+      "final_place": "19",
+      "final_points": "23",
+      "semifinal_place": "6",
+      "semifinal_points": "81"
+    },
+    {
+      "year": 2016,
+      "artist": "Argo",
+      "song": "Utopian Land",
+      "language": "Αγγλικά, Ποντιακά , Ελληνικά",
+      "final_place": "Δεν προκρίθηκε",
+      "final_points": "Δεν προκρίθηκε",
+      "semifinal_place": "16",
+      "semifinal_points": "44"
+    },
+    {
+      "year": 2017,
+      "artist": "Demy",
+      "song": "This Is Love",
+      "language": "Αγγλικά",
+      "final_place": "19",
+      "final_points": "77",
+      "semifinal_place": "10",
+      "semifinal_points": "115"
+    },
+    {
+      "year": 2018,
+      "artist": "Γιάννα Τερζή",
+      "song": "Όνειρό Μου",
+      "language": "Ελληνικά",
+      "final_place": "Δεν προκρίθηκε",
+      "final_points": "Δεν προκρίθηκε",
+      "semifinal_place": "14",
+      "semifinal_points": "81"
+    },
+    {
+      "year": 2019,
+      "artist": "Κατερίνα Ντούσκα",
+      "song": "Better Love",
+      "language": "Αγγλικά",
+      "final_place": "21",
+      "final_points": "74",
+      "semifinal_place": "5",
+      "semifinal_points": "185"
+    },
+    {
+      "year": 2020,
+      "artist": "Στεφανία Λυμπερακάκη",
+      "song": "Supergirl",
+      "language": "Αγγλικά",
+      "final_place": "Ακυρώθηκε X",
+      "final_points": "Ακυρώθηκε X",
+      "semifinal_place": "Ακυρώθηκε X",
+      "semifinal_points": "Ακυρώθηκε X"
+    },
+    {
+      "year": 2021,
+      "artist": "Στεφανία Λυμπερακάκη",
+      "song": "Last Dance",
+      "language": "Αγγλικά",
+      "final_place": "10",
+      "final_points": "170",
+      "semifinal_place": "6",
+      "semifinal_points": "184"
+    },
+    {
+      "year": 2022,
+      "artist": "Αμάντα Γεωργιάδη",
+      "song": "Die Together",
+      "language": "Αγγλικά",
+      "final_place": "8",
+      "final_points": "215",
+      "semifinal_place": "3",
+      "semifinal_points": "211"
+    },
+    {
+      "year": 2023,
+      "artist": "Βίκτωρ Βερνίκος",
+      "song": "What They Say",
+      "language": "Αγγλικά",
+      "final_place": "Δεν προκρίθηκε",
+      "final_points": "Δεν προκρίθηκε",
+      "semifinal_place": "13",
+      "semifinal_points": "14"
+    },
+    {
+      "year": 2024,
+      "artist": "Μαρίνα Σάττι",
+      "song": "Ζάρι",
+      "language": "Ελληνικά",
+      "final_place": "11",
+      "final_points": "126",
+      "semifinal_place": "5",
+      "semifinal_points": "86"
+    },
+    {
+      "year": 2025,
+      "artist": "Klavdia",
+      "song": "Αστερομάτα",
+      "language": "Ελληνικά",
+      "final_place": "6",
+      "final_points": "231",
+      "semifinal_place": "4",
+      "semifinal_points": "112"
+    },
+    {
+      "year": 2026,
+      "artist": "Akylas",
+      "song": "Φέρτο",
+      "language": "Ελληνικά",
+      "final_place": "10",
+      "final_points": "220",
+      "semifinal_place": "7",
+      "semifinal_points": "159"
+    },
+    {
+      "year": 2027,
+      "artist": "",
+      "song": "",
+      "language": "",
+      "final_place": "",
+      "final_points": "",
+      "semifinal_place": "",
+      "semifinal_points": ""
+    }
+  ],
+  "meta": {
+    "title": "Συμμετοχές της Ελλάδας στη Eurovision - Free Download",
+    "description": "Όλες οι συμμετοχές της Ελλάδας στον Διαγωνισμό Τραγουδιού Eurovision από το 1974: καλλιτέχνης, τραγούδι, γλώσσα, θέση και βαθμοί σε τελικό και ημιτελικό. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Συμμετοχές της Ελλάδας στη Eurovision | ListBase",
+    "seo_description": "Download Συμμετοχές της Ελλάδας στη Eurovision — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CE%BC%CE%B5%CF%84%CE%BF%CF%87%CE%AE_%CF%84%CE%B7%CF%82_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82_%CF%83%CF%84%CE%B7_Eurovision"
+    ]
+  }
+}
