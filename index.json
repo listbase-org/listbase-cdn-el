@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:22.093Z",
-  "total_datasets": 430,
-  "total_records": 192739,
+  "generated": "2026-10-27T02:24:24.606Z",
+  "total_datasets": 431,
+  "total_records": 192833,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "tech",
@@ -11398,6 +11398,34 @@
         "xlsx": {
           "name": "el-gipeda_EL.xlsx",
           "size": 49571
+        }
+      }
+    },
+    {
+      "id": "el-kypello-elladas-telikoi",
+      "name": "Τελικοί Κυπέλλου Ελλάδας ποδοσφαίρου",
+      "category": "sports",
+      "record_count": 94,
+      "columns": [
+        "season",
+        "winner",
+        "score",
+        "finalist",
+        "stadium",
+        "city",
+        "attendance"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%9A%CF%8D%CF%80%CE%B5%CE%BB%CE%BB%CE%BF_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82_%28%CF%80%CE%BF%CE%B4%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%BF_%CE%B1%CE%BD%CE%B4%CF%81%CF%8E%CE%BD%29",
+      "updated": "2026-10",
+      "size": 28762,
+      "files": {
+        "csv": {
+          "name": "el-kypello-elladas-telikoi_EL.csv",
+          "size": 13624
+        },
+        "xlsx": {
+          "name": "el-kypello-elladas-telikoi_EL.xlsx",
+          "size": 11154
         }
       }
     },
