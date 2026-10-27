@@ -1,0 +1,106 @@
+{
+  "id": "el-tainies-gia-tin-epanastasi-1821",
+  "name": "Ελληνικές ταινίες για την Επανάσταση του 1821",
+  "title": "Ελληνικές ταινίες για την Επανάσταση του 1821",
+  "description": "Ελληνικές κινηματογραφικές ταινίες με θέμα την Ελληνική Επανάσταση του 1821: έτος, τίτλος και σκηνοθέτης.",
+  "category": "entertainment",
+  "source": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%95%CF%80%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CF%84%CE%BF%CF%85_1821",
+  "source_url": "https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%95%CF%80%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CF%84%CE%BF%CF%85_1821",
+  "updated": "2026-10",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "year",
+      "label": "Year",
+      "type": "number"
+    },
+    {
+      "key": "title",
+      "label": "Title",
+      "type": "string"
+    },
+    {
+      "key": "director",
+      "label": "Director",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "year": 1959,
+      "title": "Ζάλογγο, το κάστρο της Λευτεριάς",
+      "director": "Στέλιος Τατασόπουλος"
+    },
+    {
+      "year": 1959,
+      "title": "Ο Αλή Πασάς και η κυρα-Φροσύνη",
+      "director": "Στέφανος Στρατηγός"
+    },
+    {
+      "year": 1959,
+      "title": "Μπουμπουλίνα",
+      "director": "Κώστας Ανδρίτσος"
+    },
+    {
+      "year": 1960,
+      "title": "Η λίμνη των στεναγμών",
+      "director": "Γρηγόρης Γρηγορίου"
+    },
+    {
+      "year": 1961,
+      "title": "Τα σαράντα παλικάρια",
+      "director": "Γιώργος Πετρίδης"
+    },
+    {
+      "year": 1963,
+      "title": "Σταυραετοί",
+      "director": "Παναγιώτης Κωνσταντίνου"
+    },
+    {
+      "year": 1966,
+      "title": "Η έξοδος του Μεσολογγίου",
+      "director": "Δημήτρης Δούκας"
+    },
+    {
+      "year": 1971,
+      "title": "Μαντώ Μαυρογένους",
+      "director": "Κώστας Καραγιάννης"
+    },
+    {
+      "year": 1971,
+      "title": "Παπαφλέσσας",
+      "director": "Ερρίκος Ανδρέου"
+    },
+    {
+      "year": 1972,
+      "title": "Σουλιώτες",
+      "director": "Δημήτρης Παπακωνσταντής"
+    },
+    {
+      "year": 1974,
+      "title": "Η δίκη των δικαστών",
+      "director": "Πάνος Γλυκοφρύδης"
+    },
+    {
+      "year": 1992,
+      "title": "Μπάιρον, η μπαλάντα ενός δαιμονισμένου",
+      "director": "Νίκος Κούνδουρος"
+    },
+    {
+      "year": 2017,
+      "title": "Έξοδος 1826",
+      "director": "Βασίλης Τσικάρας"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικές ταινίες για την Επανάσταση του 1821 - Free Download",
+    "description": "Ελληνικές κινηματογραφικές ταινίες με θέμα την Ελληνική Επανάσταση του 1821: έτος, τίτλος και σκηνοθέτης. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικές ταινίες για την Επανάσταση του 1821 | ListBase",
+    "seo_description": "Download Ελληνικές ταινίες για την Επανάσταση του 1821 — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AE_%CE%95%CF%80%CE%B1%CE%BD%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7_%CF%84%CE%BF%CF%85_1821"
+    ]
+  }
+}
