@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-27T02:24:41.673Z",
-  "total_datasets": 438,
-  "total_records": 193072,
+  "generated": "2026-10-27T02:24:44.164Z",
+  "total_datasets": 439,
+  "total_records": 193083,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "tech",
@@ -11585,6 +11585,32 @@
         "xlsx": {
           "name": "el-kypello-elladas-telikoi_EL.xlsx",
           "size": 11154
+        }
+      }
+    },
+    {
+      "id": "el-souper-kap-elladas",
+      "name": "Σούπερ Καπ Ελλάδας — αγώνες",
+      "category": "sports",
+      "record_count": 11,
+      "columns": [
+        "year",
+        "champion",
+        "score",
+        "cup_winner_or_finalist",
+        "stadium"
+      ],
+      "source": "https://el.wikipedia.org/wiki/%CE%A3%CE%BF%CF%8D%CF%80%CE%B5%CF%81_%CE%9A%CE%B1%CF%80_%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1%CF%82",
+      "updated": "2026-10",
+      "size": 4377,
+      "files": {
+        "csv": {
+          "name": "el-souper-kap-elladas_EL.csv",
+          "size": 1024
+        },
+        "xlsx": {
+          "name": "el-souper-kap-elladas_EL.xlsx",
+          "size": 7309
         }
       }
     },
