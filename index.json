@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-28T02:18:42.623Z",
-  "total_datasets": 449,
-  "total_records": 194400,
+  "generated": "2026-10-28T02:18:45.005Z",
+  "total_datasets": 450,
+  "total_records": 194450,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "music",
@@ -4822,6 +4822,32 @@
         "xlsx": {
           "name": "el-proedroi-symvouliou-epikrateias_EL.xlsx",
           "size": 8242
+        }
+      }
+    },
+    {
+      "id": "el-ypourgoi-dikaiosynis",
+      "name": "Υπουργοί Δικαιοσύνης της Ελλάδας (από το 1967)",
+      "category": "law",
+      "record_count": 50,
+      "columns": [
+        "name",
+        "term_start",
+        "term_end",
+        "government",
+        "notes"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Υπουργείο_Δικαιοσύνης_(Ελλάδα)",
+      "updated": "2026-10",
+      "size": 16612,
+      "files": {
+        "csv": {
+          "name": "el-ypourgoi-dikaiosynis_EL.csv",
+          "size": 9335
+        },
+        "xlsx": {
+          "name": "el-ypourgoi-dikaiosynis_EL.xlsx",
+          "size": 9572
         }
       }
     },
