@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-28T02:18:37.497Z",
-  "total_datasets": 447,
-  "total_records": 194308,
+  "generated": "2026-10-28T02:18:40.241Z",
+  "total_datasets": 448,
+  "total_records": 194390,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "reference",
@@ -4848,6 +4848,31 @@
         "xlsx": {
           "name": "el-pistopoiiseis-ifpi-ellados_EL.xlsx",
           "size": 7043
+        }
+      }
+    },
+    {
+      "id": "el-dimarchoi-athinaion",
+      "name": "Δήμαρχοι Αθηναίων",
+      "category": "politics",
+      "record_count": 82,
+      "columns": [
+        "name",
+        "from",
+        "to",
+        "party"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_δημάρχων_Αθηναίων",
+      "updated": "2026-10",
+      "size": 16574,
+      "files": {
+        "csv": {
+          "name": "el-dimarchoi-athinaion_EL.csv",
+          "size": 9037
+        },
+        "xlsx": {
+          "name": "el-dimarchoi-athinaion_EL.xlsx",
+          "size": 10290
         }
       }
     },
