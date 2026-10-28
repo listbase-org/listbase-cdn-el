@@ -1,0 +1,151 @@
+{
+  "id": "el-ygrotopoi-ramsar",
+  "name": "Υγρότοποι Ραμσάρ στην Ελλάδα",
+  "title": "Υγρότοποι Ραμσάρ στην Ελλάδα",
+  "description": "Οι ελληνικοί υγρότοποι διεθνούς σημασίας της Σύμβασης Ραμσάρ: περιφέρεια, έκταση σε εκτάρια, έτος ένταξης και συντεταγμένες.",
+  "category": "environment",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_οικοτόπων_Ραμσάρ_στην_Ελλάδα",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_οικοτόπων_Ραμσάρ_στην_Ελλάδα",
+  "updated": "2026-10",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "region",
+      "label": "Region",
+      "type": "string"
+    },
+    {
+      "key": "area_ha",
+      "label": "Area Ha",
+      "type": "number"
+    },
+    {
+      "key": "year_designated",
+      "label": "Year Designated",
+      "type": "number"
+    },
+    {
+      "key": "protected_area",
+      "label": "Protected Area",
+      "type": "string"
+    },
+    {
+      "key": "lat",
+      "label": "Lat",
+      "type": "number"
+    },
+    {
+      "key": "lon",
+      "label": "Lon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Αμβρακικός κόλπος",
+      "region": "Ήπειρος",
+      "area_ha": 23649,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο υγροτόπων Αμβρακικού",
+      "lat": 39.1,
+      "lon": 20.917
+    },
+    {
+      "name": "Λίμνη Κερκίνη",
+      "region": "Κεντρική Μακεδονία",
+      "area_ha": 10996,
+      "year_designated": 1975,
+      "protected_area": "Eθνικό Πάρκο Λίμνης Κερκίνης",
+      "lat": 41.217,
+      "lon": 23.133
+    },
+    {
+      "name": "Δέλτα Αξιού, Λουδία, Αλιάκμονα",
+      "region": "Κεντρική Μακεδονία",
+      "area_ha": 11808,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο Δέλτα Αξιού",
+      "lat": 40.5,
+      "lon": 22.717
+    },
+    {
+      "name": "Έβρος",
+      "region": "Ανατολική Μακεδονία και Θράκη",
+      "area_ha": 9267,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο Δέλτα Έβρου",
+      "lat": 40.833,
+      "lon": 26.067
+    },
+    {
+      "name": "Λιμνοθάλασσα Κοτυχίου",
+      "region": "Δυτική Ελλάδα",
+      "area_ha": 6302,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο υγροτόπων Κοτυχίου – Στροφυλιάς",
+      "lat": 38.017,
+      "lon": 21.283
+    },
+    {
+      "name": "Μικρή Πρέσπα",
+      "region": "Δυτική Μακεδονία",
+      "area_ha": 5078,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο Πρεσπών",
+      "lat": 40.767,
+      "lon": 21.083
+    },
+    {
+      "name": "Βόλβη & Κορώνεια",
+      "region": "Κεντρική Μακεδονία",
+      "area_ha": 16388,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο Λιμνών Κορώνειας και Βόλβης",
+      "lat": 40.683,
+      "lon": 23.333
+    },
+    {
+      "name": "Βιστωνίδα, Λάγος, Ισμαρίδα & παρακείμενες λιμνοθάλασσες",
+      "region": "Ανατολική Μακεδονία και Θράκη",
+      "area_ha": 24396,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο Ανατολικής Μακεδονίας - Θράκης",
+      "lat": 41.05,
+      "lon": 25.183
+    },
+    {
+      "name": "Λιμνοθάλασσα Μεσολογγίου",
+      "region": "Δυτική Ελλάδα",
+      "area_ha": 33687,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο λιμνοθαλασσών Μεσολογγίου-Αιτωλικού, κάτω ρου και εκβολές των ποταμών Αχελώου και Ευήνου και νησιά Εχινάδες",
+      "lat": 38.333,
+      "lon": 21.25
+    },
+    {
+      "name": "Νέστος & παρακείμενες λιμνοθάλασσες",
+      "region": "Ανατολική Μακεδονία και Θράκη",
+      "area_ha": 21930,
+      "year_designated": 1975,
+      "protected_area": "Εθνικό Πάρκο Ανατολικής Μακεδονίας - Θράκης",
+      "lat": 40.9,
+      "lon": 24.783
+    }
+  ],
+  "meta": {
+    "title": "Υγρότοποι Ραμσάρ στην Ελλάδα - Free Download",
+    "description": "Οι ελληνικοί υγρότοποι διεθνούς σημασίας της Σύμβασης Ραμσάρ: περιφέρεια, έκταση σε εκτάρια, έτος ένταξης και συντεταγμένες. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Υγρότοποι Ραμσάρ στην Ελλάδα | ListBase",
+    "seo_description": "Download Υγρότοποι Ραμσάρ στην Ελλάδα — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_οικοτόπων_Ραμσάρ_στην_Ελλάδα"
+    ]
+  }
+}
