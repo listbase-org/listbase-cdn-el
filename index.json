@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-29T02:17:11.558Z",
-  "total_datasets": 453,
-  "total_records": 194722,
+  "generated": "2026-10-29T02:17:13.976Z",
+  "total_datasets": 454,
+  "total_records": 194846,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "language",
@@ -4668,6 +4668,33 @@
         "xlsx": {
           "name": "el-archaioi-ellinikoi-choroi_EL.xlsx",
           "size": 7137
+        }
+      }
+    },
+    {
+      "id": "el-episkopoi-mitropolites-archiepiskopoi-athinon",
+      "name": "Επίσκοποι, Μητροπολίτες και Αρχιεπίσκοποι Αθηνών",
+      "category": "history",
+      "record_count": 124,
+      "columns": [
+        "ar",
+        "onoma",
+        "thiteia",
+        "titlos",
+        "periodos",
+        "paratiriseis"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_Επισκόπων,_Μητροπολιτών_και_Αρχιεπισκόπων_Αθηνών",
+      "updated": "2026-10",
+      "size": 38034,
+      "files": {
+        "csv": {
+          "name": "el-episkopoi-mitropolites-archiepiskopoi-athinon_EL.csv",
+          "size": 21161
+        },
+        "xlsx": {
+          "name": "el-episkopoi-mitropolites-archiepiskopoi-athinon_EL.xlsx",
+          "size": 13504
         }
       }
     },
