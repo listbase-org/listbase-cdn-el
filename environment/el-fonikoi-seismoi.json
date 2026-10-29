@@ -1,0 +1,454 @@
+{
+  "id": "el-fonikoi-seismoi",
+  "name": "Φονικοί σεισμοί στην Ελλάδα",
+  "title": "Φονικοί σεισμοί στην Ελλάδα",
+  "description": "Κατάλογος των σεισμών με ανθρώπινα θύματα στον ελλαδικό χώρο από το 1804, με ημερομηνία, περιοχή, μέγεθος και αριθμό θυμάτων.",
+  "category": "environment",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_φονικών_σεισμών_στην_Ελλάδα",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_φονικών_σεισμών_στην_Ελλάδα",
+  "updated": "2026-10",
+  "record_count": 68,
+  "columns": [
+    {
+      "key": "imerominia",
+      "label": "Imerominia",
+      "type": "string"
+    },
+    {
+      "key": "perioxi",
+      "label": "Perioxi",
+      "type": "string"
+    },
+    {
+      "key": "megethos",
+      "label": "Megethos",
+      "type": "number"
+    },
+    {
+      "key": "thymata",
+      "label": "Thymata",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "imerominia": "8 Ιουνίου 1804",
+      "perioxi": "Πάτρα",
+      "megethos": 6.6,
+      "thymata": 10
+    },
+    {
+      "imerominia": "16 Φεβρουαρίου 1810",
+      "perioxi": "Κρήτη",
+      "megethos": 7.8,
+      "thymata": 2500
+    },
+    {
+      "imerominia": "23 Αυγούστου 1817",
+      "perioxi": "Αίγιο",
+      "megethos": 6.5,
+      "thymata": 65
+    },
+    {
+      "imerominia": "7 Ιανουαρίου 1825",
+      "perioxi": "Λευκάδα",
+      "megethos": 6.7,
+      "thymata": "60 μ"
+    },
+    {
+      "imerominia": "30 Οκτωβρίου 1840",
+      "perioxi": "Χάλκη",
+      "megethos": 6.5,
+      "thymata": 600
+    },
+    {
+      "imerominia": "11 Οκτωβρίου 1845",
+      "perioxi": "Λέσβος",
+      "megethos": 6.8,
+      "thymata": 1
+    },
+    {
+      "imerominia": "11 Ιουνίου 1846",
+      "perioxi": "Μεσσήνη",
+      "megethos": 6.5,
+      "thymata": 30
+    },
+    {
+      "imerominia": "18 Αυγούστου 1853",
+      "perioxi": "Θήβα",
+      "megethos": 6.8,
+      "thymata": 13
+    },
+    {
+      "imerominia": "12 Οκτωβρίου 1856",
+      "perioxi": "Κρήτη",
+      "megethos": 8.2,
+      "thymata": 618
+    },
+    {
+      "imerominia": "29 Φεβρουαρίου 1858",
+      "perioxi": "Κόρινθος",
+      "megethos": 6.7,
+      "thymata": 21
+    },
+    {
+      "imerominia": "6 Ιουνίου 1861",
+      "perioxi": "Κορινθιακός κόλπος",
+      "megethos": 6.7,
+      "thymata": 20
+    },
+    {
+      "imerominia": "23 Ιουλίου 1865",
+      "perioxi": "Λέσβος",
+      "megethos": 6.7,
+      "thymata": 10
+    },
+    {
+      "imerominia": "4 Φεβρουαρίου 1867",
+      "perioxi": "Κεφαλλονιά",
+      "megethos": 7.2,
+      "thymata": 224
+    },
+    {
+      "imerominia": "7 Μαρτίου 1867",
+      "perioxi": "Λέσβος",
+      "megethos": 6.8,
+      "thymata": 550
+    },
+    {
+      "imerominia": "16 Δεκεμβρίου 1869",
+      "perioxi": "Λευκάδα",
+      "megethos": 6.6,
+      "thymata": 15
+    },
+    {
+      "imerominia": "1 Αυγούστου 1870",
+      "perioxi": "Αράχοβα",
+      "megethos": 6.8,
+      "thymata": 117
+    },
+    {
+      "imerominia": "3 Απριλίου 1881",
+      "perioxi": "Χίος",
+      "megethos": 6.4,
+      "thymata": "3350 (4200 νεκροί)"
+    },
+    {
+      "imerominia": "27 Ιουνίου 1886",
+      "perioxi": "Φιλιατρά",
+      "megethos": 7.5,
+      "thymata": 326
+    },
+    {
+      "imerominia": "25 Οκτωβρίου 1889",
+      "perioxi": "Λέσβος",
+      "megethos": 6.7,
+      "thymata": 36
+    },
+    {
+      "imerominia": "9 Φεβρουαρίου 1893",
+      "perioxi": "Σαμοθράκη",
+      "megethos": 6.8,
+      "thymata": 1
+    },
+    {
+      "imerominia": "17 Απριλίου 1893",
+      "perioxi": "Ζάκυνθος",
+      "megethos": 6.4,
+      "thymata": 23
+    },
+    {
+      "imerominia": "23 Μαΐου 1893",
+      "perioxi": "Θήβα",
+      "megethos": 6.2,
+      "thymata": 2
+    },
+    {
+      "imerominia": "27 Απριλίου 1894",
+      "perioxi": "Αταλάντη",
+      "megethos": 7,
+      "thymata": 225
+    },
+    {
+      "imerominia": "14 Μαΐου 1895",
+      "perioxi": "Παραμυθιά Θεσπρωτίας",
+      "megethos": 6.3,
+      "thymata": 75
+    },
+    {
+      "imerominia": "11 Αυγούστου 1903",
+      "perioxi": "Κύθηρα",
+      "megethos": "7,2 με 8",
+      "thymata": 14
+    },
+    {
+      "imerominia": "11 Αυγούστου 1904",
+      "perioxi": "Σάμος",
+      "megethos": 6.8,
+      "thymata": 4
+    },
+    {
+      "imerominia": "27 Νοεμβρίου 1914",
+      "perioxi": "Λευκάδα",
+      "megethos": 6.3,
+      "thymata": 16
+    },
+    {
+      "imerominia": "26 Ιουνίου 1926",
+      "perioxi": "Ρόδος",
+      "megethos": "7,7 ή 8,0",
+      "thymata": 12
+    },
+    {
+      "imerominia": "22 Απριλίου 1928",
+      "perioxi": "Κόρινθος",
+      "megethos": 6.3,
+      "thymata": 20
+    },
+    {
+      "imerominia": "26 Σεπτεμβρίου 1932",
+      "perioxi": "Ιερισσός",
+      "megethos": 7,
+      "thymata": 161
+    },
+    {
+      "imerominia": "23 Απριλίου 1933",
+      "perioxi": "Κως",
+      "megethos": 6.6,
+      "thymata": 178
+    },
+    {
+      "imerominia": "25 Φεβρουαρίου 1935",
+      "perioxi": "Κρήτη",
+      "megethos": 7,
+      "thymata": 8
+    },
+    {
+      "imerominia": "22 Ιουλίου 1938",
+      "perioxi": "Ωρωπός",
+      "megethos": 6,
+      "thymata": 18
+    },
+    {
+      "imerominia": "1 Μαρτίου 1941",
+      "perioxi": "Λάρισα",
+      "megethos": 6.3,
+      "thymata": 40
+    },
+    {
+      "imerominia": "6 Οκτωβρίου 1947",
+      "perioxi": "Μεσσηνία",
+      "megethos": 7,
+      "thymata": 3
+    },
+    {
+      "imerominia": "22 Απριλίου 1948",
+      "perioxi": "Λευκάδα",
+      "megethos": 6.5,
+      "thymata": 10
+    },
+    {
+      "imerominia": "30 Ιουνίου 1948",
+      "perioxi": "Λευκάδα",
+      "megethos": 6.4,
+      "thymata": 7
+    },
+    {
+      "imerominia": "23 Ιουλίου 1949",
+      "perioxi": "Χίος",
+      "megethos": 6.7,
+      "thymata": 11
+    },
+    {
+      "imerominia": "12 Αυγούστου 1953",
+      "perioxi": "Αργοστόλι",
+      "megethos": 7.2,
+      "thymata": 476
+    },
+    {
+      "imerominia": "30 Απριλίου 1954",
+      "perioxi": "Σοφάδες",
+      "megethos": 7,
+      "thymata": 25
+    },
+    {
+      "imerominia": "19 Απριλίου 1955",
+      "perioxi": "Βόλος",
+      "megethos": 6.2,
+      "thymata": 1
+    },
+    {
+      "imerominia": "9 Ιουλίου 1956",
+      "perioxi": "Αμοργός",
+      "megethos": 7.5,
+      "thymata": 53
+    },
+    {
+      "imerominia": "25 Απριλίου 1957",
+      "perioxi": "Ρόδος",
+      "megethos": 7.2,
+      "thymata": 18
+    },
+    {
+      "imerominia": "9 Μαρτίου 1965",
+      "perioxi": "Αλόννησος",
+      "megethos": 6.1,
+      "thymata": 2
+    },
+    {
+      "imerominia": "31 Μαρτίου 1965",
+      "perioxi": "Αγρίνιο",
+      "megethos": 6.8,
+      "thymata": 6
+    },
+    {
+      "imerominia": "4 Απριλίου 1965",
+      "perioxi": "Αρκαδία",
+      "megethos": 6.1,
+      "thymata": 18
+    },
+    {
+      "imerominia": "6 Ιουλίου 1965",
+      "perioxi": "Κορινθιακός κόλπος",
+      "megethos": 6.3,
+      "thymata": 1
+    },
+    {
+      "imerominia": "5 Φεβρουαρίου 1966",
+      "perioxi": "λίμνη Κρεμαστών",
+      "megethos": 6.2,
+      "thymata": 1
+    },
+    {
+      "imerominia": "29 Οκτωβρίου 1966",
+      "perioxi": "Κατούνα Αιτωλοακαρνανίας",
+      "megethos": 6,
+      "thymata": 1
+    },
+    {
+      "imerominia": "1 Μαΐου 1967",
+      "perioxi": "Δροσοπηγή Ιωαννίνων",
+      "megethos": 6.4,
+      "thymata": 9
+    },
+    {
+      "imerominia": "19 Φεβρουαρίου 1968",
+      "perioxi": "Άγιος Ευστράτιος",
+      "megethos": 7.1,
+      "thymata": 20
+    },
+    {
+      "imerominia": "20 Ιουνίου 1978",
+      "perioxi": "Θεσσαλονίκη",
+      "megethos": 6.5,
+      "thymata": 49
+    },
+    {
+      "imerominia": "24 Φεβρουαρίου 1981",
+      "perioxi": "Αλκυονίδες",
+      "megethos": 6.7,
+      "thymata": 20
+    },
+    {
+      "imerominia": "13 Σεπτεμβρίου 1986",
+      "perioxi": "Καλαμάτα",
+      "megethos": 6,
+      "thymata": 20
+    },
+    {
+      "imerominia": "21 Δεκεμβρίου 1990",
+      "perioxi": "Γουμένισσα",
+      "megethos": "6,0 - 6,1",
+      "thymata": 1
+    },
+    {
+      "imerominia": "26 Μαρτίου 1993",
+      "perioxi": "Πύργος Ηλείας",
+      "megethos": 5.5,
+      "thymata": 1
+    },
+    {
+      "imerominia": "15 Ιουνίου 1995",
+      "perioxi": "Αίγιο",
+      "megethos": 6.1,
+      "thymata": 26
+    },
+    {
+      "imerominia": "7 Σεπτεμβρίου 1999",
+      "perioxi": "Πάρνηθα",
+      "megethos": 6,
+      "thymata": 143
+    },
+    {
+      "imerominia": "21 Οκτωβρίου 2005",
+      "perioxi": "Κόλπος Εφέσου",
+      "megethos": 6,
+      "thymata": 1
+    },
+    {
+      "imerominia": "8 Ιανουαρίου 2006",
+      "perioxi": "Κύθηρα",
+      "megethos": 6.9,
+      "thymata": 1
+    },
+    {
+      "imerominia": "15 Ιουλίου 2008",
+      "perioxi": "Ρόδος",
+      "megethos": 6.3,
+      "thymata": 1
+    },
+    {
+      "imerominia": "8 Ιουνίου 2008",
+      "perioxi": "Ανδραβίδα",
+      "megethos": 6.5,
+      "thymata": 2
+    },
+    {
+      "imerominia": "17 Νοεμβρίου 2015",
+      "perioxi": "Λευκάδα",
+      "megethos": 6.5,
+      "thymata": 2
+    },
+    {
+      "imerominia": "12 Ιουνίου 2017",
+      "perioxi": "Λέσβος",
+      "megethos": 6.3,
+      "thymata": 1
+    },
+    {
+      "imerominia": "21 Ιουλίου 2017",
+      "perioxi": "Κως",
+      "megethos": 6.7,
+      "thymata": 2
+    },
+    {
+      "imerominia": "30 Οκτωβρίου 2020",
+      "perioxi": "Σάμος",
+      "megethos": 6.7,
+      "thymata": 116
+    },
+    {
+      "imerominia": "3 Μαρτίου 2021",
+      "perioxi": "Ελασσόνα",
+      "megethos": 6.3,
+      "thymata": 1
+    },
+    {
+      "imerominia": "27 Σεπτεμβρίου 2021",
+      "perioxi": "Αρκαλοχώρι",
+      "megethos": 5.8,
+      "thymata": 1
+    }
+  ],
+  "meta": {
+    "title": "Φονικοί σεισμοί στην Ελλάδα - Free Download",
+    "description": "Κατάλογος των σεισμών με ανθρώπινα θύματα στον ελλαδικό χώρο από το 1804, με ημερομηνία, περιοχή, μέγεθος και αριθμό θυμάτων. Contains 68 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Φονικοί σεισμοί στην Ελλάδα | ListBase",
+    "seo_description": "Download Φονικοί σεισμοί στην Ελλάδα — 68 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 68 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_φονικών_σεισμών_στην_Ελλάδα"
+    ]
+  }
+}
