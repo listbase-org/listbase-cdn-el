@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-29T02:17:13.976Z",
-  "total_datasets": 454,
-  "total_records": 194846,
+  "generated": "2026-10-29T02:17:16.452Z",
+  "total_datasets": 455,
+  "total_records": 194866,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "education",
@@ -1364,6 +1364,30 @@
         "xlsx": {
           "name": "el-apascholisi-anergia-ana-perifereia_EL.xlsx",
           "size": 7425
+        }
+      }
+    },
+    {
+      "id": "el-dioikites-trapezas-ellados",
+      "name": "Διοικητές της Τράπεζας της Ελλάδος",
+      "category": "economy",
+      "record_count": 20,
+      "columns": [
+        "onoma",
+        "apo",
+        "eos"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Τράπεζα_της_Ελλάδος",
+      "updated": "2026-10",
+      "size": 5007,
+      "files": {
+        "csv": {
+          "name": "el-dioikites-trapezas-ellados_EL.csv",
+          "size": 2064
+        },
+        "xlsx": {
+          "name": "el-dioikites-trapezas-ellados_EL.xlsx",
+          "size": 7722
         }
       }
     },
