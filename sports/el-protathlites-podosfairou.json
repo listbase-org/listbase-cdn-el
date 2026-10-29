@@ -1,0 +1,754 @@
+{
+  "id": "el-protathlites-podosfairou",
+  "name": "Πρωταθλητές Ελλάδας στο ποδόσφαιρο",
+  "title": "Πρωταθλητές Ελλάδας στο ποδόσφαιρο",
+  "description": "Οι πρωταθλητές του ελληνικού πρωταθλήματος ποδοσφαίρου ανδρών ανά αγωνιστική περίοδο από το 1906, με δευτεραθλητή και τριταθλητή όπου υπάρχουν.",
+  "category": "sports",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_πρωταθλητών_ποδοσφαίρου_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_πρωταθλητών_ποδοσφαίρου_Ελλάδας",
+  "updated": "2026-10",
+  "record_count": 118,
+  "columns": [
+    {
+      "key": "periodos",
+      "label": "Periodos",
+      "type": "number"
+    },
+    {
+      "key": "protathlitis",
+      "label": "Protathlitis",
+      "type": "string"
+    },
+    {
+      "key": "defterathlitis",
+      "label": "Defterathlitis",
+      "type": "string"
+    },
+    {
+      "key": "tritathlitis",
+      "label": "Tritathlitis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "periodos": "1898",
+      "protathlitis": "Ποδηλατικός Όμιλος Αθηνών",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1899",
+      "protathlitis": "Πανελλήνιος Γ.Σ.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1905–06",
+      "protathlitis": "Εθνικός Γ.Σ.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1906–07",
+      "protathlitis": "Εθνικός Γ.Σ.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1907–08",
+      "protathlitis": "Σ.Π. Γουδί",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1908–09",
+      "protathlitis": "Πειραϊκός Σύνδεσμος",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1909–10",
+      "protathlitis": "Σ.Π. Γουδί",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1910–11",
+      "protathlitis": "Π.Ο. Αθηνών",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1911–12",
+      "protathlitis": "Πανελλήνιος Π.Ο.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1912–13",
+      "protathlitis": "Σ.Π. Γουδί",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1913–14",
+      "protathlitis": "Αθηναϊκός Σ.Π.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1915",
+      "protathlitis": "Πανελλήνιος Π.Ο.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1916",
+      "protathlitis": "Αθηναϊκός Σ.Π.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1917–20",
+      "protathlitis": "Δεν διεξήχθη",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1920–21",
+      "protathlitis": "Πανελλήνιος Π.Α.Ο.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1921–22",
+      "protathlitis": "Πανελλήνιος Π.Α.Ο.",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1922–23",
+      "protathlitis": "Πειραϊκός Σύνδεσμος",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1923–24",
+      "protathlitis": "Α.Π.Σ. Πειραιώς",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1924–27",
+      "protathlitis": "Δεν διεξήχθη",
+      "defterathlitis": "",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1927–28",
+      "protathlitis": "Άρης Θεσσαλονίκης (1)",
+      "defterathlitis": "Εθνικός Πειραιώς",
+      "tritathlitis": "Ατρόμητος Αθηνών"
+    },
+    {
+      "periodos": "1928–29",
+      "protathlitis": "Δεν διεξήχθη",
+      "defterathlitis": "Δεν διεξήχθη",
+      "tritathlitis": "Δεν διεξήχθη"
+    },
+    {
+      "periodos": "1929–30",
+      "protathlitis": "Παναθηναϊκός (1)",
+      "defterathlitis": "Άρης Θεσσαλονίκης",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1930–31",
+      "protathlitis": "Ολυμπιακός (1)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1931–32",
+      "protathlitis": "Άρης Θεσσαλονίκης (2)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Απόλλων Σμύρνης"
+    },
+    {
+      "periodos": "1932–33",
+      "protathlitis": "Ολυμπιακός (2)",
+      "defterathlitis": "Άρης Θεσσαλονίκης",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1933–34",
+      "protathlitis": "Ολυμπιακός (3)",
+      "defterathlitis": "Ηρακλής Θεσσαλονίκης",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1934–35",
+      "protathlitis": "Δεν ολοκληρώθηκε",
+      "defterathlitis": "Δεν ολοκληρώθηκε",
+      "tritathlitis": "Δεν ολοκληρώθηκε"
+    },
+    {
+      "periodos": "1935–36",
+      "protathlitis": "Ολυμπιακός (4)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Απόλλων Σμύρνης"
+    },
+    {
+      "periodos": "1936–37",
+      "protathlitis": "Ολυμπιακός (5)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1937–38",
+      "protathlitis": "Ολυμπιακός (6)",
+      "defterathlitis": "Απόλλων Σμύρνης",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1938–39",
+      "protathlitis": "Α.Ε.Κ. (1)",
+      "defterathlitis": "Ηρακλής Θεσσαλονίκης",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1939–40",
+      "protathlitis": "Α.Ε.Κ. (2)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": ""
+    },
+    {
+      "periodos": "1940–41",
+      "protathlitis": "Δεν ολοκληρώθηκε λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "defterathlitis": "Δεν ολοκληρώθηκε λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "tritathlitis": "Δεν ολοκληρώθηκε λόγω του Β΄ Παγκοσμίου Πολέμου"
+    },
+    {
+      "periodos": "1941–42",
+      "protathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "defterathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "tritathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου"
+    },
+    {
+      "periodos": "1942–43",
+      "protathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "defterathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "tritathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου"
+    },
+    {
+      "periodos": "1943–44",
+      "protathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "defterathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "tritathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου"
+    },
+    {
+      "periodos": "1944–45",
+      "protathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "defterathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου",
+      "tritathlitis": "Δεν διεξήχθη λόγω του Β΄ Παγκοσμίου Πολέμου"
+    },
+    {
+      "periodos": "1945–46",
+      "protathlitis": "Άρης Θεσσαλονίκης (3)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1946–47",
+      "protathlitis": "Ολυμπιακός (7)",
+      "defterathlitis": "Ηρακλής Θεσσαλονίκης",
+      "tritathlitis": "Πανιώνιος"
+    },
+    {
+      "periodos": "1947–48",
+      "protathlitis": "Ολυμπιακός (8)",
+      "defterathlitis": "Απόλλων Σμύρνης",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1948–49",
+      "protathlitis": "Παναθηναϊκός (2)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1949–50",
+      "protathlitis": "Δεν διεξήχθη",
+      "defterathlitis": "Δεν διεξήχθη",
+      "tritathlitis": "Δεν διεξήχθη"
+    },
+    {
+      "periodos": "1950–51",
+      "protathlitis": "Ολυμπιακός (9)",
+      "defterathlitis": "Πανιώνιος",
+      "tritathlitis": "Ηρακλής Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1951–52",
+      "protathlitis": "Δεν διεξήχθη",
+      "defterathlitis": "Δεν διεξήχθη",
+      "tritathlitis": "Δεν διεξήχθη"
+    },
+    {
+      "periodos": "1952–53",
+      "protathlitis": "Παναθηναϊκός (3)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1953–54",
+      "protathlitis": "Ολυμπιακός (10)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1954–55",
+      "protathlitis": "Ολυμπιακός (11)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Απόλλων Σμύρνης"
+    },
+    {
+      "periodos": "1955–56",
+      "protathlitis": "Ολυμπιακός (12)",
+      "defterathlitis": "Εθνικός Πειραιώς",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1956–57",
+      "protathlitis": "Ολυμπιακός (13)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Απόλλων Σμύρνης"
+    },
+    {
+      "periodos": "1957–58",
+      "protathlitis": "Ολυμπιακός (14)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1958–59",
+      "protathlitis": "Ολυμπιακός (15)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Πανιώνιος"
+    },
+    {
+      "periodos": "1959–60",
+      "protathlitis": "Παναθηναϊκός (4)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1960–61",
+      "protathlitis": "Παναθηναϊκός (5)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Πανιώνιος"
+    },
+    {
+      "periodos": "1961–62",
+      "protathlitis": "Παναθηναϊκός (6)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Απόλλων Σμύρνης"
+    },
+    {
+      "periodos": "1962–63",
+      "protathlitis": "Α.Ε.Κ. (3)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1963–64",
+      "protathlitis": "Παναθηναϊκός (7)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1964–65",
+      "protathlitis": "Παναθηναϊκός (8)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1965–66",
+      "protathlitis": "Ολυμπιακός (16)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1966–67",
+      "protathlitis": "Ολυμπιακός (17)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1967–68",
+      "protathlitis": "Α.Ε.Κ. (4)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1968–69",
+      "protathlitis": "Παναθηναϊκός (9)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1969–70",
+      "protathlitis": "Παναθηναϊκός (10)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1970–71",
+      "protathlitis": "Α.Ε.Κ. (5)",
+      "defterathlitis": "Πανιώνιος",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1971–72",
+      "protathlitis": "Παναθηναϊκός (11)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1972–73",
+      "protathlitis": "Ολυμπιακός (18)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1973–74",
+      "protathlitis": "Ολυμπιακός (19)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1974–75",
+      "protathlitis": "Ολυμπιακός (20)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1975–76",
+      "protathlitis": "Π.Α.Ο.Κ. (1)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1976–77",
+      "protathlitis": "Παναθηναϊκός (12)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1977–78",
+      "protathlitis": "Α.Ε.Κ. (6)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1978–79",
+      "protathlitis": "Α.Ε.Κ. (7)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1979–80",
+      "protathlitis": "Ολυμπιακός (21)",
+      "defterathlitis": "Άρης Θεσσαλονίκης",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1980–81",
+      "protathlitis": "Ολυμπιακός (22)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1981–82",
+      "protathlitis": "Ολυμπιακός (23)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1982–83",
+      "protathlitis": "Ολυμπιακός (24)",
+      "defterathlitis": "Λάρισα",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1983–84",
+      "protathlitis": "Παναθηναϊκός (13)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Ηρακλής Θεσσαλονίκης"
+    },
+    {
+      "periodos": "1984–85",
+      "protathlitis": "Π.Α.Ο.Κ. (2)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1985–86",
+      "protathlitis": "Παναθηναϊκός (14)",
+      "defterathlitis": "Ο.Φ.Η.",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1986–87",
+      "protathlitis": "Ολυμπιακός (25)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Ο.Φ.Η."
+    },
+    {
+      "periodos": "1987–88",
+      "protathlitis": "Λάρισα (1)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1988–89",
+      "protathlitis": "Α.Ε.Κ. (8)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1989–90",
+      "protathlitis": "Παναθηναϊκός (15)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1990–91",
+      "protathlitis": "Παναθηναϊκός (16)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1991–92",
+      "protathlitis": "Α.Ε.Κ. (9)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1992–93",
+      "protathlitis": "Α.Ε.Κ. (10)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1993–94",
+      "protathlitis": "Α.Ε.Κ. (11)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1994–95",
+      "protathlitis": "Παναθηναϊκός (17)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1995–96",
+      "protathlitis": "Παναθηναϊκός (18)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "1996–97",
+      "protathlitis": "Ολυμπιακός (26)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "1997–98",
+      "protathlitis": "Ολυμπιακός (27)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "1998–99",
+      "protathlitis": "Ολυμπιακός (28)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "1999–2000",
+      "protathlitis": "Ολυμπιακός (29)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2000–01",
+      "protathlitis": "Ολυμπιακός (30)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2001–02",
+      "protathlitis": "Ολυμπιακός (31)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "2002–03",
+      "protathlitis": "Ολυμπιακός (32)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2003–04",
+      "protathlitis": "Παναθηναϊκός (19)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "2004–05",
+      "protathlitis": "Ολυμπιακός (33)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2005–06",
+      "protathlitis": "Ολυμπιακός (34)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "2006–07",
+      "protathlitis": "Ολυμπιακός (35)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "2007–08",
+      "protathlitis": "Ολυμπιακός (36)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2008–09",
+      "protathlitis": "Ολυμπιακός (37)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2009–10",
+      "protathlitis": "Παναθηναϊκός (20)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2010–11",
+      "protathlitis": "Ολυμπιακός (38)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "2011–12",
+      "protathlitis": "Ολυμπιακός (39)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2012–13",
+      "protathlitis": "Ολυμπιακός (40)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Ατρόμητος Αθηνών"
+    },
+    {
+      "periodos": "2013–14",
+      "protathlitis": "Ολυμπιακός (41)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "2014–15",
+      "protathlitis": "Ολυμπιακός (42)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Αστέρας Τρίπολης"
+    },
+    {
+      "periodos": "2015–16",
+      "protathlitis": "Ολυμπιακός (43)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "2016–17",
+      "protathlitis": "Ολυμπιακός (44)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Παναθηναϊκός"
+    },
+    {
+      "periodos": "2017–18",
+      "protathlitis": "Α.Ε.Κ. (12)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "2018–19",
+      "protathlitis": "Π.Α.Ο.Κ. (3)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2019–20",
+      "protathlitis": "Ολυμπιακός (45)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Α.Ε.Κ."
+    },
+    {
+      "periodos": "2020–21",
+      "protathlitis": "Ολυμπιακός (46)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "2021–22",
+      "protathlitis": "Ολυμπιακός (47)",
+      "defterathlitis": "Π.Α.Ο.Κ.",
+      "tritathlitis": "Άρης Θεσσαλονίκης"
+    },
+    {
+      "periodos": "2022–23",
+      "protathlitis": "Α.Ε.Κ. (13)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "2023–24",
+      "protathlitis": "Π.Α.Ο.Κ. (4)",
+      "defterathlitis": "Α.Ε.Κ.",
+      "tritathlitis": "Ολυμπιακός"
+    },
+    {
+      "periodos": "2024–25",
+      "protathlitis": "Ολυμπιακός (48)",
+      "defterathlitis": "Παναθηναϊκός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    },
+    {
+      "periodos": "2025–26",
+      "protathlitis": "Α.Ε.Κ. (14)",
+      "defterathlitis": "Ολυμπιακός",
+      "tritathlitis": "Π.Α.Ο.Κ."
+    }
+  ],
+  "meta": {
+    "title": "Πρωταθλητές Ελλάδας στο ποδόσφαιρο - Free Download",
+    "description": "Οι πρωταθλητές του ελληνικού πρωταθλήματος ποδοσφαίρου ανδρών ανά αγωνιστική περίοδο από το 1906, με δευτεραθλητή και τριταθλητή όπου υπάρχουν. Contains 118 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Πρωταθλητές Ελλάδας στο ποδόσφαιρο | ListBase",
+    "seo_description": "Download Πρωταθλητές Ελλάδας στο ποδόσφαιρο — 118 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 118 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_πρωταθλητών_ποδοσφαίρου_Ελλάδας"
+    ]
+  }
+}
