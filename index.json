@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-30T02:24:25.150Z",
-  "total_datasets": 457,
-  "total_records": 195010,
+  "generated": "2026-10-30T02:24:32.479Z",
+  "total_datasets": 458,
+  "total_records": 195072,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "environment",
@@ -1624,6 +1624,34 @@
         "xlsx": {
           "name": "el-festival-thessalonikis-kalyteri-tainia_EL.xlsx",
           "size": 10222
+        }
+      }
+    },
+    {
+      "id": "el-kalyteres-ellinikes-tainies-pekk",
+      "name": "Οι καλύτερες ελληνικές ταινίες σύμφωνα με την ΠΕΚΚ",
+      "category": "entertainment",
+      "record_count": 62,
+      "columns": [
+        "thesi",
+        "titlos",
+        "etos",
+        "xroma",
+        "eidos",
+        "skinothetis",
+        "psifoi"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_καλύτερων_ελληνικών_κινηματογραφικών_ταινιών_μεγάλου_μήκους_έως_το_2006_σύμφωνα_με_την_ΠΕΚΚ",
+      "updated": "2026-10",
+      "size": 19307,
+      "files": {
+        "csv": {
+          "name": "el-kalyteres-ellinikes-tainies-pekk_EL.csv",
+          "size": 8597
+        },
+        "xlsx": {
+          "name": "el-kalyteres-ellinikes-tainies-pekk_EL.xlsx",
+          "size": 10681
         }
       }
     },
