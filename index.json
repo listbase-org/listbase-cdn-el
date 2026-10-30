@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-30T02:24:16.563Z",
-  "total_datasets": 456,
-  "total_records": 194950,
+  "generated": "2026-10-30T02:24:25.150Z",
+  "total_datasets": 457,
+  "total_records": 195010,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "society",
@@ -11716,6 +11716,31 @@
         "xlsx": {
           "name": "el-zakynthoy-koinotites_EL.xlsx",
           "size": 8352
+        }
+      }
+    },
+    {
+      "id": "el-akraies-thermokrasies",
+      "name": "Ακραίες θερμοκρασίες στην Ελλάδα",
+      "category": "science",
+      "record_count": 60,
+      "columns": [
+        "eidos",
+        "thermokrasia",
+        "perioxi",
+        "imerominia"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ακραίων_θερμοκρασιών_στην_Ελλάδα",
+      "updated": "2026-10",
+      "size": 16195,
+      "files": {
+        "csv": {
+          "name": "el-akraies-thermokrasies_EL.csv",
+          "size": 8760
+        },
+        "xlsx": {
+          "name": "el-akraies-thermokrasies_EL.xlsx",
+          "size": 8940
         }
       }
     },
