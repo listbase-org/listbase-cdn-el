@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-30T02:24:32.479Z",
-  "total_datasets": 458,
-  "total_records": 195072,
+  "generated": "2026-10-30T02:24:38.923Z",
+  "total_datasets": 459,
+  "total_records": 195089,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "education",
@@ -1467,6 +1467,33 @@
         "xlsx": {
           "name": "el-perifereies-akatharisti-prostithemeni-axia_EL.xlsx",
           "size": 7457
+        }
+      }
+    },
+    {
+      "id": "el-plousioteroi-ellines",
+      "name": "Οι πλουσιότεροι Έλληνες",
+      "category": "economy",
+      "record_count": 17,
+      "columns": [
+        "katataxi_ellada",
+        "pagkosmia_katataxi",
+        "onoma",
+        "ypikootita",
+        "kathari_axia_usd",
+        "piges_ploutou"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_Ελλήνων_κατά_την_καθαρή_τους_θέση",
+      "updated": "2026-10",
+      "size": 7942,
+      "files": {
+        "csv": {
+          "name": "el-plousioteroi-ellines_EL.csv",
+          "size": 3231
+        },
+        "xlsx": {
+          "name": "el-plousioteroi-ellines_EL.xlsx",
+          "size": 8320
         }
       }
     },

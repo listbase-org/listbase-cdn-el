@@ -1,0 +1,192 @@
+{
+  "id": "el-plousioteroi-ellines",
+  "name": "Οι πλουσιότεροι Έλληνες",
+  "title": "Οι πλουσιότεροι Έλληνες",
+  "description": "Κατάταξη των πλουσιότερων Ελλήνων με βάση την καθαρή τους περιουσία σε δολάρια ΗΠΑ, την παγκόσμια θέση και τις πηγές πλούτου.",
+  "category": "economy",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_Ελλήνων_κατά_την_καθαρή_τους_θέση",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_Ελλήνων_κατά_την_καθαρή_τους_θέση",
+  "updated": "2026-10",
+  "record_count": 17,
+  "columns": [
+    {
+      "key": "katataxi_ellada",
+      "label": "Katataxi Ellada",
+      "type": "number"
+    },
+    {
+      "key": "pagkosmia_katataxi",
+      "label": "Pagkosmia Katataxi",
+      "type": "number"
+    },
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "ypikootita",
+      "label": "Ypikootita",
+      "type": "string"
+    },
+    {
+      "key": "kathari_axia_usd",
+      "label": "Kathari Axia Usd",
+      "type": "string"
+    },
+    {
+      "key": "piges_ploutou",
+      "label": "Piges Ploutou",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "katataxi_ellada": 1,
+      "pagkosmia_katataxi": 479,
+      "onoma": "Μαρία Αγγελικούση",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$7.6 δις",
+      "piges_ploutou": "Κόρη του Γιάννη Αγγελικούση of CEO της Angelicoussis Group (ναυτιλία)"
+    },
+    {
+      "katataxi_ellada": 2,
+      "pagkosmia_katataxi": 793,
+      "onoma": "Ευάγγελος Μαρινάκης & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$5.1 δις",
+      "piges_ploutou": "ιδιοκτήτης της ναυτιλιακής εταιρείας Capital Maritime Trading Corp."
+    },
+    {
+      "katataxi_ellada": 3,
+      "pagkosmia_katataxi": 903,
+      "onoma": "Γεώργιος Οικονόμου",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$4.5 δις",
+      "piges_ploutou": "Εφοπλιστής"
+    },
+    {
+      "katataxi_ellada": 4,
+      "pagkosmia_katataxi": 1097,
+      "onoma": "Γιώργος Προκοπίου & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$3.7 δις",
+      "piges_ploutou": "ιδιοκτήτης των ναυτιλιακών εταιρειών Dynacom Tankers , Sea Traders and Dynagas"
+    },
+    {
+      "katataxi_ellada": 5,
+      "pagkosmia_katataxi": 1189,
+      "onoma": "Σπύρος Λάτσης & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$3.4 δις",
+      "piges_ploutou": "γιος του Γιάννη Λάτση , ιδιοκτήτης της EFG International (τράπεζα επενδύσεων), μεγαλομέτοχος της LAMDA DEVELOPMENT"
+    },
+    {
+      "katataxi_ellada": 6,
+      "pagkosmia_katataxi": 1224,
+      "onoma": "Αριστοτέλης Μυστακίδης",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$3.3 δις",
+      "piges_ploutou": "ιδιοκτήτης του 3% της Glencore , Τράπεζες"
+    },
+    {
+      "katataxi_ellada": 7,
+      "pagkosmia_katataxi": 1411,
+      "onoma": "Φίλιππος Νιάρχος",
+      "ypikootita": "Ελλάδα Γαλλία",
+      "kathari_axia_usd": "$2.8 δις",
+      "piges_ploutou": "Συλλέκτης έργων τέχνης"
+    },
+    {
+      "katataxi_ellada": 8,
+      "pagkosmia_katataxi": 1566,
+      "onoma": "Παναγιώτης Τσάκος & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$2.5 δις",
+      "piges_ploutou": "Ιδρυτής της ναυτιλιακής εταιρείας Tsakos Group"
+    },
+    {
+      "katataxi_ellada": 9,
+      "pagkosmia_katataxi": 1587,
+      "onoma": "Άννα Αγγελικούση & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$2.5 δις",
+      "piges_ploutou": "ιδιοκτήτρια των ναυτιλιακών εταιρειών Alpha Bulkers, Alpha Gas and Pantheon Tankers Management"
+    },
+    {
+      "katataxi_ellada": 10,
+      "pagkosmia_katataxi": 1723,
+      "onoma": "Ιωάννης Παπαλέκας",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$2.3 δις",
+      "piges_ploutou": "Έλληνας επενδυτής real estate and και μεγαλομέτοχος της Yoda Group"
+    },
+    {
+      "katataxi_ellada": 11,
+      "pagkosmia_katataxi": 1738,
+      "onoma": "Μαριάννα Λάτση & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$2.3 δις",
+      "piges_ploutou": "κόρη του Γιάννη Λάτση , ιδιοκτήτρια της Latsco Shipping, σημαντικές επενδύσεις στο real estate με την ΓΕΚ ΤΕΡΝΑ"
+    },
+    {
+      "katataxi_ellada": 12,
+      "pagkosmia_katataxi": 1752,
+      "onoma": "Κωνσταντίνος Μαρτίνος & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$2.2 billion",
+      "piges_ploutou": "Ναυτιλία"
+    },
+    {
+      "katataxi_ellada": 13,
+      "pagkosmia_katataxi": 1962,
+      "onoma": "Ευάγγελος Μυτιληναίος",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$2 billion",
+      "piges_ploutou": "CEO of Metlen Energy & Metals"
+    },
+    {
+      "katataxi_ellada": 14,
+      "pagkosmia_katataxi": 2073,
+      "onoma": "Θανάσης Μαρτίνος και οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$1.9 δις",
+      "piges_ploutou": "ιδιοκτήτης της ναυτιλιακής εταιρείας Eastern Mediterranean Maritime"
+    },
+    {
+      "katataxi_ellada": 15,
+      "pagkosmia_katataxi": 2153,
+      "onoma": "Ανδρέας Μαρτίνος και οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$1.8 δις",
+      "piges_ploutou": "ιδιοκτήτης της ναυτιλιακής εταιρείας Minerva Marine"
+    },
+    {
+      "katataxi_ellada": 16,
+      "pagkosmia_katataxi": 2492,
+      "onoma": "Μαργαρίτα Λάτση Κατσιάπη & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$1.5 δις",
+      "piges_ploutou": "κόρη του Γιάννη Λάτση"
+    },
+    {
+      "katataxi_ellada": 17,
+      "pagkosmia_katataxi": 3051,
+      "onoma": "Διαμαντής Διαμαντίδης & Οικογένεια",
+      "ypikootita": "Ελλάδα",
+      "kathari_axia_usd": "$1.1 δις",
+      "piges_ploutou": "ιδιοκτήτης των ναυτιλιακών εταιρειών Delta Tankers and Marmaras Navigation"
+    }
+  ],
+  "meta": {
+    "title": "Οι πλουσιότεροι Έλληνες - Free Download",
+    "description": "Κατάταξη των πλουσιότερων Ελλήνων με βάση την καθαρή τους περιουσία σε δολάρια ΗΠΑ, την παγκόσμια θέση και τις πηγές πλούτου. Contains 17 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Οι πλουσιότεροι Έλληνες | ListBase",
+    "seo_description": "Download Οι πλουσιότεροι Έλληνες — 17 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 17 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_Ελλήνων_κατά_την_καθαρή_τους_θέση"
+    ]
+  }
+}
