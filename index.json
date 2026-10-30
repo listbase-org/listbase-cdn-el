@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-30T02:24:46.465Z",
-  "total_datasets": 460,
-  "total_records": 195167,
+  "generated": "2026-10-30T02:24:53.586Z",
+  "total_datasets": 461,
+  "total_records": 195199,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "politics",
@@ -5031,6 +5031,30 @@
         "xlsx": {
           "name": "el-ellada-sti-eurovision_EL.xlsx",
           "size": 10493
+        }
+      }
+    },
+    {
+      "id": "el-erga-operas-ellinon-syntheton",
+      "name": "Έργα όπερας Ελλήνων συνθετών",
+      "category": "music",
+      "record_count": 32,
+      "columns": [
+        "synthetis",
+        "eti_zois",
+        "erga_operas"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_έργων_όπερας_Ελλήνων_συνθετών",
+      "updated": "2026-10",
+      "size": 9241,
+      "files": {
+        "csv": {
+          "name": "el-erga-operas-ellinon-syntheton_EL.csv",
+          "size": 5163
+        },
+        "xlsx": {
+          "name": "el-erga-operas-ellinon-syntheton_EL.xlsx",
+          "size": 9513
         }
       }
     },
