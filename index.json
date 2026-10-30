@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-30T02:24:38.923Z",
-  "total_datasets": 459,
-  "total_records": 195089,
+  "generated": "2026-10-30T02:24:46.465Z",
+  "total_datasets": 460,
+  "total_records": 195167,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "society",
@@ -11820,6 +11820,32 @@
         "xlsx": {
           "name": "el-erevnitika-kentra-instituta_EL.xlsx",
           "size": 8759
+        }
+      }
+    },
+    {
+      "id": "el-erpeta-elladas",
+      "name": "Ερπετά της Ελλάδας",
+      "category": "science",
+      "record_count": 78,
+      "columns": [
+        "oikogeneia",
+        "epistimoniko_onoma",
+        "koini_onomasia",
+        "endimiko",
+        "xeniko"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ερπετών_της_Ελλάδας",
+      "updated": "2026-10",
+      "size": 19714,
+      "files": {
+        "csv": {
+          "name": "el-erpeta-elladas_EL.csv",
+          "size": 8101
+        },
+        "xlsx": {
+          "name": "el-erpeta-elladas_EL.xlsx",
+          "size": 10743
         }
       }
     },

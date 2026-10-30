@@ -1,0 +1,597 @@
+{
+  "id": "el-erpeta-elladas",
+  "name": "Ερπετά της Ελλάδας",
+  "title": "Ερπετά της Ελλάδας",
+  "description": "Τα είδη ερπετών (χελώνες, σαύρες, φίδια) της Ελλάδας ανά οικογένεια, με επιστημονική και κοινή ελληνική ονομασία και ένδειξη ενδημικού ή ξενικού είδους.",
+  "category": "science",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ερπετών_της_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ερπετών_της_Ελλάδας",
+  "updated": "2026-10",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "oikogeneia",
+      "label": "Oikogeneia",
+      "type": "string"
+    },
+    {
+      "key": "epistimoniko_onoma",
+      "label": "Epistimoniko Onoma",
+      "type": "string"
+    },
+    {
+      "key": "koini_onomasia",
+      "label": "Koini Onomasia",
+      "type": "string"
+    },
+    {
+      "key": "endimiko",
+      "label": "Endimiko",
+      "type": "string"
+    },
+    {
+      "key": "xeniko",
+      "label": "Xeniko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "oikogeneia": "Cheloniidae",
+      "epistimoniko_onoma": "Caretta caretta (Linnaeus, 1758)",
+      "koini_onomasia": "χελώνα Caretta",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Cheloniidae",
+      "epistimoniko_onoma": "Chelonia mydas (Linnaeus, 1758)",
+      "koini_onomasia": "πράσινη χελώνα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Dermochelyidae",
+      "epistimoniko_onoma": "Dermochelys coriacea (Vandelli, 1761)",
+      "koini_onomasia": "δερματοχελώνα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Emydidae",
+      "epistimoniko_onoma": "Emys orbicularis (Linnaeus, 1758)",
+      "koini_onomasia": "στικτή νεροχελώνα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Emydidae",
+      "epistimoniko_onoma": "Trachemys scripta (Schoepff, 1792)",
+      "koini_onomasia": "Αμερικάνικη νεροχελώνα",
+      "endimiko": "όχι",
+      "xeniko": "ναι"
+    },
+    {
+      "oikogeneia": "Geoemydidae",
+      "epistimoniko_onoma": "Mauremys rivulata (Valenciennes, 1833)",
+      "koini_onomasia": "γραμμωτή νεροχελώνα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Testudinidae",
+      "epistimoniko_onoma": "Testudo graeca Linnaeus, 1758",
+      "koini_onomasia": "Ελληνική χελώνα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Testudinidae",
+      "epistimoniko_onoma": "Testudo hermanni Gmelin, 1789",
+      "koini_onomasia": "Μεσογειακή χελώνα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Testudinidae",
+      "epistimoniko_onoma": "Testudo marginata (Valenciennes, 1833)",
+      "koini_onomasia": "κρασπεδωτή χελώνα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Agamidae",
+      "epistimoniko_onoma": "Stellagama stellio (Linnaeus, 1758)",
+      "koini_onomasia": "κροκοδειλάκι",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Anguidae",
+      "epistimoniko_onoma": "Anguis cephallonica Werner, 1894",
+      "koini_onomasia": "Κεφαλλονίτικο κονάκι",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Anguidae",
+      "epistimoniko_onoma": "Anguis fragilis Linnaeus, 1758",
+      "koini_onomasia": "κοινό κονάκι",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Anguidae",
+      "epistimoniko_onoma": "Anguis graeca Bedriaga, 1881",
+      "koini_onomasia": "Ελληνικό κονάκι",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Anguidae",
+      "epistimoniko_onoma": "Pseudopus apodus (Pallas, 1775)",
+      "koini_onomasia": "φιδόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Chamaeleonidae",
+      "epistimoniko_onoma": "Chamaeleo africanus Laurenti, 1768",
+      "koini_onomasia": "Αφρικανικός χαμαιλέοντας",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Chamaeleonidae",
+      "epistimoniko_onoma": "Chamaeleo chamaeleon (Linnaeus, 1758)",
+      "koini_onomasia": "Μεσογειακός χαμαιλέοντας",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Gekkonidae",
+      "epistimoniko_onoma": "Hemidactylus turcicus (Linnaeus, 1758)",
+      "koini_onomasia": "σαμιαμίδι",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Gekkonidae",
+      "epistimoniko_onoma": "Mediodactylus kotschyi (Steindachner, 1870)",
+      "koini_onomasia": "κοινός κυρτοδάκτυλος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Gekkonidae",
+      "epistimoniko_onoma": "Mediodactylus orientalis (Štěpánek, 1937)",
+      "koini_onomasia": "ανατολικός κυρτοδάκτυλος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Gekkonidae",
+      "epistimoniko_onoma": "Mediodactylus danilewskii (Strauch, 1887)",
+      "koini_onomasia": "κυρτοδάκτυλος της Κριμαίας",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Gekkonidae",
+      "epistimoniko_onoma": "Mediodactylus bartoni (Štěpánek, 1934)",
+      "koini_onomasia": "κυρτοδάκτυλος της Κρήτης",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Gekkonidae",
+      "epistimoniko_onoma": "Mediodactylus oertzeni (Boettger, 1888)",
+      "koini_onomasia": "κυρτοδάκτυλος των Δωδεκανήσων",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Algyroides moreoticus Bibron & Bory de Saint-Vincent, 1833",
+      "koini_onomasia": "σαύρα του Μοριά",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Algyroides nigropunctatus (Duméril & Bibron, 1839)",
+      "koini_onomasia": "σαύρα της Ρούμελης",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Anatololacerta anatolica (Werner, 1902)",
+      "koini_onomasia": "σαύρα της Ιωνίας",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Anatololacerta pelasgiana (Mertens, 1959)",
+      "koini_onomasia": "σαύρα της Ρόδου",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Anatololacerta budaki (Eiselt & Schmidtler, 1986)",
+      "koini_onomasia": "σαύρα της Λυκίας",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Darevskia praticola (Eversmann, 1834)",
+      "koini_onomasia": "Ποντιακή σαύρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Hellenolacerta graeca (Bedriaga, 1886)",
+      "koini_onomasia": "Γραικόσαυρα",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Lacerta agilis Linnaeus, 1758",
+      "koini_onomasia": "βουνόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Lacerta trilineata Bedriaga, 1886",
+      "koini_onomasia": "τρανόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Lacerta citrovittata Werner, 1938",
+      "koini_onomasia": "τρανόσαυρα των Κυκλάδων",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Lacerta diplochondrodes Wettstein, 1952",
+      "koini_onomasia": "ανατολική τρανόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Lacerta viridis (Laurenti, 1768)",
+      "koini_onomasia": "πρασινόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Ophisops elegans Ménétriés, 1832",
+      "koini_onomasia": "οφίσωψ",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis cretensis (Wettstein, 1952)",
+      "koini_onomasia": "τοιχόσαυρα της Κρήτης",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis erhardii (Bedriaga, 1886)",
+      "koini_onomasia": "Αιγαιόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis gaigeae (Werner, 1930)",
+      "koini_onomasia": "τοιχόσαυρα της Σκύρου",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis ionicus (Lehrs, 1902)",
+      "koini_onomasia": "τοιχογουστέρα του Ιονίου",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis levendis (Wettstein, 1952)",
+      "koini_onomasia": "Λεβεντόσαυρα",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis milensis (Bedriaga, 1882)",
+      "koini_onomasia": "τοιχόσαυρα της Μήλου",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis muralis (Laurenti, 1768)",
+      "koini_onomasia": "κοινή τοιχόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis peloponnesiacus (Bibron & Bory de Saint-Vincent, 1833)",
+      "koini_onomasia": "τοιχόσαυρα της Πελοποννήσου",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis tauricus (Pallas, 1814)",
+      "koini_onomasia": "Βαλκανική τοιχόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis vaucheri (Boulenger, 1905)",
+      "koini_onomasia": "τοιχόσαυρα της Ανδαλουσίας",
+      "endimiko": "όχι",
+      "xeniko": "ναι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Podarcis siculus (Rafinesque, 1810)",
+      "koini_onomasia": "Ιταλική τοιχόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "ναι"
+    },
+    {
+      "oikogeneia": "Lacertidae",
+      "epistimoniko_onoma": "Zootoca vivipara (von Jacquin, 1787)",
+      "koini_onomasia": "ζωοτόκα σαύρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Phyllodactylidae",
+      "epistimoniko_onoma": "Tarentola mauritanica (Linnaeus, 1758)",
+      "koini_onomasia": "ταρέντολα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Scincidae",
+      "epistimoniko_onoma": "Ablepharus kitaibelii (Bibron & Bory de Saint-Vincent, 1833)",
+      "koini_onomasia": "κοινός αβλέφαρος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Scincidae",
+      "epistimoniko_onoma": "Ablepharus anatolicus Schmidtler, 1997",
+      "koini_onomasia": "ανατολικός αβλέφαρος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Scincidae",
+      "epistimoniko_onoma": "Chalcides ocellatus (Forskål, 1775)",
+      "koini_onomasia": "λιακόνι",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Scincidae",
+      "epistimoniko_onoma": "Heremites auratus Linnaeus, 1758",
+      "koini_onomasia": "χρυσόσαυρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Scincidae",
+      "epistimoniko_onoma": "Ophiomorus punctatissimus (Bibron & Bory de Saint-Vincent, 1833)",
+      "koini_onomasia": "οφιόμορος",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Scincidae",
+      "epistimoniko_onoma": "Ophiomorus kardesi Kornilios, Kumlutas, Lymberakis & Ilgaz, 2018",
+      "koini_onomasia": "ανατολικός οφιόμορος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Blanidae",
+      "epistimoniko_onoma": "Blanus strauchi (Bedriaga, 1884)",
+      "koini_onomasia": "Τούρκικη αμφίσβαινα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Erycidae",
+      "epistimoniko_onoma": "Eryx jaculus (Linnaeus, 1758)",
+      "koini_onomasia": "ερημόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Coronella austriaca (Linnaeus, 1758)",
+      "koini_onomasia": "στεφανοφόρος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Dolichophis caspius (Gmelin, 1789)",
+      "koini_onomasia": "έφιος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Dolichophis jugularis (Linnaeus, 1758)",
+      "koini_onomasia": "μαύρος έφιος",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Eirenis modestus (Martin, 1838)",
+      "koini_onomasia": "νανόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Elaphe quatuorlineata (Bonnaterre, 1790)",
+      "koini_onomasia": "λαφιάτης",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Elaphe sauromates (Pallas, 1811)",
+      "koini_onomasia": "κεχρίτης",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Hemorrhois nummifer (Reuss, 1834)",
+      "koini_onomasia": "λεβαντόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Hierophis gemonensis (Laurenti, 1768)",
+      "koini_onomasia": "δεντρογαλιά",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Hierophis viridiflavus (Lacépède, 1789)",
+      "koini_onomasia": "μαύρο φίδι της Γυάρου",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Malpolon insignitus (Geoffroy Saint-Hilaire, 1827)",
+      "koini_onomasia": "σαπίτης",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Platyceps najadum (Eichwald, 1831)",
+      "koini_onomasia": "σαΐτα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Telescopus fallax (Fleischmann, 1831)",
+      "koini_onomasia": "αγιόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Zamenis longissimus (Laurenti, 1768)",
+      "koini_onomasia": "Λαφίτης του Ασκληπιού",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Colubridae",
+      "epistimoniko_onoma": "Zamenis situla (Linnaeus, 1758)",
+      "koini_onomasia": "σπιτόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Natricidae",
+      "epistimoniko_onoma": "Natrix natrix (Linnaeus, 1758)",
+      "koini_onomasia": "νερόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Natricidae",
+      "epistimoniko_onoma": "Natrix tessellata (Laurenti, 1768)",
+      "koini_onomasia": "λιμνόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Typhlopidae",
+      "epistimoniko_onoma": "Xerotyphlops vermicularis (Merrem, 1820)",
+      "koini_onomasia": "τυφλόφιδο",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Viperidae",
+      "epistimoniko_onoma": "Macrovipera schweizeri (Werner, 1935)",
+      "koini_onomasia": "οχιά της Μήλου",
+      "endimiko": "ναι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Viperidae",
+      "epistimoniko_onoma": "Montivipera xanthina (Gray, 1849)",
+      "koini_onomasia": "Οθωμανική οχιά",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Viperidae",
+      "epistimoniko_onoma": "Vipera ammodytes (Linnaeus, 1758)",
+      "koini_onomasia": "κοινή οχιά",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Viperidae",
+      "epistimoniko_onoma": "Vipera berus (Linnaeus, 1758)",
+      "koini_onomasia": "αστρίτης",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    },
+    {
+      "oikogeneia": "Viperidae",
+      "epistimoniko_onoma": "Vipera graeca (Nilson & Andrén, 1988)",
+      "koini_onomasia": "νανόχεντρα",
+      "endimiko": "όχι",
+      "xeniko": "όχι"
+    }
+  ],
+  "meta": {
+    "title": "Ερπετά της Ελλάδας - Free Download",
+    "description": "Τα είδη ερπετών (χελώνες, σαύρες, φίδια) της Ελλάδας ανά οικογένεια, με επιστημονική και κοινή ελληνική ονομασία και ένδειξη ενδημικού ή ξενικού είδους. Contains 78 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ερπετά της Ελλάδας | ListBase",
+    "seo_description": "Download Ερπετά της Ελλάδας — 78 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 78 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ερπετών_της_Ελλάδας"
+    ]
+  }
+}
