@@ -1,0 +1,372 @@
+{
+  "id": "el-ellinika-alievmata",
+  "name": "Ελληνικά αλιεύματα",
+  "title": "Ελληνικά αλιεύματα",
+  "description": "Ψάρια, οστρακοειδή και άλλα θαλασσινά που αλιεύονται στις ελληνικές θάλασσες, με την κοινή ελληνική ονομασία και την επιστημονική ονομασία.",
+  "category": "agriculture",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_αλιευμάτων",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_αλιευμάτων",
+  "updated": "2026-10",
+  "record_count": 84,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "epistimoniko_onoma",
+      "label": "Epistimoniko Onoma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Αθερίνα",
+      "epistimoniko_onoma": "Αtherina hepsetus"
+    },
+    {
+      "onoma": "Αθερίνα",
+      "epistimoniko_onoma": "Atherina boyeri"
+    },
+    {
+      "onoma": "Ασπροσαύριδο",
+      "epistimoniko_onoma": "Trachurus mediterraneus"
+    },
+    {
+      "onoma": "Αστρογαλέος",
+      "epistimoniko_onoma": "Mustelus asterias"
+    },
+    {
+      "onoma": "Βακαλάος",
+      "epistimoniko_onoma": "Gadus morhua"
+    },
+    {
+      "onoma": "Βάτος",
+      "epistimoniko_onoma": "Batoidea"
+    },
+    {
+      "onoma": "Βλάχος",
+      "epistimoniko_onoma": "Polyprion americanus"
+    },
+    {
+      "onoma": "Γαλέος",
+      "epistimoniko_onoma": "Galeorhinus galeus"
+    },
+    {
+      "onoma": "Γάστρος",
+      "epistimoniko_onoma": "Liza saliens"
+    },
+    {
+      "onoma": "Γαύρος",
+      "epistimoniko_onoma": "Engraulis encrasicolus"
+    },
+    {
+      "onoma": "Γκριζογαλέος",
+      "epistimoniko_onoma": "Mustelus mustelus"
+    },
+    {
+      "onoma": "Γκριζοσαύριδο",
+      "epistimoniko_onoma": "Trachurus trachurus"
+    },
+    {
+      "onoma": "Γλώσσα",
+      "epistimoniko_onoma": "Sogliola"
+    },
+    {
+      "onoma": "Γόπα",
+      "epistimoniko_onoma": "Boops boops"
+    },
+    {
+      "onoma": "Γοφάρι",
+      "epistimoniko_onoma": "Pomatomus saltatrix"
+    },
+    {
+      "onoma": "Δράκαινα",
+      "epistimoniko_onoma": "Trachinus draco"
+    },
+    {
+      "onoma": "Ζαργάνα",
+      "epistimoniko_onoma": "Belone belone"
+    },
+    {
+      "onoma": "Καλκάνι",
+      "epistimoniko_onoma": "Psetta maxima"
+    },
+    {
+      "onoma": "Καλκανόβατος",
+      "epistimoniko_onoma": "Raja clavata"
+    },
+    {
+      "onoma": "Καπόνι",
+      "epistimoniko_onoma": "Chelidonichthys lastoviza"
+    },
+    {
+      "onoma": "Κεντρόνι",
+      "epistimoniko_onoma": "Squalus acanthias"
+    },
+    {
+      "onoma": "Κέφαλος",
+      "epistimoniko_onoma": "Mugil cephalus"
+    },
+    {
+      "onoma": "Κοκκαλάς",
+      "epistimoniko_onoma": "Squalus blainville"
+    },
+    {
+      "onoma": "Κοκκινόψαρο",
+      "epistimoniko_onoma": "Lutjanus campechanus"
+    },
+    {
+      "onoma": "Κοκοβιός",
+      "epistimoniko_onoma": "Gobius niger"
+    },
+    {
+      "onoma": "Κολιός",
+      "epistimoniko_onoma": "Scomber japonicus"
+    },
+    {
+      "onoma": "Κουτσομούρα",
+      "epistimoniko_onoma": "Mullus barbatus"
+    },
+    {
+      "onoma": "Λαβράκι",
+      "epistimoniko_onoma": "Dicentrarchus labrax"
+    },
+    {
+      "onoma": "Λυθρίνι",
+      "epistimoniko_onoma": "Pagellus erythrinus"
+    },
+    {
+      "onoma": "Λούτσος",
+      "epistimoniko_onoma": "Sphyraena sphyraena"
+    },
+    {
+      "onoma": "Λύχνος",
+      "epistimoniko_onoma": "Uranoscopus scaber"
+    },
+    {
+      "onoma": "Μαγιάτικο (Μανάλι)",
+      "epistimoniko_onoma": "Seriola dumerilli"
+    },
+    {
+      "onoma": "Μαρίδα",
+      "epistimoniko_onoma": "Spicara smaris"
+    },
+    {
+      "onoma": "Ματόβατος",
+      "epistimoniko_onoma": "Raja miraletus"
+    },
+    {
+      "onoma": "Μαυράκι",
+      "epistimoniko_onoma": "Liza ramada"
+    },
+    {
+      "onoma": "Μαυρορινόβατος",
+      "epistimoniko_onoma": "Rhinobatos cemiculus"
+    },
+    {
+      "onoma": "Μαυροσαύριδο",
+      "epistimoniko_onoma": "Trachurus picturatus"
+    },
+    {
+      "onoma": "Μελανούρι",
+      "epistimoniko_onoma": "Oblada melanura"
+    },
+    {
+      "onoma": "Μένουλα",
+      "epistimoniko_onoma": "Spicara maena"
+    },
+    {
+      "onoma": "Μουρμούρα",
+      "epistimoniko_onoma": "Lithognathus mormyrus"
+    },
+    {
+      "onoma": "Μπακαλιάρος",
+      "epistimoniko_onoma": "Merluccius merluccius"
+    },
+    {
+      "onoma": "Μπαλάς",
+      "epistimoniko_onoma": "Dentex macrophthalmus"
+    },
+    {
+      "onoma": "Μπαρμπούνι",
+      "epistimoniko_onoma": "Mullus surmuletus"
+    },
+    {
+      "onoma": "Μυλοκόπι",
+      "epistimoniko_onoma": "Umbrina cirrosa"
+    },
+    {
+      "onoma": "Μυξινάρι",
+      "epistimoniko_onoma": "Liza aurata"
+    },
+    {
+      "onoma": "Μυτάκι",
+      "epistimoniko_onoma": "Diplodus puntazzo"
+    },
+    {
+      "onoma": "Ξιφίας",
+      "epistimoniko_onoma": "Xiphias gladius"
+    },
+    {
+      "onoma": "Παλαμίδα",
+      "epistimoniko_onoma": "Sarda sarda"
+    },
+    {
+      "onoma": "Παπαλίνα",
+      "epistimoniko_onoma": "Sprattus sprattus"
+    },
+    {
+      "onoma": "Πατερίτσα ή Ζύγαινα",
+      "epistimoniko_onoma": "Sphyrna zygaena"
+    },
+    {
+      "onoma": "Πεσκανδρίτσα",
+      "epistimoniko_onoma": "Lophius piscatorius"
+    },
+    {
+      "onoma": "Πεσκαντρίτσα μαύρη",
+      "epistimoniko_onoma": "Lophius budegassa"
+    },
+    {
+      "onoma": "Πετροσαλούβαρδος",
+      "epistimoniko_onoma": "Phycis phycis"
+    },
+    {
+      "onoma": "Προσφυγάκι",
+      "epistimoniko_onoma": "Micromesistius poutassou"
+    },
+    {
+      "onoma": "Ρέγγα",
+      "epistimoniko_onoma": "Clupea harengus"
+    },
+    {
+      "onoma": "Ρίκι",
+      "epistimoniko_onoma": "Katsuwonus pelamis"
+    },
+    {
+      "onoma": "Ρινόβατος",
+      "epistimoniko_onoma": "Rhinobatos rhinobatos"
+    },
+    {
+      "onoma": "Ροφός",
+      "epistimoniko_onoma": "Epinephelus marginatus"
+    },
+    {
+      "onoma": "Σάλπα",
+      "epistimoniko_onoma": "Sarpa salpa"
+    },
+    {
+      "onoma": "Σαργός",
+      "epistimoniko_onoma": "Diplodus sargus"
+    },
+    {
+      "onoma": "Σαρδέλα",
+      "epistimoniko_onoma": "Sardina plichardus"
+    },
+    {
+      "onoma": "Σκαθάρι",
+      "epistimoniko_onoma": "Spondyliosoma cantharus"
+    },
+    {
+      "onoma": "Σκαρμός",
+      "epistimoniko_onoma": "Synodus saurus"
+    },
+    {
+      "onoma": "Σκιός",
+      "epistimoniko_onoma": "Sciaena umbra"
+    },
+    {
+      "onoma": "Σκορπιός",
+      "epistimoniko_onoma": "Scorpaena"
+    },
+    {
+      "onoma": "Σκουμπρί",
+      "epistimoniko_onoma": "Scomber scombrus"
+    },
+    {
+      "onoma": "Σμέρνα",
+      "epistimoniko_onoma": "Muraenidae"
+    },
+    {
+      "onoma": "Σολομός",
+      "epistimoniko_onoma": "Salmo salar"
+    },
+    {
+      "onoma": "Σπάρος",
+      "epistimoniko_onoma": "Diplodus annularis"
+    },
+    {
+      "onoma": "Στικτογαλέος",
+      "epistimoniko_onoma": "Mustelus punctulatus"
+    },
+    {
+      "onoma": "Συναγρίδα",
+      "epistimoniko_onoma": "Dentex dentex"
+    },
+    {
+      "onoma": "Σφυρίδα",
+      "epistimoniko_onoma": "Epinephelus aeneus"
+    },
+    {
+      "onoma": "Ταούκι",
+      "epistimoniko_onoma": "Merlangius merlangus"
+    },
+    {
+      "onoma": "Τόνος",
+      "epistimoniko_onoma": "Thunnus thynnus"
+    },
+    {
+      "onoma": "Τραχύβατος",
+      "epistimoniko_onoma": "Raja radula"
+    },
+    {
+      "onoma": "Τσιπούρα",
+      "epistimoniko_onoma": "Sparus aurata"
+    },
+    {
+      "onoma": "Φαγκρί",
+      "epistimoniko_onoma": "Pagrus pagrus"
+    },
+    {
+      "onoma": "Φίγι",
+      "epistimoniko_onoma": "Trisopterus minutus"
+    },
+    {
+      "onoma": "Φρίσσα",
+      "epistimoniko_onoma": "Alosa"
+    },
+    {
+      "onoma": "Χάνος",
+      "epistimoniko_onoma": "Serranus cabrilla"
+    },
+    {
+      "onoma": "Χειλονάρι",
+      "epistimoniko_onoma": "Chelon laborsus"
+    },
+    {
+      "onoma": "Χειλού",
+      "epistimoniko_onoma": "Symphodus ocellatus"
+    },
+    {
+      "onoma": "Χέλι",
+      "epistimoniko_onoma": "Anguilla"
+    },
+    {
+      "onoma": "Χριστόψαρο",
+      "epistimoniko_onoma": "Zeus faber"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικά αλιεύματα - Free Download",
+    "description": "Ψάρια, οστρακοειδή και άλλα θαλασσινά που αλιεύονται στις ελληνικές θάλασσες, με την κοινή ελληνική ονομασία και την επιστημονική ονομασία. Contains 84 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικά αλιεύματα | ListBase",
+    "seo_description": "Download Ελληνικά αλιεύματα — 84 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 84 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_αλιευμάτων"
+    ]
+  }
+}

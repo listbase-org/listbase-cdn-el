@@ -1,12 +1,12 @@
 {
   "lang": "el",
-  "generated": "2026-10-29T02:17:16.452Z",
-  "total_datasets": 455,
-  "total_records": 194866,
+  "generated": "2026-10-30T02:24:16.563Z",
+  "total_datasets": 456,
+  "total_records": 194950,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 1
+      "dataset_count": 2
     },
     {
       "id": "culture",
@@ -123,6 +123,29 @@
         "xlsx": {
           "name": "el-elaiolada-pop-pge_EL.xlsx",
           "size": 7675
+        }
+      }
+    },
+    {
+      "id": "el-ellinika-alievmata",
+      "name": "Ελληνικά αλιεύματα",
+      "category": "agriculture",
+      "record_count": 84,
+      "columns": [
+        "onoma",
+        "epistimoniko_onoma"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_αλιευμάτων",
+      "updated": "2026-10",
+      "size": 9774,
+      "files": {
+        "csv": {
+          "name": "el-ellinika-alievmata_EL.csv",
+          "size": 3225
+        },
+        "xlsx": {
+          "name": "el-ellinika-alievmata_EL.xlsx",
+          "size": 9249
         }
       }
     },
