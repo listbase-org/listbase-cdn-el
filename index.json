@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-10-30T02:25:01.239Z",
-  "total_datasets": 462,
-  "total_records": 195253,
+  "generated": "2026-11-02T02:19:47.296Z",
+  "total_datasets": 463,
+  "total_records": 195293,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 1
+      "dataset_count": 2
     }
   ],
   "datasets": [
@@ -14103,6 +14103,30 @@
         "xlsx": {
           "name": "el-voreiou-aigaiou-aerodromia_EL.xlsx",
           "size": 7620
+        }
+      }
+    },
+    {
+      "id": "el-arxaia-nomismatika-protypa",
+      "name": "Αρχαιοελληνικά νομισματικά πρότυπα",
+      "category": "units",
+      "record_count": 40,
+      "columns": [
+        "protypo",
+        "nomismatiki_monada",
+        "varos_gramm"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_αρχαιοελληνικών_νομισματικών_προτύπων",
+      "updated": "2026-11",
+      "size": 7558,
+      "files": {
+        "csv": {
+          "name": "el-arxaia-nomismatika-protypa_EL.csv",
+          "size": 2149
+        },
+        "xlsx": {
+          "name": "el-arxaia-nomismatika-protypa_EL.xlsx",
+          "size": 7820
         }
       }
     },

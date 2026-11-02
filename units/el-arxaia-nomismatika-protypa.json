@@ -1,0 +1,241 @@
+{
+  "id": "el-arxaia-nomismatika-protypa",
+  "name": "Αρχαιοελληνικά νομισματικά πρότυπα",
+  "title": "Αρχαιοελληνικά νομισματικά πρότυπα",
+  "description": "Τα νομισματικά πρότυπα της αρχαίας Ελλάδας (Αττικό, Αιγινητικό, Κορινθιακό κ.ά.) με το βάρος σε γραμμάρια κάθε νομισματικής μονάδας (δραχμή, οβολός, στατήρ κ.λπ.).",
+  "category": "units",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_αρχαιοελληνικών_νομισματικών_προτύπων",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_αρχαιοελληνικών_νομισματικών_προτύπων",
+  "updated": "2026-11",
+  "record_count": 40,
+  "columns": [
+    {
+      "key": "protypo",
+      "label": "Protypo",
+      "type": "string"
+    },
+    {
+      "key": "nomismatiki_monada",
+      "label": "Nomismatiki Monada",
+      "type": "string"
+    },
+    {
+      "key": "varos_gramm",
+      "label": "Varos Gramm",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "protypo": "Αχαϊκό",
+      "nomismatiki_monada": "δραχμή",
+      "varos_gramm": "2,7"
+    },
+    {
+      "protypo": "Αχαϊκό",
+      "nomismatiki_monada": "οβολός (1/6 δραχμής)",
+      "varos_gramm": "0,45"
+    },
+    {
+      "protypo": "Αιγινητικό",
+      "nomismatiki_monada": "δίδραχμο",
+      "varos_gramm": "12,36"
+    },
+    {
+      "protypo": "Αιγινητικό",
+      "nomismatiki_monada": "δραχμή",
+      "varos_gramm": "6,18"
+    },
+    {
+      "protypo": "Αιγινητικό",
+      "nomismatiki_monada": "οβολός (1/6 δραχμής)",
+      "varos_gramm": "1,03"
+    },
+    {
+      "protypo": "Αττικό",
+      "nomismatiki_monada": "τετράδραχμο",
+      "varos_gramm": "17,28 [16,8]"
+    },
+    {
+      "protypo": "Αττικό",
+      "nomismatiki_monada": "δίδραχμο",
+      "varos_gramm": "8,64 [8,4]"
+    },
+    {
+      "protypo": "Αττικό",
+      "nomismatiki_monada": "δραχμή",
+      "varos_gramm": "4,32 [4,2]"
+    },
+    {
+      "protypo": "Αττικό",
+      "nomismatiki_monada": "οβολός (1/6 δραχμής)",
+      "varos_gramm": "0,72 [0,7]"
+    },
+    {
+      "protypo": "Κιστοφορικό Περγάμου",
+      "nomismatiki_monada": "τετράδραχμο",
+      "varos_gramm": "12,6"
+    },
+    {
+      "protypo": "Κιστοφορικό Περγάμου",
+      "nomismatiki_monada": "δίδραχμο",
+      "varos_gramm": "6,3"
+    },
+    {
+      "protypo": "Κιστοφορικό Περγάμου",
+      "nomismatiki_monada": "δραχμή",
+      "varos_gramm": "3,15"
+    },
+    {
+      "protypo": "Πτολεμαϊκό",
+      "nomismatiki_monada": "οκτάδραχμο",
+      "varos_gramm": "28,4"
+    },
+    {
+      "protypo": "Πτολεμαϊκό",
+      "nomismatiki_monada": "τετράδραχμο",
+      "varos_gramm": "14,2"
+    },
+    {
+      "protypo": "Πτολεμαϊκό",
+      "nomismatiki_monada": "δίδραχμο",
+      "varos_gramm": "7,1"
+    },
+    {
+      "protypo": "Πτολεμαϊκό",
+      "nomismatiki_monada": "δραχμή",
+      "varos_gramm": "3,55"
+    },
+    {
+      "protypo": "Ρόδου",
+      "nomismatiki_monada": "τετράδραχμο",
+      "varos_gramm": "13,6"
+    },
+    {
+      "protypo": "Ρόδου",
+      "nomismatiki_monada": "δίδραχμο",
+      "varos_gramm": "6,8"
+    },
+    {
+      "protypo": "Ρόδου",
+      "nomismatiki_monada": "δραχμή",
+      "varos_gramm": "3,4"
+    },
+    {
+      "protypo": "Σάμου",
+      "nomismatiki_monada": "τετράδραχμο",
+      "varos_gramm": "13,2"
+    },
+    {
+      "protypo": "Σάμου",
+      "nomismatiki_monada": "δραχμή",
+      "varos_gramm": "3,3"
+    },
+    {
+      "protypo": "Σάμου",
+      "nomismatiki_monada": "οβολός (1/6 δραχμής)",
+      "varos_gramm": "0,55"
+    },
+    {
+      "protypo": "Ευβοϊκό",
+      "nomismatiki_monada": "στατήρ",
+      "varos_gramm": "17,16 (Αττ. τετράδραχμο)"
+    },
+    {
+      "protypo": "Ευβοϊκό",
+      "nomismatiki_monada": "1/6 στατήρος",
+      "varos_gramm": "2,86"
+    },
+    {
+      "protypo": "Κορίνθου",
+      "nomismatiki_monada": "στατήρ",
+      "varos_gramm": "8,68 (Αττ. δίδραχμο)"
+    },
+    {
+      "protypo": "Κορίνθου",
+      "nomismatiki_monada": "1/3 στατήρος",
+      "varos_gramm": "2,89"
+    },
+    {
+      "protypo": "Χίου",
+      "nomismatiki_monada": "στατήρ",
+      "varos_gramm": "15,6"
+    },
+    {
+      "protypo": "Χίου",
+      "nomismatiki_monada": "1/2 στατήρος",
+      "varos_gramm": "7,8"
+    },
+    {
+      "protypo": "Χίου",
+      "nomismatiki_monada": "1/6 στατήρος",
+      "varos_gramm": "2,6"
+    },
+    {
+      "protypo": "Μιλήτου",
+      "nomismatiki_monada": "στατήρ",
+      "varos_gramm": "14,4 (Πτολ. τετράδραχμο)"
+    },
+    {
+      "protypo": "Μιλήτου",
+      "nomismatiki_monada": "1/6 στατήρος",
+      "varos_gramm": "2,4"
+    },
+    {
+      "protypo": "Πάρου-Θάσου",
+      "nomismatiki_monada": "στατήρ",
+      "varos_gramm": "10"
+    },
+    {
+      "protypo": "Φώκαιας",
+      "nomismatiki_monada": "στατήρ",
+      "varos_gramm": "16,08"
+    },
+    {
+      "protypo": "Φώκαιας",
+      "nomismatiki_monada": "1/6 στατήρος",
+      "varos_gramm": "2,68"
+    },
+    {
+      "protypo": "Φώκαιας/Καμπανίας",
+      "nomismatiki_monada": "στατήρ",
+      "varos_gramm": "7,5 (Πτολ. δίδραχμο)"
+    },
+    {
+      "protypo": "Φώκαιας/Καμπανίας",
+      "nomismatiki_monada": "1/2 στατήρος",
+      "varos_gramm": "3,75"
+    },
+    {
+      "protypo": "Περσικό",
+      "nomismatiki_monada": "2 σεκέλ",
+      "varos_gramm": "11"
+    },
+    {
+      "protypo": "Περσικό",
+      "nomismatiki_monada": "σεκέλ",
+      "varos_gramm": "5,5"
+    },
+    {
+      "protypo": "Φοινικικό",
+      "nomismatiki_monada": "2 σεκέλ",
+      "varos_gramm": "14,5 (Πτολ. τετράδραχμο)"
+    },
+    {
+      "protypo": "Φοινικικό",
+      "nomismatiki_monada": "σεκέλ",
+      "varos_gramm": "7,25 [7,1] (Πτολ. δίδραχμο)"
+    }
+  ],
+  "meta": {
+    "title": "Αρχαιοελληνικά νομισματικά πρότυπα - Free Download",
+    "description": "Τα νομισματικά πρότυπα της αρχαίας Ελλάδας (Αττικό, Αιγινητικό, Κορινθιακό κ.ά.) με το βάρος σε γραμμάρια κάθε νομισματικής μονάδας (δραχμή, οβολός, στατήρ κ.λπ.). Contains 40 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αρχαιοελληνικά νομισματικά πρότυπα | ListBase",
+    "seo_description": "Download Αρχαιοελληνικά νομισματικά πρότυπα — 40 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 40 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_αρχαιοελληνικών_νομισματικών_προτύπων"
+    ]
+  }
+}
