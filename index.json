@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-02T02:20:09.182Z",
-  "total_datasets": 466,
-  "total_records": 195661,
+  "generated": "2026-11-02T02:20:15.581Z",
+  "total_datasets": 467,
+  "total_records": 195672,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 33
+      "dataset_count": 34
     },
     {
       "id": "units",
@@ -13908,6 +13908,32 @@
         "xlsx": {
           "name": "el-radiovoithitika_EL.xlsx",
           "size": 22402
+        }
+      }
+    },
+    {
+      "id": "el-sidirodromika-atyximata",
+      "name": "Σιδηροδρομικά ατυχήματα στην Ελλάδα",
+      "category": "transport",
+      "record_count": 11,
+      "columns": [
+        "atyxima",
+        "imerominia",
+        "nekroi",
+        "travmaties",
+        "perigrafi"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_σιδηροδρομικών_ατυχημάτων_στην_Ελλάδα",
+      "updated": "2026-11",
+      "size": 9816,
+      "files": {
+        "csv": {
+          "name": "el-sidirodromika-atyximata_EL.csv",
+          "size": 6437
+        },
+        "xlsx": {
+          "name": "el-sidirodromika-atyximata_EL.xlsx",
+          "size": 9233
         }
       }
     },
