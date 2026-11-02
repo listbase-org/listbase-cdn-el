@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-02T02:20:15.581Z",
-  "total_datasets": 467,
-  "total_records": 195672,
+  "generated": "2026-11-02T02:20:23.352Z",
+  "total_datasets": 468,
+  "total_records": 195690,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "music",
@@ -4999,6 +4999,32 @@
         "xlsx": {
           "name": "el-proedroi-symvouliou-epikrateias_EL.xlsx",
           "size": 8242
+        }
+      }
+    },
+    {
+      "id": "el-syntagmata-elladas",
+      "name": "Συντάγματα της Ελλάδας",
+      "category": "law",
+      "record_count": 18,
+      "columns": [
+        "typos",
+        "etos",
+        "titlos",
+        "syneleusi_foreas",
+        "paratiriseis"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_συνταγμάτων_της_Ελλάδας",
+      "updated": "2026-11",
+      "size": 7860,
+      "files": {
+        "csv": {
+          "name": "el-syntagmata-elladas_EL.csv",
+          "size": 3908
+        },
+        "xlsx": {
+          "name": "el-syntagmata-elladas_EL.xlsx",
+          "size": 8125
         }
       }
     },
