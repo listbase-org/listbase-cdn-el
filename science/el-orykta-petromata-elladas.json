@@ -1,0 +1,1224 @@
+{
+  "id": "el-orykta-petromata-elladas",
+  "name": "Ορυκτά και πετρώματα της Ελλάδας",
+  "title": "Ορυκτά και πετρώματα της Ελλάδας",
+  "description": "Αλφαβητικός κατάλογος ορυκτών και πετρωμάτων που έχουν εντοπιστεί στην Ελλάδα.",
+  "category": "science",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ορυκτών_και_πετρωμάτων_της_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ορυκτών_και_πετρωμάτων_της_Ελλάδας",
+  "updated": "2026-11",
+  "record_count": 297,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "arxiko_gramma",
+      "label": "Arxiko Gramma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Αγαρδίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αγγλεσίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αδαμίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αζουρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αιγιρίνης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αιγιρίνης-Αυγίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αϊκινίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αιματίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ακαγκανεΐτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ακανθίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ακτινόλιθος ποικιλία του παραπάνω: Βυσσόλιθος",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλαμπανδίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλβίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλλανίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλλοφανής",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλμανδίνης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλοτριχίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλουνίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλουνογενής",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αλταΐτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αμέθυστος",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αμεσίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αμπσβουρμπαχίτης (TL) ποικιλία του παραπάνω: Ανδεσίνης ποικιλία του παραπάνω: Ολιγόκλαστο",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ανάλκιμο",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ανατάσης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ανδραδίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ανκερίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ανορθίτης ποικιλία του παραπάνω: Λαβραδορίτης ποικιλία του παραπάνω: Μπιτουανίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ανορθόκλαστο",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αντιμόνιο (αυτοφυές)",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αντιμονίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αντλερίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αντορίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ανυδρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αουριχαλκίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Απατίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Απλουαΐτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αραγονίτης ποικιλία του παραπάνω: Φλος Φέρρι",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αργεντοϊαροσίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αργεντοπυρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αργιλιοκοπιαπίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Άργυρος (αυτοφυής)",
+      "arxiko_gramma": "Ά"
+    },
+    {
+      "onoma": "Αργυροτετραεδρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρδενίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρζρουνίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρθουρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενικαντιμονίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενικό (αυτοφυές)",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενιοσιδηρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενογκογιαζίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενογκορκεϊξίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενοδεσκλοϊζίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενοκρανταλλίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενολαμπρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενολίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενοπυρίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρσενοτσουμεμπίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρτινίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αρφβεντσονίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ασβεσταρενίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ασβεστίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ασβεστόλιθος",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ασβολάνης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ατακαμίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Ατελεσίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αττικαΐτης (TL)",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αυγίτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Αχάτης",
+      "arxiko_gramma": "Α"
+    },
+    {
+      "onoma": "Βαλεντινίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βαναδινίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βαρύτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βιλλεμίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βισμούθιο",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βολμπορθίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βολταΐτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βορνίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βοταλακίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βουλανζερίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βουλφενίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βουρνονίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βουρτσίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βροσαντίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βρουκίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βυτοβνίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Βωξίτης",
+      "arxiko_gramma": "Β"
+    },
+    {
+      "onoma": "Γαληνίτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γερσδορφίτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γεωργιαδεσίτης (TL)",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γιββσίτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γκετίτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γκασπεΐτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γκορνταΐτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γλαυκοκερινίτης (TL)",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γουντγουαρντίτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γουντραφίτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γρηνοκίτης (Γρηνουκίτης)",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γύψος",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Γρανίτης",
+      "arxiko_gramma": "Γ"
+    },
+    {
+      "onoma": "Δεβιλλίνης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Δεσκλοϊζίτης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Διαμπολεΐτης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Διαφορίτης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Διγενίτης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Διμορφίτης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Διοψίδιος",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Δολομίτης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Δυσκρασίτης",
+      "arxiko_gramma": "Δ"
+    },
+    {
+      "onoma": "Εβαπορίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Εδεμβεργίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Εξαϋδρίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Εναργίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Ενδελλίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Επίδοτο",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Επιστιλβίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Επσομίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Ερυθρίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Εταιρόλιθος",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Εττρινγκίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Ευχρωίτης",
+      "arxiko_gramma": "Ε"
+    },
+    {
+      "onoma": "Ζεόλιθος",
+      "arxiko_gramma": "Ζ"
+    },
+    {
+      "onoma": "Ζαφείρι",
+      "arxiko_gramma": "Ζ"
+    },
+    {
+      "onoma": "Ημιμορφίτης",
+      "arxiko_gramma": "Η"
+    },
+    {
+      "onoma": "Ηλιοφυλλίτης",
+      "arxiko_gramma": "Η"
+    },
+    {
+      "onoma": "Θείο (αυτοφυές)",
+      "arxiko_gramma": "Θ"
+    },
+    {
+      "onoma": "Θορικοσίτης (TL)",
+      "arxiko_gramma": "Θ"
+    },
+    {
+      "onoma": "Ιαμεσονίτης",
+      "arxiko_gramma": "Ι"
+    },
+    {
+      "onoma": "Ιαροσίτης",
+      "arxiko_gramma": "Ι"
+    },
+    {
+      "onoma": "Ιλμενίτης",
+      "arxiko_gramma": "Ι"
+    },
+    {
+      "onoma": "Ινσνταλίτης",
+      "arxiko_gramma": "Ι"
+    },
+    {
+      "onoma": "Ινταλγκοΐτης",
+      "arxiko_gramma": "Ι"
+    },
+    {
+      "onoma": "Καμαριζαΐτης (TL)",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κανκίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Καπελλασίτης (TL)",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Καρμινίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κερουσίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κεττνερίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κιζερίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κιίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κινναβαρίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κλαρινγκμπουλίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κοβελλίνης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κοζαλίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κονιχαλκίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κοπιαπίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κοτουννίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κοριτνιγκίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κορνουαλίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κοροναδίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κορούνδιο",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κουβανίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κουμενγκεΐτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κριντίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κρουπκαΐτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κρυπτομέλας",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κτενασίτης (TL)",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κυανοτριχίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κυανοχρωίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κυπρίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Κυργιστανίτης",
+      "arxiko_gramma": "Κ"
+    },
+    {
+      "onoma": "Λαβενδουλάνης",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λανγκίτης",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λαντλοκίτης",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λαυριονίτης (TL)",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λεγκραντίτης",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λεπιδοκροκίτης",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λιθάργυρος",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λιναρίτης",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Λωρελίτης",
+      "arxiko_gramma": "Λ"
+    },
+    {
+      "onoma": "Μαγγάνιο",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μαγνησίτης (TL)",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μαγνητίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μαλαχίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μαρκασίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Ματλοκίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μελαντερίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μενεγκινίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μεραϊτερίτης (ΤL)",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μιλλερίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μιμητίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μιξίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μολυβδολίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μόλυβδος",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μοντεπονίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μουιχοεκίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μπρουκίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Μπωνταντίτης",
+      "arxiko_gramma": "Μ"
+    },
+    {
+      "onoma": "Ναμουβίτης",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Νατρογλαυκοκερινίτης (TL)",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Νεάλιθος (TL)",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Νικελίνης",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Νταντασίτης",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Νταντσονίτης",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Ντελαφοσίτης",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Ντουφρενίτης",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Νεφρίτης",
+      "arxiko_gramma": "Ν"
+    },
+    {
+      "onoma": "Ξανθιοσίτης",
+      "arxiko_gramma": "Ξ"
+    },
+    {
+      "onoma": "Ξανθοκονίτης",
+      "arxiko_gramma": "Ξ"
+    },
+    {
+      "onoma": "Ξυλοοπάλιος",
+      "arxiko_gramma": "Ξ"
+    },
+    {
+      "onoma": "Ολιβινίτης",
+      "arxiko_gramma": "Ο"
+    },
+    {
+      "onoma": "Ολιβίνης",
+      "arxiko_gramma": "Ο"
+    },
+    {
+      "onoma": "Ολλανδίτης",
+      "arxiko_gramma": "Ο"
+    },
+    {
+      "onoma": "Ορθοσερπιερίτης",
+      "arxiko_gramma": "Ο"
+    },
+    {
+      "onoma": "Οφείτης",
+      "arxiko_gramma": "Ο"
+    },
+    {
+      "onoma": "Οψιδιανός",
+      "arxiko_gramma": "Ο"
+    },
+    {
+      "onoma": "Παραλαυριονίτης (TL)",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πενφιλντίτης (TL)",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Περίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Περκιλίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πετρουκίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πλαττνερίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πράσιος",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πρεϊσινγκερίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πυρολουσίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πυρομορφίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Πυρροτίτης",
+      "arxiko_gramma": "Π"
+    },
+    {
+      "onoma": "Ραλστονίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ραμσντελλίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ρανσομίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ρεμερίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ρικαρντίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ριπιδόλιθος",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ροδοχρωσίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ροδονίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ρομανεσίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ροζασίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ρουζβελτίτης",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Ρουτίλιο",
+      "arxiko_gramma": "Ρ"
+    },
+    {
+      "onoma": "Σαφφλορίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σανδαράχη (κίτρινη)",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σαπωνίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σεελίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σελιγμανίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σερπιερίτης (TL)",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σενεβεξίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σιδεροτίλης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σιδηρίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σιδηροπυρίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σκοροδίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σκουλτενίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σμιθσονίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σουλενμπεργίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σουμπνικοβίτης?",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σπανγκολίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σιγκνετίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Συμπλησίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σφαιροκοβαλτίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Σφαλερίτης",
+      "arxiko_gramma": "Σ"
+    },
+    {
+      "onoma": "Τάλκης",
+      "arxiko_gramma": "Τ"
+    },
+    {
+      "onoma": "Ταμαρουγκίτης",
+      "arxiko_gramma": "Τ"
+    },
+    {
+      "onoma": "Τενναντίτης",
+      "arxiko_gramma": "Τ"
+    },
+    {
+      "onoma": "Τενορίτης",
+      "arxiko_gramma": "Τ"
+    },
+    {
+      "onoma": "Τετραεδρίτης",
+      "arxiko_gramma": "Τ"
+    },
+    {
+      "onoma": "Τιτανίτης",
+      "arxiko_gramma": "Τ"
+    },
+    {
+      "onoma": "Υδροζινκίτης",
+      "arxiko_gramma": "Υ"
+    },
+    {
+      "onoma": "Υδροταλκίτης",
+      "arxiko_gramma": "Υ"
+    },
+    {
+      "onoma": "Φαρμακοσιδηρίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φερροκαρφολίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φερρογλαυκοφανής",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φεροξυχίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φερϋδρίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φαϊμπροφερρίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φιντλερίτης (TL)",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φθορίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φορνασίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φραϊμπεργκίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φραϊποντίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Φωσγενίτης",
+      "arxiko_gramma": "Φ"
+    },
+    {
+      "onoma": "Χαλαζίας",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χαλκανθίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χαλκοπυρίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χαλκοτριχίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χαλκός (αυτοφυής)",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χαλκοφανίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χαουλεΐτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χαουσμανίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χενεβιξίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χιαστόλιθος",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χλωραργυρίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χονεσσίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χριστοβαλίτης",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χρυσόκολλα",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Χρυσός",
+      "arxiko_gramma": "Χ"
+    },
+    {
+      "onoma": "Ψευδαργυρίτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυραλουμινίτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυρογουντγουαρντίτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυροκοπιαπίτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυρολιβινίτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυρομελαντερίτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυροροζασίτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυροσταυρόλιθος",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδαργυροχογκμπομίτης-2Ν2Σ (TL)",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψευδοβολεΐτης",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ψιλομέλας",
+      "arxiko_gramma": "Ψ"
+    },
+    {
+      "onoma": "Ωμπερτίτης (Αουμπερτίτης)",
+      "arxiko_gramma": "Ω"
+    },
+    {
+      "onoma": "Ωρορίτης",
+      "arxiko_gramma": "Ω"
+    },
+    {
+      "onoma": "Ωστινίτης (Αουστινίτης)",
+      "arxiko_gramma": "Ω"
+    }
+  ],
+  "meta": {
+    "title": "Ορυκτά και πετρώματα της Ελλάδας - Free Download",
+    "description": "Αλφαβητικός κατάλογος ορυκτών και πετρωμάτων που έχουν εντοπιστεί στην Ελλάδα. Contains 297 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ορυκτά και πετρώματα της Ελλάδας | ListBase",
+    "seo_description": "Download Ορυκτά και πετρώματα της Ελλάδας — 297 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 297 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ορυκτών_και_πετρωμάτων_της_Ελλάδας"
+    ]
+  }
+}
