@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-02T02:19:55.234Z",
-  "total_datasets": 464,
-  "total_records": 195354,
+  "generated": "2026-11-02T02:20:02.596Z",
+  "total_datasets": 465,
+  "total_records": 195364,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "law",
@@ -4926,6 +4926,29 @@
         "xlsx": {
           "name": "el-glosses_EL.xlsx",
           "size": 25800
+        }
+      }
+    },
+    {
+      "id": "el-glosses-kyprou-apografi-2011",
+      "name": "Γλώσσες της Κύπρου (απογραφή 2011)",
+      "category": "language",
+      "record_count": 10,
+      "columns": [
+        "glossa",
+        "pososto_2011"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_γλωσσών_και_διαλέκτων_της_Κύπρου",
+      "updated": "2026-11",
+      "size": 2728,
+      "files": {
+        "csv": {
+          "name": "el-glosses-kyprou-apografi-2011_EL.csv",
+          "size": 333
+        },
+        "xlsx": {
+          "name": "el-glosses-kyprou-apografi-2011_EL.xlsx",
+          "size": 6989
         }
       }
     },

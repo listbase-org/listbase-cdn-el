@@ -1,0 +1,76 @@
+{
+  "id": "el-glosses-kyprou-apografi-2011",
+  "name": "Γλώσσες της Κύπρου (απογραφή 2011)",
+  "title": "Γλώσσες της Κύπρου (απογραφή 2011)",
+  "description": "Ποσοστά ομιλητών ανά μητρική γλώσσα στις ελεγχόμενες από την Κυπριακή Δημοκρατία περιοχές σύμφωνα με την απογραφή του 2011.",
+  "category": "language",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_γλωσσών_και_διαλέκτων_της_Κύπρου",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_γλωσσών_και_διαλέκτων_της_Κύπρου",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "glossa",
+      "label": "Glossa",
+      "type": "string"
+    },
+    {
+      "key": "pososto_2011",
+      "label": "Pososto 2011",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "glossa": "Ελληνικά (επίσημη)",
+      "pososto_2011": "80.9%"
+    },
+    {
+      "glossa": "άλλες",
+      "pososto_2011": "4.3%"
+    },
+    {
+      "glossa": "Αγγλικά",
+      "pososto_2011": "4.1%"
+    },
+    {
+      "glossa": "Ρουμάνικα",
+      "pososto_2011": "2.9%"
+    },
+    {
+      "glossa": "Ρώσικα",
+      "pososto_2011": "2.5%"
+    },
+    {
+      "glossa": "Βουλγάρικα",
+      "pososto_2011": "2.2%"
+    },
+    {
+      "glossa": "Αράβικα",
+      "pososto_2011": "1.2%"
+    },
+    {
+      "glossa": "Φιλλιπινέζικα",
+      "pososto_2011": "1.1%"
+    },
+    {
+      "glossa": "Απροσδιόριστη",
+      "pososto_2011": "0.6%"
+    },
+    {
+      "glossa": "Τουρκικά (επίσημη)",
+      "pososto_2011": "0.2%"
+    }
+  ],
+  "meta": {
+    "title": "Γλώσσες της Κύπρου (απογραφή 2011) - Free Download",
+    "description": "Ποσοστά ομιλητών ανά μητρική γλώσσα στις ελεγχόμενες από την Κυπριακή Δημοκρατία περιοχές σύμφωνα με την απογραφή του 2011. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Γλώσσες της Κύπρου (απογραφή 2011) | ListBase",
+    "seo_description": "Download Γλώσσες της Κύπρου (απογραφή 2011) — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_γλωσσών_και_διαλέκτων_της_Κύπρου"
+    ]
+  }
+}
