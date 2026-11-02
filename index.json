@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-02T02:19:47.296Z",
-  "total_datasets": 463,
-  "total_records": 195293,
+  "generated": "2026-11-02T02:19:55.234Z",
+  "total_datasets": 464,
+  "total_records": 195354,
   "categories": [
     {
       "id": "agriculture",
@@ -78,7 +78,7 @@
     },
     {
       "id": "sports",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "tech",
@@ -12021,6 +12021,36 @@
         "xlsx": {
           "name": "el-chionodromika-kentra_EL.xlsx",
           "size": 7660
+        }
+      }
+    },
+    {
+      "id": "el-ellinika-rekor-stivou",
+      "name": "Πανελλήνια ρεκόρ στίβου",
+      "category": "sports",
+      "record_count": 61,
+      "columns": [
+        "agonisma",
+        "fylo",
+        "epidosi",
+        "athlitis",
+        "etos_gennisis",
+        "syllogos",
+        "imerominia",
+        "topos",
+        "diorganosi"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_των_Ελληνικών_ρεκόρ_στον_στίβο",
+      "updated": "2026-11",
+      "size": 28744,
+      "files": {
+        "csv": {
+          "name": "el-ellinika-rekor-stivou_EL.csv",
+          "size": 15278
+        },
+        "xlsx": {
+          "name": "el-ellinika-rekor-stivou_EL.xlsx",
+          "size": 12534
         }
       }
     },
