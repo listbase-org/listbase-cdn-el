@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-03T02:13:05.553Z",
-  "total_datasets": 471,
-  "total_records": 195892,
+  "generated": "2026-11-03T02:13:11.928Z",
+  "total_datasets": 472,
+  "total_records": 195940,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 20
+      "dataset_count": 21
     },
     {
       "id": "economy",
@@ -904,6 +904,29 @@
         "xlsx": {
           "name": "el-mouseia_EL.xlsx",
           "size": 156190
+        }
+      }
+    },
+    {
+      "id": "el-pontiakoi-choroi",
+      "name": "Ποντιακοί χοροί",
+      "category": "culture",
+      "record_count": 48,
+      "columns": [
+        "choros",
+        "perigrafi"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Ποντιακοί_χοροί",
+      "updated": "2026-11",
+      "size": 8083,
+      "files": {
+        "csv": {
+          "name": "el-pontiakoi-choroi_EL.csv",
+          "size": 4225
+        },
+        "xlsx": {
+          "name": "el-pontiakoi-choroi_EL.xlsx",
+          "size": 8685
         }
       }
     },
