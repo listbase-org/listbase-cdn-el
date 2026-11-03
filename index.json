@@ -1,12 +1,12 @@
 {
   "lang": "el",
-  "generated": "2026-11-03T02:12:59.020Z",
-  "total_datasets": 470,
-  "total_records": 195865,
+  "generated": "2026-11-03T02:13:05.553Z",
+  "total_datasets": 471,
+  "total_records": 195892,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 2
+      "dataset_count": 3
     },
     {
       "id": "culture",
@@ -146,6 +146,30 @@
         "xlsx": {
           "name": "el-ellinika-alievmata_EL.xlsx",
           "size": 9249
+        }
+      }
+    },
+    {
+      "id": "el-poikilies-stafyliou",
+      "name": "Ελληνικές οινοποιήσιμες ποικιλίες σταφυλιού",
+      "category": "agriculture",
+      "record_count": 27,
+      "columns": [
+        "poikilia",
+        "typos",
+        "perigrafi"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Ελληνικός_οίνος",
+      "updated": "2026-11",
+      "size": 15094,
+      "files": {
+        "csv": {
+          "name": "el-poikilies-stafyliou_EL.csv",
+          "size": 11382
+        },
+        "xlsx": {
+          "name": "el-poikilies-stafyliou_EL.xlsx",
+          "size": 10411
         }
       }
     },
