@@ -1,0 +1,352 @@
+{
+  "id": "el-mousika-scholeia",
+  "name": "Μουσικά σχολεία της Ελλάδας",
+  "title": "Μουσικά σχολεία της Ελλάδας",
+  "description": "Τα δημόσια μουσικά σχολεία (γυμνάσια-λύκεια) της Ελλάδας με έτος ίδρυσης, τοποθεσία και γεωγραφικό διαμέρισμα.",
+  "category": "education",
+  "source": "https://el.wikipedia.org/wiki/Ελληνικά_μουσικά_σχολεία",
+  "source_url": "https://el.wikipedia.org/wiki/Ελληνικά_μουσικά_σχολεία",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "scholeio",
+      "label": "Scholeio",
+      "type": "string"
+    },
+    {
+      "key": "etos_idrysis",
+      "label": "Etos Idrysis",
+      "type": "number"
+    },
+    {
+      "key": "topothesia",
+      "label": "Topothesia",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "scholeio": "Μουσικό Σχολείο Αθήνας",
+      "etos_idrysis": 2016,
+      "topothesia": "Αθήνα",
+      "perifereia": "Αττική"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Αλίμου",
+      "etos_idrysis": 2000,
+      "topothesia": "Άλιμος",
+      "perifereia": "Αττική"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ιλίου (πρώην Χαϊδαρίου)",
+      "etos_idrysis": 1992,
+      "topothesia": "Ίλιον",
+      "perifereia": "Αττική"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Παλλήνης (Πειραματικό Μουσικό Γυμνάσιο και Λύκειο Παλλήνης)",
+      "etos_idrysis": 1988,
+      "topothesia": "Παλλήνη",
+      "perifereia": "Αττική"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Πειραιά",
+      "etos_idrysis": 1995,
+      "topothesia": "Πειραιάς",
+      "perifereia": "Αττική"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Αμυνταίου",
+      "etos_idrysis": 2001,
+      "topothesia": "Αμύνταιο",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Βέροιας",
+      "etos_idrysis": 2009,
+      "topothesia": "Βέροια",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Γιαννιτσών",
+      "etos_idrysis": 1996,
+      "topothesia": "Γιαννιτσά",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Δράμας",
+      "etos_idrysis": 1994,
+      "topothesia": "Δράμα",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Θεσσαλονίκης",
+      "etos_idrysis": 1992,
+      "topothesia": "Θεσσαλονίκη",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Καβάλας",
+      "etos_idrysis": 1996,
+      "topothesia": "Καβάλα",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Καστοριάς",
+      "etos_idrysis": 2017,
+      "topothesia": "Καστοριά",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Κατερίνης",
+      "etos_idrysis": 2000,
+      "topothesia": "Κατερίνη",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Πτολεμαΐδας",
+      "etos_idrysis": 2001,
+      "topothesia": "Πτολεμαΐδα",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Σερρών",
+      "etos_idrysis": 1994,
+      "topothesia": "Σέρρες",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Σιάτιστας «Κωνσταντίνος και Ελένη Παπανικολάου»",
+      "etos_idrysis": 1997,
+      "topothesia": "Σιάτιστα",
+      "perifereia": "Μακεδονία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Αγρινίου",
+      "etos_idrysis": 1997,
+      "topothesia": "Αγρίνιο",
+      "perifereia": "Στερεά Ελλάδα"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Άμφισσας",
+      "etos_idrysis": 2010,
+      "topothesia": "Άμφισσα",
+      "perifereia": "Στερεά Ελλάδα"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Λαμίας",
+      "etos_idrysis": 2001,
+      "topothesia": "Λαμία",
+      "perifereia": "Στερεά Ελλάδα"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Λιβαδειάς",
+      "etos_idrysis": 2017,
+      "topothesia": "Λιβαδειά",
+      "perifereia": "Στερεά Ελλάδα"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Χαλκίδας «Νίκος Σκαλκώτας»",
+      "etos_idrysis": 2014,
+      "topothesia": "Χαλκίδα",
+      "perifereia": "Στερεά Ελλάδα"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Αργολίδας",
+      "etos_idrysis": 2009,
+      "topothesia": "Αργολίδα",
+      "perifereia": "Πελοπόννησος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Βαρθολομιού",
+      "etos_idrysis": 1996,
+      "topothesia": "Βαρθολομιό",
+      "perifereia": "Πελοπόννησος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Καλαμάτας «Μαρία Κάλλας»",
+      "etos_idrysis": 1993,
+      "topothesia": "Καλαμάτα",
+      "perifereia": "Πελοπόννησος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Πάτρας",
+      "etos_idrysis": 1991,
+      "topothesia": "Πάτρα",
+      "perifereia": "Πελοπόννησος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Κορίνθου",
+      "etos_idrysis": 2007,
+      "topothesia": "Κόρινθος",
+      "perifereia": "Πελοπόννησος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Σπάρτης",
+      "etos_idrysis": 2001,
+      "topothesia": "Σπάρτη",
+      "perifereia": "Πελοπόννησος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Τρίπολης",
+      "etos_idrysis": 2000,
+      "topothesia": "Τρίπολη",
+      "perifereia": "Πελοπόννησος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Βόλου",
+      "etos_idrysis": 1997,
+      "topothesia": "Βόλος",
+      "perifereia": "Θεσσαλία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Καρδίτσας",
+      "etos_idrysis": 1994,
+      "topothesia": "Καρδίτσα",
+      "perifereia": "Θεσσαλία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Λάρισας",
+      "etos_idrysis": 1992,
+      "topothesia": "Λάρισα",
+      "perifereia": "Θεσσαλία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Τρικάλων",
+      "etos_idrysis": 1997,
+      "topothesia": "Τρίκαλα",
+      "perifereia": "Θεσσαλία"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Άρτας",
+      "etos_idrysis": 2009,
+      "topothesia": "Άρτα",
+      "perifereia": "Ήπειρος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ιωαννίνων",
+      "etos_idrysis": 1989,
+      "topothesia": "Ιωάννινα",
+      "perifereia": "Ήπειρος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Πρέβεζας",
+      "etos_idrysis": 2009,
+      "topothesia": "Πρέβεζα",
+      "perifereia": "Ήπειρος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ηγουμενίτσας",
+      "etos_idrysis": 2023,
+      "topothesia": "Ηγουμενίτσα",
+      "perifereia": "Ήπειρος"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Αλεξανδρούπολης",
+      "etos_idrysis": 2015,
+      "topothesia": "Αλεξανδρούπολη",
+      "perifereia": "Θράκη"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Κομοτηνής",
+      "etos_idrysis": 1993,
+      "topothesia": "Κομοτηνή",
+      "perifereia": "Θράκη"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ξάνθης",
+      "etos_idrysis": 1997,
+      "topothesia": "Ξάνθη",
+      "perifereia": "Θράκη"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ηρακλείου",
+      "etos_idrysis": 2000,
+      "topothesia": "Ηράκλειο",
+      "perifereia": "Κρήτη"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Λασιθίου",
+      "etos_idrysis": 2020,
+      "topothesia": "Λασίθι",
+      "perifereia": "Κρήτη"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ρεθύμνου",
+      "etos_idrysis": 1991,
+      "topothesia": "Ρέθυμνο",
+      "perifereia": "Κρήτη"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Χανίων",
+      "etos_idrysis": 2009,
+      "topothesia": "Χανιά",
+      "perifereia": "Κρήτη"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Μυτιλήνης",
+      "etos_idrysis": 1994,
+      "topothesia": "Μυτιλήνη",
+      "perifereia": "Αιγαίο"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ρόδου",
+      "etos_idrysis": 1993,
+      "topothesia": "Ρόδος",
+      "perifereia": "Αιγαίο"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Χίου",
+      "etos_idrysis": 2005,
+      "topothesia": "Χίος",
+      "perifereia": "Αιγαίο"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Σάμου",
+      "etos_idrysis": 2018,
+      "topothesia": "Σάμος",
+      "perifereia": "Αιγαίο"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Δυτικής Λέσβου",
+      "etos_idrysis": 2023,
+      "topothesia": "Καλλονή",
+      "perifereia": "Αιγαίο"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Ζακύνθου",
+      "etos_idrysis": 1989,
+      "topothesia": "Ζάκυνθος",
+      "perifereia": "Ιόνιο"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Κέρκυρας",
+      "etos_idrysis": 1991,
+      "topothesia": "Κέρκυρα",
+      "perifereia": "Ιόνιο"
+    },
+    {
+      "scholeio": "Μουσικό Σχολείο Λευκάδας",
+      "etos_idrysis": 1993,
+      "topothesia": "Λευκάδα",
+      "perifereia": "Ιόνιο"
+    }
+  ],
+  "meta": {
+    "title": "Μουσικά σχολεία της Ελλάδας - Free Download",
+    "description": "Τα δημόσια μουσικά σχολεία (γυμνάσια-λύκεια) της Ελλάδας με έτος ίδρυσης, τοποθεσία και γεωγραφικό διαμέρισμα. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Μουσικά σχολεία της Ελλάδας | ListBase",
+    "seo_description": "Download Μουσικά σχολεία της Ελλάδας — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Ελληνικά_μουσικά_σχολεία"
+    ]
+  }
+}
