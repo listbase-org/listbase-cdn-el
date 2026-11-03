@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-02T02:20:23.352Z",
-  "total_datasets": 468,
-  "total_records": 195690,
+  "generated": "2026-11-03T02:12:51.304Z",
+  "total_datasets": 469,
+  "total_records": 195814,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 19
+      "dataset_count": 20
     },
     {
       "id": "economy",
@@ -357,6 +357,29 @@
         "xlsx": {
           "name": "el-dodeka-theoi-olympou_EL.xlsx",
           "size": 14368
+        }
+      }
+    },
+    {
+      "id": "el-efimerides-athinas-peiraia",
+      "name": "Εφημερίδες Αθήνας και Πειραιά",
+      "category": "culture",
+      "record_count": 124,
+      "columns": [
+        "efimerida",
+        "syxnotita"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_Αθήνας_και_Πειραιά",
+      "updated": "2026-11",
+      "size": 15982,
+      "files": {
+        "csv": {
+          "name": "el-efimerides-athinas-peiraia_EL.csv",
+          "size": 7594
+        },
+        "xlsx": {
+          "name": "el-efimerides-athinas-peiraia_EL.xlsx",
+          "size": 9900
         }
       }
     },

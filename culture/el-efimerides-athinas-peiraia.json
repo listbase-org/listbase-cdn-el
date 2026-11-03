@@ -1,0 +1,532 @@
+{
+  "id": "el-efimerides-athinas-peiraia",
+  "name": "Εφημερίδες Αθήνας και Πειραιά",
+  "title": "Εφημερίδες Αθήνας και Πειραιά",
+  "description": "Εφημερίδες που εκδίδονται στην Αθήνα και τον Πειραιά, ταξινομημένες ανά συχνότητα έκδοσης (πρωινές, απογευματινές, κυριακάτικες, εβδομαδιαίες κ.ά.).",
+  "category": "culture",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_Αθήνας_και_Πειραιά",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_Αθήνας_και_Πειραιά",
+  "updated": "2026-11",
+  "record_count": 124,
+  "columns": [
+    {
+      "key": "efimerida",
+      "label": "Efimerida",
+      "type": "string"
+    },
+    {
+      "key": "syxnotita",
+      "label": "Syxnotita",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "efimerida": "Η Αυγή",
+      "syxnotita": "Πρωινές"
+    },
+    {
+      "efimerida": "Η Καθημερινή",
+      "syxnotita": "Πρωινές"
+    },
+    {
+      "efimerida": "Κοινωνική (Πειραιάς)",
+      "syxnotita": "Πρωινές"
+    },
+    {
+      "efimerida": "Νέος Λόγος (Πειραιάς)",
+      "syxnotita": "Πρωινές"
+    },
+    {
+      "efimerida": "Ο Λόγος",
+      "syxnotita": "Πρωινές"
+    },
+    {
+      "efimerida": "Ριζοσπάστης",
+      "syxnotita": "Πρωινές"
+    },
+    {
+      "efimerida": "Συνείδηση (Μεταμόρφωση)",
+      "syxnotita": "Πρωινές"
+    },
+    {
+      "efimerida": "Απογευματινή",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Δημοκρατία",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Ελεύθερη Ώρα",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Ελεύθερος Τύπος",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Espresso",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Εστία",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Η Εφημερίδα των Συντακτών",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Kontra News",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Μακελειό",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "ON time",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Ο Ημερήσιος Δημότης",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Political (Ηλεκτρονική)",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Star Press",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Τα Νέα",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "To Manifesto",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Χρονογράφος",
+      "syxnotita": "Απογευματινές"
+    },
+    {
+      "efimerida": "Αποκαλυπτικά",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Documento",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Ελεύθερη Ώρα της Κυριακής",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Ελεύθερος Τύπος της Κυριακής",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Εστία-Έκδοσις της Κυριακής",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Finance & Markets Voice",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Η Αυγή της Κυριακής",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Η Καθημερινή της Κυριακής",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Κυριακάτικη Απογευματινή",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Κυριακάτικη Δημοκρατία",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Κυριακάτικη Kontra",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "ΜΠΑΜ στο ρεπορτάζ",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Ο Λόγος της Κυριακής",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Πρώτο Θέμα",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Real News",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Το Βήμα της Κυριακής",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "Το Παρόν",
+      "syxnotita": "Κυριακάτικες"
+    },
+    {
+      "efimerida": "60+ Η εφημερίδα όλων των Συνταξιούχων",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Agrenda",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Αρτοποιία",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Athens Voice",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Axia news",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "D€AL news",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Δημοτικό Μέλλον (Πειραιάς)",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Δικέφαλος Αετός",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Δρόμος της Αριστεράς",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Έβδομη",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Εν Πειραιεί (Πειραιάς)",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Επίκαιρα (Δήμος Νέας Σμύρνης)",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Εργατική Αλληλεγγύη",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Espresso Σαββατοκύριακο",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Η Άποψη",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Η Βραδυνή της Κυριακής",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Η Εποχή",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Η Εφημερίδα των Συντακτών Σαββατοκύριακο",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Κεφάλαιο",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "LIFO",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Μακελειό Σαββατοκύριακο",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Μέτοχος & Επενδύσεις",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "ON time Σαββατοκύριακο",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Ορθόδοξη Αλήθεια",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Ορθόδοξος τύπος",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Παραπολιτικά",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Παρασκήνιο",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Πριν",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Ριζοσπάστης του Σαββατοκύριακου",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Star Press weekend",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Στο Καρφί του Σαββατοκύριακου",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Στόχος",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Τα Νέα Σαββατοκύριακο",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Τα Νέα του Μοσχάτου",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "The First",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Το Μέλλον της Αττικής",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Το Ποντίκι",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Weekly report",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Ύπαιθρος Χώρα",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Χτύπος",
+      "syxnotita": "Εβδομαδιαίες"
+    },
+    {
+      "efimerida": "Οβίδα",
+      "syxnotita": "Δισεβδομαδιαίες"
+    },
+    {
+      "efimerida": "Πυρ",
+      "syxnotita": "Δισεβδομαδιαίες"
+    },
+    {
+      "efimerida": "Εδώ η ΑΛΗΘΕΙΑ",
+      "syxnotita": "Τρισεβδομαδιαίες"
+    },
+    {
+      "efimerida": "Ανεξάρτητος",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "ΔΗΜΟΣΙΟγραφικά",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Δημοτικός, Κοινοτικός & Νομαρχιακός Τύπος",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Εργατική Αριστερά (πολιτική εφημερίδα της ΔΕΑ)",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Hot Doc",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Νέα Πειραιά & Σαρωνικού (πρώην \"Τα Νέα Του Σαρωνικού\") (Πειραιάς)",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Πολιτιστικές Διαδρομές (Διανέμεται δωρεάν)",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Προλεταριακή σημαία (πολιτική εφημερίδα του ΚΚΕ (μ-λ))",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Συναλλαγή (15νθήμερη οικονομική εφημερίδα), διανέμεται δωρεάν",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Χριστιανική (εφημερίδα της Χριστιανικής Δημοκρατίας)",
+      "syxnotita": "Δεκαπενθήμερες"
+    },
+    {
+      "efimerida": "Αρκαδικό Βήμα",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Βαβυλωνία, αντιεξουσιαστική εφημερίδα",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Δημοσιογράφος της Νέας Σμύρνης",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Διαδρομή της ελευθερίας, μηνιαία αναρχική εφημερίδα",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Η Φωνή της Ύδρας",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Καστελλοριζιακά Νέα (Η Φωνή της Μεγίστης)",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Κρητικά Νέα",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Λούσιος",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Μέλλον Επαγγελματιών Βιοτεχνών",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Ναυτικά Νέα",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Νέα Δέρμα",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Νέοι Ορίζοντες (Νέα Σμύρνη)",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Ορθόδοξη κατάθεση",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Πρώτη Γνώμη",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "ρεΜατιά του Χαλανδρίου",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Ρήξη",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Στύλος της Ορθοδοξίας",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Συνταξιοδοτική",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Τα Επίκαιρα (Νέα Σμύρνη - Παλαιό Φάληρο)",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Τα Νέα της Τέχνης",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Τα Σπορ στον Πειραιά",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Το Άρθρο",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Τύπος Πειραιώς",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Unipressity",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Φωνή Παντοπωλών",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Χριστιανισμός",
+      "syxnotita": "Μηνιαίες"
+    },
+    {
+      "efimerida": "Εθνικός Φρουρός Λακωνίας",
+      "syxnotita": "Διμηνιαίες"
+    },
+    {
+      "efimerida": "Η Κέρτεζη",
+      "syxnotita": "Διμηνιαίες"
+    },
+    {
+      "efimerida": "Holistic Life",
+      "syxnotita": "Διμηνιαίες"
+    },
+    {
+      "efimerida": "Μποφόρ Σκύρου",
+      "syxnotita": "Διμηνιαίες"
+    },
+    {
+      "efimerida": "Οι πολίτες μιλάνε",
+      "syxnotita": "Διμηνιαίες"
+    }
+  ],
+  "meta": {
+    "title": "Εφημερίδες Αθήνας και Πειραιά - Free Download",
+    "description": "Εφημερίδες που εκδίδονται στην Αθήνα και τον Πειραιά, ταξινομημένες ανά συχνότητα έκδοσης (πρωινές, απογευματινές, κυριακάτικες, εβδομαδιαίες κ.ά.). Contains 124 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Εφημερίδες Αθήνας και Πειραιά | ListBase",
+    "seo_description": "Download Εφημερίδες Αθήνας και Πειραιά — 124 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 124 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_Αθήνας_και_Πειραιά"
+    ]
+  }
+}
