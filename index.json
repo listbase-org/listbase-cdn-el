@@ -1,12 +1,12 @@
 {
   "lang": "el",
-  "generated": "2026-11-03T02:13:11.928Z",
-  "total_datasets": 472,
-  "total_records": 195940,
+  "generated": "2026-11-03T02:13:18.913Z",
+  "total_datasets": 473,
+  "total_records": 195985,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "culture",
@@ -170,6 +170,32 @@
         "xlsx": {
           "name": "el-poikilies-stafyliou_EL.xlsx",
           "size": 10411
+        }
+      }
+    },
+    {
+      "id": "el-ypourgoi-georgias",
+      "name": "Υπουργοί Γεωργίας και Αγροτικής Ανάπτυξης της Ελλάδας (από το 1974)",
+      "category": "agriculture",
+      "record_count": 45,
+      "columns": [
+        "ypourgos",
+        "enarxi",
+        "lixi",
+        "kyvernisi",
+        "ypourgeio"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Υπουργείο_Γεωργίας_(Ελλάδα)",
+      "updated": "2026-11",
+      "size": 16697,
+      "files": {
+        "csv": {
+          "name": "el-ypourgoi-georgias_EL.csv",
+          "size": 9734
+        },
+        "xlsx": {
+          "name": "el-ypourgoi-georgias_EL.xlsx",
+          "size": 9138
         }
       }
     },
