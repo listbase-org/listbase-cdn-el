@@ -1,0 +1,181 @@
+{
+  "id": "el-latinikoi-ellinikoi-taxinomikoi-oroi",
+  "name": "Αντιστοιχία λατινικών και ελληνικών όρων ταξινόμησης",
+  "title": "Αντιστοιχία λατινικών και ελληνικών όρων ταξινόμησης",
+  "description": "Λατινικοί επιστημονικοί όροι ταξινομικών μονάδων (βασίλεια, επίθετα, καταλήξεις) και η ελληνική απόδοσή τους με επεξήγηση.",
+  "category": "language",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_αντιστοιχίας_Λατινικών-Ελληνικών_όρων_ταξινομικών_μονάδων",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_αντιστοιχίας_Λατινικών-Ελληνικών_όρων_ταξινομικών_μονάδων",
+  "updated": "2026-11",
+  "record_count": 28,
+  "columns": [
+    {
+      "key": "latinika",
+      "label": "Latinika",
+      "type": "string"
+    },
+    {
+      "key": "ellinika",
+      "label": "Ellinika",
+      "type": "string"
+    },
+    {
+      "key": "epexigisi",
+      "label": "Epexigisi",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "latinika": "Animalia",
+      "ellinika": "Ζώα",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Caelifera",
+      "ellinika": "",
+      "epexigisi": "caelum = «γλυφείον» + ferre = «φέρω»"
+    },
+    {
+      "latinika": "Chlorophyceae",
+      "ellinika": "Χλωροφύκη",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Chlorophyta",
+      "ellinika": "Χλωρόφυτα",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Chordota",
+      "ellinika": "Χορδωτά",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Ensifera",
+      "ellinika": "Ξιφοφόρα",
+      "epexigisi": "ensis (ensi-) = «ξίφος» + ferre = «φέρω»"
+    },
+    {
+      "latinika": "Foraminifera",
+      "ellinika": "Τρηματοφόρα",
+      "epexigisi": "foramen (foramin-) = «τρύπα, τρήμα» + ferre = «φέρω»"
+    },
+    {
+      "latinika": "Fungi",
+      "ellinika": "Μύκητες",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Mammalia",
+      "ellinika": "Θηλαστικά",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Mollusca",
+      "ellinika": "Μαλάκια",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Ostracoda",
+      "ellinika": "Οστρακώδη",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Pectinidae",
+      "ellinika": "Κτενίδες",
+      "epexigisi": "pecten (pectin-) = «κτένιον»"
+    },
+    {
+      "latinika": "Percolozoa",
+      "ellinika": "Ηθμόζωα",
+      "epexigisi": "percolare = «διηθώ», per- = «δια» + colare < colum = «ηθμός»."
+    },
+    {
+      "latinika": "Plantae",
+      "ellinika": "Φυτά",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Protista",
+      "ellinika": "Πρώτιστα",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "Ranunculus",
+      "ellinika": "Βατράχιον",
+      "epexigisi": "υποκ. του rana = «βάτραχος»"
+    },
+    {
+      "latinika": "Tardigrada",
+      "ellinika": "Βραδύπορα",
+      "epexigisi": "tardus (tardi-) = «βραδύς» + gradus = «βήμα», gradere = «βαίνω», «πορεύομαι»"
+    },
+    {
+      "latinika": "Vertebrata",
+      "ellinika": "Σπονδυλωτά",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "lanatus",
+      "ellinika": "εριώδης",
+      "epexigisi": "lana (lan-) = \"μαλλί\"/\"έριον\""
+    },
+    {
+      "latinika": "sativus",
+      "ellinika": "σπόριμος, ήμερος",
+      "epexigisi": "sativus"
+    },
+    {
+      "latinika": "-phyta",
+      "ellinika": "-φυτά",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "-phyceae",
+      "ellinika": "-φύκη",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "-idae",
+      "ellinika": "-ίδες (-ίδαι)",
+      "epexigisi": ""
+    },
+    {
+      "latinika": "-oideae",
+      "ellinika": "-οειδή",
+      "epexigisi": "πληθυντικός θηλυκού (λατινοποιημένη ελληνική κατάληξη)"
+    },
+    {
+      "latinika": "-oidea",
+      "ellinika": "-οειδή",
+      "epexigisi": "πληθυντικός ουδέτερου (λατινοποιημένη ελληνική κατάληξη)"
+    },
+    {
+      "latinika": "-aceae",
+      "ellinika": "-οειδή",
+      "epexigisi": "πληθυντικός θηλυκού (λατινική κατάληξη)"
+    },
+    {
+      "latinika": "-acea",
+      "ellinika": "-οειδή",
+      "epexigisi": "πληθυντικός ουδέτερου (λατινική κατάληξη)"
+    },
+    {
+      "latinika": "-ales",
+      "ellinika": "-ώδη",
+      "epexigisi": ""
+    }
+  ],
+  "meta": {
+    "title": "Αντιστοιχία λατινικών και ελληνικών όρων ταξινόμησης - Free Download",
+    "description": "Λατινικοί επιστημονικοί όροι ταξινομικών μονάδων (βασίλεια, επίθετα, καταλήξεις) και η ελληνική απόδοσή τους με επεξήγηση. Contains 28 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αντιστοιχία λατινικών και ελληνικών όρων ταξινόμησης | ListBase",
+    "seo_description": "Download Αντιστοιχία λατινικών και ελληνικών όρων ταξινόμησης — 28 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 28 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_αντιστοιχίας_Λατινικών-Ελληνικών_όρων_ταξινομικών_μονάδων"
+    ]
+  }
+}

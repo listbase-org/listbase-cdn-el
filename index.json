@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-04T02:14:18.470Z",
-  "total_datasets": 477,
-  "total_records": 196259,
+  "generated": "2026-11-04T02:14:24.971Z",
+  "total_datasets": 478,
+  "total_records": 196287,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "law",
@@ -5095,6 +5095,30 @@
         "xlsx": {
           "name": "el-glosses-kyprou-apografi-2011_EL.xlsx",
           "size": 6989
+        }
+      }
+    },
+    {
+      "id": "el-latinikoi-ellinikoi-taxinomikoi-oroi",
+      "name": "Αντιστοιχία λατινικών και ελληνικών όρων ταξινόμησης",
+      "category": "language",
+      "record_count": 28,
+      "columns": [
+        "latinika",
+        "ellinika",
+        "epexigisi"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_αντιστοιχίας_Λατινικών-Ελληνικών_όρων_ταξινομικών_μονάδων",
+      "updated": "2026-11",
+      "size": 6041,
+      "files": {
+        "csv": {
+          "name": "el-latinikoi-ellinikoi-taxinomikoi-oroi_EL.csv",
+          "size": 1768
+        },
+        "xlsx": {
+          "name": "el-latinikoi-ellinikoi-taxinomikoi-oroi_EL.xlsx",
+          "size": 7928
         }
       }
     },
