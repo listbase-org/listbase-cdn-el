@@ -1,0 +1,568 @@
+{
+  "id": "el-rempetes",
+  "name": "Ρεμπέτες — τραγουδιστές και μουσικοί του ρεμπέτικου",
+  "title": "Ρεμπέτες — τραγουδιστές και μουσικοί του ρεμπέτικου",
+  "description": "Κατάλογος γνωστών ρεμπετών (τραγουδιστών, συνθετών και οργανοπαικτών του ρεμπέτικου τραγουδιού) με τα παρατσούκλια τους.",
+  "category": "music",
+  "source": "https://el.wikipedia.org/wiki/Ρεμπέτικο_τραγούδι",
+  "source_url": "https://el.wikipedia.org/wiki/Ρεμπέτικο_τραγούδι",
+  "updated": "2026-11",
+  "record_count": 133,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "paratsoukli",
+      "label": "Paratsoukli",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Ανέστης Αθανασίου",
+      "paratsoukli": "ή «Γύφτος»"
+    },
+    {
+      "onoma": "Ρίτα Αμπατζή",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Σοφία Αμπατζή ή Καρύβαλη",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Στράτος Ατταλίδης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Πέτρος Αναγνωστάκης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Αργύρης Βαμβακάρης",
+      "paratsoukli": "ή «Κοιλιάς»"
+    },
+    {
+      "onoma": "Μάρκος Βαμβακάρης",
+      "paratsoukli": "«Ρόκος» ή «Φράγκος»"
+    },
+    {
+      "onoma": "Στέλιος Βαμβακάρης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Χαράλαμπος Βασιλειάδης",
+      "paratsoukli": "ή «Τσάντας»"
+    },
+    {
+      "onoma": "Κώστας Βίρβος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Σωτήρης Γαβαλάς",
+      "paratsoukli": "ή «Μεμέτης»"
+    },
+    {
+      "onoma": "Πάνος Γαβαλάς",
+      "paratsoukli": "ή Πίτουρας»"
+    },
+    {
+      "onoma": "Μιχάλης Γενίτσαρης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Νίκος Γιουλάκης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Δημήτρης Γκόγκος",
+      "paratsoukli": "ή «Μπαγιαντέρας»"
+    },
+    {
+      "onoma": "Μπάμπης Γκολές",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ιωάννα Γεωργακοπούλου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Βούλα Γκίκα",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Καίτη Γκρέι",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ανέστης Δελιάς",
+      "paratsoukli": "ή «Αρτέμης»"
+    },
+    {
+      "onoma": "Αντώνης Διαμαντίδης",
+      "paratsoukli": "ή «Νταλγκάς»"
+    },
+    {
+      "onoma": "Γιάννης Δραγάτσης",
+      "paratsoukli": "ή «Ογδοντάκης»"
+    },
+    {
+      "onoma": "Θεόδωρος Δερβενιώτης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γιάννης Εϊτζιρίδης ή Ετσειρίδης",
+      "paratsoukli": "«Γιοβάν Τσαούς»"
+    },
+    {
+      "onoma": "Ρόζα Εσκενάζυ",
+      "paratsoukli": "Σάρα Σκενάζι"
+    },
+    {
+      "onoma": "Τόλης Εσδράς",
+      "paratsoukli": "ή «Εβραίος»"
+    },
+    {
+      "onoma": "Δημήτρης Ευσταθίου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Σπύρος Ευσταθίου",
+      "paratsoukli": "ή «Μπουμπούνας»"
+    },
+    {
+      "onoma": "Αθανάσιος Ευγενικός",
+      "paratsoukli": "ή «Σαμιώτης»"
+    },
+    {
+      "onoma": "Γιώργος Ζαμπέτας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Σπύρος Ζαγοραίος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γιάννης Ιωαννίδης",
+      "paratsoukli": "ρεμπέτης"
+    },
+    {
+      "onoma": "Ζακ Ιακωβίδης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γεράσιμος Κλουβάτος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γιώργος Κάβουρας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Στέλιος Καζαντζίδης",
+      "paratsoukli": "ή «Στελάρας»"
+    },
+    {
+      "onoma": "Απόστολος Καλδάρας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Μανώλης Καναρίδης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Μαρίκα Καναροπούλου",
+      "paratsoukli": "ή «Τουρκαλίτσα»"
+    },
+    {
+      "onoma": "Κώστας Καπλάνης",
+      "paratsoukli": "ή «Κεφαλάς»"
+    },
+    {
+      "onoma": "Κώστας Καρυπόπουλος",
+      "paratsoukli": "«Καρίπης»"
+    },
+    {
+      "onoma": "Μήτσος Καρυδάκης",
+      "paratsoukli": "ή «Καρυδάκιας»"
+    },
+    {
+      "onoma": "Γιώργος Κατσαρός",
+      "paratsoukli": "ρεμπέτης"
+    },
+    {
+      "onoma": "Στέλιος Κερομύτης",
+      "paratsoukli": "ή «Μπούμπης»"
+    },
+    {
+      "onoma": "Γιώργος Κωνσταντινίδης",
+      "paratsoukli": "ή Μακαρόνας»"
+    },
+    {
+      "onoma": "Σούλα Καλφοπούλου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ζαχαρίας Κασιμάτης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Νίκος Καρανικόλας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Σπύρος Καλφόπουλος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Βασίλης Καραπατάκης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γιάννης Κότσιρας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Στέλιος Λαζάρου",
+      "paratsoukli": "ή «Θηβαίος»"
+    },
+    {
+      "onoma": "Ελένη Λαμπίρη",
+      "paratsoukli": "«Έλσα Λάμπο»"
+    },
+    {
+      "onoma": "Μαίρη Λίντα",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Χαρούλα Λαμπράκη",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Χάρης Λεμονόπουλος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γιώτα Λύδια",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γιώργος Λαύκας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Στέλιος Μακρυδάκης",
+      "paratsoukli": "ή «Κουφός»"
+    },
+    {
+      "onoma": "Γιώργος Μανησαλής",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Μανώλης Μαργαρώνης",
+      "paratsoukli": "ή το «Μανωλάκι»"
+    },
+    {
+      "onoma": "Μαρινέλλα",
+      "paratsoukli": "Κυριακή Παπαδοπούλου"
+    },
+    {
+      "onoma": "Γιώργος Μητσάκης",
+      "paratsoukli": "ή «Καραντουζένι»"
+    },
+    {
+      "onoma": "Βαγγέλης Μουστακίδης",
+      "paratsoukli": "ή «Τυρόπιτας»"
+    },
+    {
+      "onoma": "Μπάμπης Μπακάλης",
+      "paratsoukli": "ή «Κουβάς»"
+    },
+    {
+      "onoma": "Δημήτρης Μπαρούσης",
+      "paratsoukli": "ή «Μπαρούς»"
+    },
+    {
+      "onoma": "Σωτηρία Μπέλλου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ιάκωβος Μοντανάρης",
+      "paratsoukli": "ή Γιακουμής"
+    },
+    {
+      "onoma": "Γιώργος Μουφλουζέλης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γρηγόρης Μπιθικώτσης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Τάκης Μπίνης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Βίκυ Μοσχολιού",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Παναγιώτης Μιχαλόπουλος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Οδυσσέας Μοσχονάς",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ευαγγελία Μαργαρώνη",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Μιχάλης Μενιδιάτης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Μαρίκα Νίνου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Απόστολος Νικολαΐδης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ευαγγελία Νικολαΐδου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ζωή Νάχη",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Λουκάς Νταράλας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ρένα Ντάλια",
+      "paratsoukli": "Ελευθερία Παπακώστα"
+    },
+    {
+      "onoma": "Στράτος Παγιουμτζής",
+      "paratsoukli": "ή «Τεμπέλης»"
+    },
+    {
+      "onoma": "Πόλυ Πάνου",
+      "paratsoukli": "Πολυτίμη Κολοπάνου"
+    },
+    {
+      "onoma": "Βαγγέλης Παπάζογλου",
+      "paratsoukli": "ή Αγγούρης"
+    },
+    {
+      "onoma": "Γιάννης Παπαϊωάννου",
+      "paratsoukli": "ή «Πατσάς»"
+    },
+    {
+      "onoma": "Σπύρος Περιστέρης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Στέλιος Περπινιάδης",
+      "paratsoukli": "ή «Στελλάκης»"
+    },
+    {
+      "onoma": "Γιώργος Πετροπουλέας",
+      "paratsoukli": "ή Πολιανίτης"
+    },
+    {
+      "onoma": "Πάνος Πετσάς",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ηλίας Ποτοσίδης",
+      "paratsoukli": "ή «Πανωβλέπας»"
+    },
+    {
+      "onoma": "Άκης Πάνου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ευτυχία Παπαγιαννοπούλου",
+      "paratsoukli": "ή «Γριά»"
+    },
+    {
+      "onoma": "Βαγγέλης Περπινιάδης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Δημήτρης Περδικόπουλος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Σεβαστή Παπαδοπούλου",
+      "paratsoukli": "Σεβάς Χανούμ"
+    },
+    {
+      "onoma": "Θόδωρος Πολυκανδριώτης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Μαρίκα Παπαγκίκα",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Κώστας Ρούκουνας",
+      "paratsoukli": "ή «Σαμιωτάκι»"
+    },
+    {
+      "onoma": "Αντώνης Ρεπάνης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Δημήτρης Σέμσης",
+      "paratsoukli": "ή «Σαλονικιός"
+    },
+    {
+      "onoma": "Κώστας Σκαρβέλης",
+      "paratsoukli": "ή «Παστουρμάς»"
+    },
+    {
+      "onoma": "Γιάννης Σταματίου",
+      "paratsoukli": "ή «Σπόρος»"
+    },
+    {
+      "onoma": "Γιάννης Σταμούλης",
+      "paratsoukli": "τραγουδιστής) (ή «Μπιρ Αλλάχ»"
+    },
+    {
+      "onoma": "Νταίζη Σταυροπούλου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Δημήτρης Στεργίου",
+      "paratsoukli": "ή «Μπέμπης»"
+    },
+    {
+      "onoma": "Βαγγέλης Σωφρονίου",
+      "paratsoukli": "ή «Βιβλιοδέτης»"
+    },
+    {
+      "onoma": "Γιάννης Σαλασίδης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Γιάννης Σπαχάνης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Χρήστος Σύρπος",
+      "paratsoukli": "ή «Χρηστάκης»"
+    },
+    {
+      "onoma": "Ρένα Στάμου",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Δήμητρα Σκαρβέλη",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Σταύρος Τζουανάκος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Αγάπιος Τομπούλης",
+      "paratsoukli": "ή «Μπουλμπούλ»"
+    },
+    {
+      "onoma": "Παναγιώτης Τούντας",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Λευτέρης Τσαγγάρης",
+      "paratsoukli": "ή «Ψυχούλας»"
+    },
+    {
+      "onoma": "Πρόδρομος Τσαουσάκης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Βασίλης Τσιτσάνης",
+      "paratsoukli": "ή «Βλάχος»"
+    },
+    {
+      "onoma": "Γιώργος Τσουμπαριώτης",
+      "paratsoukli": "ή «Σμυρνιός»"
+    },
+    {
+      "onoma": "Γιώργος Τσώρος",
+      "paratsoukli": "«Μπάτης» ή «Αμπάτης»"
+    },
+    {
+      "onoma": "Γιάννης Τατασόπουλος",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Ιορδάνης Τσομίδης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Κώστας Φλώρος",
+      "paratsoukli": "ή «Ψευτο-Νούρος»"
+    },
+    {
+      "onoma": "Μαρίκα Φραντζεσκοπούλου",
+      "paratsoukli": "Μαρίκα η Πολίτισσα"
+    },
+    {
+      "onoma": "Γιάννης Χαλκιάς",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Λίτσα Χαρμαντά",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Τόλης Χαρμαντάς",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Στέλλα Χασκήλ",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Απόστολος Χατζηχρήστος",
+      "paratsoukli": "ή «Σμυρνιωτάκι»"
+    },
+    {
+      "onoma": "Μανώλης Χιώτης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Άννα Χρυσάφη",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Στέλιος Χρυσίνης",
+      "paratsoukli": ""
+    },
+    {
+      "onoma": "Μανώλης Χρυσοφάκης",
+      "paratsoukli": "ή «Φυστιξής»"
+    }
+  ],
+  "meta": {
+    "title": "Ρεμπέτες — τραγουδιστές και μουσικοί του ρεμπέτικου - Free Download",
+    "description": "Κατάλογος γνωστών ρεμπετών (τραγουδιστών, συνθετών και οργανοπαικτών του ρεμπέτικου τραγουδιού) με τα παρατσούκλια τους. Contains 133 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ρεμπέτες — τραγουδιστές και μουσικοί του ρεμπέτικου | ListBase",
+    "seo_description": "Download Ρεμπέτες — τραγουδιστές και μουσικοί του ρεμπέτικου — 133 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 133 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Ρεμπέτικο_τραγούδι"
+    ]
+  }
+}
