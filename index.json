@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-03T02:13:25.986Z",
-  "total_datasets": 474,
-  "total_records": 196031,
+  "generated": "2026-11-04T02:14:04.327Z",
+  "total_datasets": 475,
+  "total_records": 196044,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 3
+      "dataset_count": 4
     },
     {
       "id": "sports",
@@ -12162,6 +12162,31 @@
         "xlsx": {
           "name": "el-attikis-astynomika-tmimata_EL.xlsx",
           "size": 11626
+        }
+      }
+    },
+    {
+      "id": "el-perifereies-deiktis-anthropinis-anaptyxis",
+      "name": "Ελληνικές περιφέρειες ανά Δείκτη Ανθρώπινης Ανάπτυξης",
+      "category": "society",
+      "record_count": 13,
+      "columns": [
+        "katataxi",
+        "perifereia",
+        "dta_hdi_2023",
+        "sygkrisimi_xora"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_περιφερειών_ανά_Δείκτη_Ανθρώπινης_Ανάπτυξης",
+      "updated": "2026-11",
+      "size": 4535,
+      "files": {
+        "csv": {
+          "name": "el-perifereies-deiktis-anthropinis-anaptyxis_EL.csv",
+          "size": 934
+        },
+        "xlsx": {
+          "name": "el-perifereies-deiktis-anthropinis-anaptyxis_EL.xlsx",
+          "size": 7375
         }
       }
     },

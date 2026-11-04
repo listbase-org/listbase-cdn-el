@@ -1,0 +1,124 @@
+{
+  "id": "el-perifereies-deiktis-anthropinis-anaptyxis",
+  "name": "Ελληνικές περιφέρειες ανά Δείκτη Ανθρώπινης Ανάπτυξης",
+  "title": "Ελληνικές περιφέρειες ανά Δείκτη Ανθρώπινης Ανάπτυξης",
+  "description": "Κατάταξη των περιφερειών της Ελλάδας με βάση τον Δείκτη Ανθρώπινης Ανάπτυξης (ΔΤΑ/HDI 2023) και συγκρίσιμη χώρα.",
+  "category": "society",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_περιφερειών_ανά_Δείκτη_Ανθρώπινης_Ανάπτυξης",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_περιφερειών_ανά_Δείκτη_Ανθρώπινης_Ανάπτυξης",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "katataxi",
+      "label": "Katataxi",
+      "type": "number"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "dta_hdi_2023",
+      "label": "Dta Hdi 2023",
+      "type": "number"
+    },
+    {
+      "key": "sygkrisimi_xora",
+      "label": "Sygkrisimi Xora",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "katataxi": 1,
+      "perifereia": "Αττική",
+      "dta_hdi_2023": 0.933,
+      "sygkrisimi_xora": "Σλοβενία"
+    },
+    {
+      "katataxi": "",
+      "perifereia": "Ελλάδα (μέσος όρος)",
+      "dta_hdi_2023": 0.908,
+      "sygkrisimi_xora": "Πολωνία"
+    },
+    {
+      "katataxi": 2,
+      "perifereia": "Δυτική Μακεδονία",
+      "dta_hdi_2023": 0.9,
+      "sygkrisimi_xora": "Σαουδική Αραβία"
+    },
+    {
+      "katataxi": 3,
+      "perifereia": "Στερεά Ελλάδα",
+      "dta_hdi_2023": 0.897,
+      "sygkrisimi_xora": "Μπαχρέιν"
+    },
+    {
+      "katataxi": 4,
+      "perifereia": "Κρήτη",
+      "dta_hdi_2023": 0.896,
+      "sygkrisimi_xora": "Λιθουανία"
+    },
+    {
+      "katataxi": 5,
+      "perifereia": "Θεσσαλία",
+      "dta_hdi_2023": 0.894,
+      "sygkrisimi_xora": "Λιθουανία"
+    },
+    {
+      "katataxi": 6,
+      "perifereia": "Ήπειρος και Πελοπόννησος",
+      "dta_hdi_2023": 0.892,
+      "sygkrisimi_xora": "Σλοβακία"
+    },
+    {
+      "katataxi": 7,
+      "perifereia": "Κεντρική Μακεδονία",
+      "dta_hdi_2023": 0.891,
+      "sygkrisimi_xora": "Πορτογαλία"
+    },
+    {
+      "katataxi": 8,
+      "perifereia": "Νότιο Αιγαίο",
+      "dta_hdi_2023": 0.89,
+      "sygkrisimi_xora": "Πορτογαλία"
+    },
+    {
+      "katataxi": 9,
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "dta_hdi_2023": 0.886,
+      "sygkrisimi_xora": "Κατάρ"
+    },
+    {
+      "katataxi": 10,
+      "perifereia": "Βόρειο Αιγαίο",
+      "dta_hdi_2023": 0.882,
+      "sygkrisimi_xora": "Σλοβενία"
+    },
+    {
+      "katataxi": 11,
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "dta_hdi_2023": 0.878,
+      "sygkrisimi_xora": "Χιλή"
+    },
+    {
+      "katataxi": 12,
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "dta_hdi_2023": 0.876,
+      "sygkrisimi_xora": "Χιλή"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικές περιφέρειες ανά Δείκτη Ανθρώπινης Ανάπτυξης - Free Download",
+    "description": "Κατάταξη των περιφερειών της Ελλάδας με βάση τον Δείκτη Ανθρώπινης Ανάπτυξης (ΔΤΑ/HDI 2023) και συγκρίσιμη χώρα. Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικές περιφέρειες ανά Δείκτη Ανθρώπινης Ανάπτυξης | ListBase",
+    "seo_description": "Download Ελληνικές περιφέρειες ανά Δείκτη Ανθρώπινης Ανάπτυξης — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_περιφερειών_ανά_Δείκτη_Ανθρώπινης_Ανάπτυξης"
+    ]
+  }
+}
