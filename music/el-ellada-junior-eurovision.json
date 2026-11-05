@@ -1,0 +1,112 @@
+{
+  "id": "el-ellada-junior-eurovision",
+  "name": "Συμμετοχές της Ελλάδας στη Junior Eurovision",
+  "title": "Συμμετοχές της Ελλάδας στη Junior Eurovision",
+  "description": "Όλες οι συμμετοχές της Ελλάδας στον Παιδικό Διαγωνισμό Τραγουδιού Junior Eurovision με καλλιτέχνη, τραγούδι, γλώσσα, θέση και βαθμούς.",
+  "category": "music",
+  "source": "https://el.wikipedia.org/wiki/Συμμετοχή_της_Ελλάδας_στη_Junior_Eurovision",
+  "source_url": "https://el.wikipedia.org/wiki/Συμμετοχή_της_Ελλάδας_στη_Junior_Eurovision",
+  "updated": "2026-11",
+  "record_count": 7,
+  "columns": [
+    {
+      "key": "chronia",
+      "label": "Chronia",
+      "type": "number"
+    },
+    {
+      "key": "kallitechnis",
+      "label": "Kallitechnis",
+      "type": "string"
+    },
+    {
+      "key": "titlos",
+      "label": "Titlos",
+      "type": "string"
+    },
+    {
+      "key": "glossa",
+      "label": "Glossa",
+      "type": "string"
+    },
+    {
+      "key": "thesi",
+      "label": "Thesi",
+      "type": "number"
+    },
+    {
+      "key": "vathmoi",
+      "label": "Vathmoi",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "chronia": 2003,
+      "kallitechnis": "Νικόλας Γκανόπουλος",
+      "titlos": "Φίλοι για πάντα",
+      "glossa": "Ελληνικά",
+      "thesi": 8,
+      "vathmoi": 53
+    },
+    {
+      "chronia": 2004,
+      "kallitechnis": "Secret Band",
+      "titlos": "Ο παλιός μου εαυτός",
+      "glossa": "Ελληνικά",
+      "thesi": 9,
+      "vathmoi": 48
+    },
+    {
+      "chronia": 2005,
+      "kallitechnis": "Αλέξανδρος και Κάλλη",
+      "titlos": "Tώρα είναι η σειρά μας",
+      "glossa": "Ελληνικά",
+      "thesi": 6,
+      "vathmoi": 88
+    },
+    {
+      "chronia": 2006,
+      "kallitechnis": "Χλόη Σοφία Μπολέτη",
+      "titlos": "Δεν πειράζει",
+      "glossa": "Ελληνικά",
+      "thesi": 13,
+      "vathmoi": 35
+    },
+    {
+      "chronia": 2007,
+      "kallitechnis": "Made In Greece",
+      "titlos": "Κάπου μπερδεύτηκα",
+      "glossa": "Ελληνικά",
+      "thesi": 17,
+      "vathmoi": 14
+    },
+    {
+      "chronia": 2008,
+      "kallitechnis": "Νίκη Γιαννούτσου",
+      "titlos": "Κάποια νύχτα",
+      "glossa": "Ελληνικά",
+      "thesi": 14,
+      "vathmoi": 19
+    },
+    {
+      "chronia": "",
+      "kallitechnis": "Δεν συμμετέχει από τον διαγωνισμό του 2009",
+      "titlos": "Δεν συμμετέχει από τον διαγωνισμό του 2009",
+      "glossa": "Δεν συμμετέχει από τον διαγωνισμό του 2009",
+      "thesi": "",
+      "vathmoi": ""
+    }
+  ],
+  "meta": {
+    "title": "Συμμετοχές της Ελλάδας στη Junior Eurovision - Free Download",
+    "description": "Όλες οι συμμετοχές της Ελλάδας στον Παιδικό Διαγωνισμό Τραγουδιού Junior Eurovision με καλλιτέχνη, τραγούδι, γλώσσα, θέση και βαθμούς. Contains 7 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Συμμετοχές της Ελλάδας στη Junior Eurovision | ListBase",
+    "seo_description": "Download Συμμετοχές της Ελλάδας στη Junior Eurovision — 7 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 7 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Συμμετοχή_της_Ελλάδας_στη_Junior_Eurovision"
+    ]
+  }
+}
