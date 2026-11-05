@@ -1,0 +1,184 @@
+{
+  "id": "el-amfivia-elladas",
+  "name": "Αμφίβια της Ελλάδας",
+  "title": "Αμφίβια της Ελλάδας",
+  "description": "Κατάλογος των ειδών αμφιβίων (σαλαμάνδρες, τρίτωνες, βάτραχοι, φρύνοι) που ζουν στην Ελλάδα, με επιστημονικό και κοινό όνομα, τάξη, οικογένεια και ένδειξη ενδημισμού.",
+  "category": "science",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_αμφιβίων_της_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_αμφιβίων_της_Ελλάδας",
+  "updated": "2026-11",
+  "record_count": 19,
+  "columns": [
+    {
+      "key": "epistimoniko_onoma",
+      "label": "Epistimoniko Onoma",
+      "type": "string"
+    },
+    {
+      "key": "koino_onoma",
+      "label": "Koino Onoma",
+      "type": "string"
+    },
+    {
+      "key": "endimiko",
+      "label": "Endimiko",
+      "type": "boolean"
+    },
+    {
+      "key": "taxi",
+      "label": "Taxi",
+      "type": "string"
+    },
+    {
+      "key": "oikogeneia",
+      "label": "Oikogeneia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "epistimoniko_onoma": "Salamandra salamandra (Linnaeus, 1758)",
+      "koino_onoma": "κοινή σαλαμάνδρα",
+      "endimiko": false,
+      "taxi": "Urodela (σαλαμάνδρες, τρίτωνες)",
+      "oikogeneia": "Salamandridae"
+    },
+    {
+      "epistimoniko_onoma": "Lyciasalamandra helverseni (Pieper, 1963)",
+      "koino_onoma": "σαλαμάνδρα της Καρπάθου",
+      "endimiko": true,
+      "taxi": "Urodela (σαλαμάνδρες, τρίτωνες)",
+      "oikogeneia": "Salamandridae"
+    },
+    {
+      "epistimoniko_onoma": "Lyciasalamandra luschani (Steindachner, 1891)",
+      "koino_onoma": "σαλαμάνδρα του Καστελλόριζου",
+      "endimiko": false,
+      "taxi": "Urodela (σαλαμάνδρες, τρίτωνες)",
+      "oikogeneia": "Salamandridae"
+    },
+    {
+      "epistimoniko_onoma": "Lissotriton graecus (Wolterstorff, 1906)",
+      "koino_onoma": "Ελληνικός λισσοτρίτωνας",
+      "endimiko": false,
+      "taxi": "Urodela (σαλαμάνδρες, τρίτωνες)",
+      "oikogeneia": "Salamandridae"
+    },
+    {
+      "epistimoniko_onoma": "Lissotriton schmidtleri (Raxworthy, 1988)",
+      "koino_onoma": "ανατολικός λισσοτρίτωνας",
+      "endimiko": false,
+      "taxi": "Urodela (σαλαμάνδρες, τρίτωνες)",
+      "oikogeneia": "Salamandridae"
+    },
+    {
+      "epistimoniko_onoma": "Triturus macedonicus (Karaman, 1922)",
+      "koino_onoma": "Μακεδονικός χτενοτρίτωνας",
+      "endimiko": false,
+      "taxi": "Urodela (σαλαμάνδρες, τρίτωνες)",
+      "oikogeneia": "Salamandridae"
+    },
+    {
+      "epistimoniko_onoma": "Ichthyosaura alpestris (Laurenti, 1768)",
+      "koino_onoma": "αλπικός τρίτωνας",
+      "endimiko": false,
+      "taxi": "Urodela (σαλαμάνδρες, τρίτωνες)",
+      "oikogeneia": "Salamandridae"
+    },
+    {
+      "epistimoniko_onoma": "Bombina bombina (Linnaeus, 1761)",
+      "koino_onoma": "κοκκινομπομπίνα",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Bombinatoridae"
+    },
+    {
+      "epistimoniko_onoma": "Bombina variegata (Linnaeus, 1758)",
+      "koino_onoma": "κιτρινομπομπίνα",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Bombinatoridae"
+    },
+    {
+      "epistimoniko_onoma": "Bufo bufo (Linnaeus, 1758)",
+      "koino_onoma": "κοινός φρύνος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Bufonidae"
+    },
+    {
+      "epistimoniko_onoma": "Bufotes viridis (Laurenti, 1768)",
+      "koino_onoma": "πρασινόφρυνος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Bufonidae"
+    },
+    {
+      "epistimoniko_onoma": "Bufotes sitibundus (Pallas, 1771)",
+      "koino_onoma": "ανατολικός πρασινόφρυνος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Bufonidae"
+    },
+    {
+      "epistimoniko_onoma": "Hyla arborea (Linnaeus, 1758)",
+      "koino_onoma": "Ευρωπαϊκός δεντροβάτραχος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Hylidae"
+    },
+    {
+      "epistimoniko_onoma": "Lithobates catesbeianus (Shaw, 1802)",
+      "koino_onoma": "Αμερικανικός βουβαλοβάτραχος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Ranidae"
+    },
+    {
+      "epistimoniko_onoma": "Pelophylax bedriagae (Camerano, 1882)",
+      "koino_onoma": "ανατολικός βάτραχος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Ranidae"
+    },
+    {
+      "epistimoniko_onoma": "Pelophylax cerigensis (Beerli, Hotz, Tunner, Heppich & Uzzell, 1994)",
+      "koino_onoma": "βάτραχος της Καρπάθου",
+      "endimiko": true,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Ranidae"
+    },
+    {
+      "epistimoniko_onoma": "Pelophylax cretensis (Beerli, Hotz, Tunner, Heppich & Uzzell, 1994)",
+      "koino_onoma": "Κρητικός βάτραχος",
+      "endimiko": true,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Ranidae"
+    },
+    {
+      "epistimoniko_onoma": "Pelophylax epeiroticus (Schneider, Sofianidou & Kyriakopoulou-Sklavounou, 1984)",
+      "koino_onoma": "Ηπειρωτικός βάτραχος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Ranidae"
+    },
+    {
+      "epistimoniko_onoma": "Pelophylax ridibundus (Pallas, 1771)",
+      "koino_onoma": "βαλτοβάτραχος",
+      "endimiko": false,
+      "taxi": "Anura (βάτραχοι, φρύνοι)",
+      "oikogeneia": "Ranidae"
+    }
+  ],
+  "meta": {
+    "title": "Αμφίβια της Ελλάδας - Free Download",
+    "description": "Κατάλογος των ειδών αμφιβίων (σαλαμάνδρες, τρίτωνες, βάτραχοι, φρύνοι) που ζουν στην Ελλάδα, με επιστημονικό και κοινό όνομα, τάξη, οικογένεια και ένδειξη ενδημισμού. Contains 19 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αμφίβια της Ελλάδας | ListBase",
+    "seo_description": "Download Αμφίβια της Ελλάδας — 19 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 19 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_αμφιβίων_της_Ελλάδας"
+    ]
+  }
+}
