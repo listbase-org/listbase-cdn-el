@@ -1,0 +1,140 @@
+{
+  "id": "el-iliakes-ekleipseis-ellada",
+  "name": "Ηλιακές εκλείψεις ορατές από την Ελλάδα",
+  "title": "Ηλιακές εκλείψεις ορατές από την Ελλάδα",
+  "description": "Ημερομηνίες ηλιακών εκλείψεων (ολικών, δακτυλιοειδών και μερικών) που είναι ή ήταν ορατές από την Ελλάδα, ανά αιώνα.",
+  "category": "science",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ηλιακών_εκλείψεων_ορατών_από_την_Ελλάδα",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ηλιακών_εκλείψεων_ορατών_από_την_Ελλάδα",
+  "updated": "2026-11",
+  "record_count": 26,
+  "columns": [
+    {
+      "key": "imerominia",
+      "label": "Imerominia",
+      "type": "string"
+    },
+    {
+      "key": "aionas",
+      "label": "Aionas",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "imerominia": "29 Απριλίου 1976",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "31 Ιουλίου 1981",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "15 Δεκεμβρίου 1982",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "4 Δεκεμβρίου 1983",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "30 Μαΐου 1984",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "29 Μαρτίου 1987",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "12 Οκτωβρίου 1996",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "11 Αυγούστου 1999",
+      "aionas": "20ος αιώνας"
+    },
+    {
+      "imerominia": "31 Μαΐου 2003",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "3 Οκτωβρίου 2005",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "29 Μαρτίου 2006",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "1 Αυγούστου 2008",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "15 Ιανουαρίου 2010",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "4 Ιανουαρίου 2011",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "3 Νοεμβρίου 2013",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "20 Μαρτίου 2015",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "21 Ιουνίου 2020",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "25 Οκτωβρίου 2022",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "12 Αυγούστου 2026",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "2 Αυγούστου 2027",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "1 Ιουνίου 2030",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "20 Μαρτίου 2034",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "16 Ιανουαρίου 2037",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "5 Ιανουαρίου 2038",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "2 Ιουλίου 2038",
+      "aionas": "21ος αιώνας"
+    },
+    {
+      "imerominia": "21 Ιουνίου 2039",
+      "aionas": "21ος αιώνας"
+    }
+  ],
+  "meta": {
+    "title": "Ηλιακές εκλείψεις ορατές από την Ελλάδα - Free Download",
+    "description": "Ημερομηνίες ηλιακών εκλείψεων (ολικών, δακτυλιοειδών και μερικών) που είναι ή ήταν ορατές από την Ελλάδα, ανά αιώνα. Contains 26 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ηλιακές εκλείψεις ορατές από την Ελλάδα | ListBase",
+    "seo_description": "Download Ηλιακές εκλείψεις ορατές από την Ελλάδα — 26 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 26 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ηλιακών_εκλείψεων_ορατών_από_την_Ελλάδα"
+    ]
+  }
+}
