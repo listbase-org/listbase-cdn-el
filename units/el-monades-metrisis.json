@@ -1,0 +1,1735 @@
+{
+  "id": "el-monades-metrisis",
+  "name": "Μονάδες μέτρησης (CLDR Ελληνικά)",
+  "title": "Μονάδες μέτρησης (CLDR Ελληνικά)",
+  "description": "Μονάδες μέτρησης και τα ελληνικά ονόματα και πρότυπα από το CLDR units.json (long/short/narrow).",
+  "category": "units",
+  "source": "https://github.com/unicode-org/cldr",
+  "source_url": "https://github.com/unicode-org/cldr",
+  "updated": "2026-11",
+  "record_count": 186,
+  "columns": [
+    {
+      "key": "unit_code",
+      "label": "Unit Code",
+      "type": "string"
+    },
+    {
+      "key": "katigoria",
+      "label": "Katigoria",
+      "type": "string"
+    },
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "sxima_enikou",
+      "label": "Sxima Enikou",
+      "type": "string"
+    },
+    {
+      "key": "sxima_plithyntikou",
+      "label": "Sxima Plithyntikou",
+      "type": "string"
+    },
+    {
+      "key": "syntomo",
+      "label": "Syntomo",
+      "type": "string"
+    },
+    {
+      "key": "stenó",
+      "label": "Stenó",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "unit_code": "acceleration-g-force",
+      "katigoria": "acceleration",
+      "onoma": "δύναμη επιτάχυνσης",
+      "sxima_enikou": "{0} δύναμη επιτάχυνσης",
+      "sxima_plithyntikou": "{0} δυνάμεις επιτάχυνσης",
+      "syntomo": "{0} δυν. επιτάχ.",
+      "stenó": "{0} G"
+    },
+    {
+      "unit_code": "acceleration-meter-per-square-second",
+      "katigoria": "acceleration",
+      "onoma": "μέτρα ανά τετραγωνικό δευτερόλεπτο",
+      "sxima_enikou": "{0} μέτρο ανά τετραγωνικό δευτερόλεπτο",
+      "sxima_plithyntikou": "{0} μέτρα ανά τετραγωνικό δευτερόλεπτο",
+      "syntomo": "{0} m/s²",
+      "stenó": "{0} m/s²"
+    },
+    {
+      "unit_code": "angle-arc-minute",
+      "katigoria": "angle",
+      "onoma": "λεπτά του τόξου",
+      "sxima_enikou": "{0} λεπτό του τόξου",
+      "sxima_plithyntikou": "{0} λεπτά του τόξου",
+      "syntomo": "{0} λεπ. τόξου",
+      "stenó": "{0}′"
+    },
+    {
+      "unit_code": "angle-arc-second",
+      "katigoria": "angle",
+      "onoma": "δευτερόλεπτα του τόξου",
+      "sxima_enikou": "{0} δευτερόλεπτο του τόξου",
+      "sxima_plithyntikou": "{0} δευτερόλεπτα του τόξου",
+      "syntomo": "{0} arcsec",
+      "stenó": "{0}″"
+    },
+    {
+      "unit_code": "angle-degree",
+      "katigoria": "angle",
+      "onoma": "μοίρες",
+      "sxima_enikou": "{0} μοίρα",
+      "sxima_plithyntikou": "{0} μοίρες",
+      "syntomo": "{0}°",
+      "stenó": "{0}°"
+    },
+    {
+      "unit_code": "angle-radian",
+      "katigoria": "angle",
+      "onoma": "ακτίνια",
+      "sxima_enikou": "{0} ακτίνιο",
+      "sxima_plithyntikou": "{0} ακτίνια",
+      "syntomo": "{0} ακτν",
+      "stenó": "{0} ακτν"
+    },
+    {
+      "unit_code": "angle-revolution",
+      "katigoria": "angle",
+      "onoma": "στροφή",
+      "sxima_enikou": "{0} στροφή",
+      "sxima_plithyntikou": "{0} στροφές",
+      "syntomo": "{0} στρφ",
+      "stenó": "{0} στρφ"
+    },
+    {
+      "unit_code": "area-acre",
+      "katigoria": "area",
+      "onoma": "ακρ",
+      "sxima_enikou": "{0} ακρ",
+      "sxima_plithyntikou": "{0} ακρ",
+      "syntomo": "{0} ακρ",
+      "stenó": "{0} ακρ"
+    },
+    {
+      "unit_code": "area-dunam",
+      "katigoria": "area",
+      "onoma": "ντούναμ",
+      "sxima_enikou": "{0} ντούναμ",
+      "sxima_plithyntikou": "{0} ντούναμ",
+      "syntomo": "{0} ντούναμ",
+      "stenó": "{0} ντούναμ"
+    },
+    {
+      "unit_code": "area-hectare",
+      "katigoria": "area",
+      "onoma": "εκτάρια",
+      "sxima_enikou": "{0} εκτάριο",
+      "sxima_plithyntikou": "{0} εκτάρια",
+      "syntomo": "{0} εκτ.",
+      "stenó": "{0} ha"
+    },
+    {
+      "unit_code": "area-square-centimeter",
+      "katigoria": "area",
+      "onoma": "τετραγωνικά εκατοστά",
+      "sxima_enikou": "{0} τετραγωνικό εκατοστό",
+      "sxima_plithyntikou": "{0} τετραγωνικά εκατοστά",
+      "syntomo": "{0} τ.εκ.",
+      "stenó": "{0} τ.εκ."
+    },
+    {
+      "unit_code": "area-square-foot",
+      "katigoria": "area",
+      "onoma": "τετραγωνικά πόδια",
+      "sxima_enikou": "{0} τετραγωνικό πόδι",
+      "sxima_plithyntikou": "{0} τετραγωνικά πόδια",
+      "syntomo": "{0} τ.πδ",
+      "stenó": "{0} τ.πδ"
+    },
+    {
+      "unit_code": "area-square-inch",
+      "katigoria": "area",
+      "onoma": "τετραγωνικές ίντσες",
+      "sxima_enikou": "{0} τετραγωνική ίντσα",
+      "sxima_plithyntikou": "{0} τετραγωνικές ίντσες",
+      "syntomo": "{0} τ. ίντσες",
+      "stenó": "{0} τ. ίντσες"
+    },
+    {
+      "unit_code": "area-square-kilometer",
+      "katigoria": "area",
+      "onoma": "τετραγωνικά χιλιόμετρα",
+      "sxima_enikou": "{0} τετραγωνικό χιλιόμετρο",
+      "sxima_plithyntikou": "{0} τετραγωνικά χιλιόμετρα",
+      "syntomo": "{0} τ.χλμ.",
+      "stenó": "{0} km²"
+    },
+    {
+      "unit_code": "area-square-meter",
+      "katigoria": "area",
+      "onoma": "τετραγωνικά μέτρα",
+      "sxima_enikou": "{0} τετραγωνικό μέτρο",
+      "sxima_plithyntikou": "{0} τετραγωνικά μέτρα",
+      "syntomo": "{0} τ.μ.",
+      "stenó": "{0} τ.μ."
+    },
+    {
+      "unit_code": "area-square-mile",
+      "katigoria": "area",
+      "onoma": "τετραγωνικά μίλια",
+      "sxima_enikou": "{0} τετραγωνικό μίλι",
+      "sxima_plithyntikou": "{0} τετραγωνικά μίλια",
+      "syntomo": "{0} τ.μίλια",
+      "stenó": "{0} τ.μίλια"
+    },
+    {
+      "unit_code": "area-square-yard",
+      "katigoria": "area",
+      "onoma": "τετραγωνικές γιάρδες",
+      "sxima_enikou": "{0} τετραγωνική γιάρδα",
+      "sxima_plithyntikou": "{0} τετραγωνικές γιάρδες",
+      "syntomo": "{0} τ.γρδ",
+      "stenó": "{0} τ.γρδ"
+    },
+    {
+      "unit_code": "concentr-item",
+      "katigoria": "concentr",
+      "onoma": "στοιχείο",
+      "sxima_enikou": "{0} στοιχείο",
+      "sxima_plithyntikou": "{0} στοιχεία",
+      "syntomo": "{0} στοιχεία",
+      "stenó": "{0} στοιχεία"
+    },
+    {
+      "unit_code": "concentr-karat",
+      "katigoria": "concentr",
+      "onoma": "καράτια",
+      "sxima_enikou": "{0} καράτι",
+      "sxima_plithyntikou": "{0} καράτια",
+      "syntomo": "{0} κρτ",
+      "stenó": "{0} κρτ"
+    },
+    {
+      "unit_code": "concentr-milligram-ofglucose-per-deciliter",
+      "katigoria": "concentr",
+      "onoma": "χιλιοστόγραμμα ανά δεκατόλιτρο",
+      "sxima_enikou": "{0} χιλιοστόγραμμο ανά δεκατόλιτρο",
+      "sxima_plithyntikou": "{0} χιλιοστόγραμμα ανά δεκατόλιτρο",
+      "syntomo": "{0} mg/dL",
+      "stenó": "{0} mg/dL"
+    },
+    {
+      "unit_code": "concentr-millimole-per-liter",
+      "katigoria": "concentr",
+      "onoma": "χιλιοστογραμμομόρια ανά λίτρο",
+      "sxima_enikou": "{0} χιλιοστογραμμομόριο ανά λίτρο",
+      "sxima_plithyntikou": "{0} χιλιοστογραμμομόρια ανά λίτρο",
+      "syntomo": "{0} mmol/L",
+      "stenó": "{0} mmol/L"
+    },
+    {
+      "unit_code": "concentr-mole",
+      "katigoria": "concentr",
+      "onoma": "μολ",
+      "sxima_enikou": "{0} μολ",
+      "sxima_plithyntikou": "{0} μολ",
+      "syntomo": "{0} μολ",
+      "stenó": "{0} μολ"
+    },
+    {
+      "unit_code": "concentr-percent",
+      "katigoria": "concentr",
+      "onoma": "τοις εκατό",
+      "sxima_enikou": "{0} τοις εκατό",
+      "sxima_plithyntikou": "{0} τοις εκατό",
+      "syntomo": "{0}%",
+      "stenó": "{0}%"
+    },
+    {
+      "unit_code": "concentr-permille",
+      "katigoria": "concentr",
+      "onoma": "τοις χιλίοις",
+      "sxima_enikou": "{0} τοις χιλίοις",
+      "sxima_plithyntikou": "{0} τοις χιλίοις",
+      "syntomo": "{0}‰",
+      "stenó": "{0}‰"
+    },
+    {
+      "unit_code": "concentr-permillion",
+      "katigoria": "concentr",
+      "onoma": "μέρη ανά εκατομμύριο",
+      "sxima_enikou": "{0} μέρος ανά εκατομμύριο",
+      "sxima_plithyntikou": "{0} μέρη ανά εκατομμύριο",
+      "syntomo": "{0} ppm",
+      "stenó": "{0} ppm"
+    },
+    {
+      "unit_code": "concentr-permyriad",
+      "katigoria": "concentr",
+      "onoma": "τοις δεκάκις χιλίοις",
+      "sxima_enikou": "{0} τοις δεκάκις χιλίοις",
+      "sxima_plithyntikou": "{0} τοις δεκάκις χιλίοις",
+      "syntomo": "{0}‱",
+      "stenó": "{0}‱"
+    },
+    {
+      "unit_code": "consumption-liter-per-100-kilometer",
+      "katigoria": "consumption",
+      "onoma": "λίτρα ανά 100 χιλιόμετρα",
+      "sxima_enikou": "{0} λίτρο ανά 100 χιλιόμετρα",
+      "sxima_plithyntikou": "{0} λίτρα ανά 100 χιλιόμετρα",
+      "syntomo": "{0} λ./100 χλμ.",
+      "stenó": "{0} λ/100 χλμ"
+    },
+    {
+      "unit_code": "consumption-liter-per-kilometer",
+      "katigoria": "consumption",
+      "onoma": "λίτρα ανά χιλιόμετρο",
+      "sxima_enikou": "{0} λίτρο ανά χιλιόμετρο",
+      "sxima_plithyntikou": "{0} λίτρα ανά χιλιόμετρο",
+      "syntomo": "{0} λίτρα/χλμ.",
+      "stenó": "{0} λ/χλμ"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon",
+      "katigoria": "consumption",
+      "onoma": "μίλια ανά γαλόνι",
+      "sxima_enikou": "{0} μίλι ανά γαλόνι",
+      "sxima_plithyntikou": "{0} μίλια ανά γαλόνι",
+      "syntomo": "{0} mpg",
+      "stenó": "{0} mpg"
+    },
+    {
+      "unit_code": "consumption-mile-per-gallon-imperial",
+      "katigoria": "consumption",
+      "onoma": "μίλια ανά αγγλοσαξονικό γαλόνι",
+      "sxima_enikou": "{0} μίλι ανά αγγλοσαξονικό γαλόνι",
+      "sxima_plithyntikou": "{0} μίλια ανά αγγλοσαξονικό γαλόνι",
+      "syntomo": "{0} μίλια/αγγλ. γαλόνι",
+      "stenó": "{0} μίλια/αγγλ. γαλόνι"
+    },
+    {
+      "unit_code": "coordinateUnit",
+      "katigoria": "coordinateUnit",
+      "onoma": "σημεία ορίζοντα",
+      "sxima_enikou": "",
+      "sxima_plithyntikou": "",
+      "syntomo": "",
+      "stenó": ""
+    },
+    {
+      "unit_code": "digital-bit",
+      "katigoria": "digital",
+      "onoma": "bit",
+      "sxima_enikou": "{0} bit",
+      "sxima_plithyntikou": "{0} bit",
+      "syntomo": "{0} bit",
+      "stenó": "{0} bit"
+    },
+    {
+      "unit_code": "digital-byte",
+      "katigoria": "digital",
+      "onoma": "byte",
+      "sxima_enikou": "{0} byte",
+      "sxima_plithyntikou": "{0} byte",
+      "syntomo": "{0} byte",
+      "stenó": "{0} byte"
+    },
+    {
+      "unit_code": "digital-gigabit",
+      "katigoria": "digital",
+      "onoma": "gigabit",
+      "sxima_enikou": "{0} gigabit",
+      "sxima_plithyntikou": "{0} gigabit",
+      "syntomo": "{0} Gb",
+      "stenó": "{0} Gb"
+    },
+    {
+      "unit_code": "digital-gigabyte",
+      "katigoria": "digital",
+      "onoma": "gigabyte",
+      "sxima_enikou": "{0} gigabyte",
+      "sxima_plithyntikou": "{0} gigabyte",
+      "syntomo": "{0} GB",
+      "stenó": "{0} GB"
+    },
+    {
+      "unit_code": "digital-kilobit",
+      "katigoria": "digital",
+      "onoma": "kilobit",
+      "sxima_enikou": "{0} kilobit",
+      "sxima_plithyntikou": "{0} kilobit",
+      "syntomo": "{0} kb",
+      "stenó": "{0} kb"
+    },
+    {
+      "unit_code": "digital-kilobyte",
+      "katigoria": "digital",
+      "onoma": "kilobyte",
+      "sxima_enikou": "{0} kilobyte",
+      "sxima_plithyntikou": "{0} kilobyte",
+      "syntomo": "{0} kB",
+      "stenó": "{0} kB"
+    },
+    {
+      "unit_code": "digital-megabit",
+      "katigoria": "digital",
+      "onoma": "megabit",
+      "sxima_enikou": "{0} megabit",
+      "sxima_plithyntikou": "{0} megabit",
+      "syntomo": "{0} Mb",
+      "stenó": "{0} Mb"
+    },
+    {
+      "unit_code": "digital-megabyte",
+      "katigoria": "digital",
+      "onoma": "megabyte",
+      "sxima_enikou": "{0} megabyte",
+      "sxima_plithyntikou": "{0} megabyte",
+      "syntomo": "{0} MB",
+      "stenó": "{0} MB"
+    },
+    {
+      "unit_code": "digital-petabyte",
+      "katigoria": "digital",
+      "onoma": "petabyte",
+      "sxima_enikou": "{0} petabyte",
+      "sxima_plithyntikou": "{0} petabyte",
+      "syntomo": "{0} PB",
+      "stenó": "{0} PB"
+    },
+    {
+      "unit_code": "digital-terabit",
+      "katigoria": "digital",
+      "onoma": "terabit",
+      "sxima_enikou": "{0} terabit",
+      "sxima_plithyntikou": "{0} terabit",
+      "syntomo": "{0} Tb",
+      "stenó": "{0} Tb"
+    },
+    {
+      "unit_code": "digital-terabyte",
+      "katigoria": "digital",
+      "onoma": "terabyte",
+      "sxima_enikou": "{0} terabyte",
+      "sxima_plithyntikou": "{0} terabyte",
+      "syntomo": "{0} TB",
+      "stenó": "{0} TB"
+    },
+    {
+      "unit_code": "duration-century",
+      "katigoria": "duration",
+      "onoma": "αιώνες",
+      "sxima_enikou": "{0} αιώνας",
+      "sxima_plithyntikou": "{0} αιώνες",
+      "syntomo": "{0} αιών.",
+      "stenó": "{0} αιών."
+    },
+    {
+      "unit_code": "duration-day",
+      "katigoria": "duration",
+      "onoma": "ημέρες",
+      "sxima_enikou": "{0} ημέρα",
+      "sxima_plithyntikou": "{0} ημέρες",
+      "syntomo": "{0} ημέρες",
+      "stenó": "{0} η"
+    },
+    {
+      "unit_code": "duration-day-person",
+      "katigoria": "duration",
+      "onoma": "",
+      "sxima_enikou": "{0} ημέρα",
+      "sxima_plithyntikou": "{0} ημέρες",
+      "syntomo": "",
+      "stenó": ""
+    },
+    {
+      "unit_code": "duration-decade",
+      "katigoria": "duration",
+      "onoma": "δεκαετίες",
+      "sxima_enikou": "{0} δεκαετία",
+      "sxima_plithyntikou": "{0} δεκαετίες",
+      "syntomo": "{0} δεκ.",
+      "stenó": "{0} δεκ."
+    },
+    {
+      "unit_code": "duration-hour",
+      "katigoria": "duration",
+      "onoma": "ώρες",
+      "sxima_enikou": "{0} ώρα",
+      "sxima_plithyntikou": "{0} ώρες",
+      "syntomo": "{0} ώ.",
+      "stenó": "{0} ώ"
+    },
+    {
+      "unit_code": "duration-microsecond",
+      "katigoria": "duration",
+      "onoma": "μικροδευτερόλεπτα",
+      "sxima_enikou": "{0} μικροδευτερόλεπτο",
+      "sxima_plithyntikou": "{0} μικροδευτερόλεπτα",
+      "syntomo": "{0} μs",
+      "stenó": "{0} μs"
+    },
+    {
+      "unit_code": "duration-millisecond",
+      "katigoria": "duration",
+      "onoma": "χιλιοστά του δευτερολέπτου",
+      "sxima_enikou": "{0} χιλιοστό του δευτερολέπτου",
+      "sxima_plithyntikou": "{0} χιλιοστά του δευτερολέπτου",
+      "syntomo": "{0} ms",
+      "stenó": "{0} ms"
+    },
+    {
+      "unit_code": "duration-minute",
+      "katigoria": "duration",
+      "onoma": "λεπτά",
+      "sxima_enikou": "{0} λεπτό",
+      "sxima_plithyntikou": "{0} λεπτά",
+      "syntomo": "{0} λ.",
+      "stenó": "{0} λ"
+    },
+    {
+      "unit_code": "duration-month",
+      "katigoria": "duration",
+      "onoma": "μήνες",
+      "sxima_enikou": "{0} μήνας",
+      "sxima_plithyntikou": "{0} μήνες",
+      "syntomo": "{0} μήν.",
+      "stenó": "{0} μ"
+    },
+    {
+      "unit_code": "duration-nanosecond",
+      "katigoria": "duration",
+      "onoma": "νανοδευτερόλεπτα",
+      "sxima_enikou": "{0} νανοδευτερόλεπτο",
+      "sxima_plithyntikou": "{0} νανοδευτερόλεπτα",
+      "syntomo": "{0} ns",
+      "stenó": "{0} ns"
+    },
+    {
+      "unit_code": "duration-quarter",
+      "katigoria": "duration",
+      "onoma": "τέταρτα",
+      "sxima_enikou": "{0} τέταρτο",
+      "sxima_plithyntikou": "{0} τέταρτα",
+      "syntomo": "{0} τέτ/α",
+      "stenó": "{0} τέτ."
+    },
+    {
+      "unit_code": "duration-second",
+      "katigoria": "duration",
+      "onoma": "δευτερόλεπτα",
+      "sxima_enikou": "{0} δευτερόλεπτο",
+      "sxima_plithyntikou": "{0} δευτερόλεπτα",
+      "syntomo": "{0} δευτ.",
+      "stenó": "{0} δ"
+    },
+    {
+      "unit_code": "duration-week",
+      "katigoria": "duration",
+      "onoma": "εβδομάδες",
+      "sxima_enikou": "{0} εβδομάδα",
+      "sxima_plithyntikou": "{0} εβδομάδες",
+      "syntomo": "{0} εβδ.",
+      "stenó": "{0} ε"
+    },
+    {
+      "unit_code": "duration-year",
+      "katigoria": "duration",
+      "onoma": "έτη",
+      "sxima_enikou": "{0} έτος",
+      "sxima_plithyntikou": "{0} έτη",
+      "syntomo": "{0} έτ.",
+      "stenó": "{0} έ"
+    },
+    {
+      "unit_code": "electric-ampere",
+      "katigoria": "electric",
+      "onoma": "αμπέρ",
+      "sxima_enikou": "{0} αμπέρ",
+      "sxima_plithyntikou": "{0} αμπέρ",
+      "syntomo": "{0} A",
+      "stenó": "{0} A"
+    },
+    {
+      "unit_code": "electric-milliampere",
+      "katigoria": "electric",
+      "onoma": "μιλιαμπέρ",
+      "sxima_enikou": "{0} μιλιαμπέρ",
+      "sxima_plithyntikou": "{0} μιλιαμπέρ",
+      "syntomo": "{0} mA",
+      "stenó": "{0} mA"
+    },
+    {
+      "unit_code": "electric-ohm",
+      "katigoria": "electric",
+      "onoma": "ωμ",
+      "sxima_enikou": "{0} ωμ",
+      "sxima_plithyntikou": "{0} ωμ",
+      "syntomo": "{0} Ω",
+      "stenó": "{0} Ω"
+    },
+    {
+      "unit_code": "electric-volt",
+      "katigoria": "electric",
+      "onoma": "βολτ",
+      "sxima_enikou": "{0} βολτ",
+      "sxima_plithyntikou": "{0} βολτ",
+      "syntomo": "{0} V",
+      "stenó": "{0} V"
+    },
+    {
+      "unit_code": "energy-british-thermal-unit",
+      "katigoria": "energy",
+      "onoma": "βρετανικές μονάδες θερμότητας",
+      "sxima_enikou": "{0} βρετανική μονάδα θερμότητας",
+      "sxima_plithyntikou": "{0} βρετανικές μονάδες θερμότητας",
+      "syntomo": "{0} BTU",
+      "stenó": "{0} BTU"
+    },
+    {
+      "unit_code": "energy-calorie",
+      "katigoria": "energy",
+      "onoma": "θερμίδες",
+      "sxima_enikou": "{0} θερμίδα",
+      "sxima_plithyntikou": "{0} θερμίδες",
+      "syntomo": "{0} θερμ.",
+      "stenó": "{0} θερμ."
+    },
+    {
+      "unit_code": "energy-electronvolt",
+      "katigoria": "energy",
+      "onoma": "ηλεκτρονιοβόλτ",
+      "sxima_enikou": "{0} ηλεκτρονιοβόλτ",
+      "sxima_plithyntikou": "{0} ηλεκτρονιοβόλτ",
+      "syntomo": "{0} eV",
+      "stenó": "{0} eV"
+    },
+    {
+      "unit_code": "energy-foodcalorie",
+      "katigoria": "energy",
+      "onoma": "θερμίδες",
+      "sxima_enikou": "{0} θερμίδα",
+      "sxima_plithyntikou": "{0} θερμίδες",
+      "syntomo": "{0} θερμ.",
+      "stenó": "{0} θερμ."
+    },
+    {
+      "unit_code": "energy-joule",
+      "katigoria": "energy",
+      "onoma": "τζάουλ",
+      "sxima_enikou": "{0} τζάουλ",
+      "sxima_plithyntikou": "{0} τζάουλ",
+      "syntomo": "{0} J",
+      "stenó": "{0} J"
+    },
+    {
+      "unit_code": "energy-kilocalorie",
+      "katigoria": "energy",
+      "onoma": "χιλιοθερμίδες",
+      "sxima_enikou": "{0} χιλιοθερμίδα",
+      "sxima_plithyntikou": "{0} χιλιοθερμίδες",
+      "syntomo": "{0} kcal",
+      "stenó": "{0} kcal"
+    },
+    {
+      "unit_code": "energy-kilojoule",
+      "katigoria": "energy",
+      "onoma": "κιλοτζάουλ",
+      "sxima_enikou": "{0} κιλοτζάουλ",
+      "sxima_plithyntikou": "{0} κιλοτζάουλ",
+      "syntomo": "{0} kJ",
+      "stenó": "{0} kJ"
+    },
+    {
+      "unit_code": "energy-kilowatt-hour",
+      "katigoria": "energy",
+      "onoma": "κιλοβατώρες",
+      "sxima_enikou": "{0} κιλοβατώρα",
+      "sxima_plithyntikou": "{0} κιλοβατώρες",
+      "syntomo": "{0} κιλοβάτ/ώρα",
+      "stenó": "{0} kW/ώ."
+    },
+    {
+      "unit_code": "energy-therm-us",
+      "katigoria": "energy",
+      "onoma": "θερμικές μονάδες ΗΠΑ",
+      "sxima_enikou": "{0} θερμική μονάδα ΗΠΑ",
+      "sxima_plithyntikou": "{0} θερμικές μονάδες ΗΠΑ",
+      "syntomo": "{0} θερμ. μονάδες ΗΠΑ",
+      "stenó": "{0} θερμ. μονάδες ΗΠΑ"
+    },
+    {
+      "unit_code": "force-kilowatt-hour-per-100-kilometer",
+      "katigoria": "force",
+      "onoma": "κιλοβατώρες ανά 100 χιλιόμετρα",
+      "sxima_enikou": "{0} κιλοβατώρα ανά 100 χιλιόμετρα",
+      "sxima_plithyntikou": "{0} κιλοβατώρες ανά 100 χιλιόμετρα",
+      "syntomo": "{0} kWh/100 χλμ.",
+      "stenó": "{0} kWh/100 χλμ."
+    },
+    {
+      "unit_code": "force-newton",
+      "katigoria": "force",
+      "onoma": "νιούτον",
+      "sxima_enikou": "{0} νιούτον",
+      "sxima_plithyntikou": "{0} νιούτον",
+      "syntomo": "{0} N",
+      "stenó": "{0} N"
+    },
+    {
+      "unit_code": "force-pound-force",
+      "katigoria": "force",
+      "onoma": "λίβρες δύναμης",
+      "sxima_enikou": "{0} λίβρα δύναμης",
+      "sxima_plithyntikou": "{0} λίβρες δύναμης",
+      "syntomo": "{0} lbf",
+      "stenó": "{0} lbf"
+    },
+    {
+      "unit_code": "frequency-gigahertz",
+      "katigoria": "frequency",
+      "onoma": "γιγαχέρτζ",
+      "sxima_enikou": "{0} γιγαχέρτζ",
+      "sxima_plithyntikou": "{0} γιγαχέρτζ",
+      "syntomo": "{0} GHz",
+      "stenó": "{0} GHz"
+    },
+    {
+      "unit_code": "frequency-hertz",
+      "katigoria": "frequency",
+      "onoma": "χερτζ",
+      "sxima_enikou": "{0} χερτζ",
+      "sxima_plithyntikou": "{0} χερτζ",
+      "syntomo": "{0} Hz",
+      "stenó": "{0} Hz"
+    },
+    {
+      "unit_code": "frequency-kilohertz",
+      "katigoria": "frequency",
+      "onoma": "κιλοχέρτζ",
+      "sxima_enikou": "{0} κιλοχέρτζ",
+      "sxima_plithyntikou": "{0} κιλοχέρτζ",
+      "syntomo": "{0} kHz",
+      "stenó": "{0} kHz"
+    },
+    {
+      "unit_code": "frequency-megahertz",
+      "katigoria": "frequency",
+      "onoma": "μεγαχέρτζ",
+      "sxima_enikou": "{0} μεγαχέρτζ",
+      "sxima_plithyntikou": "{0} μεγαχέρτζ",
+      "syntomo": "{0} MHz",
+      "stenó": "{0} MHz"
+    },
+    {
+      "unit_code": "graphics-dot",
+      "katigoria": "graphics",
+      "onoma": "κουκκίδες",
+      "sxima_enikou": "{0} κουκκίδα",
+      "sxima_plithyntikou": "{0} κουκκίδες",
+      "syntomo": "{0} κουκ.",
+      "stenó": "{0} κουκ."
+    },
+    {
+      "unit_code": "graphics-dot-per-centimeter",
+      "katigoria": "graphics",
+      "onoma": "κουκκίδες ανά εκατοστό",
+      "sxima_enikou": "{0} κουκκίδα ανά εκατοστό",
+      "sxima_plithyntikou": "{0} κουκκίδες ανά εκατοστό",
+      "syntomo": "{0} κουκ./εκ.",
+      "stenó": "{0} κουκ./εκ."
+    },
+    {
+      "unit_code": "graphics-dot-per-inch",
+      "katigoria": "graphics",
+      "onoma": "κουκκίδες ανά ίντσα",
+      "sxima_enikou": "{0} κουκκίδα ανά ίντσα",
+      "sxima_plithyntikou": "{0} κουκκίδες ανά ίντσα",
+      "syntomo": "{0} κουκ./ίντσα",
+      "stenó": "{0} κουκ./ίντσα"
+    },
+    {
+      "unit_code": "graphics-em",
+      "katigoria": "graphics",
+      "onoma": "τυπογραφικό em",
+      "sxima_enikou": "{0} τυπογραφικό em",
+      "sxima_plithyntikou": "{0} τυπογραφικά em",
+      "syntomo": "{0} em",
+      "stenó": "{0} em"
+    },
+    {
+      "unit_code": "graphics-megapixel",
+      "katigoria": "graphics",
+      "onoma": "megapixel",
+      "sxima_enikou": "{0} megapixel",
+      "sxima_plithyntikou": "{0} megapixel",
+      "syntomo": "{0} MP",
+      "stenó": "{0} MP"
+    },
+    {
+      "unit_code": "graphics-pixel",
+      "katigoria": "graphics",
+      "onoma": "pixel",
+      "sxima_enikou": "{0} pixel",
+      "sxima_plithyntikou": "{0} pixel",
+      "syntomo": "{0} px",
+      "stenó": "{0} px"
+    },
+    {
+      "unit_code": "graphics-pixel-per-centimeter",
+      "katigoria": "graphics",
+      "onoma": "pixel ανά εκατοστό",
+      "sxima_enikou": "{0} pixel ανά εκατοστό",
+      "sxima_plithyntikou": "{0} pixel ανά εκατοστό",
+      "syntomo": "{0} ppcm",
+      "stenó": "{0} ppcm"
+    },
+    {
+      "unit_code": "graphics-pixel-per-inch",
+      "katigoria": "graphics",
+      "onoma": "pixel ανά ίντσα",
+      "sxima_enikou": "{0} pixel ανά ίντσα",
+      "sxima_plithyntikou": "{0} pixel ανά ίντσα",
+      "syntomo": "{0} ppi",
+      "stenó": "{0} ppi"
+    },
+    {
+      "unit_code": "length-astronomical-unit",
+      "katigoria": "length",
+      "onoma": "αστρονομικές μονάδες",
+      "sxima_enikou": "{0} αστρονομική μονάδα",
+      "sxima_plithyntikou": "{0} αστρονομικές μονάδες",
+      "syntomo": "{0} α.μ.",
+      "stenó": "{0} α.μ."
+    },
+    {
+      "unit_code": "length-centimeter",
+      "katigoria": "length",
+      "onoma": "εκατοστά",
+      "sxima_enikou": "{0} εκατοστό",
+      "sxima_plithyntikou": "{0} εκατοστά",
+      "syntomo": "{0} εκ.",
+      "stenó": "{0} εκ."
+    },
+    {
+      "unit_code": "length-decimeter",
+      "katigoria": "length",
+      "onoma": "δεκατόμετρα",
+      "sxima_enikou": "{0} δεκατόμετρο",
+      "sxima_plithyntikou": "{0} δεκατόμετρα",
+      "syntomo": "{0} δεκ.",
+      "stenó": "{0} δεκ."
+    },
+    {
+      "unit_code": "length-earth-radius",
+      "katigoria": "length",
+      "onoma": "ακτίνα της Γης",
+      "sxima_enikou": "{0} ακτίνα της Γης",
+      "sxima_plithyntikou": "{0} ακτίνες της Γης",
+      "syntomo": "{0} R⊕",
+      "stenó": "{0} R⊕"
+    },
+    {
+      "unit_code": "length-fathom",
+      "katigoria": "length",
+      "onoma": "οργιές",
+      "sxima_enikou": "{0} οργιά",
+      "sxima_plithyntikou": "{0} οργιές",
+      "syntomo": "{0} οργ.",
+      "stenó": "{0} οργ."
+    },
+    {
+      "unit_code": "length-foot",
+      "katigoria": "length",
+      "onoma": "πόδια",
+      "sxima_enikou": "{0} πόδι",
+      "sxima_plithyntikou": "{0} πόδια",
+      "syntomo": "{0} πδ",
+      "stenó": "{0} ft"
+    },
+    {
+      "unit_code": "length-furlong",
+      "katigoria": "length",
+      "onoma": "φέρλονγκ",
+      "sxima_enikou": "{0} φέρλονγκ",
+      "sxima_plithyntikou": "{0} φέρλονγκ",
+      "syntomo": "{0} φέρλ.",
+      "stenó": "{0} φέρλ."
+    },
+    {
+      "unit_code": "length-inch",
+      "katigoria": "length",
+      "onoma": "ίντσες",
+      "sxima_enikou": "{0} ίντσα",
+      "sxima_plithyntikou": "{0} ίντσες",
+      "syntomo": "{0} ίν.",
+      "stenó": "{0} in"
+    },
+    {
+      "unit_code": "length-kilometer",
+      "katigoria": "length",
+      "onoma": "χιλιόμετρα",
+      "sxima_enikou": "{0} χιλιόμετρο",
+      "sxima_plithyntikou": "{0} χιλιόμετρα",
+      "syntomo": "{0} χλμ.",
+      "stenó": "{0} χλμ."
+    },
+    {
+      "unit_code": "length-light-year",
+      "katigoria": "length",
+      "onoma": "έτη φωτός",
+      "sxima_enikou": "{0} έτος φωτός",
+      "sxima_plithyntikou": "{0} έτη φωτός",
+      "syntomo": "{0} έ.φ.",
+      "stenó": "{0} ly"
+    },
+    {
+      "unit_code": "length-meter",
+      "katigoria": "length",
+      "onoma": "μέτρα",
+      "sxima_enikou": "{0} μέτρο",
+      "sxima_plithyntikou": "{0} μέτρα",
+      "syntomo": "{0} μ.",
+      "stenó": "{0} μ."
+    },
+    {
+      "unit_code": "length-micrometer",
+      "katigoria": "length",
+      "onoma": "μικρόμετρα",
+      "sxima_enikou": "{0} μικρόμετρο",
+      "sxima_plithyntikou": "{0} μικρόμετρα",
+      "syntomo": "{0} μm",
+      "stenó": "{0} μm"
+    },
+    {
+      "unit_code": "length-mile",
+      "katigoria": "length",
+      "onoma": "μίλια",
+      "sxima_enikou": "{0} μίλι",
+      "sxima_plithyntikou": "{0} μίλια",
+      "syntomo": "{0} μίλ.",
+      "stenó": "{0} mi"
+    },
+    {
+      "unit_code": "length-mile-scandinavian",
+      "katigoria": "length",
+      "onoma": "σκανδιναβικά μίλια",
+      "sxima_enikou": "{0} σκανδιναβικό μίλι",
+      "sxima_plithyntikou": "{0} σκανδιναβικά μίλια",
+      "syntomo": "{0} σκανδ. μίλια",
+      "stenó": "{0}smi"
+    },
+    {
+      "unit_code": "length-millimeter",
+      "katigoria": "length",
+      "onoma": "χιλιοστόμετρα",
+      "sxima_enikou": "{0} χιλιοστόμετρο",
+      "sxima_plithyntikou": "{0} χιλιοστόμετρα",
+      "syntomo": "{0} χλστ.",
+      "stenó": "{0} χλστ."
+    },
+    {
+      "unit_code": "length-nanometer",
+      "katigoria": "length",
+      "onoma": "νανόμετρα",
+      "sxima_enikou": "{0} νανόμετρο",
+      "sxima_plithyntikou": "{0} νανόμετρα",
+      "syntomo": "{0} nm",
+      "stenó": "{0} nm"
+    },
+    {
+      "unit_code": "length-nautical-mile",
+      "katigoria": "length",
+      "onoma": "ναυτικά μίλια",
+      "sxima_enikou": "{0} ναυτικό μίλι",
+      "sxima_plithyntikou": "{0} ναυτικά μίλια",
+      "syntomo": "{0} ν.μ.",
+      "stenó": "{0} ν.μ."
+    },
+    {
+      "unit_code": "length-parsec",
+      "katigoria": "length",
+      "onoma": "παρσέκ",
+      "sxima_enikou": "{0} παρσέκ",
+      "sxima_plithyntikou": "{0} παρσέκ",
+      "syntomo": "{0} pc",
+      "stenó": "{0} pc"
+    },
+    {
+      "unit_code": "length-picometer",
+      "katigoria": "length",
+      "onoma": "πικόμετρα",
+      "sxima_enikou": "{0} πικόμετρο",
+      "sxima_plithyntikou": "{0} πικόμετρα",
+      "syntomo": "{0} pm",
+      "stenó": "{0} pm"
+    },
+    {
+      "unit_code": "length-point",
+      "katigoria": "length",
+      "onoma": "στιγμές",
+      "sxima_enikou": "{0} στιγμή",
+      "sxima_plithyntikou": "{0} στιγμές",
+      "syntomo": "{0} στ.",
+      "stenó": "{0} στ."
+    },
+    {
+      "unit_code": "length-solar-radius",
+      "katigoria": "length",
+      "onoma": "ακτίνες του Ήλιου",
+      "sxima_enikou": "{0} ακτίνα του Ήλιου",
+      "sxima_plithyntikou": "{0} ακτίνες του Ήλιου",
+      "syntomo": "{0} R☉",
+      "stenó": "{0} R☉"
+    },
+    {
+      "unit_code": "length-yard",
+      "katigoria": "length",
+      "onoma": "γιάρδες",
+      "sxima_enikou": "{0} γιάρδα",
+      "sxima_plithyntikou": "{0} γιάρδες",
+      "syntomo": "{0} γρδ",
+      "stenó": "{0} yd"
+    },
+    {
+      "unit_code": "light-candela",
+      "katigoria": "light",
+      "onoma": "καντέλα",
+      "sxima_enikou": "{0} καντέλα",
+      "sxima_plithyntikou": "{0} καντέλα",
+      "syntomo": "{0} καντ.",
+      "stenó": "{0} καντ."
+    },
+    {
+      "unit_code": "light-lumen",
+      "katigoria": "light",
+      "onoma": "λούμεν",
+      "sxima_enikou": "{0} λούμεν",
+      "sxima_plithyntikou": "{0} λούμεν",
+      "syntomo": "{0} λμ.",
+      "stenó": "{0} λμ"
+    },
+    {
+      "unit_code": "light-lux",
+      "katigoria": "light",
+      "onoma": "λουξ",
+      "sxima_enikou": "{0} λουξ",
+      "sxima_plithyntikou": "{0} λουξ",
+      "syntomo": "{0} λουξ",
+      "stenó": "{0} λουξ"
+    },
+    {
+      "unit_code": "light-solar-luminosity",
+      "katigoria": "light",
+      "onoma": "ηλιακές φωτεινότητες",
+      "sxima_enikou": "{0} ηλιακή φωτεινότητα",
+      "sxima_plithyntikou": "{0} ηλιακές φωτεινότητες",
+      "syntomo": "{0} L☉",
+      "stenó": "{0} L☉"
+    },
+    {
+      "unit_code": "mass-carat",
+      "katigoria": "mass",
+      "onoma": "καράτια",
+      "sxima_enikou": "{0} καράτι",
+      "sxima_plithyntikou": "{0} καράτια",
+      "syntomo": "{0} κρτ",
+      "stenó": "{0} κρτ"
+    },
+    {
+      "unit_code": "mass-dalton",
+      "katigoria": "mass",
+      "onoma": "Ντάλτον",
+      "sxima_enikou": "{0} Ντάλτον",
+      "sxima_plithyntikou": "{0} Ντάλτον",
+      "syntomo": "{0} Da",
+      "stenó": "{0} Da"
+    },
+    {
+      "unit_code": "mass-earth-mass",
+      "katigoria": "mass",
+      "onoma": "μάζες της Γης",
+      "sxima_enikou": "{0} μάζα της Γης",
+      "sxima_plithyntikou": "{0} μάζες της Γης",
+      "syntomo": "{0} M⊕",
+      "stenó": "{0} M⊕"
+    },
+    {
+      "unit_code": "mass-grain",
+      "katigoria": "mass",
+      "onoma": "κόκκος",
+      "sxima_enikou": "{0} κόκκος",
+      "sxima_plithyntikou": "{0} κόκκοι",
+      "syntomo": "{0} κόκ.",
+      "stenó": "{0} κόκ."
+    },
+    {
+      "unit_code": "mass-gram",
+      "katigoria": "mass",
+      "onoma": "γραμμάρια",
+      "sxima_enikou": "{0} γραμμάριο",
+      "sxima_plithyntikou": "{0} γραμμάρια",
+      "syntomo": "{0} γρ.",
+      "stenó": "{0} γρ."
+    },
+    {
+      "unit_code": "mass-kilogram",
+      "katigoria": "mass",
+      "onoma": "χιλιόγραμμα",
+      "sxima_enikou": "{0} χιλιόγραμμο",
+      "sxima_plithyntikou": "{0} χιλιόγραμμα",
+      "syntomo": "{0} κιλά",
+      "stenó": "{0} kg"
+    },
+    {
+      "unit_code": "mass-microgram",
+      "katigoria": "mass",
+      "onoma": "μικρογραμμάρια",
+      "sxima_enikou": "{0} μικρογραμμάριο",
+      "sxima_plithyntikou": "{0} μικρογραμμάρια",
+      "syntomo": "{0} μg",
+      "stenó": "{0} μg"
+    },
+    {
+      "unit_code": "mass-milligram",
+      "katigoria": "mass",
+      "onoma": "χιλιοστόγραμμα",
+      "sxima_enikou": "{0} χιλιοστόγραμμο",
+      "sxima_plithyntikou": "{0} χιλιοστόγραμμα",
+      "syntomo": "{0} mg",
+      "stenó": "{0} mg"
+    },
+    {
+      "unit_code": "mass-ounce",
+      "katigoria": "mass",
+      "onoma": "ουγγιές",
+      "sxima_enikou": "{0} ουγγιά",
+      "sxima_plithyntikou": "{0} ουγγιές",
+      "syntomo": "{0} oz",
+      "stenó": "{0} oz"
+    },
+    {
+      "unit_code": "mass-ounce-troy",
+      "katigoria": "mass",
+      "onoma": "ευγενείς ουγγιές",
+      "sxima_enikou": "{0} ευγενής ουγγιά",
+      "sxima_plithyntikou": "{0} ευγενείς ουγγιές",
+      "syntomo": "{0} oz t",
+      "stenó": "{0} oz t"
+    },
+    {
+      "unit_code": "mass-pound",
+      "katigoria": "mass",
+      "onoma": "λίβρες",
+      "sxima_enikou": "{0} λίβρα",
+      "sxima_plithyntikou": "{0} λίβρες",
+      "syntomo": "{0} λβ",
+      "stenó": "{0} λβ"
+    },
+    {
+      "unit_code": "mass-solar-mass",
+      "katigoria": "mass",
+      "onoma": "μάζες του Ήλιου",
+      "sxima_enikou": "{0} μάζα του Ήλιου",
+      "sxima_plithyntikou": "{0} μάζες του Ήλιου",
+      "syntomo": "{0} M☉",
+      "stenó": "{0} M☉"
+    },
+    {
+      "unit_code": "mass-stone",
+      "katigoria": "mass",
+      "onoma": "stone",
+      "sxima_enikou": "{0} stone",
+      "sxima_plithyntikou": "{0} stone",
+      "syntomo": "{0} st",
+      "stenó": "{0} st"
+    },
+    {
+      "unit_code": "mass-ton",
+      "katigoria": "mass",
+      "onoma": "τόνοι ΗΠΑ",
+      "sxima_enikou": "{0} τόνος ΗΠΑ",
+      "sxima_plithyntikou": "{0} τόνοι ΗΠΑ",
+      "syntomo": "{0} τ. ΗΠΑ",
+      "stenó": "{0} τ. ΗΠΑ"
+    },
+    {
+      "unit_code": "mass-tonne",
+      "katigoria": "mass",
+      "onoma": "τόνοι",
+      "sxima_enikou": "{0} τόνος",
+      "sxima_plithyntikou": "{0} τόνοι",
+      "syntomo": "{0} τ.",
+      "stenó": "{0} τ."
+    },
+    {
+      "unit_code": "power-gigawatt",
+      "katigoria": "power",
+      "onoma": "γιγαβάτ",
+      "sxima_enikou": "{0} γιγαβάτ",
+      "sxima_plithyntikou": "{0} γιγαβάτ",
+      "syntomo": "{0} GW",
+      "stenó": "{0} GW"
+    },
+    {
+      "unit_code": "power-horsepower",
+      "katigoria": "power",
+      "onoma": "ίπποι",
+      "sxima_enikou": "{0} ίππος",
+      "sxima_plithyntikou": "{0} ίπποι",
+      "syntomo": "{0} ίπ.",
+      "stenó": "{0} hp"
+    },
+    {
+      "unit_code": "power-kilowatt",
+      "katigoria": "power",
+      "onoma": "κιλοβάτ",
+      "sxima_enikou": "{0} κιλοβάτ",
+      "sxima_plithyntikou": "{0} κιλοβάτ",
+      "syntomo": "{0} kW",
+      "stenó": "{0} kW"
+    },
+    {
+      "unit_code": "power-megawatt",
+      "katigoria": "power",
+      "onoma": "μεγαβάτ",
+      "sxima_enikou": "{0} μεγαβάτ",
+      "sxima_plithyntikou": "{0} μεγαβάτ",
+      "syntomo": "{0} MW",
+      "stenó": "{0} MW"
+    },
+    {
+      "unit_code": "power-milliwatt",
+      "katigoria": "power",
+      "onoma": "μιλιβάτ",
+      "sxima_enikou": "{0} μιλιβάτ",
+      "sxima_plithyntikou": "{0} μιλιβάτ",
+      "syntomo": "{0} mW",
+      "stenó": "{0} mW"
+    },
+    {
+      "unit_code": "power-watt",
+      "katigoria": "power",
+      "onoma": "βατ",
+      "sxima_enikou": "{0} βατ",
+      "sxima_plithyntikou": "{0} βατ",
+      "syntomo": "{0} W",
+      "stenó": "{0} W"
+    },
+    {
+      "unit_code": "pressure-atmosphere",
+      "katigoria": "pressure",
+      "onoma": "ατμόσφαιρες",
+      "sxima_enikou": "{0} ατμόσφαιρα",
+      "sxima_plithyntikou": "{0} ατμόσφαιρες",
+      "syntomo": "{0} atm",
+      "stenó": "{0} atm"
+    },
+    {
+      "unit_code": "pressure-bar",
+      "katigoria": "pressure",
+      "onoma": "μπαρ",
+      "sxima_enikou": "{0} μπαρ",
+      "sxima_plithyntikou": "{0} μπαρ",
+      "syntomo": "{0} μπαρ",
+      "stenó": "{0} μπαρ"
+    },
+    {
+      "unit_code": "pressure-hectopascal",
+      "katigoria": "pressure",
+      "onoma": "εκτοπασκάλ",
+      "sxima_enikou": "{0} εκτοπασκάλ",
+      "sxima_plithyntikou": "{0} εκτοπασκάλ",
+      "syntomo": "{0} hPa",
+      "stenó": "{0} hPa"
+    },
+    {
+      "unit_code": "pressure-inch-ofhg",
+      "katigoria": "pressure",
+      "onoma": "ίντσες στήλης υδραργύρου",
+      "sxima_enikou": "{0} ίντσα στήλης υδραργύρου",
+      "sxima_plithyntikou": "{0} ίντσες στήλης υδραργύρου",
+      "syntomo": "{0} inHg",
+      "stenó": "{0} inHg"
+    },
+    {
+      "unit_code": "pressure-kilopascal",
+      "katigoria": "pressure",
+      "onoma": "κιλοπασκάλ",
+      "sxima_enikou": "{0} κιλοπασκάλ",
+      "sxima_plithyntikou": "{0} κιλοπασκάλ",
+      "syntomo": "{0} kPa",
+      "stenó": "{0} kPa"
+    },
+    {
+      "unit_code": "pressure-megapascal",
+      "katigoria": "pressure",
+      "onoma": "μεγαπασκάλ",
+      "sxima_enikou": "{0} μεγαπασκάλ",
+      "sxima_plithyntikou": "{0} μεγαπασκάλ",
+      "syntomo": "{0} MPa",
+      "stenó": "{0} MPa"
+    },
+    {
+      "unit_code": "pressure-millibar",
+      "katigoria": "pressure",
+      "onoma": "μιλιμπάρ",
+      "sxima_enikou": "{0} μιλιμπάρ",
+      "sxima_plithyntikou": "{0} μιλιμπάρ",
+      "syntomo": "{0} mbar",
+      "stenó": "{0} mbar"
+    },
+    {
+      "unit_code": "pressure-millimeter-ofhg",
+      "katigoria": "pressure",
+      "onoma": "χιλιοστόμετρα στήλης υδραργύρου",
+      "sxima_enikou": "{0} χιλιοστόμετρο στήλης υδραργύρου",
+      "sxima_plithyntikou": "{0} χιλιοστόμετρα στήλης υδραργύρου",
+      "syntomo": "{0} mmHg",
+      "stenó": "{0} mmHg"
+    },
+    {
+      "unit_code": "pressure-pascal",
+      "katigoria": "pressure",
+      "onoma": "πασκάλ",
+      "sxima_enikou": "{0} πασκάλ",
+      "sxima_plithyntikou": "{0} πασκάλ",
+      "syntomo": "{0} Pa",
+      "stenó": "{0} Pa"
+    },
+    {
+      "unit_code": "pressure-pound-force-per-square-inch",
+      "katigoria": "pressure",
+      "onoma": "λίβρες ανά τετραγωνική ίντσα",
+      "sxima_enikou": "{0} λίβρα ανά τετραγωνική ίντσα",
+      "sxima_plithyntikou": "{0} λίβρες ανά τετραγωνική ίντσα",
+      "syntomo": "{0} psi",
+      "stenó": "{0} psi"
+    },
+    {
+      "unit_code": "speed-beaufort",
+      "katigoria": "speed",
+      "onoma": "μποφόρ",
+      "sxima_enikou": "{0} μποφόρ",
+      "sxima_plithyntikou": "{0} μποφόρ",
+      "syntomo": "{0} μποφ.",
+      "stenó": "{0} Bf"
+    },
+    {
+      "unit_code": "speed-kilometer-per-hour",
+      "katigoria": "speed",
+      "onoma": "χιλιόμετρα ανά ώρα",
+      "sxima_enikou": "{0} χιλιόμετρο ανά ώρα",
+      "sxima_plithyntikou": "{0} χιλιόμετρα ανά ώρα",
+      "syntomo": "{0} χλμ./ώρα",
+      "stenó": "{0} χλμ/ώ."
+    },
+    {
+      "unit_code": "speed-knot",
+      "katigoria": "speed",
+      "onoma": "κόμβος",
+      "sxima_enikou": "{0} κόμβος",
+      "sxima_plithyntikou": "{0} κόμβοι",
+      "syntomo": "{0} κμβ",
+      "stenó": "{0} κμβ"
+    },
+    {
+      "unit_code": "speed-meter-per-second",
+      "katigoria": "speed",
+      "onoma": "μέτρα ανά δευτερόλεπτο",
+      "sxima_enikou": "{0} μέτρο ανά δευτερόλεπτο",
+      "sxima_plithyntikou": "{0} μέτρα ανά δευτερόλεπτο",
+      "syntomo": "{0} μέτρα/δευτ.",
+      "stenó": "{0} μ./δ."
+    },
+    {
+      "unit_code": "speed-mile-per-hour",
+      "katigoria": "speed",
+      "onoma": "μίλια ανά ώρα",
+      "sxima_enikou": "{0} μίλι ανά ώρα",
+      "sxima_plithyntikou": "{0} μίλια ανά ώρα",
+      "syntomo": "{0} μίλια/ώρα",
+      "stenó": "{0} μίλια/ώ."
+    },
+    {
+      "unit_code": "temperature-celsius",
+      "katigoria": "temperature",
+      "onoma": "βαθμοί Κελσίου",
+      "sxima_enikou": "{0} βαθμός Κελσίου",
+      "sxima_plithyntikou": "{0} βαθμοί Κελσίου",
+      "syntomo": "{0}°C",
+      "stenó": "{0}°C"
+    },
+    {
+      "unit_code": "temperature-fahrenheit",
+      "katigoria": "temperature",
+      "onoma": "βαθμοί Φαρενάιτ",
+      "sxima_enikou": "{0} βαθμός Φαρενάιτ",
+      "sxima_plithyntikou": "{0} βαθμοί Φαρενάιτ",
+      "syntomo": "{0}°F",
+      "stenó": "{0}°F"
+    },
+    {
+      "unit_code": "temperature-generic",
+      "katigoria": "temperature",
+      "onoma": "°",
+      "sxima_enikou": "{0} βαθμός",
+      "sxima_plithyntikou": "{0} βαθμοί",
+      "syntomo": "{0}°",
+      "stenó": "{0}°"
+    },
+    {
+      "unit_code": "temperature-kelvin",
+      "katigoria": "temperature",
+      "onoma": "βαθμοί Κέλβιν",
+      "sxima_enikou": "{0} βαθμός Κέλβιν",
+      "sxima_plithyntikou": "{0} βαθμοί Κέλβιν",
+      "syntomo": "{0} K",
+      "stenó": "{0} K"
+    },
+    {
+      "unit_code": "torque-newton-meter",
+      "katigoria": "torque",
+      "onoma": "νιουτόμετρα",
+      "sxima_enikou": "{0} νιουτόμετρο",
+      "sxima_plithyntikou": "{0} νιουτόμετρα",
+      "syntomo": "{0} N⋅m",
+      "stenó": "{0} N⋅m"
+    },
+    {
+      "unit_code": "torque-pound-force-foot",
+      "katigoria": "torque",
+      "onoma": "λίβρες-πόδια",
+      "sxima_enikou": "{0} λίβρα-πόδι",
+      "sxima_plithyntikou": "{0} λίβρες-πόδια",
+      "syntomo": "{0} λβρ⋅πδ",
+      "stenó": "{0} λβρ⋅πδ"
+    },
+    {
+      "unit_code": "volume-acre-foot",
+      "katigoria": "volume",
+      "onoma": "ακρ-πόδια",
+      "sxima_enikou": "{0} ακρ-πόδι",
+      "sxima_plithyntikou": "{0} ακρ-πόδια",
+      "syntomo": "{0} ακρ πδ",
+      "stenó": "{0} ακρ πδ"
+    },
+    {
+      "unit_code": "volume-barrel",
+      "katigoria": "volume",
+      "onoma": "βαρέλια",
+      "sxima_enikou": "{0} βαρέλι",
+      "sxima_plithyntikou": "{0} βαρέλια",
+      "syntomo": "{0} βρλ",
+      "stenó": "{0} βρλ"
+    },
+    {
+      "unit_code": "volume-bushel",
+      "katigoria": "volume",
+      "onoma": "μπούσελ",
+      "sxima_enikou": "{0} μπούσελ",
+      "sxima_plithyntikou": "{0} μπούσελ",
+      "syntomo": "{0} μπ.",
+      "stenó": "{0} μπ."
+    },
+    {
+      "unit_code": "volume-centiliter",
+      "katigoria": "volume",
+      "onoma": "εκατοστόλιτρα",
+      "sxima_enikou": "{0} εκατοστόλιτρο",
+      "sxima_plithyntikou": "{0} εκατοστόλιτρα",
+      "syntomo": "{0} cL",
+      "stenó": "{0} cL"
+    },
+    {
+      "unit_code": "volume-cubic-centimeter",
+      "katigoria": "volume",
+      "onoma": "κυβικά εκατοστά",
+      "sxima_enikou": "{0} κυβικό εκατοστό",
+      "sxima_plithyntikou": "{0} κυβικά εκατοστά",
+      "syntomo": "{0} cm³",
+      "stenó": "{0} cm³"
+    },
+    {
+      "unit_code": "volume-cubic-foot",
+      "katigoria": "volume",
+      "onoma": "κυβικά πόδια",
+      "sxima_enikou": "{0} κυβικό πόδι",
+      "sxima_plithyntikou": "{0} κυβικά πόδια",
+      "syntomo": "{0} ft³",
+      "stenó": "{0} ft³"
+    },
+    {
+      "unit_code": "volume-cubic-inch",
+      "katigoria": "volume",
+      "onoma": "κυβικές ίντσες",
+      "sxima_enikou": "{0} κυβική ίντσα",
+      "sxima_plithyntikou": "{0} κυβικές ίντσες",
+      "syntomo": "{0} in³",
+      "stenó": "{0} in³"
+    },
+    {
+      "unit_code": "volume-cubic-kilometer",
+      "katigoria": "volume",
+      "onoma": "κυβικά χιλιόμετρα",
+      "sxima_enikou": "{0} κυβικό χιλιόμετρο",
+      "sxima_plithyntikou": "{0} κυβικά χιλιόμετρα",
+      "syntomo": "{0} km³",
+      "stenó": "{0} km³"
+    },
+    {
+      "unit_code": "volume-cubic-meter",
+      "katigoria": "volume",
+      "onoma": "κυβικά μέτρα",
+      "sxima_enikou": "{0} κυβικό μέτρο",
+      "sxima_plithyntikou": "{0} κυβικά μέτρα",
+      "syntomo": "{0} m³",
+      "stenó": "{0} m³"
+    },
+    {
+      "unit_code": "volume-cubic-mile",
+      "katigoria": "volume",
+      "onoma": "κυβικά μίλια",
+      "sxima_enikou": "{0} κυβικό μίλι",
+      "sxima_plithyntikou": "{0} κυβικά μίλια",
+      "syntomo": "{0} mi³",
+      "stenó": "{0} mi³"
+    },
+    {
+      "unit_code": "volume-cubic-yard",
+      "katigoria": "volume",
+      "onoma": "κυβικές γιάρδες",
+      "sxima_enikou": "{0} κυβική γιάρδα",
+      "sxima_plithyntikou": "{0} κυβικές γιάρδες",
+      "syntomo": "{0} κυβ. γιάρδες",
+      "stenó": "{0} κυβ. γιάρδες"
+    },
+    {
+      "unit_code": "volume-cup",
+      "katigoria": "volume",
+      "onoma": "κύπελλα",
+      "sxima_enikou": "{0} κύπελλο",
+      "sxima_plithyntikou": "{0} κύπελλα",
+      "syntomo": "{0} κύπ.",
+      "stenó": "{0} κύπ."
+    },
+    {
+      "unit_code": "volume-cup-metric",
+      "katigoria": "volume",
+      "onoma": "μετρικά κύπελλα",
+      "sxima_enikou": "{0} μετρικό κύπελλο",
+      "sxima_plithyntikou": "{0} μετρικά κύπελλα",
+      "syntomo": "{0} μετρ. κύπελλα",
+      "stenó": "{0} μ. κύπ."
+    },
+    {
+      "unit_code": "volume-deciliter",
+      "katigoria": "volume",
+      "onoma": "δεκατόλιτρα",
+      "sxima_enikou": "{0} δεκατόλιτρο",
+      "sxima_plithyntikou": "{0} δεκατόλιτρα",
+      "syntomo": "{0} dL",
+      "stenó": "{0} dL"
+    },
+    {
+      "unit_code": "volume-dessert-spoon",
+      "katigoria": "volume",
+      "onoma": "κουταλιά φρούτου",
+      "sxima_enikou": "{0} κουταλιά φρούτου",
+      "sxima_plithyntikou": "{0} κουταλιές φρούτου",
+      "syntomo": "{0} κ.φρ.",
+      "stenó": "{0} κ.φρ."
+    },
+    {
+      "unit_code": "volume-dessert-spoon-imperial",
+      "katigoria": "volume",
+      "onoma": "αγγλοσαξονική κουταλιά φρούτου",
+      "sxima_enikou": "{0} αγγλοσαξονική κουταλιά φρούτου",
+      "sxima_plithyntikou": "{0} αγγλοσαξονικές κουταλιές φρούτου",
+      "syntomo": "{0} αγγλ. κουτ. φρ.",
+      "stenó": "{0} αγγλ. κ.φρ."
+    },
+    {
+      "unit_code": "volume-dram",
+      "katigoria": "volume",
+      "onoma": "δράμι",
+      "sxima_enikou": "{0} δράμι",
+      "sxima_plithyntikou": "{0} δράμια",
+      "syntomo": "{0} δρ. όγκου",
+      "stenó": "{0} δρ. όγκου"
+    },
+    {
+      "unit_code": "volume-drop",
+      "katigoria": "volume",
+      "onoma": "σταγόνα",
+      "sxima_enikou": "{0} σταγόνα",
+      "sxima_plithyntikou": "{0} σταγόνες",
+      "syntomo": "{0} σταγ.",
+      "stenó": "{0} σταγ."
+    },
+    {
+      "unit_code": "volume-fluid-ounce",
+      "katigoria": "volume",
+      "onoma": "ουγγιές όγκου",
+      "sxima_enikou": "{0} ουγγιά όγκου",
+      "sxima_plithyntikou": "{0} ουγγιές όγκου",
+      "syntomo": "{0} fl oz",
+      "stenó": "{0} fl oz"
+    },
+    {
+      "unit_code": "volume-fluid-ounce-imperial",
+      "katigoria": "volume",
+      "onoma": "αγγλοσαξονικές ουγγιές όγκου",
+      "sxima_enikou": "{0} αγγλοσαξονική ουγγιά όγκου",
+      "sxima_plithyntikou": "{0} αγγλοσαξονικές ουγγιές όγκου",
+      "syntomo": "{0} αγγλ. ουγγιές όγκου",
+      "stenó": "{0} αγγλ. ουγγιές όγκου"
+    },
+    {
+      "unit_code": "volume-gallon",
+      "katigoria": "volume",
+      "onoma": "γαλόνια",
+      "sxima_enikou": "{0} γαλόνι",
+      "sxima_plithyntikou": "{0} γαλόνια",
+      "syntomo": "{0} γαλ.",
+      "stenó": "{0} γαλ."
+    },
+    {
+      "unit_code": "volume-gallon-imperial",
+      "katigoria": "volume",
+      "onoma": "αγγλοσαξονικά γαλόνια",
+      "sxima_enikou": "{0} αγγλοσαξονικό γαλόνι",
+      "sxima_plithyntikou": "{0} αγγλοσαξονικά γαλόνια",
+      "syntomo": "{0} αγγλοσαξ. γαλόνια",
+      "stenó": "{0} αγγλοσαξ. γαλόνια"
+    },
+    {
+      "unit_code": "volume-hectoliter",
+      "katigoria": "volume",
+      "onoma": "εκτόλιτρα",
+      "sxima_enikou": "{0} εκτόλιτρο",
+      "sxima_plithyntikou": "{0} εκτόλιτρα",
+      "syntomo": "{0} hL",
+      "stenó": "{0} hL"
+    },
+    {
+      "unit_code": "volume-jigger",
+      "katigoria": "volume",
+      "onoma": "μεζούρα",
+      "sxima_enikou": "{0} μεζούρα",
+      "sxima_plithyntikou": "{0} μεζούρες",
+      "syntomo": "{0} μεζ.",
+      "stenó": "{0} μεζ."
+    },
+    {
+      "unit_code": "volume-liter",
+      "katigoria": "volume",
+      "onoma": "λίτρα",
+      "sxima_enikou": "{0} λίτρο",
+      "sxima_plithyntikou": "{0} λίτρα",
+      "syntomo": "{0} λίτ.",
+      "stenó": "{0} λ."
+    },
+    {
+      "unit_code": "volume-megaliter",
+      "katigoria": "volume",
+      "onoma": "μεγαλίτρα",
+      "sxima_enikou": "{0} μεγαλίτρο",
+      "sxima_plithyntikou": "{0} μεγαλίτρα",
+      "syntomo": "{0} ML",
+      "stenó": "{0} ML"
+    },
+    {
+      "unit_code": "volume-milliliter",
+      "katigoria": "volume",
+      "onoma": "χιλιοστόλιτρα",
+      "sxima_enikou": "{0} χιλιοστόλιτρο",
+      "sxima_plithyntikou": "{0} χιλιοστόλιτρα",
+      "syntomo": "{0} mL",
+      "stenó": "{0} mL"
+    },
+    {
+      "unit_code": "volume-pinch",
+      "katigoria": "volume",
+      "onoma": "πρέζα",
+      "sxima_enikou": "{0} πρέζα",
+      "sxima_plithyntikou": "{0} πρέζες",
+      "syntomo": "{0} πρ.",
+      "stenó": "{0} πρ."
+    },
+    {
+      "unit_code": "volume-pint",
+      "katigoria": "volume",
+      "onoma": "πίντες",
+      "sxima_enikou": "{0} πίντα",
+      "sxima_plithyntikou": "{0} πίντες",
+      "syntomo": "{0} πντ",
+      "stenó": "{0} πντ"
+    },
+    {
+      "unit_code": "volume-pint-metric",
+      "katigoria": "volume",
+      "onoma": "μετρικές πίντες",
+      "sxima_enikou": "{0} μετρική πίντα",
+      "sxima_plithyntikou": "{0} μετρικές πίντες",
+      "syntomo": "{0} μετρ. πίντες",
+      "stenó": "{0} μ. πίντες"
+    },
+    {
+      "unit_code": "volume-quart",
+      "katigoria": "volume",
+      "onoma": "τέταρτα του γαλονιού",
+      "sxima_enikou": "{0} τέταρτο του γαλονιού",
+      "sxima_plithyntikou": "{0} τέταρτα του γαλονιού",
+      "syntomo": "{0} τέτ. γαλ.",
+      "stenó": "{0} τέτ. γαλ."
+    },
+    {
+      "unit_code": "volume-quart-imperial",
+      "katigoria": "volume",
+      "onoma": "αγγλοσαξονικά τέταρτα του γαλονιού",
+      "sxima_enikou": "{0} αγγλοσαξονικό τέταρτο του γαλονιού",
+      "sxima_plithyntikou": "{0} αγγλοσαξονικά τέταρτα του γαλονιού",
+      "syntomo": "{0} αγγλ. τέτ. γαλ.",
+      "stenó": "{0} αγγλ. τέτ. γαλ."
+    },
+    {
+      "unit_code": "volume-tablespoon",
+      "katigoria": "volume",
+      "onoma": "κουταλιές της σούπας",
+      "sxima_enikou": "{0} κουταλιά της σούπας",
+      "sxima_plithyntikou": "{0} κουταλιές της σούπας",
+      "syntomo": "{0} κ.σ.",
+      "stenó": "{0} κ.σ."
+    },
+    {
+      "unit_code": "volume-teaspoon",
+      "katigoria": "volume",
+      "onoma": "κουταλιές του γλυκού",
+      "sxima_enikou": "{0} κουταλιά του γλυκού",
+      "sxima_plithyntikou": "{0} κουταλιές του γλυκού",
+      "syntomo": "{0} κ.γ.",
+      "stenó": "{0} κ.γ."
+    }
+  ],
+  "meta": {
+    "title": "Μονάδες μέτρησης (CLDR Ελληνικά) - Free Download",
+    "description": "Μονάδες μέτρησης και τα ελληνικά ονόματα και πρότυπα από το CLDR units.json (long/short/narrow). Contains 186 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Μονάδες μέτρησης (CLDR Ελληνικά) | ListBase",
+    "seo_description": "Download Μονάδες μέτρησης (CLDR Ελληνικά) — 186 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 186 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://github.com/unicode-org/cldr"
+    ]
+  }
+}

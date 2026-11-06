@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-05T02:54:40.837Z",
-  "total_datasets": 483,
-  "total_records": 196438,
+  "generated": "2026-11-06T02:28:18.507Z",
+  "total_datasets": 484,
+  "total_records": 196624,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 2
+      "dataset_count": 3
     }
   ],
   "datasets": [
@@ -14625,6 +14625,34 @@
         "xlsx": {
           "name": "el-arxaia-nomismatika-protypa_EL.xlsx",
           "size": 7820
+        }
+      }
+    },
+    {
+      "id": "el-monades-metrisis",
+      "name": "Μονάδες μέτρησης (CLDR Ελληνικά)",
+      "category": "units",
+      "record_count": 186,
+      "columns": [
+        "unit_code",
+        "katigoria",
+        "onoma",
+        "sxima_enikou",
+        "sxima_plithyntikou",
+        "syntomo",
+        "stenó"
+      ],
+      "source": "https://github.com/unicode-org/cldr",
+      "updated": "2026-11",
+      "size": 56672,
+      "files": {
+        "csv": {
+          "name": "el-monades-metrisis_EL.csv",
+          "size": 25978
+        },
+        "xlsx": {
+          "name": "el-monades-metrisis_EL.xlsx",
+          "size": 16877
         }
       }
     },
