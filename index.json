@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-06T02:28:47.657Z",
-  "total_datasets": 487,
-  "total_records": 196724,
+  "generated": "2026-11-06T02:28:58.001Z",
+  "total_datasets": 488,
+  "total_records": 196736,
   "categories": [
     {
       "id": "agriculture",
@@ -86,7 +86,7 @@
     },
     {
       "id": "time",
-      "dataset_count": 18
+      "dataset_count": 19
     },
     {
       "id": "tourism",
@@ -12809,6 +12809,30 @@
         "xlsx": {
           "name": "el-argies-completos_EL.xlsx",
           "size": 42065
+        }
+      }
+    },
+    {
+      "id": "el-attikoi-mines",
+      "name": "Αττικοί μήνες",
+      "category": "time",
+      "record_count": 12,
+      "columns": [
+        "minas",
+        "elliniko_onoma",
+        "isodynamo_gregorian"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement",
+      "updated": "2026-11",
+      "size": 3307,
+      "files": {
+        "csv": {
+          "name": "el-attikoi-mines_EL.csv",
+          "size": 716
+        },
+        "xlsx": {
+          "name": "el-attikoi-mines_EL.xlsx",
+          "size": 7300
         }
       }
     },

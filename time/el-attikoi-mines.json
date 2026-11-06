@@ -1,0 +1,101 @@
+{
+  "id": "el-attikoi-mines",
+  "name": "Αττικοί μήνες",
+  "title": "Αττικοί μήνες",
+  "description": "Οι δώδεκα μήνες του αττικού ημερολογίου με ελληνικό όνομα και αντίστοιχη περίοδο στο γρηγοριανό ημερολόγιο.",
+  "category": "time",
+  "source": "https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement",
+  "source_url": "https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement",
+  "updated": "2026-11",
+  "record_count": 12,
+  "columns": [
+    {
+      "key": "minas",
+      "label": "Minas",
+      "type": "string"
+    },
+    {
+      "key": "elliniko_onoma",
+      "label": "Elliniko Onoma",
+      "type": "string"
+    },
+    {
+      "key": "isodynamo_gregorian",
+      "label": "Isodynamo Gregorian",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "minas": "Hecatombaeon",
+      "elliniko_onoma": "Ἑκατομβαιών",
+      "isodynamo_gregorian": "June–July"
+    },
+    {
+      "minas": "Metageitnion",
+      "elliniko_onoma": "Μεταγειτνιών",
+      "isodynamo_gregorian": "July–August"
+    },
+    {
+      "minas": "Boedromion",
+      "elliniko_onoma": "Βοηδρομιών",
+      "isodynamo_gregorian": "August–September"
+    },
+    {
+      "minas": "Pyanepsion",
+      "elliniko_onoma": "Πυανεψιών",
+      "isodynamo_gregorian": "September–October"
+    },
+    {
+      "minas": "Maemacterion",
+      "elliniko_onoma": "Μαιμακτηριών",
+      "isodynamo_gregorian": "October–November"
+    },
+    {
+      "minas": "Poseideon",
+      "elliniko_onoma": "Ποσειδεών",
+      "isodynamo_gregorian": "November–December"
+    },
+    {
+      "minas": "Gamelion",
+      "elliniko_onoma": "Γαμηλιών",
+      "isodynamo_gregorian": "December–January"
+    },
+    {
+      "minas": "Anthesterion",
+      "elliniko_onoma": "Ἀνθεστηριών",
+      "isodynamo_gregorian": "January–February"
+    },
+    {
+      "minas": "Elaphebolion",
+      "elliniko_onoma": "Ἐλαφηβολιών",
+      "isodynamo_gregorian": "February–March"
+    },
+    {
+      "minas": "Munychion",
+      "elliniko_onoma": "Μουνυχιών",
+      "isodynamo_gregorian": "March–April"
+    },
+    {
+      "minas": "Thargelion",
+      "elliniko_onoma": "Θαργηλιών",
+      "isodynamo_gregorian": "April–May"
+    },
+    {
+      "minas": "Scirophorion",
+      "elliniko_onoma": "Σκιροφοριών",
+      "isodynamo_gregorian": "May–June"
+    }
+  ],
+  "meta": {
+    "title": "Αττικοί μήνες - Free Download",
+    "description": "Οι δώδεκα μήνες του αττικού ημερολογίου με ελληνικό όνομα και αντίστοιχη περίοδο στο γρηγοριανό ημερολόγιο. Contains 12 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αττικοί μήνες | ListBase",
+    "seo_description": "Download Αττικοί μήνες — 12 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 12 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement"
+    ]
+  }
+}
