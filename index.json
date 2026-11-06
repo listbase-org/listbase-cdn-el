@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-06T02:28:18.507Z",
-  "total_datasets": 484,
-  "total_records": 196624,
+  "generated": "2026-11-06T02:28:27.790Z",
+  "total_datasets": 485,
+  "total_records": 196646,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 3
+      "dataset_count": 4
     }
   ],
   "datasets": [
@@ -14653,6 +14653,33 @@
         "xlsx": {
           "name": "el-monades-metrisis_EL.xlsx",
           "size": 16877
+        }
+      }
+    },
+    {
+      "id": "el-prothemata-si",
+      "name": "Προθέματα SI στα ελληνικά",
+      "category": "units",
+      "record_count": 22,
+      "columns": [
+        "diethnes_onoma",
+        "symbolo",
+        "ellinika",
+        "pollaplasiasitis",
+        "klimaka",
+        "paradeigma"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Διεθνές_σύστημα_μονάδων",
+      "updated": "2026-11",
+      "size": 7213,
+      "files": {
+        "csv": {
+          "name": "el-prothemata-si_EL.csv",
+          "size": 2130
+        },
+        "xlsx": {
+          "name": "el-prothemata-si_EL.xlsx",
+          "size": 7969
         }
       }
     },

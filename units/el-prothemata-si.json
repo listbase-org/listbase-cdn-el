@@ -1,0 +1,232 @@
+{
+  "id": "el-prothemata-si",
+  "name": "Προθέματα SI στα ελληνικά",
+  "title": "Προθέματα SI στα ελληνικά",
+  "description": "Προθέματα του Διεθνούς Συστήματος Μονάδων (SI) με διεθνές όνομα, σύμβολο, ελληνική απόδοση, πολλαπλασιαστή και παράδειγμα.",
+  "category": "units",
+  "source": "https://el.wikipedia.org/wiki/Διεθνές_σύστημα_μονάδων",
+  "source_url": "https://el.wikipedia.org/wiki/Διεθνές_σύστημα_μονάδων",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "diethnes_onoma",
+      "label": "Diethnes Onoma",
+      "type": "string"
+    },
+    {
+      "key": "symbolo",
+      "label": "Symbolo",
+      "type": "string"
+    },
+    {
+      "key": "ellinika",
+      "label": "Ellinika",
+      "type": "string"
+    },
+    {
+      "key": "pollaplasiasitis",
+      "label": "Pollaplasiasitis",
+      "type": "string"
+    },
+    {
+      "key": "klimaka",
+      "label": "Klimaka",
+      "type": "string"
+    },
+    {
+      "key": "paradeigma",
+      "label": "Paradeigma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "diethnes_onoma": "yotta",
+      "symbolo": "Y",
+      "ellinika": "γιοττα",
+      "pollaplasiasitis": "10^24",
+      "klimaka": "επτάκις εκατομμυριάδα",
+      "paradeigma": "γιοττάμετρο"
+    },
+    {
+      "diethnes_onoma": "zetta",
+      "symbolo": "Ζ",
+      "ellinika": "ζεττα",
+      "pollaplasiasitis": "10^21",
+      "klimaka": "εξάκις εκατομμυριάδα",
+      "paradeigma": "ζεττάμετρο"
+    },
+    {
+      "diethnes_onoma": "exa",
+      "symbolo": "E",
+      "ellinika": "εξα",
+      "pollaplasiasitis": "10^18",
+      "klimaka": "πεντάκις εκατομμυριάδα",
+      "paradeigma": "εξάμετρο"
+    },
+    {
+      "diethnes_onoma": "peta",
+      "symbolo": "P",
+      "ellinika": "πετα",
+      "pollaplasiasitis": "10^15",
+      "klimaka": "τετράκις εκατομμυριάδα",
+      "paradeigma": "πετάμετρο"
+    },
+    {
+      "diethnes_onoma": "tera",
+      "symbolo": "T",
+      "ellinika": "τερα",
+      "pollaplasiasitis": "10^12",
+      "klimaka": "τρισεκατομμυριάδα",
+      "paradeigma": "τεράμετρο"
+    },
+    {
+      "diethnes_onoma": "giga",
+      "symbolo": "G",
+      "ellinika": "γιγα",
+      "pollaplasiasitis": "10^9",
+      "klimaka": "δισεκατομμυριάδα",
+      "paradeigma": "γιγάμετρο"
+    },
+    {
+      "diethnes_onoma": "mega",
+      "symbolo": "M",
+      "ellinika": "μεγα",
+      "pollaplasiasitis": "10^6",
+      "klimaka": "εκατομμυριάδα",
+      "paradeigma": "μεγάμετρο"
+    },
+    {
+      "diethnes_onoma": "kilo",
+      "symbolo": "k",
+      "ellinika": "χιλιο",
+      "pollaplasiasitis": "10^3",
+      "klimaka": "χιλιάδα",
+      "paradeigma": "χιλιόμετρο"
+    },
+    {
+      "diethnes_onoma": "hecto",
+      "symbolo": "h",
+      "ellinika": "εκατο",
+      "pollaplasiasitis": "10^2",
+      "klimaka": "εκατοντάδα",
+      "paradeigma": "εκατόμετρο"
+    },
+    {
+      "diethnes_onoma": "deca",
+      "symbolo": "da",
+      "ellinika": "δεκα",
+      "pollaplasiasitis": "10^1",
+      "klimaka": "δεκάδα",
+      "paradeigma": "δεκάμετρο"
+    },
+    {
+      "diethnes_onoma": "unit",
+      "symbolo": "un",
+      "ellinika": "μονό",
+      "pollaplasiasitis": "10^0 = 1",
+      "klimaka": "μονάδα",
+      "paradeigma": "μέτρο"
+    },
+    {
+      "diethnes_onoma": "Υποπολλαπλάσια",
+      "symbolo": "Υποπολλαπλάσια",
+      "ellinika": "Υποπολλαπλάσια",
+      "pollaplasiasitis": "Υποπολλαπλάσια",
+      "klimaka": "Υποπολλαπλάσια",
+      "paradeigma": "Υποπολλαπλάσια"
+    },
+    {
+      "diethnes_onoma": "deci",
+      "symbolo": "d",
+      "ellinika": "δεκατο",
+      "pollaplasiasitis": "10^-1",
+      "klimaka": "δέκατο",
+      "paradeigma": "δεκατόμετρο"
+    },
+    {
+      "diethnes_onoma": "centi",
+      "symbolo": "c",
+      "ellinika": "εκατοστο",
+      "pollaplasiasitis": "10^-2",
+      "klimaka": "εκατοστό",
+      "paradeigma": "εκατοστόμετρο"
+    },
+    {
+      "diethnes_onoma": "milli",
+      "symbolo": "m",
+      "ellinika": "χιλιοστο",
+      "pollaplasiasitis": "10^-3",
+      "klimaka": "χιλιοστό",
+      "paradeigma": "χιλιοστόμετρο"
+    },
+    {
+      "diethnes_onoma": "micro",
+      "symbolo": "μ",
+      "ellinika": "μικρο",
+      "pollaplasiasitis": "10^-6",
+      "klimaka": "εκατομμυριοστό",
+      "paradeigma": "μικρόμετρο"
+    },
+    {
+      "diethnes_onoma": "nano",
+      "symbolo": "n",
+      "ellinika": "νανο",
+      "pollaplasiasitis": "10^-9",
+      "klimaka": "δισεκατομμυριοστό",
+      "paradeigma": "νανόμετρο"
+    },
+    {
+      "diethnes_onoma": "pico",
+      "symbolo": "p",
+      "ellinika": "πικο",
+      "pollaplasiasitis": "10^-12",
+      "klimaka": "τρισεκατομμυριοστό",
+      "paradeigma": "πικόμετρο"
+    },
+    {
+      "diethnes_onoma": "femto",
+      "symbolo": "f",
+      "ellinika": "φεμτο",
+      "pollaplasiasitis": "10^-15",
+      "klimaka": "τετράκις εκατομμυριοστό",
+      "paradeigma": "φεμτόμετρο (φέρμι)"
+    },
+    {
+      "diethnes_onoma": "atto",
+      "symbolo": "a",
+      "ellinika": "αττο",
+      "pollaplasiasitis": "10^-18",
+      "klimaka": "πεντάκις εκατομμυριοστό",
+      "paradeigma": "αττόμετρο"
+    },
+    {
+      "diethnes_onoma": "zepto",
+      "symbolo": "z",
+      "ellinika": "ζεπτο",
+      "pollaplasiasitis": "10^-21",
+      "klimaka": "εξάκις εκατομμυριοστό",
+      "paradeigma": "ζεπτόμετρο"
+    },
+    {
+      "diethnes_onoma": "yocto",
+      "symbolo": "y",
+      "ellinika": "γιοκτο",
+      "pollaplasiasitis": "10^-24",
+      "klimaka": "επτάκις εκατομμυριοστό",
+      "paradeigma": "γιοκτόμετρο"
+    }
+  ],
+  "meta": {
+    "title": "Προθέματα SI στα ελληνικά - Free Download",
+    "description": "Προθέματα του Διεθνούς Συστήματος Μονάδων (SI) με διεθνές όνομα, σύμβολο, ελληνική απόδοση, πολλαπλασιαστή και παράδειγμα. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Προθέματα SI στα ελληνικά | ListBase",
+    "seo_description": "Download Προθέματα SI στα ελληνικά — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Διεθνές_σύστημα_μονάδων"
+    ]
+  }
+}
