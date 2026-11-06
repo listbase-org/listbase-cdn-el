@@ -1,0 +1,592 @@
+{
+  "id": "el-arxaies-ellinikes-monades",
+  "name": "Αρχαίες ελληνικές μονάδες μέτρησης",
+  "title": "Αρχαίες ελληνικές μονάδες μέτρησης",
+  "description": "Μονάδες μήκους, εμβαδού, όγκου και βάρους της αρχαίας Ελλάδας με ελληνικό όνομα και σύγχρονα ισοδύναμα.",
+  "category": "units",
+  "source": "https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement",
+  "source_url": "https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement",
+  "updated": "2026-11",
+  "record_count": 67,
+  "columns": [
+    {
+      "key": "monada",
+      "label": "Monada",
+      "type": "string"
+    },
+    {
+      "key": "elliniko_onoma",
+      "label": "Elliniko Onoma",
+      "type": "string"
+    },
+    {
+      "key": "isodynamo",
+      "label": "Isodynamo",
+      "type": "string"
+    },
+    {
+      "key": "synchrono",
+      "label": "Synchrono",
+      "type": "string"
+    },
+    {
+      "key": "perigrafi",
+      "label": "Perigrafi",
+      "type": "string"
+    },
+    {
+      "key": "katigoria",
+      "label": "Katigoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "monada": "daktylos",
+      "elliniko_onoma": "δάκτυλος",
+      "isodynamo": "",
+      "synchrono": "19.3 mm (0.76 in)",
+      "perigrafi": "finger",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "kondylos",
+      "elliniko_onoma": "κόνδυλος",
+      "isodynamo": "2 daktyloi",
+      "synchrono": "38.5 mm (1.52 in)",
+      "perigrafi": "knuckle",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "palaistē or dōron",
+      "elliniko_onoma": "παλαιστή, δῶρον",
+      "isodynamo": "4 daktyloi",
+      "synchrono": "77.1 mm (3.04 in)",
+      "perigrafi": "palm",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "dichas or hēmipodion",
+      "elliniko_onoma": "διχάς, ἡμιπόδιον",
+      "isodynamo": "8 daktyloi",
+      "synchrono": "154.1 mm (6.07 in)",
+      "perigrafi": "half foot",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "lichas",
+      "elliniko_onoma": "λιχάς",
+      "isodynamo": "10 daktyloi",
+      "synchrono": "192.6 mm (7.58 in)",
+      "perigrafi": "distance from thumb-tip to tip of outstretched index finger",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "orthodōron",
+      "elliniko_onoma": "ὀρθόδωρον",
+      "isodynamo": "11 daktyloi",
+      "synchrono": "211.9 mm (8.34 in)",
+      "perigrafi": "straight hand's width",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "spithamē",
+      "elliniko_onoma": "σπιθαμή",
+      "isodynamo": "12 daktyloi",
+      "synchrono": "231.2 mm (9.10 in)",
+      "perigrafi": "span of all fingers",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "pous",
+      "elliniko_onoma": "πούς",
+      "isodynamo": "16 daktyloi",
+      "synchrono": "308.2 mm (12.13 in)",
+      "perigrafi": "foot",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "pygmē",
+      "elliniko_onoma": "πυγμή",
+      "isodynamo": "18 daktyloi",
+      "synchrono": "346.8 mm (13.65 in)",
+      "perigrafi": "forearm",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "pygōn",
+      "elliniko_onoma": "πυγών",
+      "isodynamo": "20 daktyloi",
+      "synchrono": "385.3 mm (15.17 in)",
+      "perigrafi": "distance from elbow to fist",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "pēchys",
+      "elliniko_onoma": "πῆχυς",
+      "isodynamo": "24 daktyloi",
+      "synchrono": "462.3 mm (18.20 in)",
+      "perigrafi": "cubit",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "elliniko_onoma": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "isodynamo": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "synchrono": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "perigrafi": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "katigoria": "μήκος"
+    },
+    {
+      "monada": "pous",
+      "elliniko_onoma": "πούς",
+      "isodynamo": "",
+      "synchrono": "0.308 m (1.01 ft)",
+      "perigrafi": "foot",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "haploun bēma",
+      "elliniko_onoma": "ἁπλοῦν βῆμα",
+      "isodynamo": "2 + 1 ⁄ 2 podes",
+      "synchrono": "0.77 m (2.5 ft)",
+      "perigrafi": "step",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "bēma, diploun bēma",
+      "elliniko_onoma": "βῆμα, διπλοῦν βῆμα",
+      "isodynamo": "5 podes",
+      "synchrono": "1.54 m (5.1 ft)",
+      "perigrafi": "pace",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "orgyia",
+      "elliniko_onoma": "ὄργυια",
+      "isodynamo": "6 podes",
+      "synchrono": "1.85 m (6.1 ft)",
+      "perigrafi": "fathom",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "kalamos, akaina or dekapous",
+      "elliniko_onoma": "κάλαμος, ἄκαινα, δεκάπους",
+      "isodynamo": "10 podes",
+      "synchrono": "3.08 m (10.1 ft)",
+      "perigrafi": "10 feet",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "hamma",
+      "elliniko_onoma": "ἅμμα",
+      "isodynamo": "60 podes",
+      "synchrono": "18.5 m (20.2 yd)",
+      "perigrafi": "knot, link of a chain",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "plethron",
+      "elliniko_onoma": "πλέθρον",
+      "isodynamo": "100 podes",
+      "synchrono": "30.8 m (33.7 yd)",
+      "perigrafi": "100 feet",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "stadion",
+      "elliniko_onoma": "στάδιον",
+      "isodynamo": "600 podes",
+      "synchrono": "184.9 m (202.2 yd)",
+      "perigrafi": "an eighth of a Roman mile",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "diaulos",
+      "elliniko_onoma": "δίαυλος",
+      "isodynamo": "2 stadia",
+      "synchrono": "369.9 m (404.5 yd)",
+      "perigrafi": "double pipe",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "hippikon",
+      "elliniko_onoma": "ἱππικόν",
+      "isodynamo": "4 stadia",
+      "synchrono": "739.7 m (808.9 yd)",
+      "perigrafi": "length of a hippodrome",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "milion",
+      "elliniko_onoma": "μίλιον",
+      "isodynamo": "8 stadia",
+      "synchrono": "1.479 km (1,617 yd)",
+      "perigrafi": "Roman mile",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "dolichos",
+      "elliniko_onoma": "δόλιχος",
+      "isodynamo": "12 stadia",
+      "synchrono": "2.219 km (1.379 mi)",
+      "perigrafi": "long race",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "parasanges, or league",
+      "elliniko_onoma": "παρασάγγης",
+      "isodynamo": "30 stadia",
+      "synchrono": "5.548 km (3.447 mi)",
+      "perigrafi": "adopted from Persia",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "schoinos",
+      "elliniko_onoma": "σχοινός",
+      "isodynamo": "40 stadia",
+      "synchrono": "7.397 km (4.596 mi)",
+      "perigrafi": "adopted from Egypt",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "stage",
+      "elliniko_onoma": "",
+      "isodynamo": "160 stadia",
+      "synchrono": "29.8 km (18.5 mi)",
+      "perigrafi": "",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "elliniko_onoma": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "isodynamo": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "synchrono": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "perigrafi": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "katigoria": "μήκος_μεγάλο"
+    },
+    {
+      "monada": "pous",
+      "elliniko_onoma": "πούς",
+      "isodynamo": "",
+      "synchrono": "950 cm 2 (1.02 sq ft)",
+      "perigrafi": "square foot",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "hexapodēs",
+      "elliniko_onoma": "ἑξαπόδης",
+      "isodynamo": "36 podes",
+      "synchrono": "3.42 m 2 (36.8 sq ft)",
+      "perigrafi": "square six-foot",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "akaina",
+      "elliniko_onoma": "ἄκαινα",
+      "isodynamo": "100 podes",
+      "synchrono": "9.50 m 2 (102.3 sq ft)",
+      "perigrafi": "rod",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "hēmiektos",
+      "elliniko_onoma": "ἡμίεκτος",
+      "isodynamo": "833 + 1 ⁄ 3 podes",
+      "synchrono": "79.2 m 2 (853 sq ft)",
+      "perigrafi": "half a sixth",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "hektos",
+      "elliniko_onoma": "ἕκτος",
+      "isodynamo": "1,666 + 2 ⁄ 3 podes",
+      "synchrono": "158.3 m 2 (1,704 sq ft)",
+      "perigrafi": "a sixth of a plethron",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "aroura",
+      "elliniko_onoma": "ἄρουρα",
+      "isodynamo": "2,500 podes",
+      "synchrono": "237.5 m 2 (2,556 sq ft)",
+      "perigrafi": "field",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "plethron",
+      "elliniko_onoma": "πλέθρον",
+      "isodynamo": "10,000 podes",
+      "synchrono": "950 m 2 (10,200 sq ft)",
+      "perigrafi": "",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "elliniko_onoma": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "isodynamo": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "synchrono": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "perigrafi": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "katigoria": "εμβαδόν"
+    },
+    {
+      "monada": "kochliarion",
+      "elliniko_onoma": "κοχλιάριον",
+      "isodynamo": "",
+      "synchrono": "4.5 mL (0.15 US fl oz; 0.16 imp fl oz)",
+      "perigrafi": "spoon",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "chēmē",
+      "elliniko_onoma": "χήμη",
+      "isodynamo": "2 kochliaria",
+      "synchrono": "9.1 mL (0.31 US fl oz; 0.32 imp fl oz)",
+      "perigrafi": "a measure",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "mystron",
+      "elliniko_onoma": "μύστρον",
+      "isodynamo": "2 + 1 ⁄ 2 kochliaria",
+      "synchrono": "11.4 mL (0.39 US fl oz; 0.40 imp fl oz)",
+      "perigrafi": "Roman ligula",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "konchē",
+      "elliniko_onoma": "κόγχη",
+      "isodynamo": "5 kochliaria",
+      "synchrono": "22.7 mL (0.77 US fl oz; 0.80 imp fl oz)",
+      "perigrafi": "shell-full",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "kyathos",
+      "elliniko_onoma": "κύαθος",
+      "isodynamo": "10 kochliaria",
+      "synchrono": "45.5 mL (1.54 US fl oz; 1.60 imp fl oz)",
+      "perigrafi": "Roman cyathus",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "oxybaphon",
+      "elliniko_onoma": "ὀξυβαφον",
+      "isodynamo": "1 + 1 ⁄ 2 kyathoi",
+      "synchrono": "68.2 mL (2.31 US fl oz; 2.40 imp fl oz)",
+      "perigrafi": "Roman acetabulum",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "tetarton, hēmikotylē",
+      "elliniko_onoma": "τέταρτον, ἡμικοτύλη",
+      "isodynamo": "3 kyathoi",
+      "synchrono": "136.4 mL (4.61 US fl oz; 4.80 imp fl oz)",
+      "perigrafi": "Roman quartarius",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "kotylē, tryblion or hēmina",
+      "elliniko_onoma": "κοτύλη, τρύβλιον, ἡμίνα",
+      "isodynamo": "6 kyathoi",
+      "synchrono": "272.8 mL (9.22 US fl oz; 9.60 imp fl oz)",
+      "perigrafi": "Roman cotyla or hemina",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "xestēs",
+      "elliniko_onoma": "ξέστης",
+      "isodynamo": "12 kyathoi",
+      "synchrono": "545.5 mL (1.153 US pt; 0.960 imp pt)",
+      "perigrafi": "Roman sextarius",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "chous",
+      "elliniko_onoma": "χοῦς",
+      "isodynamo": "72 kyathoi",
+      "synchrono": "3.27 L (6.9 US pt; 5.75 imp pt)",
+      "perigrafi": "Roman congius",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "keramion",
+      "elliniko_onoma": "κεράμιον",
+      "isodynamo": "8 choes",
+      "synchrono": "26.2 L (6.9 US gal; 5.8 imp gal)",
+      "perigrafi": "Roman amphora quadrantal",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "metrētēs",
+      "elliniko_onoma": "μετρητής",
+      "isodynamo": "12 choes",
+      "synchrono": "39.3 L (10.4 US gal; 8.6 imp gal)",
+      "perigrafi": "amphora",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "elliniko_onoma": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "isodynamo": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "synchrono": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "perigrafi": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "katigoria": "όγκος_υγρών"
+    },
+    {
+      "monada": "kochliarion",
+      "elliniko_onoma": "κοχλιάριον",
+      "isodynamo": "",
+      "synchrono": "4.5 mL (0.15 US fl oz; 0.16 imp fl oz)",
+      "perigrafi": "",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "kyathos",
+      "elliniko_onoma": "κύαθος",
+      "isodynamo": "10 kochliaria",
+      "synchrono": "45.5 mL (1.54 US fl oz; 1.60 imp fl oz)",
+      "perigrafi": "Roman cyathus",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "oxybaphon",
+      "elliniko_onoma": "ὀξυβαφον",
+      "isodynamo": "1 + 1 ⁄ 2 kyathoi",
+      "synchrono": "68.2 mL (2.31 US fl oz; 2.40 imp fl oz)",
+      "perigrafi": "Roman acetabulum",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "kotylē or hēmina",
+      "elliniko_onoma": "κοτύλη, ἡμίνα",
+      "isodynamo": "6 kyathoi",
+      "synchrono": "272.8 mL (9.22 US fl oz; 9.60 imp fl oz)",
+      "perigrafi": "Roman cotyla or hemina",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "xestēs",
+      "elliniko_onoma": "ξέστης",
+      "isodynamo": "12 kyathoi",
+      "synchrono": "545.5 mL (1.153 US pt; 0.960 imp pt)",
+      "perigrafi": "Roman sextarius",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "choinix",
+      "elliniko_onoma": "χοῖνιξ",
+      "isodynamo": "24 kyathoi",
+      "synchrono": "1.09 L (2.3 US pt; 1.92 imp pt)",
+      "perigrafi": "The daily grain ration of an adult man.",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "hēmiekton",
+      "elliniko_onoma": "ἡμίεκτον",
+      "isodynamo": "4 choinikes",
+      "synchrono": "4.36 L (1.15 US gal; 0.96 imp gal)",
+      "perigrafi": "Roman semimodius",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "hekteus",
+      "elliniko_onoma": "ἑκτεύς",
+      "isodynamo": "8 choinikes",
+      "synchrono": "8.73 L (2.31 US gal; 1.92 imp gal)",
+      "perigrafi": "Roman modius",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "medimnos",
+      "elliniko_onoma": "μέδιμνος",
+      "isodynamo": "48 choinikes",
+      "synchrono": "52.4 L (13.8 US gal; 11.5 imp gal)",
+      "perigrafi": "",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "elliniko_onoma": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "isodynamo": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "synchrono": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "perigrafi": "Except where noted, based on Smith (1851). Metric equivalents are approximate.",
+      "katigoria": "όγκος"
+    },
+    {
+      "monada": "obol or obolus",
+      "elliniko_onoma": "ὀβολός",
+      "isodynamo": "1 ⁄ 6 drachma, 4 tetartemorions",
+      "synchrono": "0.72 g (0.023 ozt)",
+      "perigrafi": "",
+      "katigoria": "βάρος"
+    },
+    {
+      "monada": "drachma",
+      "elliniko_onoma": "δραχμή",
+      "isodynamo": "6 obols",
+      "synchrono": "4.3 g (0.14 ozt)",
+      "perigrafi": "",
+      "katigoria": "βάρος"
+    },
+    {
+      "monada": "mina",
+      "elliniko_onoma": "μνᾶ",
+      "isodynamo": "100 drachmae",
+      "synchrono": "",
+      "perigrafi": "",
+      "katigoria": "βάρος"
+    },
+    {
+      "monada": "talent",
+      "elliniko_onoma": "τάλαντον",
+      "isodynamo": "60 minae",
+      "synchrono": "",
+      "perigrafi": "",
+      "katigoria": "βάρος"
+    },
+    {
+      "monada": "obol or obolus",
+      "elliniko_onoma": "ὀβολός",
+      "isodynamo": "",
+      "synchrono": "0.72 g (0.025 oz)",
+      "perigrafi": "1.05 g (0.037 oz)",
+      "katigoria": "βάρος_νομισματικό"
+    },
+    {
+      "monada": "drachma",
+      "elliniko_onoma": "δραχμή",
+      "isodynamo": "6 obols",
+      "synchrono": "4.31 g (0.152 oz)",
+      "perigrafi": "6.3 g (0.22 oz)",
+      "katigoria": "βάρος_νομισματικό"
+    },
+    {
+      "monada": "mina",
+      "elliniko_onoma": "μνᾶ",
+      "isodynamo": "100 drachmae",
+      "synchrono": "431 g (15.2 oz)",
+      "perigrafi": "630 g (22 oz)",
+      "katigoria": "βάρος_νομισματικό"
+    },
+    {
+      "monada": "talent",
+      "elliniko_onoma": "τάλαντον",
+      "isodynamo": "60 minae",
+      "synchrono": "25.86 kg (57.0 lb)",
+      "perigrafi": "37.8 kg (83 lb)",
+      "katigoria": "βάρος_νομισματικό"
+    }
+  ],
+  "meta": {
+    "title": "Αρχαίες ελληνικές μονάδες μέτρησης - Free Download",
+    "description": "Μονάδες μήκους, εμβαδού, όγκου και βάρους της αρχαίας Ελλάδας με ελληνικό όνομα και σύγχρονα ισοδύναμα. Contains 67 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αρχαίες ελληνικές μονάδες μέτρησης | ListBase",
+    "seo_description": "Download Αρχαίες ελληνικές μονάδες μέτρησης — 67 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 67 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement"
+    ]
+  }
+}

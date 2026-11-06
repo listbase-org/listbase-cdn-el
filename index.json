@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-06T02:28:37.318Z",
-  "total_datasets": 486,
-  "total_records": 196657,
+  "generated": "2026-11-06T02:28:47.657Z",
+  "total_datasets": 487,
+  "total_records": 196724,
   "categories": [
     {
       "id": "agriculture",
@@ -98,7 +98,7 @@
     },
     {
       "id": "units",
-      "dataset_count": 5
+      "dataset_count": 6
     }
   ],
   "datasets": [
@@ -14625,6 +14625,33 @@
         "xlsx": {
           "name": "el-arxaia-nomismatika-protypa_EL.xlsx",
           "size": 7820
+        }
+      }
+    },
+    {
+      "id": "el-arxaies-ellinikes-monades",
+      "name": "Αρχαίες ελληνικές μονάδες μέτρησης",
+      "category": "units",
+      "record_count": 67,
+      "columns": [
+        "monada",
+        "elliniko_onoma",
+        "isodynamo",
+        "synchrono",
+        "perigrafi",
+        "katigoria"
+      ],
+      "source": "https://en.wikipedia.org/wiki/Ancient_Greek_units_of_measurement",
+      "updated": "2026-11",
+      "size": 19788,
+      "files": {
+        "csv": {
+          "name": "el-arxaies-ellinikes-monades_EL.csv",
+          "size": 8797
+        },
+        "xlsx": {
+          "name": "el-arxaies-ellinikes-monades_EL.xlsx",
+          "size": 10779
         }
       }
     },
