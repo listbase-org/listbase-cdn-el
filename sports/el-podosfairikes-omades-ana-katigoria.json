@@ -1,0 +1,1200 @@
+{
+  "id": "el-podosfairikes-omades-ana-katigoria",
+  "name": "Ποδοσφαιρικές ομάδες της Ελλάδας ανά κατηγορία",
+  "title": "Ποδοσφαιρικές ομάδες της Ελλάδας ανά κατηγορία",
+  "description": "Κατάλογος ποδοσφαιρικών ομάδων της Ελλάδας ανά κατηγορία (Super League κ.ά.), με πόλη και επίσημη επωνυμία όπου διατίθεται.",
+  "category": "sports",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ποδοσφαιρικών_ομάδων_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ποδοσφαιρικών_ομάδων_Ελλάδας",
+  "updated": "2026-11",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "omada",
+      "label": "Omada",
+      "type": "string"
+    },
+    {
+      "key": "eponymia_gemi",
+      "label": "Eponymia Gemi",
+      "type": "string"
+    },
+    {
+      "key": "diakritikos",
+      "label": "Diakritikos",
+      "type": "string"
+    },
+    {
+      "key": "eponymia_gga",
+      "label": "Eponymia Gga",
+      "type": "string"
+    },
+    {
+      "key": "poli",
+      "label": "Poli",
+      "type": "string"
+    },
+    {
+      "key": "katigoria",
+      "label": "Katigoria",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "omada": "Α.Ε.Κ.",
+      "eponymia_gemi": "Αθλητική Ένωσις Κωνσταντινουπόλεως Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Α.Ε.Κ. Π.Α.Ε.",
+      "eponymia_gga": "Αθλητική Ένωσις Κωνσταντινουπόλεως",
+      "poli": "Νέα Φιλαδέλφεια Αττικής",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Α.Ε. Κηφισιά",
+      "eponymia_gemi": "Αθλητική Ένωση Κηφισιά Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Κηφισιά Π.Α.Ε.",
+      "eponymia_gga": "Αθλητική Ένωση Κηφισιά",
+      "poli": "Κηφισιά",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Αστέρας Τρίπολης",
+      "eponymia_gemi": "Α.Γ.Σ. Αστέρας Τρίπολης Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Αστέρας Τρίπολης Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Γυμναστικός Σύλλογος Αστέρας Τρίπολης",
+      "poli": "Τρίπολη Αρκαδίας",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Λεβαδειακός",
+      "eponymia_gemi": "Α.Π.Ο. Λεβαδειακός Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Α.Π.Ο. Λεβαδειακός Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Ποδοσφαιρικός Όμιλος Λεβαδειακός",
+      "poli": "Λιβαδειά",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Ατρόμητος Αθηνών",
+      "eponymia_gemi": "Α.Π.Σ. Ατρόμητος Αθηνών 1923 Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ατρόμητος Αθηνών 1923 Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Ποδοσφαιρικός Σύλλογος Ατρόμητος Αθηνών",
+      "poli": "Περιστέρι Αττικής",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Άρης Θεσσαλονίκης",
+      "eponymia_gemi": "Αθλητικός Σύλλογος Θεσσαλονίκης ο Άρης Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Άρης Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Σύλλογος Θεσσαλονίκης ο Άρης",
+      "poli": "Θεσσαλονίκη",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Ν.Π.Σ. Βόλος",
+      "eponymia_gemi": "Νέος Ποδοσφαιρικός Σύλλογος Βόλος Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ν.Π.Σ. Βόλος Π.Α.Ε.",
+      "eponymia_gga": "Νέος Ποδοσφαιρικός Σύλλογος Βόλος",
+      "poli": "Βόλος",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Ολυμπιακός Πειραιώς",
+      "eponymia_gemi": "Ολυμπιακός Σύνδεσμος Φιλάθλων Πειραιώς Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ολυμπιακός Π.Α.Ε.",
+      "eponymia_gga": "Ολυμπιακός Σύνδεσμος Φιλάθλων Πειραιώς",
+      "poli": "Πειραιάς",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Ο.Φ.Η.",
+      "eponymia_gemi": "Όμιλος Φιλάθλων Ηρακλείου Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ο.Φ.Η. 1925 Π.Α.Ε.",
+      "eponymia_gga": "Όμιλος Φιλάθλων Ηρακλείου",
+      "poli": "Ηράκλειο Κρήτης",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Π.Α.Ο.Κ.",
+      "eponymia_gemi": "Πανθεσσαλονίκειος Αθλητικός Όμιλος Κωνσταντινουπολιτών Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Π.Α.Ο.Κ. Π.Α.Ε.",
+      "eponymia_gga": "Πανθεσσαλονίκειος Αθλητικός Όμιλος Κωνσταντινουπολιτών",
+      "poli": "Θεσσαλονίκη",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Π.Ο.Τ. Ηρακλής",
+      "eponymia_gemi": "Παναθλητικός Όμιλος Τρίγλιας ο Ηρακλής Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Π.Ο.Τ. Ηρακλής Π.Α.Ε.",
+      "eponymia_gga": "Παναθλητικός Όμιλος Τρίγλιας ο Ηρακλής",
+      "poli": "Θεσσαλονίκη",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Π.Σ. Καλαμάτα",
+      "eponymia_gemi": "Π.Σ. η Καλαμάτα 2019 Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Π.Σ. Καλαμάτα 2019 Π.Α.Ε.",
+      "eponymia_gga": "Ποδοσφαιρικός Σύλλογος η Καλαμάτα",
+      "poli": "Καλαμάτα",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Παναθηναϊκός",
+      "eponymia_gemi": "Παναθηναϊκός Αθλητικός Όμιλος Ποδοσφαιρική Ανώνυμος Εταιρεία",
+      "diakritikos": "Π.Α.Ο. Π.Α.Ε.",
+      "eponymia_gga": "Παναθηναϊκός Αθλητικός Όμιλος",
+      "poli": "Αθήνα",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Παναιτωλικός",
+      "eponymia_gemi": "Παναιτωλικός Γ.Φ.Σ. Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Παναιτωλικός Γ.Φ.Σ. Π.Α.Ε.",
+      "eponymia_gga": "Παναιτωλικός Γυμναστικός Φιλεκπαιδευτικός Σύλλογος",
+      "poli": "Αγρίνιο",
+      "katigoria": "Super League 1"
+    },
+    {
+      "omada": "Α.Ε. Λάρισας",
+      "eponymia_gemi": "Αθλητική Ένωση Λάρισας Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Α.Ε.Λ. Π.Α.Ε.",
+      "eponymia_gga": "Αθλητική Ένωση Λάρισας",
+      "poli": "Λάρισα",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Α.Π.Σ. Ζάκυνθος",
+      "eponymia_gemi": "Αθλητικός Ποδοσφαιρικός Σύλλογος Ζάκυνθος 1961 Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ζάκυνθος 1961 Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Ποδοσφαιρικός Σύλλογος Ζάκυνθος 1961",
+      "poli": "Ζάκυνθος",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Αναγέννηση Καρδίτσας",
+      "eponymia_gemi": "Αναγέννηση Καρδίτσας 1904–2025 Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Α.Σ.Α. 1904–2025 Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Σύλλογος Αναγέννηση Καρδίτσας 1904",
+      "poli": "Καρδίτσα",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Απόλλων Καλαμαριάς",
+      "eponymia_gemi": "Μορφωτικός Γυμναστικός Σύλλογος Καλαμαριάς Νέος Απόλλων 2026 Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Π.Α.Ε. Νέος Απόλλων Καλαμαριάς",
+      "eponymia_gga": "Μορφωτικός Γυμναστικός Σύλλογος Καλαμαριάς ο Απόλλων",
+      "poli": "Καλαμαριά",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Αστέρας Τρίπολης Β΄",
+      "eponymia_gemi": "Α.Γ.Σ. Αστέρας Τρίπολης Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Αστέρας Τρίπολης Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Γυμναστικός Σύλλογος Αστέρας Τρίπολης",
+      "poli": "Τρίπολη Αρκαδίας",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Γ.Σ. Καλλιθέα",
+      "eponymia_gemi": "Γυμναστικός Σύλλογος Καλλιθέας Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Athens Kallithea F.C.",
+      "eponymia_gga": "Γυμναστικός Σύλλογος Καλλιθέα",
+      "poli": "Καλλιθέα Αττικής",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Ελλάς Σύρου",
+      "eponymia_gemi": "Αθλητικός Προοδευτικός Όμιλος Ελλάς Σύρου Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ελλάς Σύρου Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Προοδευτικός Όμιλος Ελλάς Σύρου",
+      "poli": "Ερμούπολη",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Μαρκό Μαρκοπούλου",
+      "eponymia_gemi": "Γυμναστικός Σύλλογος Μαρκοπούλου Μαρκό Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Π.Α.Ε. Μαρκό",
+      "eponymia_gga": "Γυμναστικός Σύλλογος «Μαρκό»",
+      "poli": "Μαρκόπουλο Μεσογαίας",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Νέστος Χρυσούπολης",
+      "eponymia_gemi": "Αθλητικός Σύλλογος ο Νέστος Χρυσούπολης Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ο Νέστος Χρυσούπολης Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Σύλλογος Νέστος Χρυσούπολης",
+      "poli": "Χρυσούπολη Καβάλας",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Νίκη Βόλου",
+      "eponymia_gemi": "Γυμναστικός Σύλλογος Βόλου η Νίκη 1924 Π.Α.Ε.",
+      "diakritikos": "Niki Volou F.C.",
+      "eponymia_gga": "Γυμναστικός Σύλλογος Βόλου η Νίκη",
+      "poli": "Νέα Ιωνία Μαγνησίας",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Ολυμπιακός Πειραιώς Β΄",
+      "eponymia_gemi": "Ολυμπιακός Σύνδεσμος Φιλάθλων Πειραιώς Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Ολυμπιακός Π.Α.Ε.",
+      "eponymia_gga": "Ολυμπιακός Σύνδεσμος Φιλάθλων Πειραιώς",
+      "poli": "Πειραιάς",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Π.Α.Ο.Κ. Β΄",
+      "eponymia_gemi": "Πανθεσσαλονίκειος Αθλητικός Όμιλος Κωνσταντινουπολιτών Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Π.Α.Ο.Κ. Π.Α.Ε.",
+      "eponymia_gga": "Πανθεσσαλονίκειος Αθλητικός Όμιλος Κωνσταντινουπολιτών",
+      "poli": "Θεσσαλονίκη",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Π.Α.Σ. Πύργος",
+      "eponymia_gemi": "Πανηλειακός Αθλητικός Σύλλογος Πύργος Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Pyrgos AFC",
+      "eponymia_gga": "Πανηλειακός Αθλητικός Σύλλογος Πύργος",
+      "poli": "Πύργος Ηλείας",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Πανθρακικός",
+      "eponymia_gemi": "Πανθρακικός Αθλητικός Ποδοσφαιρικός Σύλλογος Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Πανθρακικός Α.Π.Σ. Π.Α.Ε.",
+      "eponymia_gga": "Αθλητικός Ποδοσφαιρικός Σύλλογος Πανθρακικός",
+      "poli": "Κομοτηνή",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Πανιώνιος Σμύρνης",
+      "eponymia_gemi": "Πανιώνιος Ιστορικός Γυμναστικός Σύλλογος Σμύρνης Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Πανιώνιος Ι.Γ.Σ.Σ. Π.Α.Ε.",
+      "eponymia_gga": "Πανιώνιος Γυμναστικός Σύλλογος Σμύρνης",
+      "poli": "Νέα Σμύρνη",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Πανσερραϊκός",
+      "eponymia_gemi": "Μουσικογυμναστικός Σύλλογος Πανσερραϊκός 1946 Ποδοσφαιρική Ανώνυμη Εταιρεία",
+      "diakritikos": "Πανσερραϊκός Π.Α.Ε.",
+      "eponymia_gga": "Μουσικογυμναστικός Σύλλογος Πανσερραϊκός",
+      "poli": "Σέρρες",
+      "katigoria": "Super League 2"
+    },
+    {
+      "omada": "Απόλλων Παραλιμνίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Παραλίμνιο Σερρών",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Άρδας Καστανεών",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Καστανιές Έβρου",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Δόξα Δράμας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Δράμα",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Δόξα Νέου Σιδηροχωρίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νέο Σιδηροχώρι Ροδόπης",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ε. Θράκης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κουτσό Ξάνθης",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Καβάλα",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Καβάλα",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Μέγας Αετός Ορφανού",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Οφρύνιο Καβάλας",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Ξάνθη",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ξάνθη",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Ορφέας Ελευθερούπολης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ελευθερούπολη",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Α.Ο. Ποντίων Νέας Αμισού",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νέα Αμισός Δράμας",
+      "katigoria": "Α΄ Όμιλος"
+    },
+    {
+      "omada": "Ακρίτες Συκεών",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Συκιές Θεσσαλονίκης",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Αστέρας Αγίου Νικολάου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Άγιος Νικόλαος Σιθωνίας Χαλκιδικής",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Ηρακλής Θερμαϊκού",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Θεσσαλονίκη",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Κιλκισιακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κιλκίς",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Α.Ο. Κρηστώνης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κρηστώνη Κιλκίς",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Μακεδονικός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ευκαρπία Θεσσαλονίκης",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "ΜΠΑΜ FC",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Θεσσαλονίκη",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Πανεδεσσαϊκός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Έδεσσα",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ε. Πολυκάστρου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πολύκαστρο",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Ποσειδών Νέας Μηχανιώνας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νέα Μηχανιώνα",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Φοίνικας Πολίχνης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πολίχνη Θεσσαλονίκης",
+      "katigoria": "Β΄ Όμιλος"
+    },
+    {
+      "omada": "Αναγέννηση Άρτας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Άρτα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Σ. Βατολάκκου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Βατόλακκος Γρεβενών",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Σ. Βέροια 1960",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Βέροια",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Δόξα Μασχολουρίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Μασχολούρι Καρδίτσας",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Εορδαϊκός Πτολεμαΐδας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πτολεμαΐδα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Θύελλα Κατσικά",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κατσικάς Ιωαννίνων",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Σ. Καστοριά 1980",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Καστοριά",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Μακεδονικός Σιάτιστας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Σιάτιστα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Μέγας Αλέξανδρος Φλώρινας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Φλώρινα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Φ.Α.Σ. Νάουσα",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νάουσα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Α.Σ. Γιάννινα",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ιωάννινα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Ανθούπολης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Λάρισα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Διγενής Νεοχωρίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Οιχαλία Τρικάλων",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Εθνικός Νέου Κεραμιδίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νέο Κεραμίδι Πιερίας",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Ο. Ελασσόνας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ελασσόνα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Ερμής Εξοχής",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Εξοχή Πιερίας",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Ηρακλής Λάρισας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Λάρισα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ε. Καρίτσας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Καρίτσα Πιερίας",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Πιερικός Κατερίνης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κατερίνη",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Ρήγας Φεραίος Βελεστίνου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Βελεστίνο",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Σαρακηνός Βόλου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Βόλος",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Τρίκαλα",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Τρίκαλα",
+      "katigoria": "Δ΄ Όμιλος"
+    },
+    {
+      "omada": "Αναγέννηση Σχηματαρίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Σχηματάρι",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Αστήρ Σταυρού",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Σταυρός Φθιώτιδας",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Διαγόρας Αγίας Παρασκευής",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αγία Παρασκευή Λέσβου",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Θήβα",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Θήβα",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Καρύστου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κάρυστος",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Κατσαντώνης Αγράφων",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Άγραφα",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Κηφισσός Νέας Τιθορέας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Τιθορέα",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Α.Σ. Λαμία 1964",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Λαμία",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Νέας Αρτάκης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νέα Αρτάκη",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Ταμυναϊκός Αλιβερίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αλιβέρι",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Φωκικός Άμφισσας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Άμφισσα",
+      "katigoria": "Ε΄ Όμιλος"
+    },
+    {
+      "omada": "Ο.Φ. Αγίου Ματθαίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Άγιος Ματθαίος Κέρκυρας",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Άρης Φιλιατών",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Φιλιάτες",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Ατρόμητος Πατρών",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πάτρα",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Λεβάντε",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ζάκυνθος",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ε. Λευκίμμης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Λευκίμμη",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Παλληξουριακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ληξούρι",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Παναγρινιακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αγρίνιο",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Παναιγιάλειος",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αίγιο",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Παναχαϊκή",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πάτρα",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Πλαταριάς",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πλαταριά Θεσπρωτίας",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Α.Σ. Πρέβεζας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πρέβεζα",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Τηλυκράτης Λευκάδας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Λευκάδα",
+      "katigoria": "ΣΤ΄ Όμιλος"
+    },
+    {
+      "omada": "Αστέρας Αμαλιάδας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αμαλιάδα",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Αστέρας Βλαχιώτη",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Βλαχιώτης Λακωνίας",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Ερμής Κιβερίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κιβέρι Αργολίδας",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Ηρακλής Ξυλοκάστρου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ξυλόκαστρο",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Α.Σ. Κόρινθος",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κόρινθος",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Λουτράκι",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Λουτράκι",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Μιλτιάδης Πύργου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πύργος Τριφυλίας",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Παναργειακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Άργος",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Πανθουριακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Θουρία Μεσσηνίας",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Πανθυρεατικός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Άστρος",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Πέλοπας Κιάτου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κιάτο",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Τέλος Άγρας Γαργαλιάνων",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Γαργαλιάνοι",
+      "katigoria": "Ζ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Αιγάλεω",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αιγάλεω",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Π.Σ.Ε. Αμφιάλη",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αμφιάλη",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Απόλλων Καλυθιών",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Καλυθιές Ρόδου",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Απόλλων Σμύρνης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αθήνα",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ε. Ροδίων Αφάντου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αφάντου",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Διαγόρας Ρόδου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ρόδος",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Δόξα Βύρωνος",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Βύρωνας",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Εθνικός Πειραιώς",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Καστέλλα",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Ιάλυσος Ρόδου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ιαλυσός",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Ιωνικός Νίκαιας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νίκαια Αττικής",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Προοδευτική Νεολαία",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Κορυδαλλός Αττικής",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Α.Ο. Ρουφ",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αθήνα",
+      "katigoria": "Η΄ Όμιλος"
+    },
+    {
+      "omada": "Αστέρας Μαγούλας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Μαγούλα Αττικής",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Αχαρναϊκός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Αχαρνές Αττικής",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Εθνικός Αστέρας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Καισαριανή",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Γ.Σ. Ηλιούπολης Αττικής",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ηλιούπολη",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Ηλυσιακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ζωγράφου Αττικής",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Θύελλα Ραφήνας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ραφήνα",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Κυανούς Αστήρ Βάρης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Βάρη Αττικής",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ε. Μυκόνου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Μύκονος",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Νέας Ιωνίας",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νέα Ιωνία Αττικής",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Πανναξιακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νάξος",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Σαρωνικός Αναβύσσου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ανάβυσσος Αττικής",
+      "katigoria": "Θ΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Αγίου Νικολάου Κρήτης",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ατσαλένιο Ηρακλείου",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Π.Ο. Ατσαλένιου Ηρακλείου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ατσαλένιο Ηρακλείου",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Γιούχτας Αρχανών",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Επάνω Αρχάνες",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Επισκοπή Ρεθύμνου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Επισκοπή Λαππαίων Ρεθύμνης",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Εργοτέλης Ηρακλείου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ηράκλειο",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ε. Νεάπολης Λασιθίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Νεάπολη Λασιθίου",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Ολυμπιακός Χερσονήσου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Λιμήν Χερσονήσου Ηρακλείου",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Πανακρωτηριακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ακρωτήρι Κρήτης",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Πλατανιά",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Πλατανιάς Χανίων",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Ρεθυμνιακός",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Ρέθυμνο",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Ο. Τυμπακίου",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Τυμπάκι",
+      "katigoria": "Ι΄ Όμιλος"
+    },
+    {
+      "omada": "Α.Σ. Χανιά Πόλη",
+      "eponymia_gemi": "",
+      "diakritikos": "",
+      "eponymia_gga": "",
+      "poli": "Χανιά",
+      "katigoria": "Ι΄ Όμιλος"
+    }
+  ],
+  "meta": {
+    "title": "Ποδοσφαιρικές ομάδες της Ελλάδας ανά κατηγορία - Free Download",
+    "description": "Κατάλογος ποδοσφαιρικών ομάδων της Ελλάδας ανά κατηγορία (Super League κ.ά.), με πόλη και επίσημη επωνυμία όπου διατίθεται. Contains 143 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ποδοσφαιρικές ομάδες της Ελλάδας ανά κατηγορία | ListBase",
+    "seo_description": "Download Ποδοσφαιρικές ομάδες της Ελλάδας ανά κατηγορία — 143 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 143 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ποδοσφαιρικών_ομάδων_Ελλάδας"
+    ]
+  }
+}
