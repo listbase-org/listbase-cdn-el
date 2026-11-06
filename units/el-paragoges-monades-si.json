@@ -1,0 +1,128 @@
+{
+  "id": "el-paragoges-monades-si",
+  "name": "Παράγωγες μονάδες SI",
+  "title": "Παράγωγες μονάδες SI",
+  "description": "Παράγωγες μονάδες του Διεθνούς Συστήματος με φυσικό μέγεθος, έκφραση γινομένου/πηλίκου, σύμβολο και ελληνικό όνομα.",
+  "category": "units",
+  "source": "https://el.wikipedia.org/wiki/Διεθνές_σύστημα_μονάδων",
+  "source_url": "https://el.wikipedia.org/wiki/Διεθνές_σύστημα_μονάδων",
+  "updated": "2026-11",
+  "record_count": 11,
+  "columns": [
+    {
+      "key": "fysiko_megethos",
+      "label": "Fysiko Megethos",
+      "type": "string"
+    },
+    {
+      "key": "ekfrasi",
+      "label": "Ekfrasi",
+      "type": "string"
+    },
+    {
+      "key": "paragori_monada",
+      "label": "Paragori Monada",
+      "type": "string"
+    },
+    {
+      "key": "symbolismos",
+      "label": "Symbolismos",
+      "type": "string"
+    },
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "fysiko_megethos": "Επιφάνεια - Εμβαδόν",
+      "ekfrasi": "μήκος 2",
+      "paragori_monada": "m 2",
+      "symbolismos": "-",
+      "onoma": "τετραγωνικό μέτρο"
+    },
+    {
+      "fysiko_megethos": "Όγκος",
+      "ekfrasi": "μήκος 3",
+      "paragori_monada": "dm 3",
+      "symbolismos": "l ή L",
+      "onoma": "λίτρο, κυβική παλάμη, κυβικό δεκατόμετρο"
+    },
+    {
+      "fysiko_megethos": "Ταχύτητα",
+      "ekfrasi": "Μήκος/Χρόνος",
+      "paragori_monada": "m/s",
+      "symbolismos": "-",
+      "onoma": "μέτρο ανά δευτερόλεπτο"
+    },
+    {
+      "fysiko_megethos": "Επιτάχυνση",
+      "ekfrasi": "Μήκος/Χρόνος 2",
+      "paragori_monada": "m/s 2",
+      "symbolismos": "-",
+      "onoma": "μέτρο ανά δευτερόλεπτο στο τετράγωνο"
+    },
+    {
+      "fysiko_megethos": "Δύναμη",
+      "ekfrasi": "Μάζα×Επιτάχυνση",
+      "paragori_monada": "kg×m/s 2",
+      "symbolismos": "N (Newton)",
+      "onoma": "νιούτον"
+    },
+    {
+      "fysiko_megethos": "Πίεση - τάση",
+      "ekfrasi": "Δύναμη/Επιφάνεια",
+      "paragori_monada": "Ν/m 2",
+      "symbolismos": "Pa (Pascal)",
+      "onoma": "πασκάλ"
+    },
+    {
+      "fysiko_megethos": "Ροπή",
+      "ekfrasi": "Δύναμη×Μήκος",
+      "paragori_monada": "N×m",
+      "symbolismos": "-",
+      "onoma": "νιούτον επί μέτρο, νιουτόμετρο"
+    },
+    {
+      "fysiko_megethos": "Πυκνότητα",
+      "ekfrasi": "Μάζα/Όγκος",
+      "paragori_monada": "kg/m 3",
+      "symbolismos": "-",
+      "onoma": "χιλιόγραμμο ανά κυβικό μέτρο"
+    },
+    {
+      "fysiko_megethos": "Ειδικό βάρος",
+      "ekfrasi": "Δύναμη/Όγκος",
+      "paragori_monada": "N/m 3",
+      "symbolismos": "-",
+      "onoma": "νιούτον ανά κυβικό μέτρο"
+    },
+    {
+      "fysiko_megethos": "Έργο - Ενέργεια",
+      "ekfrasi": "Δύναμη×Μήκος",
+      "paragori_monada": "kg x m^2/s^2",
+      "symbolismos": "J (Joule)",
+      "onoma": "τζάουλ"
+    },
+    {
+      "fysiko_megethos": "Ισχύς",
+      "ekfrasi": "Έργο/Χρόνος",
+      "paragori_monada": "J/s",
+      "symbolismos": "W (Watt)",
+      "onoma": "βατ"
+    }
+  ],
+  "meta": {
+    "title": "Παράγωγες μονάδες SI - Free Download",
+    "description": "Παράγωγες μονάδες του Διεθνούς Συστήματος με φυσικό μέγεθος, έκφραση γινομένου/πηλίκου, σύμβολο και ελληνικό όνομα. Contains 11 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Παράγωγες μονάδες SI | ListBase",
+    "seo_description": "Download Παράγωγες μονάδες SI — 11 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 11 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Διεθνές_σύστημα_μονάδων"
+    ]
+  }
+}
