@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-06T02:28:58.001Z",
-  "total_datasets": 488,
-  "total_records": 196736,
+  "generated": "2026-11-06T02:29:10.540Z",
+  "total_datasets": 489,
+  "total_records": 196761,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "entertainment",
@@ -1590,6 +1590,29 @@
         "xlsx": {
           "name": "el-plousioteroi-ellines_EL.xlsx",
           "size": 8320
+        }
+      }
+    },
+    {
+      "id": "el-anotata-ekpaideytika-idrymata",
+      "name": "Ανώτατα Εκπαιδευτικά Ιδρύματα στην Ελλάδα",
+      "category": "education",
+      "record_count": 25,
+      "columns": [
+        "onoma",
+        "syntomografia"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Ανώτατα_Εκπαιδευτικά_Ιδρύματα_στην_Ελλάδα",
+      "updated": "2026-11",
+      "size": 4874,
+      "files": {
+        "csv": {
+          "name": "el-anotata-ekpaideytika-idrymata_EL.csv",
+          "size": 1812
+        },
+        "xlsx": {
+          "name": "el-anotata-ekpaideytika-idrymata_EL.xlsx",
+          "size": 7601
         }
       }
     },

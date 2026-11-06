@@ -1,0 +1,136 @@
+{
+  "id": "el-anotata-ekpaideytika-idrymata",
+  "name": "Ανώτατα Εκπαιδευτικά Ιδρύματα στην Ελλάδα",
+  "title": "Ανώτατα Εκπαιδευτικά Ιδρύματα στην Ελλάδα",
+  "description": "Κατάλογος των ΑΕΙ της Ελλάδας με πλήρες όνομα και συντομογραφία.",
+  "category": "education",
+  "source": "https://el.wikipedia.org/wiki/Ανώτατα_Εκπαιδευτικά_Ιδρύματα_στην_Ελλάδα",
+  "source_url": "https://el.wikipedia.org/wiki/Ανώτατα_Εκπαιδευτικά_Ιδρύματα_στην_Ελλάδα",
+  "updated": "2026-11",
+  "record_count": 25,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "syntomografia",
+      "label": "Syntomografia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Ανωτάτη Σχολή Καλών Τεχνών",
+      "syntomografia": "Α.Σ.Κ.Τ."
+    },
+    {
+      "onoma": "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης",
+      "syntomografia": "Α.Π.Θ."
+    },
+    {
+      "onoma": "Εθνικό Μετσόβιο Πολυτεχνείο",
+      "syntomografia": "Ε.Μ.Π."
+    },
+    {
+      "onoma": "Ελληνικό Μεσογειακό Πανεπιστήμιο",
+      "syntomografia": "ΕΛ.ΜΕ.ΠΑ."
+    },
+    {
+      "onoma": "Γεωπονικό Πανεπιστήμιο Αθηνών",
+      "syntomografia": "Γ.Π.Α."
+    },
+    {
+      "onoma": "Εθνικό και Καποδιστριακό Πανεπιστήμιο Αθηνών",
+      "syntomografia": "Ε.Κ.Π.Α."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Δυτικής Αττικής",
+      "syntomografia": "ΠΑ.Δ.Α."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Πατρών",
+      "syntomografia": "Π.Π."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Κρήτης",
+      "syntomografia": "Π.Κ."
+    },
+    {
+      "onoma": "Πολυτεχνείο Κρήτης",
+      "syntomografia": "ΠΟΛ.Κ."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Ιωαννίνων",
+      "syntomografia": "Π.Ι."
+    },
+    {
+      "onoma": "Δημοκρίτειο Πανεπιστήμιο Θράκης",
+      "syntomografia": "Δ.Π.Θ."
+    },
+    {
+      "onoma": "Διεθνές Πανεπιστήμιο της Ελλάδος",
+      "syntomografia": "ΔΙ.ΠΑ.Ε"
+    },
+    {
+      "onoma": "Πανεπιστήμιο Θεσσαλίας",
+      "syntomografia": "Π.Θ."
+    },
+    {
+      "onoma": "Οικονομικό Πανεπιστήμιο Αθηνών",
+      "syntomografia": "Ο.Π.Α."
+    },
+    {
+      "onoma": "Πάντειο Πανεπιστήμιο Κοινωνικών και Πολιτικών Επιστημών",
+      "syntomografia": "Π.Π.Κ.Π.Ε."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Πειραιώς",
+      "syntomografia": "ΠΑ.ΠΕΙ."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Μακεδονίας",
+      "syntomografia": "ΠΑ.ΜΑΚ."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Δυτικής Μακεδονίας",
+      "syntomografia": "Π.Δ.Μ."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Πελοποννήσου",
+      "syntomografia": "ΠΑ.ΠΕΛ."
+    },
+    {
+      "onoma": "Πανεπιστήμιο Αιγαίου",
+      "syntomografia": "Π.ΑΙΓ."
+    },
+    {
+      "onoma": "Ιόνιο Πανεπιστήμιο",
+      "syntomografia": "Ι.Π."
+    },
+    {
+      "onoma": "Χαροκόπειο Πανεπιστήμιο",
+      "syntomografia": "Χ.Π."
+    },
+    {
+      "onoma": "Ελληνικό Ανοικτό Πανεπιστήμιο",
+      "syntomografia": "Ε.Α.Π."
+    },
+    {
+      "onoma": "Ανώτατη Σχολή Παιδαγωγικής και Τεχνολογικής Εκπαίδευσης",
+      "syntomografia": "Α.Σ.ΠΑΙ.Τ.Ε."
+    }
+  ],
+  "meta": {
+    "title": "Ανώτατα Εκπαιδευτικά Ιδρύματα στην Ελλάδα - Free Download",
+    "description": "Κατάλογος των ΑΕΙ της Ελλάδας με πλήρες όνομα και συντομογραφία. Contains 25 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ανώτατα Εκπαιδευτικά Ιδρύματα στην Ελλάδα | ListBase",
+    "seo_description": "Download Ανώτατα Εκπαιδευτικά Ιδρύματα στην Ελλάδα — 25 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 25 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Ανώτατα_Εκπαιδευτικά_Ιδρύματα_στην_Ελλάδα"
+    ]
+  }
+}
