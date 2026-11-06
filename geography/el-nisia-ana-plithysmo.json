@@ -1,0 +1,1920 @@
+{
+  "id": "el-nisia-ana-plithysmo",
+  "name": "Ελληνικά νησιά ανά πληθυσμό",
+  "title": "Ελληνικά νησιά ανά πληθυσμό",
+  "description": "Ελληνικά νησιά ταξινομημένα ανά πληθυσμό (απογραφές 2021 και 2011) με έκταση.",
+  "category": "geography",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_νησιών_ανά_πληθυσμό",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_νησιών_ανά_πληθυσμό",
+  "updated": "2026-11",
+  "record_count": 233,
+  "columns": [
+    {
+      "key": "seira",
+      "label": "Seira",
+      "type": "number"
+    },
+    {
+      "key": "nisi",
+      "label": "Nisi",
+      "type": "string"
+    },
+    {
+      "key": "ektasi_km2",
+      "label": "Ektasi Km2",
+      "type": "number"
+    },
+    {
+      "key": "plithysmos_2021",
+      "label": "Plithysmos 2021",
+      "type": "number"
+    },
+    {
+      "key": "plithysmos_2011",
+      "label": "Plithysmos 2011",
+      "type": "number"
+    },
+    {
+      "key": "nisiotiko_symplegma",
+      "label": "Nisiotiko Symplegma",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "seira": 1,
+      "nisi": "Κρήτη",
+      "ektasi_km2": 8336,
+      "plithysmos_2021": 624408,
+      "plithysmos_2011": 623065,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 2,
+      "nisi": "Εύβοια",
+      "ektasi_km2": 3655,
+      "plithysmos_2021": 189096,
+      "plithysmos_2011": 190552,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 3,
+      "nisi": "Ρόδος",
+      "ektasi_km2": 1401.46,
+      "plithysmos_2021": 125113,
+      "plithysmos_2011": 115490,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 4,
+      "nisi": "Κέρκυρα",
+      "ektasi_km2": 592.082,
+      "plithysmos_2021": 98127,
+      "plithysmos_2011": 102071,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 5,
+      "nisi": "Λέσβος",
+      "ektasi_km2": 1636,
+      "plithysmos_2021": 83755,
+      "plithysmos_2011": 86312,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 6,
+      "nisi": "Χίος",
+      "ektasi_km2": 842.796,
+      "plithysmos_2021": 50361,
+      "plithysmos_2011": 51269,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 7,
+      "nisi": "Ζάκυνθος",
+      "ektasi_km2": 404.611,
+      "plithysmos_2021": 41180,
+      "plithysmos_2011": 43384,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 8,
+      "nisi": "Σαλαμίνα",
+      "ektasi_km2": 94.993,
+      "plithysmos_2021": 37220,
+      "plithysmos_2011": 39283,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 9,
+      "nisi": "Κως",
+      "ektasi_km2": 287.611,
+      "plithysmos_2021": 37089,
+      "plithysmos_2011": 33388,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 10,
+      "nisi": "Κεφαλλονιά",
+      "ektasi_km2": 781.482,
+      "plithysmos_2021": 36064,
+      "plithysmos_2011": 38082,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 11,
+      "nisi": "Σάμος",
+      "ektasi_km2": 477.942,
+      "plithysmos_2021": 32642,
+      "plithysmos_2011": 33335,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 12,
+      "nisi": "Λευκάδα",
+      "ektasi_km2": 302.511,
+      "plithysmos_2021": 21518,
+      "plithysmos_2011": 22320,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 13,
+      "nisi": "Σύρος",
+      "ektasi_km2": 84.069,
+      "plithysmos_2021": 21124,
+      "plithysmos_2011": 21473,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 14,
+      "nisi": "Νάξος",
+      "ektasi_km2": 429.785,
+      "plithysmos_2021": 19597,
+      "plithysmos_2011": 18340,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 15,
+      "nisi": "Κάλυμνος",
+      "ektasi_km2": 110.581,
+      "plithysmos_2021": 17752,
+      "plithysmos_2011": 15863,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 16,
+      "nisi": "Λήμνος",
+      "ektasi_km2": 476.288,
+      "plithysmos_2021": 16411,
+      "plithysmos_2011": 16743,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 17,
+      "nisi": "Θήρα (ή Σαντορίνη)",
+      "ektasi_km2": 76.19,
+      "plithysmos_2021": 15231,
+      "plithysmos_2011": 17430,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 18,
+      "nisi": "Πάρος",
+      "ektasi_km2": 196.308,
+      "plithysmos_2021": 14520,
+      "plithysmos_2011": 13694,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 19,
+      "nisi": "Θάσος",
+      "ektasi_km2": 379,
+      "plithysmos_2021": 13104,
+      "plithysmos_2011": 14678,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 20,
+      "nisi": "Αίγινα",
+      "ektasi_km2": 82.639,
+      "plithysmos_2021": 12911,
+      "plithysmos_2011": 12930,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 21,
+      "nisi": "Μύκονος",
+      "ektasi_km2": 86.125,
+      "plithysmos_2021": 10704,
+      "plithysmos_2011": 10134,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 22,
+      "nisi": "Τήνος",
+      "ektasi_km2": 194.59,
+      "plithysmos_2021": 8934,
+      "plithysmos_2011": 8699,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 23,
+      "nisi": "Ικαρία",
+      "ektasi_km2": 255.32,
+      "plithysmos_2021": 8843,
+      "plithysmos_2011": 8431,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 24,
+      "nisi": "Άνδρος",
+      "ektasi_km2": 379.21,
+      "plithysmos_2021": 8826,
+      "plithysmos_2011": 9128,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 25,
+      "nisi": "Λέρος",
+      "ektasi_km2": 54.052,
+      "plithysmos_2021": 7992,
+      "plithysmos_2011": 7915,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 26,
+      "nisi": "Κάρπαθος",
+      "ektasi_km2": 300.152,
+      "plithysmos_2021": 6567,
+      "plithysmos_2011": 6709,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 27,
+      "nisi": "Σκιάθος",
+      "ektasi_km2": 47.325,
+      "plithysmos_2021": 5802,
+      "plithysmos_2011": 6088,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 28,
+      "nisi": "Μήλος",
+      "ektasi_km2": 151,
+      "plithysmos_2021": 5302,
+      "plithysmos_2011": 4966,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 29,
+      "nisi": "Σκόπελος",
+      "ektasi_km2": 95.131,
+      "plithysmos_2021": 4518,
+      "plithysmos_2011": 4960,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 30,
+      "nisi": "Σπέτσες",
+      "ektasi_km2": 22.239,
+      "plithysmos_2021": 3748,
+      "plithysmos_2011": 3934,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 31,
+      "nisi": "Κύθηρα",
+      "ektasi_km2": 279.593,
+      "plithysmos_2021": 3605,
+      "plithysmos_2011": 3897,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 32,
+      "nisi": "Πάτμος",
+      "ektasi_km2": 34.142,
+      "plithysmos_2021": 3283,
+      "plithysmos_2011": 3429,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 33,
+      "nisi": "Πόρος",
+      "ektasi_km2": 22.646,
+      "plithysmos_2021": 3261,
+      "plithysmos_2011": 3951,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 34,
+      "nisi": "Αλόννησος",
+      "ektasi_km2": 64.118,
+      "plithysmos_2021": 3138,
+      "plithysmos_2011": 2766,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 35,
+      "nisi": "Σκύρος",
+      "ektasi_km2": 206.926,
+      "plithysmos_2021": 3052,
+      "plithysmos_2011": 2994,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 36,
+      "nisi": "Ιθάκη",
+      "ektasi_km2": 96.262,
+      "plithysmos_2021": 2862,
+      "plithysmos_2011": 3231,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 37,
+      "nisi": "Σίφνος",
+      "ektasi_km2": 73.942,
+      "plithysmos_2021": 2777,
+      "plithysmos_2011": 2543,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 38,
+      "nisi": "Σύμη",
+      "ektasi_km2": 57.865,
+      "plithysmos_2021": 2603,
+      "plithysmos_2011": 3068,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 39,
+      "nisi": "Σαμοθράκη",
+      "ektasi_km2": 178,
+      "plithysmos_2021": 2596,
+      "plithysmos_2011": 2773,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 40,
+      "nisi": "Παξοί",
+      "ektasi_km2": 25.322,
+      "plithysmos_2021": 2466,
+      "plithysmos_2011": 2373,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 41,
+      "nisi": "Κέα",
+      "ektasi_km2": 131.693,
+      "plithysmos_2021": 2335,
+      "plithysmos_2011": 2472,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 42,
+      "nisi": "Ίος",
+      "ektasi_km2": 108.713,
+      "plithysmos_2021": 2299,
+      "plithysmos_2011": 2084,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 43,
+      "nisi": "Ύδρα",
+      "ektasi_km2": 49.592,
+      "plithysmos_2021": 2070,
+      "plithysmos_2011": 1951,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 44,
+      "nisi": "Αμοργός",
+      "ektasi_km2": 121.464,
+      "plithysmos_2021": 1961,
+      "plithysmos_2011": 1947,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 45,
+      "nisi": "Κύθνος",
+      "ektasi_km2": 99.432,
+      "plithysmos_2021": 1568,
+      "plithysmos_2011": 1436,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 46,
+      "nisi": "Αστυπάλαια",
+      "ektasi_km2": 96.42,
+      "plithysmos_2021": 1376,
+      "plithysmos_2011": 1270,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 47,
+      "nisi": "Φούρνοι",
+      "ektasi_km2": 30.5,
+      "plithysmos_2021": 1343,
+      "plithysmos_2011": 1199,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Φούρνοι)"
+    },
+    {
+      "seira": 48,
+      "nisi": "Αντίπαρος",
+      "ektasi_km2": 35.09,
+      "plithysmos_2021": 1265,
+      "plithysmos_2011": 1196,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 49,
+      "nisi": "Σέριφος",
+      "ektasi_km2": 75.207,
+      "plithysmos_2021": 1241,
+      "plithysmos_2011": 1378,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 50,
+      "nisi": "Κάσος",
+      "ektasi_km2": 66.419,
+      "plithysmos_2021": 1223,
+      "plithysmos_2011": 1070,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 51,
+      "nisi": "Αγκίστρι",
+      "ektasi_km2": 11.693,
+      "plithysmos_2021": 1131,
+      "plithysmos_2011": 1099,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 52,
+      "nisi": "Νίσυρος",
+      "ektasi_km2": 41.263,
+      "plithysmos_2021": 1048,
+      "plithysmos_2011": 982,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 53,
+      "nisi": "Μεγανήσι",
+      "ektasi_km2": 22.356,
+      "plithysmos_2021": 926,
+      "plithysmos_2011": 983,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 54,
+      "nisi": "Οινούσσες",
+      "ektasi_km2": 14.382,
+      "plithysmos_2021": 911,
+      "plithysmos_2011": 796,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Οινούσσες)"
+    },
+    {
+      "seira": 55,
+      "nisi": "Ελαφόνησος",
+      "ektasi_km2": 19.992,
+      "plithysmos_2021": 898,
+      "plithysmos_2011": 977,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 56,
+      "nisi": "Κίμωλος",
+      "ektasi_km2": 37.426,
+      "plithysmos_2021": 810,
+      "plithysmos_2011": 899,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 57,
+      "nisi": "Λειψοί",
+      "ektasi_km2": 15.842,
+      "plithysmos_2021": 778,
+      "plithysmos_2011": 784,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 58,
+      "nisi": "Τήλος",
+      "ektasi_km2": 61.487,
+      "plithysmos_2021": 746,
+      "plithysmos_2011": 829,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 59,
+      "nisi": "Φολέγανδρος",
+      "ektasi_km2": 32.384,
+      "plithysmos_2021": 719,
+      "plithysmos_2011": 787,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 60,
+      "nisi": "Καστελλόριζο (ή Μεγίστη)",
+      "ektasi_km2": 9.113,
+      "plithysmos_2021": 584,
+      "plithysmos_2011": 496,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 61,
+      "nisi": "Αμμουλιανή",
+      "ektasi_km2": 7.73,
+      "plithysmos_2021": 521,
+      "plithysmos_2011": 569,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 62,
+      "nisi": "Χάλκη",
+      "ektasi_km2": 26.988,
+      "plithysmos_2021": 475,
+      "plithysmos_2011": 478,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 63,
+      "nisi": "Ερείκουσα",
+      "ektasi_km2": 4.449,
+      "plithysmos_2021": 447,
+      "plithysmos_2011": 506,
+      "nisiotiko_symplegma": "Επτάνησα (Διαπόντια Νησιά)"
+    },
+    {
+      "seira": 64,
+      "nisi": "Ψαρά",
+      "ektasi_km2": 40.467,
+      "plithysmos_2021": 420,
+      "plithysmos_2011": 408,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 65,
+      "nisi": "Άνω Κουφονήσι",
+      "ektasi_km2": 5.77,
+      "plithysmos_2021": 391,
+      "plithysmos_2011": 412,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 66,
+      "nisi": "Οθωνοί",
+      "ektasi_km2": 10.078,
+      "plithysmos_2021": 386,
+      "plithysmos_2011": 558,
+      "nisiotiko_symplegma": "Επτάνησα (Διαπόντια Νησιά)"
+    },
+    {
+      "seira": 67,
+      "nisi": "Κάλαμος",
+      "ektasi_km2": 24.964,
+      "plithysmos_2021": 342,
+      "plithysmos_2011": 529,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 68,
+      "nisi": "Ανάφη",
+      "ektasi_km2": 38.636,
+      "plithysmos_2021": 293,
+      "plithysmos_2011": 271,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 69,
+      "nisi": "Άγιος Ευστράτιος",
+      "ektasi_km2": 43.325,
+      "plithysmos_2021": 257,
+      "plithysmos_2011": 249,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 70,
+      "nisi": "Σίκινος",
+      "ektasi_km2": 41.676,
+      "plithysmos_2021": 253,
+      "plithysmos_2011": 270,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 71,
+      "nisi": "Θηρασιά",
+      "ektasi_km2": 9.246,
+      "plithysmos_2021": 249,
+      "plithysmos_2011": 322,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 72,
+      "nisi": "Σχοινούσα",
+      "ektasi_km2": 8.144,
+      "plithysmos_2021": 229,
+      "plithysmos_2011": 225,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 73,
+      "nisi": "Δονούσα",
+      "ektasi_km2": 13.652,
+      "plithysmos_2021": 213,
+      "plithysmos_2011": 176,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 74,
+      "nisi": "Αγαθονήσι",
+      "ektasi_km2": 13.417,
+      "plithysmos_2021": 202,
+      "plithysmos_2011": 186,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 75,
+      "nisi": "Μαθράκι",
+      "ektasi_km2": 3.532,
+      "plithysmos_2021": 174,
+      "plithysmos_2011": 329,
+      "nisiotiko_symplegma": "Επτάνησα (Διαπόντια Νησιά)"
+    },
+    {
+      "seira": 76,
+      "nisi": "Ηρακλειά",
+      "ektasi_km2": 18.078,
+      "plithysmos_2021": 148,
+      "plithysmos_2011": 150,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 77,
+      "nisi": "Γαύδος",
+      "ektasi_km2": 29.585,
+      "plithysmos_2021": 142,
+      "plithysmos_2011": 158,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 78,
+      "nisi": "Θύμαινα",
+      "ektasi_km2": 10.071,
+      "plithysmos_2021": 136,
+      "plithysmos_2011": 142,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Φούρνοι)"
+    },
+    {
+      "seira": 79,
+      "nisi": "Τέλενδος",
+      "ektasi_km2": 4.648,
+      "plithysmos_2021": 94,
+      "plithysmos_2011": 111,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 80,
+      "nisi": "Τριζόνια",
+      "ektasi_km2": 2.45,
+      "plithysmos_2021": 112,
+      "plithysmos_2011": 86,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 81,
+      "nisi": "Καστός",
+      "ektasi_km2": 5.901,
+      "plithysmos_2021": 40,
+      "plithysmos_2011": 79,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 82,
+      "nisi": "Ψέριμος",
+      "ektasi_km2": 14.615,
+      "plithysmos_2021": 79,
+      "plithysmos_2011": 77,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 83,
+      "nisi": "Παλαιό Τρίκερι",
+      "ektasi_km2": 2.475,
+      "plithysmos_2021": 77,
+      "plithysmos_2011": 70,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 84,
+      "nisi": "Σαρία",
+      "ektasi_km2": 20.429,
+      "plithysmos_2021": 46,
+      "plithysmos_2011": 39,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 85,
+      "nisi": "Αρκιοί",
+      "ektasi_km2": 6.697,
+      "plithysmos_2021": 44,
+      "plithysmos_2011": 43,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 86,
+      "nisi": "Αντικύθηρα",
+      "ektasi_km2": 20.43,
+      "plithysmos_2021": 39,
+      "plithysmos_2011": 59,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 87,
+      "nisi": "Φαρμακονήσι",
+      "ektasi_km2": 3.866,
+      "plithysmos_2021": 21,
+      "plithysmos_2011": 10,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 88,
+      "nisi": "Περιστέρα",
+      "ektasi_km2": 14.25,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 30,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 89,
+      "nisi": "Δήλος",
+      "ektasi_km2": 3.536,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 24,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 90,
+      "nisi": "Καλόλιμνος",
+      "ektasi_km2": 1.92,
+      "plithysmos_2021": 15,
+      "plithysmos_2011": 21,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 91,
+      "nisi": "Γυαλί",
+      "ektasi_km2": 4.558,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 21,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 92,
+      "nisi": "Αντίπαξοι",
+      "ektasi_km2": 4.099,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 20,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 93,
+      "nisi": "Δοκός",
+      "ektasi_km2": 12.505,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 17,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 94,
+      "nisi": "Μακρόνησος",
+      "ektasi_km2": 18.427,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 8,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 95,
+      "nisi": "Πιπέρι",
+      "ektasi_km2": 4.228,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 6,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 96,
+      "nisi": "Μαράθι (ή Μάραθος)",
+      "ektasi_km2": 0.355,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 5,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 97,
+      "nisi": "Σαμιοπούλα",
+      "ektasi_km2": 1.018,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 4,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 98,
+      "nisi": "Αντίψαρα",
+      "ektasi_km2": 4.498,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 4,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου"
+    },
+    {
+      "seira": 99,
+      "nisi": "Κάτω Αντικέρι (ή Δρίμα)",
+      "ektasi_km2": 1.079,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 3,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 100,
+      "nisi": "Άγιος Μηνάς Φούρνων",
+      "ektasi_km2": 2.343,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 2,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Φούρνοι)"
+    },
+    {
+      "seira": 101,
+      "nisi": "Κυρά Παναγιά",
+      "ektasi_km2": 24.76,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 2,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 102,
+      "nisi": "Πολύαιγος",
+      "ektasi_km2": 18.146,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 2,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 103,
+      "nisi": "Σαπιέντζα",
+      "ektasi_km2": 9.1,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 2,
+      "nisiotiko_symplegma": "Μεσσηνιακές Οινούσσες"
+    },
+    {
+      "seira": 104,
+      "nisi": "Χρυσή",
+      "ektasi_km2": 4.743,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 2,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 105,
+      "nisi": "Πλάτη Καλύμνου (ή Πλατύ)",
+      "ektasi_km2": 0.726,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 1,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 106,
+      "nisi": "Σκορπιός",
+      "ektasi_km2": 0.878,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 1,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 107,
+      "nisi": "Σταμφάνη Στροφάδων",
+      "ektasi_km2": 2.531,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 1,
+      "nisiotiko_symplegma": "Επτάνησα"
+    },
+    {
+      "seira": 108,
+      "nisi": "Γυάρος",
+      "ektasi_km2": 17.574,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 109,
+      "nisi": "Μεγαλόνησος Πεταλιών",
+      "ektasi_km2": 17.2,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Πεταλιοί"
+    },
+    {
+      "seira": 110,
+      "nisi": "Κέρος",
+      "ektasi_km2": 15.042,
+      "plithysmos_2021": 0,
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 111,
+      "nisi": "Ρήνεια",
+      "ektasi_km2": 13.904,
+      "plithysmos_2021": 0,
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 112,
+      "nisi": "Σχίζα",
+      "ektasi_km2": 12.301,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Μεσσηνιακές Οινούσσες"
+    },
+    {
+      "seira": 113,
+      "nisi": "Δία",
+      "ektasi_km2": 11.909,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 114,
+      "nisi": "Γιούρα",
+      "ektasi_km2": 11.052,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 115,
+      "nisi": "Λέβιθα",
+      "ektasi_km2": 9.121,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 116,
+      "nisi": "Αντίμηλος",
+      "ektasi_km2": 8,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 117,
+      "nisi": "Σύρνα",
+      "ektasi_km2": 7.868,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 118,
+      "nisi": "Δεσποτικό",
+      "ektasi_km2": 7.754,
+      "plithysmos_2021": 0,
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 119,
+      "nisi": "Αλιμιά",
+      "ektasi_km2": 7.427,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 120,
+      "nisi": "Σκάντζουρα",
+      "ektasi_km2": 6.229,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 121,
+      "nisi": "Πεταλάς",
+      "ektasi_km2": 5.497,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 122,
+      "nisi": "Νίμος",
+      "ektasi_km2": 4.648,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 123,
+      "nisi": "Κίναρος",
+      "ektasi_km2": 4.577,
+      "plithysmos_2021": 1,
+      "plithysmos_2011": 1,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 124,
+      "nisi": "Άτοκος",
+      "ektasi_km2": 4.375,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 125,
+      "nisi": "Βάλαξα",
+      "ektasi_km2": 4.333,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 126,
+      "nisi": "Άγιος Γεώργιος Ύδρας",
+      "ektasi_km2": 4.329,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 127,
+      "nisi": "Αρκούδι",
+      "ektasi_km2": 4.275,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 128,
+      "nisi": "Κουφονήσι Λασιθίου",
+      "ektasi_km2": 4.26,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 129,
+      "nisi": "Οξεία",
+      "ektasi_km2": 4.223,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 130,
+      "nisi": "Κάτω Κουφονήσι",
+      "ektasi_km2": 3.898,
+      "plithysmos_2021": 0,
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 131,
+      "nisi": "Χερσονήσι Πεταλιών",
+      "ektasi_km2": 3.833,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Πεταλιοί"
+    },
+    {
+      "seira": 132,
+      "nisi": "Σκυροπούλα",
+      "ektasi_km2": 3.827,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 133,
+      "nisi": "Νέα Καμένη",
+      "ektasi_km2": 3.338,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 134,
+      "nisi": "Σαρακηνό",
+      "ektasi_km2": 3.337,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 135,
+      "nisi": "Διάπορος",
+      "ektasi_km2": 3.2,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 136,
+      "nisi": "Σφακτηρία",
+      "ektasi_km2": 3.15,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 137,
+      "nisi": "Πρώτη",
+      "ektasi_km2": 3.05,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 138,
+      "nisi": "Δραγονάδα",
+      "ektasi_km2": 2.892,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης (Διονυσάδες)"
+    },
+    {
+      "seira": 139,
+      "nisi": "Πάτροκλος",
+      "ektasi_km2": 2.8,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 140,
+      "nisi": "Αρμάθια",
+      "ektasi_km2": 2.567,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 141,
+      "nisi": "Δρακονέρα",
+      "ektasi_km2": 2.442,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 142,
+      "nisi": "Πασάς",
+      "ektasi_km2": 2.414,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Οινούσσες)"
+    },
+    {
+      "seira": 143,
+      "nisi": "Ψηλή Αργολίδας",
+      "ektasi_km2": 2.1,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 144,
+      "nisi": "Γιανυσάδα",
+      "ektasi_km2": 2.098,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης (Διονυσάδες)"
+    },
+    {
+      "seira": 145,
+      "nisi": "Γαυδοπούλα",
+      "ektasi_km2": 2,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 146,
+      "nisi": "Σπετσοπούλα",
+      "ektasi_km2": 1.956,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 147,
+      "nisi": "Οφιδούσσα",
+      "ektasi_km2": 1.94,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 148,
+      "nisi": "Καβαλλιανή",
+      "ektasi_km2": 1.925,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 149,
+      "nisi": "Βελοπούλα",
+      "ektasi_km2": 1.85,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 150,
+      "nisi": "Σεσκλί",
+      "ektasi_km2": 1.835,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 151,
+      "nisi": "Πλατειά Αργολίδας",
+      "ektasi_km2": 1.8,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 152,
+      "nisi": "Σεριφοπούλα",
+      "ektasi_km2": 1.75,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 153,
+      "nisi": "Ελάσα",
+      "ektasi_km2": 1.746,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 154,
+      "nisi": "Στύρα",
+      "ektasi_km2": 1.7,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": ""
+    },
+    {
+      "seira": 155,
+      "nisi": "Στρογγυλό Αντιπάρου",
+      "ektasi_km2": 1.638,
+      "plithysmos_2021": 0,
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 156,
+      "nisi": "Αρχάγγελος Λέρου",
+      "ektasi_km2": 1.608,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 157,
+      "nisi": "Ρόμβη Αργολίδας",
+      "ektasi_km2": 1.6,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 158,
+      "nisi": "Ψείρα",
+      "ektasi_km2": 1.518,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 159,
+      "nisi": "Ρω",
+      "ektasi_km2": 1.476,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 160,
+      "nisi": "Κουνούποι",
+      "ektasi_km2": 1.457,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 161,
+      "nisi": "Καρδιώτισσα",
+      "ektasi_km2": 1.43,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 162,
+      "nisi": "Φλέβες",
+      "ektasi_km2": 1.4,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 163,
+      "nisi": "Κανδελιούσσα",
+      "ektasi_km2": 1.363,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 164,
+      "nisi": "Μονή",
+      "ektasi_km2": 1.35,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 165,
+      "nisi": "Αργελούσσα",
+      "ektasi_km2": 1.328,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 166,
+      "nisi": "Φαλκονέρα",
+      "ektasi_km2": 1.3,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 167,
+      "nisi": "Ζαφοράς (ή Μεγάλο Σοφράνο)",
+      "ektasi_km2": 1.281,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 168,
+      "nisi": "Προβάτι",
+      "ektasi_km2": 1.21,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 169,
+      "nisi": "Άνυδρος Θήρας",
+      "ektasi_km2": 1.2,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 170,
+      "nisi": "Χριστιανή",
+      "ektasi_km2": 1.188,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 171,
+      "nisi": "Παχειά Νισύρου",
+      "ektasi_km2": 1.184,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 172,
+      "nisi": "Τσουγκριά",
+      "ektasi_km2": 1.173,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 173,
+      "nisi": "Περγούσσα",
+      "ektasi_km2": 1.169,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 174,
+      "nisi": "Άνω Αντικέρι",
+      "ektasi_km2": 1.077,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 175,
+      "nisi": "Βρόμωνας",
+      "ektasi_km2": 1.047,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 176,
+      "nisi": "Αδέλφι Αλοννήσου",
+      "ektasi_km2": 1.027,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 177,
+      "nisi": "Στρογγυλή Μεγίστης",
+      "ektasi_km2": 1.025,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 178,
+      "nisi": "Τρίκερι Ύδρας",
+      "ektasi_km2": 1,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 179,
+      "nisi": "Αστακίδα",
+      "ektasi_km2": 0.984,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 180,
+      "nisi": "Μάκρη Εχινάδων",
+      "ektasi_km2": 0.983,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 181,
+      "nisi": "Ποντικούσα Αστυπάλαιας",
+      "ektasi_km2": 0.982,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 182,
+      "nisi": "Άγιος Νικόλαος Μακάρων",
+      "ektasi_km2": 0.912,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 183,
+      "nisi": "Άγιος Θωμάς Αίγινας",
+      "ektasi_km2": 0.9,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού (Διαπόριοι Νήσοι)"
+    },
+    {
+      "seira": 184,
+      "nisi": "Άγιος Ιωάννης Αίγινας",
+      "ektasi_km2": 0.85,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού (Διαπόριοι Νήσοι)"
+    },
+    {
+      "seira": 185,
+      "nisi": "Πράσσο Γιούρων",
+      "ektasi_km2": 0.843,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 186,
+      "nisi": "Άγρια Γραμβούσα",
+      "ektasi_km2": 0.825,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 187,
+      "nisi": "Κύθρος",
+      "ektasi_km2": 0.814,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 188,
+      "nisi": "Γάιδαρος Μεγάλου Χωριού Τήλου",
+      "ektasi_km2": 0.802,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 189,
+      "nisi": "Κυρά Αγκιστρίου",
+      "ektasi_km2": 0.8,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 190,
+      "nisi": "Αρσίδα",
+      "ektasi_km2": 0.8,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 191,
+      "nisi": "Ψαθούρα",
+      "ektasi_km2": 0.763,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 192,
+      "nisi": "Κιτριανή",
+      "ektasi_km2": 0.75,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 193,
+      "nisi": "Ποντικός Εχινάδων",
+      "ektasi_km2": 0.736,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 194,
+      "nisi": "Ήμερη Γραμβούσα",
+      "ektasi_km2": 0.722,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 195,
+      "nisi": "Καρλονήσι",
+      "ektasi_km2": 0.719,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 196,
+      "nisi": "Λεχούσα Αλοννήσου",
+      "ektasi_km2": 0.688,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 197,
+      "nisi": "Κισηριά",
+      "ektasi_km2": 0.662,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Φούρνοι)"
+    },
+    {
+      "seira": 198,
+      "nisi": "Άγιος Θεόδωρος Χάλκης",
+      "ektasi_km2": 0.651,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 199,
+      "nisi": "Μακρονήσι Φούρνων",
+      "ektasi_km2": 0.647,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Φούρνοι)"
+    },
+    {
+      "seira": 200,
+      "nisi": "Οφειδούσσα Σχοινούσσας",
+      "ektasi_km2": 0.63,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες (Μικρές Κυκλάδες)"
+    },
+    {
+      "seira": 201,
+      "nisi": "Πλατύ Σκύρου (ή Πλατειά)",
+      "ektasi_km2": 0.619,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 202,
+      "nisi": "Μακρύ Ρόδου",
+      "ektasi_km2": 0.581,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 203,
+      "nisi": "Μεγάλο Φωκιονήσι",
+      "ektasi_km2": 0.569,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 204,
+      "nisi": "Ανθρωποφάς Φούρνων",
+      "ektasi_km2": 0.545,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Φούρνοι)"
+    },
+    {
+      "seira": 205,
+      "nisi": "Σπάρτη Λευκάδας",
+      "ektasi_km2": 0.538,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Τηλεβοΐδες νήσοι)"
+    },
+    {
+      "seira": 206,
+      "nisi": "Ρήνεια Σκύρου",
+      "ektasi_km2": 0.533,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 207,
+      "nisi": "Παλαιά Καμένη",
+      "ektasi_km2": 0.525,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 208,
+      "nisi": "Πλακίδα Αστυπάλαιας",
+      "ektasi_km2": 0.514,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 209,
+      "nisi": "Αντίτηλος Τήλου",
+      "ektasi_km2": 0.51,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 210,
+      "nisi": "Κουτσομύτι Αστυπάλαιας",
+      "ektasi_km2": 0.459,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 211,
+      "nisi": "Νερά Καλύμνου",
+      "ektasi_km2": 0.456,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 212,
+      "nisi": "Ελαφονήσι Χανίων",
+      "ektasi_km2": 0.435,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης"
+    },
+    {
+      "seira": 213,
+      "nisi": "Νερά Αγαθονησίου (ή Νερονήσι)",
+      "ektasi_km2": 0.433,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 214,
+      "nisi": "Χαμηλή Καρπάθου",
+      "ektasi_km2": 0.429,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 215,
+      "nisi": "Άγιος Γεώργιος Αλοννήσου",
+      "ektasi_km2": 0.417,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 216,
+      "nisi": "Μεσονήσι Αστυπάλαιας",
+      "ektasi_km2": 0.416,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 217,
+      "nisi": "Αρκό Σκιάθου",
+      "ektasi_km2": 0.414,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 218,
+      "nisi": "Θυμαινάκι",
+      "ektasi_km2": 0.412,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του βορειοανατολικού Αιγαίου (Φούρνοι)"
+    },
+    {
+      "seira": 219,
+      "nisi": "Αδελφόπουλο Αλοννήσου",
+      "ektasi_km2": 0.391,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 220,
+      "nisi": "Χονδρό Αστυπάλαιας",
+      "ektasi_km2": 0.387,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 221,
+      "nisi": "Τραγονήσι Πάτμου",
+      "ektasi_km2": 0.379,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 222,
+      "nisi": "Πηγανούσσα Λέρου",
+      "ektasi_km2": 0.376,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Δωδεκάνησα"
+    },
+    {
+      "seira": 223,
+      "nisi": "Ψυττάλεια",
+      "ektasi_km2": 0.375,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησιά του Αργοσαρωνικού"
+    },
+    {
+      "seira": 224,
+      "nisi": "Στρογγυλό Μακάρων",
+      "ektasi_km2": 0.354,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 225,
+      "nisi": "Λαμπρινός Εχινάδων",
+      "ektasi_km2": 0.352,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 226,
+      "nisi": "Δασιά Σκοπέλου",
+      "ektasi_km2": 0.34,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 227,
+      "nisi": "Παξιμάδα Λασιθίου",
+      "ektasi_km2": 0.311,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Νησίδες της Κρήτης (Διονυσάδες)"
+    },
+    {
+      "seira": 228,
+      "nisi": "Διάπλο Μαθρακίου",
+      "ektasi_km2": 0.31,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Διαπόντια Νησιά)"
+    },
+    {
+      "seira": 229,
+      "nisi": "Κούλουρη Σκύρου (ή Κουλούρι)",
+      "ektasi_km2": 0.285,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 230,
+      "nisi": "Πράσσο Σκάντζουρας",
+      "ektasi_km2": 0.262,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Βόρειες Σποράδες"
+    },
+    {
+      "seira": 231,
+      "nisi": "Μόδι Εχινάδων",
+      "ektasi_km2": 0.258,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    },
+    {
+      "seira": 232,
+      "nisi": "Ασκανιά Θήρας",
+      "ektasi_km2": 0.257,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Κυκλάδες"
+    },
+    {
+      "seira": 233,
+      "nisi": "Καλόγηρος Εχινάδων",
+      "ektasi_km2": 0.249,
+      "plithysmos_2021": "",
+      "plithysmos_2011": 0,
+      "nisiotiko_symplegma": "Επτάνησα (Εχινάδες)"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικά νησιά ανά πληθυσμό - Free Download",
+    "description": "Ελληνικά νησιά ταξινομημένα ανά πληθυσμό (απογραφές 2021 και 2011) με έκταση. Contains 233 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικά νησιά ανά πληθυσμό | ListBase",
+    "seo_description": "Download Ελληνικά νησιά ανά πληθυσμό — 233 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 233 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_νησιών_ανά_πληθυσμό"
+    ]
+  }
+}

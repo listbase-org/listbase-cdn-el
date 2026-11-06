@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-06T02:29:10.540Z",
-  "total_datasets": 489,
-  "total_records": 196761,
+  "generated": "2026-11-06T02:29:21.059Z",
+  "total_datasets": 490,
+  "total_records": 196994,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 21
+      "dataset_count": 22
     },
     {
       "id": "health",
@@ -4430,6 +4430,33 @@
         "xlsx": {
           "name": "el-nisia_EL.xlsx",
           "size": 225587
+        }
+      }
+    },
+    {
+      "id": "el-nisia-ana-plithysmo",
+      "name": "Ελληνικά νησιά ανά πληθυσμό",
+      "category": "geography",
+      "record_count": 233,
+      "columns": [
+        "seira",
+        "nisi",
+        "ektasi_km2",
+        "plithysmos_2021",
+        "plithysmos_2011",
+        "nisiotiko_symplegma"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_νησιών_ανά_πληθυσμό",
+      "updated": "2026-11",
+      "size": 53229,
+      "files": {
+        "csv": {
+          "name": "el-nisia-ana-plithysmo_EL.csv",
+          "size": 18832
+        },
+        "xlsx": {
+          "name": "el-nisia-ana-plithysmo_EL.xlsx",
+          "size": 16733
         }
       }
     },
