@@ -1,0 +1,116 @@
+{
+  "id": "el-touristikes-afixeis-ana-etos",
+  "name": "Τουριστικές αφίξεις στην Ελλάδα ανά έτος",
+  "title": "Τουριστικές αφίξεις στην Ελλάδα ανά έτος",
+  "description": "Αφίξεις μη μονίμων κατοίκων (τουριστική κίνηση) στην Ελλάδα ανά έτος από το 2005.",
+  "category": "tourism",
+  "source": "https://el.wikipedia.org/wiki/Τουρισμός_στην_Ελλάδα",
+  "source_url": "https://el.wikipedia.org/wiki/Τουρισμός_στην_Ελλάδα",
+  "updated": "2026-11",
+  "record_count": 20,
+  "columns": [
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "afixeis_mi_monimon_katoikon",
+      "label": "Afixeis Mi Monimon Katoikon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "etos": 2005,
+      "afixeis_mi_monimon_katoikon": 14388212
+    },
+    {
+      "etos": 2006,
+      "afixeis_mi_monimon_katoikon": 15226201
+    },
+    {
+      "etos": 2007,
+      "afixeis_mi_monimon_katoikon": 16165347
+    },
+    {
+      "etos": 2008,
+      "afixeis_mi_monimon_katoikon": 15938806
+    },
+    {
+      "etos": 2009,
+      "afixeis_mi_monimon_katoikon": 14914534
+    },
+    {
+      "etos": 2010,
+      "afixeis_mi_monimon_katoikon": 15007490
+    },
+    {
+      "etos": 2011,
+      "afixeis_mi_monimon_katoikon": 16427247
+    },
+    {
+      "etos": 2012,
+      "afixeis_mi_monimon_katoikon": 17919580
+    },
+    {
+      "etos": 2013,
+      "afixeis_mi_monimon_katoikon": 17919580
+    },
+    {
+      "etos": 2014,
+      "afixeis_mi_monimon_katoikon": 22033463
+    },
+    {
+      "etos": 2015,
+      "afixeis_mi_monimon_katoikon": 23599455
+    },
+    {
+      "etos": 2016,
+      "afixeis_mi_monimon_katoikon": 28070886
+    },
+    {
+      "etos": 2017,
+      "afixeis_mi_monimon_katoikon": 30161023
+    },
+    {
+      "etos": 2018,
+      "afixeis_mi_monimon_katoikon": 33072238
+    },
+    {
+      "etos": 2019,
+      "afixeis_mi_monimon_katoikon": 31348745
+    },
+    {
+      "etos": 2020,
+      "afixeis_mi_monimon_katoikon": 7375241
+    },
+    {
+      "etos": 2021,
+      "afixeis_mi_monimon_katoikon": 14705410
+    },
+    {
+      "etos": 2022,
+      "afixeis_mi_monimon_katoikon": 27835508
+    },
+    {
+      "etos": 2023,
+      "afixeis_mi_monimon_katoikon": 32735648
+    },
+    {
+      "etos": 2024,
+      "afixeis_mi_monimon_katoikon": 35951987
+    }
+  ],
+  "meta": {
+    "title": "Τουριστικές αφίξεις στην Ελλάδα ανά έτος - Free Download",
+    "description": "Αφίξεις μη μονίμων κατοίκων (τουριστική κίνηση) στην Ελλάδα ανά έτος από το 2005. Contains 20 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Τουριστικές αφίξεις στην Ελλάδα ανά έτος | ListBase",
+    "seo_description": "Download Τουριστικές αφίξεις στην Ελλάδα ανά έτος — 20 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 20 records / 2 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Τουρισμός_στην_Ελλάδα"
+    ]
+  }
+}
