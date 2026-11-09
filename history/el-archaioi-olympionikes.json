@@ -1,0 +1,6666 @@
+{
+  "id": "el-archaioi-olympionikes",
+  "name": "Κατάλογος αρχαίων Ολυμπιονικών",
+  "title": "Κατάλογος αρχαίων Ολυμπιονικών",
+  "description": "Νικητές των αρχαίων Ολυμπιακών Αγώνων από το 776 π.Χ.: διοργάνωση, έτος, αγώνισμα, ολυμπιονίκης και πόλη καταγωγής.",
+  "category": "history",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_αρχαίων_ολυμπιονικών",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_αρχαίων_ολυμπιονικών",
+  "updated": "2026-11",
+  "record_count": 945,
+  "columns": [
+    {
+      "key": "diorganosi",
+      "label": "Diorganosi",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "string"
+    },
+    {
+      "key": "agonisma",
+      "label": "Agonisma",
+      "type": "string"
+    },
+    {
+      "key": "olympionikis",
+      "label": "Olympionikis",
+      "type": "string"
+    },
+    {
+      "key": "poli",
+      "label": "Poli",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "diorganosi": "1η",
+      "etos": "776 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κόροιβος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "2η",
+      "etos": "772 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αντίμαχος",
+      "poli": "Δυσπόντιοι"
+    },
+    {
+      "diorganosi": "3η",
+      "etos": "768 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Άνδροκλος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "4η",
+      "etos": "764 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πολυχάρης",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "5η",
+      "etos": "760 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αισχίνης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "6η",
+      "etos": "756 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Οιβώτας",
+      "poli": "Δύμη"
+    },
+    {
+      "diorganosi": "7η",
+      "etos": "752 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δαϊκλής",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "8η",
+      "etos": "748 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αντικλής",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "9η",
+      "etos": "744 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ξενόδοκος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "10η",
+      "etos": "740 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δωτάδης",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "11η",
+      "etos": "736 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λεωχάρης",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "12η",
+      "etos": "732 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Οξύθεμις",
+      "poli": "Κλεωναί Αργολίδας"
+    },
+    {
+      "diorganosi": "13η",
+      "etos": "728 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διοκλής ο Κορίνθιος",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "14η",
+      "etos": "724 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δάσμων",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "14η",
+      "etos": "724 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Ύπηνος",
+      "poli": "Πίσα"
+    },
+    {
+      "diorganosi": "15η",
+      "etos": "720 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Άκανθος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "15η",
+      "etos": "720 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Όρσιππος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "16η",
+      "etos": "716 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πυθαγόρας ο Λάκων",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "17η",
+      "etos": "712 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πώλος",
+      "poli": "Επίδαυρος"
+    },
+    {
+      "diorganosi": "18η",
+      "etos": "708 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Τέλλις",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "18η",
+      "etos": "708 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Λάμπις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "18η",
+      "etos": "708 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ευρύβατος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "19η",
+      "etos": "704 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μένος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "20η",
+      "etos": "700 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αθηράδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "21η",
+      "etos": "696 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παντακλής",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "22η",
+      "etos": "692 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παντακλής",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "22η",
+      "etos": "692 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Παντακλής",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "23η",
+      "etos": "688 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Ονόμαστος",
+      "poli": "Σμύρνη"
+    },
+    {
+      "diorganosi": "23η",
+      "etos": "688 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ίκαρος",
+      "poli": "Υπερησία"
+    },
+    {
+      "diorganosi": "24η",
+      "etos": "684 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κλεοπτόλεμος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "24η",
+      "etos": "684 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Φάνας",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "25η",
+      "etos": "680 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Πάγων",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "25η",
+      "etos": "680 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Θάλπις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "26η",
+      "etos": "676 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Καλλισθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "26η",
+      "etos": "676 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Φιλόμβροτος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "27η",
+      "etos": "672 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δάιππος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "27η",
+      "etos": "672 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Φιλόμβροτος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "27η",
+      "etos": "672 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ευρυβάτης",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "28η",
+      "etos": "668 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Φιλόμβροτος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "28η",
+      "etos": "668 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Χίονις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "29η",
+      "etos": "664 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Χίονις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "29η",
+      "etos": "664 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Χίονις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "30η",
+      "etos": "660 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Χίονις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "30η",
+      "etos": "660 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Χίονις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "31η",
+      "etos": "656 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Χίονις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "31η",
+      "etos": "656 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Χίονις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "32η",
+      "etos": "652 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Κομαίος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "32η",
+      "etos": "652 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κρατίνος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "33η",
+      "etos": "648 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Κραυξίδας",
+      "poli": "Θεσσαλία, Κραννών"
+    },
+    {
+      "diorganosi": "33η",
+      "etos": "648 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Μύρων",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "33η",
+      "etos": "648 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Λύγδαμις",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "33η",
+      "etos": "648 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Γύλις",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "34η",
+      "etos": "644 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Στόμας",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "35η",
+      "etos": "640 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σφαίρος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "35η",
+      "etos": "640 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Κύλων",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "36η",
+      "etos": "636 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αρυτάμας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "36η",
+      "etos": "636 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Φρύνων",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "37η",
+      "etos": "632 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Πολυνείκης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "37η",
+      "etos": "632 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ευρυκλείδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "37η",
+      "etos": "632 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Ιπποσθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "38η",
+      "etos": "628 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ολυνθεύς",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "38η",
+      "etos": "628 π.Χ.",
+      "agonisma": "Πένταθλον παίδων",
+      "olympionikis": "Ευτελίδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "39η",
+      "etos": "624 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ιπποσθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "39η",
+      "etos": "624 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ριψόλαος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "40η",
+      "etos": "620 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ολυνθεύς",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "40η",
+      "etos": "620 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ιπποσθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "41η",
+      "etos": "616 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κλεώνδας",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "41η",
+      "etos": "616 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ιπποσθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "41η",
+      "etos": "616 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Φιλύτας",
+      "poli": "Σύβαρις"
+    },
+    {
+      "diorganosi": "42η",
+      "etos": "612 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λυκώτας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "42η",
+      "etos": "612 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ιπποσθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "43η",
+      "etos": "608 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ιπποσθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "43η",
+      "etos": "608 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κλέων",
+      "poli": "Επίδαυρος"
+    },
+    {
+      "diorganosi": "44η",
+      "etos": "604 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Γέλων",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "44η",
+      "etos": "604 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Ετοιμοκλής",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "45η",
+      "etos": "600 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ετοιμοκλής",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "45η",
+      "etos": "600 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αντικράτης",
+      "poli": "Επίδαυρος"
+    },
+    {
+      "diorganosi": "46η",
+      "etos": "596 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ετοιμοκλής",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "46η",
+      "etos": "596 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Χρυσάμαξος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "46η",
+      "etos": "596 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Πολυμήστωρ",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "47η",
+      "etos": "592 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ευρυκλής",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "47η",
+      "etos": "592 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ετοιμοκλής",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "47η",
+      "etos": "592 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αλκμαίων",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "48η",
+      "etos": "588 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Γλαυκίας",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "48η",
+      "etos": "588 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Πυθαγόρας ο Σάμιος",
+      "poli": "Σάμος"
+    },
+    {
+      "diorganosi": "48η",
+      "etos": "588 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ετοιμοκλής",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "48η",
+      "etos": "588 π.Χ.",
+      "agonisma": "Ειδικό αγώνισμα",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "49η",
+      "etos": "584 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λυκίνος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "50η",
+      "etos": "580 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Επιτελίδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "51η",
+      "etos": "576 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ερατοσθένης",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "52η",
+      "etos": "572 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Κλεισθένης",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "52η",
+      "etos": "572 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Άγις",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "52η",
+      "etos": "572 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Τίσανδρος",
+      "poli": "Νάξος Σικελίας"
+    },
+    {
+      "diorganosi": "52η",
+      "etos": "572 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αρριχίων",
+      "poli": "Φιγαλεία"
+    },
+    {
+      "diorganosi": "53η",
+      "etos": "568 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Τίσανδρος",
+      "poli": "Νάξος Σικελίας"
+    },
+    {
+      "diorganosi": "53η",
+      "etos": "568 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Άγνων",
+      "poli": "Πεπάρηθος"
+    },
+    {
+      "diorganosi": "53η",
+      "etos": "568 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αρριχίων",
+      "poli": "Φιγαλεία"
+    },
+    {
+      "diorganosi": "54η",
+      "etos": "564 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ιππόστρατος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "54η",
+      "etos": "564 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Τίσανδρος",
+      "poli": "Νάξος Σικελίας"
+    },
+    {
+      "diorganosi": "54η",
+      "etos": "564 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Καλλίας Φαινίππου",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "54η",
+      "etos": "564 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αρριχίων",
+      "poli": "Φιγαλεία"
+    },
+    {
+      "diorganosi": "55η",
+      "etos": "560 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ιππόστρατος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "55η",
+      "etos": "560 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Τίσανδρος",
+      "poli": "Νάξος Σικελίας"
+    },
+    {
+      "diorganosi": "55η",
+      "etos": "560 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Μιλτιάδης Κυψέλου",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "56η",
+      "etos": "556 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Φαίδρος",
+      "poli": "Θεσσαλία, Φάρσαλα"
+    },
+    {
+      "diorganosi": "57η",
+      "etos": "552 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λάδρομος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "58η",
+      "etos": "548 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διόγνητος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "58η",
+      "etos": "548 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ευαγόρας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "59η",
+      "etos": "544 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αρχίλοχος",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "59η",
+      "etos": "544 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ευαγόρας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "59η",
+      "etos": "544 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Πραξιδάμας",
+      "poli": "Αίγινα"
+    },
+    {
+      "diorganosi": "60η",
+      "etos": "540 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Μίλων",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "60η",
+      "etos": "540 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Λεωκρέων",
+      "poli": "Κέα"
+    },
+    {
+      "diorganosi": "60η",
+      "etos": "540 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Απελλαίος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "60η",
+      "etos": "540 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ευαγόρας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "61η",
+      "etos": "536 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αγάθαρχος",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "61η",
+      "etos": "536 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ρηξίβιος",
+      "poli": "Οπούς (Λοκρίδα)"
+    },
+    {
+      "diorganosi": "61η",
+      "etos": "536 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Κίμων του Στησαγόρα",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "62η",
+      "etos": "532 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μίλων",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "62η",
+      "etos": "532 π.Χ.",
+      "agonisma": "άγνωστo αγώνισμα (Πάλη ή Πυγμαχία ή Παγκράτιο)",
+      "olympionikis": "Ευρυμένης",
+      "poli": "Σάμος"
+    },
+    {
+      "diorganosi": "62η",
+      "etos": "532 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Πεισίστρατος (του δόθηκε από τον Κίμωνα του Στησαγόρα)",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "62η",
+      "etos": "532 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ερυξίας",
+      "poli": "Χαλκίδα"
+    },
+    {
+      "diorganosi": "63η",
+      "etos": "528 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μίλων",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "63η",
+      "etos": "528 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παρμενίδης",
+      "poli": "Καμάρινα"
+    },
+    {
+      "diorganosi": "63η",
+      "etos": "528 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Κίμων του Στησαγόρα",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "64η",
+      "etos": "524 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μίλων",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "64η",
+      "etos": "524 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μένανδρος",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "65η",
+      "etos": "520 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μίλων",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "65η",
+      "etos": "520 π.Χ.",
+      "agonisma": "άγνωστο δρόμου",
+      "olympionikis": "Φίλιππος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "65η",
+      "etos": "520 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Γλαύκος",
+      "poli": "Κάρυστος"
+    },
+    {
+      "diorganosi": "65η",
+      "etos": "520 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "άγνωστος",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "65η",
+      "etos": "520 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Δαμάρετος",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "65η",
+      "etos": "520 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Άνοχος",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "65η",
+      "etos": "520 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Άνοχος",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "66η",
+      "etos": "516 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μίλων",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "66η",
+      "etos": "516 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Δαμάρετος",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "66η",
+      "etos": "516 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τιμασίθεος",
+      "poli": "Δελφοί"
+    },
+    {
+      "diorganosi": "66η",
+      "etos": "516 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Κλεοσθένης",
+      "poli": "Επίδαμνος"
+    },
+    {
+      "diorganosi": "66η",
+      "etos": "516 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ισχυρός",
+      "poli": "Ιμέρα"
+    },
+    {
+      "diorganosi": "67η",
+      "etos": "512 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Τιμασίθεος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "67η",
+      "etos": "512 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Φειδώλας",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "67η",
+      "etos": "512 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τιμασίθεος",
+      "poli": "Δελφοί"
+    },
+    {
+      "diorganosi": "67η",
+      "etos": "512 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Φάνας",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "67η",
+      "etos": "512 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Φάνας",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "67η",
+      "etos": "512 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Φάνας",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "68η",
+      "etos": "508 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ισχόμαχος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "68η",
+      "etos": "508 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Υιοί Φειδώλα",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "68η",
+      "etos": "508 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Καλλιτέλης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "68η",
+      "etos": "508 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Παντάρης",
+      "poli": "Γέλα"
+    },
+    {
+      "diorganosi": "68η",
+      "etos": "508 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Φρικίας",
+      "poli": "Θεσσαλία, Πέλιννα"
+    },
+    {
+      "diorganosi": "69η",
+      "etos": "504 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ισχόμαχος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "69η",
+      "etos": "504 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Φίλων",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "69η",
+      "etos": "504 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Θεσσαλός",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "69η",
+      "etos": "504 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Δημάρατος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "69η",
+      "etos": "504 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Τίτας",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "69η",
+      "etos": "504 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Φρικίας",
+      "poli": "Θεσσαλία, Πέλιννα"
+    },
+    {
+      "diorganosi": "70η",
+      "etos": "500 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Φίλων",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "70η",
+      "etos": "500 π.Χ.",
+      "agonisma": "Απήνη",
+      "olympionikis": "Θέρσιος",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "70η",
+      "etos": "500 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Ακματίδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "70η",
+      "etos": "500 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Αγαμήτωρ",
+      "poli": "Μαντίνεια Αρκαδίας"
+    },
+    {
+      "diorganosi": "70η",
+      "etos": "500 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Νικέας",
+      "poli": "Οπούς (Λοκρίδα)"
+    },
+    {
+      "diorganosi": "70η",
+      "etos": "500 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Καλλίας Β´",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "70η",
+      "etos": "500 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Μενεπτόλεμος",
+      "poli": "Απολλωνία Ιλλυρική"
+    },
+    {
+      "diorganosi": "71η",
+      "etos": "496 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Τισικράτης",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "71η",
+      "etos": "496 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Φίλων",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "71η",
+      "etos": "496 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Καλλίας Β´",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "71η",
+      "etos": "496 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Εμπεδοκλής",
+      "poli": "Ακράγαντας"
+    },
+    {
+      "diorganosi": "71η",
+      "etos": "496 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Εξαίνετος",
+      "poli": "Ακράγαντας"
+    },
+    {
+      "diorganosi": "71η",
+      "etos": "496 π.Χ.",
+      "agonisma": "Κάλπη",
+      "olympionikis": "Πάταικος",
+      "poli": "Δύμη"
+    },
+    {
+      "diorganosi": "72η",
+      "etos": "492 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Τισικράτης",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "72η",
+      "etos": "492 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Ιερώνυμος",
+      "poli": "Άνδρος"
+    },
+    {
+      "diorganosi": "72η",
+      "etos": "492 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Καλλίας Β´",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "72η",
+      "etos": "492 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Κλεομήδης",
+      "poli": "Αστυπάλαια"
+    },
+    {
+      "diorganosi": "72η",
+      "etos": "492 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Κρόκων",
+      "poli": "Ερέτρια"
+    },
+    {
+      "diorganosi": "72η",
+      "etos": "492 π.Χ.",
+      "agonisma": "άγνωστο δρόμου",
+      "olympionikis": "Ιπποκλέας",
+      "poli": "Θεσσαλία, Πέλιννα"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Διόγνητος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αστύλος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Αστύλος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Αγιάδας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Ευθυκλής",
+      "poli": "Λοκροί"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Ασώπιχος",
+      "poli": "Ορχομενός"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Γέλων",
+      "poli": "Γέλα"
+    },
+    {
+      "diorganosi": "73η",
+      "etos": "488 π.Χ.",
+      "agonisma": "άγνωστο δρόμου",
+      "olympionikis": "Ιπποκλέας",
+      "poli": "Θεσσαλία, Πέλιννα"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Μνασέας",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αστύλος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Αστύλος",
+      "poli": "Κρότωνας"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Θεόπομπος",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Δρομεύς",
+      "poli": "Στύμφηλος"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Πολυπείθης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Εύθυμος",
+      "poli": "Λοκροί"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Επικράδιος",
+      "poli": "Μαντίνεια Αρκαδίας"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Τηλέμαχος",
+      "poli": "Θεσσαλία, Φάρσαλα"
+    },
+    {
+      "diorganosi": "74η",
+      "etos": "484 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αγίας",
+      "poli": "Θεσσαλία, Φάρσαλα"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Ξενοπείθης",
+      "poli": "Χίος"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Δαιτώνδας και Αρσίλοχος",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αστύλος",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Αστύλος",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Αστύλος",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Θεόπομπος",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "[...]φάνης",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Δρομεύς",
+      "poli": "Στύμφηλος"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Θεαγένης",
+      "poli": "Θάσος"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Δρομεύς",
+      "poli": "Μαντίνεια Αρκαδίας"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "(νίκη πόλης)",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "[...]κων",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "75η",
+      "etos": "480 π.Χ.",
+      "agonisma": "Απήνη",
+      "olympionikis": "Αναξίλαος",
+      "poli": "Ρήγιο Καλαβρίας"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Ζώπυρος",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Ιέρων",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Θεαγένης",
+      "poli": "Θάσος"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "άγνωστος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "άγνωστος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "άγνωστος",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σκάμανδρος",
+      "poli": "Λέσβος"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Αγησίδαμος",
+      "poli": "Λοκροί"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Εύθυμος",
+      "poli": "Λοκροί"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "άγνωστος",
+      "poli": "Μαρώνεια Θράκης"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Δάνδις",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Θεόγνητος",
+      "poli": "Αίγινα"
+    },
+    {
+      "diorganosi": "76η",
+      "etos": "476 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Θήρων",
+      "poli": "Ακράγαντας"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "[...]τανδρίδας",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Ιέρων",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "[...]μένης",
+      "poli": "Σάμος"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "[...]κρατίδας",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "[...]αμος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Εύθυμος",
+      "poli": "Λοκροί"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Τέλλων",
+      "poli": "Ορέσθειο (Αρκαδία)"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "(νίκη πόλης)",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δάνδις",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Καλλίας",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "[...]γίας",
+      "poli": "Επίδαμνος"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "[...]γης",
+      "poli": "Επίδαυρος"
+    },
+    {
+      "diorganosi": "77η",
+      "etos": "472 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Εργοτέλης",
+      "poli": "Ιμέρα"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Απήνη",
+      "olympionikis": "Αγησίας",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ιέρων",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "[...]μήδης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "[...]νης",
+      "poli": "Πελοπόννησος, Τίρυνθα"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "[...]τίων",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Επιτιμάδας",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Λεώφρων",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Μενάλκης",
+      "poli": "Οπούς (Λοκρίδα)"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Εφάρμοστος",
+      "poli": "Οπούς (Λοκρίδα)"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Λυκόφρων",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "[...]λος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Παρμενίδης",
+      "poli": "Ποσειδωνία"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παρμενίδης",
+      "poli": "Ποσειδωνία"
+    },
+    {
+      "diorganosi": "78η",
+      "etos": "468 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "[...]ημος",
+      "poli": "Παρρασία"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Κρατισθένης",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Ξενοφών",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ξενοφών",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Εχεκρατίδας",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Εφωτίων",
+      "poli": "Μαίναλο"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Πύθαρχος ο Μαντίνειος",
+      "poli": "Μαντίνεια Αρκαδίας"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Πρωτόλαος",
+      "poli": "Μαντίνεια Αρκαδίας"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Φερίας",
+      "poli": "Αίγινα"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Εργοτέλης",
+      "poli": "Ιμέρα"
+    },
+    {
+      "diorganosi": "79η",
+      "etos": "464 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Διαγόρας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αρκεσίλαος",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Τορύμβας",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Κόρδαφος",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Κυνίσκος",
+      "poli": "Μαντίνεια Αρκαδίας"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Λάδας",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "[...]άδας",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τιμόδημος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Αλκιμέδων",
+      "poli": "Αίγινα"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Αμησινάς",
+      "poli": "Βάρκη"
+    },
+    {
+      "diorganosi": "80η",
+      "etos": "460 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Σώστρατος ο Πελληνεύς",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τιμάνθης",
+      "poli": "Κλεωναί Αργολίδας"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πολύμναστος",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Ικαδίων",
+      "poli": "Κρήτη (;)"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Απήνη",
+      "olympionikis": "Ψαύμιος",
+      "poli": "Καμάρινα"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Λεοντίσκος",
+      "poli": "Μεσσήνη (Ιταλία)"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Λίνας",
+      "poli": "Λ[...]"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Αλκαίνετος",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Αιγίας",
+      "poli": "Να[...]"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "[...]νομος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Άνθρωπος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Διακτορίδης",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "81η",
+      "etos": "456 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Φρύνιχος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Λάχων",
+      "poli": "Κέα"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ψαύμιος",
+      "poli": "Καμάρινα"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Λύκος",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Πυθοκλής",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Λεοντίσκος",
+      "poli": "Μεσσήνη (Ιταλία)"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λύκος",
+      "poli": "Λάρισα"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Κλεόδωρος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Αρίστων",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Απολλόδωρος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Εύβουλος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Ιππόβοτος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Πύθων",
+      "poli": "Ι[...]"
+    },
+    {
+      "diorganosi": "82η",
+      "etos": "452 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Δαμάγητος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Αιγείδας",
+      "poli": "Κρήτη"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Πολύνικος",
+      "poli": "Θεσπιές"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αρκεσίλαος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Κήτων",
+      "poli": "Λοκροί"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Χείμων",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Λυκείνος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Λαχαρίδας",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Αρίστων",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Ευκλείδης",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κρίσων",
+      "poli": "Ιμέρα"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Ακουσίλαος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "83η",
+      "etos": "448 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Δαμάγητος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "84η",
+      "etos": "444 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Χαρμίδης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "84η",
+      "etos": "444 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αρκεσίλαος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "84η",
+      "etos": "444 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Ίκκος",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "84η",
+      "etos": "444 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Αλκαίνετος",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "84η",
+      "etos": "444 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ταυροσθένης",
+      "poli": "Αίγινα"
+    },
+    {
+      "diorganosi": "84η",
+      "etos": "444 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κρίσων",
+      "poli": "Ιμέρα"
+    },
+    {
+      "diorganosi": "85η",
+      "etos": "440 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Θεόπομπος Β´",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "85η",
+      "etos": "440 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Πολυκλέας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "85η",
+      "etos": "440 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Γνάθων",
+      "poli": "Δίπαια (Αρκαδία)"
+    },
+    {
+      "diorganosi": "85η",
+      "etos": "440 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κρίσων",
+      "poli": "Ιμέρα"
+    },
+    {
+      "diorganosi": "86η",
+      "etos": "436 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Θεόπομπος",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "86η",
+      "etos": "436 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Παντάρκης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "86η",
+      "etos": "436 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Θεόπομπος Β´",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "86η",
+      "etos": "436 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Μεγακλής",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "86η",
+      "etos": "436 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Φίλιππος",
+      "poli": "Αρχαία Αρκαδία"
+    },
+    {
+      "diorganosi": "87η",
+      "etos": "432 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Λυκίνος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "87η",
+      "etos": "432 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Λυκίνος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "87η",
+      "etos": "432 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σώφρων",
+      "poli": "Αμβρακία"
+    },
+    {
+      "diorganosi": "87η",
+      "etos": "432 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Δωριεύς",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "88η",
+      "etos": "428 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ανάξαδρος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "88η",
+      "etos": "428 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σύμμαχος",
+      "poli": "Μεσσήνη (Ιταλία)"
+    },
+    {
+      "diorganosi": "88η",
+      "etos": "428 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Δωριεύς",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "89η",
+      "etos": "424 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Λέων",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "89η",
+      "etos": "424 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σύμμαχος",
+      "poli": "Μεσσήνη (Ιταλία)"
+    },
+    {
+      "diorganosi": "89η",
+      "etos": "424 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Ελλάνικος",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "89η",
+      "etos": "424 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Κλεόμαχος",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "89η",
+      "etos": "424 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Δαμάσιππος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "89η",
+      "etos": "424 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Δωριεύς",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "90η",
+      "etos": "420 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Ξενόμβροτος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "90η",
+      "etos": "420 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Αμέρτας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "90η",
+      "etos": "420 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Υπέρβιος",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "90η",
+      "etos": "420 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Λίχας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "90η",
+      "etos": "420 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Θέαντος ή Θέας",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "90η",
+      "etos": "420 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ανδροσθένης",
+      "poli": "Μαίναλο"
+    },
+    {
+      "diorganosi": "90η",
+      "etos": "420 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Αριστεύς",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "91η",
+      "etos": "416 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Νικόστρατος",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "91η",
+      "etos": "416 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Λακράτης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "91η",
+      "etos": "416 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ανδροσθένης",
+      "poli": "Μαίναλο"
+    },
+    {
+      "diorganosi": "91η",
+      "etos": "416 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αλκιβιάδης του Κλεινία",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "91η",
+      "etos": "416 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Εξαίνετος",
+      "poli": "Ακράγαντας"
+    },
+    {
+      "diorganosi": "92η",
+      "etos": "412 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Εξαίνετος",
+      "poli": "Ακράγαντας"
+    },
+    {
+      "diorganosi": "93η",
+      "etos": "408 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ευβάτας ή Εύβατος ή Ευβώτας",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "93η",
+      "etos": "408 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Ευαγόρας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "93η",
+      "etos": "408 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Πολυδάμας",
+      "poli": "Σκοτούσσα Φαρσάλων"
+    },
+    {
+      "diorganosi": "93η",
+      "etos": "408 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αρχέλαος Α΄ της Μακεδονίας",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "94η",
+      "etos": "404 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Λασθένης",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "94η",
+      "etos": "404 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Σύμμαχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "94η",
+      "etos": "404 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Πεισίρροδος",
+      "poli": "Θούριοι"
+    },
+    {
+      "diorganosi": "94η",
+      "etos": "404 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κροκίνας",
+      "poli": "Λάρισα"
+    },
+    {
+      "diorganosi": "94η",
+      "etos": "404 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Πρόμαχος",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "94η",
+      "etos": "404 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Ευκλής",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Ξενόδικος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Τίμων",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Βαύκις",
+      "poli": "Πελοπόννησος, Τροιζήνα"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αντίοχος",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Ευθυμένης",
+      "poli": "Μαίναλο"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "[...]κράτης",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Αίσηπος ή Αίσυπος ή Αίσιπος ή Αίγυπτος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μίνως",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "95η",
+      "etos": "400 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δάμαρχος",
+      "poli": "Παρρασία"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "[...]ώνιος",
+      "poli": "Κρήτη"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "[...]ος",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Βύκελος",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Κράτης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Τίμαιος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Αρχέδαμος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ευπόλεμος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Κυνίσκα",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Κροκίνας",
+      "poli": "Λάρισα"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "[...]υ[...]ος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Παγκράτιο (;)",
+      "olympionikis": "[...]ναν[...]",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Επιχάρης",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Λαμπυρίων",
+      "poli": "Α[...]ος"
+    },
+    {
+      "diorganosi": "96η",
+      "etos": "396 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "[...]ς",
+      "poli": "Α[...]ος"
+    },
+    {
+      "diorganosi": "97η",
+      "etos": "392 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Δίκων",
+      "poli": "Καυλωνία"
+    },
+    {
+      "diorganosi": "97η",
+      "etos": "392 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Τεριναίος",
+      "poli": "Ηλεία (;) (Πελοπόννησος)"
+    },
+    {
+      "diorganosi": "97η",
+      "etos": "392 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Κυνίσκα",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "97η",
+      "etos": "392 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ευθυμένης",
+      "poli": "Μαίναλο"
+    },
+    {
+      "diorganosi": "97η",
+      "etos": "392 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Φορμίων",
+      "poli": "Αλικαρνασσός"
+    },
+    {
+      "diorganosi": "97η",
+      "etos": "392 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Νεολαΐδας",
+      "poli": "Φενεός"
+    },
+    {
+      "diorganosi": "98η",
+      "etos": "388 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Εύπωλος",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "98η",
+      "etos": "388 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Κλεογένης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "98η",
+      "etos": "388 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Αριστόδημος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "98η",
+      "etos": "388 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ξέναρχος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "98η",
+      "etos": "388 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Αντίπατρος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "98η",
+      "etos": "388 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σώσιππος",
+      "poli": "Αθήνα (κεντρική Ελλάδα) ή Δελφοί"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Άλκετος",
+      "poli": "Κλείτωρ"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Σωτάδης",
+      "poli": "Κρήτη"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Ύσμων",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δίκων",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "άγνωστο (Δίαυλος ή Οπλίτης δρόμος)",
+      "olympionikis": "Δίκων",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Λυκίνος",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ευρυβιάδης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δαμοξενίδας",
+      "poli": "Μαίναλο"
+    },
+    {
+      "diorganosi": "99η",
+      "etos": "384 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ναρυκίδας",
+      "poli": "Φιγαλεία"
+    },
+    {
+      "diorganosi": "100η",
+      "etos": "380 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Ίππος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "100η",
+      "etos": "380 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Δεινόλοχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "100η",
+      "etos": "380 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "άγνωστος",
+      "poli": "Σάμος"
+    },
+    {
+      "diorganosi": "100η",
+      "etos": "380 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διονυσόδωρος",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "100η",
+      "etos": "380 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Σωτάδης",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "100η",
+      "etos": "380 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ξενοφών",
+      "poli": "Αίγιο"
+    },
+    {
+      "diorganosi": "101η",
+      "etos": "376 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Κριτόδαμος",
+      "poli": "Κλείτωρ"
+    },
+    {
+      "diorganosi": "101η",
+      "etos": "376 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Στόμιος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "101η",
+      "etos": "376 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δάμων",
+      "poli": "Θούριοι"
+    },
+    {
+      "diorganosi": "101η",
+      "etos": "376 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Λάβαξ",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "102η",
+      "etos": "372 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Θερσίλοχος",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "102η",
+      "etos": "372 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Τρωίλος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "102η",
+      "etos": "372 π.Χ.",
+      "agonisma": "Άρμα πωλικόν",
+      "olympionikis": "Τρωίλος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "102η",
+      "etos": "372 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δάμων",
+      "poli": "Θούριοι"
+    },
+    {
+      "diorganosi": "102η",
+      "etos": "372 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "άγνωστος",
+      "poli": "Μεθύδριο"
+    },
+    {
+      "diorganosi": "102η",
+      "etos": "372 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Ξενοκλής",
+      "poli": "Μαίναλο"
+    },
+    {
+      "diorganosi": "103η",
+      "etos": "368 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "άγνωστος",
+      "poli": "Στράτος Αιτωλοακαρνανίας"
+    },
+    {
+      "diorganosi": "103η",
+      "etos": "368 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Ευρυλεονίς",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "103η",
+      "etos": "368 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Δαμίσκος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "103η",
+      "etos": "368 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πυθόστρατος",
+      "poli": "Αθήνα (κεντρική Ελλάδα) ή Έφεσος (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "103η",
+      "etos": "368 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Αριστίων",
+      "poli": "Επίδαυρος"
+    },
+    {
+      "diorganosi": "104η",
+      "etos": "364 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Ευβάτας",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "104η",
+      "etos": "364 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Σώστρατος ο Σικυώνιος",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "104η",
+      "etos": "364 π.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Αρχίας",
+      "poli": "Μέγαρα Υβλαία"
+    },
+    {
+      "diorganosi": "104η",
+      "etos": "364 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Φωκίδης",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "105η",
+      "etos": "360 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Θεόχρηστος Α´",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "105η",
+      "etos": "360 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πώρος",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "105η",
+      "etos": "360 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Σώστρατος ο Σικυώνιος",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "105η",
+      "etos": "360 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Αγήνωρ",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "105η",
+      "etos": "360 π.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Αρχίας",
+      "poli": "Μέγαρα Υβλαία"
+    },
+    {
+      "diorganosi": "105η",
+      "etos": "360 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Ξένων",
+      "poli": "Λέπρεο"
+    },
+    {
+      "diorganosi": "105η",
+      "etos": "360 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Φιλάμμων",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "106η",
+      "etos": "356 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Σώστρατος ο Σικυώνιος",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "106η",
+      "etos": "356 π.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Αρχίας",
+      "poli": "Μέγαρα Υβλαία"
+    },
+    {
+      "diorganosi": "106η",
+      "etos": "356 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πώρος",
+      "poli": "Κρήτη, Μάλια"
+    },
+    {
+      "diorganosi": "106η",
+      "etos": "356 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Φίλιππος Β΄ της Μακεδονίας",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "106η",
+      "etos": "356 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Πυριλάμπης",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "106η",
+      "etos": "356 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Χαίρων",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "107η",
+      "etos": "352 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Διονυσόδωρος",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "107η",
+      "etos": "352 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σμικρίνας",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "107η",
+      "etos": "352 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Φίλιππος Β΄ της Μακεδονίας",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "107η",
+      "etos": "352 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Αθήναιος",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "107η",
+      "etos": "352 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Τιμοκράτης",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "107η",
+      "etos": "352 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Χαίρων",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "108η",
+      "etos": "348 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πολυκλής",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "108η",
+      "etos": "348 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Αισχύλος",
+      "poli": "Θεσπιές"
+    },
+    {
+      "diorganosi": "108η",
+      "etos": "348 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Φίλιππος Β΄ της Μακεδονίας",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "108η",
+      "etos": "348 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Χαίρων",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "109η",
+      "etos": "344 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Δαμάρετος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "109η",
+      "etos": "344 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Καλλικράτης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "109η",
+      "etos": "344 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αρύββας",
+      "poli": "Ήπειρος"
+    },
+    {
+      "diorganosi": "109η",
+      "etos": "344 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αριστόλοχος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "109η",
+      "etos": "344 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Χαίρων",
+      "poli": "Πελλήνη"
+    },
+    {
+      "diorganosi": "110η",
+      "etos": "340 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Ασάμων",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "110η",
+      "etos": "340 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Τελέστας",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "110η",
+      "etos": "340 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Καλλικράτης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "110η",
+      "etos": "340 π.Χ.",
+      "agonisma": "Ιππικός αγώνας",
+      "olympionikis": "Καλλιάδης",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "110η",
+      "etos": "340 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αντικλής",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "111η",
+      "etos": "336 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κλεόμαντις",
+      "poli": "Κλείτωρ"
+    },
+    {
+      "diorganosi": "111η",
+      "etos": "336 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Μυς",
+      "poli": "Τάραντας"
+    },
+    {
+      "diorganosi": "111η",
+      "etos": "336 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Διόξιππος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "112η",
+      "etos": "332 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Σάτυρος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "112η",
+      "etos": "332 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Κάλλιππος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "112η",
+      "etos": "332 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Χίλων",
+      "poli": "Πάτρα"
+    },
+    {
+      "diorganosi": "112η",
+      "etos": "332 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Γρύλος",
+      "poli": "Χαλκίδα"
+    },
+    {
+      "diorganosi": "113η",
+      "etos": "328 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Σάτυρος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "113η",
+      "etos": "328 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "113η",
+      "etos": "328 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κλίτων",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "113η",
+      "etos": "328 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Αγεύς",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "113η",
+      "etos": "328 π.Χ.",
+      "agonisma": "Ιππικός αγώνας",
+      "olympionikis": "Δημάδης",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "113η",
+      "etos": "328 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Χίλων",
+      "poli": "Πάτρα"
+    },
+    {
+      "diorganosi": "114η",
+      "etos": "324 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Δούρις",
+      "poli": "Σάμος"
+    },
+    {
+      "diorganosi": "114η",
+      "etos": "324 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αστυάναξ",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "114η",
+      "etos": "324 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "114η",
+      "etos": "324 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μικίνας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "115η",
+      "etos": "320 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Ερμησιάναξ",
+      "poli": "Κολοφώνα"
+    },
+    {
+      "diorganosi": "115η",
+      "etos": "320 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Πύτταλος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "115η",
+      "etos": "320 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αστυάναξ",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "115η",
+      "etos": "320 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "115η",
+      "etos": "320 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δαμασίας",
+      "poli": "Αμφίπολη"
+    },
+    {
+      "diorganosi": "116η",
+      "etos": "316 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Χοιρίλος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "116η",
+      "etos": "316 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δεινοσθένης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "116η",
+      "etos": "316 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αστυάναξ",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "116η",
+      "etos": "316 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "117η",
+      "etos": "312 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Αλεξίβιος",
+      "poli": "Ηραία"
+    },
+    {
+      "diorganosi": "117η",
+      "etos": "312 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παρμενίδης",
+      "poli": "Λέσβος"
+    },
+    {
+      "diorganosi": "117η",
+      "etos": "312 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "117η",
+      "etos": "312 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αριστοφών",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "118η",
+      "etos": "308 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Θεότιμος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "118η",
+      "etos": "308 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Σελεάδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "118η",
+      "etos": "308 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Απολλωνίδης",
+      "poli": "Τεγέα"
+    },
+    {
+      "diorganosi": "118η",
+      "etos": "308 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αντήνωρ",
+      "poli": "Μίλητος ή Αθήνα"
+    },
+    {
+      "diorganosi": "118η",
+      "etos": "308 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Νικαγόρας",
+      "poli": "Ρόδος, Λίνδος"
+    },
+    {
+      "diorganosi": "118η",
+      "etos": "308 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Νικαγόρας",
+      "poli": "Ρόδος, Λίνδος"
+    },
+    {
+      "diorganosi": "118η",
+      "etos": "308 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "119η",
+      "etos": "304 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ανδρομένης",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "119η",
+      "etos": "304 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Κάλλων",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "119η",
+      "etos": "304 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Νίκανδρος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "119η",
+      "etos": "304 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Σόφιος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "119η",
+      "etos": "304 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "119η",
+      "etos": "304 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Λεοντίσκος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "119η",
+      "etos": "304 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Λάμπος",
+      "poli": "Μακεδονία, Φίλιπποι"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Θεόχρηστος Β´",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Τιμοσθένης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Νίκανδρος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Ιππόμαχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Ευβάλκης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Άρχιππος",
+      "poli": "Λέσβος"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "άγνωστος",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πυθαγόρας",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Κεράς",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "120η",
+      "etos": "300 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Νίκων",
+      "poli": "Ανθηδών"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Πανδίων",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αρχίδαμος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Αμφιάρης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Σωσιάδης",
+      "poli": "Τράλλεις"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Αντίπατρος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Τίμαρχος",
+      "poli": "Μαντίνεια Αρκαδίας"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "άγνωστος",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πυθαγόρας",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Μυρκεύς",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Απολλώνιος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Νίκων",
+      "poli": "Ανθηδών"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Τλασίμαχος",
+      "poli": "Αμβρακία"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Τέθριππο πωλικόν",
+      "olympionikis": "Τλασίμαχος",
+      "poli": "Αμβρακία"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Πασίχορος",
+      "poli": "Βοιωτία"
+    },
+    {
+      "diorganosi": "121η",
+      "etos": "296 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Κάλλιππος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "122η",
+      "etos": "292 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Ηρόδοτος",
+      "poli": "Κλαζομενές"
+    },
+    {
+      "diorganosi": "122η",
+      "etos": "292 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Τηλέμαχος ο Ήλειος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "122η",
+      "etos": "292 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Επέραστος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "122η",
+      "etos": "292 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Ηρόδωρος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "122η",
+      "etos": "292 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αντίγονος",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "122η",
+      "etos": "292 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Φίλιππος ο Αρκάδιος (3ος αιώνας π.Χ.)",
+      "poli": "Αρχαία Αρκαδία"
+    },
+    {
+      "diorganosi": "123η",
+      "etos": "288 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αντίγονος",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "124η",
+      "etos": "284 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Φιλόμηλος",
+      "poli": "Θεσσαλία, Φάρσαλα"
+    },
+    {
+      "diorganosi": "125η",
+      "etos": "280 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Παραβάλλων",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "125η",
+      "etos": "280 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λάδας ο Αιγιεύς",
+      "poli": "Αίγιο"
+    },
+    {
+      "diorganosi": "126η",
+      "etos": "276 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ιδαίος",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "126η",
+      "etos": "276 π.Χ.",
+      "agonisma": "Τέθριππο πωλικόν",
+      "olympionikis": "Άτταλος",
+      "poli": "Πέργαμος"
+    },
+    {
+      "diorganosi": "127η",
+      "etos": "272 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Νίκαρχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "127η",
+      "etos": "272 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Γλαύκων",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "127η",
+      "etos": "272 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Κρατίνος",
+      "poli": "Αιγείρα Αχαΐας"
+    },
+    {
+      "diorganosi": "127η",
+      "etos": "272 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Περιγένης",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "128η",
+      "etos": "268 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Μ[...]",
+      "poli": "Θεσσαλία, Κραννών"
+    },
+    {
+      "diorganosi": "128η",
+      "etos": "268 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Καρτερός",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "128η",
+      "etos": "268 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "άγνωστος",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "128η",
+      "etos": "268 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Αλεξίνικος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "128η",
+      "etos": "268 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σέλευκος",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "128η",
+      "etos": "268 π.Χ.",
+      "agonisma": "Τέθριππο πωλικόν",
+      "olympionikis": "Βιλιστίχη",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "128η",
+      "etos": "268 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "129η",
+      "etos": "264 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Φιλίνος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "129η",
+      "etos": "264 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Φιλίνος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "129η",
+      "etos": "264 π.Χ.",
+      "agonisma": "Συνωρίς πωλική",
+      "olympionikis": "Βιλιστίχη",
+      "poli": "Μακεδονία"
+    },
+    {
+      "diorganosi": "130η",
+      "etos": "260 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Φιλίνος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "130η",
+      "etos": "260 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Φιλίνος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "131η",
+      "etos": "256 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Εικάσιος",
+      "poli": "Κολοφώνα"
+    },
+    {
+      "diorganosi": "131η",
+      "etos": "256 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Φιλίνος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "131η",
+      "etos": "256 π.Χ.",
+      "agonisma": "Κέλης πωλικός",
+      "olympionikis": "Ιπποκράτης",
+      "poli": "Θεσσαλία"
+    },
+    {
+      "diorganosi": "131η",
+      "etos": "256 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αμμώνιος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "132η",
+      "etos": "252 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Αισχίνης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "132η",
+      "etos": "252 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ξενοφάνης",
+      "poli": "Άμφισσα"
+    },
+    {
+      "diorganosi": "133η",
+      "etos": "248 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Λαστρατίδας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "133η",
+      "etos": "248 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Αισχίνης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "133η",
+      "etos": "248 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Ευρυάδης",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "133η",
+      "etos": "248 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σιμύλος",
+      "poli": "Νάπολη"
+    },
+    {
+      "diorganosi": "134η",
+      "etos": "244 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αλκίδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "134η",
+      "etos": "244 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "135η",
+      "etos": "240 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Ευανορίδας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "135η",
+      "etos": "240 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Εράτων",
+      "poli": "Αιτωλία"
+    },
+    {
+      "diorganosi": "135η",
+      "etos": "240 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Κλεόξενος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "136η",
+      "etos": "236 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πυθοκλής",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "137η",
+      "etos": "232 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Άρατος",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "137η",
+      "etos": "232 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Γόργος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "137η",
+      "etos": "232 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μενεσθεύς",
+      "poli": "Βαργυλία"
+    },
+    {
+      "diorganosi": "138η",
+      "etos": "228 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Πάνταρκος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "138η",
+      "etos": "228 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Εμαυτίων",
+      "poli": "Θέλπουσα"
+    },
+    {
+      "diorganosi": "138η",
+      "etos": "228 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημήτριος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "139η",
+      "etos": "224 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ιολαΐδας",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "140η",
+      "etos": "220 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ζώπυρος",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "140η",
+      "etos": "220 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αγησίδαμος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "140η",
+      "etos": "220 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "άγνωστος",
+      "poli": "Αίγυπτος, Νουβία"
+    },
+    {
+      "diorganosi": "141η",
+      "etos": "216 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Κλειτόμαχος",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "141η",
+      "etos": "216 π.Χ.",
+      "agonisma": "Ιπποδρομία πώλων",
+      "olympionikis": "Θρασωνίδης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "141η",
+      "etos": "216 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Παιάνιος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "141η",
+      "etos": "216 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δωρόθεος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "142η",
+      "etos": "212 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Κλειτόμαχος",
+      "poli": "Θήβα"
+    },
+    {
+      "diorganosi": "142η",
+      "etos": "212 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Κάπρος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "142η",
+      "etos": "212 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Κάπρος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "142η",
+      "etos": "212 π.Χ.",
+      "agonisma": "άγνωστο (Συνωρίς ή Τέθριππο πώλων)",
+      "olympionikis": "Ακεστορίδης",
+      "poli": "Τρωάδα"
+    },
+    {
+      "diorganosi": "142η",
+      "etos": "212 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κράτης",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "143η",
+      "etos": "208 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ηράκλειτος",
+      "poli": "Σάμος"
+    },
+    {
+      "diorganosi": "143η",
+      "etos": "208 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Δαμάτριος",
+      "poli": "Τεγέα"
+    },
+    {
+      "diorganosi": "143η",
+      "etos": "208 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "άγνωστος",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "144η",
+      "etos": "204 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ηρακλείδης ο Σαλαμίνιος",
+      "poli": "Σαλαμίνα Κύπρου"
+    },
+    {
+      "diorganosi": "144η",
+      "etos": "204 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Δαμοκράτης",
+      "poli": "Τένεδος"
+    },
+    {
+      "diorganosi": "144η",
+      "etos": "204 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "άγνωστος",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "144η",
+      "etos": "204 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Σώδαμος",
+      "poli": "Άσσος"
+    },
+    {
+      "diorganosi": "145η",
+      "etos": "200 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Μόσχος",
+      "poli": "Κολοφώνα"
+    },
+    {
+      "diorganosi": "145η",
+      "etos": "200 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Τίμων",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "145η",
+      "etos": "200 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Δαμάτριος",
+      "poli": "Τεγέα"
+    },
+    {
+      "diorganosi": "145η",
+      "etos": "200 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "άγνωστος",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "145η",
+      "etos": "200 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πυρρίας",
+      "poli": "Αιτωλία"
+    },
+    {
+      "diorganosi": "145η",
+      "etos": "200 π.Χ.",
+      "agonisma": "Παγκράτιο παίδων",
+      "olympionikis": "Φαίδιμος",
+      "poli": "Αλεξάνδρεια Τρωάς"
+    },
+    {
+      "diorganosi": "146η",
+      "etos": "196 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "άγνωστος",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "146η",
+      "etos": "196 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μικίων",
+      "poli": "Βοιωτία"
+    },
+    {
+      "diorganosi": "147η",
+      "etos": "192 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αγέμαχος",
+      "poli": "Κύζικος"
+    },
+    {
+      "diorganosi": "147η",
+      "etos": "192 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Κλειτόστρατος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "148η",
+      "etos": "188 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αρκεσίλαος",
+      "poli": "Μεγαλόπολη"
+    },
+    {
+      "diorganosi": "149η",
+      "etos": "184 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ιππόστρατος",
+      "poli": "Σελεύκεια"
+    },
+    {
+      "diorganosi": "149η",
+      "etos": "184 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Επιθέρσης",
+      "poli": "Ερυθραία"
+    },
+    {
+      "diorganosi": "150η",
+      "etos": "180 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ονησίκριτος",
+      "poli": "Σαλαμίνα"
+    },
+    {
+      "diorganosi": "150η",
+      "etos": "180 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Επιθέρσης",
+      "poli": "Ερυθραία"
+    },
+    {
+      "diorganosi": "151η",
+      "etos": "176 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Θυμίλος",
+      "poli": "Άσπενδος"
+    },
+    {
+      "diorganosi": "152η",
+      "etos": "172 π.Χ.",
+      "agonisma": "Παγκράτιο παίδων",
+      "olympionikis": "Δίαλλος",
+      "poli": "Σμύρνη"
+    },
+    {
+      "diorganosi": "152η",
+      "etos": "172 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Αγησίστρατος",
+      "poli": "Ρόδος, Λίνδος"
+    },
+    {
+      "diorganosi": "152η",
+      "etos": "172 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημόκριτος",
+      "poli": "Μέγαρα"
+    },
+    {
+      "diorganosi": "153η",
+      "etos": "168 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αρίστανδρος",
+      "poli": "Λέσβος, Άντισσα"
+    },
+    {
+      "diorganosi": "154η",
+      "etos": "164 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Λύσιππος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "154η",
+      "etos": "164 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "154η",
+      "etos": "164 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "154η",
+      "etos": "164 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "155η",
+      "etos": "160 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δ[...]γονος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "155η",
+      "etos": "160 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "155η",
+      "etos": "160 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "155η",
+      "etos": "160 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "156η",
+      "etos": "156 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δ[...]γονος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "156η",
+      "etos": "156 π.Χ.",
+      "agonisma": "Παγκράτιο παίδων",
+      "olympionikis": "Αμύντας",
+      "poli": "Λέσβος, Ερεσός"
+    },
+    {
+      "diorganosi": "156η",
+      "etos": "156 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "156η",
+      "etos": "156 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "156η",
+      "etos": "156 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "156η",
+      "etos": "156 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Αριστομένης",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "156η",
+      "etos": "156 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αριστομένης",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "157η",
+      "etos": "152 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Απολλόδωρος",
+      "poli": "Σάμος"
+    },
+    {
+      "diorganosi": "157η",
+      "etos": "152 π.Χ.",
+      "agonisma": "Αγώνας παίδων",
+      "olympionikis": "[...]ς",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "157η",
+      "etos": "152 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "157η",
+      "etos": "152 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "157η",
+      "etos": "152 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Λεωνίδας",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "158η",
+      "etos": "148 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "[...]ς",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "158η",
+      "etos": "148 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Όρθων",
+      "poli": "Συρακούσες"
+    },
+    {
+      "diorganosi": "159η",
+      "etos": "144 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Άλκιμος",
+      "poli": "Κύζικος"
+    },
+    {
+      "diorganosi": "159η",
+      "etos": "144 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Ξενόθεμις",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "160η",
+      "etos": "140 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διόδωρος",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "161η",
+      "etos": "136 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αντίπατρος",
+      "poli": "Ήπειρος"
+    },
+    {
+      "diorganosi": "162η",
+      "etos": "132 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μηνόδωρος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "162η",
+      "etos": "132 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Μηνόδωρος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "162η",
+      "etos": "132 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δάμων",
+      "poli": "Δελφοί"
+    },
+    {
+      "diorganosi": "163η",
+      "etos": "128 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Τιμόθεος",
+      "poli": "Τράλλεις"
+    },
+    {
+      "diorganosi": "164η",
+      "etos": "124 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Βοιωτός",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "165η",
+      "etos": "120 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ακουσίλαος",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "165η",
+      "etos": "120 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Αγήσαρχος ή Αιμόστρατος ή Δαιμόστρατος ή Αρχέστρατος ή Αμέστρατος",
+      "poli": "Τρίτεια Αχαΐας"
+    },
+    {
+      "diorganosi": "166η",
+      "etos": "116 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Χρυσόγονος",
+      "poli": "Νίκαια Βιθυνίας"
+    },
+    {
+      "diorganosi": "167η",
+      "etos": "112 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Χρυσόγονος",
+      "poli": "Νίκαια Βιθυνίας"
+    },
+    {
+      "diorganosi": "168η",
+      "etos": "108 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Νικόμαχος",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "169η",
+      "etos": "104 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Νικόδαμος",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "170η",
+      "etos": "100 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σιμμίας",
+      "poli": "Σελεύκεια στον Τίγρη"
+    },
+    {
+      "diorganosi": "170η",
+      "etos": "100 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Νικοκλής",
+      "poli": "Άκριον"
+    },
+    {
+      "diorganosi": "170η",
+      "etos": "100 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Νικοκλής",
+      "poli": "Άκριον"
+    },
+    {
+      "diorganosi": "170η",
+      "etos": "100 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Νικοκλής",
+      "poli": "Άκριον"
+    },
+    {
+      "diorganosi": "170η",
+      "etos": "100 π.Χ.",
+      "agonisma": "Συνωρίς πωλική",
+      "olympionikis": "[...]ς",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "171η",
+      "etos": "96 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παρμενίσκος",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "171η",
+      "etos": "96 π.Χ.",
+      "agonisma": "Συνωρίς πωλική",
+      "olympionikis": "Αντιγένης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "171η",
+      "etos": "96 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Αριστόδαμος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "171η",
+      "etos": "96 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Νικοκλής",
+      "poli": "Άκριον"
+    },
+    {
+      "diorganosi": "171η",
+      "etos": "96 π.Χ.",
+      "agonisma": "άγνωστο δρόμου",
+      "olympionikis": "Νικοκλής",
+      "poli": "Άκριον"
+    },
+    {
+      "diorganosi": "172η",
+      "etos": "92 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Εύδαμος",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "172η",
+      "etos": "92 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Πρωτοφάνης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "172η",
+      "etos": "92 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Πρωτοφάνης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "173η",
+      "etos": "88 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παρμενίσκος",
+      "poli": "Κέρκυρα"
+    },
+    {
+      "diorganosi": "174η",
+      "etos": "84 π.Χ.",
+      "agonisma": "Τέθριππο πωλικόν",
+      "olympionikis": "Θεοδότα",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "174η",
+      "etos": "84 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Στρωγιανός",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "174η",
+      "etos": "84 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Τιμαρέτα",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "174η",
+      "etos": "84 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Τηλέμαχος ο Ήλειος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "174η",
+      "etos": "84 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Πραξαγόρας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "174η",
+      "etos": "84 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Φίλιστος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "174η",
+      "etos": "84 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημόστρατος",
+      "poli": "Λάρισα"
+    },
+    {
+      "diorganosi": "175η",
+      "etos": "80 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Επαίνετος",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "176η",
+      "etos": "76 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δίων",
+      "poli": "Κυπαρισσία (Λακωνία)"
+    },
+    {
+      "diorganosi": "176η",
+      "etos": "76 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Λασθένης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "176η",
+      "etos": "76 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "άγνωστος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "176η",
+      "etos": "76 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Φιλόνικος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Απολλοφάνης",
+      "poli": "Κυπαρισσία (Λακωνία)"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Αριστωνομίδας",
+      "poli": "Κως"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Σφοδρίας",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Υψικλής",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Συνωρίς πωλική",
+      "olympionikis": "Κλητίας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Κέλης πωλικός",
+      "olympionikis": "Κάλλιππος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Παγκράτιο παίδων",
+      "olympionikis": "Κάλας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Ηγήμων",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Σωτήριχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Αριστόλοχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Ελλάνικος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Τέθριππο πωλικόν",
+      "olympionikis": "Ελλάνικος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Εκάτομνος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Εκάτομνος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Εκάτομνος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ισίδωρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Σωσιγένης",
+      "poli": "Ασία"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Ατυάνας",
+      "poli": "Αδραμύττιο"
+    },
+    {
+      "diorganosi": "177η",
+      "etos": "72 π.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Γάιος",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "178η",
+      "etos": "68 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διοκλής ο Υπαιπάνιος",
+      "poli": "Ύπαιπα (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "178η",
+      "etos": "68 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Στράτων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "178η",
+      "etos": "68 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Στράτων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "179η",
+      "etos": "64 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ανδρέας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "179η",
+      "etos": "64 π.Χ.",
+      "agonisma": "άγνωστο (Πάλη ή Παγκράτιο)",
+      "olympionikis": "Στράτων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "180η",
+      "etos": "60 π.Χ.",
+      "agonisma": "Συνωρίς",
+      "olympionikis": "Μενέδημος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "180η",
+      "etos": "60 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ανδρόμαχος",
+      "poli": "Αμβρακία"
+    },
+    {
+      "diorganosi": "181η",
+      "etos": "56 π.Χ.",
+      "agonisma": "Ιπποδρομία πώλων",
+      "olympionikis": "Χάρωψ",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "181η",
+      "etos": "56 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λάμαχος",
+      "poli": "Ταυρομένιο (Σικελία)"
+    },
+    {
+      "diorganosi": "182η",
+      "etos": "52 π.Χ.",
+      "agonisma": "Ιπποδρομία πώλων",
+      "olympionikis": "Αγίλοχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "182η",
+      "etos": "52 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ανθεστίων",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "182η",
+      "etos": "52 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "[...]ος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "182η",
+      "etos": "52 π.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μαρίων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "182η",
+      "etos": "52 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Μαρίων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "183η",
+      "etos": "48 π.Χ.",
+      "agonisma": "Αγώνας πώλων (Τέθριππο ή Συνωρίς)",
+      "olympionikis": "[...]χος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "183η",
+      "etos": "48 π.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "άγνωστος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "183η",
+      "etos": "48 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Θεόδωρος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "184η",
+      "etos": "44 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Θεόδωρος",
+      "poli": "Μεσσηνία"
+    },
+    {
+      "diorganosi": "185η",
+      "etos": "40 π.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Θαλλίαρχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "185η",
+      "etos": "40 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αρίστων",
+      "poli": "Θούριοι"
+    },
+    {
+      "diorganosi": "186η",
+      "etos": "36 π.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Λυκομήδης",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "186η",
+      "etos": "36 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σκάμανδρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "187η",
+      "etos": "32 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Θαλλίαρχος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "187η",
+      "etos": "32 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αρίστων",
+      "poli": "Θούριοι"
+    },
+    {
+      "diorganosi": "188η",
+      "etos": "28 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σώπατρος",
+      "poli": "Άργος"
+    },
+    {
+      "diorganosi": "189η",
+      "etos": "24 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ασκληπιάδης",
+      "poli": "Σιδώνα"
+    },
+    {
+      "diorganosi": "189η",
+      "etos": "24 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Δημοσθένης",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "189η",
+      "etos": "24 π.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Φίλιππος Γλύκων",
+      "poli": "Πέργαμος"
+    },
+    {
+      "diorganosi": "190η",
+      "etos": "20 π.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "άγνωστος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "190η",
+      "etos": "20 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Δημοσθένης",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "190η",
+      "etos": "20 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αυφίδιος",
+      "poli": "Πάτρα"
+    },
+    {
+      "diorganosi": "191η",
+      "etos": "16 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διόδοτος",
+      "poli": "Τύανα"
+    },
+    {
+      "diorganosi": "191η",
+      "etos": "16 π.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Δημοσθένης",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "192η",
+      "etos": "12 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Πολύκτωρ",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "192η",
+      "etos": "12 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διοφάνης",
+      "poli": "Αιολία"
+    },
+    {
+      "diorganosi": "193η",
+      "etos": "8 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αρτεμίδωρ",
+      "poli": "Θυάτειρα"
+    },
+    {
+      "diorganosi": "193η",
+      "etos": "8 π.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Νικοφών",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "194η",
+      "etos": "4 π.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημάρατος",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "194η",
+      "etos": "4 π.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Πολύξενος",
+      "poli": "Ζάκυνθος"
+    },
+    {
+      "diorganosi": "194η",
+      "etos": "4 π.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Τιβέριος Κλαύδιος Νέρων",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "195η",
+      "etos": "1 μ.Χ.",
+      "agonisma": "Ιπποδρομία πώλων",
+      "olympionikis": "Αρχιάδας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "195η",
+      "etos": "1 μ.Χ.",
+      "agonisma": "Συνωρίς πωλική",
+      "olympionikis": "Δαμαιθίδας",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "195η",
+      "etos": "1 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημάρατος",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "196η",
+      "etos": "5 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Παμμένης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "196η",
+      "etos": "5 μ.Χ.",
+      "agonisma": "άγνωστο (ιππικό;)",
+      "olympionikis": "Γναεύς Μάρκιος",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "197η",
+      "etos": "9 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ασιατικός",
+      "poli": "Αλικαρνασσός"
+    },
+    {
+      "diorganosi": "197η",
+      "etos": "9 μ.Χ.",
+      "agonisma": "άγνωστο (ιππικό;)",
+      "olympionikis": "Γναεύς Μάρκιος",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "198η",
+      "etos": "13 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Αριστέας",
+      "poli": "Στρατονίκεια Καρίας"
+    },
+    {
+      "diorganosi": "198η",
+      "etos": "13 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αριστέας",
+      "poli": "Στρατονίκεια Καρίας"
+    },
+    {
+      "diorganosi": "198η",
+      "etos": "13 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διοφάνης",
+      "poli": "Προύσα"
+    },
+    {
+      "diorganosi": "199η",
+      "etos": "17 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αισχίνης ο Γλαυκίας",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "199η",
+      "etos": "17 μ.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Γερμανικός Καίσαρ Τιβέριος",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "200η",
+      "etos": "21 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πολέμων",
+      "poli": "Πέτρα"
+    },
+    {
+      "diorganosi": "201η",
+      "etos": "25 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δάμας",
+      "poli": "Κρήτη, Κυδωνία"
+    },
+    {
+      "diorganosi": "201η",
+      "etos": "25 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δημοκράτης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "201η",
+      "etos": "25 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ερμάς",
+      "poli": "Αντιόχεια"
+    },
+    {
+      "diorganosi": "202η",
+      "etos": "29 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δημοκράτης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "202η",
+      "etos": "29 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ερμάς",
+      "poli": "Αντιόχεια"
+    },
+    {
+      "diorganosi": "202η",
+      "etos": "29 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ερμογένης",
+      "poli": "Πέργαμος"
+    },
+    {
+      "diorganosi": "203η",
+      "etos": "33 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ηράς",
+      "poli": "Λαοδίκεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "203η",
+      "etos": "33 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δημοκράτης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "203η",
+      "etos": "33 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Απολλώνιος",
+      "poli": "Επίδαυρος"
+    },
+    {
+      "diorganosi": "204η",
+      "etos": "37 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Απολλώνιος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "204η",
+      "etos": "37 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Νικόστρατος",
+      "poli": "Αιγές Κιλικίας"
+    },
+    {
+      "diorganosi": "204η",
+      "etos": "37 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Νικόστρατος",
+      "poli": "Αιγές Κιλικίας"
+    },
+    {
+      "diorganosi": "204η",
+      "etos": "37 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σαραπίων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "204η",
+      "etos": "37 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Ερμογένης",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "205η",
+      "etos": "41 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ευβουλίδας",
+      "poli": "Λαοδίκεια (Φρυγίας)"
+    },
+    {
+      "diorganosi": "205η",
+      "etos": "41 μ.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "205η",
+      "etos": "41 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "205η",
+      "etos": "41 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Απολλώνιος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "206η",
+      "etos": "45 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Βαλέριος",
+      "poli": "Λέσβος"
+    },
+    {
+      "diorganosi": "206η",
+      "etos": "45 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "206η",
+      "etos": "45 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Απολλώνιος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "207η",
+      "etos": "49 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Μελανκόμας",
+      "poli": "Καρία"
+    },
+    {
+      "diorganosi": "207η",
+      "etos": "49 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "207η",
+      "etos": "49 μ.Χ.",
+      "agonisma": "Παγκράτιο παίδων",
+      "olympionikis": "Πόπλιος Κορνήλιος Αρίστων",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "207η",
+      "etos": "49 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αθηνόδωρος ο Αιγιέας",
+      "poli": "Αίγιο"
+    },
+    {
+      "diorganosi": "207η",
+      "etos": "49 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Τιβέριος Κλαύδιος Πατρόβιος",
+      "poli": "Αντιόχεια"
+    },
+    {
+      "diorganosi": "208η",
+      "etos": "53 μ.Χ.",
+      "agonisma": "Ιπποδρομία πώλων",
+      "olympionikis": "Κάλλιππος Πεισαίος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "208η",
+      "etos": "53 μ.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Τιβέριος Κλαύδιος Αφροδίσιος",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "208η",
+      "etos": "53 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "άγνωστος",
+      "poli": "Στρατονίκη"
+    },
+    {
+      "diorganosi": "208η",
+      "etos": "53 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αθηνόδωρος ο Αιγιέας",
+      "poli": "Αίγιο"
+    },
+    {
+      "diorganosi": "208η",
+      "etos": "53 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Τιβέριος Κλαύδιος Πατρόβιος",
+      "poli": "Αντιόχεια"
+    },
+    {
+      "diorganosi": "209η",
+      "etos": "57 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Καλλικλής",
+      "poli": "Σιδώνα"
+    },
+    {
+      "diorganosi": "209η",
+      "etos": "57 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Τιβέριος Κλαύδιος Πατρόβιος",
+      "poli": "Αντιόχεια"
+    },
+    {
+      "diorganosi": "209η",
+      "etos": "57 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Πόπλιος Πομπήιος Ευτύχης",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "210η",
+      "etos": "61 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αθηνόδωρος ο Αιγιέας",
+      "poli": "Αίγιο"
+    },
+    {
+      "diorganosi": "210η",
+      "etos": "61 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Πόπλιος Πομπήιος Ευτύχης",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Ξενόδαμος",
+      "poli": "Αντίκυρα"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Άρμα τέλειον",
+      "olympionikis": "Νέρων",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Άρμα πωλικόν",
+      "olympionikis": "Νέρων",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Νέρων",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Αγώνας κιθαρωδών",
+      "olympionikis": "Νέρων",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Αγώνας τραγωδιών",
+      "olympionikis": "Νέρων",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Δεκάπωλον",
+      "olympionikis": "Νέρων",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "211η",
+      "etos": "67 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Τρύφων",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "212η",
+      "etos": "69 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πολίτης",
+      "poli": "Κέραμος Καρίας"
+    },
+    {
+      "diorganosi": "212η",
+      "etos": "69 μ.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Πολίτης",
+      "poli": "Κέραμος Καρίας"
+    },
+    {
+      "diorganosi": "212η",
+      "etos": "69 μ.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Πολίτης",
+      "poli": "Κέραμος Καρίας"
+    },
+    {
+      "diorganosi": "212η",
+      "etos": "69 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τίτος Κλαύδιος Αρτεμίδωρος",
+      "poli": "Τράλλεις"
+    },
+    {
+      "diorganosi": "212η",
+      "etos": "69 μ.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Διογένης",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "213η",
+      "etos": "73 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ρόδων",
+      "poli": "Κύμη"
+    },
+    {
+      "diorganosi": "213η",
+      "etos": "73 μ.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Διογένης",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "214η",
+      "etos": "77 μ.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Διογένης",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "214η",
+      "etos": "77 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Στράτων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "215η",
+      "etos": "81 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τίτος Κλαύδιος Ρούφος",
+      "poli": "Σμύρνη"
+    },
+    {
+      "diorganosi": "215η",
+      "etos": "81 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Πρατομελίδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "215η",
+      "etos": "81 μ.Χ.",
+      "agonisma": "άγνωστο (Δίαυλος ή Οπλίτης δρόμος)",
+      "olympionikis": "Ερμογένης",
+      "poli": "Ξάνθος"
+    },
+    {
+      "diorganosi": "215η",
+      "etos": "81 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ερμογένης",
+      "poli": "Ξάνθος"
+    },
+    {
+      "diorganosi": "215η",
+      "etos": "81 μ.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Διογένης",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "216η",
+      "etos": "85 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Απολλοφάνης",
+      "poli": "Ταρσός"
+    },
+    {
+      "diorganosi": "216η",
+      "etos": "85 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος (;)",
+      "olympionikis": "Ερμογένης",
+      "poli": "Ξάνθος"
+    },
+    {
+      "diorganosi": "216η",
+      "etos": "85 μ.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Ερμογένης",
+      "poli": "Ξάνθος"
+    },
+    {
+      "diorganosi": "216η",
+      "etos": "85 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τίτος Φλάβιος Αρτεμίδωρος",
+      "poli": "Άδανα"
+    },
+    {
+      "diorganosi": "216η",
+      "etos": "85 μ.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Διογένης",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "216η",
+      "etos": "85 μ.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Τίτος Φλάβιος Μητρόβιος",
+      "poli": "Ιασός Καρίας"
+    },
+    {
+      "diorganosi": "217η",
+      "etos": "89 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Παγκλής",
+      "poli": "Τήνος"
+    },
+    {
+      "diorganosi": "217η",
+      "etos": "89 μ.Χ.",
+      "agonisma": "άγνωστο (Δίαυλος ή Οπλίτης δρόμος)",
+      "olympionikis": "Ερμογένης",
+      "poli": "Ξάνθος"
+    },
+    {
+      "diorganosi": "217η",
+      "etos": "89 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ερμογένης",
+      "poli": "Ξάνθος"
+    },
+    {
+      "diorganosi": "217η",
+      "etos": "89 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τίτος Φλάβιος Αρτεμίδωρος",
+      "poli": "Άδανα"
+    },
+    {
+      "diorganosi": "217η",
+      "etos": "89 μ.Χ.",
+      "agonisma": "Παγκράτιο παίδων",
+      "olympionikis": "Νικάνωρ",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "217η",
+      "etos": "89 μ.Χ.",
+      "agonisma": "Πυγμαχία παίδων",
+      "olympionikis": "Σαραπίων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "218η",
+      "etos": "93 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Αθηναίος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "218η",
+      "etos": "93 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Απόλλωνις",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "218η",
+      "etos": "93 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Ηρακλείδης",
+      "poli": "Αλεξάνδρεια Τρωάς"
+    },
+    {
+      "diorganosi": "219η",
+      "etos": "97 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Στέφανος",
+      "poli": "Καππαδοκία"
+    },
+    {
+      "diorganosi": "219η",
+      "etos": "97 μ.Χ.",
+      "agonisma": "Πάλη παίδων",
+      "olympionikis": "Μάρκος",
+      "poli": "Αντιόχεια"
+    },
+    {
+      "diorganosi": "220η",
+      "etos": "101 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τίτος Φλάβιος Αρχίβιος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "220η",
+      "etos": "101 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αχιλλεύς",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "221η",
+      "etos": "105 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Θεωνάς",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "221η",
+      "etos": "105 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Τίτος Φλάβιος Αρχίβιος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "222η",
+      "etos": "109 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κάλλιστος",
+      "poli": "Σίδη, Παμφυλία"
+    },
+    {
+      "diorganosi": "223η",
+      "etos": "113 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Εύστολος",
+      "poli": "Σίδη, Παμφυλία"
+    },
+    {
+      "diorganosi": "223η",
+      "etos": "113 μ.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "άγνωστος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "224η",
+      "etos": "117 μ.Χ.",
+      "agonisma": "Παγκράτιο παίδων",
+      "olympionikis": "Πόπλιος Αίλιος Αριστόμαχος",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "224η",
+      "etos": "117 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ισαρίων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "224η",
+      "etos": "117 μ.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "άγνωστος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "225η",
+      "etos": "121 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αριστέας",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "226η",
+      "etos": "125 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Δείδας",
+      "poli": "Αρσινόη"
+    },
+    {
+      "diorganosi": "226η",
+      "etos": "125 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διονύσιος Σαμευμύς",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "226η",
+      "etos": "125 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Μόσχος",
+      "poli": "Πέργαμος"
+    },
+    {
+      "diorganosi": "227η",
+      "etos": "129 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Μάρκος Ούλπιος Δομέστικος",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "227η",
+      "etos": "129 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Δείφιλος",
+      "poli": "Αιγές Αιολίδας"
+    },
+    {
+      "diorganosi": "227η",
+      "etos": "129 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διονύσιος Σαμευμύς",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "227η",
+      "etos": "129 μ.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Λούκιος Μινίκιος Νάταλις",
+      "poli": "Ρώμη"
+    },
+    {
+      "diorganosi": "228η",
+      "etos": "133 μ.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "Αίλιος Γρανιανός",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "228η",
+      "etos": "133 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Λουκάς",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "229η",
+      "etos": "137 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Αίλιος Γρανιανός",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "229η",
+      "etos": "137 μ.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Αίλιος Γρανιανός",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "229η",
+      "etos": "137 μ.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Αίλιος Γρανιανός",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "229η",
+      "etos": "137 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Πόπλιος Αίλιος Αρτεμάς",
+      "poli": "Λαοδίκεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "229η",
+      "etos": "137 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Ερμαγόρας",
+      "poli": "Μαγνησία του Σιπύλου"
+    },
+    {
+      "diorganosi": "229η",
+      "etos": "137 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Επίδαυρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "230η",
+      "etos": "141 μ.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Αίλιος Γρανιανός",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "230η",
+      "etos": "141 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δίδυμος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "230η",
+      "etos": "141 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Μάρκος Τύλλιος",
+      "poli": "Απάμεια (Βιθυνίας)"
+    },
+    {
+      "diorganosi": "231η",
+      "etos": "145 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Κραναός",
+      "poli": "Σικυώνα"
+    },
+    {
+      "diorganosi": "231η",
+      "etos": "145 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Μάρκος Τύλλιος",
+      "poli": "Απάμεια (Βιθυνίας)"
+    },
+    {
+      "diorganosi": "232η",
+      "etos": "149 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Διονύσιος",
+      "poli": "Σελεύκεια"
+    },
+    {
+      "diorganosi": "232η",
+      "etos": "149 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αττικός",
+      "poli": "Σάρδεις"
+    },
+    {
+      "diorganosi": "232η",
+      "etos": "149 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Σωκράτης",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "233η",
+      "etos": "153 μ.Χ.",
+      "agonisma": "Τέθριππο πωλικόν",
+      "olympionikis": "Κασία Μνασιθέα",
+      "poli": "Ηλεία"
+    },
+    {
+      "diorganosi": "233η",
+      "etos": "153 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Μάρκος Αυρήλιος Δημήτριος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "233η",
+      "etos": "153 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημήτριος",
+      "poli": "Χίος"
+    },
+    {
+      "diorganosi": "233η",
+      "etos": "153 μ.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "Δημήτριος",
+      "poli": "Χίος"
+    },
+    {
+      "diorganosi": "234η",
+      "etos": "157 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ηράς",
+      "poli": "Χίος"
+    },
+    {
+      "diorganosi": "235η",
+      "etos": "161 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μνασίβουλος",
+      "poli": "Ελάτεια"
+    },
+    {
+      "diorganosi": "235η",
+      "etos": "161 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Μνασίβουλος",
+      "poli": "Ελάτεια"
+    },
+    {
+      "diorganosi": "236η",
+      "etos": "165 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μάρκος Αυρήλιος Χρύσιππος",
+      "poli": "Σμύρνη"
+    },
+    {
+      "diorganosi": "236η",
+      "etos": "165 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Τίτος Αίλιος Αυρήλιος Απολλώνιος",
+      "poli": "Ταρσός"
+    },
+    {
+      "diorganosi": "236η",
+      "etos": "165 μ.Χ.",
+      "agonisma": "Δίαυλος",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "236η",
+      "etos": "165 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αειθαλής",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "237η",
+      "etos": "169 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ευδαίμων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "237η",
+      "etos": "169 μ.Χ.",
+      "agonisma": "άγνωστο δρόμου",
+      "olympionikis": "άγνωστος",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "238η",
+      "etos": "173 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Μάρκος Αυρήλιος Δημόστρατος Δαμάς",
+      "poli": "Σάρδεις"
+    },
+    {
+      "diorganosi": "238η",
+      "etos": "173 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Φωτίων",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "238η",
+      "etos": "173 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αγαθόπους",
+      "poli": "Αίγινα"
+    },
+    {
+      "diorganosi": "239η",
+      "etos": "177 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Μάρκος Αυρήλιος Δημόστρατος Δαμάς",
+      "poli": "Σάρδεις"
+    },
+    {
+      "diorganosi": "239η",
+      "etos": "177 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Γάιος Ιούλιος Βάσσος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "239η",
+      "etos": "177 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μάρκος Αυρήλιος Ερμαγόρας",
+      "poli": "Μαγνησία του Σιπύλου"
+    },
+    {
+      "diorganosi": "239η",
+      "etos": "177 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αγαθόπους",
+      "poli": "Αίγινα"
+    },
+    {
+      "diorganosi": "240η",
+      "etos": "181 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Κ[...]κταβηνός",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "240η",
+      "etos": "181 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Μάρκος Αυρήλιος Ασκληπιάδης (Ερμόδωρος)",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "240η",
+      "etos": "181 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ανουβίων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "241η",
+      "etos": "185 μ.Χ.",
+      "agonisma": "Οπλίτης δρόμος",
+      "olympionikis": "Κ[...]κταβηνός",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "241η",
+      "etos": "185 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ήρων",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "241η",
+      "etos": "185 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Τίτος Αίλιος Αυρήλιος Μητρόδωρος",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    },
+    {
+      "diorganosi": "242η",
+      "etos": "189 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Μάγνος",
+      "poli": "Κυρήνη"
+    },
+    {
+      "diorganosi": "242η",
+      "etos": "189 μ.Χ.",
+      "agonisma": "άγνωστο (Πάλη ή Πυγμαχία ή Παγκράτιο)",
+      "olympionikis": "Κλαύδιος Απολλώνιος",
+      "poli": "Σμύρνη"
+    },
+    {
+      "diorganosi": "242η",
+      "etos": "189 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Τίτος Ιούλιος Σεπτήμιος Ιουλιανός",
+      "poli": "Σμύρνη"
+    },
+    {
+      "diorganosi": "242η",
+      "etos": "189 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Μάρκος Αυρήλιος Φιλοσέβαστος",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "243η",
+      "etos": "193 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μάρκος Αυρήλιος Ασκληπιάδης",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "243η",
+      "etos": "193 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ισίδωρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "243η",
+      "etos": "193 μ.Χ.",
+      "agonisma": "Κέλης",
+      "olympionikis": "Θεόπροπος",
+      "poli": "Ρόδος"
+    },
+    {
+      "diorganosi": "244η",
+      "etos": "197 μ.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Αυρήλιος Μητρόδωρος",
+      "poli": "Κύζικος"
+    },
+    {
+      "diorganosi": "244η",
+      "etos": "197 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "άγνωστος",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "244η",
+      "etos": "197 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Μάρκος Αυρήλιος Ασκληπιάδης",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "244η",
+      "etos": "197 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ισίδωρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "245η",
+      "etos": "201 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Μάρκος Αυρήλιος Ιεροκλής",
+      "poli": "Νύσα Καρίας"
+    },
+    {
+      "diorganosi": "245η",
+      "etos": "201 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "άγνωστος",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "245η",
+      "etos": "201 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Αλέξανδρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "246η",
+      "etos": "205 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Επίνικος",
+      "poli": "Κύζικος"
+    },
+    {
+      "diorganosi": "246η",
+      "etos": "205 μ.Χ.",
+      "agonisma": "Στάδιον παίδων",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "246η",
+      "etos": "205 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Πλούταρχος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "247η",
+      "etos": "209 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Γάιος Περήλιος Αυρήλιος Αλέξανδρος",
+      "poli": "Θυάτειρα"
+    },
+    {
+      "diorganosi": "247η",
+      "etos": "209 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Γέρηνος",
+      "poli": "Ναύκρατις"
+    },
+    {
+      "diorganosi": "247η",
+      "etos": "209 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Σατορνίλος",
+      "poli": "Γόρτυνα Αρκαδίας"
+    },
+    {
+      "diorganosi": "248η",
+      "etos": "213 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Λούκιος Σιλίκος Φίρμος Μανδρογένης",
+      "poli": "Μαγνησία του Μαιάνδρου"
+    },
+    {
+      "diorganosi": "248η",
+      "etos": "213 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ηλιόδωρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "248η",
+      "etos": "213 μ.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Γράος",
+      "poli": "Βιθυνία"
+    },
+    {
+      "diorganosi": "248η",
+      "etos": "213 μ.Χ.",
+      "agonisma": "Πάλη",
+      "olympionikis": "Αυρήλιος Αίλιξ",
+      "poli": "Φοινίκη"
+    },
+    {
+      "diorganosi": "249η",
+      "etos": "217 μ.Χ.",
+      "agonisma": "Αγώνας σαλπιγκτών",
+      "olympionikis": "Πόπλιος Αίλιος Αυρήλιος Σεραπίων",
+      "poli": "Έφεσος"
+    },
+    {
+      "diorganosi": "249η",
+      "etos": "217 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Ηλιόδωρος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "249η",
+      "etos": "217 μ.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Γράος",
+      "poli": "Βιθυνία"
+    },
+    {
+      "diorganosi": "249η",
+      "etos": "217 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αυρήλιος Αίλιξ",
+      "poli": "Φοινίκη"
+    },
+    {
+      "diorganosi": "250η",
+      "etos": "221 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πόπλιος Αίλιος Αλκανδρίδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "250η",
+      "etos": "221 μ.Χ.",
+      "agonisma": "Παγκράτιο",
+      "olympionikis": "Αυρήλιος Φοιβάμμων",
+      "poli": "Αίγυπτος"
+    },
+    {
+      "diorganosi": "250η",
+      "etos": "221 μ.Χ.",
+      "agonisma": "Δόλιχος",
+      "olympionikis": "Γράος",
+      "poli": "Βιθυνία"
+    },
+    {
+      "diorganosi": "251η",
+      "etos": "225 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Πόπλιος Αίλιος Αλκανδρίδας",
+      "poli": "Σπάρτη"
+    },
+    {
+      "diorganosi": "251η",
+      "etos": "225 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Πόπλιος Αίλιος Γρανιανός Φάνιος Αρτεμίδωρος",
+      "poli": "Μίλητος"
+    },
+    {
+      "diorganosi": "252η",
+      "etos": "229 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημήτριος",
+      "poli": "Σαλαμίνα Κύπρου"
+    },
+    {
+      "diorganosi": "252η",
+      "etos": "229 μ.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Δημήτριος",
+      "poli": "Σαλαμίνα Κύπρου"
+    },
+    {
+      "diorganosi": "252η",
+      "etos": "229 μ.Χ.",
+      "agonisma": "άγνωστο (Πάλη ή Πυγμαχία ή Παγκράτιο)",
+      "olympionikis": "Κλαύδιος Ρούφος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "253η",
+      "etos": "233 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημήτριος",
+      "poli": "Σαλαμίνα Κύπρου"
+    },
+    {
+      "diorganosi": "253η",
+      "etos": "233 μ.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Δημήτριος",
+      "poli": "Σαλαμίνα Κύπρου"
+    },
+    {
+      "diorganosi": "253η",
+      "etos": "233 μ.Χ.",
+      "agonisma": "άγνωστο (Πάλη ή Πυγμαχία ή Παγκράτιο)",
+      "olympionikis": "Κλαύδιος Ρούφος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "254η",
+      "etos": "237 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Δημήτριος",
+      "poli": "Σαλαμίνα Κύπρου"
+    },
+    {
+      "diorganosi": "254η",
+      "etos": "237 μ.Χ.",
+      "agonisma": "άγνωστο (Πάλη ή Πυγμαχία)",
+      "olympionikis": "άγνωστος",
+      "poli": "άγνωστη"
+    },
+    {
+      "diorganosi": "255η",
+      "etos": "241 μ.Χ.",
+      "agonisma": "Πένταθλον",
+      "olympionikis": "Πούπλιος Ασκληπιάδης",
+      "poli": "Κόρινθος"
+    },
+    {
+      "diorganosi": "255η",
+      "etos": "241 μ.Χ.",
+      "agonisma": "Τέθριππο",
+      "olympionikis": "Τίτος Δομίτιος Προμηθέας",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "255η",
+      "etos": "241 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Αυρήλιος Γερμανός",
+      "poli": "Αντινόη"
+    },
+    {
+      "diorganosi": "256η",
+      "etos": "245 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Βαλέριος Εκλεκτός",
+      "poli": "Σινώπη"
+    },
+    {
+      "diorganosi": "256η",
+      "etos": "245 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Τίτος Κλαύδιος Διόδωρος",
+      "poli": "Αίγυπτος, Ερμόπολις"
+    },
+    {
+      "diorganosi": "257η",
+      "etos": "249 μ.Χ.",
+      "agonisma": "άγνωστο (Πάλη ή Παγκράτιο)",
+      "olympionikis": "Μάρκος Αυρήλιος Πείος",
+      "poli": "Δάλδη (Λυδία)"
+    },
+    {
+      "diorganosi": "257η",
+      "etos": "249 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "άγνωστος",
+      "poli": "Αθήνα"
+    },
+    {
+      "diorganosi": "258η",
+      "etos": "253 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Βαλέριος Εκλεκτός",
+      "poli": "Σινώπη"
+    },
+    {
+      "diorganosi": "259η",
+      "etos": "257 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Βαλέριος Εκλεκτός",
+      "poli": "Σινώπη"
+    },
+    {
+      "diorganosi": "260η",
+      "etos": "261 μ.Χ.",
+      "agonisma": "Αγώνας κηρύκων",
+      "olympionikis": "Βαλέριος Εκλεκτός",
+      "poli": "Σινώπη"
+    },
+    {
+      "diorganosi": "261η",
+      "etos": "265 μ.Χ.",
+      "agonisma": "...",
+      "olympionikis": "Δεν αναφέρονται νικητές",
+      "poli": "..."
+    },
+    {
+      "diorganosi": "262η",
+      "etos": "269 μ.Χ.",
+      "agonisma": "Στάδιον",
+      "olympionikis": "Διονύσιος",
+      "poli": "Αλεξάνδρεια"
+    },
+    {
+      "diorganosi": "263η",
+      "etos": "273 μ.Χ.",
+      "agonisma": "...",
+      "olympionikis": "Δεν αναφέρονται νικητές",
+      "poli": "..."
+    },
+    {
+      "diorganosi": "264η",
+      "etos": "277 μ.Χ.",
+      "agonisma": "άγνωστο",
+      "olympionikis": "Αυρήλιος Σαραπάμμων",
+      "poli": "Αίγυπτος, Οξύρρυγχος"
+    },
+    {
+      "diorganosi": "",
+      "etos": "281 - 365 μ.Χ.",
+      "agonisma": "...",
+      "olympionikis": "Δεν αναφέρονται νικητές",
+      "poli": "..."
+    },
+    {
+      "diorganosi": "287η",
+      "etos": "369 μ.Χ.",
+      "agonisma": "Πυγμαχία",
+      "olympionikis": "Βαρασδάτης",
+      "poli": "Αρμενία"
+    },
+    {
+      "diorganosi": "287η",
+      "etos": "369 μ.Χ.",
+      "agonisma": "άγνωστο (Πάλη ή Πυγμαχία ή Παγκράτιο)",
+      "olympionikis": "Φιλούμενος",
+      "poli": "Φιλαδέλφεια (Μικρά Ασία)"
+    }
+  ],
+  "meta": {
+    "title": "Κατάλογος αρχαίων Ολυμπιονικών - Free Download",
+    "description": "Νικητές των αρχαίων Ολυμπιακών Αγώνων από το 776 π.Χ.: διοργάνωση, έτος, αγώνισμα, ολυμπιονίκης και πόλη καταγωγής. Contains 945 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Κατάλογος αρχαίων Ολυμπιονικών | ListBase",
+    "seo_description": "Download Κατάλογος αρχαίων Ολυμπιονικών — 945 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 945 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_αρχαίων_ολυμπιονικών"
+    ]
+  }
+}

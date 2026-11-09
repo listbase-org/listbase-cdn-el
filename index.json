@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-06T02:29:49.450Z",
-  "total_datasets": 491,
-  "total_records": 197137,
+  "generated": "2026-11-09T02:21:35.938Z",
+  "total_datasets": 492,
+  "total_records": 198082,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "language",
@@ -4966,6 +4966,32 @@
         "xlsx": {
           "name": "el-archaioi-ellinikoi-choroi_EL.xlsx",
           "size": 7137
+        }
+      }
+    },
+    {
+      "id": "el-archaioi-olympionikes",
+      "name": "Κατάλογος αρχαίων Ολυμπιονικών",
+      "category": "history",
+      "record_count": 945,
+      "columns": [
+        "diorganosi",
+        "etos",
+        "agonisma",
+        "olympionikis",
+        "poli"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_αρχαίων_ολυμπιονικών",
+      "updated": "2026-11",
+      "size": 178949,
+      "files": {
+        "csv": {
+          "name": "el-archaioi-olympionikes_EL.csv",
+          "size": 77727
+        },
+        "xlsx": {
+          "name": "el-archaioi-olympionikes_EL.xlsx",
+          "size": 35974
         }
       }
     },
