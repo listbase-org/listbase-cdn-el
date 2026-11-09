@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-09T02:21:35.938Z",
-  "total_datasets": 492,
-  "total_records": 198082,
+  "generated": "2026-11-09T02:21:43.694Z",
+  "total_datasets": 493,
+  "total_records": 198169,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "language",
@@ -4992,6 +4992,30 @@
         "xlsx": {
           "name": "el-archaioi-olympionikes_EL.xlsx",
           "size": 35974
+        }
+      }
+    },
+    {
+      "id": "el-archigoi-genikou-epiteleiou-stratou",
+      "name": "Αρχηγοί του Γενικού Επιτελείου Στρατού",
+      "category": "history",
+      "record_count": 87,
+      "columns": [
+        "onoma",
+        "enarxi_thiteias",
+        "lixi_thiteias"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Γενικό_Επιτελείο_Στρατού_(Ελλάδα)",
+      "updated": "2026-11",
+      "size": 14409,
+      "files": {
+        "csv": {
+          "name": "el-archigoi-genikou-epiteleiou-stratou_EL.csv",
+          "size": 5674
+        },
+        "xlsx": {
+          "name": "el-archigoi-genikou-epiteleiou-stratou_EL.xlsx",
+          "size": 9814
         }
       }
     },

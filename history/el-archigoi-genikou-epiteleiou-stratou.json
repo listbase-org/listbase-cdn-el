@@ -1,0 +1,476 @@
+{
+  "id": "el-archigoi-genikou-epiteleiou-stratou",
+  "name": "Αρχηγοί του Γενικού Επιτελείου Στρατού",
+  "title": "Αρχηγοί του Γενικού Επιτελείου Στρατού",
+  "description": "Κατάλογος των αρχηγών του Γενικού Επιτελείου Στρατού (ΓΕΣ) της Ελλάδας από το 1901, με έτη έναρξης και λήξης θητείας.",
+  "category": "history",
+  "source": "https://el.wikipedia.org/wiki/Γενικό_Επιτελείο_Στρατού_(Ελλάδα)",
+  "source_url": "https://el.wikipedia.org/wiki/Γενικό_Επιτελείο_Στρατού_(Ελλάδα)",
+  "updated": "2026-11",
+  "record_count": 87,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "enarxi_thiteias",
+      "label": "Enarxi Thiteias",
+      "type": "number"
+    },
+    {
+      "key": "lixi_thiteias",
+      "label": "Lixi Thiteias",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Κωνσταντίνος Σαπουντζάκης (1846-1931)",
+      "enarxi_thiteias": "1901",
+      "lixi_thiteias": "1912"
+    },
+    {
+      "onoma": "Παναγιώτης Δαγκλής (1853-1924)",
+      "enarxi_thiteias": "1912",
+      "lixi_thiteias": "1912"
+    },
+    {
+      "onoma": "Κωνσταντίνος Νίδερ (1865-1943)",
+      "enarxi_thiteias": "1912",
+      "lixi_thiteias": "1913"
+    },
+    {
+      "onoma": "Πάτροκλος Κοντογιάννης (1862-1943)",
+      "enarxi_thiteias": "1913",
+      "lixi_thiteias": "1914"
+    },
+    {
+      "onoma": "Βίκτωρ Δούσμανης (1862-1949)",
+      "enarxi_thiteias": "1914",
+      "lixi_thiteias": "1915"
+    },
+    {
+      "onoma": "Ιωάννης Μεταξάς (1871-1941)",
+      "enarxi_thiteias": "1915",
+      "lixi_thiteias": "1915"
+    },
+    {
+      "onoma": "Βίκτωρ Δούσμανης (1862-1949)",
+      "enarxi_thiteias": "1915",
+      "lixi_thiteias": "1916"
+    },
+    {
+      "onoma": "Κωνσταντίνος Μοσχόπουλος (1854-1942)",
+      "enarxi_thiteias": "1916",
+      "lixi_thiteias": "1916"
+    },
+    {
+      "onoma": "Ξενοφών Στρατηγός (1869-1927)",
+      "enarxi_thiteias": "1916",
+      "lixi_thiteias": "1917"
+    },
+    {
+      "onoma": "Αναστάσιος Χαραλάμπης (1862-1949)",
+      "enarxi_thiteias": "1917",
+      "lixi_thiteias": "1920"
+    },
+    {
+      "onoma": "Αριστοτέλης Βλαχόπουλος (1866-1960)",
+      "enarxi_thiteias": "1920",
+      "lixi_thiteias": "1921"
+    },
+    {
+      "onoma": "Κωνσταντίνος Γουβέλης (1868-1934)",
+      "enarxi_thiteias": "1921",
+      "lixi_thiteias": "1921"
+    },
+    {
+      "onoma": "Βίκτωρ Δούσμανης (1862-1949)",
+      "enarxi_thiteias": "1921",
+      "lixi_thiteias": "1921"
+    },
+    {
+      "onoma": "Αθανάσιος Εξαδάκτυλος (1869-1936)",
+      "enarxi_thiteias": "1921",
+      "lixi_thiteias": "1922"
+    },
+    {
+      "onoma": "Ιωάννης Μακρυκώστας",
+      "enarxi_thiteias": "1922",
+      "lixi_thiteias": "1922"
+    },
+    {
+      "onoma": "Βίκτωρ Δούσμανης (1862-1949)",
+      "enarxi_thiteias": "1922",
+      "lixi_thiteias": "1923"
+    },
+    {
+      "onoma": "Νικόλαος Βλαχόπουλος (1868-1957)",
+      "enarxi_thiteias": "1923",
+      "lixi_thiteias": "1924"
+    },
+    {
+      "onoma": "Πέτρος Κλάδος (18??-19??)",
+      "enarxi_thiteias": "1924",
+      "lixi_thiteias": "1924"
+    },
+    {
+      "onoma": "Αλέξανδρος Μαζαράκης-Αινιάν (1874-1943)",
+      "enarxi_thiteias": "1924",
+      "lixi_thiteias": "1925"
+    },
+    {
+      "onoma": "Πτολεμαίος Σαρηγιάννης (1882-1958)",
+      "enarxi_thiteias": "1925",
+      "lixi_thiteias": "1926"
+    },
+    {
+      "onoma": "Αλέξανδρος Μαζαράκης-Αινιάν (1874-1943)",
+      "enarxi_thiteias": "1926",
+      "lixi_thiteias": "1927"
+    },
+    {
+      "onoma": "Νικόλαος Βλαχόπουλος (1868-1957)",
+      "enarxi_thiteias": "1927",
+      "lixi_thiteias": "1928"
+    },
+    {
+      "onoma": "Αλέξανδρος Μερεντίτης (1880-1964)",
+      "enarxi_thiteias": "1928",
+      "lixi_thiteias": "1929"
+    },
+    {
+      "onoma": "Νικόλαος Βλαχόπουλος (1868-1957)",
+      "enarxi_thiteias": "1929",
+      "lixi_thiteias": "1931"
+    },
+    {
+      "onoma": "Κωνσταντίνος Μανέτας (1879-1960)",
+      "enarxi_thiteias": "1931",
+      "lixi_thiteias": "1931"
+    },
+    {
+      "onoma": "Θεόδωρος Μανέτας (1881-1947)",
+      "enarxi_thiteias": "1931",
+      "lixi_thiteias": "1933"
+    },
+    {
+      "onoma": "Δημήτριος Καθενιώτης (1882-1947)",
+      "enarxi_thiteias": "1933",
+      "lixi_thiteias": "1935"
+    },
+    {
+      "onoma": "Αριστείδης Χασαπίδης (1875-1941)",
+      "enarxi_thiteias": "1935",
+      "lixi_thiteias": "1936"
+    },
+    {
+      "onoma": "Αλέξανδρος Παπάγος (1883-1955)",
+      "enarxi_thiteias": "1936",
+      "lixi_thiteias": "1940"
+    },
+    {
+      "onoma": "Κωνσταντίνος Πάλλης (1871-1941)",
+      "enarxi_thiteias": "1940",
+      "lixi_thiteias": "1941"
+    },
+    {
+      "onoma": "Ναπολέων Μπάτας (18??-19??)",
+      "enarxi_thiteias": "1941",
+      "lixi_thiteias": "1942"
+    },
+    {
+      "onoma": "Βασίλειος Μαραβέας (18??-19??)",
+      "enarxi_thiteias": "1942",
+      "lixi_thiteias": "1943"
+    },
+    {
+      "onoma": "Αχιλλέας Σκουλάς (18??-19??)",
+      "enarxi_thiteias": "1943",
+      "lixi_thiteias": "1943"
+    },
+    {
+      "onoma": "Αλκιβιάδης Μπουρδάρας (1895-1959)",
+      "enarxi_thiteias": "1943",
+      "lixi_thiteias": "1943"
+    },
+    {
+      "onoma": "Δημήτριος Λάιος (18??-19??)",
+      "enarxi_thiteias": "1943",
+      "lixi_thiteias": "1944"
+    },
+    {
+      "onoma": "Ευστάθιος Λιώσης (1891-1953)",
+      "enarxi_thiteias": "1944",
+      "lixi_thiteias": "1944"
+    },
+    {
+      "onoma": "Κωνσταντίνος Βεντήρης (1892-1960)",
+      "enarxi_thiteias": "1944",
+      "lixi_thiteias": "1944"
+    },
+    {
+      "onoma": "Ευστάθιος Λιώσης (1891-1953)",
+      "enarxi_thiteias": "1944",
+      "lixi_thiteias": "1944"
+    },
+    {
+      "onoma": "Γεώργιος Δρομάζος (1886-1973)",
+      "enarxi_thiteias": "1944",
+      "lixi_thiteias": "1946"
+    },
+    {
+      "onoma": "Παναγιώτης Σπηλιωτόπουλος (1891-1962)",
+      "enarxi_thiteias": "1946",
+      "lixi_thiteias": "1947"
+    },
+    {
+      "onoma": "Κωνσταντίνος Βεντήρης (1892-1960)",
+      "enarxi_thiteias": "1947",
+      "lixi_thiteias": "1947"
+    },
+    {
+      "onoma": "Δημήτριος Γιατζής (1891-1964)",
+      "enarxi_thiteias": "1947",
+      "lixi_thiteias": "1949"
+    },
+    {
+      "onoma": "Γεώργιος Κοσμάς (1884-1964)",
+      "enarxi_thiteias": "1949",
+      "lixi_thiteias": "1951"
+    },
+    {
+      "onoma": "Θεόδωρος Γρηγορόπουλος (18??-19??)",
+      "enarxi_thiteias": "1951",
+      "lixi_thiteias": "1951"
+    },
+    {
+      "onoma": "Θρασύβουλος Τσακαλώτος (1897-1989)",
+      "enarxi_thiteias": "1951",
+      "lixi_thiteias": "1952"
+    },
+    {
+      "onoma": "Αλέξανδρος Τσιγγούνης (1893-1984)",
+      "enarxi_thiteias": "1952",
+      "lixi_thiteias": "1954"
+    },
+    {
+      "onoma": "Σόλων Γκίκας (1898-1978)",
+      "enarxi_thiteias": "1954",
+      "lixi_thiteias": "1956"
+    },
+    {
+      "onoma": "Πέτρος Νικολόπουλος (1898-1986)",
+      "enarxi_thiteias": "1956",
+      "lixi_thiteias": "1958"
+    },
+    {
+      "onoma": "Δημήτριος Σειραδάκης (1897-1990)",
+      "enarxi_thiteias": "1958",
+      "lixi_thiteias": "1959"
+    },
+    {
+      "onoma": "Βασίλειος Καρδαμάκης (1900-1971)",
+      "enarxi_thiteias": "1959",
+      "lixi_thiteias": "1962"
+    },
+    {
+      "onoma": "Πέτρος Σακελλαρίου (1907-1980)",
+      "enarxi_thiteias": "1962",
+      "lixi_thiteias": "1964"
+    },
+    {
+      "onoma": "Ιωάννης Γεννηματάς (1910-1981)",
+      "enarxi_thiteias": "1964",
+      "lixi_thiteias": "1965"
+    },
+    {
+      "onoma": "Γρηγόριος Σπαντιδάκης (1909-1996)",
+      "enarxi_thiteias": "1965",
+      "lixi_thiteias": "1967"
+    },
+    {
+      "onoma": "Οδυσσέας Αγγελής (1912-1987)",
+      "enarxi_thiteias": "1967",
+      "lixi_thiteias": "1968"
+    },
+    {
+      "onoma": "Βασίλειος Τσούμπας (1914-1993)",
+      "enarxi_thiteias": "1968",
+      "lixi_thiteias": "1972"
+    },
+    {
+      "onoma": "Δημήτριος Ζαγοριανάκος (1918-1977)",
+      "enarxi_thiteias": "1972",
+      "lixi_thiteias": "1973"
+    },
+    {
+      "onoma": "Μιχαήλ Μαστραντώνης",
+      "enarxi_thiteias": "1973",
+      "lixi_thiteias": "1973"
+    },
+    {
+      "onoma": "Ανδρέας Γαλατσάνος (1919-1991)",
+      "enarxi_thiteias": "1973",
+      "lixi_thiteias": "1974"
+    },
+    {
+      "onoma": "Ιωάννης Ντάβος (1918-2008)",
+      "enarxi_thiteias": "1974",
+      "lixi_thiteias": "1976"
+    },
+    {
+      "onoma": "Αγαμέμνων Γκράτζιος (1922-1993)",
+      "enarxi_thiteias": "1976",
+      "lixi_thiteias": "1980"
+    },
+    {
+      "onoma": "Ευθύμιος Καραγιάννης (1923-2007)",
+      "enarxi_thiteias": "1980",
+      "lixi_thiteias": "1982"
+    },
+    {
+      "onoma": "Δημήτριος Παναγόπουλος (1925-)",
+      "enarxi_thiteias": "1982",
+      "lixi_thiteias": "1984"
+    },
+    {
+      "onoma": "Βασίλειος Κουρκάφας (1925-2010)",
+      "enarxi_thiteias": "29 Φεβρουαρίου 1984",
+      "lixi_thiteias": "1984"
+    },
+    {
+      "onoma": "Επαμεινώνδας Πενθερουδάκης (1926-1996)",
+      "enarxi_thiteias": "1984",
+      "lixi_thiteias": "1986"
+    },
+    {
+      "onoma": "Σταμάτης Βελλίδης (1928-)",
+      "enarxi_thiteias": "1986",
+      "lixi_thiteias": "1989"
+    },
+    {
+      "onoma": "Ιωάννης Βερυβάκης (1930-2019)",
+      "enarxi_thiteias": "1989",
+      "lixi_thiteias": "1990"
+    },
+    {
+      "onoma": "Δημήτριος Σκαρβέλης",
+      "enarxi_thiteias": "1990",
+      "lixi_thiteias": "1993"
+    },
+    {
+      "onoma": "Ευστάθιος Καπραβέλος",
+      "enarxi_thiteias": "1993",
+      "lixi_thiteias": "1993"
+    },
+    {
+      "onoma": "Κωνσταντίνος Βούλγαρης",
+      "enarxi_thiteias": "1993",
+      "lixi_thiteias": "1996"
+    },
+    {
+      "onoma": "Μανούσος Παραγιουδάκης (1938-)",
+      "enarxi_thiteias": "1996",
+      "lixi_thiteias": "1999"
+    },
+    {
+      "onoma": "Κωνσταντίνος Παναγιωτάκης",
+      "enarxi_thiteias": "1999",
+      "lixi_thiteias": "2001"
+    },
+    {
+      "onoma": "Γεώργιος Αντωνακόπουλος (1943-)",
+      "enarxi_thiteias": "2001",
+      "lixi_thiteias": "2002"
+    },
+    {
+      "onoma": "Παναγιώτης Χαρβάλας (1946-)",
+      "enarxi_thiteias": "2002",
+      "lixi_thiteias": "2004"
+    },
+    {
+      "onoma": "Νικόλαος Ντούβας (1947-)",
+      "enarxi_thiteias": "2004",
+      "lixi_thiteias": "2006"
+    },
+    {
+      "onoma": "Δημήτριος Γράψας (1948-)",
+      "enarxi_thiteias": "2006",
+      "lixi_thiteias": "2007"
+    },
+    {
+      "onoma": "Δημήτριος Σ. Βούλγαρης (1949-2023)",
+      "enarxi_thiteias": "2007",
+      "lixi_thiteias": "2009"
+    },
+    {
+      "onoma": "Φραγκούλης Φράγκος (1951-)",
+      "enarxi_thiteias": "2009",
+      "lixi_thiteias": "2011"
+    },
+    {
+      "onoma": "Κωνσταντίνος Ζιαζιάς",
+      "enarxi_thiteias": "2011",
+      "lixi_thiteias": "2012"
+    },
+    {
+      "onoma": "Κωνσταντίνος Γκίνης (1957-)",
+      "enarxi_thiteias": "2012",
+      "lixi_thiteias": "2013"
+    },
+    {
+      "onoma": "Αθανάσιος Τσέλιος (1956-)",
+      "enarxi_thiteias": "2013",
+      "lixi_thiteias": "2014"
+    },
+    {
+      "onoma": "Χρήστος Μανωλάς (1959-)",
+      "enarxi_thiteias": "2014",
+      "lixi_thiteias": "2015"
+    },
+    {
+      "onoma": "Βασίλειος Τελλίδης (1958-)",
+      "enarxi_thiteias": "2015",
+      "lixi_thiteias": "2017"
+    },
+    {
+      "onoma": "Αλκιβιάδης Στεφανής (1959-)",
+      "enarxi_thiteias": "2017",
+      "lixi_thiteias": "2019"
+    },
+    {
+      "onoma": "Γεώργιος Καμπάς (1960-)",
+      "enarxi_thiteias": "2019",
+      "lixi_thiteias": "2020"
+    },
+    {
+      "onoma": "Χαράλαμπος Λαλούσης (1962-)",
+      "enarxi_thiteias": "2020",
+      "lixi_thiteias": "2023"
+    },
+    {
+      "onoma": "Άγγελος Χουδελούδης (1964-)",
+      "enarxi_thiteias": "2023",
+      "lixi_thiteias": "2024"
+    },
+    {
+      "onoma": "Γεώργιος Κωστίδης (1965-)",
+      "enarxi_thiteias": "2024",
+      "lixi_thiteias": ""
+    }
+  ],
+  "meta": {
+    "title": "Αρχηγοί του Γενικού Επιτελείου Στρατού - Free Download",
+    "description": "Κατάλογος των αρχηγών του Γενικού Επιτελείου Στρατού (ΓΕΣ) της Ελλάδας από το 1901, με έτη έναρξης και λήξης θητείας. Contains 87 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αρχηγοί του Γενικού Επιτελείου Στρατού | ListBase",
+    "seo_description": "Download Αρχηγοί του Γενικού Επιτελείου Στρατού — 87 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 87 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Γενικό_Επιτελείο_Στρατού_(Ελλάδα)"
+    ]
+  }
+}
