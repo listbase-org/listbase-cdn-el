@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-09T02:21:53.098Z",
-  "total_datasets": 494,
-  "total_records": 198189,
+  "generated": "2026-11-10T02:24:50.159Z",
+  "total_datasets": 495,
+  "total_records": 199767,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "sports",
@@ -12385,6 +12385,31 @@
         "xlsx": {
           "name": "el-attikis-astynomika-tmimata_EL.xlsx",
           "size": 11626
+        }
+      }
+    },
+    {
+      "id": "el-efimerides-eparxiakou-typou",
+      "name": "Εφημερίδες επαρχιακού τύπου στην Ελλάδα",
+      "category": "society",
+      "record_count": 1578,
+      "columns": [
+        "newspaper",
+        "region",
+        "prefecture",
+        "description"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_επαρχιακού_τύπου",
+      "updated": "2026-11",
+      "size": 578644,
+      "files": {
+        "csv": {
+          "name": "el-efimerides-eparxiakou-typou_EL.csv",
+          "size": 431273
+        },
+        "xlsx": {
+          "name": "el-efimerides-eparxiakou-typou_EL.xlsx",
+          "size": 88691
         }
       }
     },
