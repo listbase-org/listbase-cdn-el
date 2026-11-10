@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-10T02:25:00.681Z",
-  "total_datasets": 496,
-  "total_records": 199915,
+  "generated": "2026-11-10T02:25:10.862Z",
+  "total_datasets": 497,
+  "total_records": 200006,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "geography",
@@ -3943,6 +3943,36 @@
         "xlsx": {
           "name": "el-ellinika-piata_EL.xlsx",
           "size": 12554
+        }
+      }
+    },
+    {
+      "id": "el-ellinika-proionta-pop-pge",
+      "name": "Ελληνικά αγροτικά προϊόντα και τρόφιμα ΠΟΠ και ΠΓΕ",
+      "category": "food",
+      "record_count": 91,
+      "columns": [
+        "name",
+        "name_latin",
+        "other_names",
+        "gi_type",
+        "cn_heading",
+        "file_number",
+        "status",
+        "registration_date",
+        "application_date"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 32322,
+      "files": {
+        "csv": {
+          "name": "el-ellinika-proionta-pop-pge_EL.csv",
+          "size": 11355
+        },
+        "xlsx": {
+          "name": "el-ellinika-proionta-pop-pge_EL.xlsx",
+          "size": 13666
         }
       }
     },
