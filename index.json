@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-10T02:25:10.862Z",
-  "total_datasets": 497,
-  "total_records": 200006,
+  "generated": "2026-11-10T02:25:19.508Z",
+  "total_datasets": 498,
+  "total_records": 200213,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "law",
@@ -5253,6 +5253,30 @@
         "xlsx": {
           "name": "el-glosses-kyprou-apografi-2011_EL.xlsx",
           "size": 6989
+        }
+      }
+    },
+    {
+      "id": "el-katalogos-swadesh",
+      "name": "Κατάλογος Σουάντες στα ελληνικά",
+      "category": "language",
+      "record_count": 207,
+      "columns": [
+        "number",
+        "concept_en",
+        "greek"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_Σουάντες",
+      "updated": "2026-11",
+      "size": 21144,
+      "files": {
+        "csv": {
+          "name": "el-katalogos-swadesh_EL.csv",
+          "size": 6191
+        },
+        "xlsx": {
+          "name": "el-katalogos-swadesh_EL.xlsx",
+          "size": 12728
         }
       }
     },

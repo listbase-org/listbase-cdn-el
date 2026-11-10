@@ -1,0 +1,1076 @@
+{
+  "id": "el-katalogos-swadesh",
+  "name": "Κατάλογος Σουάντες στα ελληνικά",
+  "title": "Κατάλογος Σουάντες στα ελληνικά",
+  "description": "Ο κατάλογος βασικού λεξιλογίου του Σουάντες (207 έννοιες) με τις αντίστοιχες ελληνικές λέξεις.",
+  "category": "language",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_Σουάντες",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_Σουάντες",
+  "updated": "2026-11",
+  "record_count": 207,
+  "columns": [
+    {
+      "key": "number",
+      "label": "Number",
+      "type": "number"
+    },
+    {
+      "key": "concept_en",
+      "label": "Concept En",
+      "type": "string"
+    },
+    {
+      "key": "greek",
+      "label": "Greek",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "number": 1,
+      "concept_en": "I",
+      "greek": "εγώ"
+    },
+    {
+      "number": 2,
+      "concept_en": "you (singular)",
+      "greek": "εσύ, εσείς"
+    },
+    {
+      "number": 3,
+      "concept_en": "he",
+      "greek": "αυτός"
+    },
+    {
+      "number": 4,
+      "concept_en": "we",
+      "greek": "εμείς"
+    },
+    {
+      "number": 5,
+      "concept_en": "you (plural)",
+      "greek": "εσείς"
+    },
+    {
+      "number": 6,
+      "concept_en": "they",
+      "greek": "αυτοί"
+    },
+    {
+      "number": 7,
+      "concept_en": "this",
+      "greek": "αυτό"
+    },
+    {
+      "number": 8,
+      "concept_en": "that",
+      "greek": "εκείνο"
+    },
+    {
+      "number": 9,
+      "concept_en": "here",
+      "greek": "εδώ"
+    },
+    {
+      "number": 10,
+      "concept_en": "there",
+      "greek": "εκεί"
+    },
+    {
+      "number": 11,
+      "concept_en": "who",
+      "greek": "ποιος"
+    },
+    {
+      "number": 12,
+      "concept_en": "what",
+      "greek": "τι"
+    },
+    {
+      "number": 13,
+      "concept_en": "where",
+      "greek": "πού"
+    },
+    {
+      "number": 14,
+      "concept_en": "when",
+      "greek": "πότε"
+    },
+    {
+      "number": 15,
+      "concept_en": "how",
+      "greek": "πώς"
+    },
+    {
+      "number": 16,
+      "concept_en": "not",
+      "greek": "δεν, μην"
+    },
+    {
+      "number": 17,
+      "concept_en": "all",
+      "greek": "όλοι"
+    },
+    {
+      "number": 18,
+      "concept_en": "many",
+      "greek": "πολλοί"
+    },
+    {
+      "number": 19,
+      "concept_en": "some",
+      "greek": "μερικοί"
+    },
+    {
+      "number": 20,
+      "concept_en": "few",
+      "greek": "λίγοι"
+    },
+    {
+      "number": 21,
+      "concept_en": "other",
+      "greek": "άλλοι"
+    },
+    {
+      "number": 22,
+      "concept_en": "one",
+      "greek": "ένα"
+    },
+    {
+      "number": 23,
+      "concept_en": "two",
+      "greek": "δύο"
+    },
+    {
+      "number": 24,
+      "concept_en": "three",
+      "greek": "τρία"
+    },
+    {
+      "number": 25,
+      "concept_en": "four",
+      "greek": "τέσσερα"
+    },
+    {
+      "number": 26,
+      "concept_en": "five",
+      "greek": "πέντε"
+    },
+    {
+      "number": 27,
+      "concept_en": "big",
+      "greek": "μεγάλος"
+    },
+    {
+      "number": 28,
+      "concept_en": "long",
+      "greek": "μακρύς"
+    },
+    {
+      "number": 29,
+      "concept_en": "wide",
+      "greek": "πλατύς, φαρδύς"
+    },
+    {
+      "number": 30,
+      "concept_en": "thick",
+      "greek": "παχύς, χοντρός"
+    },
+    {
+      "number": 31,
+      "concept_en": "heavy",
+      "greek": "βαρύς"
+    },
+    {
+      "number": 32,
+      "concept_en": "small",
+      "greek": "μικρός"
+    },
+    {
+      "number": 33,
+      "concept_en": "short",
+      "greek": "κοντός"
+    },
+    {
+      "number": 34,
+      "concept_en": "narrow",
+      "greek": "στενός"
+    },
+    {
+      "number": 35,
+      "concept_en": "thin",
+      "greek": "λεπτός"
+    },
+    {
+      "number": 36,
+      "concept_en": "woman",
+      "greek": "γυναίκα"
+    },
+    {
+      "number": 37,
+      "concept_en": "man (male)",
+      "greek": "άνδρας"
+    },
+    {
+      "number": 38,
+      "concept_en": "man (human)",
+      "greek": "άνθρωπος"
+    },
+    {
+      "number": 39,
+      "concept_en": "child",
+      "greek": "παιδί"
+    },
+    {
+      "number": 40,
+      "concept_en": "wife",
+      "greek": "σύζυγος, γυναίκα"
+    },
+    {
+      "number": 41,
+      "concept_en": "husband",
+      "greek": "σύζυγος, άντρας"
+    },
+    {
+      "number": 42,
+      "concept_en": "mother",
+      "greek": "μητέρα, μάνα"
+    },
+    {
+      "number": 43,
+      "concept_en": "father",
+      "greek": "πατέρας"
+    },
+    {
+      "number": 44,
+      "concept_en": "animal",
+      "greek": "ζώο"
+    },
+    {
+      "number": 45,
+      "concept_en": "fish",
+      "greek": "ψάρι"
+    },
+    {
+      "number": 46,
+      "concept_en": "bird",
+      "greek": "πουλί"
+    },
+    {
+      "number": 47,
+      "concept_en": "dog",
+      "greek": "σκύλος"
+    },
+    {
+      "number": 48,
+      "concept_en": "louse",
+      "greek": "ψείρα"
+    },
+    {
+      "number": 49,
+      "concept_en": "snake",
+      "greek": "φίδι"
+    },
+    {
+      "number": 50,
+      "concept_en": "worm",
+      "greek": "σκουλήκι"
+    },
+    {
+      "number": 51,
+      "concept_en": "tree",
+      "greek": "δέντρο"
+    },
+    {
+      "number": 52,
+      "concept_en": "forest",
+      "greek": "δάσος"
+    },
+    {
+      "number": 53,
+      "concept_en": "stick",
+      "greek": "ραβδί, βέργα"
+    },
+    {
+      "number": 54,
+      "concept_en": "fruit",
+      "greek": "φρούτο"
+    },
+    {
+      "number": 55,
+      "concept_en": "seed",
+      "greek": "σπόρος"
+    },
+    {
+      "number": 56,
+      "concept_en": "leaf",
+      "greek": "φύλλο"
+    },
+    {
+      "number": 57,
+      "concept_en": "root",
+      "greek": "ρίζα"
+    },
+    {
+      "number": 58,
+      "concept_en": "bark (of a tree)",
+      "greek": "φλοιός"
+    },
+    {
+      "number": 59,
+      "concept_en": "flower",
+      "greek": "λουλούδι"
+    },
+    {
+      "number": 60,
+      "concept_en": "grass",
+      "greek": "χορτάρι"
+    },
+    {
+      "number": 61,
+      "concept_en": "rope",
+      "greek": "σχοινί"
+    },
+    {
+      "number": 62,
+      "concept_en": "skin",
+      "greek": "δέρμα"
+    },
+    {
+      "number": 63,
+      "concept_en": "meat",
+      "greek": "κρέας"
+    },
+    {
+      "number": 64,
+      "concept_en": "blood",
+      "greek": "αίμα"
+    },
+    {
+      "number": 65,
+      "concept_en": "bone",
+      "greek": "κόκαλο"
+    },
+    {
+      "number": 66,
+      "concept_en": "fat (noun)",
+      "greek": "λίπος"
+    },
+    {
+      "number": 67,
+      "concept_en": "egg",
+      "greek": "αυγό"
+    },
+    {
+      "number": 68,
+      "concept_en": "horn",
+      "greek": "κέρατο"
+    },
+    {
+      "number": 69,
+      "concept_en": "tail",
+      "greek": "ουρά"
+    },
+    {
+      "number": 70,
+      "concept_en": "feather",
+      "greek": "πούπουλο, φτερό"
+    },
+    {
+      "number": 71,
+      "concept_en": "hair",
+      "greek": "τρίχα, μαλλιά"
+    },
+    {
+      "number": 72,
+      "concept_en": "head",
+      "greek": "κεφάλι"
+    },
+    {
+      "number": 73,
+      "concept_en": "ear",
+      "greek": "αυτί"
+    },
+    {
+      "number": 74,
+      "concept_en": "eye",
+      "greek": "μάτι"
+    },
+    {
+      "number": 75,
+      "concept_en": "nose",
+      "greek": "μύτη"
+    },
+    {
+      "number": 76,
+      "concept_en": "mouth",
+      "greek": "στόμα"
+    },
+    {
+      "number": 77,
+      "concept_en": "tooth",
+      "greek": "δόντι"
+    },
+    {
+      "number": 78,
+      "concept_en": "tongue",
+      "greek": "γλώσσα"
+    },
+    {
+      "number": 79,
+      "concept_en": "fingernail",
+      "greek": "νύχι"
+    },
+    {
+      "number": 80,
+      "concept_en": "foot",
+      "greek": "πόδι"
+    },
+    {
+      "number": 81,
+      "concept_en": "leg",
+      "greek": "πόδι"
+    },
+    {
+      "number": 82,
+      "concept_en": "knee",
+      "greek": "γόνατο"
+    },
+    {
+      "number": 83,
+      "concept_en": "hand",
+      "greek": "χέρι"
+    },
+    {
+      "number": 84,
+      "concept_en": "wing",
+      "greek": "φτερό"
+    },
+    {
+      "number": 85,
+      "concept_en": "belly",
+      "greek": "κοιλιά"
+    },
+    {
+      "number": 86,
+      "concept_en": "guts",
+      "greek": "σπλάχνα, εντόσθια"
+    },
+    {
+      "number": 87,
+      "concept_en": "neck",
+      "greek": "λαιμός"
+    },
+    {
+      "number": 88,
+      "concept_en": "back",
+      "greek": "πλάτη"
+    },
+    {
+      "number": 89,
+      "concept_en": "breast",
+      "greek": "στήθος"
+    },
+    {
+      "number": 90,
+      "concept_en": "heart",
+      "greek": "καρδιά"
+    },
+    {
+      "number": 91,
+      "concept_en": "liver",
+      "greek": "συκώτι"
+    },
+    {
+      "number": 92,
+      "concept_en": "to drink",
+      "greek": "πίνω"
+    },
+    {
+      "number": 93,
+      "concept_en": "to eat",
+      "greek": "τρώω"
+    },
+    {
+      "number": 94,
+      "concept_en": "to bite",
+      "greek": "δαγκώνω"
+    },
+    {
+      "number": 95,
+      "concept_en": "to suck",
+      "greek": "ρουφώ"
+    },
+    {
+      "number": 96,
+      "concept_en": "to spit",
+      "greek": "φτύνω"
+    },
+    {
+      "number": 97,
+      "concept_en": "to vomit",
+      "greek": "ξερνώ"
+    },
+    {
+      "number": 98,
+      "concept_en": "to blow",
+      "greek": "φυσάω"
+    },
+    {
+      "number": 99,
+      "concept_en": "to breathe",
+      "greek": "αναπνέω, ανασαίνω"
+    },
+    {
+      "number": 100,
+      "concept_en": "to laugh",
+      "greek": "γελάω"
+    },
+    {
+      "number": 101,
+      "concept_en": "to see",
+      "greek": "βλέπω"
+    },
+    {
+      "number": 102,
+      "concept_en": "to hear",
+      "greek": "ακούω"
+    },
+    {
+      "number": 103,
+      "concept_en": "to know",
+      "greek": "ξέρω, γνωρίζω"
+    },
+    {
+      "number": 104,
+      "concept_en": "to think",
+      "greek": "σκέφτομαι, νομίζω"
+    },
+    {
+      "number": 105,
+      "concept_en": "to smell",
+      "greek": "μυρίζω"
+    },
+    {
+      "number": 106,
+      "concept_en": "to fear",
+      "greek": "φοβάμαι"
+    },
+    {
+      "number": 107,
+      "concept_en": "to sleep",
+      "greek": "κοιμάμαι"
+    },
+    {
+      "number": 108,
+      "concept_en": "to live",
+      "greek": "ζω"
+    },
+    {
+      "number": 109,
+      "concept_en": "to die",
+      "greek": "πεθαίνω"
+    },
+    {
+      "number": 110,
+      "concept_en": "to kill",
+      "greek": "σκοτώνω"
+    },
+    {
+      "number": 111,
+      "concept_en": "to fight",
+      "greek": "μαλώνω"
+    },
+    {
+      "number": 112,
+      "concept_en": "to hunt",
+      "greek": "κυνηγώ"
+    },
+    {
+      "number": 113,
+      "concept_en": "to hit",
+      "greek": "χτυπώ"
+    },
+    {
+      "number": 114,
+      "concept_en": "to cut",
+      "greek": "κόβω"
+    },
+    {
+      "number": 115,
+      "concept_en": "to split",
+      "greek": "χωρίζω"
+    },
+    {
+      "number": 116,
+      "concept_en": "to stab",
+      "greek": "μαχαιρώνω"
+    },
+    {
+      "number": 117,
+      "concept_en": "to scratch",
+      "greek": "ξύνω"
+    },
+    {
+      "number": 118,
+      "concept_en": "to dig",
+      "greek": "σκάβω"
+    },
+    {
+      "number": 119,
+      "concept_en": "to swim",
+      "greek": "κολυμπώ"
+    },
+    {
+      "number": 120,
+      "concept_en": "to fly",
+      "greek": "πετάω"
+    },
+    {
+      "number": 121,
+      "concept_en": "to walk",
+      "greek": "περπατώ"
+    },
+    {
+      "number": 122,
+      "concept_en": "to come",
+      "greek": "έρχομαι"
+    },
+    {
+      "number": 123,
+      "concept_en": "to lie (as in a bed)",
+      "greek": "ξαπλώνω, πλαγιάζω"
+    },
+    {
+      "number": 124,
+      "concept_en": "to sit",
+      "greek": "κάθομαι"
+    },
+    {
+      "number": 125,
+      "concept_en": "to stand",
+      "greek": "στέκομαι"
+    },
+    {
+      "number": 126,
+      "concept_en": "to turn (intransitive)",
+      "greek": "γυρίζω"
+    },
+    {
+      "number": 127,
+      "concept_en": "to fall",
+      "greek": "πέφτω"
+    },
+    {
+      "number": 128,
+      "concept_en": "to give",
+      "greek": "δίνω"
+    },
+    {
+      "number": 129,
+      "concept_en": "to hold",
+      "greek": "κρατάω"
+    },
+    {
+      "number": 130,
+      "concept_en": "to squeeze",
+      "greek": "ζουλάω"
+    },
+    {
+      "number": 131,
+      "concept_en": "to rub",
+      "greek": "τρίβω"
+    },
+    {
+      "number": 132,
+      "concept_en": "to wash",
+      "greek": "πλένω"
+    },
+    {
+      "number": 133,
+      "concept_en": "to wipe",
+      "greek": "σκουπίζω"
+    },
+    {
+      "number": 134,
+      "concept_en": "to pull",
+      "greek": "τραβώ"
+    },
+    {
+      "number": 135,
+      "concept_en": "to push",
+      "greek": "σπρώχνω"
+    },
+    {
+      "number": 136,
+      "concept_en": "to throw",
+      "greek": "ρίχνω, πετώ"
+    },
+    {
+      "number": 137,
+      "concept_en": "to tie",
+      "greek": "δένω"
+    },
+    {
+      "number": 138,
+      "concept_en": "to sew",
+      "greek": "ράβω"
+    },
+    {
+      "number": 139,
+      "concept_en": "to count",
+      "greek": "μετράω"
+    },
+    {
+      "number": 140,
+      "concept_en": "to say",
+      "greek": "λέω"
+    },
+    {
+      "number": 141,
+      "concept_en": "to sing",
+      "greek": "τραγουδώ"
+    },
+    {
+      "number": 142,
+      "concept_en": "to play",
+      "greek": "παίζω"
+    },
+    {
+      "number": 143,
+      "concept_en": "to float",
+      "greek": "πλέω, επιπλέω"
+    },
+    {
+      "number": 144,
+      "concept_en": "to flow",
+      "greek": "τρέχω"
+    },
+    {
+      "number": 145,
+      "concept_en": "to freeze",
+      "greek": "παγώνω"
+    },
+    {
+      "number": 146,
+      "concept_en": "to swell",
+      "greek": "φουσκώνω, πρήζομαι"
+    },
+    {
+      "number": 147,
+      "concept_en": "sun",
+      "greek": "ήλιος"
+    },
+    {
+      "number": 148,
+      "concept_en": "moon",
+      "greek": "σελήνη, φεγγάρι"
+    },
+    {
+      "number": 149,
+      "concept_en": "star",
+      "greek": "αστέρι, άστρο"
+    },
+    {
+      "number": 150,
+      "concept_en": "water",
+      "greek": "νερό"
+    },
+    {
+      "number": 151,
+      "concept_en": "rain",
+      "greek": "βροχή"
+    },
+    {
+      "number": 152,
+      "concept_en": "river",
+      "greek": "ποτάμι"
+    },
+    {
+      "number": 153,
+      "concept_en": "lake",
+      "greek": "λίμνη"
+    },
+    {
+      "number": 154,
+      "concept_en": "sea",
+      "greek": "θάλασσα"
+    },
+    {
+      "number": 155,
+      "concept_en": "salt",
+      "greek": "αλάτι"
+    },
+    {
+      "number": 156,
+      "concept_en": "stone",
+      "greek": "πέτρα"
+    },
+    {
+      "number": 157,
+      "concept_en": "sand",
+      "greek": "άμμος"
+    },
+    {
+      "number": 158,
+      "concept_en": "dust",
+      "greek": "σκόνη"
+    },
+    {
+      "number": 159,
+      "concept_en": "earth",
+      "greek": "γη"
+    },
+    {
+      "number": 160,
+      "concept_en": "cloud",
+      "greek": "σύννεφο"
+    },
+    {
+      "number": 161,
+      "concept_en": "fog",
+      "greek": "ομίχλη"
+    },
+    {
+      "number": 162,
+      "concept_en": "sky",
+      "greek": "ουρανός"
+    },
+    {
+      "number": 163,
+      "concept_en": "wind",
+      "greek": "αέρας"
+    },
+    {
+      "number": 164,
+      "concept_en": "snow",
+      "greek": "χιόνι"
+    },
+    {
+      "number": 165,
+      "concept_en": "ice",
+      "greek": "πάγος"
+    },
+    {
+      "number": 166,
+      "concept_en": "smoke",
+      "greek": "καπνός"
+    },
+    {
+      "number": 167,
+      "concept_en": "fire",
+      "greek": "φωτιά"
+    },
+    {
+      "number": 168,
+      "concept_en": "ash",
+      "greek": "στάχτη"
+    },
+    {
+      "number": 169,
+      "concept_en": "to burn",
+      "greek": "καίω"
+    },
+    {
+      "number": 170,
+      "concept_en": "road",
+      "greek": "δρόμος"
+    },
+    {
+      "number": 171,
+      "concept_en": "mountain",
+      "greek": "βουνό"
+    },
+    {
+      "number": 172,
+      "concept_en": "red",
+      "greek": "κόκκινος"
+    },
+    {
+      "number": 173,
+      "concept_en": "green",
+      "greek": "πράσινος"
+    },
+    {
+      "number": 174,
+      "concept_en": "yellow",
+      "greek": "κίτρινος"
+    },
+    {
+      "number": 175,
+      "concept_en": "white",
+      "greek": "λευκός, άσπρος"
+    },
+    {
+      "number": 176,
+      "concept_en": "black",
+      "greek": "μαύρος"
+    },
+    {
+      "number": 177,
+      "concept_en": "night",
+      "greek": "νύχτα"
+    },
+    {
+      "number": 178,
+      "concept_en": "day",
+      "greek": "μέρα"
+    },
+    {
+      "number": 179,
+      "concept_en": "year",
+      "greek": "χρόνος"
+    },
+    {
+      "number": 180,
+      "concept_en": "warm",
+      "greek": "ζεστός"
+    },
+    {
+      "number": 181,
+      "concept_en": "cold",
+      "greek": "κρύος"
+    },
+    {
+      "number": 182,
+      "concept_en": "full",
+      "greek": "γεμάτος"
+    },
+    {
+      "number": 183,
+      "concept_en": "new",
+      "greek": "καινούργιος"
+    },
+    {
+      "number": 184,
+      "concept_en": "old",
+      "greek": "παλιός"
+    },
+    {
+      "number": 185,
+      "concept_en": "good",
+      "greek": "καλός"
+    },
+    {
+      "number": 186,
+      "concept_en": "bad",
+      "greek": "κακός"
+    },
+    {
+      "number": 187,
+      "concept_en": "rotten",
+      "greek": "σάπιος"
+    },
+    {
+      "number": 188,
+      "concept_en": "dirty",
+      "greek": "βρόμικος"
+    },
+    {
+      "number": 189,
+      "concept_en": "straight",
+      "greek": "ίσιος"
+    },
+    {
+      "number": 190,
+      "concept_en": "round",
+      "greek": "στρογγυλός"
+    },
+    {
+      "number": 191,
+      "concept_en": "sharp (as a knife)",
+      "greek": "κοφτερός"
+    },
+    {
+      "number": 192,
+      "concept_en": "dull (as a knife)",
+      "greek": "στομωμένος"
+    },
+    {
+      "number": 193,
+      "concept_en": "smooth",
+      "greek": "λείος"
+    },
+    {
+      "number": 194,
+      "concept_en": "wet",
+      "greek": "βρεγμένος, υγρός"
+    },
+    {
+      "number": 195,
+      "concept_en": "dry",
+      "greek": "στεγνός, ξερός"
+    },
+    {
+      "number": 196,
+      "concept_en": "correct",
+      "greek": "σωστός"
+    },
+    {
+      "number": 197,
+      "concept_en": "near",
+      "greek": "κοντά"
+    },
+    {
+      "number": 198,
+      "concept_en": "far",
+      "greek": "μακριά"
+    },
+    {
+      "number": 199,
+      "concept_en": "right",
+      "greek": "δεξιά"
+    },
+    {
+      "number": 200,
+      "concept_en": "left",
+      "greek": "αριστερά"
+    },
+    {
+      "number": 201,
+      "concept_en": "at",
+      "greek": "σε"
+    },
+    {
+      "number": 202,
+      "concept_en": "in",
+      "greek": "μέσα"
+    },
+    {
+      "number": 203,
+      "concept_en": "with",
+      "greek": "με"
+    },
+    {
+      "number": 204,
+      "concept_en": "and",
+      "greek": "και"
+    },
+    {
+      "number": 205,
+      "concept_en": "if",
+      "greek": "εάν, αν"
+    },
+    {
+      "number": 206,
+      "concept_en": "because",
+      "greek": "επειδή, γιατί, διότι"
+    },
+    {
+      "number": 207,
+      "concept_en": "name",
+      "greek": "όνομα"
+    }
+  ],
+  "meta": {
+    "title": "Κατάλογος Σουάντες στα ελληνικά - Free Download",
+    "description": "Ο κατάλογος βασικού λεξιλογίου του Σουάντες (207 έννοιες) με τις αντίστοιχες ελληνικές λέξεις. Contains 207 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Κατάλογος Σουάντες στα ελληνικά | ListBase",
+    "seo_description": "Download Κατάλογος Σουάντες στα ελληνικά — 207 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 207 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_Σουάντες"
+    ]
+  }
+}
