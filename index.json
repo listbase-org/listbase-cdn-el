@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-10T02:25:19.508Z",
-  "total_datasets": 498,
-  "total_records": 200213,
+  "generated": "2026-11-10T02:25:29.642Z",
+  "total_datasets": 499,
+  "total_records": 200482,
   "categories": [
     {
       "id": "agriculture",
@@ -62,7 +62,7 @@
     },
     {
       "id": "politics",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "reference",
@@ -5659,6 +5659,32 @@
         "xlsx": {
           "name": "el-evropaikes-ekloges-2024-2019_EL.xlsx",
           "size": 78747
+        }
+      }
+    },
+    {
+      "id": "el-politika-kommata",
+      "name": "Πολιτικά κόμματα της Ελλάδας",
+      "category": "politics",
+      "record_count": 269,
+      "columns": [
+        "party",
+        "founder",
+        "period",
+        "status",
+        "group"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_πολιτικών_κομμάτων_της_Ελλάδας",
+      "updated": "2026-11",
+      "size": 85100,
+      "files": {
+        "csv": {
+          "name": "el-politika-kommata_EL.csv",
+          "size": 57279
+        },
+        "xlsx": {
+          "name": "el-politika-kommata_EL.xlsx",
+          "size": 17835
         }
       }
     },
