@@ -1,0 +1,1393 @@
+{
+  "id": "el-ellinika-krasia-pop-pge",
+  "name": "Ελληνικά κρασιά ΠΟΠ και ΠΓΕ",
+  "title": "Ελληνικά κρασιά ΠΟΠ και ΠΓΕ",
+  "description": "Οι ελληνικοί οίνοι με Προστατευόμενη Ονομασία Προέλευσης (ΠΟΠ) και Προστατευόμενη Γεωγραφική Ένδειξη (ΠΓΕ) όπως είναι καταχωρισμένοι στο μητρώο eAmbrosia της ΕΕ.",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "source_url": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+  "updated": "2026-11",
+  "record_count": 148,
+  "columns": [
+    {
+      "key": "name",
+      "label": "Name",
+      "type": "string"
+    },
+    {
+      "key": "name_latin",
+      "label": "Name Latin",
+      "type": "string"
+    },
+    {
+      "key": "other_names",
+      "label": "Other Names",
+      "type": "string"
+    },
+    {
+      "key": "gi_type",
+      "label": "Gi Type",
+      "type": "string"
+    },
+    {
+      "key": "cn_heading",
+      "label": "Cn Heading",
+      "type": "number"
+    },
+    {
+      "key": "file_number",
+      "label": "File Number",
+      "type": "string"
+    },
+    {
+      "key": "registration_date",
+      "label": "Registration Date",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "name": "Malvasia Χάνδακας-Candia",
+      "name_latin": "Malvasia Handakas - Candia",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1617",
+      "registration_date": "30-12-2011"
+    },
+    {
+      "name": "Άβδηρα",
+      "name_latin": "Avdira",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0861",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Άβδηρα",
+      "name_latin": "Avdira",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0861",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Άβδηρα",
+      "name_latin": "Avdira",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0861",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Άβδηρα",
+      "name_latin": "Avdira",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0861",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Άγιο Όρος",
+      "name_latin": "Ayio Oros",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0873",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ήπειρος",
+      "name_latin": "Ipiros",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1604",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Αιγαίο Πέλαγος",
+      "name_latin": "Aegeo Pelagos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1602",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Αμύνταιο",
+      "name_latin": "Amynteo",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1395",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Αμύνταιο",
+      "name_latin": "Amynteo",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1395",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Αμύνταιο",
+      "name_latin": "Amynteo",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1395",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Αρχάνες",
+      "name_latin": "Arhanes",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1340",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Αττική",
+      "name_latin": "Attiki",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1569",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Αττική",
+      "name_latin": "Attiki",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1569",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Αττική",
+      "name_latin": "Attiki",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1569",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Αχαΐα",
+      "name_latin": "Achaia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1568",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Αχαΐα",
+      "name_latin": "Achaia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1568",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Βελβεντό",
+      "name_latin": "Velvedo",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1529",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Βερντέα Ζακύνθου",
+      "name_latin": "Verdea Zakyntou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1050",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Γεράνεια",
+      "name_latin": "Gerania",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0840",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Γεράνεια",
+      "name_latin": "Gerania",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0840",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Δαφνές",
+      "name_latin": "Dafnes",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1390",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Δράμα",
+      "name_latin": "Drama",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1057",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Δωδεκάνησος",
+      "name_latin": "Dodekanisos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1580",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Επανομή",
+      "name_latin": "Epanomi",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0858",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Εύβοια",
+      "name_latin": "Evia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1559",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ημαθία",
+      "name_latin": "Imathia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1524",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ημαθία",
+      "name_latin": "Imathia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1524",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ημαθία",
+      "name_latin": "Imathia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1524",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ημαθία",
+      "name_latin": "Imathia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1524",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ηράκλειο",
+      "name_latin": "Iraklio",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1565",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ηράκλειο",
+      "name_latin": "Iraklio",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1565",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ηράκλειο",
+      "name_latin": "Iraklio",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1565",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ηράκλειο",
+      "name_latin": "Iraklio",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1565",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Θήβα",
+      "name_latin": "Thiva",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1195",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Θήβα",
+      "name_latin": "Thiva",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1195",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Θήβα",
+      "name_latin": "Thiva",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1195",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Θεσσαλονίκη",
+      "name_latin": "Thessaloniki",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0126",
+      "registration_date": "28-04-2007"
+    },
+    {
+      "name": "Θεσσαλονίκη",
+      "name_latin": "Thessaloniki",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0126",
+      "registration_date": "28-04-2007"
+    },
+    {
+      "name": "Θεσσαλονίκη",
+      "name_latin": "Thessaloniki",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0126",
+      "registration_date": "28-04-2007"
+    },
+    {
+      "name": "Θράκη",
+      "name_latin": "Thraki",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1611",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ιωάννινα",
+      "name_latin": "Ioannina",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1058",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ιωάννινα",
+      "name_latin": "Ioannina",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1058",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ιωάννινα",
+      "name_latin": "Ioannina",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1058",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Κέρκυρα",
+      "name_latin": "Kerkira",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0141",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Κίσσαμος",
+      "name_latin": "Kissamos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0422",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Κίσσαμος",
+      "name_latin": "Kissamos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0422",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Κίσσαμος",
+      "name_latin": "Kissamos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0422",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Καβάλα",
+      "name_latin": "Kavala",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0137",
+      "registration_date": "29-11-2011"
+    },
+    {
+      "name": "Καβάλα",
+      "name_latin": "Kavala",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0137",
+      "registration_date": "29-11-2011"
+    },
+    {
+      "name": "Καβάλα",
+      "name_latin": "Kavala",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0137",
+      "registration_date": "29-11-2011"
+    },
+    {
+      "name": "Καβάλα",
+      "name_latin": "Kavala",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0137",
+      "registration_date": "29-11-2011"
+    },
+    {
+      "name": "Καρδίτσα",
+      "name_latin": "Karditsa",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1592",
+      "registration_date": "08-08-2009"
+    },
+    {
+      "name": "Καρδίτσα",
+      "name_latin": "Karditsa",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1592",
+      "registration_date": "08-08-2009"
+    },
+    {
+      "name": "Καρδίτσα",
+      "name_latin": "Karditsa",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1592",
+      "registration_date": "08-08-2009"
+    },
+    {
+      "name": "Κλημέντι",
+      "name_latin": "Klimenti",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0268",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Κλημέντι",
+      "name_latin": "Klimenti",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0268",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Κλημέντι",
+      "name_latin": "Klimenti",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0268",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Κοιλάδα Αταλάντης",
+      "name_latin": "Kilada Atalantis",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1521",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Κρήτη",
+      "name_latin": "Kriti",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1605",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Κραννώνα",
+      "name_latin": "Krannona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0142",
+      "registration_date": "28-04-2007"
+    },
+    {
+      "name": "Κραννώνα",
+      "name_latin": "Krannona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0142",
+      "registration_date": "28-04-2007"
+    },
+    {
+      "name": "Κραννώνα",
+      "name_latin": "Krannona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0142",
+      "registration_date": "28-04-2007"
+    },
+    {
+      "name": "Κυκλάδες",
+      "name_latin": "Kiklades",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1343",
+      "registration_date": "08-08-2009"
+    },
+    {
+      "name": "Κως",
+      "name_latin": "Kos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0981",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Λακωνία",
+      "name_latin": "Lakonia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1528",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Λακωνία",
+      "name_latin": "Lakonia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1528",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Λακωνία",
+      "name_latin": "Lakonia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1528",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Μακεδονία",
+      "name_latin": "Makedonia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1616",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Μαντινεία",
+      "name_latin": "Mantinia",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1554",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Μαυροδάφνη Κεφαλληνίας",
+      "name_latin": "Mavrodafni Kefallinias",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1055",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Μαυροδάφνη Πατρών",
+      "name_latin": "Mavrodafni Patron",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1048",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Μεταξάτων",
+      "name_latin": "Metaxaton",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1019",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Μοσχάτο Πατρών",
+      "name_latin": "Moschato Patron",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1087",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Μοσχάτος Κεφαλληνίας",
+      "name_latin": "Moschato Kefallinias",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1566",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Μοσχάτος Λήμνου",
+      "name_latin": "Moschatos Limnou",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1432",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Μοσχάτος Ρίου Πάτρας",
+      "name_latin": "Moschatos Riou Patras",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1316",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Μοσχάτος Ρόδου",
+      "name_latin": "Moschato Rodou",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1567",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Οπούντια Λοκρίδας",
+      "name_latin": "Opountia Lokridas",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1562",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πέλλα",
+      "name_latin": "Pella",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0425",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Παλλήνη",
+      "name_latin": "Pallini",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0265",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Παλλήνη",
+      "name_latin": "Pallini",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0265",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Παλλήνη",
+      "name_latin": "Pallini",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0265",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Παρνασσός",
+      "name_latin": "Parnassos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1026",
+      "registration_date": "28-04-2007"
+    },
+    {
+      "name": "Πελοπόννησος",
+      "name_latin": "Peloponnisos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1606",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Πιερία",
+      "name_latin": "Pieria",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0869",
+      "registration_date": "08-08-2009"
+    },
+    {
+      "name": "Πιερία",
+      "name_latin": "Pieria",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0869",
+      "registration_date": "08-08-2009"
+    },
+    {
+      "name": "Πιερία",
+      "name_latin": "Pieria",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0869",
+      "registration_date": "08-08-2009"
+    },
+    {
+      "name": "Πισάτις",
+      "name_latin": "Pisatis",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0269",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πισάτις",
+      "name_latin": "Pisatis",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0269",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πισάτις",
+      "name_latin": "Pisatis",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0269",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πισάτις",
+      "name_latin": "Pisatis",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0269",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πλαγιές Αίνου",
+      "name_latin": "Playies Enou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1578",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πλαγιές Αιγιαλείας",
+      "name_latin": "Playies Egialias",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1563",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πλαγιές Αμπέλου",
+      "name_latin": "Playies Abelou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0841",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πλαγιές Βερτίσκου",
+      "name_latin": "Playies Vertiskou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0266",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πλαγιές Κιθαιρώνα",
+      "name_latin": "Playies Kitherona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1603",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πλαγιές Κνημίδας",
+      "name_latin": "Playies Knimidas",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1553",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πλαγιές Μελίτωνα",
+      "name_latin": "Playies Melitona",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1096",
+      "registration_date": "31-12-1982"
+    },
+    {
+      "name": "Πλαγιές Πάικου",
+      "name_latin": "Playies Paikou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1088",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Πλαγιές Πάρνηθας",
+      "name_latin": "Playies Parnithas",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1327",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Πλαγιές Πεντελικού",
+      "name_latin": "Playies Pentelikou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0863",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Πυλία",
+      "name_latin": "Pylia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1033",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Πυλία",
+      "name_latin": "Pylia",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1033",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Αττικής",
+      "name_latin": "Retsina Attikis",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1428",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Γιάλτρων",
+      "name_latin": "Retsina Gialtron",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1052",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Εύβοιας",
+      "name_latin": "Retsina Evias",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1476",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Θηβών (Βοιωτίας)",
+      "name_latin": "Retsina Thivon (Viotias)",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1004",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Καρύστου",
+      "name_latin": "Retsina Karistou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1020",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Κορωπίου",
+      "name_latin": "Retsina Koropiou",
+      "other_names": "Ρετσίνα Κρωπίας",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1595",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Μαρκόπουλου (Αττικής)",
+      "name_latin": "Retsina Markopoulou (Attikis)",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1226",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Μεγάρων",
+      "name_latin": "Retsina Megaron",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1596",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Μεσογείων (Αττικής)",
+      "name_latin": "Retsina Mesogion (Attikis)",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1091",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Παιανίας",
+      "name_latin": "Retsina Peanias",
+      "other_names": "Ρετσίνα Λιοπεσίου",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1597",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Παλλήνης",
+      "name_latin": "Retsina Pallinis",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1600",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Πικερμίου",
+      "name_latin": "Retsina Pikermiou",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1599",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Σπάτων",
+      "name_latin": "Retsina Spaton",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1594",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ρετσίνα Χαλκίδας (Ευβοίας)",
+      "name_latin": "Retsina Halkidas (Evias)",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1420",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Ριτσώνα",
+      "name_latin": "Ritsona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1527",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ριτσώνα",
+      "name_latin": "Ritsona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1527",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ριτσώνα",
+      "name_latin": "Ritsona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1527",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ριτσώνα",
+      "name_latin": "Ritsona",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1527",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Ρομπόλα Κεφαλληνίας",
+      "name_latin": "Robola Kefallinias",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1240",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Ρόδος",
+      "name_latin": "Rodos",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1612",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Ρόδος",
+      "name_latin": "Rodos",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1612",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Ρόδος",
+      "name_latin": "Rodos",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1612",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Σάμος",
+      "name_latin": "Samos",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1564",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Σάμος",
+      "name_latin": "Samos",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1564",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Σάμος",
+      "name_latin": "Samos",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1564",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Σέρρες",
+      "name_latin": "Serres",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1090",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Σέρρες",
+      "name_latin": "Serres",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1090",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Σέρρες",
+      "name_latin": "Serres",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1090",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Σαντορίνη",
+      "name_latin": "Santorini",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1065",
+      "registration_date": "11-06-1981"
+    },
+    {
+      "name": "Στερεά Ελλάδα",
+      "name_latin": "Sterea Ellada",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1609",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Στερεά Ελλάδα",
+      "name_latin": "Sterea Ellada",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1609",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Στερεά Ελλάδα",
+      "name_latin": "Sterea Ellada",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1609",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Στερεά Ελλάδα",
+      "name_latin": "Sterea Ellada",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1609",
+      "registration_date": "01-08-2009"
+    },
+    {
+      "name": "Τύρναβος",
+      "name_latin": "Tyrnavos",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0122",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Φθιώτιδα",
+      "name_latin": "Fthiotida",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1571",
+      "registration_date": "28-12-2011"
+    },
+    {
+      "name": "Φλώρινα",
+      "name_latin": "Florina",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1080",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Φλώρινα",
+      "name_latin": "Florina",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1080",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Φλώρινα",
+      "name_latin": "Florina",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1080",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Φλώρινα",
+      "name_latin": "Florina",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1080",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Χάνδακας - Candia",
+      "name_latin": "Handakas - Candia",
+      "other_names": "",
+      "gi_type": "PDO",
+      "cn_heading": "2204",
+      "file_number": "PDO-GR-A1615",
+      "registration_date": "30-12-2011"
+    },
+    {
+      "name": "Χαλικούνα",
+      "name_latin": "Halikouna",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0832",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Χαλικούνα",
+      "name_latin": "Halikouna",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0832",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Χαλικούνα",
+      "name_latin": "Halikouna",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A0832",
+      "registration_date": "16-04-2004"
+    },
+    {
+      "name": "Χανιά",
+      "name_latin": "Hania",
+      "other_names": "",
+      "gi_type": "PGI",
+      "cn_heading": "2204",
+      "file_number": "PGI-GR-A1059",
+      "registration_date": "20-12-2011"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικά κρασιά ΠΟΠ και ΠΓΕ - Free Download",
+    "description": "Οι ελληνικοί οίνοι με Προστατευόμενη Ονομασία Προέλευσης (ΠΟΠ) και Προστατευόμενη Γεωγραφική Ένδειξη (ΠΓΕ) όπως είναι καταχωρισμένοι στο μητρώο eAmbrosia της ΕΕ. Contains 148 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικά κρασιά ΠΟΠ και ΠΓΕ | ListBase",
+    "seo_description": "Download Ελληνικά κρασιά ΠΟΠ και ΠΓΕ — 148 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 148 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/"
+    ]
+  }
+}

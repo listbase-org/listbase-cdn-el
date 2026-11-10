@@ -1,12 +1,12 @@
 {
   "lang": "el",
-  "generated": "2026-11-10T02:24:50.159Z",
-  "total_datasets": 495,
-  "total_records": 199767,
+  "generated": "2026-11-10T02:25:00.681Z",
+  "total_datasets": 496,
+  "total_records": 199915,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 4
+      "dataset_count": 5
     },
     {
       "id": "culture",
@@ -146,6 +146,34 @@
         "xlsx": {
           "name": "el-ellinika-alievmata_EL.xlsx",
           "size": 9249
+        }
+      }
+    },
+    {
+      "id": "el-ellinika-krasia-pop-pge",
+      "name": "Ελληνικά κρασιά ΠΟΠ και ΠΓΕ",
+      "category": "agriculture",
+      "record_count": 148,
+      "columns": [
+        "name",
+        "name_latin",
+        "other_names",
+        "gi_type",
+        "cn_heading",
+        "file_number",
+        "registration_date"
+      ],
+      "source": "https://ec.europa.eu/agriculture/eambrosia/geographical-indications-register/",
+      "updated": "2026-11",
+      "size": 37655,
+      "files": {
+        "csv": {
+          "name": "el-ellinika-krasia-pop-pge_EL.csv",
+          "size": 11857
+        },
+        "xlsx": {
+          "name": "el-ellinika-krasia-pop-pge_EL.xlsx",
+          "size": 13078
         }
       }
     },
