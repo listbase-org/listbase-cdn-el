@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-12T02:11:55.866Z",
-  "total_datasets": 502,
-  "total_records": 200779,
+  "generated": "2026-11-12T02:12:08.699Z",
+  "total_datasets": 503,
+  "total_records": 200901,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "education",
@@ -1645,6 +1645,33 @@
         "xlsx": {
           "name": "el-ypourgoi-ethnikis-oikonomias_EL.xlsx",
           "size": 12627
+        }
+      }
+    },
+    {
+      "id": "el-ypourgoi-oikonomikon",
+      "name": "Υπουργοί Οικονομικών της Ελλάδας",
+      "category": "economy",
+      "record_count": 122,
+      "columns": [
+        "onoma",
+        "enarxi_thiteias",
+        "lixi_thiteias",
+        "kyvernisi",
+        "simeioseis",
+        "periodos"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Υπουργείο_Εθνικής_Οικονομίας_και_Οικονομικών",
+      "updated": "2026-11",
+      "size": 47953,
+      "files": {
+        "csv": {
+          "name": "el-ypourgoi-oikonomikon_EL.csv",
+          "size": 28823
+        },
+        "xlsx": {
+          "name": "el-ypourgoi-oikonomikon_EL.xlsx",
+          "size": 13145
         }
       }
     },
