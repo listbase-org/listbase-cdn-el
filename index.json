@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-12T02:12:19.595Z",
-  "total_datasets": 504,
-  "total_records": 200935,
+  "generated": "2026-11-13T02:20:04.651Z",
+  "total_datasets": 505,
+  "total_records": 200967,
   "categories": [
     {
       "id": "agriculture",
@@ -46,7 +46,7 @@
     },
     {
       "id": "history",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "language",
@@ -5155,6 +5155,29 @@
         "xlsx": {
           "name": "el-archigoi-genikou-epiteleiou-stratou_EL.xlsx",
           "size": 9814
+        }
+      }
+    },
+    {
+      "id": "el-ellinikes-exegerseis-othomaniki-aftokratoria",
+      "name": "Ελληνικές εξεγέρσεις στην Οθωμανική Αυτοκρατορία (1453–1830)",
+      "category": "history",
+      "record_count": 32,
+      "columns": [
+        "etos",
+        "perigrafi"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_εξεγέρσεων_στην_Οθωμανική_Αυτοκρατορία_(1453-1830)",
+      "updated": "2026-11",
+      "size": 11187,
+      "files": {
+        "csv": {
+          "name": "el-ellinikes-exegerseis-othomaniki-aftokratoria_EL.csv",
+          "size": 7406
+        },
+        "xlsx": {
+          "name": "el-ellinikes-exegerseis-othomaniki-aftokratoria_EL.xlsx",
+          "size": 9485
         }
       }
     },
