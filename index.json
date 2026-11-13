@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-13T02:20:15.662Z",
-  "total_datasets": 506,
-  "total_records": 201112,
+  "generated": "2026-11-13T02:20:26.634Z",
+  "total_datasets": 507,
+  "total_records": 201599,
   "categories": [
     {
       "id": "agriculture",
@@ -10,7 +10,7 @@
     },
     {
       "id": "culture",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "economy",
@@ -958,6 +958,29 @@
         "xlsx": {
           "name": "el-mouseia_EL.xlsx",
           "size": 156190
+        }
+      }
+    },
+    {
+      "id": "el-paradosiakoi-oikismoi",
+      "name": "Παραδοσιακοί οικισμοί της Ελλάδας",
+      "category": "culture",
+      "record_count": 487,
+      "columns": [
+        "oikismos",
+        "nomos"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_παραδοσιακών_οικισμών_της_Ελλάδας",
+      "updated": "2026-11",
+      "size": 49270,
+      "files": {
+        "csv": {
+          "name": "el-paradosiakoi-oikismoi_EL.csv",
+          "size": 24677
+        },
+        "xlsx": {
+          "name": "el-paradosiakoi-oikismoi_EL.xlsx",
+          "size": 16112
         }
       }
     },
