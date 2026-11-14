@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-14T02:14:16.890Z",
-  "total_datasets": 508,
-  "total_records": 201614,
+  "generated": "2026-11-14T02:14:30.026Z",
+  "total_datasets": 509,
+  "total_records": 201981,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "entertainment",
@@ -1903,6 +1903,32 @@
         "xlsx": {
           "name": "el-scholeia_EL.xlsx",
           "size": 134226
+        }
+      }
+    },
+    {
+      "id": "el-tmimata-anotatis-ekpaidefsis",
+      "name": "Τμήματα ανώτατης εκπαίδευσης στην Ελλάδα",
+      "category": "education",
+      "record_count": 367,
+      "columns": [
+        "gnostiko_pedio",
+        "tmima",
+        "idryma",
+        "poli",
+        "etos_leitourgias"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_τμημάτων_ανώτατης_εκπαίδευσης",
+      "updated": "2026-11",
+      "size": 102077,
+      "files": {
+        "csv": {
+          "name": "el-tmimata-anotatis-ekpaidefsis_EL.csv",
+          "size": 59516
+        },
+        "xlsx": {
+          "name": "el-tmimata-anotatis-ekpaidefsis_EL.xlsx",
+          "size": 18576
         }
       }
     },
