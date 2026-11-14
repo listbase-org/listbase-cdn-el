@@ -1,0 +1,236 @@
+{
+  "id": "el-seismoi-kyprou",
+  "name": "Ιστορικοί σεισμοί στην Κύπρο",
+  "title": "Ιστορικοί σεισμοί στην Κύπρο",
+  "description": "Σημαντικοί σεισμοί που έπληξαν την Κύπρο από την αρχαιότητα έως σήμερα: ημερομηνία, περιοχή, επίκεντρο, μέγεθος, ένταση, θύματα και σχόλια.",
+  "category": "science",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_σεισμών_στην_Κύπρο",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_σεισμών_στην_Κύπρο",
+  "updated": "2026-11",
+  "record_count": 15,
+  "columns": [
+    {
+      "key": "imerominia",
+      "label": "Imerominia",
+      "type": "number"
+    },
+    {
+      "key": "ora",
+      "label": "Ora",
+      "type": "string"
+    },
+    {
+      "key": "periochi",
+      "label": "Periochi",
+      "type": "string"
+    },
+    {
+      "key": "epikentro",
+      "label": "Epikentro",
+      "type": "string"
+    },
+    {
+      "key": "megethos",
+      "label": "Megethos",
+      "type": "number"
+    },
+    {
+      "key": "entasi",
+      "label": "Entasi",
+      "type": "string"
+    },
+    {
+      "key": "thanatoi",
+      "label": "Thanatoi",
+      "type": "number"
+    },
+    {
+      "key": "travmatismoi",
+      "label": "Travmatismoi",
+      "type": "number"
+    },
+    {
+      "key": "scholia",
+      "label": "Scholia",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "imerominia": "-15",
+      "ora": "",
+      "periochi": "Σαλαμίνα",
+      "epikentro": "35.2°N 34°E",
+      "megethos": "",
+      "entasi": "",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Εξαιρετικά καταστρεπτικός"
+    },
+    {
+      "imerominia": "76",
+      "ora": "",
+      "periochi": "Πάφος",
+      "epikentro": "34.8°N 32°E",
+      "megethos": 6.9,
+      "entasi": "X",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Μεγάλες καταστροφές"
+    },
+    {
+      "imerominia": "341",
+      "ora": "",
+      "periochi": "Σαλαμίνα",
+      "epikentro": "",
+      "megethos": 7.4,
+      "entasi": "IX",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Καταστροφές σε όλο το νησί. Η Σαλαμίνα καταστράφηκε και η μισή πόλη βρέθηκε μέσα στη θάλασσα. Εκτεταμένες ζημιές και στην Πάφο. Έγινε αισθητός στην Αντιόχεια."
+    },
+    {
+      "imerominia": "1222-05-11",
+      "ora": "08:15",
+      "periochi": "",
+      "epikentro": "34.7°N 32.6°E",
+      "megethos": "7,0–7,5",
+      "entasi": "IX",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Τσουνάμι"
+    },
+    {
+      "imerominia": "1491-04-24",
+      "ora": "",
+      "periochi": "Κοφίνου",
+      "epikentro": "",
+      "megethos": 7,
+      "entasi": "IX",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Αισθητός σε όλο το νησί, σημαντικές καταστροφές στη Μεσαορία"
+    },
+    {
+      "imerominia": "1481-03-15",
+      "ora": "",
+      "periochi": "Λευκωσία",
+      "epikentro": "",
+      "megethos": 6.3,
+      "entasi": "VIII",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Ισοπεδώθηκε η Λευκωσία"
+    },
+    {
+      "imerominia": "1577",
+      "ora": "",
+      "periochi": "",
+      "epikentro": "",
+      "megethos": "7,0–7,5",
+      "entasi": "IX",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Τσουνάμι"
+    },
+    {
+      "imerominia": "1896-06-29",
+      "ora": "20:48",
+      "periochi": "Λεμεσός",
+      "epikentro": "34.3°N 33.0°E",
+      "megethos": 6.5,
+      "entasi": "",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Μέτρια καταστροφή"
+    },
+    {
+      "imerominia": "1930-05-09",
+      "ora": "09:07",
+      "periochi": "Πάφος",
+      "epikentro": "34.64°N 32.19°E",
+      "megethos": 5.4,
+      "entasi": "",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Τοπικές καταστροφές"
+    },
+    {
+      "imerominia": "1941-01-20",
+      "ora": "05:33",
+      "periochi": "Αμμόχωστος",
+      "epikentro": "35.2°N 33.8°E",
+      "megethos": 6,
+      "entasi": "VIII",
+      "thanatoi": "",
+      "travmatismoi": 24,
+      "scholia": "Καταστροφές σπιτιών στο Παραλίμνι και ζημιές στην Αμμόχωστο, μικρό τσουνάμι"
+    },
+    {
+      "imerominia": "1953-09-10",
+      "ora": "06:05",
+      "periochi": "Πάφος",
+      "epikentro": "35°N 32.5°E",
+      "megethos": 6.5,
+      "entasi": "X",
+      "thanatoi": 40,
+      "travmatismoi": 100,
+      "scholia": "Τσουνάμι"
+    },
+    {
+      "imerominia": "1995-02-23",
+      "ora": "23:03",
+      "periochi": "Πάφος",
+      "epikentro": "35.05°N 32.28°E",
+      "megethos": 5.9,
+      "entasi": "VII",
+      "thanatoi": 2,
+      "travmatismoi": 5,
+      "scholia": ""
+    },
+    {
+      "imerominia": "1996-10-09",
+      "ora": "16:10",
+      "periochi": "",
+      "epikentro": "34.56°N 32.13°E",
+      "megethos": 6.8,
+      "entasi": "VII",
+      "thanatoi": 2,
+      "travmatismoi": 20,
+      "scholia": ""
+    },
+    {
+      "imerominia": "1999-08-11",
+      "ora": "07:27",
+      "periochi": "Λεμεσός",
+      "epikentro": "34.79°N 32.94°E",
+      "megethos": 5.6,
+      "entasi": "VII",
+      "thanatoi": "",
+      "travmatismoi": 15,
+      "scholia": "Καταστροφές κτιρίων/κατολισθήσεις"
+    },
+    {
+      "imerominia": "2022-01-11",
+      "ora": "02:07",
+      "periochi": "Πάφος",
+      "epikentro": "35.146°N 31.910°E",
+      "megethos": 6.6,
+      "entasi": "V",
+      "thanatoi": "",
+      "travmatismoi": "",
+      "scholia": "Μικρές ζημιές"
+    }
+  ],
+  "meta": {
+    "title": "Ιστορικοί σεισμοί στην Κύπρο - Free Download",
+    "description": "Σημαντικοί σεισμοί που έπληξαν την Κύπρο από την αρχαιότητα έως σήμερα: ημερομηνία, περιοχή, επίκεντρο, μέγεθος, ένταση, θύματα και σχόλια. Contains 15 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ιστορικοί σεισμοί στην Κύπρο | ListBase",
+    "seo_description": "Download Ιστορικοί σεισμοί στην Κύπρο — 15 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 15 records / 9 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_σεισμών_στην_Κύπρο"
+    ]
+  }
+}

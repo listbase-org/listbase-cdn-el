@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-13T02:20:26.634Z",
-  "total_datasets": 507,
-  "total_records": 201599,
+  "generated": "2026-11-14T02:14:16.890Z",
+  "total_datasets": 508,
+  "total_records": 201614,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "society",
@@ -12621,6 +12621,36 @@
         "xlsx": {
           "name": "el-orykta-petromata-elladas_EL.xlsx",
           "size": 12389
+        }
+      }
+    },
+    {
+      "id": "el-seismoi-kyprou",
+      "name": "Ιστορικοί σεισμοί στην Κύπρο",
+      "category": "science",
+      "record_count": 15,
+      "columns": [
+        "imerominia",
+        "ora",
+        "periochi",
+        "epikentro",
+        "megethos",
+        "entasi",
+        "thanatoi",
+        "travmatismoi",
+        "scholia"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_σεισμών_στην_Κύπρο",
+      "updated": "2026-11",
+      "size": 7010,
+      "files": {
+        "csv": {
+          "name": "el-seismoi-kyprou_EL.csv",
+          "size": 1969
+        },
+        "xlsx": {
+          "name": "el-seismoi-kyprou_EL.xlsx",
+          "size": 8135
         }
       }
     },
