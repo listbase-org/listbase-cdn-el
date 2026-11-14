@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-14T02:14:30.026Z",
-  "total_datasets": 509,
-  "total_records": 201981,
+  "generated": "2026-11-14T02:14:40.800Z",
+  "total_datasets": 510,
+  "total_records": 202014,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "music",
@@ -5605,6 +5605,32 @@
         "xlsx": {
           "name": "el-ypourgoi-dikaiosynis_EL.xlsx",
           "size": 9572
+        }
+      }
+    },
+    {
+      "id": "el-ypourgoi-dimosias-taxis",
+      "name": "Υπουργοί Δημόσιας Τάξης της Ελλάδας (1974–2007)",
+      "category": "law",
+      "record_count": 33,
+      "columns": [
+        "onoma",
+        "enarxi_thiteias",
+        "lixi_thiteias",
+        "kyvernisi",
+        "simeioseis"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Υπουργείο_Δημόσιας_Τάξης_(Ελλάδα)",
+      "updated": "2026-11",
+      "size": 12676,
+      "files": {
+        "csv": {
+          "name": "el-ypourgoi-dimosias-taxis_EL.csv",
+          "size": 6519
+        },
+        "xlsx": {
+          "name": "el-ypourgoi-dimosias-taxis_EL.xlsx",
+          "size": 8825
         }
       }
     },
