@@ -1,0 +1,221 @@
+{
+  "id": "el-ellinika-arithmitika",
+  "name": "Ελληνικά αριθμητικά (σύστημα αρίθμησης με γράμματα)",
+  "title": "Ελληνικά αριθμητικά (σύστημα αρίθμησης με γράμματα)",
+  "description": "Τα ελληνικά αλφαβητικά αριθμητικά: η αριθμητική τιμή κάθε γράμματος-συμβόλου (με κεραία) για μονάδες, δεκάδες, εκατοντάδες και χιλιάδες, όπως χρησιμοποιούνται σήμερα.",
+  "category": "language",
+  "source": "https://el.wikipedia.org/wiki/Ελληνικό_σύστημα_αρίθμησης",
+  "source_url": "https://el.wikipedia.org/wiki/Ελληνικό_σύστημα_αρίθμησης",
+  "updated": "2026-11",
+  "record_count": 36,
+  "columns": [
+    {
+      "key": "timi",
+      "label": "Timi",
+      "type": "number"
+    },
+    {
+      "key": "arithmitiko_syghrono",
+      "label": "Arithmitiko Syghrono",
+      "type": "string"
+    },
+    {
+      "key": "takseis",
+      "label": "Takseis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "timi": 1,
+      "arithmitiko_syghrono": "Αʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 2,
+      "arithmitiko_syghrono": "Βʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 3,
+      "arithmitiko_syghrono": "Γʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 4,
+      "arithmitiko_syghrono": "Δʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 5,
+      "arithmitiko_syghrono": "Εʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 6,
+      "arithmitiko_syghrono": "Ϛʹ ΣΤʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 7,
+      "arithmitiko_syghrono": "Ζʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 8,
+      "arithmitiko_syghrono": "Ηʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 9,
+      "arithmitiko_syghrono": "Θʹ",
+      "takseis": "μονάδες"
+    },
+    {
+      "timi": 10,
+      "arithmitiko_syghrono": "Ιʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 20,
+      "arithmitiko_syghrono": "Κʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 30,
+      "arithmitiko_syghrono": "Λʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 40,
+      "arithmitiko_syghrono": "Μʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 50,
+      "arithmitiko_syghrono": "Νʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 60,
+      "arithmitiko_syghrono": "Ξʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 70,
+      "arithmitiko_syghrono": "Οʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 80,
+      "arithmitiko_syghrono": "Πʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 90,
+      "arithmitiko_syghrono": "Ϟʹ",
+      "takseis": "δεκάδες"
+    },
+    {
+      "timi": 100,
+      "arithmitiko_syghrono": "Ρʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 200,
+      "arithmitiko_syghrono": "Σʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 300,
+      "arithmitiko_syghrono": "Τʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 400,
+      "arithmitiko_syghrono": "Υʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 500,
+      "arithmitiko_syghrono": "Φʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 600,
+      "arithmitiko_syghrono": "Χʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 700,
+      "arithmitiko_syghrono": "Ψʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 800,
+      "arithmitiko_syghrono": "Ωʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 900,
+      "arithmitiko_syghrono": "Ϡʹ",
+      "takseis": "εκατοντάδες"
+    },
+    {
+      "timi": 1000,
+      "arithmitiko_syghrono": "͵Α",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 2000,
+      "arithmitiko_syghrono": "͵Β",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 3000,
+      "arithmitiko_syghrono": "͵Γ",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 4000,
+      "arithmitiko_syghrono": "͵Δ",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 5000,
+      "arithmitiko_syghrono": "͵Ε",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 6000,
+      "arithmitiko_syghrono": "͵Ϛ ͵ΣΤ",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 7000,
+      "arithmitiko_syghrono": "͵Ζ",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 8000,
+      "arithmitiko_syghrono": "͵Η",
+      "takseis": "χιλιάδες"
+    },
+    {
+      "timi": 9000,
+      "arithmitiko_syghrono": "͵Θ",
+      "takseis": "χιλιάδες"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικά αριθμητικά (σύστημα αρίθμησης με γράμματα) - Free Download",
+    "description": "Τα ελληνικά αλφαβητικά αριθμητικά: η αριθμητική τιμή κάθε γράμματος-συμβόλου (με κεραία) για μονάδες, δεκάδες, εκατοντάδες και χιλιάδες, όπως χρησιμοποιούνται σήμερα. Contains 36 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικά αριθμητικά (σύστημα αρίθμησης με γράμματα) | ListBase",
+    "seo_description": "Download Ελληνικά αριθμητικά (σύστημα αρίθμησης με γράμματα) — 36 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 36 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Ελληνικό_σύστημα_αρίθμησης"
+    ]
+  }
+}

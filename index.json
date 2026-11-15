@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-14T02:14:40.800Z",
-  "total_datasets": 510,
-  "total_records": 202014,
+  "generated": "2026-11-15T02:32:45.751Z",
+  "total_datasets": 511,
+  "total_records": 202050,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 5
+      "dataset_count": 6
     },
     {
       "id": "law",
@@ -5358,6 +5358,30 @@
         "xlsx": {
           "name": "el-vyzantinoi-aftokratores_EL.xlsx",
           "size": 19755
+        }
+      }
+    },
+    {
+      "id": "el-ellinika-arithmitika",
+      "name": "Ελληνικά αριθμητικά (σύστημα αρίθμησης με γράμματα)",
+      "category": "language",
+      "record_count": 36,
+      "columns": [
+        "timi",
+        "arithmitiko_syghrono",
+        "takseis"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Ελληνικό_σύστημα_αρίθμησης",
+      "updated": "2026-11",
+      "size": 6081,
+      "files": {
+        "csv": {
+          "name": "el-ellinika-arithmitika_EL.csv",
+          "size": 1208
+        },
+        "xlsx": {
+          "name": "el-ellinika-arithmitika_EL.xlsx",
+          "size": 7483
         }
       }
     },
