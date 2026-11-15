@@ -1,0 +1,232 @@
+{
+  "id": "el-parochoi-statheris-tilefonias-evryzonikon",
+  "name": "Πάροχοι σταθερής τηλεφωνίας και ευρυζωνικών υπηρεσιών στην Ελλάδα",
+  "title": "Πάροχοι σταθερής τηλεφωνίας και ευρυζωνικών υπηρεσιών στην Ελλάδα",
+  "description": "Ενεργοί και πρώην πάροχοι σταθερής τηλεφωνίας και internet στην Ελλάδα: εμπορικός τίτλος, εταιρεία, κατάσταση, ιδιοκτήτης και μερίδιο αγοράς.",
+  "category": "tech",
+  "source": "https://el.wikipedia.org/wiki/Τηλεπικοινωνίες_στην_Ελλάδα",
+  "source_url": "https://el.wikipedia.org/wiki/Τηλεπικοινωνίες_στην_Ελλάδα",
+  "updated": "2026-11",
+  "record_count": 22,
+  "columns": [
+    {
+      "key": "eborikos_titlos",
+      "label": "Eborikos Titlos",
+      "type": "string"
+    },
+    {
+      "key": "etaireia",
+      "label": "Etaireia",
+      "type": "string"
+    },
+    {
+      "key": "katastasi",
+      "label": "Katastasi",
+      "type": "string"
+    },
+    {
+      "key": "idioktitis",
+      "label": "Idioktitis",
+      "type": "string"
+    },
+    {
+      "key": "meridio_agoras",
+      "label": "Meridio Agoras",
+      "type": "string"
+    },
+    {
+      "key": "simeioseis",
+      "label": "Simeioseis",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "eborikos_titlos": "Telekom Ελλάδας (πρώην Cosmote)",
+      "etaireia": "Οργανισμός Τηλεπικοινωνιών της Ελλάδος Α.Ε.",
+      "katastasi": "ενεργή",
+      "idioktitis": "54,6% θυγατρική της Γερμανικής πολυεθνικής Deutsche Telekom.",
+      "meridio_agoras": "47%",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Vodafone (πρώην Panafon)",
+      "etaireia": "Vodafone - Πάναφον Α.Ε.Ε. Τηλεπικοινωνιών",
+      "katastasi": "ενεργή",
+      "idioktitis": "100% Ελληνικό παράρτημα της ομώνυμης Βρετανικής πολυεθνικής μητρικής.",
+      "meridio_agoras": "30%",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "NOVA",
+      "etaireia": "Nova Telecommunications & Media Μονοπρόσωπη Α.Ε. (προήλθε από την συγχώνευση της NOVA πρώην Forthnet και της Wind Hellas πρώην TIM, Telestet)",
+      "katastasi": "ενεργή",
+      "idioktitis": "100% θυγατρική της Ολλανδικής πολυεθνικής United Group.",
+      "meridio_agoras": "23%",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Orizon",
+      "etaireia": "Orizon Hellenic Telecom Α.Ε.",
+      "katastasi": "ενεργή",
+      "idioktitis": "100% θυγατρική της Volton Ελληνική Ενεργειακή Α.Ε.",
+      "meridio_agoras": "",
+      "simeioseis": "Χρησιμοποιεί το δίκτυο της Vodafone."
+    },
+    {
+      "eborikos_titlos": "ΔΕΗ",
+      "etaireia": "Δημόσια Επιχείρηση Ηλεκτρισμού Α.Ε.",
+      "katastasi": "ενεργή",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": "Παρέχει αποκλειστικά υπηρεσίες οπτικών ινών. Χρησιμοποιεί το δίκτυο της Nova."
+    },
+    {
+      "eborikos_titlos": "Algonet",
+      "etaireia": "Algonet Τηλεπικοινωνίες Α.Ε.Ε. θυγατρική της Net One",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Altec Telecoms (πρώην ACN, Αίας)",
+      "etaireia": "Altec Telecoms Συστήματα Τηλεπικοινωνιών Α.Ε.",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Columbia Telecom",
+      "etaireia": "Columbia Τηλεπικοινωνίες Α.Ε. μέλος της Lannet",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Intraconnect",
+      "etaireia": "Intraconnect Α.Ε.Ε. Παροχής Τηλεπικοινωνιακών Υπηρεσιών",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "LANNET Communications",
+      "etaireia": "Lannet Επικοινωνίες Α.Ε.",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Net One",
+      "etaireia": "Net One Α.Ε.Ε. Παροχής Τηλεπικοινωνιακών Υπηρεσιών (τέθηκε σε εκκαθάριση)",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "On Telecoms",
+      "etaireia": "On Telecoms Α.Ε. Τηλεπικοινωνιών",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Teledome (πρώην Telehouse)",
+      "etaireia": "Teledome Συστήματα Τηλεπικοινωνιών, Πληροφορικής και Τηλεματικής Α.Ε.Β.Ε.",
+      "katastasi": "διέκοψε τη λειτουργία",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Cyta Hellas (με έτος ίδρυσης το 2007)",
+      "etaireia": "Cyta Ελλάς Τηλεπικοινωνιακή Α.Ε. παράρτημα της ομώνυμης Κυπριακής ημικρατικής μητρικής, το οποίο έπαψε να υφίσταται λόγω απορρόφησης του το 2019 από τη Vodafone Greece.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Forthnet (με έτος ίδρυσης το 1995)",
+      "etaireia": "Α.Ε.Ε. Τηλεπικοινωνιών και Τηλεματικών Εφαρμογών μετονομάστηκε σε Nova Telecommunications & Media το 2021.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Hellas Online (με έτος ίδρυσης το 1993)",
+      "etaireia": "Hellas Online Ηλεκτρονικές Επικοινωνίες Α.Ε. απορροφήθηκε το 2016 από τη Vodafone Greece.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Q-Telecom (με έτος ίδρυσης το 2002)",
+      "etaireia": "Q-Telecommunications Α.Ε. Τηλεπικοινωνιών απορροφήθηκε το 2007 από τη WIND Hellas. Από το 2021 είναι καρτοκινητή και εμπορικό σήμα της NOVA.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Telepassport Hellas (με έτος ίδρυσης το 1998)",
+      "etaireia": "Telepassport Α.Ε. Τηλεπικοινωνιών, Διαχείρισης και Τεχνολογικών Υπηρεσιών απορροφήθηκε το 2006 από τη Lannet.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "TIM Hellas (πρώην TeleStet, με έτος ίδρυσης το 1992)",
+      "etaireia": "TIM Hellas Τηλεπικοινωνίες Α.Ε.Β.Ε. μετονομάστηκε το 2007 σε WIND Hellas.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "Vivodi Telecom (με έτος ίδρυσης το 2001)",
+      "etaireia": "Vivodi Α.Ε. Τηλεπικοινωνιακών Υποδομών, Υπηρεσιών και Εμπορίας απορροφήθηκε το 2012 από την On Telecoms.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "VoiceNet (πρώην Southgate, με έτος ίδρυσης το 1998)",
+      "etaireia": "Voicenet Α.Ε. Παροχής Τηλεπικοινωνιακών Υπηρεσιών και Υποδομών απορροφήθηκε το 2015 από τον ΟΤΕ.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    },
+    {
+      "eborikos_titlos": "WIND Hellas (πρώην TIM Hellas)",
+      "etaireia": "WIND Hellas Τηλεπικοινωνίες Α.Ε.Β.Ε. απορροφήθηκε το 2023 από τη Nova Telecommunications & Media.",
+      "katastasi": "συγχωνεύθηκε/απορροφήθηκε",
+      "idioktitis": "",
+      "meridio_agoras": "",
+      "simeioseis": ""
+    }
+  ],
+  "meta": {
+    "title": "Πάροχοι σταθερής τηλεφωνίας και ευρυζωνικών υπηρεσιών στην Ελλάδα - Free Download",
+    "description": "Ενεργοί και πρώην πάροχοι σταθερής τηλεφωνίας και internet στην Ελλάδα: εμπορικός τίτλος, εταιρεία, κατάσταση, ιδιοκτήτης και μερίδιο αγοράς. Contains 22 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Πάροχοι σταθερής τηλεφωνίας και ευρυζωνικών υπηρεσιών στην Ελλάδα | ListBase",
+    "seo_description": "Download Πάροχοι σταθερής τηλεφωνίας και ευρυζωνικών υπηρεσιών στην Ελλάδα — 22 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 22 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Τηλεπικοινωνίες_στην_Ελλάδα"
+    ]
+  }
+}
