@@ -1,0 +1,288 @@
+{
+  "id": "el-kinitti-tilefonia-kai-diadiktyo-ana-etos",
+  "name": "Κινητή τηλεφωνία και διαδίκτυο στην Ελλάδα ανά έτος",
+  "title": "Κινητή τηλεφωνία και διαδίκτυο στην Ελλάδα ανά έτος",
+  "description": "Μερίδια αγοράς των παρόχων κινητής τηλεφωνίας (Telekom/Cosmote, Vodafone, NOVA), συνολικές συνδέσεις κινητής και διείσδυση του διαδικτύου στην Ελλάδα από το 1998.",
+  "category": "tech",
+  "source": "https://el.wikipedia.org/wiki/Τηλεπικοινωνίες_στην_Ελλάδα",
+  "source_url": "https://el.wikipedia.org/wiki/Τηλεπικοινωνίες_στην_Ελλάδα",
+  "updated": "2026-11",
+  "record_count": 29,
+  "columns": [
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "merid_telekom_cosmote_pct",
+      "label": "Merid Telekom Cosmote Pct",
+      "type": "number"
+    },
+    {
+      "key": "merid_vodafone_pct",
+      "label": "Merid Vodafone Pct",
+      "type": "number"
+    },
+    {
+      "key": "merid_nova_pct",
+      "label": "Merid Nova Pct",
+      "type": "number"
+    },
+    {
+      "key": "synolikes_syndeseis_kinitis",
+      "label": "Synolikes Syndeseis Kinitis",
+      "type": "number"
+    },
+    {
+      "key": "dieisdysi_diadiktyou_pct",
+      "label": "Dieisdysi Diadiktyou Pct",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "etos": 1998,
+      "merid_telekom_cosmote_pct": 19.6,
+      "merid_vodafone_pct": 48.9,
+      "merid_nova_pct": 31.6,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": ""
+    },
+    {
+      "etos": 1999,
+      "merid_telekom_cosmote_pct": 28.4,
+      "merid_vodafone_pct": 42.2,
+      "merid_nova_pct": 30.6,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": ""
+    },
+    {
+      "etos": 2000,
+      "merid_telekom_cosmote_pct": 33.9,
+      "merid_vodafone_pct": 37.8,
+      "merid_nova_pct": 29.1,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": ""
+    },
+    {
+      "etos": 2001,
+      "merid_telekom_cosmote_pct": 37.9,
+      "merid_vodafone_pct": 35,
+      "merid_nova_pct": 27.2,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": ""
+    },
+    {
+      "etos": 2002,
+      "merid_telekom_cosmote_pct": 39.6,
+      "merid_vodafone_pct": 34.1,
+      "merid_nova_pct": 25.4,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": 14.7
+    },
+    {
+      "etos": 2003,
+      "merid_telekom_cosmote_pct": 39.7,
+      "merid_vodafone_pct": 34.7,
+      "merid_nova_pct": 23.2,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": 16.3
+    },
+    {
+      "etos": 2004,
+      "merid_telekom_cosmote_pct": 38.2,
+      "merid_vodafone_pct": 35.1,
+      "merid_nova_pct": 21.1,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": 19.7
+    },
+    {
+      "etos": 2005,
+      "merid_telekom_cosmote_pct": 38.6,
+      "merid_vodafone_pct": 35.4,
+      "merid_nova_pct": 20.2,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": 22.5
+    },
+    {
+      "etos": 2006,
+      "merid_telekom_cosmote_pct": 39.9,
+      "merid_vodafone_pct": 34.8,
+      "merid_nova_pct": 28,
+      "synolikes_syndeseis_kinitis": 13874674,
+      "dieisdysi_diadiktyou_pct": 28.9
+    },
+    {
+      "etos": 2007,
+      "merid_telekom_cosmote_pct": 40.3,
+      "merid_vodafone_pct": 33.8,
+      "merid_nova_pct": 27.2,
+      "synolikes_syndeseis_kinitis": 16226675,
+      "dieisdysi_diadiktyou_pct": 33.4
+    },
+    {
+      "etos": 2008,
+      "merid_telekom_cosmote_pct": 41.8,
+      "merid_vodafone_pct": 33.3,
+      "merid_nova_pct": 26.5,
+      "synolikes_syndeseis_kinitis": 18918092,
+      "dieisdysi_diadiktyou_pct": 38.2
+    },
+    {
+      "etos": 2009,
+      "merid_telekom_cosmote_pct": 44.5,
+      "merid_vodafone_pct": 31.2,
+      "merid_nova_pct": 24.3,
+      "synolikes_syndeseis_kinitis": 20298102,
+      "dieisdysi_diadiktyou_pct": 42.4
+    },
+    {
+      "etos": 2010,
+      "merid_telekom_cosmote_pct": 52.4,
+      "merid_vodafone_pct": 25.9,
+      "merid_nova_pct": 21.7,
+      "synolikes_syndeseis_kinitis": 14815705,
+      "dieisdysi_diadiktyou_pct": 44.4
+    },
+    {
+      "etos": 2011,
+      "merid_telekom_cosmote_pct": 52.2,
+      "merid_vodafone_pct": 26.3,
+      "merid_nova_pct": 21.4,
+      "synolikes_syndeseis_kinitis": 14557672,
+      "dieisdysi_diadiktyou_pct": 51.7
+    },
+    {
+      "etos": 2012,
+      "merid_telekom_cosmote_pct": 48.5,
+      "merid_vodafone_pct": 27.1,
+      "merid_nova_pct": 24,
+      "synolikes_syndeseis_kinitis": 15151742,
+      "dieisdysi_diadiktyou_pct": 55.1
+    },
+    {
+      "etos": 2013,
+      "merid_telekom_cosmote_pct": 45.3,
+      "merid_vodafone_pct": 29.8,
+      "merid_nova_pct": 24.9,
+      "synolikes_syndeseis_kinitis": 15722476,
+      "dieisdysi_diadiktyou_pct": 59.9
+    },
+    {
+      "etos": 2014,
+      "merid_telekom_cosmote_pct": 44.5,
+      "merid_vodafone_pct": 30.4,
+      "merid_nova_pct": 25,
+      "synolikes_syndeseis_kinitis": 15473683,
+      "dieisdysi_diadiktyou_pct": 63.2
+    },
+    {
+      "etos": 2015,
+      "merid_telekom_cosmote_pct": 45.2,
+      "merid_vodafone_pct": 35.1,
+      "merid_nova_pct": 19.5,
+      "synolikes_syndeseis_kinitis": 15353553,
+      "dieisdysi_diadiktyou_pct": 66.8
+    },
+    {
+      "etos": 2016,
+      "merid_telekom_cosmote_pct": 45.6,
+      "merid_vodafone_pct": 35.3,
+      "merid_nova_pct": 18.7,
+      "synolikes_syndeseis_kinitis": 15934294,
+      "dieisdysi_diadiktyou_pct": 69.1
+    },
+    {
+      "etos": 2017,
+      "merid_telekom_cosmote_pct": 46.3,
+      "merid_vodafone_pct": 30.9,
+      "merid_nova_pct": 22.4,
+      "synolikes_syndeseis_kinitis": 16167273,
+      "dieisdysi_diadiktyou_pct": 71
+    },
+    {
+      "etos": 2018,
+      "merid_telekom_cosmote_pct": 47.9,
+      "merid_vodafone_pct": 30.3,
+      "merid_nova_pct": 21.4,
+      "synolikes_syndeseis_kinitis": 15354388,
+      "dieisdysi_diadiktyou_pct": 76.5
+    },
+    {
+      "etos": 2019,
+      "merid_telekom_cosmote_pct": 46.9,
+      "merid_vodafone_pct": 28.9,
+      "merid_nova_pct": 24.5,
+      "synolikes_syndeseis_kinitis": 14458145,
+      "dieisdysi_diadiktyou_pct": 78.5
+    },
+    {
+      "etos": 2020,
+      "merid_telekom_cosmote_pct": 46,
+      "merid_vodafone_pct": 29.2,
+      "merid_nova_pct": 24.8,
+      "synolikes_syndeseis_kinitis": 13650884,
+      "dieisdysi_diadiktyou_pct": 80.4
+    },
+    {
+      "etos": 2021,
+      "merid_telekom_cosmote_pct": 46,
+      "merid_vodafone_pct": 30.2,
+      "merid_nova_pct": 23.8,
+      "synolikes_syndeseis_kinitis": 13813026,
+      "dieisdysi_diadiktyou_pct": 85.1
+    },
+    {
+      "etos": 2022,
+      "merid_telekom_cosmote_pct": 47.8,
+      "merid_vodafone_pct": 30.2,
+      "merid_nova_pct": 21.9,
+      "synolikes_syndeseis_kinitis": 13800000,
+      "dieisdysi_diadiktyou_pct": 85.5
+    },
+    {
+      "etos": 2023,
+      "merid_telekom_cosmote_pct": 46.5,
+      "merid_vodafone_pct": 30.6,
+      "merid_nova_pct": 22.8,
+      "synolikes_syndeseis_kinitis": 11380456,
+      "dieisdysi_diadiktyou_pct": 86.9
+    },
+    {
+      "etos": 2024,
+      "merid_telekom_cosmote_pct": 44.4,
+      "merid_vodafone_pct": 34.1,
+      "merid_nova_pct": 21.5,
+      "synolikes_syndeseis_kinitis": 13500000,
+      "dieisdysi_diadiktyou_pct": 86.9
+    },
+    {
+      "etos": 2025,
+      "merid_telekom_cosmote_pct": 44.9,
+      "merid_vodafone_pct": 25.9,
+      "merid_nova_pct": 28.5,
+      "synolikes_syndeseis_kinitis": 13850000,
+      "dieisdysi_diadiktyou_pct": 88.7
+    },
+    {
+      "etos": 2026,
+      "merid_telekom_cosmote_pct": 44.4,
+      "merid_vodafone_pct": 34.1,
+      "merid_nova_pct": 21.5,
+      "synolikes_syndeseis_kinitis": "",
+      "dieisdysi_diadiktyou_pct": ""
+    }
+  ],
+  "meta": {
+    "title": "Κινητή τηλεφωνία και διαδίκτυο στην Ελλάδα ανά έτος - Free Download",
+    "description": "Μερίδια αγοράς των παρόχων κινητής τηλεφωνίας (Telekom/Cosmote, Vodafone, NOVA), συνολικές συνδέσεις κινητής και διείσδυση του διαδικτύου στην Ελλάδα από το 1998. Contains 29 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Κινητή τηλεφωνία και διαδίκτυο στην Ελλάδα ανά έτος | ListBase",
+    "seo_description": "Download Κινητή τηλεφωνία και διαδίκτυο στην Ελλάδα ανά έτος — 29 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 29 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Τηλεπικοινωνίες_στην_Ελλάδα"
+    ]
+  }
+}
