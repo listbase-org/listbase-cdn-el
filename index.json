@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-16T02:20:14.000Z",
-  "total_datasets": 514,
-  "total_records": 202114,
+  "generated": "2026-11-16T02:20:28.809Z",
+  "total_datasets": 515,
+  "total_records": 202192,
   "categories": [
     {
       "id": "agriculture",
@@ -74,7 +74,7 @@
     },
     {
       "id": "society",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "sports",
@@ -12905,6 +12905,33 @@
         "xlsx": {
           "name": "el-perifereies-deiktis-anthropinis-anaptyxis_EL.xlsx",
           "size": 7375
+        }
+      }
+    },
+    {
+      "id": "el-prosdokimo-zois-ana-perifereia",
+      "name": "Προσδόκιμο ζωής κατά τη γέννηση ανά περιφέρεια (2019–2024)",
+      "category": "society",
+      "record_count": 78,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "synolo",
+        "andres",
+        "gynaikes"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+      "updated": "2026-11",
+      "size": 18036,
+      "files": {
+        "csv": {
+          "name": "el-prosdokimo-zois-ana-perifereia_EL.csv",
+          "size": 6746
+        },
+        "xlsx": {
+          "name": "el-prosdokimo-zois-ana-perifereia_EL.xlsx",
+          "size": 9232
         }
       }
     },

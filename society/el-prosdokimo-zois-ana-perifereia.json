@@ -1,0 +1,680 @@
+{
+  "id": "el-prosdokimo-zois-ana-perifereia",
+  "name": "Προσδόκιμο ζωής κατά τη γέννηση ανά περιφέρεια (2019–2024)",
+  "title": "Προσδόκιμο ζωής κατά τη γέννηση ανά περιφέρεια (2019–2024)",
+  "description": "Προσδόκιμο ζωής κατά τη γέννηση (έτη) στις περιφέρειες της Ελλάδας, σύνολο, άνδρες και γυναίκες, στοιχεία Eurostat.",
+  "category": "society",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table",
+  "updated": "2026-11",
+  "record_count": 78,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "synolo",
+      "label": "Synolo",
+      "type": "number"
+    },
+    {
+      "key": "andres",
+      "label": "Andres",
+      "type": "number"
+    },
+    {
+      "key": "gynaikes",
+      "label": "Gynaikes",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2019,
+      "synolo": 80.5,
+      "andres": 78,
+      "gynaikes": 82.9
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2019,
+      "synolo": 81.1,
+      "andres": 78.4,
+      "gynaikes": 83.7
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2019,
+      "synolo": 82.2,
+      "andres": 79.6,
+      "gynaikes": 84.9
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2019,
+      "synolo": 81.7,
+      "andres": 78.9,
+      "gynaikes": 84.6
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2019,
+      "synolo": 82,
+      "andres": 79.4,
+      "gynaikes": 84.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2019,
+      "synolo": 83.3,
+      "andres": 80.8,
+      "gynaikes": 86
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2019,
+      "synolo": 81.7,
+      "andres": 79,
+      "gynaikes": 84.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2019,
+      "synolo": 81.7,
+      "andres": 79.5,
+      "gynaikes": 83.9
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2019,
+      "synolo": 81.1,
+      "andres": 78.5,
+      "gynaikes": 83.5
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2019,
+      "synolo": 82.1,
+      "andres": 79.1,
+      "gynaikes": 85.2
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2019,
+      "synolo": 81.8,
+      "andres": 79.5,
+      "gynaikes": 84.2
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2019,
+      "synolo": 81.8,
+      "andres": 78.8,
+      "gynaikes": 85.1
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2019,
+      "synolo": 81.3,
+      "andres": 78.6,
+      "gynaikes": 84.1
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2020,
+      "synolo": 79.6,
+      "andres": 77,
+      "gynaikes": 82.2
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2020,
+      "synolo": 81.1,
+      "andres": 78.5,
+      "gynaikes": 83.7
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2020,
+      "synolo": 81.9,
+      "andres": 79.3,
+      "gynaikes": 84.8
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2020,
+      "synolo": 81.8,
+      "andres": 79.1,
+      "gynaikes": 84.7
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2020,
+      "synolo": 81.4,
+      "andres": 79.1,
+      "gynaikes": 83.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2020,
+      "synolo": 83,
+      "andres": 80.3,
+      "gynaikes": 85.9
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2020,
+      "synolo": 81,
+      "andres": 78.5,
+      "gynaikes": 83.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2020,
+      "synolo": 81.8,
+      "andres": 79.3,
+      "gynaikes": 84.4
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2020,
+      "synolo": 79.9,
+      "andres": 77.1,
+      "gynaikes": 82.8
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2020,
+      "synolo": 82.5,
+      "andres": 80.1,
+      "gynaikes": 85
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2020,
+      "synolo": 82,
+      "andres": 80.1,
+      "gynaikes": 84
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2020,
+      "synolo": 81.7,
+      "andres": 78.9,
+      "gynaikes": 84.8
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2020,
+      "synolo": 81.7,
+      "andres": 78.7,
+      "gynaikes": 84.9
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2021,
+      "synolo": 79,
+      "andres": 76.2,
+      "gynaikes": 81.8
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2021,
+      "synolo": 79.9,
+      "andres": 77.1,
+      "gynaikes": 82.6
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2021,
+      "synolo": 82.8,
+      "andres": 80.1,
+      "gynaikes": 85.5
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2021,
+      "synolo": 80.3,
+      "andres": 77.6,
+      "gynaikes": 83.3
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2021,
+      "synolo": 80.5,
+      "andres": 77.7,
+      "gynaikes": 83.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2021,
+      "synolo": 82.2,
+      "andres": 79.7,
+      "gynaikes": 84.8
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2021,
+      "synolo": 79.8,
+      "andres": 77,
+      "gynaikes": 82.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2021,
+      "synolo": 80.8,
+      "andres": 78.1,
+      "gynaikes": 83.7
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2021,
+      "synolo": 79,
+      "andres": 76.1,
+      "gynaikes": 81.9
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2021,
+      "synolo": 81.6,
+      "andres": 79.1,
+      "gynaikes": 84.3
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2021,
+      "synolo": 81.3,
+      "andres": 78.7,
+      "gynaikes": 84.2
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2021,
+      "synolo": 80.6,
+      "andres": 77.8,
+      "gynaikes": 83.7
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2021,
+      "synolo": 80.2,
+      "andres": 77.4,
+      "gynaikes": 83.2
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2022,
+      "synolo": 79.8,
+      "andres": 77.3,
+      "gynaikes": 82.4
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2022,
+      "synolo": 80.9,
+      "andres": 78.4,
+      "gynaikes": 83.3
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2022,
+      "synolo": 82.3,
+      "andres": 79.8,
+      "gynaikes": 84.9
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2022,
+      "synolo": 80.3,
+      "andres": 77.9,
+      "gynaikes": 83
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2022,
+      "synolo": 81.3,
+      "andres": 78.5,
+      "gynaikes": 84.5
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2022,
+      "synolo": 82.7,
+      "andres": 79.9,
+      "gynaikes": 85.6
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2022,
+      "synolo": 81,
+      "andres": 78.5,
+      "gynaikes": 83.7
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2022,
+      "synolo": 80.6,
+      "andres": 78,
+      "gynaikes": 83.4
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2022,
+      "synolo": 80.1,
+      "andres": 77.4,
+      "gynaikes": 82.7
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2022,
+      "synolo": 81.7,
+      "andres": 78.9,
+      "gynaikes": 84.6
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2022,
+      "synolo": 81.7,
+      "andres": 79.4,
+      "gynaikes": 84.1
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2022,
+      "synolo": 80.8,
+      "andres": 78.3,
+      "gynaikes": 83.7
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2022,
+      "synolo": 80.7,
+      "andres": 78,
+      "gynaikes": 83.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2023,
+      "synolo": 80.5,
+      "andres": 77.8,
+      "gynaikes": 83.2
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2023,
+      "synolo": 81.6,
+      "andres": 78.9,
+      "gynaikes": 84.1
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2023,
+      "synolo": 83.6,
+      "andres": 81.2,
+      "gynaikes": 86
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2023,
+      "synolo": 81.6,
+      "andres": 79,
+      "gynaikes": 84.3
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2023,
+      "synolo": 82.1,
+      "andres": 79.8,
+      "gynaikes": 84.5
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2023,
+      "synolo": 83.5,
+      "andres": 80.8,
+      "gynaikes": 86.2
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2023,
+      "synolo": 81.3,
+      "andres": 78.8,
+      "gynaikes": 84
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2023,
+      "synolo": 81.7,
+      "andres": 79.5,
+      "gynaikes": 84.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2023,
+      "synolo": 81.5,
+      "andres": 79.1,
+      "gynaikes": 83.9
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2023,
+      "synolo": 82.3,
+      "andres": 80.1,
+      "gynaikes": 84.7
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2023,
+      "synolo": 82.4,
+      "andres": 80.4,
+      "gynaikes": 84.5
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2023,
+      "synolo": 81.5,
+      "andres": 78.9,
+      "gynaikes": 84.2
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2023,
+      "synolo": 81.6,
+      "andres": 78.8,
+      "gynaikes": 84.7
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2024,
+      "synolo": 80.4,
+      "andres": 77.9,
+      "gynaikes": 82.9
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2024,
+      "synolo": 81.9,
+      "andres": 79.3,
+      "gynaikes": 84.2
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2024,
+      "synolo": 83,
+      "andres": 80.1,
+      "gynaikes": 86
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2024,
+      "synolo": 81.8,
+      "andres": 79.5,
+      "gynaikes": 84.4
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2024,
+      "synolo": 82.3,
+      "andres": 79.5,
+      "gynaikes": 85.4
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2024,
+      "synolo": 83.6,
+      "andres": 80.8,
+      "gynaikes": 86.5
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2024,
+      "synolo": 82.2,
+      "andres": 79.8,
+      "gynaikes": 84.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2024,
+      "synolo": 81.1,
+      "andres": 78.5,
+      "gynaikes": 83.8
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2024,
+      "synolo": 81.7,
+      "andres": 79.2,
+      "gynaikes": 84.2
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2024,
+      "synolo": 82.4,
+      "andres": 79.8,
+      "gynaikes": 85.2
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2024,
+      "synolo": 82.3,
+      "andres": 80.4,
+      "gynaikes": 84.3
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2024,
+      "synolo": 81.8,
+      "andres": 79.3,
+      "gynaikes": 84.4
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2024,
+      "synolo": 82.1,
+      "andres": 79.5,
+      "gynaikes": 85
+    }
+  ],
+  "meta": {
+    "title": "Προσδόκιμο ζωής κατά τη γέννηση ανά περιφέρεια (2019–2024) - Free Download",
+    "description": "Προσδόκιμο ζωής κατά τη γέννηση (έτη) στις περιφέρειες της Ελλάδας, σύνολο, άνδρες και γυναίκες, στοιχεία Eurostat. Contains 78 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Προσδόκιμο ζωής κατά τη γέννηση ανά περιφέρεια (2019–2024) | ListBase",
+    "seo_description": "Download Προσδόκιμο ζωής κατά τη γέννηση ανά περιφέρεια (2019–2024) — 78 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 78 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/demo_r_mlifexp/default/table"
+    ]
+  }
+}
