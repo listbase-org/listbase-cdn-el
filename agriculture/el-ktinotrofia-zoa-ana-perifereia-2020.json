@@ -1,0 +1,178 @@
+{
+  "id": "el-ktinotrofia-zoa-ana-perifereia-2020",
+  "name": "Ζωικό κεφάλαιο ανά περιφέρεια (απογραφή γεωργίας 2020)",
+  "title": "Ζωικό κεφάλαιο ανά περιφέρεια (απογραφή γεωργίας 2020)",
+  "description": "Αριθμός βοοειδών, χοίρων, προβάτων, αιγών και πουλερικών στις γεωργικές εκμεταλλεύσεις κάθε περιφέρειας της Ελλάδας σύμφωνα με την απογραφή γεωργίας 2020 (Eurostat).",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/ef_lsk_main/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/ef_lsk_main/default/table",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "voeidi",
+      "label": "Voeidi",
+      "type": "number"
+    },
+    {
+      "key": "choiroi",
+      "label": "Choiroi",
+      "type": "number"
+    },
+    {
+      "key": "provata",
+      "label": "Provata",
+      "type": "number"
+    },
+    {
+      "key": "aiges",
+      "label": "Aiges",
+      "type": "number"
+    },
+    {
+      "key": "poulerika",
+      "label": "Poulerika",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "voeidi": 88700,
+      "choiroi": 66460,
+      "provata": 406820,
+      "aiges": 287870,
+      "poulerika": 517930
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "voeidi": 3060,
+      "choiroi": 2890,
+      "provata": 41270,
+      "aiges": 20430,
+      "poulerika": 2434810
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "voeidi": 6380,
+      "choiroi": 3650,
+      "provata": 468700,
+      "aiges": 95000,
+      "poulerika": 307910
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "voeidi": 71680,
+      "choiroi": 101730,
+      "provata": 1287470,
+      "aiges": 382320,
+      "poulerika": 1325530
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "voeidi": 40270,
+      "choiroi": 9090,
+      "provata": 392610,
+      "aiges": 146290,
+      "poulerika": 105050
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "voeidi": 70810,
+      "choiroi": 142080,
+      "provata": 460710,
+      "aiges": 126660,
+      "poulerika": 12401110
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "voeidi": 121460,
+      "choiroi": 110800,
+      "provata": 1010160,
+      "aiges": 299850,
+      "poulerika": 472790
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "voeidi": 4080,
+      "choiroi": 720,
+      "provata": 110530,
+      "aiges": 101310,
+      "poulerika": 95610
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "voeidi": 160280,
+      "choiroi": 101460,
+      "provata": 615960,
+      "aiges": 369690,
+      "poulerika": 5254800
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "voeidi": 1210,
+      "choiroi": 40890,
+      "provata": 1973690,
+      "aiges": 542920,
+      "poulerika": 712450
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "voeidi": 14680,
+      "choiroi": 5470,
+      "provata": 157200,
+      "aiges": 169510,
+      "poulerika": 155370
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "voeidi": 16500,
+      "choiroi": 67040,
+      "provata": 355940,
+      "aiges": 365210,
+      "poulerika": 1390790
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "voeidi": 32410,
+      "choiroi": 90680,
+      "provata": 440730,
+      "aiges": 241950,
+      "poulerika": 2237980
+    }
+  ],
+  "meta": {
+    "title": "Ζωικό κεφάλαιο ανά περιφέρεια (απογραφή γεωργίας 2020) - Free Download",
+    "description": "Αριθμός βοοειδών, χοίρων, προβάτων, αιγών και πουλερικών στις γεωργικές εκμεταλλεύσεις κάθε περιφέρειας της Ελλάδας σύμφωνα με την απογραφή γεωργίας 2020 (Eurostat). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ζωικό κεφάλαιο ανά περιφέρεια (απογραφή γεωργίας 2020) | ListBase",
+    "seo_description": "Download Ζωικό κεφάλαιο ανά περιφέρεια (απογραφή γεωργίας 2020) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/ef_lsk_main/default/table"
+    ]
+  }
+}
