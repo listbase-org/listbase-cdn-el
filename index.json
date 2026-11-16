@@ -1,12 +1,12 @@
 {
   "lang": "el",
-  "generated": "2026-11-16T02:20:28.809Z",
-  "total_datasets": 515,
-  "total_records": 202192,
+  "generated": "2026-11-16T02:20:41.687Z",
+  "total_datasets": 516,
+  "total_records": 202231,
   "categories": [
     {
       "id": "agriculture",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "culture",
@@ -226,6 +226,38 @@
         "xlsx": {
           "name": "el-poikilies-stafyliou_EL.xlsx",
           "size": 10411
+        }
+      }
+    },
+    {
+      "id": "el-sitira-ektasi-paragogi-ana-perifereia",
+      "name": "Σιτηρά: έκταση και παραγωγή ανά περιφέρεια (2022–2024)",
+      "category": "agriculture",
+      "record_count": 39,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "malako_sitari_ektasi_xil_ha",
+        "malako_sitari_paragogi_xil_t",
+        "skliro_sitari_ektasi_xil_ha",
+        "skliro_sitari_paragogi_xil_t",
+        "krithari_ektasi_xil_ha",
+        "krithari_paragogi_xil_t",
+        "kalampoki_ektasi_xil_ha",
+        "kalampoki_paragogi_xil_t"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/apro_cpshr/default/table",
+      "updated": "2026-11",
+      "size": 21425,
+      "files": {
+        "csv": {
+          "name": "el-sitira-ektasi-paragogi-ana-perifereia_EL.csv",
+          "size": 5091
+        },
+        "xlsx": {
+          "name": "el-sitira-ektasi-paragogi-ana-perifereia_EL.xlsx",
+          "size": 9417
         }
       }
     },
