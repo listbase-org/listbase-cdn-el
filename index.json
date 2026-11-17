@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-17T02:21:30.225Z",
-  "total_datasets": 518,
-  "total_records": 202337,
+  "generated": "2026-11-17T02:21:41.134Z",
+  "total_datasets": 519,
+  "total_records": 202355,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "music",
@@ -5714,6 +5714,32 @@
         "xlsx": {
           "name": "el-syntagmata-elladas_EL.xlsx",
           "size": 8125
+        }
+      }
+    },
+    {
+      "id": "el-syntagmata-kai-anatheoriseis",
+      "name": "Συντάγματα της Ελλάδας και αναθεωρήσεις (1822–2019)",
+      "category": "law",
+      "record_count": 18,
+      "columns": [
+        "typos",
+        "etos",
+        "titlos",
+        "syneleusi_foreas",
+        "paratiriseis"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_συνταγμάτων_της_Ελλάδας",
+      "updated": "2026-11",
+      "size": 8009,
+      "files": {
+        "csv": {
+          "name": "el-syntagmata-kai-anatheoriseis_EL.csv",
+          "size": 3759
+        },
+        "xlsx": {
+          "name": "el-syntagmata-kai-anatheoriseis_EL.xlsx",
+          "size": 8098
         }
       }
     },
