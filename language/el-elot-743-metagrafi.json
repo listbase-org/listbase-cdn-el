@@ -1,0 +1,256 @@
+{
+  "id": "el-elot-743-metagrafi",
+  "name": "ΕΛΟΤ 743 — μεταγραφή ελληνικών χαρακτήρων σε λατινικούς",
+  "title": "ΕΛΟΤ 743 — μεταγραφή ελληνικών χαρακτήρων σε λατινικούς",
+  "description": "Πίνακας αντιστοίχισης των γραμμάτων του ελληνικού αλφαβήτου (κεφαλαία και πεζά, με τόνους και διαλυτικά) με λατινικούς χαρακτήρες σύμφωνα με το πρότυπο ΕΛΟΤ 743 (ISO 843).",
+  "category": "language",
+  "source": "https://el.wikipedia.org/wiki/ΕΛΟΤ_743",
+  "source_url": "https://el.wikipedia.org/wiki/ΕΛΟΤ_743",
+  "updated": "2026-11",
+  "record_count": 35,
+  "columns": [
+    {
+      "key": "kefalaio_elliniko",
+      "label": "Kefalaio Elliniko",
+      "type": "string"
+    },
+    {
+      "key": "mikro_elliniko",
+      "label": "Mikro Elliniko",
+      "type": "string"
+    },
+    {
+      "key": "kefalaio_latiniko",
+      "label": "Kefalaio Latiniko",
+      "type": "string"
+    },
+    {
+      "key": "mikro_latiniko",
+      "label": "Mikro Latiniko",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "kefalaio_elliniko": "Α",
+      "mikro_elliniko": "α",
+      "kefalaio_latiniko": "A",
+      "mikro_latiniko": "a"
+    },
+    {
+      "kefalaio_elliniko": "Ά",
+      "mikro_elliniko": "ά",
+      "kefalaio_latiniko": "Á",
+      "mikro_latiniko": "á"
+    },
+    {
+      "kefalaio_elliniko": "Β",
+      "mikro_elliniko": "β",
+      "kefalaio_latiniko": "V",
+      "mikro_latiniko": "v"
+    },
+    {
+      "kefalaio_elliniko": "Γ",
+      "mikro_elliniko": "γ",
+      "kefalaio_latiniko": "G",
+      "mikro_latiniko": "g"
+    },
+    {
+      "kefalaio_elliniko": "Δ",
+      "mikro_elliniko": "δ",
+      "kefalaio_latiniko": "D",
+      "mikro_latiniko": "d"
+    },
+    {
+      "kefalaio_elliniko": "Ε",
+      "mikro_elliniko": "ε",
+      "kefalaio_latiniko": "E",
+      "mikro_latiniko": "e"
+    },
+    {
+      "kefalaio_elliniko": "Έ",
+      "mikro_elliniko": "έ",
+      "kefalaio_latiniko": "É",
+      "mikro_latiniko": "é"
+    },
+    {
+      "kefalaio_elliniko": "Ζ",
+      "mikro_elliniko": "ζ",
+      "kefalaio_latiniko": "Z",
+      "mikro_latiniko": "z"
+    },
+    {
+      "kefalaio_elliniko": "Η",
+      "mikro_elliniko": "η",
+      "kefalaio_latiniko": "Ī",
+      "mikro_latiniko": "ī"
+    },
+    {
+      "kefalaio_elliniko": "Ή",
+      "mikro_elliniko": "ή",
+      "kefalaio_latiniko": "Ī́",
+      "mikro_latiniko": "ī́"
+    },
+    {
+      "kefalaio_elliniko": "Θ",
+      "mikro_elliniko": "θ",
+      "kefalaio_latiniko": "Th",
+      "mikro_latiniko": "th"
+    },
+    {
+      "kefalaio_elliniko": "Ι",
+      "mikro_elliniko": "ι",
+      "kefalaio_latiniko": "I",
+      "mikro_latiniko": "i"
+    },
+    {
+      "kefalaio_elliniko": "Ί",
+      "mikro_elliniko": "ί",
+      "kefalaio_latiniko": "Í",
+      "mikro_latiniko": "í"
+    },
+    {
+      "kefalaio_elliniko": "Ϊ",
+      "mikro_elliniko": "ϊ",
+      "kefalaio_latiniko": "Ï",
+      "mikro_latiniko": "ï"
+    },
+    {
+      "kefalaio_elliniko": "",
+      "mikro_elliniko": "ΐ",
+      "kefalaio_latiniko": "",
+      "mikro_latiniko": "ḯ"
+    },
+    {
+      "kefalaio_elliniko": "Κ",
+      "mikro_elliniko": "κ",
+      "kefalaio_latiniko": "K",
+      "mikro_latiniko": "k"
+    },
+    {
+      "kefalaio_elliniko": "Λ",
+      "mikro_elliniko": "λ",
+      "kefalaio_latiniko": "L",
+      "mikro_latiniko": "l"
+    },
+    {
+      "kefalaio_elliniko": "Μ",
+      "mikro_elliniko": "μ",
+      "kefalaio_latiniko": "M",
+      "mikro_latiniko": "m"
+    },
+    {
+      "kefalaio_elliniko": "Ν",
+      "mikro_elliniko": "ν",
+      "kefalaio_latiniko": "N",
+      "mikro_latiniko": "n"
+    },
+    {
+      "kefalaio_elliniko": "Ξ",
+      "mikro_elliniko": "ξ",
+      "kefalaio_latiniko": "X",
+      "mikro_latiniko": "x"
+    },
+    {
+      "kefalaio_elliniko": "Ο",
+      "mikro_elliniko": "ο",
+      "kefalaio_latiniko": "O",
+      "mikro_latiniko": "o"
+    },
+    {
+      "kefalaio_elliniko": "Ό",
+      "mikro_elliniko": "ό",
+      "kefalaio_latiniko": "Ó",
+      "mikro_latiniko": "ó"
+    },
+    {
+      "kefalaio_elliniko": "Π",
+      "mikro_elliniko": "π",
+      "kefalaio_latiniko": "P",
+      "mikro_latiniko": "p"
+    },
+    {
+      "kefalaio_elliniko": "Ρ",
+      "mikro_elliniko": "ρ",
+      "kefalaio_latiniko": "R",
+      "mikro_latiniko": "r"
+    },
+    {
+      "kefalaio_elliniko": "Σ",
+      "mikro_elliniko": "σ, ς",
+      "kefalaio_latiniko": "S",
+      "mikro_latiniko": "s"
+    },
+    {
+      "kefalaio_elliniko": "Τ",
+      "mikro_elliniko": "τ",
+      "kefalaio_latiniko": "T",
+      "mikro_latiniko": "t"
+    },
+    {
+      "kefalaio_elliniko": "Υ",
+      "mikro_elliniko": "υ",
+      "kefalaio_latiniko": "Y",
+      "mikro_latiniko": "y"
+    },
+    {
+      "kefalaio_elliniko": "Ύ",
+      "mikro_elliniko": "ύ",
+      "kefalaio_latiniko": "Ý",
+      "mikro_latiniko": "ý"
+    },
+    {
+      "kefalaio_elliniko": "Ϋ",
+      "mikro_elliniko": "ϋ",
+      "kefalaio_latiniko": "Ÿ",
+      "mikro_latiniko": "ÿ"
+    },
+    {
+      "kefalaio_elliniko": "",
+      "mikro_elliniko": "ΰ",
+      "kefalaio_latiniko": "",
+      "mikro_latiniko": "ÿ́"
+    },
+    {
+      "kefalaio_elliniko": "Φ",
+      "mikro_elliniko": "φ",
+      "kefalaio_latiniko": "F",
+      "mikro_latiniko": "f"
+    },
+    {
+      "kefalaio_elliniko": "Χ",
+      "mikro_elliniko": "χ",
+      "kefalaio_latiniko": "Ch",
+      "mikro_latiniko": "ch"
+    },
+    {
+      "kefalaio_elliniko": "Ψ",
+      "mikro_elliniko": "ψ",
+      "kefalaio_latiniko": "Ps",
+      "mikro_latiniko": "ps"
+    },
+    {
+      "kefalaio_elliniko": "Ω",
+      "mikro_elliniko": "ω",
+      "kefalaio_latiniko": "Ō",
+      "mikro_latiniko": "ō"
+    },
+    {
+      "kefalaio_elliniko": "Ώ",
+      "mikro_elliniko": "ώ",
+      "kefalaio_latiniko": "Ṓ",
+      "mikro_latiniko": "ṓ"
+    }
+  ],
+  "meta": {
+    "title": "ΕΛΟΤ 743 — μεταγραφή ελληνικών χαρακτήρων σε λατινικούς - Free Download",
+    "description": "Πίνακας αντιστοίχισης των γραμμάτων του ελληνικού αλφαβήτου (κεφαλαία και πεζά, με τόνους και διαλυτικά) με λατινικούς χαρακτήρες σύμφωνα με το πρότυπο ΕΛΟΤ 743 (ISO 843). Contains 35 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "ΕΛΟΤ 743 — μεταγραφή ελληνικών χαρακτήρων σε λατινικούς | ListBase",
+    "seo_description": "Download ΕΛΟΤ 743 — μεταγραφή ελληνικών χαρακτήρων σε λατινικούς — 35 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 35 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/ΕΛΟΤ_743"
+    ]
+  }
+}
