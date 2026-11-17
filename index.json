@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-16T02:20:41.687Z",
-  "total_datasets": 516,
-  "total_records": 202231,
+  "generated": "2026-11-17T02:21:18.629Z",
+  "total_datasets": 517,
+  "total_records": 202302,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "environment",
@@ -2015,6 +2015,32 @@
         "xlsx": {
           "name": "el-ellinikes-tainies-dekaetias-1960_EL.xlsx",
           "size": 16156
+        }
+      }
+    },
+    {
+      "id": "el-ellinikes-tainies-dekaetias-1970",
+      "name": "Ελληνικές ταινίες της δεκαετίας του 1970",
+      "category": "entertainment",
+      "record_count": 71,
+      "columns": [
+        "titlos",
+        "etos",
+        "skinothetis",
+        "ithopoioi",
+        "eidos"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_ταινιών_δεκαετίας_1970",
+      "updated": "2026-11",
+      "size": 25517,
+      "files": {
+        "csv": {
+          "name": "el-ellinikes-tainies-dekaetias-1970_EL.csv",
+          "size": 16271
+        },
+        "xlsx": {
+          "name": "el-ellinikes-tainies-dekaetias-1970_EL.xlsx",
+          "size": 12259
         }
       }
     },
