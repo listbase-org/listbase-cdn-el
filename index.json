@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-18T02:23:24.498Z",
-  "total_datasets": 521,
-  "total_records": 202410,
+  "generated": "2026-11-18T02:23:36.057Z",
+  "total_datasets": 522,
+  "total_records": 202448,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "politics",
@@ -5873,6 +5873,31 @@
         "xlsx": {
           "name": "el-ellada-sti-eurovision_EL.xlsx",
           "size": 10493
+        }
+      }
+    },
+    {
+      "id": "el-ellinikes-diskografikes-etaireies",
+      "name": "Ελληνικές δισκογραφικές εταιρείες",
+      "category": "music",
+      "record_count": 38,
+      "columns": [
+        "onoma",
+        "edra",
+        "etos_idrysis",
+        "wikidata"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q18127",
+      "updated": "2026-11",
+      "size": 6795,
+      "files": {
+        "csv": {
+          "name": "el-ellinikes-diskografikes-etaireies_EL.csv",
+          "size": 1938
+        },
+        "xlsx": {
+          "name": "el-ellinikes-diskografikes-etaireies_EL.xlsx",
+          "size": 8442
         }
       }
     },

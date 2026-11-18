@@ -1,0 +1,274 @@
+{
+  "id": "el-ellinikes-diskografikes-etaireies",
+  "name": "Ελληνικές δισκογραφικές εταιρείες",
+  "title": "Ελληνικές δισκογραφικές εταιρείες",
+  "description": "Δισκογραφικές εταιρείες της Ελλάδας με έδρα και έτος ίδρυσης, σύμφωνα με τα Wikidata.",
+  "category": "music",
+  "source": "https://www.wikidata.org/wiki/Q18127",
+  "source_url": "https://www.wikidata.org/wiki/Q18127",
+  "updated": "2026-11",
+  "record_count": 38,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "edra",
+      "label": "Edra",
+      "type": "string"
+    },
+    {
+      "key": "etos_idrysis",
+      "label": "Etos Idrysis",
+      "type": "number"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Music Corner",
+      "edra": "Δήμος Αθηναίων",
+      "etos_idrysis": "",
+      "wikidata": "Q103409942"
+    },
+    {
+      "onoma": "Capital Music KRBBC",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q51158516"
+    },
+    {
+      "onoma": "OffBeat Records",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q65242827"
+    },
+    {
+      "onoma": "Barcode Crew",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q65274108"
+    },
+    {
+      "onoma": "Ακτή",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q107053853"
+    },
+    {
+      "onoma": "Stay Independent",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q107863047"
+    },
+    {
+      "onoma": "Νότος",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q111450872"
+    },
+    {
+      "onoma": "Golden Records",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q124799924"
+    },
+    {
+      "onoma": "Legend Classics",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q131392224"
+    },
+    {
+      "onoma": "Minos EMI",
+      "edra": "Αθήνα",
+      "etos_idrysis": 1931,
+      "wikidata": "Q6869316"
+    },
+    {
+      "onoma": "Music Box International",
+      "edra": "",
+      "etos_idrysis": 1959,
+      "wikidata": "Q117479602"
+    },
+    {
+      "onoma": "Cobalt Music",
+      "edra": "",
+      "etos_idrysis": 1960,
+      "wikidata": "Q19838822"
+    },
+    {
+      "onoma": "Minos",
+      "edra": "",
+      "etos_idrysis": 1960,
+      "wikidata": "Q112208053"
+    },
+    {
+      "onoma": "Lyra",
+      "edra": "Αθήνα",
+      "etos_idrysis": 1964,
+      "wikidata": "Q81437121"
+    },
+    {
+      "onoma": "Κρητικό Μουσικό Εργαστήρι «Αεράκης»",
+      "edra": "",
+      "etos_idrysis": 1970,
+      "wikidata": "Q133445441"
+    },
+    {
+      "onoma": "Sony Music Entertainment (Greece) Α.Ε.",
+      "edra": "Μαρούσι",
+      "etos_idrysis": 1975,
+      "wikidata": "Q95947147"
+    },
+    {
+      "onoma": "Καλλιτεχνικός Σύλλογος Δημοτικής Μουσικής «Δόμνα Σαμίου»",
+      "edra": "Δήμος Νέας Σμύρνης",
+      "etos_idrysis": 1981,
+      "wikidata": "Q107162286"
+    },
+    {
+      "onoma": "Ano Kato Records",
+      "edra": "Θεσσαλονίκη",
+      "etos_idrysis": 1984,
+      "wikidata": "Q16217877"
+    },
+    {
+      "onoma": "Σείριος",
+      "edra": "Δήμος Φιλοθέης-Ψυχικού",
+      "etos_idrysis": 1985,
+      "wikidata": "Q126594891"
+    },
+    {
+      "onoma": "Wipe Out! Records",
+      "edra": "",
+      "etos_idrysis": 1986,
+      "wikidata": "Q106813141"
+    },
+    {
+      "onoma": "FM Records",
+      "edra": "Δήμος Γαλατσίου",
+      "etos_idrysis": 1987,
+      "wikidata": "Q102177201"
+    },
+    {
+      "onoma": "Alpha Records",
+      "edra": "",
+      "etos_idrysis": 1987,
+      "wikidata": "Q22970206"
+    },
+    {
+      "onoma": "Legend Recordings S.A.",
+      "edra": "Βούλα Αττικής",
+      "etos_idrysis": 1993,
+      "wikidata": "Q97353452"
+    },
+    {
+      "onoma": "Eros Music",
+      "edra": "",
+      "etos_idrysis": 1993,
+      "wikidata": "Q63325219"
+    },
+    {
+      "onoma": "Μικρή Άρκτος",
+      "edra": "Αθήνα",
+      "etos_idrysis": 1996,
+      "wikidata": "Q61642041"
+    },
+    {
+      "onoma": "Estia Recordings",
+      "edra": "",
+      "etos_idrysis": 2000,
+      "wikidata": "Q131408519"
+    },
+    {
+      "onoma": "Heaven Music",
+      "edra": "",
+      "etos_idrysis": 2001,
+      "wikidata": "Q5102092"
+    },
+    {
+      "onoma": "Cantini",
+      "edra": "",
+      "etos_idrysis": 2002,
+      "wikidata": "Q114839359"
+    },
+    {
+      "onoma": "Subways Music",
+      "edra": "Δήμος Βριλησσίων",
+      "etos_idrysis": 2003,
+      "wikidata": "Q63325650"
+    },
+    {
+      "onoma": "Irida Music",
+      "edra": "",
+      "etos_idrysis": 2005,
+      "wikidata": "Q131180097"
+    },
+    {
+      "onoma": "Spicy Music",
+      "edra": "",
+      "etos_idrysis": 2009,
+      "wikidata": "Q7765838"
+    },
+    {
+      "onoma": "Lobby Music",
+      "edra": "",
+      "etos_idrysis": 2010,
+      "wikidata": "Q25340880"
+    },
+    {
+      "onoma": "Panik Records",
+      "edra": "Βούλα Αττικής",
+      "etos_idrysis": 2011,
+      "wikidata": "Q12871969"
+    },
+    {
+      "onoma": "Ogdoo Music Group",
+      "edra": "",
+      "etos_idrysis": 2011,
+      "wikidata": "Q131386731"
+    },
+    {
+      "onoma": "Feelgood Records",
+      "edra": "",
+      "etos_idrysis": 2013,
+      "wikidata": "Q104414178"
+    },
+    {
+      "onoma": "Spider Music",
+      "edra": "",
+      "etos_idrysis": 2015,
+      "wikidata": "Q131756496"
+    },
+    {
+      "onoma": "Phasma-Music",
+      "edra": "",
+      "etos_idrysis": 2017,
+      "wikidata": "Q135997070"
+    },
+    {
+      "onoma": "Walnut Entertainment",
+      "edra": "",
+      "etos_idrysis": 2019,
+      "wikidata": "Q124799902"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικές δισκογραφικές εταιρείες - Free Download",
+    "description": "Δισκογραφικές εταιρείες της Ελλάδας με έδρα και έτος ίδρυσης, σύμφωνα με τα Wikidata. Contains 38 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικές δισκογραφικές εταιρείες | ListBase",
+    "seo_description": "Download Ελληνικές δισκογραφικές εταιρείες — 38 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 38 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Q18127"
+    ]
+  }
+}
