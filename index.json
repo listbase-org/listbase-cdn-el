@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-18T02:23:12.207Z",
-  "total_datasets": 520,
-  "total_records": 202386,
+  "generated": "2026-11-18T02:23:24.498Z",
+  "total_datasets": 521,
+  "total_records": 202410,
   "categories": [
     {
       "id": "agriculture",
@@ -58,7 +58,7 @@
     },
     {
       "id": "music",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "politics",
@@ -5873,6 +5873,31 @@
         "xlsx": {
           "name": "el-ellada-sti-eurovision_EL.xlsx",
           "size": 10493
+        }
+      }
+    },
+    {
+      "id": "el-ellinikes-orchistres",
+      "name": "Ελληνικές ορχήστρες και φιλαρμονικές",
+      "category": "music",
+      "record_count": 24,
+      "columns": [
+        "onoma",
+        "edra",
+        "etos_idrysis",
+        "wikidata"
+      ],
+      "source": "https://www.wikidata.org/wiki/Q42998",
+      "updated": "2026-11",
+      "size": 6115,
+      "files": {
+        "csv": {
+          "name": "el-ellinikes-orchistres_EL.csv",
+          "size": 2308
+        },
+        "xlsx": {
+          "name": "el-ellinikes-orchistres_EL.xlsx",
+          "size": 7968
         }
       }
     },

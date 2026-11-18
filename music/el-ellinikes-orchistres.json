@@ -1,0 +1,190 @@
+{
+  "id": "el-ellinikes-orchistres",
+  "name": "Ελληνικές ορχήστρες και φιλαρμονικές",
+  "title": "Ελληνικές ορχήστρες και φιλαρμονικές",
+  "description": "Συμφωνικές ορχήστρες, φιλαρμονικές και μουσικά σύνολα της Ελλάδας με έδρα και έτος ίδρυσης, σύμφωνα με τα Wikidata.",
+  "category": "music",
+  "source": "https://www.wikidata.org/wiki/Q42998",
+  "source_url": "https://www.wikidata.org/wiki/Q42998",
+  "updated": "2026-11",
+  "record_count": 24,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "edra",
+      "label": "Edra",
+      "type": "string"
+    },
+    {
+      "key": "etos_idrysis",
+      "label": "Etos Idrysis",
+      "type": "number"
+    },
+    {
+      "key": "wikidata",
+      "label": "Wikidata",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Ορχήστρα Νέων Δίου",
+      "edra": "Δίον Πιερίας",
+      "etos_idrysis": "",
+      "wikidata": "Q12882362"
+    },
+    {
+      "onoma": "Αθηναϊκή Συμφωνική Ορχήστρα Νέων",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q18234056"
+    },
+    {
+      "onoma": "Μικτή Ορχήστρα Αθηνών",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q63078444"
+    },
+    {
+      "onoma": "Ορχήστρα των Κυκλάδων",
+      "edra": "",
+      "etos_idrysis": "",
+      "wikidata": "Q65651874"
+    },
+    {
+      "onoma": "Φιλαρμονική Εταιρεία Κέρκυρας",
+      "edra": "Κέρκυρα",
+      "etos_idrysis": 1840,
+      "wikidata": "Q7183050"
+    },
+    {
+      "onoma": "Φιλαρμονική Ορχήστρα Δήμου Αθηναίων",
+      "edra": "Αθήνα",
+      "etos_idrysis": 1885,
+      "wikidata": "Q104359175"
+    },
+    {
+      "onoma": "Φιλαρμονική Εταιρεία Μάντζαρος",
+      "edra": "",
+      "etos_idrysis": 1890,
+      "wikidata": "Q104537116"
+    },
+    {
+      "onoma": "Εθνική Συμφωνική Ορχήστρα της ΕΡΤ",
+      "edra": "",
+      "etos_idrysis": 1938,
+      "wikidata": "Q104205862"
+    },
+    {
+      "onoma": "Ορχήστρα Εθνικής Λυρικής Σκηνής",
+      "edra": "",
+      "etos_idrysis": 1939,
+      "wikidata": "Q106655900"
+    },
+    {
+      "onoma": "Κρατική Ορχήστρα Αθηνών",
+      "edra": "Μέγαρο Μουσικής Αθηνών",
+      "etos_idrysis": 1942,
+      "wikidata": "Q108678151"
+    },
+    {
+      "onoma": "Ορχήστρα Σύγχρονης Μουσικής της ΕΡΤ",
+      "edra": "",
+      "etos_idrysis": 1954,
+      "wikidata": "Q104205895"
+    },
+    {
+      "onoma": "Κρατική Ορχήστρα Θεσσαλονίκης",
+      "edra": "Θεσσαλονίκη",
+      "etos_idrysis": 1959,
+      "wikidata": "Q104413100"
+    },
+    {
+      "onoma": "Φιλαρμονική Σιναράδων",
+      "edra": "Σιναράδες Κέρκυρας",
+      "etos_idrysis": 1961,
+      "wikidata": "Q136388936"
+    },
+    {
+      "onoma": "Φιλαρμονική Λιαπάδων",
+      "edra": "Λιαπάδες Κέρκυρας",
+      "etos_idrysis": 1974,
+      "wikidata": "Q136670454"
+    },
+    {
+      "onoma": "Φιλαρμονική Ένωση Καποδίστριας",
+      "edra": "",
+      "etos_idrysis": 1980,
+      "wikidata": "Q136670424"
+    },
+    {
+      "onoma": "Ορχήστρα των Χρωμάτων",
+      "edra": "",
+      "etos_idrysis": 1989,
+      "wikidata": "Q3355296"
+    },
+    {
+      "onoma": "Καμεράτα - Ορχήστρα των Φίλων της Μουσικής",
+      "edra": "Δήμος Αθηναίων",
+      "etos_idrysis": 1991,
+      "wikidata": "Q61959089"
+    },
+    {
+      "onoma": "Συμφωνική Ορχήστρα Δήμου Αθηναίων",
+      "edra": "",
+      "etos_idrysis": 1996,
+      "wikidata": "Q104373346"
+    },
+    {
+      "onoma": "Εστουδιαντίνα Νέας Ιωνίας",
+      "edra": "",
+      "etos_idrysis": 1998,
+      "wikidata": "Q16332009"
+    },
+    {
+      "onoma": "Συμφωνική Ορχήστρα Αριστοτελείου Πανεπιστημίου Θεσσαλονίκης",
+      "edra": "",
+      "etos_idrysis": 1999,
+      "wikidata": "Q135285167"
+    },
+    {
+      "onoma": "Camerata Junior - Ορχήστρα Νέων των Φίλων της Μουσικής",
+      "edra": "Δήμος Αθηναίων",
+      "etos_idrysis": 2010,
+      "wikidata": "Q79747311"
+    },
+    {
+      "onoma": "Φιλαρμόνια Ορχήστρα Αθηνών",
+      "edra": "Άλιμος",
+      "etos_idrysis": 2016,
+      "wikidata": "Q104370502"
+    },
+    {
+      "onoma": "Ελληνική Συμφωνική Ορχήστρα Νέων",
+      "edra": "Μέγαρο Μουσικής Αθηνών",
+      "etos_idrysis": 2017,
+      "wikidata": "Q104176173"
+    },
+    {
+      "onoma": "Φιλαρμονική Ορχήστρα Αθηνών",
+      "edra": "Αθήνα",
+      "etos_idrysis": 2018,
+      "wikidata": "Q106689942"
+    }
+  ],
+  "meta": {
+    "title": "Ελληνικές ορχήστρες και φιλαρμονικές - Free Download",
+    "description": "Συμφωνικές ορχήστρες, φιλαρμονικές και μουσικά σύνολα της Ελλάδας με έδρα και έτος ίδρυσης, σύμφωνα με τα Wikidata. Contains 24 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ελληνικές ορχήστρες και φιλαρμονικές | ListBase",
+    "seo_description": "Download Ελληνικές ορχήστρες και φιλαρμονικές — 24 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 24 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://www.wikidata.org/wiki/Q42998"
+    ]
+  }
+}
