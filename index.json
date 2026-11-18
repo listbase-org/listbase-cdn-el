@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-17T02:21:41.134Z",
-  "total_datasets": 519,
-  "total_records": 202355,
+  "generated": "2026-11-18T02:23:12.207Z",
+  "total_datasets": 520,
+  "total_records": 202386,
   "categories": [
     {
       "id": "agriculture",
@@ -38,7 +38,7 @@
     },
     {
       "id": "geography",
-      "dataset_count": 22
+      "dataset_count": 23
     },
     {
       "id": "health",
@@ -4902,6 +4902,31 @@
         "xlsx": {
           "name": "el-piges_EL.xlsx",
           "size": 8716
+        }
+      }
+    },
+    {
+      "id": "el-potamoi-elladas",
+      "name": "Κατάλογος ποταμών της Ελλάδας",
+      "category": "geography",
+      "record_count": 31,
+      "columns": [
+        "potamos",
+        "mikos_km",
+        "kyries_piges",
+        "ekvoles"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ποταμών_της_Ελλάδας",
+      "updated": "2026-11",
+      "size": 7053,
+      "files": {
+        "csv": {
+          "name": "el-potamoi-elladas_EL.csv",
+          "size": 2495
+        },
+        "xlsx": {
+          "name": "el-potamoi-elladas_EL.xlsx",
+          "size": 8345
         }
       }
     },

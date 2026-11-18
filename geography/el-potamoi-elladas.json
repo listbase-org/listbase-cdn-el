@@ -1,0 +1,232 @@
+{
+  "id": "el-potamoi-elladas",
+  "name": "Κατάλογος ποταμών της Ελλάδας",
+  "title": "Κατάλογος ποταμών της Ελλάδας",
+  "description": "Οι μεγαλύτεροι ποταμοί της Ελλάδας με μήκος (σε χλμ.), κύριες πηγές και εκβολές.",
+  "category": "geography",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_ποταμών_της_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_ποταμών_της_Ελλάδας",
+  "updated": "2026-11",
+  "record_count": 31,
+  "columns": [
+    {
+      "key": "potamos",
+      "label": "Potamos",
+      "type": "string"
+    },
+    {
+      "key": "mikos_km",
+      "label": "Mikos Km",
+      "type": "number"
+    },
+    {
+      "key": "kyries_piges",
+      "label": "Kyries Piges",
+      "type": "string"
+    },
+    {
+      "key": "ekvoles",
+      "label": "Ekvoles",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "potamos": "Αλιάκμονας",
+      "mikos_km": "299",
+      "kyries_piges": "Γράμμος",
+      "ekvoles": "Θερμαϊκός"
+    },
+    {
+      "potamos": "Αχελώος",
+      "mikos_km": "220",
+      "kyries_piges": "Βόρεια Πίνδος",
+      "ekvoles": "Ιόνιο"
+    },
+    {
+      "potamos": "Πηνειός (Θεσσαλικός)",
+      "mikos_km": "205",
+      "kyries_piges": "Βόρεια Πίνδος",
+      "ekvoles": "Θερμαϊκός"
+    },
+    {
+      "potamos": "Έβρος",
+      "mikos_km": "204 (480)",
+      "kyries_piges": "Ρίλα, Βουλγαρία",
+      "ekvoles": "Θρακικό"
+    },
+    {
+      "potamos": "Νέστος",
+      "mikos_km": "130 (243)",
+      "kyries_piges": "Ρίλα, Βουλγαρία",
+      "ekvoles": "Θρακικό"
+    },
+    {
+      "potamos": "Στρυμόνας",
+      "mikos_km": "118 (392)",
+      "kyries_piges": "Βιτόσα, Βουλγαρία",
+      "ekvoles": "Στρυμονικός"
+    },
+    {
+      "potamos": "Θύαμις (Καλαμάς)",
+      "mikos_km": "115",
+      "kyries_piges": "Δούσκο",
+      "ekvoles": "Ιόνιο"
+    },
+    {
+      "potamos": "Αλφειός",
+      "mikos_km": "110",
+      "kyries_piges": "Όρη Αρκαδίας",
+      "ekvoles": "Ιόνιο"
+    },
+    {
+      "potamos": "Άραχθος",
+      "mikos_km": "110",
+      "kyries_piges": "Βόρεια Πίνδος",
+      "ekvoles": "Αμβρακικός"
+    },
+    {
+      "potamos": "Ενιπέας (Θεσσαλικός)",
+      "mikos_km": "84",
+      "kyries_piges": "Όθρυς",
+      "ekvoles": "Πηνειός (Θεσσαλικός)"
+    },
+    {
+      "potamos": "Ευρώτας",
+      "mikos_km": "82",
+      "kyries_piges": "Πάρνωνας, Αν.Ταΰγετος",
+      "ekvoles": "Λακωνικός"
+    },
+    {
+      "potamos": "Λούρος",
+      "mikos_km": "80",
+      "kyries_piges": "Τόμαρος",
+      "ekvoles": "Αμβρακικός"
+    },
+    {
+      "potamos": "Σπερχειός",
+      "mikos_km": "80",
+      "kyries_piges": "Τυμφρηστός",
+      "ekvoles": "Μαλιακός"
+    },
+    {
+      "potamos": "Εύηνος",
+      "mikos_km": "80",
+      "kyries_piges": "Βαρδούσια",
+      "ekvoles": "Πατραϊκός"
+    },
+    {
+      "potamos": "Ταυρωπός (Μέγδοβας)",
+      "mikos_km": "78",
+      "kyries_piges": "Άγραφα",
+      "ekvoles": "Αχελώος"
+    },
+    {
+      "potamos": "Αξιός",
+      "mikos_km": "76 (380)",
+      "kyries_piges": "Σκάρδος, Σκόπια Σκόπια",
+      "ekvoles": "Θερμαϊκός"
+    },
+    {
+      "potamos": "Αώος",
+      "mikos_km": "70 (260)",
+      "kyries_piges": "Λύγκος, Βόρεια Πίνδος",
+      "ekvoles": "Αδριατική"
+    },
+    {
+      "potamos": "Γαλλικός",
+      "mikos_km": "70",
+      "kyries_piges": "Κρούσσια όρη",
+      "ekvoles": "Θερμαϊκός"
+    },
+    {
+      "potamos": "Λάδωνας",
+      "mikos_km": "70",
+      "kyries_piges": "Αροάνια",
+      "ekvoles": "Αλφειός"
+    },
+    {
+      "potamos": "Μόρνος",
+      "mikos_km": "70",
+      "kyries_piges": "Οίτη",
+      "ekvoles": "Κορινθιακός"
+    },
+    {
+      "potamos": "Πηνειός (Πελοποννησιακός)",
+      "mikos_km": "70",
+      "kyries_piges": "Ερύμανθος",
+      "ekvoles": "Ιόνιο"
+    },
+    {
+      "potamos": "Κομψάτος",
+      "mikos_km": "68",
+      "kyries_piges": "Δυτική Ροδόπη",
+      "ekvoles": "Βιστονίδα"
+    },
+    {
+      "potamos": "Λουδίας",
+      "mikos_km": "60",
+      "kyries_piges": "Πάικο",
+      "ekvoles": "Θερμαϊκός"
+    },
+    {
+      "potamos": "Κηφισός (Βοιωτικός)",
+      "mikos_km": "60",
+      "kyries_piges": "Γκιώνα",
+      "ekvoles": "Υλίκη"
+    },
+    {
+      "potamos": "Λίσσος (Φιλιούρης)",
+      "mikos_km": "58",
+      "kyries_piges": "Ανατολική Ροδόπη",
+      "ekvoles": "Όρμος Ανοιχτό, Θρακικό"
+    },
+    {
+      "potamos": "Ασωπός",
+      "mikos_km": "57",
+      "kyries_piges": "Κιθαιρώνας",
+      "ekvoles": "Νότιος Ευβοϊκός"
+    },
+    {
+      "potamos": "Κόσυνθος",
+      "mikos_km": "55",
+      "kyries_piges": "Κούλα (Χαϊντού)",
+      "ekvoles": "Βιστονίδα"
+    },
+    {
+      "potamos": "Τάνος",
+      "mikos_km": "65",
+      "kyries_piges": "Πάρνωνας (Μαλεβός)",
+      "ekvoles": "Θυρεατικός"
+    },
+    {
+      "potamos": "Άρδας",
+      "mikos_km": "49 (290)",
+      "kyries_piges": "Στάμνα Οροσειράς Κούλας, Ροδόπη (Βουλγαρία)",
+      "ekvoles": "Έβρος"
+    },
+    {
+      "potamos": "Πάμισος",
+      "mikos_km": "44",
+      "kyries_piges": "Όρος Λύκαιο, Καρστικές Πηγές Αγίου Φλώρου",
+      "ekvoles": "Μεσσηνιακός"
+    },
+    {
+      "potamos": "Κηφισός (Αττικός)",
+      "mikos_km": "27",
+      "kyries_piges": "Πεντέλη, Πάρνηθα",
+      "ekvoles": "Φαληρικός"
+    }
+  ],
+  "meta": {
+    "title": "Κατάλογος ποταμών της Ελλάδας - Free Download",
+    "description": "Οι μεγαλύτεροι ποταμοί της Ελλάδας με μήκος (σε χλμ.), κύριες πηγές και εκβολές. Contains 31 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Κατάλογος ποταμών της Ελλάδας | ListBase",
+    "seo_description": "Download Κατάλογος ποταμών της Ελλάδας — 31 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 31 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_ποταμών_της_Ελλάδας"
+    ]
+  }
+}
