@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-19T02:25:31.035Z",
-  "total_datasets": 523,
-  "total_records": 202458,
+  "generated": "2026-11-19T02:25:41.738Z",
+  "total_datasets": 524,
+  "total_records": 202469,
   "categories": [
     {
       "id": "agriculture",
@@ -30,7 +30,7 @@
     },
     {
       "id": "finance",
-      "dataset_count": 55
+      "dataset_count": 56
     },
     {
       "id": "food",
@@ -2680,6 +2680,31 @@
         "xlsx": {
           "name": "el-chania-meses-times-kausimon_EL.xlsx",
           "size": 17463
+        }
+      }
+    },
+    {
+      "id": "el-chartonomismata-drachmis-1964-2002",
+      "name": "Χαρτονομίσματα της δραχμής 1964–2002",
+      "category": "finance",
+      "record_count": 11,
+      "columns": [
+        "axia",
+        "kykloforia",
+        "opsi_1",
+        "opsi_2"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Δραχμή",
+      "updated": "2026-11",
+      "size": 3971,
+      "files": {
+        "csv": {
+          "name": "el-chartonomismata-drachmis-1964-2002_EL.csv",
+          "size": 1222
+        },
+        "xlsx": {
+          "name": "el-chartonomismata-drachmis-1964-2002_EL.xlsx",
+          "size": 7501
         }
       }
     },
