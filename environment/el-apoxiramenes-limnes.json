@@ -1,0 +1,106 @@
+{
+  "id": "el-apoxiramenes-limnes",
+  "name": "Αποξηραμένες λίμνες της Ελλάδας",
+  "title": "Αποξηραμένες λίμνες της Ελλάδας",
+  "description": "Λίμνες της Ελλάδας που αποξηράνθηκαν (π.χ. Κωπαΐδα, Γιαννιτσών, Αχινού), με γεωγραφικό διαμέρισμα, έτος αποξήρανσης και τι υπάρχει σήμερα στη θέση τους.",
+  "category": "environment",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_λιμνών_της_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_λιμνών_της_Ελλάδας",
+  "updated": "2026-11",
+  "record_count": 10,
+  "columns": [
+    {
+      "key": "onomasia",
+      "label": "Onomasia",
+      "type": "string"
+    },
+    {
+      "key": "geografiko_diamerisma",
+      "label": "Geografiko Diamerisma",
+      "type": "string"
+    },
+    {
+      "key": "etos_apoxiransis",
+      "label": "Etos Apoxiransis",
+      "type": "number"
+    },
+    {
+      "key": "simera",
+      "label": "Simera",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onomasia": "Αιματόβου",
+      "geografiko_diamerisma": "Μακεδονία (Πιερία)",
+      "etos_apoxiransis": "",
+      "simera": ""
+    },
+    {
+      "onomasia": "Ασκουρίδα",
+      "geografiko_diamerisma": "Θεσσαλία (Λάρισα)",
+      "etos_apoxiransis": "",
+      "simera": ""
+    },
+    {
+      "onomasia": "Αχινού (Ταχινού ή Κερκινίτιδα)",
+      "geografiko_diamerisma": "Μακεδονία (Σέρρες)",
+      "etos_apoxiransis": 1930,
+      "simera": "Τμήμα του Κάμπου των Σερρών"
+    },
+    {
+      "onomasia": "Γιαννιτσών",
+      "geografiko_diamerisma": "Μακεδονία (Πέλλα & Θεσσαλονίκη - σήμερα Ημαθία)",
+      "etos_apoxiransis": 1932,
+      "simera": "Τμήμα του Κάμπου Γιαννιτσών Θεσσαλονίκης"
+    },
+    {
+      "onomasia": "Δύστου",
+      "geografiko_diamerisma": "Στερεά Ελλάδα (Εύβοια)",
+      "etos_apoxiransis": "",
+      "simera": ""
+    },
+    {
+      "onomasia": "Κωπαΐδα",
+      "geografiko_diamerisma": "Στερεά Ελλάδα (Βοιωτία)",
+      "etos_apoxiransis": 1954,
+      "simera": "Τμήμα του Κάμπου της Κωπαιδας"
+    },
+    {
+      "onomasia": "Νεσσωνίς",
+      "geografiko_diamerisma": "Θεσσαλία (Λάρισα)",
+      "etos_apoxiransis": "",
+      "simera": ""
+    },
+    {
+      "onomasia": "Πρασιάδα",
+      "geografiko_diamerisma": "Μακεδονία (Καβάλα, Δράμα)",
+      "etos_apoxiransis": 1935,
+      "simera": ""
+    },
+    {
+      "onomasia": "Ξυνιάδα",
+      "geografiko_diamerisma": "Στερεά Ελλάδα (Φθιώτιδα)",
+      "etos_apoxiransis": "",
+      "simera": ""
+    },
+    {
+      "onomasia": "Φενεού",
+      "geografiko_diamerisma": "Πελοπόννησος (Κορινθία)",
+      "etos_apoxiransis": "",
+      "simera": "Κάμπος του Φενεού"
+    }
+  ],
+  "meta": {
+    "title": "Αποξηραμένες λίμνες της Ελλάδας - Free Download",
+    "description": "Λίμνες της Ελλάδας που αποξηράνθηκαν (π.χ. Κωπαΐδα, Γιαννιτσών, Αχινού), με γεωγραφικό διαμέρισμα, έτος αποξήρανσης και τι υπάρχει σήμερα στη θέση τους. Contains 10 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Αποξηραμένες λίμνες της Ελλάδας | ListBase",
+    "seo_description": "Download Αποξηραμένες λίμνες της Ελλάδας — 10 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 10 records / 4 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_λιμνών_της_Ελλάδας"
+    ]
+  }
+}

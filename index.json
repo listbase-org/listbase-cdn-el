@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-18T02:23:36.057Z",
-  "total_datasets": 522,
-  "total_records": 202448,
+  "generated": "2026-11-19T02:25:31.035Z",
+  "total_datasets": 523,
+  "total_records": 202458,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 6
+      "dataset_count": 7
     },
     {
       "id": "finance",
@@ -2167,6 +2167,31 @@
         "xlsx": {
           "name": "el-ypovoles-oskar-diethnous-tainias_EL.xlsx",
           "size": 8982
+        }
+      }
+    },
+    {
+      "id": "el-apoxiramenes-limnes",
+      "name": "Αποξηραμένες λίμνες της Ελλάδας",
+      "category": "environment",
+      "record_count": 10,
+      "columns": [
+        "onomasia",
+        "geografiko_diamerisma",
+        "etos_apoxiransis",
+        "simera"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_λιμνών_της_Ελλάδας",
+      "updated": "2026-11",
+      "size": 4165,
+      "files": {
+        "csv": {
+          "name": "el-apoxiramenes-limnes_EL.csv",
+          "size": 1034
+        },
+        "xlsx": {
+          "name": "el-apoxiramenes-limnes_EL.xlsx",
+          "size": 7356
         }
       }
     },
