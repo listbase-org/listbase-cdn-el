@@ -1,0 +1,251 @@
+{
+  "id": "el-isotimia-drachmis-dollariou-1960-2001",
+  "name": "Ισοτιμία δραχμής – δολαρίου ΗΠΑ 1960–2001",
+  "title": "Ισοτιμία δραχμής – δολαρίου ΗΠΑ 1960–2001",
+  "description": "Ετήσια ισοτιμία της ελληνικής δραχμής έναντι του δολαρίου ΗΠΑ και ισοτιμία αγοραστικής δύναμης (PPP) για την περίοδο 1960–2001.",
+  "category": "economy",
+  "source": "https://el.wikipedia.org/wiki/Δραχμή",
+  "source_url": "https://el.wikipedia.org/wiki/Δραχμή",
+  "updated": "2026-11",
+  "record_count": 42,
+  "columns": [
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "drachmes_ana_dollario",
+      "label": "Drachmes Ana Dollario",
+      "type": "number"
+    },
+    {
+      "key": "isotimia_agorastikis_dynamis_ppp",
+      "label": "Isotimia Agorastikis Dynamis Ppp",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "etos": 1960,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 18.99
+    },
+    {
+      "etos": 1961,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 14.8
+    },
+    {
+      "etos": 1962,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 15.14
+    },
+    {
+      "etos": 1963,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 15.09
+    },
+    {
+      "etos": 1964,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 15.33
+    },
+    {
+      "etos": 1965,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 15.52
+    },
+    {
+      "etos": 1966,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 15.74
+    },
+    {
+      "etos": 1967,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 15.63
+    },
+    {
+      "etos": 1968,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 15.12
+    },
+    {
+      "etos": 1969,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 14.84
+    },
+    {
+      "etos": 1970,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 14.34
+    },
+    {
+      "etos": 1971,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 14.06
+    },
+    {
+      "etos": 1972,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 14.15
+    },
+    {
+      "etos": 1973,
+      "drachmes_ana_dollario": 29.63,
+      "isotimia_agorastikis_dynamis_ppp": 16.23
+    },
+    {
+      "etos": 1974,
+      "drachmes_ana_dollario": 30,
+      "isotimia_agorastikis_dynamis_ppp": 18.29
+    },
+    {
+      "etos": 1975,
+      "drachmes_ana_dollario": 32.05,
+      "isotimia_agorastikis_dynamis_ppp": 18.93
+    },
+    {
+      "etos": 1976,
+      "drachmes_ana_dollario": 36.52,
+      "isotimia_agorastikis_dynamis_ppp": 20.9
+    },
+    {
+      "etos": 1977,
+      "drachmes_ana_dollario": 36.84,
+      "isotimia_agorastikis_dynamis_ppp": 22.38
+    },
+    {
+      "etos": 1978,
+      "drachmes_ana_dollario": 36.75,
+      "isotimia_agorastikis_dynamis_ppp": 23.8
+    },
+    {
+      "etos": 1979,
+      "drachmes_ana_dollario": 37.04,
+      "isotimia_agorastikis_dynamis_ppp": 26.41
+    },
+    {
+      "etos": 1980,
+      "drachmes_ana_dollario": 42.62,
+      "isotimia_agorastikis_dynamis_ppp": 28.89
+    },
+    {
+      "etos": 1981,
+      "drachmes_ana_dollario": 55.41,
+      "isotimia_agorastikis_dynamis_ppp": 32.13
+    },
+    {
+      "etos": 1982,
+      "drachmes_ana_dollario": 66.8,
+      "isotimia_agorastikis_dynamis_ppp": 38.49
+    },
+    {
+      "etos": 1983,
+      "drachmes_ana_dollario": 88.06,
+      "isotimia_agorastikis_dynamis_ppp": 44.66
+    },
+    {
+      "etos": 1984,
+      "drachmes_ana_dollario": 112.72,
+      "isotimia_agorastikis_dynamis_ppp": 52.58
+    },
+    {
+      "etos": 1985,
+      "drachmes_ana_dollario": 138.12,
+      "isotimia_agorastikis_dynamis_ppp": 60.64
+    },
+    {
+      "etos": 1986,
+      "drachmes_ana_dollario": 139.98,
+      "isotimia_agorastikis_dynamis_ppp": 70.67
+    },
+    {
+      "etos": 1987,
+      "drachmes_ana_dollario": 135.43,
+      "isotimia_agorastikis_dynamis_ppp": 79.42
+    },
+    {
+      "etos": 1988,
+      "drachmes_ana_dollario": 141.86,
+      "isotimia_agorastikis_dynamis_ppp": 89.53
+    },
+    {
+      "etos": 1989,
+      "drachmes_ana_dollario": 162.42,
+      "isotimia_agorastikis_dynamis_ppp": 98.68
+    },
+    {
+      "etos": 1990,
+      "drachmes_ana_dollario": 158.51,
+      "isotimia_agorastikis_dynamis_ppp": 114.84
+    },
+    {
+      "etos": 1991,
+      "drachmes_ana_dollario": 182.27,
+      "isotimia_agorastikis_dynamis_ppp": 133.14
+    },
+    {
+      "etos": 1992,
+      "drachmes_ana_dollario": 190.62,
+      "isotimia_agorastikis_dynamis_ppp": 149.43
+    },
+    {
+      "etos": 1993,
+      "drachmes_ana_dollario": 229.25,
+      "isotimia_agorastikis_dynamis_ppp": 167.02
+    },
+    {
+      "etos": 1994,
+      "drachmes_ana_dollario": 242.6,
+      "isotimia_agorastikis_dynamis_ppp": 181.83
+    },
+    {
+      "etos": 1995,
+      "drachmes_ana_dollario": 231.66,
+      "isotimia_agorastikis_dynamis_ppp": 195.55
+    },
+    {
+      "etos": 1996,
+      "drachmes_ana_dollario": 240.71,
+      "isotimia_agorastikis_dynamis_ppp": 206.38
+    },
+    {
+      "etos": 1997,
+      "drachmes_ana_dollario": 273.06,
+      "isotimia_agorastikis_dynamis_ppp": 214.92
+    },
+    {
+      "etos": 1998,
+      "drachmes_ana_dollario": 295.53,
+      "isotimia_agorastikis_dynamis_ppp": 225.82
+    },
+    {
+      "etos": 1999,
+      "drachmes_ana_dollario": 305.65,
+      "isotimia_agorastikis_dynamis_ppp": 231.92
+    },
+    {
+      "etos": 2000,
+      "drachmes_ana_dollario": 365.4,
+      "isotimia_agorastikis_dynamis_ppp": 230.96
+    },
+    {
+      "etos": 2001,
+      "drachmes_ana_dollario": 380.79,
+      "isotimia_agorastikis_dynamis_ppp": 228.44
+    }
+  ],
+  "meta": {
+    "title": "Ισοτιμία δραχμής – δολαρίου ΗΠΑ 1960–2001 - Free Download",
+    "description": "Ετήσια ισοτιμία της ελληνικής δραχμής έναντι του δολαρίου ΗΠΑ και ισοτιμία αγοραστικής δύναμης (PPP) για την περίοδο 1960–2001. Contains 42 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ισοτιμία δραχμής – δολαρίου ΗΠΑ 1960–2001 | ListBase",
+    "seo_description": "Download Ισοτιμία δραχμής – δολαρίου ΗΠΑ 1960–2001 — 42 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 42 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Δραχμή"
+    ]
+  }
+}

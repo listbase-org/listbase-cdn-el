@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-19T02:25:41.738Z",
-  "total_datasets": 524,
-  "total_records": 202469,
+  "generated": "2026-11-19T02:25:52.923Z",
+  "total_datasets": 525,
+  "total_records": 202511,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "education",
@@ -1645,6 +1645,30 @@
         "xlsx": {
           "name": "el-dioikites-trapezas-ellados_EL.xlsx",
           "size": 7722
+        }
+      }
+    },
+    {
+      "id": "el-isotimia-drachmis-dollariou-1960-2001",
+      "name": "Ισοτιμία δραχμής – δολαρίου ΗΠΑ 1960–2001",
+      "category": "economy",
+      "record_count": 42,
+      "columns": [
+        "etos",
+        "drachmes_ana_dollario",
+        "isotimia_agorastikis_dynamis_ppp"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Δραχμή",
+      "updated": "2026-11",
+      "size": 6903,
+      "files": {
+        "csv": {
+          "name": "el-isotimia-drachmis-dollariou-1960-2001_EL.csv",
+          "size": 1016
+        },
+        "xlsx": {
+          "name": "el-isotimia-drachmis-dollariou-1960-2001_EL.xlsx",
+          "size": 7590
         }
       }
     },
