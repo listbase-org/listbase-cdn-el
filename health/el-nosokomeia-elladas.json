@@ -1,0 +1,1234 @@
+{
+  "id": "el-nosokomeia-elladas",
+  "name": "Νοσοκομεία της Ελλάδας",
+  "title": "Νοσοκομεία της Ελλάδας",
+  "description": "Κατάλογος δημόσιων, στρατιωτικών και ιδιωτικών νοσοκομείων και κλινικών της Ελλάδας ανά περιφέρεια, με την περιοχή και το έτος ίδρυσης, καθώς και πρώην νοσοκομεία με την περίοδο λειτουργίας τους.",
+  "category": "health",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_νοσοκομείων_της_Ελλάδας",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_νοσοκομείων_της_Ελλάδας",
+  "updated": "2026-11",
+  "record_count": 169,
+  "columns": [
+    {
+      "key": "onomasia",
+      "label": "Onomasia",
+      "type": "string"
+    },
+    {
+      "key": "perioxi",
+      "label": "Perioxi",
+      "type": "string"
+    },
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "katigoria",
+      "label": "Katigoria",
+      "type": "string"
+    },
+    {
+      "key": "idrysi_i_periodos_leitourgias",
+      "label": "Idrysi I Periodos Leitourgias",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "onomasia": "251 Γενικό Νοσοκομείο Αεροπορίας (ΓΝΑ)",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1945"
+    },
+    {
+      "onomasia": "401 Γενικό Στρατιωτικό Νοσοκομείο Αθηνών (ΓΣΝΑ)",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1904"
+    },
+    {
+      "onomasia": "414 Στρατιωτικό Νοσοκομείο Ειδικών Νοσημάτων (ΣΝΕΝ)",
+      "perioxi": "Πεντέλη",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1952"
+    },
+    {
+      "onomasia": "417 Νοσηλευτικό Ίδρυμα Μετοχικού Ταμείου Στρατού (ΝΙΜΤΣ)",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1942"
+    },
+    {
+      "onomasia": "Αντικαρκινικό Νοσοκομείων Αθηνών «Άγιος Σάββας»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1935"
+    },
+    {
+      "onomasia": "Γενικό Κρατικό Νοσοκομείο Αθηνών «Γεώργιος Γεννηματάς»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1958"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κυθήρων «Τριφύλλειο»",
+      "perioxi": "Κύθηρα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Γενικο Νοσοκομείο «Έλενα Βενιζέλου»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1933"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αθηνών «Αλεξάνδρα»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1954"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αθηνών «Η Ελπίς»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1842"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ελευσίνας «Θριάσιο»",
+      "perioxi": "Μαγούλα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1995"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Νίκαιας Πειραιά «Άγιος Παντελεήμων»",
+      "perioxi": "Νίκαια",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1952"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Παίδων «Η Αγία Σοφία»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1901"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Παίδων Αθηνών «Παναγιώτη και Αγλαΐας Κυριακού»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1938"
+    },
+    {
+      "onomasia": "Εθνικό Κέντρο Αποκατάστασης",
+      "perioxi": "Καματερό",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1945"
+    },
+    {
+      "onomasia": "Ευγενίδειο Θεραπευτήριο",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1975"
+    },
+    {
+      "onomasia": "Καρδιοχειρουργικό Κέντρο Αθηνών \"Ωνάσειο\"",
+      "perioxi": "Καλλιθέα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1992"
+    },
+    {
+      "onomasia": "Κέντρο Ημερήσιας Νοσηλείας «Νίκος Κούρκουλος» (πρώην 6ο Νοσοκομείο ΙΚΑ)",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "2017"
+    },
+    {
+      "onomasia": "Κέντρο Υγείας Πατησίων",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "2018"
+    },
+    {
+      "onomasia": "Ναυτικό Νοσοκομείο Αθηνών (ΝΝΑ)",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1869"
+    },
+    {
+      "onomasia": "Ναυτικό Νοσοκομείο Πειραιώς (ΝΝΠ)",
+      "perioxi": "Πειραιάς",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1924"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών \"Αγία Ελένη-Σπηλιοπούλειο\"",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1916"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών \"Άγιοι Ανάργυροι\"",
+      "perioxi": "Κηφισιά",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1969"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών \"Αιγινήτειο\"",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1904"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών \"Αμαλία Φλέμινγκ\"",
+      "perioxi": "Μελίσσια",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1986"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών \"Ανδρέας Συγγρός\"",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1910"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών \"Αρεταίειο\"",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1898"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών \"Αττικό\"",
+      "perioxi": "Χαϊδάρι",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "2002"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αθηνών «Ο Ευαγγελισμός»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1884"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών «Ιπποκράτειον»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1922"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αθηνών «Λαϊκό»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1933"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών «Μεταξά»",
+      "perioxi": "Πειραιάς",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1967"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών «Παμμακάριστος»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών «Σισμανόγλειο»",
+      "perioxi": "Μαρούσι",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1936"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Νοσημάτων Θώρακος Αθηνών «Η Σωτηρία»",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1902"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αθηνών «Τζάνειο»",
+      "perioxi": "Πειραιάς",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1873"
+    },
+    {
+      "onomasia": "Νοσοκομείο Βούλας Αττικής \"Ασκληπιείο Βούλας\"",
+      "perioxi": "Βούλα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1921"
+    },
+    {
+      "onomasia": "Νοσοκομείο ΚΑΤ",
+      "perioxi": "Κηφισιά",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1963"
+    },
+    {
+      "onomasia": "Νοσοκομείο Κωνσταντοπούλειο «Αγία Όλγα»",
+      "perioxi": "Νέα Ιωνία",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1923"
+    },
+    {
+      "onomasia": "Νοσοκομείο Παίδων Πεντέλης",
+      "perioxi": "Πεντέλη",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1981"
+    },
+    {
+      "onomasia": "Οφθαλμιατρείο Αθηνών",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1854"
+    },
+    {
+      "onomasia": "Ψυχιατρικό Νοσοκομείο Αττικής «Δρομοκαΐτειο»",
+      "perioxi": "Χαϊδάρι",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1887"
+    },
+    {
+      "onomasia": "Ψυχιατρικό Νοσοκομείο Αττικής «Δαφνί»",
+      "perioxi": "Χαϊδάρι",
+      "perifereia": "Αττική",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1925"
+    },
+    {
+      "onomasia": "Κλινική \"Ερρίκος Ντυνάν\" (ιδιωτικό)",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "2000"
+    },
+    {
+      "onomasia": "Μαιευτική Κλινική \"ΗΡΑ\" (ιδιωτικό)",
+      "perioxi": "Χολαργός",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1978"
+    },
+    {
+      "onomasia": "Μαιευτική Κλινική \"Ιασώ\" (ιδιωτικό)",
+      "perioxi": "Μαρούσι",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1996"
+    },
+    {
+      "onomasia": "Μαιευτική Κλινική \"Λητώ\" (ιδιωτικό)",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1970"
+    },
+    {
+      "onomasia": "Μαιευτική Κλινική \"Μητέρα\" (ιδιωτικό)",
+      "perioxi": "Μαρούσι",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1979"
+    },
+    {
+      "onomasia": "Μαιευτική Κλινική \"Ρέα\" (ιδιωτικό)",
+      "perioxi": "Παλαιό Φάληρο",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "2007"
+    },
+    {
+      "onomasia": "Γενική Κλινική Αθηνών \"Υγεία\" (ιδιωτικό)",
+      "perioxi": "Μαρούσι",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1970"
+    },
+    {
+      "onomasia": "Metropolitan Hospital (ιδιωτικό)",
+      "perioxi": "Πειραιάς",
+      "perifereia": "Αττική",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "2001"
+    },
+    {
+      "onomasia": "Νοσοκομείο Ερυθρού Σταυρού \"Κοργιαλένειο-Μπενάκειο\"",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1930 - 1994"
+    },
+    {
+      "onomasia": "Α' Νοσοκομείο ΙΚΑ, Πρώην \"Παπαδημητρίου\"",
+      "perioxi": "Μελίσσια",
+      "perifereia": "Αττική",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1936 - 2011"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Δυτικής Αττικής \"Αγία Βαρβάρα\"",
+      "perioxi": "Αγία Βαρβάρα",
+      "perifereia": "Αττική",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1903 - 2013"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Πατησίων",
+      "perioxi": "Άνω Πατήσια",
+      "perifereia": "Αττική",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1968 - 2013"
+    },
+    {
+      "onomasia": "Νοσηλευτικό Ίδρυμα Εμπορικού Ναυτικού (Ν.Ι.Ε.Ν.)",
+      "perioxi": "Μελίσσια",
+      "perifereia": "Αττική",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1948 - 1982"
+    },
+    {
+      "onomasia": "Πολυκλινική Αθηνών",
+      "perioxi": "Αθήνα",
+      "perifereia": "Αττική",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1903 - 2013"
+    },
+    {
+      "onomasia": "424 Γενικό Στρατιωτικό Νοσοκομείο Εκπαιδεύσεως (ΓΣΝΕ)",
+      "perioxi": "Ευκαρπία",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1912"
+    },
+    {
+      "onomasia": "Αντικαρκινικό Νοσοκομείο Θεσσαλονίκης \"Θεαγένειο\"",
+      "perioxi": "Θεσσαλονίκη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1743"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Θεσσαλονίκης \"Άγιος Δημήτριος\"",
+      "perioxi": "Άνω Πόλη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1901"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Θεσσαλονίκης \"Άγιος Παύλος\"",
+      "perioxi": "Καλαμαριά",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1987"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Θεσσαλονίκης \"Γεώργιος Γεννηματάς\"",
+      "perioxi": "Θεσσαλονίκη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1916"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Θεσσαλονίκης \"Γ. Παπανικολάου\"",
+      "perioxi": "Εξοχή",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1920"
+    },
+    {
+      "onomasia": "Ιπποκράτειο Γενικό Νοσοκομείο Θεσσαλονίκης",
+      "perioxi": "Θεσσαλονίκη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1908"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Θεσσαλονίκης \"Παπαγεωργίου\"",
+      "perioxi": "Ευκαρπία",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1999"
+    },
+    {
+      "onomasia": "Νοσοκομείο Αφροδισίων και Δερματικών Νόσων Θεσσαλονίκης",
+      "perioxi": "Φάληρο",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1917"
+    },
+    {
+      "onomasia": "Πανεπιστημιακό Νοσοκομείο ΑΧΕΠΑ",
+      "perioxi": "Θεσσαλονίκη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Ψυχιατρικό Νοσοκομείο Θεσσαλονίκης",
+      "perioxi": "Σταυρούπολη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1917"
+    },
+    {
+      "onomasia": "Πανεπιστημιακό Παιδιατρικό Νοσοκομείο Θεσσαλονίκης (υπό ανέγερση)",
+      "perioxi": "Φίλυρο",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "2026 (υπό ανέγερση)"
+    },
+    {
+      "onomasia": "Β΄Νοσοκομείο ΙΚΑ «Παναγιά»",
+      "perioxi": "Καλαμαριά",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1952 - 2013"
+    },
+    {
+      "onomasia": "Νοσοκομείο Ειδικών Παθήσεων Θεσσαλονίκης (Λοιμωδών)",
+      "perioxi": "Θεσσαλονίκη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1894 - 2013"
+    },
+    {
+      "onomasia": "Κλινική Άγιος Λουκάς",
+      "perioxi": "Πανόραμα",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1975"
+    },
+    {
+      "onomasia": "Ιατρικό Διαβαλκανικό Κέντρο",
+      "perioxi": "Θέρμη",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "2000"
+    },
+    {
+      "onomasia": "Κλινική Γένεσις",
+      "perioxi": "Κωνσταντινουπολίτικα",
+      "perifereia": "Θεσσαλονίκη",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "2000"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καρύστου",
+      "perioxi": "Κάρυστος",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1949"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κύμης",
+      "perioxi": "Κύμη",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1980"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Άμφισσας",
+      "perioxi": "Άμφισσα",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Θήβας",
+      "perioxi": "Θήβα",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1951"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καρπενησίου",
+      "perioxi": "Καρπενήσι",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1956"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λαμίας",
+      "perioxi": "Λαμία",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1946"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λιβαδειάς",
+      "perioxi": "Λιβαδειά",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1967"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Χαλκίδας",
+      "perioxi": "Χαλκίδα",
+      "perifereia": "Στερεά Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1945"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Βέροιας",
+      "perioxi": "Βέροια",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1924"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Γιαννιτσών",
+      "perioxi": "Γιαννιτσά",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1908"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Γουμένισσας",
+      "perioxi": "Γουμένισσα",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1936"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Έδεσσας",
+      "perioxi": "Έδεσσα",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1925"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κατερίνης",
+      "perioxi": "Κατερίνη",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1944"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κιλκίς",
+      "perioxi": "Κιλκίς",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1928"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Νάουσας",
+      "perioxi": "Νάουσα",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1940"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Σερρών",
+      "perioxi": "Σέρρες",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1949"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Χαλκιδικής",
+      "perioxi": "Πολύγυρος",
+      "perifereia": "Κεντρική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1969"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Γρεβενών",
+      "perioxi": "Γρεβενά",
+      "perifereia": "Δυτική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1945"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καστοριάς",
+      "perioxi": "Καστοριά",
+      "perifereia": "Δυτική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1936"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κοζάνης «Μαμάτσειο»",
+      "perioxi": "Κοζάνη",
+      "perifereia": "Δυτική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1923"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Πτολεμαΐδας «Μποδοσάκειο»",
+      "perioxi": "Πτολεμαΐδα",
+      "perifereia": "Δυτική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1984"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Φλώρινας «Ελένη Δημητρίου»",
+      "perioxi": "Φλώρινα",
+      "perifereia": "Δυτική Μακεδονία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1934"
+    },
+    {
+      "onomasia": "212 Κινητό Χειρουργικό Νοσοκομείο Ξάνθης (212 ΚΙΧΝΕ)",
+      "perioxi": "Ξάνθη",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1987"
+    },
+    {
+      "onomasia": "216 Κινητό Χειρουργικό Νοσοκομείο Αλεξανδρούπολης (216 ΚΙΧΝΕ)",
+      "perioxi": "Αλεξανδρούπολη",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Διδυμοτείχου",
+      "perioxi": "Διδυμότειχο",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1946"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Δράμας",
+      "perioxi": "Δράμα",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1959"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καβάλας",
+      "perioxi": "Καβάλα",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1900"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ξάνθης",
+      "perioxi": "Ξάνθη",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1929"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κομοτηνής \"Σισμανόγλειο\"",
+      "perioxi": "Κομοτηνή",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1937"
+    },
+    {
+      "onomasia": "Πανεπιστημιακό Νοσοκομείο Αλεξανδρούπολης",
+      "perioxi": "Αλεξανδρούπολη",
+      "perifereia": "Ανατολική Μακεδονία και Θράκη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1939"
+    },
+    {
+      "onomasia": "404 Στρατιωτικό Νοσοκομείο Λάρισας",
+      "perioxi": "Λάρισα",
+      "perifereia": "Θεσσαλία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1936"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Βόλου",
+      "perioxi": "Βόλος",
+      "perifereia": "Θεσσαλία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1885"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καρδίτσας",
+      "perioxi": "Καρδίτσα",
+      "perifereia": "Θεσσαλία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1935"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λάρισας «Κουτλιμπάνειο-Τριανταφύλειο»",
+      "perioxi": "Λάρισα",
+      "perifereia": "Θεσσαλία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1895"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Τρικάλων",
+      "perioxi": "Τρίκαλα",
+      "perifereia": "Θεσσαλία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1950"
+    },
+    {
+      "onomasia": "Πανεπιστημιακό Γενικό Νοσοκομείο Λάρισας",
+      "perioxi": "Λάρισα",
+      "perifereia": "Θεσσαλία",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1999"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Άρτας",
+      "perioxi": "Άρτα",
+      "perifereia": "Ήπειρος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1945"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ιωαννίνων «Γ. Χατζηκώστα»",
+      "perioxi": "Ιωάννινα",
+      "perifereia": "Ήπειρος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1845"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Πρέβεζας",
+      "perioxi": "Πρέβεζα",
+      "perifereia": "Ήπειρος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1972"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Φιλιατών",
+      "perioxi": "Φιλιάτες",
+      "perifereia": "Ήπειρος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1947"
+    },
+    {
+      "onomasia": "Πανεπιστημιακό Γενικό Νοσοκομείο Ιωαννίνων",
+      "perioxi": "Ιωάννινα",
+      "perifereia": "Ήπειρος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1986"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αιγίου",
+      "perioxi": "Αίγιο",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1958"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αιτωλοακαρνανίας - Νοσηλευτική μονάδα Αγρινίου",
+      "perioxi": "Αγρίνιο",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1933"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αιτωλοακαρνανίας - Νοσηλευτική μονάδα Μεσολογγίου",
+      "perioxi": "Μεσολόγγι",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1852"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αμαλιάδας",
+      "perioxi": "Αμαλιάδα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1949"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καλαβρύτων",
+      "perioxi": "Καλάβρυτα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1943"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Παίδων Πατρών «Καραμανδάνειο»",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1937"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Πατρών «Άγιος Ανδρέας» (ΓΝΠ)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1871"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Πύργου «Ανδρέας Παπανδρέου»",
+      "perioxi": "Πύργος",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "2004"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κάτω Αχαΐας",
+      "perioxi": "Κάτω Αχαΐα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1973"
+    },
+    {
+      "onomasia": "Πανεπιστημιακό Γενικό Νοσοκομείο Πατρών «Παναγία η Βοήθεια» (ΠΓΝΠ)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1988"
+    },
+    {
+      "onomasia": "Κλινική «Ευαγγελισμός» (ιδιωτικό)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1976-2002"
+    },
+    {
+      "onomasia": "Μαιευτική Κλινική «Ηώ» (ιδιωτικό)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1933-2018"
+    },
+    {
+      "onomasia": "Ορθοπεδική Κλινική «Σολωμού» (ιδιωτικό)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1970-2014"
+    },
+    {
+      "onomasia": "Παλαιό Δημοτικό Νοσοκομείο Πατρών",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1857-1871"
+    },
+    {
+      "onomasia": "Μανωλοπούλειο Δημοτικό Νοσοκομείο",
+      "perioxi": "Πύργος",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Πρώην νοσοκομείο (εκτός λειτουργίας)",
+      "idrysi_i_periodos_leitourgias": "1888-2003"
+    },
+    {
+      "onomasia": "Γενική Κλινική Ρηγόπουλου «Πρωτόκλητος» (ιδιωτικό)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1925"
+    },
+    {
+      "onomasia": "Ιδιωτικό Μαιευτήριο Πατρών (ιδιωτικό)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "1978"
+    },
+    {
+      "onomasia": "Κυανούς Σταυρός Πατρών (ιδιωτικό)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "2002"
+    },
+    {
+      "onomasia": "Ολύμπιον Θεραπεύτηριον Πατρών (ιδιωτικό)",
+      "perioxi": "Πάτρα",
+      "perifereia": "Δυτική Ελλάδα",
+      "katigoria": "Ιδιωτική κλινική",
+      "idrysi_i_periodos_leitourgias": "2004"
+    },
+    {
+      "onomasia": "411 Γενικό Στρατιωτικό Νοσοκομείο (411 ΓΣΝ)",
+      "perioxi": "Τρίπολη",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1912"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Άργολίδας - Νοσηλευτική Μονάδα Άργους",
+      "perioxi": "Άργος",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1973"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αργολίδας - Νοσηλευτική Μονάδα Ναυπλίου",
+      "perioxi": "Ναύπλιο",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1941"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κορίνθου",
+      "perioxi": "Κόρινθος",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1965"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λακωνίας",
+      "perioxi": "Σπάρτη",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Μεσσηνίας - Νοσηλευτική Μονάδα Καλαμάτας",
+      "perioxi": "Καλαμάτα",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "2000"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Μεσσηνίας - Νοσηλευτική Μονάδα Κυπαρισσίας",
+      "perioxi": "Κυπαρισσία",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1947"
+    },
+    {
+      "onomasia": "Γενικό Παναρκαδικό Νοσοκομείο Τρίπολης «Η Ευαγγελίστρια»",
+      "perioxi": "Τρίπολη",
+      "perifereia": "Πελοπόννησος",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1896"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ηρακλείου «Βενιζέλειο-Πανάνειο»",
+      "perioxi": "Ηράκλειο",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ιεράπετρας",
+      "perioxi": "Ιεράπετρα",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1955"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λασιθίου",
+      "perioxi": "Άγιος Νικόλαος",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1940"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Νεάπολης «Διαλυνάκειο»",
+      "perioxi": "Νεάπολη",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1944"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ρεθύμνου",
+      "perioxi": "Ρέθυμνο",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1899"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Σητείας",
+      "perioxi": "Σητεία",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1947"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Χανίων «Άγιος Γεώργιος»",
+      "perioxi": "Χανιά",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1905"
+    },
+    {
+      "onomasia": "Ναυτικό Νοσοκομείο Κρήτης",
+      "perioxi": "Χανιά",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1969"
+    },
+    {
+      "onomasia": "Πανεπιστημιακό Γενικο Νοσοκομείο Ηρακλείου (ΠΑΓΝΗ)",
+      "perioxi": "Ηράκλειο",
+      "perifereia": "Κρήτη",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1989"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ικαρίας «Πανικάριον»",
+      "perioxi": "Άγιος Κήρυκος",
+      "perifereia": "Βόρειο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1959"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λήμνου",
+      "perioxi": "Μύρινα",
+      "perifereia": "Βόρειο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1937"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Μυτιλήνης «Βοστάνειο»",
+      "perioxi": "Μυτιλήνη",
+      "perifereia": "Βόρειο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1858"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Σάμου «Άγιος Παντελεήμων»",
+      "perioxi": "Βαθύ",
+      "perifereia": "Βόρειο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1877"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Χίου «Σκυλίτσειο»",
+      "perioxi": "Χίος",
+      "perifereia": "Βόρειο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1886"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καλύμνου «Βουβάλειο»",
+      "perioxi": "Κάλυμνος",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1926"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κω «Ιπποκράτης»",
+      "perioxi": "Κως",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1930"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Νάξου",
+      "perioxi": "Νάξος",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1987"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Σαντορίνης",
+      "perioxi": "Καρτεράδος",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "2016"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Καρπάθου «Άγιος Ιωάννης ο Καρπάθιος»",
+      "perioxi": "Πηγάδια",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1958"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ρόδου «Ανδρέας Παπανδρέου»",
+      "perioxi": "Ρόδος",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1938"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Σύρου «Βαρδάκειο & Πρώιο»",
+      "perioxi": "Ερμούπολη",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1827"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λέρου",
+      "perioxi": "Λακκί",
+      "perifereia": "Νότιο Αιγαίο",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1957"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Αργοστολίου «Άγιος Γεράσιμος»",
+      "perioxi": "Αργοστόλι",
+      "perifereia": "Ιόνιοι Νήσοι",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1989"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ζακύνθου «Άγιος Διονύσιος»",
+      "perioxi": "Ζάκυνθος",
+      "perifereia": "Ιόνιοι Νήσοι",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1966"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Κέρκυρας «Αγία Ειρήνη»",
+      "perioxi": "Κέρκυρα",
+      "perifereia": "Ιόνιοι Νήσοι",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1726"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Λευκάδας",
+      "perioxi": "Λευκάδα",
+      "perifereia": "Ιόνιοι Νήσοι",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1953"
+    },
+    {
+      "onomasia": "Γενικό Νοσοκομείο Ληξουρίου «Μαντζαβινάτειο»",
+      "perioxi": "Ληξούρι",
+      "perifereia": "Ιόνιοι Νήσοι",
+      "katigoria": "Νοσοκομείο",
+      "idrysi_i_periodos_leitourgias": "1957"
+    }
+  ],
+  "meta": {
+    "title": "Νοσοκομεία της Ελλάδας - Free Download",
+    "description": "Κατάλογος δημόσιων, στρατιωτικών και ιδιωτικών νοσοκομείων και κλινικών της Ελλάδας ανά περιφέρεια, με την περιοχή και το έτος ίδρυσης, καθώς και πρώην νοσοκομεία με την περίοδο λειτουργίας τους. Contains 169 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Νοσοκομεία της Ελλάδας | ListBase",
+    "seo_description": "Download Νοσοκομεία της Ελλάδας — 169 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 169 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_νοσοκομείων_της_Ελλάδας"
+    ]
+  }
+}

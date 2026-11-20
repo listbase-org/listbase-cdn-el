@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-19T02:25:52.923Z",
-  "total_datasets": 525,
-  "total_records": 202511,
+  "generated": "2026-11-20T02:26:32.124Z",
+  "total_datasets": 526,
+  "total_records": 202680,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 9
+      "dataset_count": 10
     },
     {
       "id": "history",
@@ -5267,6 +5267,32 @@
         "xlsx": {
           "name": "el-ktiniatreia_EL.xlsx",
           "size": 13357
+        }
+      }
+    },
+    {
+      "id": "el-nosokomeia-elladas",
+      "name": "Νοσοκομεία της Ελλάδας",
+      "category": "health",
+      "record_count": 169,
+      "columns": [
+        "onomasia",
+        "perioxi",
+        "perifereia",
+        "katigoria",
+        "idrysi_i_periodos_leitourgias"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_νοσοκομείων_της_Ελλάδας",
+      "updated": "2026-11",
+      "size": 49485,
+      "files": {
+        "csv": {
+          "name": "el-nosokomeia-elladas_EL.csv",
+          "size": 25254
+        },
+        "xlsx": {
+          "name": "el-nosokomeia-elladas_EL.xlsx",
+          "size": 14690
         }
       }
     },
