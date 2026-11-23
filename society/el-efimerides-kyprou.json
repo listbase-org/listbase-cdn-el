@@ -1,0 +1,296 @@
+{
+  "id": "el-efimerides-kyprou",
+  "name": "Εφημερίδες της Κύπρου",
+  "title": "Εφημερίδες της Κύπρου",
+  "description": "Κατάλογος εφημερίδων της Κύπρου ανά γλώσσα (ελληνικά, τουρκικά, αγγλικά) και είδος (καθημερινές, εβδομαδιαίες, μηνιαίες, συνδικαλιστικές, αθλητικές, διαδικτυακές), από την ελληνική Βικιπαίδεια.",
+  "category": "society",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_Κύπρου",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_Κύπρου",
+  "updated": "2026-11",
+  "record_count": 51,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "glossa",
+      "label": "Glossa",
+      "type": "string"
+    },
+    {
+      "key": "eidos",
+      "label": "Eidos",
+      "type": "string"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Αλήθεια",
+      "glossa": "ελληνικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Η Σημερινή",
+      "glossa": "ελληνικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Μάχη",
+      "glossa": "ελληνικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Ο Φιλελεύθερος",
+      "glossa": "ελληνικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Πολίτης",
+      "glossa": "ελληνικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Χαραυγή",
+      "glossa": "ελληνικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "XPress Οικονομική",
+      "glossa": "ελληνικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Η Καθημερινή",
+      "glossa": "ελληνικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "24",
+      "glossa": "ελληνικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Αντίλογος",
+      "glossa": "ελληνικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Γνώμη",
+      "glossa": "ελληνικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Θάρρος",
+      "glossa": "ελληνικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Το Κυπριακό Ποντίκι",
+      "glossa": "ελληνικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Η εφημερίδα της Χλώρακας",
+      "glossa": "ελληνικά",
+      "eidos": "Μηνιαίες"
+    },
+    {
+      "onoma": "Οικολόγος",
+      "glossa": "ελληνικά",
+      "eidos": "Μηνιαίες"
+    },
+    {
+      "onoma": "Πράσινη ασπίδα",
+      "glossa": "ελληνικά",
+      "eidos": "Μηνιαίες"
+    },
+    {
+      "onoma": "Επίσημη Εφημερίδα της Κυπριακής Δημοκρατίας",
+      "glossa": "ελληνικά",
+      "eidos": "Κυβερνητικές"
+    },
+    {
+      "onoma": "Δημόσιος Υπάλληλος",
+      "glossa": "ελληνικά",
+      "eidos": "Συνδικαλιστικές"
+    },
+    {
+      "onoma": "Εργατική φωνή",
+      "glossa": "ελληνικά",
+      "eidos": "Συνδικαλιστικές"
+    },
+    {
+      "onoma": "Εργατικό βήμα",
+      "glossa": "ελληνικά",
+      "eidos": "Συνδικαλιστικές"
+    },
+    {
+      "onoma": "Αθλητική Πάφος",
+      "glossa": "ελληνικά",
+      "eidos": "Αθλητικές"
+    },
+    {
+      "onoma": "Αθλητική της Κυριακής",
+      "glossa": "ελληνικά",
+      "eidos": "Αθλητικές"
+    },
+    {
+      "onoma": "Αθλητικό Βήμα",
+      "glossa": "ελληνικά",
+      "eidos": "Αθλητικές"
+    },
+    {
+      "onoma": "Θρύλος",
+      "glossa": "ελληνικά",
+      "eidos": "Αθλητικές"
+    },
+    {
+      "onoma": "Πράσινη Κερκίδα",
+      "glossa": "ελληνικά",
+      "eidos": "Αθλητικές"
+    },
+    {
+      "onoma": "Τριφύλλι",
+      "glossa": "ελληνικά",
+      "eidos": "Αθλητικές"
+    },
+    {
+      "onoma": "24sports.com.cy",
+      "glossa": "ελληνικά",
+      "eidos": "Διαδικτυακές"
+    },
+    {
+      "onoma": "Balla.com.cy",
+      "glossa": "ελληνικά",
+      "eidos": "Διαδικτυακές"
+    },
+    {
+      "onoma": "kerkida.net",
+      "glossa": "ελληνικά",
+      "eidos": "Διαδικτυακές"
+    },
+    {
+      "onoma": "Newzup.com",
+      "glossa": "ελληνικά",
+      "eidos": "Διαδικτυακές"
+    },
+    {
+      "onoma": "ShootandGoal",
+      "glossa": "ελληνικά",
+      "eidos": "Διαδικτυακές"
+    },
+    {
+      "onoma": "Super Sport FM",
+      "glossa": "ελληνικά",
+      "eidos": "Διαδικτυακές"
+    },
+    {
+      "onoma": "Χρηματιστηριακά Νέα",
+      "glossa": "ελληνικά",
+      "eidos": "Μηνιαίες"
+    },
+    {
+      "onoma": "Αβρούπα",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Barış",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Demokrat Bakış",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Güneş",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Halkın Sesi",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Havadis",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Kıbrıs",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Kıbrıs Postası",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Kıbrıslı",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Star Kıbrıs",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Yeni Düzen",
+      "glossa": "τουρκικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Yenicağ",
+      "glossa": "τουρκικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Cyprus Mail",
+      "glossa": "αγγλικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "The Cyprus Daily",
+      "glossa": "αγγλικά",
+      "eidos": "Καθημερινές"
+    },
+    {
+      "onoma": "Cyprus Observer",
+      "glossa": "αγγλικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Cyprus Today",
+      "glossa": "αγγλικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Cyprus Weekly",
+      "glossa": "αγγλικά",
+      "eidos": "Εβδομαδιαίες"
+    },
+    {
+      "onoma": "Financial Mirror",
+      "glossa": "αγγλικά",
+      "eidos": "Εβδομαδιαίες"
+    }
+  ],
+  "meta": {
+    "title": "Εφημερίδες της Κύπρου - Free Download",
+    "description": "Κατάλογος εφημερίδων της Κύπρου ανά γλώσσα (ελληνικά, τουρκικά, αγγλικά) και είδος (καθημερινές, εβδομαδιαίες, μηνιαίες, συνδικαλιστικές, αθλητικές, διαδικτυακές), από την ελληνική Βικιπαίδεια. Contains 51 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Εφημερίδες της Κύπρου | ListBase",
+    "seo_description": "Download Εφημερίδες της Κύπρου — 51 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 51 records / 3 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_εφημερίδων_Κύπρου"
+    ]
+  }
+}
