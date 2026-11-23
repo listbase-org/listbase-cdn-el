@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-23T02:35:45.561Z",
-  "total_datasets": 530,
-  "total_records": 202840,
+  "generated": "2026-11-23T02:35:54.268Z",
+  "total_datasets": 531,
+  "total_records": 202948,
   "categories": [
     {
       "id": "agriculture",
@@ -26,7 +26,7 @@
     },
     {
       "id": "environment",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "finance",
@@ -2350,6 +2350,33 @@
         "xlsx": {
           "name": "el-fonikoi-seismoi_EL.xlsx",
           "size": 9253
+        }
+      }
+    },
+    {
+      "id": "el-fragmata-kyprou",
+      "name": "Φράγματα και τεχνητές λίμνες της Κύπρου",
+      "category": "environment",
+      "record_count": 108,
+      "columns": [
+        "onoma",
+        "etos",
+        "potamos",
+        "typos",
+        "ypsos_m",
+        "choritikotita_m3"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_φραγμάτων_και_τεχνητών_λιμνών_της_Κύπρου",
+      "updated": "2026-11",
+      "size": 26520,
+      "files": {
+        "csv": {
+          "name": "el-fragmata-kyprou_EL.csv",
+          "size": 11589
+        },
+        "xlsx": {
+          "name": "el-fragmata-kyprou_EL.xlsx",
+          "size": 11584
         }
       }
     },

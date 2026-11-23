@@ -1,0 +1,920 @@
+{
+  "id": "el-fragmata-kyprou",
+  "name": "Φράγματα και τεχνητές λίμνες της Κύπρου",
+  "title": "Φράγματα και τεχνητές λίμνες της Κύπρου",
+  "description": "Κατάλογος φραγμάτων και τεχνητών λιμνών της Κύπρου με έτος κατασκευής, ποταμό, τύπο φράγματος, ύψος (m) και χωρητικότητα (m³), από την ελληνική Βικιπαίδεια.",
+  "category": "environment",
+  "source": "https://el.wikipedia.org/wiki/Κατάλογος_φραγμάτων_και_τεχνητών_λιμνών_της_Κύπρου",
+  "source_url": "https://el.wikipedia.org/wiki/Κατάλογος_φραγμάτων_και_τεχνητών_λιμνών_της_Κύπρου",
+  "updated": "2026-11",
+  "record_count": 108,
+  "columns": [
+    {
+      "key": "onoma",
+      "label": "Onoma",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "potamos",
+      "label": "Potamos",
+      "type": "string"
+    },
+    {
+      "key": "typos",
+      "label": "Typos",
+      "type": "string"
+    },
+    {
+      "key": "ypsos_m",
+      "label": "Ypsos M",
+      "type": "number"
+    },
+    {
+      "key": "choritikotita_m3",
+      "label": "Choritikotita M3",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "onoma": "Τεχνητή Λίμνη Κούρη",
+      "etos": 1988,
+      "potamos": "Κούρης",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 110,
+      "choritikotita_m3": 115000000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Ασπρόκρεμμου",
+      "etos": 1982,
+      "potamos": "Ξερός",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 53,
+      "choritikotita_m3": 52375000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Ευρέτου",
+      "etos": 1986,
+      "potamos": "Σταυρός της Ψώκας",
+      "typos": "Λιθόρριπτο",
+      "ypsos_m": 70,
+      "choritikotita_m3": 24000000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Κανναβιού",
+      "etos": 2005,
+      "potamos": "Έζουσα",
+      "typos": "Xωμάτινο/Λιθόρριπτο",
+      "ypsos_m": 75,
+      "choritikotita_m3": 18000000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Καλαβασού",
+      "etos": 1985,
+      "potamos": "Βασιλικός",
+      "typos": "Λιθόρριπτο",
+      "ypsos_m": 60,
+      "choritikotita_m3": 17100000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Διπόταμου",
+      "etos": 1985,
+      "potamos": "Πεντάσχοινος",
+      "typos": "Λιθόρριπτο",
+      "ypsos_m": 60,
+      "choritikotita_m3": 15500000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Λευκάρων",
+      "etos": 1973,
+      "potamos": "Συργάτης",
+      "typos": "Xωμάτινο/Λιθόρριπτο",
+      "ypsos_m": 71,
+      "choritikotita_m3": 13850000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Γερμασόγειας",
+      "etos": 1968,
+      "potamos": "Άμαθος",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 49,
+      "choritikotita_m3": 13500000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Άχνας",
+      "etos": 1987,
+      "potamos": "Εξωποτάμιο φράγμα",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 16,
+      "choritikotita_m3": 6800000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Κουκλιών",
+      "etos": 1900,
+      "potamos": "-",
+      "typos": "Χωμάτινο",
+      "ypsos_m": 6,
+      "choritikotita_m3": 4545000
+    },
+    {
+      "onoma": "Λίμνη Αγίου Λουκά - (Εμπλουτιστικό)",
+      "etos": 1964,
+      "potamos": "-",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 3,
+      "choritikotita_m3": 4545000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Σολέας",
+      "etos": 2010,
+      "potamos": "Εξωποτάμιο φράγμα",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 56,
+      "choritikotita_m3": 4500000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Αρμίνου",
+      "etos": 1998,
+      "potamos": "Διάριζος",
+      "typos": "Xωμάτινο/Λιθόρριπτο",
+      "ypsos_m": 45,
+      "choritikotita_m3": 4300000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Πολεμιδιών",
+      "etos": 1965,
+      "potamos": "Γαρύλλης",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 45,
+      "choritikotita_m3": 3400000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Ταμασού",
+      "etos": 2002,
+      "potamos": "Πεδιαίος",
+      "typos": "Xωμάτινο/Λιθόρριπτο",
+      "ypsos_m": 34,
+      "choritikotita_m3": 2800000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Μάσαρη (Εμπλουτιστικό)",
+      "etos": 1973,
+      "potamos": "Σερράχης",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 15,
+      "choritikotita_m3": 2273000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Μαυροκόλυμπου",
+      "etos": 1966,
+      "potamos": "Μαυροκόλυμπος",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 45,
+      "choritikotita_m3": 2180000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Κλήρου (Κλήρου-Μαλούντα-Ακάκι)",
+      "etos": 2007,
+      "potamos": "Ακάκι (Σερράχης)",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 38,
+      "choritikotita_m3": 2000000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Μόρφου",
+      "etos": 1962,
+      "potamos": "Σερράχης",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 13,
+      "choritikotita_m3": 1879000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Βυζακιάς",
+      "etos": 1994,
+      "potamos": "Εξωποτάμιο φράγμα",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 37,
+      "choritikotita_m3": 1690000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Κίτι (Τρέμιθος)",
+      "etos": 1964,
+      "potamos": "Τρέμιθος",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 22,
+      "choritikotita_m3": 1614000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Ξυλιάτου **",
+      "etos": 1982,
+      "potamos": "Λαγουδερά (Ελιά)",
+      "typos": "Λιθόρριπτο",
+      "ypsos_m": 42,
+      "choritikotita_m3": 1430000
+    },
+    {
+      "onoma": "Άγιος Νικόλαος - (Εμπλουτιστικό)",
+      "etos": 1964,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 2,
+      "choritikotita_m3": 1365000
+    },
+    {
+      "onoma": "Λίμνη Παρ/μνίου - (Εμπλουτιστικό)",
+      "etos": 1964,
+      "potamos": "-",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 1,
+      "choritikotita_m3": 1365000
+    },
+    {
+      "onoma": "Σύγκρασις",
+      "etos": 1968,
+      "potamos": "Μερικερός",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 7,
+      "choritikotita_m3": 1115000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Κανλίκιογιου",
+      "etos": 1963,
+      "potamos": "Τζινάρ (Πεδιαίος)",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 19,
+      "choritikotita_m3": 1113000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Κιόνελι",
+      "etos": 1962,
+      "potamos": "Αρμυρός (Πεδιαίος)",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 15,
+      "choritikotita_m3": 1045000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Αργάκας",
+      "etos": 1964,
+      "potamos": "Μακούντα",
+      "typos": "Λιθόρριπτο",
+      "ypsos_m": 41,
+      "choritikotita_m3": 990000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Πωμού",
+      "etos": 1966,
+      "potamos": "Λειβάδι",
+      "typos": "Λιθόρριπτο",
+      "ypsos_m": 38,
+      "choritikotita_m3": 860000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Οβγού",
+      "etos": 1964,
+      "potamos": "Οβγός",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 16,
+      "choritikotita_m3": 845000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Αθαλάσσας",
+      "etos": 1962,
+      "potamos": "Καλόγυρος (Πεδιαίος)",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 18,
+      "choritikotita_m3": 791000
+    },
+    {
+      "onoma": "Παλαιχώρι - Καμπί",
+      "etos": 1973,
+      "potamos": "Ακάκι (Σερράχης)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 33,
+      "choritikotita_m3": 620000
+    },
+    {
+      "onoma": "Άγιος Λουκάς",
+      "etos": 1955,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 3,
+      "choritikotita_m3": 455000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Λεύκας",
+      "etos": 1962,
+      "potamos": "Σέτραχος (Μαραθάσας)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 35,
+      "choritikotita_m3": 368000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Καλοπαναγιώτη",
+      "etos": 1966,
+      "potamos": "Σέτραχος (Μαραθάσας)",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 40,
+      "choritikotita_m3": 363000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Μιας Μηλιάς",
+      "etos": 1964,
+      "potamos": "Σιμέας (Πεδιαίος)",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 22,
+      "choritikotita_m3": 355000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Τριμίκλινης",
+      "etos": 1958,
+      "potamos": "Κούρης",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 33,
+      "choritikotita_m3": 340000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Λιοπετρίου",
+      "etos": 1964,
+      "potamos": "Ποταμός",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 18,
+      "choritikotita_m3": 340000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Αγίας Μαρίνας",
+      "etos": 1965,
+      "potamos": "Ξερός",
+      "typos": "Λιθόρριπτο",
+      "ypsos_m": 33,
+      "choritikotita_m3": 298000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Πύργου",
+      "etos": 1957,
+      "potamos": "Κατούρης",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 22,
+      "choritikotita_m3": 285000
+    },
+    {
+      "onoma": "Κυπερούντα Αρ. 2 *",
+      "etos": 1983,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 27,
+      "choritikotita_m3": 273000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Λυμπιών",
+      "etos": 1977,
+      "potamos": "Τρέμιθος",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 12,
+      "choritikotita_m3": 220000
+    },
+    {
+      "onoma": "Χοιροκοιτία *",
+      "etos": 1984,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 16,
+      "choritikotita_m3": 205000
+    },
+    {
+      "onoma": "Μακράσυκα - (Εμπλουτιστικό)",
+      "etos": 1966,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 8,
+      "choritikotita_m3": 195000
+    },
+    {
+      "onoma": "Αρακαπάς Αρ.1 *",
+      "etos": 1982,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 12,
+      "choritikotita_m3": 192000
+    },
+    {
+      "onoma": "Εμπλουτιστικά Αμμοχώστου",
+      "etos": 1963,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 8,
+      "choritikotita_m3": 165000
+    },
+    {
+      "onoma": "Διερώνα *",
+      "etos": 1984,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 24,
+      "choritikotita_m3": 159000
+    },
+    {
+      "onoma": "Βρυσούλλες - (Εμπλουτιστικό)",
+      "etos": 1969,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 7,
+      "choritikotita_m3": 140000
+    },
+    {
+      "onoma": "Ακαπνού - Επταγώνεια *",
+      "etos": 1981,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 9,
+      "choritikotita_m3": 132000
+    },
+    {
+      "onoma": "Εμπλουτιστικά Μόρφου",
+      "etos": 1969,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 5,
+      "choritikotita_m3": 130000
+    },
+    {
+      "onoma": "Αρακαπάς",
+      "etos": 1975,
+      "potamos": "Γερμασόγεια",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 23,
+      "choritikotita_m3": 129000
+    },
+    {
+      "onoma": "Επταγώνεια Αρ.2 *",
+      "etos": 1982,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 8,
+      "choritikotita_m3": 127000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Πελενδρίου *",
+      "etos": 1980,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 18,
+      "choritikotita_m3": 123000
+    },
+    {
+      "onoma": "Πρόδρομος",
+      "etos": 1962,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 10,
+      "choritikotita_m3": 122000
+    },
+    {
+      "onoma": "Αρακαπάς Αρ.2 *",
+      "etos": 1984,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 12,
+      "choritikotita_m3": 120000
+    },
+    {
+      "onoma": "Παραλίμνι - (Εμπλουτιστικό)",
+      "etos": 1963,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 5,
+      "choritikotita_m3": 115000
+    },
+    {
+      "onoma": "Φρέναρος - (Εμπλουτιστικό)",
+      "etos": 1964,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 5,
+      "choritikotita_m3": 115000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Καφίζη",
+      "etos": 1953,
+      "potamos": "Ξερός (Μόρφου)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 23,
+      "choritikotita_m3": 113000
+    },
+    {
+      "onoma": "Κάτω Μύλος *",
+      "etos": 1981,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 23,
+      "choritikotita_m3": 104000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Γύψου",
+      "etos": 1955,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 3,
+      "choritikotita_m3": 100000
+    },
+    {
+      "onoma": "Ορμίδεια - (Εμπλουτιστικό)",
+      "etos": 1968,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 5,
+      "choritikotita_m3": 100000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Τσακίστρας",
+      "etos": 2000,
+      "potamos": "Λιμνίτης",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 23,
+      "choritikotita_m3": 100000
+    },
+    {
+      "onoma": "Αγρός",
+      "etos": 1964,
+      "potamos": "Λιμνάτης",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 26,
+      "choritikotita_m3": 99000
+    },
+    {
+      "onoma": "Μελίνη Αρ.2*",
+      "etos": 1996,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Χωμάτινη",
+      "ypsos_m": 36,
+      "choritikotita_m3": 97000
+    },
+    {
+      "onoma": "Επταγώνεια Αρ.1 *",
+      "etos": 1980,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 16,
+      "choritikotita_m3": 92000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Αγίου Γεωργίου - (Εμπλουτιστικό)",
+      "etos": 1962,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 6,
+      "choritikotita_m3": 90000
+    },
+    {
+      "onoma": "Άχνα Μεσανία - (Εμπλουτιστικό)",
+      "etos": 1967,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 4,
+      "choritikotita_m3": 90000
+    },
+    {
+      "onoma": "Πρωτο/πάδες - (Εμπλουτιστικό)",
+      "etos": 1970,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 6,
+      "choritikotita_m3": 90000
+    },
+    {
+      "onoma": "Αραδίππου",
+      "etos": 1987,
+      "potamos": "Παρθενίτης",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 14,
+      "choritikotita_m3": 90000
+    },
+    {
+      "onoma": "Ξυλοφάγου - (Εμπλουτιστικό)",
+      "etos": 1966,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 7,
+      "choritikotita_m3": 86000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Καλού Χωριού Κλήρου",
+      "etos": 1947,
+      "potamos": "Ακάκι (Σερράχης)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 9,
+      "choritikotita_m3": 82000
+    },
+    {
+      "onoma": "Κοντέα - (Εμπλουτιστικό)",
+      "etos": 1966,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 5,
+      "choritikotita_m3": 82000
+    },
+    {
+      "onoma": "Λύση - (Εμπλουτιστικό)",
+      "etos": 1967,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 7,
+      "choritikotita_m3": 77000
+    },
+    {
+      "onoma": "Λαγουδερά *",
+      "etos": 1983,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 36,
+      "choritikotita_m3": 71000
+    },
+    {
+      "onoma": "Χανδριά *",
+      "etos": 1980,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 35,
+      "choritikotita_m3": 70000
+    },
+    {
+      "onoma": "Αυγόρου - (Εμπλουτιστικό)",
+      "etos": 1966,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 3,
+      "choritikotita_m3": 68000
+    },
+    {
+      "onoma": "Άγιος Γεώργιος - (Εμπλουτιστικό)",
+      "etos": 1967,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 3,
+      "choritikotita_m3": 68000
+    },
+    {
+      "onoma": "Επταγώνεια Αρ.3 *",
+      "etos": 1981,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 12,
+      "choritikotita_m3": 65000
+    },
+    {
+      "onoma": "Ορά *",
+      "etos": 1983,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 18,
+      "choritikotita_m3": 62000
+    },
+    {
+      "onoma": "Φαρμακάς Αρ.2 *",
+      "etos": 1984,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 24,
+      "choritikotita_m3": 61000
+    },
+    {
+      "onoma": "Μελίνη Αρ.1 *",
+      "etos": 1980,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 22,
+      "choritikotita_m3": 59000
+    },
+    {
+      "onoma": "Αγρίδια *",
+      "etos": 1983,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 18,
+      "choritikotita_m3": 59000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Πέρα Πεδίου",
+      "etos": 1956,
+      "potamos": "Κρυός (Κούρης)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 22,
+      "choritikotita_m3": 55000
+    },
+    {
+      "onoma": "Αγία Νάπα - (Εμπλουτιστικό)",
+      "etos": 1963,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 8,
+      "choritikotita_m3": 55000
+    },
+    {
+      "onoma": "Άγιοι Βαβατσινιάς Αρ.1 *",
+      "etos": 1980,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 17,
+      "choritikotita_m3": 55000
+    },
+    {
+      "onoma": "Άγιοι Βαβατσινιάς",
+      "etos": 1981,
+      "potamos": "Βασιλικός",
+      "typos": "Τοξωτό",
+      "ypsos_m": 19,
+      "choritikotita_m3": 53000
+    },
+    {
+      "onoma": "Οδού Αρ. 2 *",
+      "etos": 1996,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Χωμάτινη",
+      "ypsos_m": 34,
+      "choritikotita_m3": 53000
+    },
+    {
+      "onoma": "Αντιπλημμυρικά Αμμοχώστου",
+      "etos": 1963,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 5,
+      "choritikotita_m3": 50000
+    },
+    {
+      "onoma": "Ξυλοτύμβου - (Εμπλουτιστικό)",
+      "etos": 1969,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 7,
+      "choritikotita_m3": 50000
+    },
+    {
+      "onoma": "Κυπερούντα Αρ.1*",
+      "etos": 1974,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 7,
+      "choritikotita_m3": 50000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Σωτήρας Αμμοχώστου - (Εμπλουτιστικό)",
+      "etos": 1962,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 8,
+      "choritikotita_m3": 45000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Παναγίας Αμμοχώστου - (Εμπλουτιστικό)",
+      "etos": 1962,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 7,
+      "choritikotita_m3": 45000
+    },
+    {
+      "onoma": "Φρέναρος - (Εμπλουτιστικό)",
+      "etos": 1966,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 7,
+      "choritikotita_m3": 45000
+    },
+    {
+      "onoma": "Ακανθού - (Εμπλουτιστικό)",
+      "etos": 1968,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 6,
+      "choritikotita_m3": 45000
+    },
+    {
+      "onoma": "Άγιοι Βαβατσινιάς Αρ.2 *",
+      "etos": 1984,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 25,
+      "choritikotita_m3": 43000
+    },
+    {
+      "onoma": "Έσσω Γαλάτα *",
+      "etos": 1985,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 27,
+      "choritikotita_m3": 35000
+    },
+    {
+      "onoma": "Καντού",
+      "etos": 1956,
+      "potamos": "Ταπάχανα (Κούρης)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 15,
+      "choritikotita_m3": 34000
+    },
+    {
+      "onoma": "Άγιος Επίκτητος - (Εμπλουτιστικό)",
+      "etos": 1968,
+      "potamos": "-",
+      "typos": "Xωμάτινα",
+      "ypsos_m": 6,
+      "choritikotita_m3": 34000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Λυθροδόντα (Κάτω)",
+      "etos": 1945,
+      "potamos": "Κουτσός (Γιαλιάς)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 11,
+      "choritikotita_m3": 32000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Πέτρας (Κάτω)",
+      "etos": 1948,
+      "potamos": "Ατσάς",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 9,
+      "choritikotita_m3": 32000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Λυθροδόντα (Πάνω)",
+      "etos": 1952,
+      "potamos": "Κουτσός (Γιαλιάς)",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 10,
+      "choritikotita_m3": 32000
+    },
+    {
+      "onoma": "Σωτήρα - (Εμπλουτιστικό)",
+      "etos": 1966,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 5,
+      "choritikotita_m3": 32000
+    },
+    {
+      "onoma": "Οδού Αρ.1*",
+      "etos": 1996,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Χωμάτινη",
+      "ypsos_m": 33,
+      "choritikotita_m3": 32000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Ακρούντας",
+      "etos": 1947,
+      "potamos": "Γερμασόγεια",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 7,
+      "choritikotita_m3": 23000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Γαληνής",
+      "etos": 1947,
+      "potamos": "Κάμπος",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 11,
+      "choritikotita_m3": 23000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Πέτρας (Πάνω)",
+      "etos": 1951,
+      "potamos": "Ατσάς",
+      "typos": "Βαρύτητας",
+      "ypsos_m": 9,
+      "choritikotita_m3": 23000
+    },
+    {
+      "onoma": "Τεχνητή Λίμνη Δερύνειας - (Εμπλουτιστικό)",
+      "etos": 1964,
+      "potamos": "-",
+      "typos": "Xωμάτινο",
+      "ypsos_m": 6,
+      "choritikotita_m3": 23000
+    },
+    {
+      "onoma": "Φαρμακάς Αρ.1 *",
+      "etos": 1984,
+      "potamos": "Εξωποτάμια δεξαμενή",
+      "typos": "Xωμάτινη",
+      "ypsos_m": 18,
+      "choritikotita_m3": 21000
+    }
+  ],
+  "meta": {
+    "title": "Φράγματα και τεχνητές λίμνες της Κύπρου - Free Download",
+    "description": "Κατάλογος φραγμάτων και τεχνητών λιμνών της Κύπρου με έτος κατασκευής, ποταμό, τύπο φράγματος, ύψος (m) και χωρητικότητα (m³), από την ελληνική Βικιπαίδεια. Contains 108 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Φράγματα και τεχνητές λίμνες της Κύπρου | ListBase",
+    "seo_description": "Download Φράγματα και τεχνητές λίμνες της Κύπρου — 108 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 108 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://el.wikipedia.org/wiki/Κατάλογος_φραγμάτων_και_τεχνητών_λιμνών_της_Κύπρου"
+    ]
+  }
+}
