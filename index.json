@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-23T02:35:35.772Z",
-  "total_datasets": 529,
-  "total_records": 202807,
+  "generated": "2026-11-23T02:35:45.561Z",
+  "total_datasets": 530,
+  "total_records": 202840,
   "categories": [
     {
       "id": "agriculture",
@@ -22,7 +22,7 @@
     },
     {
       "id": "entertainment",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "environment",
@@ -2091,6 +2091,32 @@
         "xlsx": {
           "name": "el-ellinikes-tainies-dekaetias-1980_EL.xlsx",
           "size": 12178
+        }
+      }
+    },
+    {
+      "id": "el-ellinikes-tainies-dekaetias-1990",
+      "name": "Ελληνικές ταινίες της δεκαετίας του 1990",
+      "category": "entertainment",
+      "record_count": 33,
+      "columns": [
+        "titlos",
+        "etos",
+        "skinothetis",
+        "ithopoioi",
+        "eidos"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_ελληνικών_ταινιών_δεκαετίας_1990",
+      "updated": "2026-11",
+      "size": 13577,
+      "files": {
+        "csv": {
+          "name": "el-ellinikes-tainies-dekaetias-1990_EL.csv",
+          "size": 8043
+        },
+        "xlsx": {
+          "name": "el-ellinikes-tainies-dekaetias-1990_EL.xlsx",
+          "size": 10133
         }
       }
     },
