@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-23T02:35:54.268Z",
-  "total_datasets": 531,
-  "total_records": 202948,
+  "generated": "2026-11-24T02:17:26.544Z",
+  "total_datasets": 532,
+  "total_records": 203065,
   "categories": [
     {
       "id": "agriculture",
@@ -54,7 +54,7 @@
     },
     {
       "id": "law",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "music",
@@ -5819,6 +5819,36 @@
         "xlsx": {
           "name": "el-latinikoi-ellinikoi-taxinomikoi-oroi_EL.xlsx",
           "size": 7928
+        }
+      }
+    },
+    {
+      "id": "el-egklimata-astynomias-ana-perifereia",
+      "name": "Εγκλήματα που καταγράφηκαν από την αστυνομία ανά περιφέρεια της Ελλάδας (2015–2024)",
+      "category": "law",
+      "record_count": 117,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "anthropoktonies_ek_proairesews",
+        "lishsties",
+        "diarrixeis",
+        "diarrixeis_katoikion",
+        "klopes",
+        "klopes_ochimaton"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/crim_gen_reg/default/table",
+      "updated": "2026-11",
+      "size": 40203,
+      "files": {
+        "csv": {
+          "name": "el-egklimata-astynomias-ana-perifereia_EL.csv",
+          "size": 11757
+        },
+        "xlsx": {
+          "name": "el-egklimata-astynomias-ana-perifereia_EL.xlsx",
+          "size": 12147
         }
       }
     },
