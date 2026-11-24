@@ -1,0 +1,178 @@
+{
+  "id": "el-georgikes-ekmetalleuseis-ana-perifereia-2020",
+  "name": "Γεωργικές εκμεταλλεύσεις ανά περιφέρεια της Ελλάδας (απογραφή γεωργίας 2020)",
+  "title": "Γεωργικές εκμεταλλεύσεις ανά περιφέρεια της Ελλάδας (απογραφή γεωργίας 2020)",
+  "description": "Αριθμός γεωργικών εκμεταλλεύσεων, χρησιμοποιούμενη γεωργική έκταση (εκτάρια), μονάδες ετήσιας εργασίας, μονάδες ζωικού κεφαλαίου και τυπική απόδοση (ευρώ) ανά περιφέρεια (NUTS 2) της Ελλάδας, από την απογραφή γεωργίας και κτηνοτροφίας 2020 (Eurostat).",
+  "category": "agriculture",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg/default/table",
+  "updated": "2026-11",
+  "record_count": 13,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "typiki_apodosi_eur",
+      "label": "Typiki Apodosi Eur",
+      "type": "number"
+    },
+    {
+      "key": "chrisimopoioumeni_georgiki_ektasi_ha",
+      "label": "Chrisimopoioumeni Georgiki Ektasi Ha",
+      "type": "number"
+    },
+    {
+      "key": "monades_etisias_ergasias",
+      "label": "Monades Etisias Ergasias",
+      "type": "number"
+    },
+    {
+      "key": "monades_zoikou_kefalaiou",
+      "label": "Monades Zoikou Kefalaiou",
+      "type": "number"
+    },
+    {
+      "key": "ekmetalleuseis",
+      "label": "Ekmetalleuseis",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "typiki_apodosi_eur": 159891200,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 27710,
+      "monades_etisias_ergasias": 10420,
+      "monades_zoikou_kefalaiou": 37040,
+      "ekmetalleuseis": 12340
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "typiki_apodosi_eur": 218403760,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 123700,
+      "monades_etisias_ergasias": 21140,
+      "monades_zoikou_kefalaiou": 64780,
+      "ekmetalleuseis": 22980
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "typiki_apodosi_eur": 139831120,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 65390,
+      "monades_etisias_ergasias": 14250,
+      "monades_zoikou_kefalaiou": 46890,
+      "ekmetalleuseis": 15920
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "typiki_apodosi_eur": 810705020,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 336660,
+      "monades_etisias_ergasias": 71190,
+      "monades_zoikou_kefalaiou": 270610,
+      "ekmetalleuseis": 74130
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "typiki_apodosi_eur": 692136280,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 309080,
+      "monades_etisias_ergasias": 48640,
+      "monades_zoikou_kefalaiou": 155150,
+      "ekmetalleuseis": 36240
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "typiki_apodosi_eur": 1495824250,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 541300,
+      "monades_etisias_ergasias": 91460,
+      "monades_zoikou_kefalaiou": 285690,
+      "ekmetalleuseis": 68810
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "typiki_apodosi_eur": 339727920,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 188040,
+      "monades_etisias_ergasias": 18860,
+      "monades_zoikou_kefalaiou": 86540,
+      "ekmetalleuseis": 15380
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "typiki_apodosi_eur": 543736740,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 70580,
+      "monades_etisias_ergasias": 28680,
+      "monades_zoikou_kefalaiou": 237600,
+      "ekmetalleuseis": 23290
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "typiki_apodosi_eur": 876519330,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 348060,
+      "monades_etisias_ergasias": 53210,
+      "monades_zoikou_kefalaiou": 249130,
+      "ekmetalleuseis": 45760
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "typiki_apodosi_eur": 112907100,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 56340,
+      "monades_etisias_ergasias": 17640,
+      "monades_zoikou_kefalaiou": 25510,
+      "ekmetalleuseis": 20140
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "typiki_apodosi_eur": 865787630,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 242060,
+      "monades_etisias_ergasias": 71030,
+      "monades_zoikou_kefalaiou": 253420,
+      "ekmetalleuseis": 69290
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "typiki_apodosi_eur": 614962060,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 252530,
+      "monades_etisias_ergasias": 46990,
+      "monades_zoikou_kefalaiou": 133610,
+      "ekmetalleuseis": 54420
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "typiki_apodosi_eur": 871918560,
+      "chrisimopoioumeni_georgiki_ektasi_ha": 260940,
+      "monades_etisias_ergasias": 70010,
+      "monades_zoikou_kefalaiou": 116880,
+      "ekmetalleuseis": 71940
+    }
+  ],
+  "meta": {
+    "title": "Γεωργικές εκμεταλλεύσεις ανά περιφέρεια της Ελλάδας (απογραφή γεωργίας 2020) - Free Download",
+    "description": "Αριθμός γεωργικών εκμεταλλεύσεων, χρησιμοποιούμενη γεωργική έκταση (εκτάρια), μονάδες ετήσιας εργασίας, μονάδες ζωικού κεφαλαίου και τυπική απόδοση (ευρώ) ανά περιφέρεια (NUTS 2) της Ελλάδας, από την απογραφή γεωργίας και κτηνοτροφίας 2020 (Eurostat). Contains 13 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Γεωργικές εκμεταλλεύσεις ανά περιφέρεια της Ελλάδας (απογραφή γεωργίας 2020) | ListBase",
+    "seo_description": "Download Γεωργικές εκμεταλλεύσεις ανά περιφέρεια της Ελλάδας (απογραφή γεωργίας 2020) — 13 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 13 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmleg/default/table"
+    ]
+  }
+}
