@@ -1,0 +1,529 @@
+{
+  "id": "el-iatroi-klines-nosokomeion-ana-perifereia",
+  "name": "Ιατροί και κλίνες νοσοκομείων ανά περιφέρεια της Ελλάδας (2021–2024)",
+  "title": "Ιατροί και κλίνες νοσοκομείων ανά περιφέρεια της Ελλάδας (2021–2024)",
+  "description": "Αριθμός ιατρών και κλινών νοσοκομείων, συνολικά και ανά 100.000 κατοίκους, σε κάθε περιφέρεια (NUTS 2) της Ελλάδας για τα έτη 2021–2024, στοιχεία Eurostat.",
+  "category": "health",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table",
+  "updated": "2026-11",
+  "record_count": 52,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "iatroi",
+      "label": "Iatroi",
+      "type": "number"
+    },
+    {
+      "key": "iatroi_ana_100000_katoikous",
+      "label": "Iatroi Ana 100000 Katoikous",
+      "type": "number"
+    },
+    {
+      "key": "klines_nosokomeion",
+      "label": "Klines Nosokomeion",
+      "type": "number"
+    },
+    {
+      "key": "klines_nosokomeion_ana_100000_katoikous",
+      "label": "Klines Nosokomeion Ana 100000 Katoikous",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2021,
+      "iatroi": 31174,
+      "iatroi_ana_100000_katoikous": 818.7,
+      "klines_nosokomeion": 18416,
+      "klines_nosokomeion_ana_100000_katoikous": 483.6
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2022,
+      "iatroi": 31415,
+      "iatroi_ana_100000_katoikous": 826.4,
+      "klines_nosokomeion": 18171,
+      "klines_nosokomeion_ana_100000_katoikous": 478
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2023,
+      "iatroi": 31827,
+      "iatroi_ana_100000_katoikous": 838.5,
+      "klines_nosokomeion": 17902,
+      "klines_nosokomeion_ana_100000_katoikous": 471.7
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2024,
+      "iatroi": 32645,
+      "iatroi_ana_100000_katoikous": 867.2,
+      "klines_nosokomeion": 17621,
+      "klines_nosokomeion_ana_100000_katoikous": 468.1
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2021,
+      "iatroi": 768,
+      "iatroi_ana_100000_katoikous": 394.7,
+      "klines_nosokomeion": 653,
+      "klines_nosokomeion_ana_100000_katoikous": 335.6
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2022,
+      "iatroi": 785,
+      "iatroi_ana_100000_katoikous": 403.2,
+      "klines_nosokomeion": 664,
+      "klines_nosokomeion_ana_100000_katoikous": 341.1
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2023,
+      "iatroi": 769,
+      "iatroi_ana_100000_katoikous": 394.8,
+      "klines_nosokomeion": 713,
+      "klines_nosokomeion_ana_100000_katoikous": 366.1
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2024,
+      "iatroi": 746,
+      "iatroi_ana_100000_katoikous": 358.8,
+      "klines_nosokomeion": 696,
+      "klines_nosokomeion_ana_100000_katoikous": 334.7
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2021,
+      "iatroi": 1316,
+      "iatroi_ana_100000_katoikous": 401.6,
+      "klines_nosokomeion": 886,
+      "klines_nosokomeion_ana_100000_katoikous": 270.4
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2022,
+      "iatroi": 1272,
+      "iatroi_ana_100000_katoikous": 388.7,
+      "klines_nosokomeion": 890,
+      "klines_nosokomeion_ana_100000_katoikous": 272
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2023,
+      "iatroi": 1309,
+      "iatroi_ana_100000_katoikous": 400.5,
+      "klines_nosokomeion": 881,
+      "klines_nosokomeion_ana_100000_katoikous": 269.6
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2024,
+      "iatroi": 1270,
+      "iatroi_ana_100000_katoikous": 388.3,
+      "klines_nosokomeion": 860,
+      "klines_nosokomeion_ana_100000_katoikous": 263
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2021,
+      "iatroi": 3876,
+      "iatroi_ana_100000_katoikous": 621.2,
+      "klines_nosokomeion": 2513,
+      "klines_nosokomeion_ana_100000_katoikous": 402.8
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2022,
+      "iatroi": 3941,
+      "iatroi_ana_100000_katoikous": 632.3,
+      "klines_nosokomeion": 2460,
+      "klines_nosokomeion_ana_100000_katoikous": 394.7
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2023,
+      "iatroi": 3902,
+      "iatroi_ana_100000_katoikous": 626.7,
+      "klines_nosokomeion": 2456,
+      "klines_nosokomeion_ana_100000_katoikous": 394.5
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2024,
+      "iatroi": 3955,
+      "iatroi_ana_100000_katoikous": 636.8,
+      "klines_nosokomeion": 2545,
+      "klines_nosokomeion_ana_100000_katoikous": 409.7
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2021,
+      "iatroi": 3084,
+      "iatroi_ana_100000_katoikous": 549.9,
+      "klines_nosokomeion": 2526,
+      "klines_nosokomeion_ana_100000_katoikous": 450.4
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2022,
+      "iatroi": 3093,
+      "iatroi_ana_100000_katoikous": 552.5,
+      "klines_nosokomeion": 2505,
+      "klines_nosokomeion_ana_100000_katoikous": 447.5
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2023,
+      "iatroi": 3100,
+      "iatroi_ana_100000_katoikous": 554.7,
+      "klines_nosokomeion": 2459,
+      "klines_nosokomeion_ana_100000_katoikous": 440
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2024,
+      "iatroi": 3118,
+      "iatroi_ana_100000_katoikous": 551.7,
+      "klines_nosokomeion": 2461,
+      "klines_nosokomeion_ana_100000_katoikous": 435.4
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2021,
+      "iatroi": 11941,
+      "iatroi_ana_100000_katoikous": 666.6,
+      "klines_nosokomeion": 8189,
+      "klines_nosokomeion_ana_100000_katoikous": 457.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2022,
+      "iatroi": 12216,
+      "iatroi_ana_100000_katoikous": 683.6,
+      "klines_nosokomeion": 8131,
+      "klines_nosokomeion_ana_100000_katoikous": 455
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2023,
+      "iatroi": 12198,
+      "iatroi_ana_100000_katoikous": 684.3,
+      "klines_nosokomeion": 8059,
+      "klines_nosokomeion_ana_100000_katoikous": 452.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2024,
+      "iatroi": 12483,
+      "iatroi_ana_100000_katoikous": 704.3,
+      "klines_nosokomeion": 7995,
+      "klines_nosokomeion_ana_100000_katoikous": 451.1
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2021,
+      "iatroi": 960,
+      "iatroi_ana_100000_katoikous": 378.1,
+      "klines_nosokomeion": 1098,
+      "klines_nosokomeion_ana_100000_katoikous": 432.5
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2022,
+      "iatroi": 919,
+      "iatroi_ana_100000_katoikous": 364.6,
+      "klines_nosokomeion": 1098,
+      "klines_nosokomeion_ana_100000_katoikous": 435.6
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2023,
+      "iatroi": 908,
+      "iatroi_ana_100000_katoikous": 362.8,
+      "klines_nosokomeion": 1128,
+      "klines_nosokomeion_ana_100000_katoikous": 450.7
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2024,
+      "iatroi": 928,
+      "iatroi_ana_100000_katoikous": 381,
+      "klines_nosokomeion": 1116,
+      "klines_nosokomeion_ana_100000_katoikous": 458.2
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2021,
+      "iatroi": 2382,
+      "iatroi_ana_100000_katoikous": 746.2,
+      "klines_nosokomeion": 1578,
+      "klines_nosokomeion_ana_100000_katoikous": 494.3
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2022,
+      "iatroi": 2454,
+      "iatroi_ana_100000_katoikous": 769.6,
+      "klines_nosokomeion": 1555,
+      "klines_nosokomeion_ana_100000_katoikous": 487.7
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2023,
+      "iatroi": 2463,
+      "iatroi_ana_100000_katoikous": 773.3,
+      "klines_nosokomeion": 1541,
+      "klines_nosokomeion_ana_100000_katoikous": 483.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2024,
+      "iatroi": 2531,
+      "iatroi_ana_100000_katoikous": 781,
+      "klines_nosokomeion": 1529,
+      "klines_nosokomeion_ana_100000_katoikous": 471.8
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2021,
+      "iatroi": 3712,
+      "iatroi_ana_100000_katoikous": 540.8,
+      "klines_nosokomeion": 4020,
+      "klines_nosokomeion_ana_100000_katoikous": 585.6
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2022,
+      "iatroi": 4046,
+      "iatroi_ana_100000_katoikous": 591.7,
+      "klines_nosokomeion": 3957,
+      "klines_nosokomeion_ana_100000_katoikous": 578.7
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2023,
+      "iatroi": 4090,
+      "iatroi_ana_100000_katoikous": 600.4,
+      "klines_nosokomeion": 4023,
+      "klines_nosokomeion_ana_100000_katoikous": 590.6
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2024,
+      "iatroi": 4013,
+      "iatroi_ana_100000_katoikous": 593.6,
+      "klines_nosokomeion": 4113,
+      "klines_nosokomeion_ana_100000_katoikous": 608.4
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2021,
+      "iatroi": 1038,
+      "iatroi_ana_100000_katoikous": 508.4,
+      "klines_nosokomeion": 666,
+      "klines_nosokomeion_ana_100000_katoikous": 326.2
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2022,
+      "iatroi": 1082,
+      "iatroi_ana_100000_katoikous": 532.4,
+      "klines_nosokomeion": 675,
+      "klines_nosokomeion_ana_100000_katoikous": 332.2
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2023,
+      "iatroi": 1033,
+      "iatroi_ana_100000_katoikous": 510.7,
+      "klines_nosokomeion": 666,
+      "klines_nosokomeion_ana_100000_katoikous": 329.3
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2024,
+      "iatroi": 1050,
+      "iatroi_ana_100000_katoikous": 529.2,
+      "klines_nosokomeion": 632,
+      "klines_nosokomeion_ana_100000_katoikous": 318.5
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2021,
+      "iatroi": 3287,
+      "iatroi_ana_100000_katoikous": 508.2,
+      "klines_nosokomeion": 2044,
+      "klines_nosokomeion_ana_100000_katoikous": 316
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2022,
+      "iatroi": 3297,
+      "iatroi_ana_100000_katoikous": 511.4,
+      "klines_nosokomeion": 2012,
+      "klines_nosokomeion_ana_100000_katoikous": 312.1
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2023,
+      "iatroi": 3271,
+      "iatroi_ana_100000_katoikous": 508.9,
+      "klines_nosokomeion": 1982,
+      "klines_nosokomeion_ana_100000_katoikous": 308.4
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2024,
+      "iatroi": 3301,
+      "iatroi_ana_100000_katoikous": 519.1,
+      "klines_nosokomeion": 2007,
+      "klines_nosokomeion_ana_100000_katoikous": 315.6
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2021,
+      "iatroi": 1761,
+      "iatroi_ana_100000_katoikous": 347.3,
+      "klines_nosokomeion": 990,
+      "klines_nosokomeion_ana_100000_katoikous": 195.3
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2022,
+      "iatroi": 1806,
+      "iatroi_ana_100000_katoikous": 357.3,
+      "klines_nosokomeion": 1094,
+      "klines_nosokomeion_ana_100000_katoikous": 216.4
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2023,
+      "iatroi": 1762,
+      "iatroi_ana_100000_katoikous": 349.6,
+      "klines_nosokomeion": 1064,
+      "klines_nosokomeion_ana_100000_katoikous": 211.1
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2024,
+      "iatroi": 1715,
+      "iatroi_ana_100000_katoikous": 338.1,
+      "klines_nosokomeion": 1069,
+      "klines_nosokomeion_ana_100000_katoikous": 210.8
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2021,
+      "iatroi": 2207,
+      "iatroi_ana_100000_katoikous": 410.1,
+      "klines_nosokomeion": 1215,
+      "klines_nosokomeion_ana_100000_katoikous": 225.7
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2022,
+      "iatroi": 2194,
+      "iatroi_ana_100000_katoikous": 409.3,
+      "klines_nosokomeion": 1256,
+      "klines_nosokomeion_ana_100000_katoikous": 234.3
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2023,
+      "iatroi": 2254,
+      "iatroi_ana_100000_katoikous": 422.2,
+      "klines_nosokomeion": 1259,
+      "klines_nosokomeion_ana_100000_katoikous": 235.8
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2024,
+      "iatroi": 2182,
+      "iatroi_ana_100000_katoikous": 412.4,
+      "klines_nosokomeion": 1264,
+      "klines_nosokomeion_ana_100000_katoikous": 238.9
+    }
+  ],
+  "meta": {
+    "title": "Ιατροί και κλίνες νοσοκομείων ανά περιφέρεια της Ελλάδας (2021–2024) - Free Download",
+    "description": "Αριθμός ιατρών και κλινών νοσοκομείων, συνολικά και ανά 100.000 κατοίκους, σε κάθε περιφέρεια (NUTS 2) της Ελλάδας για τα έτη 2021–2024, στοιχεία Eurostat. Contains 52 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Ιατροί και κλίνες νοσοκομείων ανά περιφέρεια της Ελλάδας (2021–2024) | ListBase",
+    "seo_description": "Download Ιατροί και κλίνες νοσοκομείων ανά περιφέρεια της Ελλάδας (2021–2024) — 52 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 52 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table"
+    ]
+  }
+}

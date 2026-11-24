@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-24T02:17:36.400Z",
-  "total_datasets": 533,
-  "total_records": 203078,
+  "generated": "2026-11-24T02:17:46.352Z",
+  "total_datasets": 534,
+  "total_records": 203130,
   "categories": [
     {
       "id": "agriculture",
@@ -42,7 +42,7 @@
     },
     {
       "id": "health",
-      "dataset_count": 10
+      "dataset_count": 11
     },
     {
       "id": "history",
@@ -5326,6 +5326,34 @@
         "xlsx": {
           "name": "el-iatreia_EL.xlsx",
           "size": 30757
+        }
+      }
+    },
+    {
+      "id": "el-iatroi-klines-nosokomeion-ana-perifereia",
+      "name": "Ιατροί και κλίνες νοσοκομείων ανά περιφέρεια της Ελλάδας (2021–2024)",
+      "category": "health",
+      "record_count": 52,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "iatroi",
+        "iatroi_ana_100000_katoikous",
+        "klines_nosokomeion",
+        "klines_nosokomeion_ana_100000_katoikous"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/hlth_rs_physreg/default/table",
+      "updated": "2026-11",
+      "size": 17802,
+      "files": {
+        "csv": {
+          "name": "el-iatroi-klines-nosokomeion-ana-perifereia_EL.csv",
+          "size": 5066
+        },
+        "xlsx": {
+          "name": "el-iatroi-klines-nosokomeion-ana-perifereia_EL.xlsx",
+          "size": 8965
         }
       }
     },
