@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-24T02:17:46.352Z",
-  "total_datasets": 534,
-  "total_records": 203130,
+  "generated": "2026-11-25T02:12:27.636Z",
+  "total_datasets": 535,
+  "total_records": 203260,
   "categories": [
     {
       "id": "agriculture",
@@ -70,7 +70,7 @@
     },
     {
       "id": "science",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "society",
@@ -13078,6 +13078,36 @@
         "xlsx": {
           "name": "el-amfivia-elladas_EL.xlsx",
           "size": 7962
+        }
+      }
+    },
+    {
+      "id": "el-dapanes-erevnas-anaptyxis-ana-perifereia",
+      "name": "Δαπάνες έρευνας και ανάπτυξης (Ε&Α) ανά περιφέρεια της Ελλάδας (2013–2024)",
+      "category": "science",
+      "record_count": 130,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "dapanes_ek_synolo_ekat_eur",
+        "dapanes_ek_eur_ana_katoiko",
+        "dapanes_ek_pososto_aep",
+        "epicheiriseis_ekat_eur",
+        "dimosio_ekat_eur",
+        "anotati_ekpaidefsi_ekat_eur"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/rd_e_gerdreg/default/table",
+      "updated": "2026-11",
+      "size": 51903,
+      "files": {
+        "csv": {
+          "name": "el-dapanes-erevnas-anaptyxis-ana-perifereia_EL.csv",
+          "size": 14732
+        },
+        "xlsx": {
+          "name": "el-dapanes-erevnas-anaptyxis-ana-perifereia_EL.xlsx",
+          "size": 13352
         }
       }
     },
