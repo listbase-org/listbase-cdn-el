@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-25T02:12:37.445Z",
-  "total_datasets": 536,
-  "total_records": 203403,
+  "generated": "2026-11-25T02:12:45.131Z",
+  "total_datasets": 537,
+  "total_records": 203546,
   "categories": [
     {
       "id": "agriculture",
@@ -18,7 +18,7 @@
     },
     {
       "id": "education",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "entertainment",
@@ -1913,6 +1913,33 @@
         "xlsx": {
           "name": "el-attikis-scholeia_EL.xlsx",
           "size": 230164
+        }
+      }
+    },
+    {
+      "id": "el-epipedo-ekpaidefsis-plithysmou-ana-perifereia",
+      "name": "Μορφωτικό επίπεδο πληθυσμού 25–64 ετών ανά περιφέρεια της Ελλάδας (2015–2025)",
+      "category": "education",
+      "record_count": 143,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "pososto_eos_katotero_defterovathmia",
+        "pososto_anotero_defterovathmia_metadefterovathmia",
+        "pososto_tritovathmia"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table",
+      "updated": "2026-11",
+      "size": 43970,
+      "files": {
+        "csv": {
+          "name": "el-epipedo-ekpaidefsis-plithysmou-ana-perifereia_EL.csv",
+          "size": 12388
+        },
+        "xlsx": {
+          "name": "el-epipedo-ekpaidefsis-plithysmou-ana-perifereia_EL.xlsx",
+          "size": 11213
         }
       }
     },

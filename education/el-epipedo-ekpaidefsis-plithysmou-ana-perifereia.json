@@ -1,0 +1,1200 @@
+{
+  "id": "el-epipedo-ekpaidefsis-plithysmou-ana-perifereia",
+  "name": "Μορφωτικό επίπεδο πληθυσμού 25–64 ετών ανά περιφέρεια της Ελλάδας (2015–2025)",
+  "title": "Μορφωτικό επίπεδο πληθυσμού 25–64 ετών ανά περιφέρεια της Ελλάδας (2015–2025)",
+  "description": "Ποσοστό (%) του πληθυσμού 25–64 ετών ανά ανώτατο επίπεδο εκπαίδευσης (έως κατώτερη δευτεροβάθμια, ανώτερη δευτεροβάθμια/μεταδευτεροβάθμια, τριτοβάθμια) σε κάθε περιφέρεια (NUTS 2) της Ελλάδας ανά έτος, στοιχεία Eurostat (Έρευνα Εργατικού Δυναμικού).",
+  "category": "education",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table",
+  "updated": "2026-11",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "pososto_eos_katotero_defterovathmia",
+      "label": "Pososto Eos Katotero Defterovathmia",
+      "type": "number"
+    },
+    {
+      "key": "pososto_anotero_defterovathmia_metadefterovathmia",
+      "label": "Pososto Anotero Defterovathmia Metadefterovathmia",
+      "type": "number"
+    },
+    {
+      "key": "pososto_tritovathmia",
+      "label": "Pososto Tritovathmia",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 18,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.9,
+      "pososto_tritovathmia": 37
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 18,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44,
+      "pososto_tritovathmia": 38
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 17.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.4,
+      "pososto_tritovathmia": 38.4
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 17.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.5,
+      "pososto_tritovathmia": 39.3
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 15,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.9,
+      "pososto_tritovathmia": 40.2
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 13.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.7,
+      "pososto_tritovathmia": 41
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 11.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.8,
+      "pososto_tritovathmia": 45
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 10.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.3,
+      "pososto_tritovathmia": 45.6
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 10.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.7,
+      "pososto_tritovathmia": 43.7
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 10.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.9,
+      "pososto_tritovathmia": 44.6
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 9.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.6,
+      "pososto_tritovathmia": 44.6
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 37.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.3,
+      "pososto_tritovathmia": 22.9
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 30.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.9,
+      "pososto_tritovathmia": 25.6
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 31.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44,
+      "pososto_tritovathmia": 24.2
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 28.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.3,
+      "pososto_tritovathmia": 24.5
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 23.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 49.9,
+      "pososto_tritovathmia": 26.9
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 22.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.5,
+      "pososto_tritovathmia": 29.3
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 24.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48,
+      "pososto_tritovathmia": 27.9
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 19.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 53.3,
+      "pososto_tritovathmia": 26.7
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 23.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 50,
+      "pososto_tritovathmia": 26.7
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 26.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.2,
+      "pososto_tritovathmia": 26.5
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 18.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 60.6,
+      "pososto_tritovathmia": 21.3
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 35.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45,
+      "pososto_tritovathmia": 19.1
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 37,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.6,
+      "pososto_tritovathmia": 17.4
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 37.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 42.1,
+      "pososto_tritovathmia": 20.4
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 31.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.3,
+      "pososto_tritovathmia": 20.8
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 28.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 49.5,
+      "pososto_tritovathmia": 22.2
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 29.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.3,
+      "pososto_tritovathmia": 22.5
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 25.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 50.4,
+      "pososto_tritovathmia": 24.1
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 27.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.3,
+      "pososto_tritovathmia": 28.6
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 31.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.5,
+      "pososto_tritovathmia": 20.1
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 30.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47,
+      "pososto_tritovathmia": 22.2
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 28.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.6,
+      "pososto_tritovathmia": 22.5
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 36.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.3,
+      "pososto_tritovathmia": 24.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 32.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.7,
+      "pososto_tritovathmia": 26.8
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 31.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.4,
+      "pososto_tritovathmia": 27.9
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 33.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.3,
+      "pososto_tritovathmia": 26.6
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 27.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.9,
+      "pososto_tritovathmia": 26.3
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 24.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.7,
+      "pososto_tritovathmia": 28
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 27.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.3,
+      "pososto_tritovathmia": 27.6
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 27,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44,
+      "pososto_tritovathmia": 28.9
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 25.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.9,
+      "pososto_tritovathmia": 28.4
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 23.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.9,
+      "pososto_tritovathmia": 28.5
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 24,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.5,
+      "pososto_tritovathmia": 28.5
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 45.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 31.9,
+      "pososto_tritovathmia": 22.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 40.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 35,
+      "pososto_tritovathmia": 24.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 39.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 35.1,
+      "pososto_tritovathmia": 25
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 39.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 35.6,
+      "pososto_tritovathmia": 25.1
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 34.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.4,
+      "pososto_tritovathmia": 23.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 32.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.5,
+      "pososto_tritovathmia": 24.4
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 32.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 42.2,
+      "pososto_tritovathmia": 24.9
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 31.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.8,
+      "pososto_tritovathmia": 27.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 35.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.9,
+      "pososto_tritovathmia": 24.5
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 32.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.1,
+      "pososto_tritovathmia": 23.7
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 28.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.7,
+      "pososto_tritovathmia": 28
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 31.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.1,
+      "pososto_tritovathmia": 29.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 29.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.5,
+      "pososto_tritovathmia": 31.3
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 27.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.2,
+      "pososto_tritovathmia": 31.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 27.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.8,
+      "pososto_tritovathmia": 31.7
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 22.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.4,
+      "pososto_tritovathmia": 31.4
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 20.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.8,
+      "pososto_tritovathmia": 32.2
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 19.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.1,
+      "pososto_tritovathmia": 33.3
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 19.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.4,
+      "pososto_tritovathmia": 33.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 18.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.6,
+      "pososto_tritovathmia": 34.2
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 17,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.9,
+      "pososto_tritovathmia": 37.1
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 17.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.5,
+      "pososto_tritovathmia": 36.4
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 41.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 36.9,
+      "pososto_tritovathmia": 21.9
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 38.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.3,
+      "pososto_tritovathmia": 21.8
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 34.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.6,
+      "pososto_tritovathmia": 24.5
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 32.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.4,
+      "pososto_tritovathmia": 26
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 26,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.9,
+      "pososto_tritovathmia": 27.1
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 26,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.4,
+      "pososto_tritovathmia": 26.6
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 23.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.4,
+      "pososto_tritovathmia": 27.7
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 21.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 50.6,
+      "pososto_tritovathmia": 27.6
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 20.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 51.3,
+      "pososto_tritovathmia": 28.5
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 19,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 52.7,
+      "pososto_tritovathmia": 28.3
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 19.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 52.6,
+      "pososto_tritovathmia": 28.3
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 36.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 37.7,
+      "pososto_tritovathmia": 25.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 35,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 36.8,
+      "pososto_tritovathmia": 28.2
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 34.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 36,
+      "pososto_tritovathmia": 30
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 29.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 36.8,
+      "pososto_tritovathmia": 33.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 28.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.5,
+      "pososto_tritovathmia": 31.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 25,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.3,
+      "pososto_tritovathmia": 31.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 25.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.4,
+      "pososto_tritovathmia": 30
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 25.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.9,
+      "pososto_tritovathmia": 30.9
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 20.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.5,
+      "pososto_tritovathmia": 36.3
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 17.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.1,
+      "pososto_tritovathmia": 38.4
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 22.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 42.4,
+      "pososto_tritovathmia": 35.4
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 33.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.9,
+      "pososto_tritovathmia": 26.1
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 32.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 42.3,
+      "pososto_tritovathmia": 25.6
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 29.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.5,
+      "pososto_tritovathmia": 28.6
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 26.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.4,
+      "pososto_tritovathmia": 32.1
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 26.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.9,
+      "pososto_tritovathmia": 31.8
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 24.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.9,
+      "pososto_tritovathmia": 30.3
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 21.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45.3,
+      "pososto_tritovathmia": 32.8
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 19.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.1,
+      "pososto_tritovathmia": 33.5
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 21.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 45,
+      "pososto_tritovathmia": 33.1
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 18,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.7,
+      "pososto_tritovathmia": 34.3
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 20,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.6,
+      "pososto_tritovathmia": 31.4
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 35.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.8,
+      "pososto_tritovathmia": 19.5
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 37.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.3,
+      "pososto_tritovathmia": 20.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 37.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 42.7,
+      "pososto_tritovathmia": 20.1
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 30.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.3,
+      "pososto_tritovathmia": 22.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 32.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.1,
+      "pososto_tritovathmia": 24.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 29.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.6,
+      "pososto_tritovathmia": 23.7
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 30.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 50.4,
+      "pososto_tritovathmia": 18.8
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 26,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 55.5,
+      "pososto_tritovathmia": 18.5
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 25.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 52,
+      "pososto_tritovathmia": 22.3
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 21,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 59.4,
+      "pososto_tritovathmia": 19.6
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 25.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 53,
+      "pososto_tritovathmia": 21.6
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 39.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 37.5,
+      "pososto_tritovathmia": 22.9
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 38.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 38.4,
+      "pososto_tritovathmia": 22.7
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 38.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 37.6,
+      "pososto_tritovathmia": 23.8
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 38.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.4,
+      "pososto_tritovathmia": 21.9
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 37.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 42.1,
+      "pososto_tritovathmia": 20.6
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 33.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.4,
+      "pososto_tritovathmia": 25
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 32.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.3,
+      "pososto_tritovathmia": 26
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 31.4,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.2,
+      "pososto_tritovathmia": 25.4
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 23.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.9,
+      "pososto_tritovathmia": 27.8
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 23.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 51.3,
+      "pososto_tritovathmia": 25.6
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 30.1,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.3,
+      "pososto_tritovathmia": 21.7
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 40.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.5,
+      "pososto_tritovathmia": 19
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 38.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.3,
+      "pososto_tritovathmia": 21.1
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 36.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 39.9,
+      "pososto_tritovathmia": 23.3
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 36.3,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 40.1,
+      "pososto_tritovathmia": 23.6
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 30.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46,
+      "pososto_tritovathmia": 23.2
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 27.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.9,
+      "pososto_tritovathmia": 25.2
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 29,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.3,
+      "pososto_tritovathmia": 24.7
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 27,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 50.3,
+      "pososto_tritovathmia": 22.7
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 24.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 55.2,
+      "pososto_tritovathmia": 20
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 28.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 50.7,
+      "pososto_tritovathmia": 21.1
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 24.8,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 50.4,
+      "pososto_tritovathmia": 24.7
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2015,
+      "pososto_eos_katotero_defterovathmia": 37.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 41.4,
+      "pososto_tritovathmia": 20.8
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2016,
+      "pososto_eos_katotero_defterovathmia": 34.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 43.7,
+      "pososto_tritovathmia": 21.4
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2017,
+      "pososto_eos_katotero_defterovathmia": 32.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 44.5,
+      "pososto_tritovathmia": 23
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2018,
+      "pososto_eos_katotero_defterovathmia": 33.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 42.7,
+      "pososto_tritovathmia": 23.8
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2019,
+      "pososto_eos_katotero_defterovathmia": 29.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.7,
+      "pososto_tritovathmia": 23.8
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2020,
+      "pososto_eos_katotero_defterovathmia": 27.6,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.5,
+      "pososto_tritovathmia": 23.9
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2021,
+      "pososto_eos_katotero_defterovathmia": 26.9,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.4,
+      "pososto_tritovathmia": 24.7
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2022,
+      "pososto_eos_katotero_defterovathmia": 26.2,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 47.3,
+      "pososto_tritovathmia": 26.5
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2023,
+      "pososto_eos_katotero_defterovathmia": 27.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 46.3,
+      "pososto_tritovathmia": 26.2
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2024,
+      "pososto_eos_katotero_defterovathmia": 22.7,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 51.2,
+      "pososto_tritovathmia": 26.1
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2025,
+      "pososto_eos_katotero_defterovathmia": 25.5,
+      "pososto_anotero_defterovathmia_metadefterovathmia": 48.7,
+      "pososto_tritovathmia": 25.8
+    }
+  ],
+  "meta": {
+    "title": "Μορφωτικό επίπεδο πληθυσμού 25–64 ετών ανά περιφέρεια της Ελλάδας (2015–2025) - Free Download",
+    "description": "Ποσοστό (%) του πληθυσμού 25–64 ετών ανά ανώτατο επίπεδο εκπαίδευσης (έως κατώτερη δευτεροβάθμια, ανώτερη δευτεροβάθμια/μεταδευτεροβάθμια, τριτοβάθμια) σε κάθε περιφέρεια (NUTS 2) της Ελλάδας ανά έτος, στοιχεία Eurostat (Έρευνα Εργατικού Δυναμικού). Contains 143 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Μορφωτικό επίπεδο πληθυσμού 25–64 ετών ανά περιφέρεια της Ελλάδας (2015–2025) | ListBase",
+    "seo_description": "Download Μορφωτικό επίπεδο πληθυσμού 25–64 ετών ανά περιφέρεια της Ελλάδας (2015–2025) — 143 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 143 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/edat_lfse_04/default/table"
+    ]
+  }
+}
