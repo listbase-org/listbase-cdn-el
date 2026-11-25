@@ -1,0 +1,1200 @@
+{
+  "id": "el-dianyktereuseis-touriston-ana-perifereia",
+  "name": "Διανυκτερεύσεις σε τουριστικά καταλύματα ανά περιφέρεια της Ελλάδας (2015–2025)",
+  "title": "Διανυκτερεύσεις σε τουριστικά καταλύματα ανά περιφέρεια της Ελλάδας (2015–2025)",
+  "description": "Αριθμός διανυκτερεύσεων σε ξενοδοχεία, ενοικιαζόμενα καταλύματα και κάμπινγκ ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος (2015–2025), συνολικά και χωριστά για κατοίκους Ελλάδας και κατοίκους εξωτερικού, στοιχεία Eurostat.",
+  "category": "tourism",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+  "updated": "2026-11",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "dianyktereuseis_katoikon_elladas",
+      "label": "Dianyktereuseis Katoikon Elladas",
+      "type": "number"
+    },
+    {
+      "key": "dianyktereuseis_katoikon_exoterikou",
+      "label": "Dianyktereuseis Katoikon Exoterikou",
+      "type": "number"
+    },
+    {
+      "key": "dianyktereuseis_synolo",
+      "label": "Dianyktereuseis Synolo",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 2684088,
+      "dianyktereuseis_katoikon_exoterikou": 5978675,
+      "dianyktereuseis_synolo": 8662763
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 2725685,
+      "dianyktereuseis_katoikon_exoterikou": 5997564,
+      "dianyktereuseis_synolo": 8723249
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 2798156,
+      "dianyktereuseis_katoikon_exoterikou": 6801885,
+      "dianyktereuseis_synolo": 9600041
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 2991762,
+      "dianyktereuseis_katoikon_exoterikou": 7950363,
+      "dianyktereuseis_synolo": 10942125
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 3016095,
+      "dianyktereuseis_katoikon_exoterikou": 7991236,
+      "dianyktereuseis_synolo": 11007331
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 1416224,
+      "dianyktereuseis_katoikon_exoterikou": 1941767,
+      "dianyktereuseis_synolo": 3357991
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 1870234,
+      "dianyktereuseis_katoikon_exoterikou": 3557774,
+      "dianyktereuseis_synolo": 5428008
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 2676571,
+      "dianyktereuseis_katoikon_exoterikou": 7636748,
+      "dianyktereuseis_synolo": 10313319
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 3148617,
+      "dianyktereuseis_katoikon_exoterikou": 9260981,
+      "dianyktereuseis_synolo": 12409598
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 3226494,
+      "dianyktereuseis_katoikon_exoterikou": 9516138,
+      "dianyktereuseis_synolo": 12742632
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 3151758,
+      "dianyktereuseis_katoikon_exoterikou": 9643023,
+      "dianyktereuseis_synolo": 12794781
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 684241,
+      "dianyktereuseis_katoikon_exoterikou": 2181631,
+      "dianyktereuseis_synolo": 2865872
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 682654,
+      "dianyktereuseis_katoikon_exoterikou": 1709835,
+      "dianyktereuseis_synolo": 2392489
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 668635,
+      "dianyktereuseis_katoikon_exoterikou": 1940533,
+      "dianyktereuseis_synolo": 2609168
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 709882,
+      "dianyktereuseis_katoikon_exoterikou": 2242830,
+      "dianyktereuseis_synolo": 2952712
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 706983,
+      "dianyktereuseis_katoikon_exoterikou": 2185634,
+      "dianyktereuseis_synolo": 2892617
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 431457,
+      "dianyktereuseis_katoikon_exoterikou": 289893,
+      "dianyktereuseis_synolo": 721350
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 490591,
+      "dianyktereuseis_katoikon_exoterikou": 861714,
+      "dianyktereuseis_synolo": 1352305
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 647882,
+      "dianyktereuseis_katoikon_exoterikou": 1898014,
+      "dianyktereuseis_synolo": 2545896
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 759972,
+      "dianyktereuseis_katoikon_exoterikou": 2080621,
+      "dianyktereuseis_synolo": 2840593
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 746599,
+      "dianyktereuseis_katoikon_exoterikou": 2238033,
+      "dianyktereuseis_synolo": 2984632
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 736041,
+      "dianyktereuseis_katoikon_exoterikou": 2429365,
+      "dianyktereuseis_synolo": 3165406
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 3202793,
+      "dianyktereuseis_katoikon_exoterikou": 21563124,
+      "dianyktereuseis_synolo": 24765917
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 3967257,
+      "dianyktereuseis_katoikon_exoterikou": 22100512,
+      "dianyktereuseis_synolo": 26067769
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 3991200,
+      "dianyktereuseis_katoikon_exoterikou": 24922436,
+      "dianyktereuseis_synolo": 28913636
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 4500948,
+      "dianyktereuseis_katoikon_exoterikou": 33719298,
+      "dianyktereuseis_synolo": 38220246
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 4221945,
+      "dianyktereuseis_katoikon_exoterikou": 34928202,
+      "dianyktereuseis_synolo": 39150147
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 1575547,
+      "dianyktereuseis_katoikon_exoterikou": 8516533,
+      "dianyktereuseis_synolo": 10092080
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 2067361,
+      "dianyktereuseis_katoikon_exoterikou": 17831244,
+      "dianyktereuseis_synolo": 19898605
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 3642480,
+      "dianyktereuseis_katoikon_exoterikou": 32517521,
+      "dianyktereuseis_synolo": 36160001
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 3064318,
+      "dianyktereuseis_katoikon_exoterikou": 35295868,
+      "dianyktereuseis_synolo": 38360186
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 3218985,
+      "dianyktereuseis_katoikon_exoterikou": 38281481,
+      "dianyktereuseis_synolo": 41500466
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 3349398,
+      "dianyktereuseis_katoikon_exoterikou": 38486434,
+      "dianyktereuseis_synolo": 41835832
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 1397669,
+      "dianyktereuseis_katoikon_exoterikou": 24192669,
+      "dianyktereuseis_synolo": 25590338
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 1471732,
+      "dianyktereuseis_katoikon_exoterikou": 26485066,
+      "dianyktereuseis_synolo": 27956798
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 1298482,
+      "dianyktereuseis_katoikon_exoterikou": 28501959,
+      "dianyktereuseis_synolo": 29800441
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 1494559,
+      "dianyktereuseis_katoikon_exoterikou": 33172963,
+      "dianyktereuseis_synolo": 34667522
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 1551842,
+      "dianyktereuseis_katoikon_exoterikou": 32047003,
+      "dianyktereuseis_synolo": 33598845
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 697291,
+      "dianyktereuseis_katoikon_exoterikou": 7444450,
+      "dianyktereuseis_synolo": 8141741
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 1004086,
+      "dianyktereuseis_katoikon_exoterikou": 16969580,
+      "dianyktereuseis_synolo": 17973666
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 1485163,
+      "dianyktereuseis_katoikon_exoterikou": 30539984,
+      "dianyktereuseis_synolo": 32025147
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 1849167,
+      "dianyktereuseis_katoikon_exoterikou": 32493724,
+      "dianyktereuseis_synolo": 34342891
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 1924142,
+      "dianyktereuseis_katoikon_exoterikou": 32614437,
+      "dianyktereuseis_synolo": 34538579
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 1888974,
+      "dianyktereuseis_katoikon_exoterikou": 33310288,
+      "dianyktereuseis_synolo": 35199262
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 1007825,
+      "dianyktereuseis_katoikon_exoterikou": 1876494,
+      "dianyktereuseis_synolo": 2884319
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 1038891,
+      "dianyktereuseis_katoikon_exoterikou": 1820586,
+      "dianyktereuseis_synolo": 2859477
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 1042529,
+      "dianyktereuseis_katoikon_exoterikou": 2095423,
+      "dianyktereuseis_synolo": 3137952
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 1042071,
+      "dianyktereuseis_katoikon_exoterikou": 2314020,
+      "dianyktereuseis_synolo": 3356091
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 1006899,
+      "dianyktereuseis_katoikon_exoterikou": 2360323,
+      "dianyktereuseis_synolo": 3367222
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 635399,
+      "dianyktereuseis_katoikon_exoterikou": 469686,
+      "dianyktereuseis_synolo": 1105085
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 672936,
+      "dianyktereuseis_katoikon_exoterikou": 1081254,
+      "dianyktereuseis_synolo": 1754190
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 895435,
+      "dianyktereuseis_katoikon_exoterikou": 2229348,
+      "dianyktereuseis_synolo": 3124783
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 1028560,
+      "dianyktereuseis_katoikon_exoterikou": 2781234,
+      "dianyktereuseis_synolo": 3809794
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 1017953,
+      "dianyktereuseis_katoikon_exoterikou": 2834914,
+      "dianyktereuseis_synolo": 3852867
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 974179,
+      "dianyktereuseis_katoikon_exoterikou": 3064281,
+      "dianyktereuseis_synolo": 4038460
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 3594682,
+      "dianyktereuseis_katoikon_exoterikou": 11668679,
+      "dianyktereuseis_synolo": 15263361
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 3508639,
+      "dianyktereuseis_katoikon_exoterikou": 10508584,
+      "dianyktereuseis_synolo": 14017223
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 3357848,
+      "dianyktereuseis_katoikon_exoterikou": 11491063,
+      "dianyktereuseis_synolo": 14848911
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 3609075,
+      "dianyktereuseis_katoikon_exoterikou": 13067009,
+      "dianyktereuseis_synolo": 16676084
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 3578349,
+      "dianyktereuseis_katoikon_exoterikou": 13729400,
+      "dianyktereuseis_synolo": 17307749
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 1868978,
+      "dianyktereuseis_katoikon_exoterikou": 1904961,
+      "dianyktereuseis_synolo": 3773939
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 2230903,
+      "dianyktereuseis_katoikon_exoterikou": 6451031,
+      "dianyktereuseis_synolo": 8681934
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 3073299,
+      "dianyktereuseis_katoikon_exoterikou": 12816435,
+      "dianyktereuseis_synolo": 15889734
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 3796588,
+      "dianyktereuseis_katoikon_exoterikou": 13304910,
+      "dianyktereuseis_synolo": 17101498
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 3924850,
+      "dianyktereuseis_katoikon_exoterikou": 14184425,
+      "dianyktereuseis_synolo": 18109275
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 3998653,
+      "dianyktereuseis_katoikon_exoterikou": 14715759,
+      "dianyktereuseis_synolo": 18714412
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 305996,
+      "dianyktereuseis_katoikon_exoterikou": 40616,
+      "dianyktereuseis_synolo": 346612
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 282845,
+      "dianyktereuseis_katoikon_exoterikou": 37227,
+      "dianyktereuseis_synolo": 320072
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 290835,
+      "dianyktereuseis_katoikon_exoterikou": 56872,
+      "dianyktereuseis_synolo": 347707
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 308873,
+      "dianyktereuseis_katoikon_exoterikou": 77668,
+      "dianyktereuseis_synolo": 386541
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 293931,
+      "dianyktereuseis_katoikon_exoterikou": 60948,
+      "dianyktereuseis_synolo": 354879
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 132867,
+      "dianyktereuseis_katoikon_exoterikou": 19459,
+      "dianyktereuseis_synolo": 152326
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 159711,
+      "dianyktereuseis_katoikon_exoterikou": 24009,
+      "dianyktereuseis_synolo": 183720
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 239948,
+      "dianyktereuseis_katoikon_exoterikou": 39878,
+      "dianyktereuseis_synolo": 279826
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 296198,
+      "dianyktereuseis_katoikon_exoterikou": 49279,
+      "dianyktereuseis_synolo": 345477
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 298432,
+      "dianyktereuseis_katoikon_exoterikou": 44126,
+      "dianyktereuseis_synolo": 342558
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 314554,
+      "dianyktereuseis_katoikon_exoterikou": 53512,
+      "dianyktereuseis_synolo": 368066
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 920979,
+      "dianyktereuseis_katoikon_exoterikou": 929785,
+      "dianyktereuseis_synolo": 1850764
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 969188,
+      "dianyktereuseis_katoikon_exoterikou": 1092306,
+      "dianyktereuseis_synolo": 2061494
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 1036812,
+      "dianyktereuseis_katoikon_exoterikou": 1376941,
+      "dianyktereuseis_synolo": 2413753
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 1244209,
+      "dianyktereuseis_katoikon_exoterikou": 1857382,
+      "dianyktereuseis_synolo": 3101591
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 1191569,
+      "dianyktereuseis_katoikon_exoterikou": 2164771,
+      "dianyktereuseis_synolo": 3356340
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 777400,
+      "dianyktereuseis_katoikon_exoterikou": 258202,
+      "dianyktereuseis_synolo": 1035602
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 828586,
+      "dianyktereuseis_katoikon_exoterikou": 647294,
+      "dianyktereuseis_synolo": 1475880
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 1149841,
+      "dianyktereuseis_katoikon_exoterikou": 1871680,
+      "dianyktereuseis_synolo": 3021521
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 1347322,
+      "dianyktereuseis_katoikon_exoterikou": 1619710,
+      "dianyktereuseis_synolo": 2967032
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 1442399,
+      "dianyktereuseis_katoikon_exoterikou": 1616493,
+      "dianyktereuseis_synolo": 3058892
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 1485646,
+      "dianyktereuseis_katoikon_exoterikou": 1902244,
+      "dianyktereuseis_synolo": 3387890
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 1520944,
+      "dianyktereuseis_katoikon_exoterikou": 1654150,
+      "dianyktereuseis_synolo": 3175094
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 1693875,
+      "dianyktereuseis_katoikon_exoterikou": 1605251,
+      "dianyktereuseis_synolo": 3299126
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 1778710,
+      "dianyktereuseis_katoikon_exoterikou": 1792230,
+      "dianyktereuseis_synolo": 3570940
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 1776241,
+      "dianyktereuseis_katoikon_exoterikou": 2246536,
+      "dianyktereuseis_synolo": 4022777
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 1818974,
+      "dianyktereuseis_katoikon_exoterikou": 2298766,
+      "dianyktereuseis_synolo": 4117740
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 1077305,
+      "dianyktereuseis_katoikon_exoterikou": 420160,
+      "dianyktereuseis_synolo": 1497465
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 1290293,
+      "dianyktereuseis_katoikon_exoterikou": 847910,
+      "dianyktereuseis_synolo": 2138203
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 1588740,
+      "dianyktereuseis_katoikon_exoterikou": 2077933,
+      "dianyktereuseis_synolo": 3666673
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 1696484,
+      "dianyktereuseis_katoikon_exoterikou": 2427972,
+      "dianyktereuseis_synolo": 4124456
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 1679231,
+      "dianyktereuseis_katoikon_exoterikou": 2406968,
+      "dianyktereuseis_synolo": 4086199
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 1787076,
+      "dianyktereuseis_katoikon_exoterikou": 2655020,
+      "dianyktereuseis_synolo": 4442096
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 1052705,
+      "dianyktereuseis_katoikon_exoterikou": 11682756,
+      "dianyktereuseis_synolo": 12735461
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 978423,
+      "dianyktereuseis_katoikon_exoterikou": 12761979,
+      "dianyktereuseis_synolo": 13740402
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 1013525,
+      "dianyktereuseis_katoikon_exoterikou": 13686783,
+      "dianyktereuseis_synolo": 14700308
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 1154838,
+      "dianyktereuseis_katoikon_exoterikou": 16861899,
+      "dianyktereuseis_synolo": 18016737
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 1161823,
+      "dianyktereuseis_katoikon_exoterikou": 16792697,
+      "dianyktereuseis_synolo": 17954520
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 582946,
+      "dianyktereuseis_katoikon_exoterikou": 3915435,
+      "dianyktereuseis_synolo": 4498381
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 822889,
+      "dianyktereuseis_katoikon_exoterikou": 8434721,
+      "dianyktereuseis_synolo": 9257610
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 1037478,
+      "dianyktereuseis_katoikon_exoterikou": 15475156,
+      "dianyktereuseis_synolo": 16512634
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 1269009,
+      "dianyktereuseis_katoikon_exoterikou": 18493790,
+      "dianyktereuseis_synolo": 19762799
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 1335528,
+      "dianyktereuseis_katoikon_exoterikou": 19189172,
+      "dianyktereuseis_synolo": 20524700
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 1314803,
+      "dianyktereuseis_katoikon_exoterikou": 19049026,
+      "dianyktereuseis_synolo": 20363829
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 1073247,
+      "dianyktereuseis_katoikon_exoterikou": 968388,
+      "dianyktereuseis_synolo": 2041635
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 1108305,
+      "dianyktereuseis_katoikon_exoterikou": 982555,
+      "dianyktereuseis_synolo": 2090860
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 1118409,
+      "dianyktereuseis_katoikon_exoterikou": 1092483,
+      "dianyktereuseis_synolo": 2210892
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 1095417,
+      "dianyktereuseis_katoikon_exoterikou": 1191851,
+      "dianyktereuseis_synolo": 2287268
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 1073617,
+      "dianyktereuseis_katoikon_exoterikou": 1265090,
+      "dianyktereuseis_synolo": 2338707
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 586500,
+      "dianyktereuseis_katoikon_exoterikou": 244564,
+      "dianyktereuseis_synolo": 831064
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 665885,
+      "dianyktereuseis_katoikon_exoterikou": 527005,
+      "dianyktereuseis_synolo": 1192890
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 1021348,
+      "dianyktereuseis_katoikon_exoterikou": 980592,
+      "dianyktereuseis_synolo": 2001940
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 1166227,
+      "dianyktereuseis_katoikon_exoterikou": 1240365,
+      "dianyktereuseis_synolo": 2406592
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 1122759,
+      "dianyktereuseis_katoikon_exoterikou": 1226548,
+      "dianyktereuseis_synolo": 2349307
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 1130890,
+      "dianyktereuseis_katoikon_exoterikou": 1363188,
+      "dianyktereuseis_synolo": 2494078
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 1216999,
+      "dianyktereuseis_katoikon_exoterikou": 726891,
+      "dianyktereuseis_synolo": 1943890
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 1336984,
+      "dianyktereuseis_katoikon_exoterikou": 851546,
+      "dianyktereuseis_synolo": 2188530
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 1393631,
+      "dianyktereuseis_katoikon_exoterikou": 1030026,
+      "dianyktereuseis_synolo": 2423657
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 1560884,
+      "dianyktereuseis_katoikon_exoterikou": 1307415,
+      "dianyktereuseis_synolo": 2868299
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 1529224,
+      "dianyktereuseis_katoikon_exoterikou": 1327503,
+      "dianyktereuseis_synolo": 2856727
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 964376,
+      "dianyktereuseis_katoikon_exoterikou": 244233,
+      "dianyktereuseis_synolo": 1208609
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 1038223,
+      "dianyktereuseis_katoikon_exoterikou": 503761,
+      "dianyktereuseis_synolo": 1541984
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 1453411,
+      "dianyktereuseis_katoikon_exoterikou": 1075847,
+      "dianyktereuseis_synolo": 2529258
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 1781152,
+      "dianyktereuseis_katoikon_exoterikou": 1200651,
+      "dianyktereuseis_synolo": 2981803
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 1779915,
+      "dianyktereuseis_katoikon_exoterikou": 1164009,
+      "dianyktereuseis_synolo": 2943924
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 1968791,
+      "dianyktereuseis_katoikon_exoterikou": 1280883,
+      "dianyktereuseis_synolo": 3249674
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2015,
+      "dianyktereuseis_katoikon_elladas": 2238035,
+      "dianyktereuseis_katoikon_exoterikou": 1700205,
+      "dianyktereuseis_synolo": 3938240
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2016,
+      "dianyktereuseis_katoikon_elladas": 2342714,
+      "dianyktereuseis_katoikon_exoterikou": 1959839,
+      "dianyktereuseis_synolo": 4302553
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2017,
+      "dianyktereuseis_katoikon_elladas": 2185821,
+      "dianyktereuseis_katoikon_exoterikou": 2245787,
+      "dianyktereuseis_synolo": 4431608
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2018,
+      "dianyktereuseis_katoikon_elladas": 2575329,
+      "dianyktereuseis_katoikon_exoterikou": 2867089,
+      "dianyktereuseis_synolo": 5442418
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2019,
+      "dianyktereuseis_katoikon_elladas": 2471826,
+      "dianyktereuseis_katoikon_exoterikou": 2819817,
+      "dianyktereuseis_synolo": 5291643
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2020,
+      "dianyktereuseis_katoikon_elladas": 1530940,
+      "dianyktereuseis_katoikon_exoterikou": 528443,
+      "dianyktereuseis_synolo": 2059383
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2021,
+      "dianyktereuseis_katoikon_elladas": 1821510,
+      "dianyktereuseis_katoikon_exoterikou": 1186308,
+      "dianyktereuseis_synolo": 3007818
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2022,
+      "dianyktereuseis_katoikon_elladas": 2284218,
+      "dianyktereuseis_katoikon_exoterikou": 2390954,
+      "dianyktereuseis_synolo": 4675172
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2023,
+      "dianyktereuseis_katoikon_elladas": 2899401,
+      "dianyktereuseis_katoikon_exoterikou": 2857701,
+      "dianyktereuseis_synolo": 5757102
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2024,
+      "dianyktereuseis_katoikon_elladas": 3047054,
+      "dianyktereuseis_katoikon_exoterikou": 2863577,
+      "dianyktereuseis_synolo": 5910631
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2025,
+      "dianyktereuseis_katoikon_elladas": 3195185,
+      "dianyktereuseis_katoikon_exoterikou": 3098312,
+      "dianyktereuseis_synolo": 6293497
+    }
+  ],
+  "meta": {
+    "title": "Διανυκτερεύσεις σε τουριστικά καταλύματα ανά περιφέρεια της Ελλάδας (2015–2025) - Free Download",
+    "description": "Αριθμός διανυκτερεύσεων σε ξενοδοχεία, ενοικιαζόμενα καταλύματα και κάμπινγκ ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος (2015–2025), συνολικά και χωριστά για κατοίκους Ελλάδας και κατοίκους εξωτερικού, στοιχεία Eurostat. Contains 143 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Διανυκτερεύσεις σε τουριστικά καταλύματα ανά περιφέρεια της Ελλάδας (2015–2025) | ListBase",
+    "seo_description": "Download Διανυκτερεύσεις σε τουριστικά καταλύματα ανά περιφέρεια της Ελλάδας (2015–2025) — 143 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 143 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table"
+    ]
+  }
+}

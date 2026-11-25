@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-25T02:12:27.636Z",
-  "total_datasets": 535,
-  "total_records": 203260,
+  "generated": "2026-11-25T02:12:37.445Z",
+  "total_datasets": 536,
+  "total_records": 203403,
   "categories": [
     {
       "id": "agriculture",
@@ -90,7 +90,7 @@
     },
     {
       "id": "tourism",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "transport",
@@ -14542,6 +14542,33 @@
         "xlsx": {
           "name": "el-diamerismata-enoikiasi_EL.xlsx",
           "size": 71601
+        }
+      }
+    },
+    {
+      "id": "el-dianyktereuseis-touriston-ana-perifereia",
+      "name": "Διανυκτερεύσεις σε τουριστικά καταλύματα ανά περιφέρεια της Ελλάδας (2015–2025)",
+      "category": "tourism",
+      "record_count": 143,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "dianyktereuseis_katoikon_elladas",
+        "dianyktereuseis_katoikon_exoterikou",
+        "dianyktereuseis_synolo"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tour_occ_nin2/default/table",
+      "updated": "2026-11",
+      "size": 43104,
+      "files": {
+        "csv": {
+          "name": "el-dianyktereuseis-touriston-ana-perifereia_EL.csv",
+          "size": 13746
+        },
+        "xlsx": {
+          "name": "el-dianyktereuseis-touriston-ana-perifereia_EL.xlsx",
+          "size": 12357
         }
       }
     },
