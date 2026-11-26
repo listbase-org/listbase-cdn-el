@@ -1,0 +1,1348 @@
+{
+  "id": "el-odika-atychimata-nekroi-traumaties-ana-perifereia",
+  "name": "Νεκροί και τραυματίες σε οδικά ατυχήματα ανά περιφέρεια της Ελλάδας (2013–2023)",
+  "title": "Νεκροί και τραυματίες σε οδικά ατυχήματα ανά περιφέρεια της Ελλάδας (2013–2023)",
+  "description": "Αριθμός νεκρών και τραυματιών από οδικά τροχαία ατυχήματα ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος, σε απόλυτους αριθμούς και ανά εκατομμύριο κατοίκους, στοιχεία Eurostat.",
+  "category": "transport",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tran_r_acci/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tran_r_acci/default/table",
+  "updated": "2026-11",
+  "record_count": 143,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "nekroi",
+      "label": "Nekroi",
+      "type": "number"
+    },
+    {
+      "key": "nekroi_ana_ekatommyrio_katoikon",
+      "label": "Nekroi Ana Ekatommyrio Katoikon",
+      "type": "number"
+    },
+    {
+      "key": "traumaties",
+      "label": "Traumaties",
+      "type": "number"
+    },
+    {
+      "key": "traumaties_ana_ekatommyrio_katoikon",
+      "label": "Traumaties Ana Ekatommyrio Katoikon",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2013,
+      "nekroi": 210,
+      "nekroi_ana_ekatommyrio_katoikon": 54,
+      "traumaties": 7571,
+      "traumaties_ana_ekatommyrio_katoikon": 1959
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2014,
+      "nekroi": 182,
+      "nekroi_ana_ekatommyrio_katoikon": 48,
+      "traumaties": 7555,
+      "traumaties_ana_ekatommyrio_katoikon": 1976
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2015,
+      "nekroi": 207,
+      "nekroi_ana_ekatommyrio_katoikon": 55,
+      "traumaties": 6865,
+      "traumaties_ana_ekatommyrio_katoikon": 1816
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2016,
+      "nekroi": 200,
+      "nekroi_ana_ekatommyrio_katoikon": 53,
+      "traumaties": 6755,
+      "traumaties_ana_ekatommyrio_katoikon": 1790
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2017,
+      "nekroi": 164,
+      "nekroi_ana_ekatommyrio_katoikon": 44,
+      "traumaties": 6654,
+      "traumaties_ana_ekatommyrio_katoikon": 1771
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2018,
+      "nekroi": 181,
+      "nekroi_ana_ekatommyrio_katoikon": 48,
+      "traumaties": 6607,
+      "traumaties_ana_ekatommyrio_katoikon": 1766
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2019,
+      "nekroi": 169,
+      "nekroi_ana_ekatommyrio_katoikon": 45,
+      "traumaties": 6771,
+      "traumaties_ana_ekatommyrio_katoikon": 1811
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2020,
+      "nekroi": 150,
+      "nekroi_ana_ekatommyrio_katoikon": 39,
+      "traumaties": 5897,
+      "traumaties_ana_ekatommyrio_katoikon": 1536
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2021,
+      "nekroi": 184,
+      "nekroi_ana_ekatommyrio_katoikon": 48,
+      "traumaties": 6694,
+      "traumaties_ana_ekatommyrio_katoikon": 1758
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2022,
+      "nekroi": 159,
+      "nekroi_ana_ekatommyrio_katoikon": 42,
+      "traumaties": 6661,
+      "traumaties_ana_ekatommyrio_katoikon": 1758
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2023,
+      "nekroi": 193,
+      "nekroi_ana_ekatommyrio_katoikon": 51,
+      "traumaties": 6676,
+      "traumaties_ana_ekatommyrio_katoikon": 1770
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2013,
+      "nekroi": 10,
+      "nekroi_ana_ekatommyrio_katoikon": 50,
+      "traumaties": 121,
+      "traumaties_ana_ekatommyrio_katoikon": 609
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2014,
+      "nekroi": 17,
+      "nekroi_ana_ekatommyrio_katoikon": 86,
+      "traumaties": 127,
+      "traumaties_ana_ekatommyrio_katoikon": 642
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2015,
+      "nekroi": 16,
+      "nekroi_ana_ekatommyrio_katoikon": 81,
+      "traumaties": 139,
+      "traumaties_ana_ekatommyrio_katoikon": 707
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2016,
+      "nekroi": 17,
+      "nekroi_ana_ekatommyrio_katoikon": 83,
+      "traumaties": 171,
+      "traumaties_ana_ekatommyrio_katoikon": 839
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2017,
+      "nekroi": 12,
+      "nekroi_ana_ekatommyrio_katoikon": 57,
+      "traumaties": 221,
+      "traumaties_ana_ekatommyrio_katoikon": 1047
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2018,
+      "nekroi": 14,
+      "nekroi_ana_ekatommyrio_katoikon": 63,
+      "traumaties": 269,
+      "traumaties_ana_ekatommyrio_katoikon": 1217
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2019,
+      "nekroi": 20,
+      "nekroi_ana_ekatommyrio_katoikon": 87,
+      "traumaties": 268,
+      "traumaties_ana_ekatommyrio_katoikon": 1168
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2020,
+      "nekroi": 12,
+      "nekroi_ana_ekatommyrio_katoikon": 61,
+      "traumaties": 160,
+      "traumaties_ana_ekatommyrio_katoikon": 810
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2021,
+      "nekroi": 13,
+      "nekroi_ana_ekatommyrio_katoikon": 67,
+      "traumaties": 190,
+      "traumaties_ana_ekatommyrio_katoikon": 976
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2022,
+      "nekroi": 19,
+      "nekroi_ana_ekatommyrio_katoikon": 98,
+      "traumaties": 243,
+      "traumaties_ana_ekatommyrio_katoikon": 1251
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2023,
+      "nekroi": 13,
+      "nekroi_ana_ekatommyrio_katoikon": 65,
+      "traumaties": 231,
+      "traumaties_ana_ekatommyrio_katoikon": 1155
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2013,
+      "nekroi": 32,
+      "nekroi_ana_ekatommyrio_katoikon": 96,
+      "traumaties": 350,
+      "traumaties_ana_ekatommyrio_katoikon": 1045
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2014,
+      "nekroi": 40,
+      "nekroi_ana_ekatommyrio_katoikon": 119,
+      "traumaties": 382,
+      "traumaties_ana_ekatommyrio_katoikon": 1141
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2015,
+      "nekroi": 45,
+      "nekroi_ana_ekatommyrio_katoikon": 134,
+      "traumaties": 427,
+      "traumaties_ana_ekatommyrio_katoikon": 1275
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2016,
+      "nekroi": 45,
+      "nekroi_ana_ekatommyrio_katoikon": 133,
+      "traumaties": 376,
+      "traumaties_ana_ekatommyrio_katoikon": 1111
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2017,
+      "nekroi": 36,
+      "nekroi_ana_ekatommyrio_katoikon": 106,
+      "traumaties": 485,
+      "traumaties_ana_ekatommyrio_katoikon": 1423
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2018,
+      "nekroi": 55,
+      "nekroi_ana_ekatommyrio_katoikon": 160,
+      "traumaties": 558,
+      "traumaties_ana_ekatommyrio_katoikon": 1622
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2019,
+      "nekroi": 39,
+      "nekroi_ana_ekatommyrio_katoikon": 112,
+      "traumaties": 543,
+      "traumaties_ana_ekatommyrio_katoikon": 1563
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2020,
+      "nekroi": 30,
+      "nekroi_ana_ekatommyrio_katoikon": 91,
+      "traumaties": 391,
+      "traumaties_ana_ekatommyrio_katoikon": 1187
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2021,
+      "nekroi": 36,
+      "nekroi_ana_ekatommyrio_katoikon": 110,
+      "traumaties": 479,
+      "traumaties_ana_ekatommyrio_katoikon": 1462
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2022,
+      "nekroi": 43,
+      "nekroi_ana_ekatommyrio_katoikon": 132,
+      "traumaties": 394,
+      "traumaties_ana_ekatommyrio_katoikon": 1207
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2023,
+      "nekroi": 39,
+      "nekroi_ana_ekatommyrio_katoikon": 119,
+      "traumaties": 460,
+      "traumaties_ana_ekatommyrio_katoikon": 1409
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2013,
+      "nekroi": 54,
+      "nekroi_ana_ekatommyrio_katoikon": 86,
+      "traumaties": 354,
+      "traumaties_ana_ekatommyrio_katoikon": 561
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2014,
+      "nekroi": 60,
+      "nekroi_ana_ekatommyrio_katoikon": 95,
+      "traumaties": 217,
+      "traumaties_ana_ekatommyrio_katoikon": 344
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2015,
+      "nekroi": 66,
+      "nekroi_ana_ekatommyrio_katoikon": 104,
+      "traumaties": 224,
+      "traumaties_ana_ekatommyrio_katoikon": 355
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2016,
+      "nekroi": 63,
+      "nekroi_ana_ekatommyrio_katoikon": 100,
+      "traumaties": 213,
+      "traumaties_ana_ekatommyrio_katoikon": 337
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2017,
+      "nekroi": 49,
+      "nekroi_ana_ekatommyrio_katoikon": 77,
+      "traumaties": 199,
+      "traumaties_ana_ekatommyrio_katoikon": 314
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2018,
+      "nekroi": 53,
+      "nekroi_ana_ekatommyrio_katoikon": 83,
+      "traumaties": 175,
+      "traumaties_ana_ekatommyrio_katoikon": 276
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2019,
+      "nekroi": 49,
+      "nekroi_ana_ekatommyrio_katoikon": 77,
+      "traumaties": 191,
+      "traumaties_ana_ekatommyrio_katoikon": 300
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2020,
+      "nekroi": 28,
+      "nekroi_ana_ekatommyrio_katoikon": 45,
+      "traumaties": 158,
+      "traumaties_ana_ekatommyrio_katoikon": 252
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2021,
+      "nekroi": 41,
+      "nekroi_ana_ekatommyrio_katoikon": 66,
+      "traumaties": 166,
+      "traumaties_ana_ekatommyrio_katoikon": 266
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2022,
+      "nekroi": 44,
+      "nekroi_ana_ekatommyrio_katoikon": 71,
+      "traumaties": 189,
+      "traumaties_ana_ekatommyrio_katoikon": 304
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2023,
+      "nekroi": 34,
+      "nekroi_ana_ekatommyrio_katoikon": 55,
+      "traumaties": 188,
+      "traumaties_ana_ekatommyrio_katoikon": 303
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2013,
+      "nekroi": 48,
+      "nekroi_ana_ekatommyrio_katoikon": 79,
+      "traumaties": 604,
+      "traumaties_ana_ekatommyrio_katoikon": 993
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2014,
+      "nekroi": 46,
+      "nekroi_ana_ekatommyrio_katoikon": 76,
+      "traumaties": 581,
+      "traumaties_ana_ekatommyrio_katoikon": 958
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2015,
+      "nekroi": 38,
+      "nekroi_ana_ekatommyrio_katoikon": 63,
+      "traumaties": 644,
+      "traumaties_ana_ekatommyrio_katoikon": 1065
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2016,
+      "nekroi": 49,
+      "nekroi_ana_ekatommyrio_katoikon": 81,
+      "traumaties": 576,
+      "traumaties_ana_ekatommyrio_katoikon": 956
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2017,
+      "nekroi": 43,
+      "nekroi_ana_ekatommyrio_katoikon": 72,
+      "traumaties": 461,
+      "traumaties_ana_ekatommyrio_katoikon": 767
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2018,
+      "nekroi": 40,
+      "nekroi_ana_ekatommyrio_katoikon": 67,
+      "traumaties": 529,
+      "traumaties_ana_ekatommyrio_katoikon": 882
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2019,
+      "nekroi": 39,
+      "nekroi_ana_ekatommyrio_katoikon": 65,
+      "traumaties": 468,
+      "traumaties_ana_ekatommyrio_katoikon": 782
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2020,
+      "nekroi": 28,
+      "nekroi_ana_ekatommyrio_katoikon": 50,
+      "traumaties": 357,
+      "traumaties_ana_ekatommyrio_katoikon": 632
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2021,
+      "nekroi": 31,
+      "nekroi_ana_ekatommyrio_katoikon": 55,
+      "traumaties": 376,
+      "traumaties_ana_ekatommyrio_katoikon": 670
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2022,
+      "nekroi": 41,
+      "nekroi_ana_ekatommyrio_katoikon": 73,
+      "traumaties": 411,
+      "traumaties_ana_ekatommyrio_katoikon": 735
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2023,
+      "nekroi": 38,
+      "nekroi_ana_ekatommyrio_katoikon": 68,
+      "traumaties": 412,
+      "traumaties_ana_ekatommyrio_katoikon": 734
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2013,
+      "nekroi": 132,
+      "nekroi_ana_ekatommyrio_katoikon": 69,
+      "traumaties": 3060,
+      "traumaties_ana_ekatommyrio_katoikon": 1608
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2014,
+      "nekroi": 125,
+      "nekroi_ana_ekatommyrio_katoikon": 66,
+      "traumaties": 2807,
+      "traumaties_ana_ekatommyrio_katoikon": 1482
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2015,
+      "nekroi": 124,
+      "nekroi_ana_ekatommyrio_katoikon": 66,
+      "traumaties": 2922,
+      "traumaties_ana_ekatommyrio_katoikon": 1551
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2016,
+      "nekroi": 144,
+      "nekroi_ana_ekatommyrio_katoikon": 77,
+      "traumaties": 3031,
+      "traumaties_ana_ekatommyrio_katoikon": 1612
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2017,
+      "nekroi": 105,
+      "nekroi_ana_ekatommyrio_katoikon": 56,
+      "traumaties": 2570,
+      "traumaties_ana_ekatommyrio_katoikon": 1370
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2018,
+      "nekroi": 91,
+      "nekroi_ana_ekatommyrio_katoikon": 49,
+      "traumaties": 2355,
+      "traumaties_ana_ekatommyrio_katoikon": 1257
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2019,
+      "nekroi": 110,
+      "nekroi_ana_ekatommyrio_katoikon": 59,
+      "traumaties": 2287,
+      "traumaties_ana_ekatommyrio_katoikon": 1222
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2020,
+      "nekroi": 103,
+      "nekroi_ana_ekatommyrio_katoikon": 57,
+      "traumaties": 1852,
+      "traumaties_ana_ekatommyrio_katoikon": 1023
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2021,
+      "nekroi": 78,
+      "nekroi_ana_ekatommyrio_katoikon": 44,
+      "traumaties": 2343,
+      "traumaties_ana_ekatommyrio_katoikon": 1308
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2022,
+      "nekroi": 89,
+      "nekroi_ana_ekatommyrio_katoikon": 50,
+      "traumaties": 2319,
+      "traumaties_ana_ekatommyrio_katoikon": 1303
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2023,
+      "nekroi": 91,
+      "nekroi_ana_ekatommyrio_katoikon": 51,
+      "traumaties": 2585,
+      "traumaties_ana_ekatommyrio_katoikon": 1457
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2013,
+      "nekroi": 17,
+      "nekroi_ana_ekatommyrio_katoikon": 61,
+      "traumaties": 181,
+      "traumaties_ana_ekatommyrio_katoikon": 649
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2014,
+      "nekroi": 18,
+      "nekroi_ana_ekatommyrio_katoikon": 65,
+      "traumaties": 132,
+      "traumaties_ana_ekatommyrio_katoikon": 478
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2015,
+      "nekroi": 18,
+      "nekroi_ana_ekatommyrio_katoikon": 66,
+      "traumaties": 130,
+      "traumaties_ana_ekatommyrio_katoikon": 475
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2016,
+      "nekroi": 15,
+      "nekroi_ana_ekatommyrio_katoikon": 55,
+      "traumaties": 118,
+      "traumaties_ana_ekatommyrio_katoikon": 435
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2017,
+      "nekroi": 13,
+      "nekroi_ana_ekatommyrio_katoikon": 48,
+      "traumaties": 99,
+      "traumaties_ana_ekatommyrio_katoikon": 368
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2018,
+      "nekroi": 20,
+      "nekroi_ana_ekatommyrio_katoikon": 75,
+      "traumaties": 79,
+      "traumaties_ana_ekatommyrio_katoikon": 296
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2019,
+      "nekroi": 19,
+      "nekroi_ana_ekatommyrio_katoikon": 72,
+      "traumaties": 82,
+      "traumaties_ana_ekatommyrio_katoikon": 310
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2020,
+      "nekroi": 10,
+      "nekroi_ana_ekatommyrio_katoikon": 39,
+      "traumaties": 50,
+      "traumaties_ana_ekatommyrio_katoikon": 194
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2021,
+      "nekroi": 16,
+      "nekroi_ana_ekatommyrio_katoikon": 63,
+      "traumaties": 47,
+      "traumaties_ana_ekatommyrio_katoikon": 185
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2022,
+      "nekroi": 14,
+      "nekroi_ana_ekatommyrio_katoikon": 56,
+      "traumaties": 57,
+      "traumaties_ana_ekatommyrio_katoikon": 228
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2023,
+      "nekroi": 11,
+      "nekroi_ana_ekatommyrio_katoikon": 45,
+      "traumaties": 54,
+      "traumaties_ana_ekatommyrio_katoikon": 219
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2013,
+      "nekroi": 40,
+      "nekroi_ana_ekatommyrio_katoikon": 117,
+      "traumaties": 216,
+      "traumaties_ana_ekatommyrio_katoikon": 633
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2014,
+      "nekroi": 32,
+      "nekroi_ana_ekatommyrio_katoikon": 94,
+      "traumaties": 233,
+      "traumaties_ana_ekatommyrio_katoikon": 687
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2015,
+      "nekroi": 21,
+      "nekroi_ana_ekatommyrio_katoikon": 62,
+      "traumaties": 172,
+      "traumaties_ana_ekatommyrio_katoikon": 511
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2016,
+      "nekroi": 35,
+      "nekroi_ana_ekatommyrio_katoikon": 104,
+      "traumaties": 181,
+      "traumaties_ana_ekatommyrio_katoikon": 540
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2017,
+      "nekroi": 24,
+      "nekroi_ana_ekatommyrio_katoikon": 72,
+      "traumaties": 138,
+      "traumaties_ana_ekatommyrio_katoikon": 413
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2018,
+      "nekroi": 27,
+      "nekroi_ana_ekatommyrio_katoikon": 81,
+      "traumaties": 175,
+      "traumaties_ana_ekatommyrio_katoikon": 524
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2019,
+      "nekroi": 22,
+      "nekroi_ana_ekatommyrio_katoikon": 66,
+      "traumaties": 133,
+      "traumaties_ana_ekatommyrio_katoikon": 399
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2020,
+      "nekroi": 25,
+      "nekroi_ana_ekatommyrio_katoikon": 78,
+      "traumaties": 116,
+      "traumaties_ana_ekatommyrio_katoikon": 362
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2021,
+      "nekroi": 20,
+      "nekroi_ana_ekatommyrio_katoikon": 63,
+      "traumaties": 116,
+      "traumaties_ana_ekatommyrio_katoikon": 363
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2022,
+      "nekroi": 19,
+      "nekroi_ana_ekatommyrio_katoikon": 60,
+      "traumaties": 216,
+      "traumaties_ana_ekatommyrio_katoikon": 678
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2023,
+      "nekroi": 27,
+      "nekroi_ana_ekatommyrio_katoikon": 84,
+      "traumaties": 236,
+      "traumaties_ana_ekatommyrio_katoikon": 736
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2013,
+      "nekroi": 72,
+      "nekroi_ana_ekatommyrio_katoikon": 98,
+      "traumaties": 391,
+      "traumaties_ana_ekatommyrio_katoikon": 530
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2014,
+      "nekroi": 63,
+      "nekroi_ana_ekatommyrio_katoikon": 86,
+      "traumaties": 304,
+      "traumaties_ana_ekatommyrio_katoikon": 414
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2015,
+      "nekroi": 33,
+      "nekroi_ana_ekatommyrio_katoikon": 45,
+      "traumaties": 287,
+      "traumaties_ana_ekatommyrio_katoikon": 393
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2016,
+      "nekroi": 41,
+      "nekroi_ana_ekatommyrio_katoikon": 56,
+      "traumaties": 270,
+      "traumaties_ana_ekatommyrio_katoikon": 372
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2017,
+      "nekroi": 50,
+      "nekroi_ana_ekatommyrio_katoikon": 69,
+      "traumaties": 284,
+      "traumaties_ana_ekatommyrio_katoikon": 393
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2018,
+      "nekroi": 28,
+      "nekroi_ana_ekatommyrio_katoikon": 39,
+      "traumaties": 255,
+      "traumaties_ana_ekatommyrio_katoikon": 355
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2019,
+      "nekroi": 42,
+      "nekroi_ana_ekatommyrio_katoikon": 59,
+      "traumaties": 285,
+      "traumaties_ana_ekatommyrio_katoikon": 399
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2020,
+      "nekroi": 40,
+      "nekroi_ana_ekatommyrio_katoikon": 58,
+      "traumaties": 237,
+      "traumaties_ana_ekatommyrio_katoikon": 342
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2021,
+      "nekroi": 38,
+      "nekroi_ana_ekatommyrio_katoikon": 55,
+      "traumaties": 265,
+      "traumaties_ana_ekatommyrio_katoikon": 386
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2022,
+      "nekroi": 36,
+      "nekroi_ana_ekatommyrio_katoikon": 53,
+      "traumaties": 282,
+      "traumaties_ana_ekatommyrio_katoikon": 414
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2023,
+      "nekroi": 49,
+      "nekroi_ana_ekatommyrio_katoikon": 72,
+      "traumaties": 212,
+      "traumaties_ana_ekatommyrio_katoikon": 313
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2013,
+      "nekroi": 30,
+      "nekroi_ana_ekatommyrio_katoikon": 144,
+      "traumaties": 237,
+      "traumaties_ana_ekatommyrio_katoikon": 1141
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2014,
+      "nekroi": 12,
+      "nekroi_ana_ekatommyrio_katoikon": 58,
+      "traumaties": 216,
+      "traumaties_ana_ekatommyrio_katoikon": 1043
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2015,
+      "nekroi": 10,
+      "nekroi_ana_ekatommyrio_katoikon": 49,
+      "traumaties": 232,
+      "traumaties_ana_ekatommyrio_katoikon": 1125
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2016,
+      "nekroi": 18,
+      "nekroi_ana_ekatommyrio_katoikon": 88,
+      "traumaties": 210,
+      "traumaties_ana_ekatommyrio_katoikon": 1022
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2017,
+      "nekroi": 30,
+      "nekroi_ana_ekatommyrio_katoikon": 147,
+      "traumaties": 189,
+      "traumaties_ana_ekatommyrio_katoikon": 924
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2018,
+      "nekroi": 13,
+      "nekroi_ana_ekatommyrio_katoikon": 64,
+      "traumaties": 178,
+      "traumaties_ana_ekatommyrio_katoikon": 873
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2019,
+      "nekroi": 16,
+      "nekroi_ana_ekatommyrio_katoikon": 79,
+      "traumaties": 240,
+      "traumaties_ana_ekatommyrio_katoikon": 1181
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2020,
+      "nekroi": 9,
+      "nekroi_ana_ekatommyrio_katoikon": 44,
+      "traumaties": 131,
+      "traumaties_ana_ekatommyrio_katoikon": 636
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2021,
+      "nekroi": 15,
+      "nekroi_ana_ekatommyrio_katoikon": 73,
+      "traumaties": 204,
+      "traumaties_ana_ekatommyrio_katoikon": 999
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2022,
+      "nekroi": 26,
+      "nekroi_ana_ekatommyrio_katoikon": 129,
+      "traumaties": 180,
+      "traumaties_ana_ekatommyrio_katoikon": 892
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2023,
+      "nekroi": 24,
+      "nekroi_ana_ekatommyrio_katoikon": 120,
+      "traumaties": 161,
+      "traumaties_ana_ekatommyrio_katoikon": 805
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2013,
+      "nekroi": 91,
+      "nekroi_ana_ekatommyrio_katoikon": 134,
+      "traumaties": 662,
+      "traumaties_ana_ekatommyrio_katoikon": 977
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2014,
+      "nekroi": 84,
+      "nekroi_ana_ekatommyrio_katoikon": 125,
+      "traumaties": 669,
+      "traumaties_ana_ekatommyrio_katoikon": 994
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2015,
+      "nekroi": 77,
+      "nekroi_ana_ekatommyrio_katoikon": 115,
+      "traumaties": 722,
+      "traumaties_ana_ekatommyrio_katoikon": 1080
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2016,
+      "nekroi": 63,
+      "nekroi_ana_ekatommyrio_katoikon": 95,
+      "traumaties": 642,
+      "traumaties_ana_ekatommyrio_katoikon": 967
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2017,
+      "nekroi": 73,
+      "nekroi_ana_ekatommyrio_katoikon": 111,
+      "traumaties": 615,
+      "traumaties_ana_ekatommyrio_katoikon": 933
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2018,
+      "nekroi": 64,
+      "nekroi_ana_ekatommyrio_katoikon": 98,
+      "traumaties": 666,
+      "traumaties_ana_ekatommyrio_katoikon": 1017
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2019,
+      "nekroi": 58,
+      "nekroi_ana_ekatommyrio_katoikon": 89,
+      "traumaties": 549,
+      "traumaties_ana_ekatommyrio_katoikon": 843
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2020,
+      "nekroi": 58,
+      "nekroi_ana_ekatommyrio_katoikon": 89,
+      "traumaties": 546,
+      "traumaties_ana_ekatommyrio_katoikon": 837
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2021,
+      "nekroi": 39,
+      "nekroi_ana_ekatommyrio_katoikon": 60,
+      "traumaties": 527,
+      "traumaties_ana_ekatommyrio_katoikon": 815
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2022,
+      "nekroi": 60,
+      "nekroi_ana_ekatommyrio_katoikon": 94,
+      "traumaties": 539,
+      "traumaties_ana_ekatommyrio_katoikon": 840
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2023,
+      "nekroi": 44,
+      "nekroi_ana_ekatommyrio_katoikon": 69,
+      "traumaties": 497,
+      "traumaties_ana_ekatommyrio_katoikon": 778
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2013,
+      "nekroi": 72,
+      "nekroi_ana_ekatommyrio_katoikon": 129,
+      "traumaties": 609,
+      "traumaties_ana_ekatommyrio_katoikon": 1089
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2014,
+      "nekroi": 53,
+      "nekroi_ana_ekatommyrio_katoikon": 95,
+      "traumaties": 524,
+      "traumaties_ana_ekatommyrio_katoikon": 939
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2015,
+      "nekroi": 52,
+      "nekroi_ana_ekatommyrio_katoikon": 94,
+      "traumaties": 526,
+      "traumaties_ana_ekatommyrio_katoikon": 946
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2016,
+      "nekroi": 62,
+      "nekroi_ana_ekatommyrio_katoikon": 112,
+      "traumaties": 566,
+      "traumaties_ana_ekatommyrio_katoikon": 1018
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2017,
+      "nekroi": 67,
+      "nekroi_ana_ekatommyrio_katoikon": 121,
+      "traumaties": 656,
+      "traumaties_ana_ekatommyrio_katoikon": 1181
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2018,
+      "nekroi": 52,
+      "nekroi_ana_ekatommyrio_katoikon": 94,
+      "traumaties": 615,
+      "traumaties_ana_ekatommyrio_katoikon": 1106
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2019,
+      "nekroi": 44,
+      "nekroi_ana_ekatommyrio_katoikon": 79,
+      "traumaties": 578,
+      "traumaties_ana_ekatommyrio_katoikon": 1040
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2020,
+      "nekroi": 48,
+      "nekroi_ana_ekatommyrio_katoikon": 94,
+      "traumaties": 524,
+      "traumaties_ana_ekatommyrio_katoikon": 1021
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2021,
+      "nekroi": 49,
+      "nekroi_ana_ekatommyrio_katoikon": 97,
+      "traumaties": 583,
+      "traumaties_ana_ekatommyrio_katoikon": 1150
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2022,
+      "nekroi": 57,
+      "nekroi_ana_ekatommyrio_katoikon": 113,
+      "traumaties": 712,
+      "traumaties_ana_ekatommyrio_katoikon": 1412
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2023,
+      "nekroi": 35,
+      "nekroi_ana_ekatommyrio_katoikon": 69,
+      "traumaties": 792,
+      "traumaties_ana_ekatommyrio_katoikon": 1568
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2013,
+      "nekroi": 71,
+      "nekroi_ana_ekatommyrio_katoikon": 121,
+      "traumaties": 819,
+      "traumaties_ana_ekatommyrio_katoikon": 1400
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2014,
+      "nekroi": 63,
+      "nekroi_ana_ekatommyrio_katoikon": 108,
+      "traumaties": 817,
+      "traumaties_ana_ekatommyrio_katoikon": 1400
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2015,
+      "nekroi": 86,
+      "nekroi_ana_ekatommyrio_katoikon": 148,
+      "traumaties": 806,
+      "traumaties_ana_ekatommyrio_katoikon": 1387
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2016,
+      "nekroi": 72,
+      "nekroi_ana_ekatommyrio_katoikon": 124,
+      "traumaties": 716,
+      "traumaties_ana_ekatommyrio_katoikon": 1236
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2017,
+      "nekroi": 65,
+      "nekroi_ana_ekatommyrio_katoikon": 113,
+      "traumaties": 700,
+      "traumaties_ana_ekatommyrio_katoikon": 1214
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2018,
+      "nekroi": 62,
+      "nekroi_ana_ekatommyrio_katoikon": 108,
+      "traumaties": 688,
+      "traumaties_ana_ekatommyrio_katoikon": 1198
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2019,
+      "nekroi": 61,
+      "nekroi_ana_ekatommyrio_katoikon": 107,
+      "traumaties": 607,
+      "traumaties_ana_ekatommyrio_katoikon": 1061
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2020,
+      "nekroi": 43,
+      "nekroi_ana_ekatommyrio_katoikon": 79,
+      "traumaties": 399,
+      "traumaties_ana_ekatommyrio_katoikon": 733
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2021,
+      "nekroi": 64,
+      "nekroi_ana_ekatommyrio_katoikon": 119,
+      "traumaties": 366,
+      "traumaties_ana_ekatommyrio_katoikon": 680
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2022,
+      "nekroi": 47,
+      "nekroi_ana_ekatommyrio_katoikon": 88,
+      "traumaties": 422,
+      "traumaties_ana_ekatommyrio_katoikon": 790
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2023,
+      "nekroi": 48,
+      "nekroi_ana_ekatommyrio_katoikon": 90,
+      "traumaties": 311,
+      "traumaties_ana_ekatommyrio_katoikon": 586
+    }
+  ],
+  "meta": {
+    "title": "Νεκροί και τραυματίες σε οδικά ατυχήματα ανά περιφέρεια της Ελλάδας (2013–2023) - Free Download",
+    "description": "Αριθμός νεκρών και τραυματιών από οδικά τροχαία ατυχήματα ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος, σε απόλυτους αριθμούς και ανά εκατομμύριο κατοίκους, στοιχεία Eurostat. Contains 143 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Νεκροί και τραυματίες σε οδικά ατυχήματα ανά περιφέρεια της Ελλάδας (2013–2023) | ListBase",
+    "seo_description": "Download Νεκροί και τραυματίες σε οδικά ατυχήματα ανά περιφέρεια της Ελλάδας (2013–2023) — 143 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 143 records / 7 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tran_r_acci/default/table"
+    ]
+  }
+}

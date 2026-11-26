@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-25T02:12:45.131Z",
-  "total_datasets": 537,
-  "total_records": 203546,
+  "generated": "2026-11-26T02:10:36.806Z",
+  "total_datasets": 538,
+  "total_records": 203689,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 34
+      "dataset_count": 35
     },
     {
       "id": "units",
@@ -15473,6 +15473,34 @@
         "xlsx": {
           "name": "el-notiou-aigaiou-aerodromia_EL.xlsx",
           "size": 8472
+        }
+      }
+    },
+    {
+      "id": "el-odika-atychimata-nekroi-traumaties-ana-perifereia",
+      "name": "Νεκροί και τραυματίες σε οδικά ατυχήματα ανά περιφέρεια της Ελλάδας (2013–2023)",
+      "category": "transport",
+      "record_count": 143,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "nekroi",
+        "nekroi_ana_ekatommyrio_katoikon",
+        "traumaties",
+        "traumaties_ana_ekatommyrio_katoikon"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tran_r_acci/default/table",
+      "updated": "2026-11",
+      "size": 42271,
+      "files": {
+        "csv": {
+          "name": "el-odika-atychimata-nekroi-traumaties-ana-perifereia_EL.csv",
+          "size": 12732
+        },
+        "xlsx": {
+          "name": "el-odika-atychimata-nekroi-traumaties-ana-perifereia_EL.xlsx",
+          "size": 11900
         }
       }
     },
