@@ -1,0 +1,443 @@
+{
+  "id": "el-prosvasi-noikokyrion-sto-diadiktyo-ana-periochi",
+  "name": "Νοικοκυριά με πρόσβαση στο διαδίκτυο ανά μεγάλη γεωγραφική περιοχή της Ελλάδας (2012–2025)",
+  "title": "Νοικοκυριά με πρόσβαση στο διαδίκτυο ανά μεγάλη γεωγραφική περιοχή της Ελλάδας (2012–2025)",
+  "description": "Ποσοστό (%) των νοικοκυριών με πρόσβαση στο διαδίκτυο στις τέσσερις μεγάλες γεωγραφικές περιοχές (NUTS 1) της Ελλάδας ανά έτος (2012–2025), με το σύνολο της χώρας για σύγκριση, στοιχεία Eurostat.",
+  "category": "tech",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iacc_h/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iacc_h/default/table",
+  "updated": "2026-11",
+  "record_count": 56,
+  "columns": [
+    {
+      "key": "perioxi",
+      "label": "Perioxi",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "noikokyria_me_prosvasi_internet_pososto",
+      "label": "Noikokyria Me Prosvasi Internet Pososto",
+      "type": "number"
+    },
+    {
+      "key": "synolo_elladas_pososto",
+      "label": "Synolo Elladas Pososto",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2012,
+      "noikokyria_me_prosvasi_internet_pososto": 64.52,
+      "synolo_elladas_pososto": 53.58
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2012,
+      "noikokyria_me_prosvasi_internet_pososto": 46.66,
+      "synolo_elladas_pososto": 53.58
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2012,
+      "noikokyria_me_prosvasi_internet_pososto": 50.12,
+      "synolo_elladas_pososto": 53.58
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2012,
+      "noikokyria_me_prosvasi_internet_pososto": 41.21,
+      "synolo_elladas_pososto": 53.58
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2013,
+      "noikokyria_me_prosvasi_internet_pososto": 68.94,
+      "synolo_elladas_pososto": 56.31
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2013,
+      "noikokyria_me_prosvasi_internet_pososto": 47.62,
+      "synolo_elladas_pososto": 56.31
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2013,
+      "noikokyria_me_prosvasi_internet_pososto": 51.36,
+      "synolo_elladas_pososto": 56.31
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2013,
+      "noikokyria_me_prosvasi_internet_pososto": 43.6,
+      "synolo_elladas_pososto": 56.31
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2014,
+      "noikokyria_me_prosvasi_internet_pososto": 71.05,
+      "synolo_elladas_pososto": 65.55
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2014,
+      "noikokyria_me_prosvasi_internet_pososto": 67.78,
+      "synolo_elladas_pososto": 65.55
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2014,
+      "noikokyria_me_prosvasi_internet_pososto": 62.07,
+      "synolo_elladas_pososto": 65.55
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2014,
+      "noikokyria_me_prosvasi_internet_pososto": 60.09,
+      "synolo_elladas_pososto": 65.55
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2015,
+      "noikokyria_me_prosvasi_internet_pososto": 74.89,
+      "synolo_elladas_pososto": 68.09
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2015,
+      "noikokyria_me_prosvasi_internet_pososto": 64.62,
+      "synolo_elladas_pososto": 68.09
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2015,
+      "noikokyria_me_prosvasi_internet_pososto": 66.8,
+      "synolo_elladas_pososto": 68.09
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2015,
+      "noikokyria_me_prosvasi_internet_pososto": 60.49,
+      "synolo_elladas_pososto": 68.09
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2016,
+      "noikokyria_me_prosvasi_internet_pososto": 78.31,
+      "synolo_elladas_pososto": 69.13
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2016,
+      "noikokyria_me_prosvasi_internet_pososto": 69.56,
+      "synolo_elladas_pososto": 69.13
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2016,
+      "noikokyria_me_prosvasi_internet_pososto": 66.89,
+      "synolo_elladas_pososto": 69.13
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2016,
+      "noikokyria_me_prosvasi_internet_pososto": 57.16,
+      "synolo_elladas_pososto": 69.13
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2017,
+      "noikokyria_me_prosvasi_internet_pososto": 80.51,
+      "synolo_elladas_pososto": 70.96
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2017,
+      "noikokyria_me_prosvasi_internet_pososto": 69.03,
+      "synolo_elladas_pososto": 70.96
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2017,
+      "noikokyria_me_prosvasi_internet_pososto": 65.67,
+      "synolo_elladas_pososto": 70.96
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2017,
+      "noikokyria_me_prosvasi_internet_pososto": 63.69,
+      "synolo_elladas_pososto": 70.96
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2018,
+      "noikokyria_me_prosvasi_internet_pososto": 85.26,
+      "synolo_elladas_pososto": 76.49
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2018,
+      "noikokyria_me_prosvasi_internet_pososto": 69.24,
+      "synolo_elladas_pososto": 76.49
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2018,
+      "noikokyria_me_prosvasi_internet_pososto": 73.43,
+      "synolo_elladas_pososto": 76.49
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2018,
+      "noikokyria_me_prosvasi_internet_pososto": 70.38,
+      "synolo_elladas_pososto": 76.49
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2019,
+      "noikokyria_me_prosvasi_internet_pososto": 83.54,
+      "synolo_elladas_pososto": 78.54
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2019,
+      "noikokyria_me_prosvasi_internet_pososto": 68.76,
+      "synolo_elladas_pososto": 78.54
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2019,
+      "noikokyria_me_prosvasi_internet_pososto": 78.92,
+      "synolo_elladas_pososto": 78.54
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2019,
+      "noikokyria_me_prosvasi_internet_pososto": 75.25,
+      "synolo_elladas_pososto": 78.54
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2020,
+      "noikokyria_me_prosvasi_internet_pososto": 83.61,
+      "synolo_elladas_pososto": 80.38
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2020,
+      "noikokyria_me_prosvasi_internet_pososto": 78.51,
+      "synolo_elladas_pososto": 80.38
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2020,
+      "noikokyria_me_prosvasi_internet_pososto": 82.41,
+      "synolo_elladas_pososto": 80.38
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2020,
+      "noikokyria_me_prosvasi_internet_pososto": 74.15,
+      "synolo_elladas_pososto": 80.38
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2021,
+      "noikokyria_me_prosvasi_internet_pososto": 90.92,
+      "synolo_elladas_pososto": 85.07
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2021,
+      "noikokyria_me_prosvasi_internet_pososto": 82.5,
+      "synolo_elladas_pososto": 85.07
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2021,
+      "noikokyria_me_prosvasi_internet_pososto": 81.18,
+      "synolo_elladas_pososto": 85.07
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2021,
+      "noikokyria_me_prosvasi_internet_pososto": 82.06,
+      "synolo_elladas_pososto": 85.07
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2022,
+      "noikokyria_me_prosvasi_internet_pososto": 91.35,
+      "synolo_elladas_pososto": 85.49
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2022,
+      "noikokyria_me_prosvasi_internet_pososto": 82.02,
+      "synolo_elladas_pososto": 85.49
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2022,
+      "noikokyria_me_prosvasi_internet_pososto": 82.96,
+      "synolo_elladas_pososto": 85.49
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2022,
+      "noikokyria_me_prosvasi_internet_pososto": 81.17,
+      "synolo_elladas_pososto": 85.49
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2023,
+      "noikokyria_me_prosvasi_internet_pososto": 91.07,
+      "synolo_elladas_pososto": 86.9
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2023,
+      "noikokyria_me_prosvasi_internet_pososto": 85.92,
+      "synolo_elladas_pososto": 86.9
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2023,
+      "noikokyria_me_prosvasi_internet_pososto": 84.14,
+      "synolo_elladas_pososto": 86.9
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2023,
+      "noikokyria_me_prosvasi_internet_pososto": 83.77,
+      "synolo_elladas_pososto": 86.9
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2024,
+      "noikokyria_me_prosvasi_internet_pososto": 90.47,
+      "synolo_elladas_pososto": 86.89
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2024,
+      "noikokyria_me_prosvasi_internet_pososto": 91.71,
+      "synolo_elladas_pososto": 86.89
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2024,
+      "noikokyria_me_prosvasi_internet_pososto": 85.49,
+      "synolo_elladas_pososto": 86.89
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2024,
+      "noikokyria_me_prosvasi_internet_pososto": 80.51,
+      "synolo_elladas_pososto": 86.89
+    },
+    {
+      "perioxi": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL3",
+      "etos": 2025,
+      "noikokyria_me_prosvasi_internet_pososto": 93.61,
+      "synolo_elladas_pososto": 88.73
+    },
+    {
+      "perioxi": "Νησιά Αιγαίου και Κρήτη",
+      "kodikos_nuts": "EL4",
+      "etos": 2025,
+      "noikokyria_me_prosvasi_internet_pososto": 86.63,
+      "synolo_elladas_pososto": 88.73
+    },
+    {
+      "perioxi": "Βόρεια Ελλάδα",
+      "kodikos_nuts": "EL5",
+      "etos": 2025,
+      "noikokyria_me_prosvasi_internet_pososto": 88.23,
+      "synolo_elladas_pososto": 88.73
+    },
+    {
+      "perioxi": "Κεντρική Ελλάδα",
+      "kodikos_nuts": "EL6",
+      "etos": 2025,
+      "noikokyria_me_prosvasi_internet_pososto": 82.32,
+      "synolo_elladas_pososto": 88.73
+    }
+  ],
+  "meta": {
+    "title": "Νοικοκυριά με πρόσβαση στο διαδίκτυο ανά μεγάλη γεωγραφική περιοχή της Ελλάδας (2012–2025) - Free Download",
+    "description": "Ποσοστό (%) των νοικοκυριών με πρόσβαση στο διαδίκτυο στις τέσσερις μεγάλες γεωγραφικές περιοχές (NUTS 1) της Ελλάδας ανά έτος (2012–2025), με το σύνολο της χώρας για σύγκριση, στοιχεία Eurostat. Contains 56 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Νοικοκυριά με πρόσβαση στο διαδίκτυο ανά μεγάλη γεωγραφική περιοχή της Ελλάδας (2012–2025) | ListBase",
+    "seo_description": "Download Νοικοκυριά με πρόσβαση στο διαδίκτυο ανά μεγάλη γεωγραφική περιοχή της Ελλάδας (2012–2025) — 56 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 56 records / 5 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iacc_h/default/table"
+    ]
+  }
+}

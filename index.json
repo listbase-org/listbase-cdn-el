@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-26T02:10:36.806Z",
-  "total_datasets": 538,
-  "total_records": 203689,
+  "generated": "2026-11-26T02:10:44.873Z",
+  "total_datasets": 539,
+  "total_records": 203745,
   "categories": [
     {
       "id": "agriculture",
@@ -82,7 +82,7 @@
     },
     {
       "id": "tech",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "time",
@@ -13850,6 +13850,32 @@
         "xlsx": {
           "name": "el-parochoi-statheris-tilefonias-evryzonikon_EL.xlsx",
           "size": 8716
+        }
+      }
+    },
+    {
+      "id": "el-prosvasi-noikokyrion-sto-diadiktyo-ana-periochi",
+      "name": "Νοικοκυριά με πρόσβαση στο διαδίκτυο ανά μεγάλη γεωγραφική περιοχή της Ελλάδας (2012–2025)",
+      "category": "tech",
+      "record_count": 56,
+      "columns": [
+        "perioxi",
+        "kodikos_nuts",
+        "etos",
+        "noikokyria_me_prosvasi_internet_pososto",
+        "synolo_elladas_pososto"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/isoc_r_iacc_h/default/table",
+      "updated": "2026-11",
+      "size": 14638,
+      "files": {
+        "csv": {
+          "name": "el-prosvasi-noikokyrion-sto-diadiktyo-ana-periochi_EL.csv",
+          "size": 3734
+        },
+        "xlsx": {
+          "name": "el-prosvasi-noikokyrion-sto-diadiktyo-ana-periochi_EL.xlsx",
+          "size": 8243
         }
       }
     },
