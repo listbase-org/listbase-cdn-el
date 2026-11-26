@@ -1,0 +1,1626 @@
+{
+  "id": "el-stolos-ochimaton-ana-perifereia",
+  "name": "Κυκλοφορούντα οχήματα ανά περιφέρεια της Ελλάδας (2013–2024)",
+  "title": "Κυκλοφορούντα οχήματα ανά περιφέρεια της Ελλάδας (2013–2024)",
+  "description": "Αριθμός επιβατικών αυτοκινήτων (και ανά 1.000 κατοίκους), μοτοσυκλετών, λεωφορείων και συνόλου οχημάτων ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος, στοιχεία Eurostat.",
+  "category": "transport",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/tran_r_vehst/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/tran_r_vehst/default/table",
+  "updated": "2026-11",
+  "record_count": 156,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "synolo_ochimaton_ektos_motosykleton_rymoulkon",
+      "label": "Synolo Ochimaton Ektos Motosykleton Rymoulkon",
+      "type": "number"
+    },
+    {
+      "key": "motosykletes",
+      "label": "Motosykletes",
+      "type": "number"
+    },
+    {
+      "key": "epivatika",
+      "label": "Epivatika",
+      "type": "number"
+    },
+    {
+      "key": "epivatika_ana_1000_katoikous",
+      "label": "Epivatika Ana 1000 Katoikous",
+      "type": "number"
+    },
+    {
+      "key": "leoforeia",
+      "label": "Leoforeia",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3043859,
+      "motosykletes": 702179,
+      "epivatika": 2751800,
+      "epivatika_ana_1000_katoikous": 712,
+      "leoforeia": 12758
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3058870,
+      "motosykletes": 711958,
+      "epivatika": 2766696,
+      "epivatika_ana_1000_katoikous": 724,
+      "leoforeia": 12683
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3080446,
+      "motosykletes": 722478,
+      "epivatika": 2793201,
+      "epivatika_ana_1000_katoikous": 739,
+      "leoforeia": 12287
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3135479,
+      "motosykletes": 737594,
+      "epivatika": 2838129,
+      "epivatika_ana_1000_katoikous": 752,
+      "leoforeia": 12269
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3211773,
+      "motosykletes": 734924,
+      "epivatika": 2887680,
+      "epivatika_ana_1000_katoikous": 769,
+      "leoforeia": 12236
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3252449,
+      "motosykletes": 690453,
+      "epivatika": 2916923,
+      "epivatika_ana_1000_katoikous": 779,
+      "leoforeia": 12539
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3337579,
+      "motosykletes": 701924,
+      "epivatika": 2991572,
+      "epivatika_ana_1000_katoikous": 800,
+      "leoforeia": 12591
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3054644,
+      "motosykletes": 715468,
+      "epivatika": 3042008,
+      "epivatika_ana_1000_katoikous": 793,
+      "leoforeia": 12636
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3127073,
+      "motosykletes": 733451,
+      "epivatika": 3114399,
+      "epivatika_ana_1000_katoikous": 818,
+      "leoforeia": 12674
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3208751,
+      "motosykletes": 754728,
+      "epivatika": 3196112,
+      "epivatika_ana_1000_katoikous": 844,
+      "leoforeia": 12639
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3312677,
+      "motosykletes": 780492,
+      "epivatika": 3300107,
+      "epivatika_ana_1000_katoikous": 875,
+      "leoforeia": 12570
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 3412283,
+      "motosykletes": 811836,
+      "epivatika": 3399740,
+      "epivatika_ana_1000_katoikous": 903,
+      "leoforeia": 12543
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 90460,
+      "motosykletes": 47053,
+      "epivatika": 59791,
+      "epivatika_ana_1000_katoikous": 301,
+      "leoforeia": 253
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 90204,
+      "motosykletes": 47735,
+      "epivatika": 59497,
+      "epivatika_ana_1000_katoikous": 301,
+      "leoforeia": 253
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 93107,
+      "motosykletes": 48501,
+      "epivatika": 58822,
+      "epivatika_ana_1000_katoikous": 299,
+      "leoforeia": 249
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 92756,
+      "motosykletes": 49260,
+      "epivatika": 58589,
+      "epivatika_ana_1000_katoikous": 288,
+      "leoforeia": 250
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 92342,
+      "motosykletes": 49410,
+      "epivatika": 58861,
+      "epivatika_ana_1000_katoikous": 279,
+      "leoforeia": 250
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 91822,
+      "motosykletes": 49226,
+      "epivatika": 58888,
+      "epivatika_ana_1000_katoikous": 266,
+      "leoforeia": 251
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 92415,
+      "motosykletes": 50114,
+      "epivatika": 59448,
+      "epivatika_ana_1000_katoikous": 259,
+      "leoforeia": 254
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 60110,
+      "motosykletes": 51006,
+      "epivatika": 59856,
+      "epivatika_ana_1000_katoikous": 303,
+      "leoforeia": 254
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 60763,
+      "motosykletes": 52180,
+      "epivatika": 60510,
+      "epivatika_ana_1000_katoikous": 311,
+      "leoforeia": 253
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 61402,
+      "motosykletes": 53533,
+      "epivatika": 61151,
+      "epivatika_ana_1000_katoikous": 315,
+      "leoforeia": 251
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 62264,
+      "motosykletes": 55007,
+      "epivatika": 62013,
+      "epivatika_ana_1000_katoikous": 310,
+      "leoforeia": 251
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 63098,
+      "motosykletes": 56762,
+      "epivatika": 62851,
+      "epivatika_ana_1000_katoikous": 302,
+      "leoforeia": 247
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 148266,
+      "motosykletes": 67968,
+      "epivatika": 112093,
+      "epivatika_ana_1000_katoikous": 335,
+      "leoforeia": 1163
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 149705,
+      "motosykletes": 70229,
+      "epivatika": 113413,
+      "epivatika_ana_1000_katoikous": 339,
+      "leoforeia": 1159
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 155403,
+      "motosykletes": 73008,
+      "epivatika": 114418,
+      "epivatika_ana_1000_katoikous": 342,
+      "leoforeia": 1152
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 156551,
+      "motosykletes": 76644,
+      "epivatika": 115358,
+      "epivatika_ana_1000_katoikous": 341,
+      "leoforeia": 1145
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 157945,
+      "motosykletes": 77761,
+      "epivatika": 116868,
+      "epivatika_ana_1000_katoikous": 343,
+      "leoforeia": 1136
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 159731,
+      "motosykletes": 77955,
+      "epivatika": 118265,
+      "epivatika_ana_1000_katoikous": 344,
+      "leoforeia": 1126
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 162808,
+      "motosykletes": 80384,
+      "epivatika": 120490,
+      "epivatika_ana_1000_katoikous": 347,
+      "leoforeia": 1118
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 122053,
+      "motosykletes": 81357,
+      "epivatika": 120948,
+      "epivatika_ana_1000_katoikous": 367,
+      "leoforeia": 1105
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 123236,
+      "motosykletes": 83580,
+      "epivatika": 122160,
+      "epivatika_ana_1000_katoikous": 373,
+      "leoforeia": 1076
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 125629,
+      "motosykletes": 87842,
+      "epivatika": 124566,
+      "epivatika_ana_1000_katoikous": 382,
+      "leoforeia": 1063
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 128647,
+      "motosykletes": 92615,
+      "epivatika": 127590,
+      "epivatika_ana_1000_katoikous": 391,
+      "leoforeia": 1057
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 131435,
+      "motosykletes": 97525,
+      "epivatika": 130403,
+      "epivatika_ana_1000_katoikous": 399,
+      "leoforeia": 1032
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 385612,
+      "motosykletes": 130331,
+      "epivatika": 258396,
+      "epivatika_ana_1000_katoikous": 410,
+      "leoforeia": 1189
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 387047,
+      "motosykletes": 132416,
+      "epivatika": 259218,
+      "epivatika_ana_1000_katoikous": 410,
+      "leoforeia": 1190
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 391971,
+      "motosykletes": 134926,
+      "epivatika": 260519,
+      "epivatika_ana_1000_katoikous": 412,
+      "leoforeia": 1184
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 395717,
+      "motosykletes": 137759,
+      "epivatika": 263517,
+      "epivatika_ana_1000_katoikous": 417,
+      "leoforeia": 1177
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 399863,
+      "motosykletes": 138556,
+      "epivatika": 268739,
+      "epivatika_ana_1000_katoikous": 424,
+      "leoforeia": 1172
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 403795,
+      "motosykletes": 132712,
+      "epivatika": 273039,
+      "epivatika_ana_1000_katoikous": 430,
+      "leoforeia": 1170
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 412454,
+      "motosykletes": 134991,
+      "epivatika": 280280,
+      "epivatika_ana_1000_katoikous": 440,
+      "leoforeia": 1163
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 284778,
+      "motosykletes": 136782,
+      "epivatika": 283613,
+      "epivatika_ana_1000_katoikous": 453,
+      "leoforeia": 1165
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 289952,
+      "motosykletes": 139516,
+      "epivatika": 288778,
+      "epivatika_ana_1000_katoikous": 463,
+      "leoforeia": 1174
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 296088,
+      "motosykletes": 143506,
+      "epivatika": 294913,
+      "epivatika_ana_1000_katoikous": 474,
+      "leoforeia": 1175
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 303953,
+      "motosykletes": 148524,
+      "epivatika": 302779,
+      "epivatika_ana_1000_katoikous": 487,
+      "leoforeia": 1174
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 311512,
+      "motosykletes": 154417,
+      "epivatika": 310342,
+      "epivatika_ana_1000_katoikous": 500,
+      "leoforeia": 1170
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 284737,
+      "motosykletes": 68803,
+      "epivatika": 205370,
+      "epivatika_ana_1000_katoikous": 338,
+      "leoforeia": 1155
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 283381,
+      "motosykletes": 69893,
+      "epivatika": 203742,
+      "epivatika_ana_1000_katoikous": 336,
+      "leoforeia": 1156
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 283901,
+      "motosykletes": 70982,
+      "epivatika": 202465,
+      "epivatika_ana_1000_katoikous": 335,
+      "leoforeia": 1154
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 284793,
+      "motosykletes": 72354,
+      "epivatika": 203505,
+      "epivatika_ana_1000_katoikous": 338,
+      "leoforeia": 1159
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 286603,
+      "motosykletes": 72259,
+      "epivatika": 206243,
+      "epivatika_ana_1000_katoikous": 343,
+      "leoforeia": 1154
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 289448,
+      "motosykletes": 71225,
+      "epivatika": 209289,
+      "epivatika_ana_1000_katoikous": 349,
+      "leoforeia": 1157
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 294143,
+      "motosykletes": 72251,
+      "epivatika": 213951,
+      "epivatika_ana_1000_katoikous": 357,
+      "leoforeia": 1159
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 218617,
+      "motosykletes": 73595,
+      "epivatika": 217459,
+      "epivatika_ana_1000_katoikous": 385,
+      "leoforeia": 1158
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 222280,
+      "motosykletes": 75365,
+      "epivatika": 221119,
+      "epivatika_ana_1000_katoikous": 394,
+      "leoforeia": 1161
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 225767,
+      "motosykletes": 77434,
+      "epivatika": 224602,
+      "epivatika_ana_1000_katoikous": 402,
+      "leoforeia": 1165
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 229467,
+      "motosykletes": 79836,
+      "epivatika": 228300,
+      "epivatika_ana_1000_katoikous": 407,
+      "leoforeia": 1167
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 233946,
+      "motosykletes": 82973,
+      "epivatika": 232783,
+      "epivatika_ana_1000_katoikous": 412,
+      "leoforeia": 1163
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 989927,
+      "motosykletes": 184762,
+      "epivatika": 755440,
+      "epivatika_ana_1000_katoikous": 397,
+      "leoforeia": 3907
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 980459,
+      "motosykletes": 187220,
+      "epivatika": 746621,
+      "epivatika_ana_1000_katoikous": 394,
+      "leoforeia": 3889
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 962847,
+      "motosykletes": 190278,
+      "epivatika": 738012,
+      "epivatika_ana_1000_katoikous": 392,
+      "leoforeia": 3864
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 964823,
+      "motosykletes": 193927,
+      "epivatika": 740932,
+      "epivatika_ana_1000_katoikous": 394,
+      "leoforeia": 3845
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 968153,
+      "motosykletes": 195015,
+      "epivatika": 748866,
+      "epivatika_ana_1000_katoikous": 399,
+      "leoforeia": 3837
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 967228,
+      "motosykletes": 185699,
+      "epivatika": 752007,
+      "epivatika_ana_1000_katoikous": 401,
+      "leoforeia": 3814
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 983453,
+      "motosykletes": 188704,
+      "epivatika": 767728,
+      "epivatika_ana_1000_katoikous": 410,
+      "leoforeia": 3826
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 784454,
+      "motosykletes": 192189,
+      "epivatika": 780627,
+      "epivatika_ana_1000_katoikous": 431,
+      "leoforeia": 3827
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 797543,
+      "motosykletes": 196726,
+      "epivatika": 793713,
+      "epivatika_ana_1000_katoikous": 443,
+      "leoforeia": 3830
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 811111,
+      "motosykletes": 202028,
+      "epivatika": 807267,
+      "epivatika_ana_1000_katoikous": 454,
+      "leoforeia": 3844
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 826845,
+      "motosykletes": 208161,
+      "epivatika": 822997,
+      "epivatika_ana_1000_katoikous": 464,
+      "leoforeia": 3848
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 843764,
+      "motosykletes": 216407,
+      "epivatika": 839930,
+      "epivatika_ana_1000_katoikous": 474,
+      "leoforeia": 3834
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 141833,
+      "motosykletes": 14015,
+      "epivatika": 100829,
+      "epivatika_ana_1000_katoikous": 362,
+      "leoforeia": 658
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 140480,
+      "motosykletes": 14206,
+      "epivatika": 99455,
+      "epivatika_ana_1000_katoikous": 360,
+      "leoforeia": 648
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 138500,
+      "motosykletes": 14401,
+      "epivatika": 97609,
+      "epivatika_ana_1000_katoikous": 356,
+      "leoforeia": 644
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 137731,
+      "motosykletes": 14552,
+      "epivatika": 97360,
+      "epivatika_ana_1000_katoikous": 359,
+      "leoforeia": 645
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 137182,
+      "motosykletes": 14542,
+      "epivatika": 97568,
+      "epivatika_ana_1000_katoikous": 362,
+      "leoforeia": 633
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 136813,
+      "motosykletes": 14266,
+      "epivatika": 97649,
+      "epivatika_ana_1000_katoikous": 366,
+      "leoforeia": 626
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 137961,
+      "motosykletes": 14372,
+      "epivatika": 98890,
+      "epivatika_ana_1000_katoikous": 374,
+      "leoforeia": 626
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 100776,
+      "motosykletes": 14514,
+      "epivatika": 100153,
+      "epivatika_ana_1000_katoikous": 388,
+      "leoforeia": 623
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 101865,
+      "motosykletes": 14738,
+      "epivatika": 101243,
+      "epivatika_ana_1000_katoikous": 399,
+      "leoforeia": 622
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 102766,
+      "motosykletes": 15032,
+      "epivatika": 102146,
+      "epivatika_ana_1000_katoikous": 409,
+      "leoforeia": 620
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 103829,
+      "motosykletes": 15320,
+      "epivatika": 103211,
+      "epivatika_ana_1000_katoikous": 419,
+      "leoforeia": 618
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 105207,
+      "motosykletes": 15700,
+      "epivatika": 104592,
+      "epivatika_ana_1000_katoikous": 429,
+      "leoforeia": 615
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 160783,
+      "motosykletes": 30365,
+      "epivatika": 114168,
+      "epivatika_ana_1000_katoikous": 335,
+      "leoforeia": 695
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 160137,
+      "motosykletes": 30953,
+      "epivatika": 113350,
+      "epivatika_ana_1000_katoikous": 334,
+      "leoforeia": 697
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 158596,
+      "motosykletes": 31528,
+      "epivatika": 112396,
+      "epivatika_ana_1000_katoikous": 334,
+      "leoforeia": 700
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 159343,
+      "motosykletes": 32074,
+      "epivatika": 113147,
+      "epivatika_ana_1000_katoikous": 338,
+      "leoforeia": 697
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 160264,
+      "motosykletes": 32225,
+      "epivatika": 114642,
+      "epivatika_ana_1000_katoikous": 343,
+      "leoforeia": 702
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 161704,
+      "motosykletes": 31730,
+      "epivatika": 116324,
+      "epivatika_ana_1000_katoikous": 349,
+      "leoforeia": 703
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 165315,
+      "motosykletes": 32271,
+      "epivatika": 119599,
+      "epivatika_ana_1000_katoikous": 359,
+      "leoforeia": 713
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 122941,
+      "motosykletes": 32812,
+      "epivatika": 122224,
+      "epivatika_ana_1000_katoikous": 381,
+      "leoforeia": 717
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 125920,
+      "motosykletes": 33607,
+      "epivatika": 125205,
+      "epivatika_ana_1000_katoikous": 392,
+      "leoforeia": 715
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 129087,
+      "motosykletes": 34667,
+      "epivatika": 128371,
+      "epivatika_ana_1000_katoikous": 403,
+      "leoforeia": 716
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 132775,
+      "motosykletes": 35976,
+      "epivatika": 132065,
+      "epivatika_ana_1000_katoikous": 412,
+      "leoforeia": 710
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 136300,
+      "motosykletes": 37419,
+      "epivatika": 135590,
+      "epivatika_ana_1000_katoikous": 418,
+      "leoforeia": 710
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 346468,
+      "motosykletes": 79005,
+      "epivatika": 241725,
+      "epivatika_ana_1000_katoikous": 328,
+      "leoforeia": 1277
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 344598,
+      "motosykletes": 80331,
+      "epivatika": 239485,
+      "epivatika_ana_1000_katoikous": 326,
+      "leoforeia": 1287
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 343307,
+      "motosykletes": 81647,
+      "epivatika": 236937,
+      "epivatika_ana_1000_katoikous": 325,
+      "leoforeia": 1285
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 344565,
+      "motosykletes": 83160,
+      "epivatika": 237768,
+      "epivatika_ana_1000_katoikous": 328,
+      "leoforeia": 1287
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 346047,
+      "motosykletes": 83569,
+      "epivatika": 240256,
+      "epivatika_ana_1000_katoikous": 333,
+      "leoforeia": 1291
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 347976,
+      "motosykletes": 81268,
+      "epivatika": 243098,
+      "epivatika_ana_1000_katoikous": 338,
+      "leoforeia": 1289
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 353507,
+      "motosykletes": 82460,
+      "epivatika": 248031,
+      "epivatika_ana_1000_katoikous": 347,
+      "leoforeia": 1297
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 253532,
+      "motosykletes": 83741,
+      "epivatika": 252226,
+      "epivatika_ana_1000_katoikous": 364,
+      "leoforeia": 1306
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 257976,
+      "motosykletes": 85452,
+      "epivatika": 256664,
+      "epivatika_ana_1000_katoikous": 374,
+      "leoforeia": 1312
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 261427,
+      "motosykletes": 87682,
+      "epivatika": 260114,
+      "epivatika_ana_1000_katoikous": 382,
+      "leoforeia": 1313
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 264606,
+      "motosykletes": 90154,
+      "epivatika": 263290,
+      "epivatika_ana_1000_katoikous": 388,
+      "leoforeia": 1316
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 268081,
+      "motosykletes": 93404,
+      "epivatika": 266764,
+      "epivatika_ana_1000_katoikous": 395,
+      "leoforeia": 1317
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 110759,
+      "motosykletes": 48308,
+      "epivatika": 81341,
+      "epivatika_ana_1000_katoikous": 392,
+      "leoforeia": 558
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 111244,
+      "motosykletes": 49129,
+      "epivatika": 81635,
+      "epivatika_ana_1000_katoikous": 394,
+      "leoforeia": 556
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 113592,
+      "motosykletes": 50217,
+      "epivatika": 81714,
+      "epivatika_ana_1000_katoikous": 396,
+      "leoforeia": 554
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 114370,
+      "motosykletes": 51626,
+      "epivatika": 82359,
+      "epivatika_ana_1000_katoikous": 401,
+      "leoforeia": 555
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 115610,
+      "motosykletes": 52435,
+      "epivatika": 83853,
+      "epivatika_ana_1000_katoikous": 410,
+      "leoforeia": 554
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 116708,
+      "motosykletes": 51998,
+      "epivatika": 84829,
+      "epivatika_ana_1000_katoikous": 416,
+      "leoforeia": 557
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 118866,
+      "motosykletes": 53139,
+      "epivatika": 86577,
+      "epivatika_ana_1000_katoikous": 426,
+      "leoforeia": 562
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 87598,
+      "motosykletes": 53712,
+      "epivatika": 87035,
+      "epivatika_ana_1000_katoikous": 423,
+      "leoforeia": 563
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 88094,
+      "motosykletes": 54683,
+      "epivatika": 87526,
+      "epivatika_ana_1000_katoikous": 429,
+      "leoforeia": 568
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 89073,
+      "motosykletes": 56696,
+      "epivatika": 88503,
+      "epivatika_ana_1000_katoikous": 438,
+      "leoforeia": 570
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 90495,
+      "motosykletes": 59120,
+      "epivatika": 89919,
+      "epivatika_ana_1000_katoikous": 450,
+      "leoforeia": 576
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 91826,
+      "motosykletes": 61388,
+      "epivatika": 91246,
+      "epivatika_ana_1000_katoikous": 460,
+      "leoforeia": 580
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 292969,
+      "motosykletes": 90028,
+      "epivatika": 179429,
+      "epivatika_ana_1000_katoikous": 265,
+      "leoforeia": 1392
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 290673,
+      "motosykletes": 91687,
+      "epivatika": 176823,
+      "epivatika_ana_1000_katoikous": 263,
+      "leoforeia": 1388
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 272696,
+      "motosykletes": 93151,
+      "epivatika": 174512,
+      "epivatika_ana_1000_katoikous": 261,
+      "leoforeia": 1382
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 274052,
+      "motosykletes": 94635,
+      "epivatika": 175346,
+      "epivatika_ana_1000_katoikous": 264,
+      "leoforeia": 1382
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 274202,
+      "motosykletes": 96148,
+      "epivatika": 177940,
+      "epivatika_ana_1000_katoikous": 270,
+      "leoforeia": 1385
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 275151,
+      "motosykletes": 92123,
+      "epivatika": 179664,
+      "epivatika_ana_1000_katoikous": 274,
+      "leoforeia": 1387
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 280293,
+      "motosykletes": 93636,
+      "epivatika": 184432,
+      "epivatika_ana_1000_katoikous": 283,
+      "leoforeia": 1392
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 189531,
+      "motosykletes": 95383,
+      "epivatika": 188134,
+      "epivatika_ana_1000_katoikous": 288,
+      "leoforeia": 1397
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 193305,
+      "motosykletes": 97732,
+      "epivatika": 191902,
+      "epivatika_ana_1000_katoikous": 297,
+      "leoforeia": 1403
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 196207,
+      "motosykletes": 100491,
+      "epivatika": 194807,
+      "epivatika_ana_1000_katoikous": 304,
+      "leoforeia": 1400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 199724,
+      "motosykletes": 103614,
+      "epivatika": 198322,
+      "epivatika_ana_1000_katoikous": 311,
+      "leoforeia": 1402
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 203768,
+      "motosykletes": 107540,
+      "epivatika": 202369,
+      "epivatika_ana_1000_katoikous": 318,
+      "leoforeia": 1399
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 234487,
+      "motosykletes": 45838,
+      "epivatika": 135065,
+      "epivatika_ana_1000_katoikous": 242,
+      "leoforeia": 1114
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 232944,
+      "motosykletes": 46341,
+      "epivatika": 133283,
+      "epivatika_ana_1000_katoikous": 239,
+      "leoforeia": 1114
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 232814,
+      "motosykletes": 46765,
+      "epivatika": 131287,
+      "epivatika_ana_1000_katoikous": 236,
+      "leoforeia": 1107
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 232292,
+      "motosykletes": 47243,
+      "epivatika": 131098,
+      "epivatika_ana_1000_katoikous": 236,
+      "leoforeia": 1104
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 230557,
+      "motosykletes": 46987,
+      "epivatika": 131249,
+      "epivatika_ana_1000_katoikous": 236,
+      "leoforeia": 1110
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 227392,
+      "motosykletes": 44702,
+      "epivatika": 130155,
+      "epivatika_ana_1000_katoikous": 234,
+      "leoforeia": 1107
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 228663,
+      "motosykletes": 44970,
+      "epivatika": 131206,
+      "epivatika_ana_1000_katoikous": 236,
+      "leoforeia": 1108
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 132990,
+      "motosykletes": 45548,
+      "epivatika": 131881,
+      "epivatika_ana_1000_katoikous": 257,
+      "leoforeia": 1109
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 134167,
+      "motosykletes": 46257,
+      "epivatika": 133056,
+      "epivatika_ana_1000_katoikous": 262,
+      "leoforeia": 1111
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 135950,
+      "motosykletes": 47097,
+      "epivatika": 134836,
+      "epivatika_ana_1000_katoikous": 267,
+      "leoforeia": 1114
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 138898,
+      "motosykletes": 48148,
+      "epivatika": 137785,
+      "epivatika_ana_1000_katoikous": 273,
+      "leoforeia": 1113
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 142339,
+      "motosykletes": 49467,
+      "epivatika": 141228,
+      "epivatika_ana_1000_katoikous": 278,
+      "leoforeia": 1111
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2013,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 237033,
+      "motosykletes": 59941,
+      "epivatika": 128761,
+      "epivatika_ana_1000_katoikous": 220,
+      "leoforeia": 1030
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2014,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 226123,
+      "motosykletes": 60831,
+      "epivatika": 117655,
+      "epivatika_ana_1000_katoikous": 202,
+      "leoforeia": 1027
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2015,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 222250,
+      "motosykletes": 61739,
+      "epivatika": 105728,
+      "epivatika_ana_1000_katoikous": 182,
+      "leoforeia": 1024
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2016,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 219667,
+      "motosykletes": 62700,
+      "epivatika": 102948,
+      "epivatika_ana_1000_katoikous": 178,
+      "leoforeia": 1026
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2017,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 218728,
+      "motosykletes": 62826,
+      "epivatika": 103163,
+      "epivatika_ana_1000_katoikous": 179,
+      "leoforeia": 1021
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2018,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 216590,
+      "motosykletes": 60134,
+      "epivatika": 102565,
+      "epivatika_ana_1000_katoikous": 179,
+      "leoforeia": 1017
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2019,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 218729,
+      "motosykletes": 60707,
+      "epivatika": 104347,
+      "epivatika_ana_1000_katoikous": 182,
+      "leoforeia": 1024
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2020,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 107045,
+      "motosykletes": 61501,
+      "epivatika": 106012,
+      "epivatika_ana_1000_katoikous": 195,
+      "leoforeia": 1033
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2021,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 108955,
+      "motosykletes": 62517,
+      "epivatika": 107917,
+      "epivatika_ana_1000_katoikous": 201,
+      "leoforeia": 1038
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2022,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 109664,
+      "motosykletes": 63702,
+      "epivatika": 108624,
+      "epivatika_ana_1000_katoikous": 203,
+      "leoforeia": 1040
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2023,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 110424,
+      "motosykletes": 65055,
+      "epivatika": 109381,
+      "epivatika_ana_1000_katoikous": 206,
+      "leoforeia": 1043
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2024,
+      "synolo_ochimaton_ektos_motosykleton_rymoulkon": 111152,
+      "motosykletes": 66782,
+      "epivatika": 110108,
+      "epivatika_ana_1000_katoikous": 208,
+      "leoforeia": 1044
+    }
+  ],
+  "meta": {
+    "title": "Κυκλοφορούντα οχήματα ανά περιφέρεια της Ελλάδας (2013–2024) - Free Download",
+    "description": "Αριθμός επιβατικών αυτοκινήτων (και ανά 1.000 κατοίκους), μοτοσυκλετών, λεωφορείων και συνόλου οχημάτων ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος, στοιχεία Eurostat. Contains 156 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Κυκλοφορούντα οχήματα ανά περιφέρεια της Ελλάδας (2013–2024) | ListBase",
+    "seo_description": "Download Κυκλοφορούντα οχήματα ανά περιφέρεια της Ελλάδας (2013–2024) — 156 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 156 records / 8 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/tran_r_vehst/default/table"
+    ]
+  }
+}

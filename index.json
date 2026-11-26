@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-26T02:10:44.873Z",
-  "total_datasets": 539,
-  "total_records": 203745,
+  "generated": "2026-11-26T02:10:53.791Z",
+  "total_datasets": 540,
+  "total_records": 203901,
   "categories": [
     {
       "id": "agriculture",
@@ -94,7 +94,7 @@
     },
     {
       "id": "transport",
-      "dataset_count": 35
+      "dataset_count": 36
     },
     {
       "id": "units",
@@ -15793,6 +15793,35 @@
         "xlsx": {
           "name": "el-stereas-elladas-sidirodromikoi-stathmoi_EL.xlsx",
           "size": 9132
+        }
+      }
+    },
+    {
+      "id": "el-stolos-ochimaton-ana-perifereia",
+      "name": "Κυκλοφορούντα οχήματα ανά περιφέρεια της Ελλάδας (2013–2024)",
+      "category": "transport",
+      "record_count": 156,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "synolo_ochimaton_ektos_motosykleton_rymoulkon",
+        "motosykletes",
+        "epivatika",
+        "epivatika_ana_1000_katoikous",
+        "leoforeia"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/tran_r_vehst/default/table",
+      "updated": "2026-11",
+      "size": 52912,
+      "files": {
+        "csv": {
+          "name": "el-stolos-ochimaton-ana-perifereia_EL.csv",
+          "size": 16395
+        },
+        "xlsx": {
+          "name": "el-stolos-ochimaton-ana-perifereia_EL.xlsx",
+          "size": 14005
         }
       }
     },
