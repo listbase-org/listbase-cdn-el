@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-26T02:10:53.791Z",
-  "total_datasets": 540,
-  "total_records": 203901,
+  "generated": "2026-11-27T02:11:24.619Z",
+  "total_datasets": 541,
+  "total_records": 203954,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "geography",
@@ -4447,6 +4447,29 @@
         "xlsx": {
           "name": "el-ellinika-tyria-katigories_EL.xlsx",
           "size": 8956
+        }
+      }
+    },
+    {
+      "id": "el-eptanisiaki-kouzina",
+      "name": "Επτανησιακή κουζίνα — παραδοσιακά πιάτα ανά νησί",
+      "category": "food",
+      "record_count": 53,
+      "columns": [
+        "name",
+        "island"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Επτανησιακή_κουζίνα",
+      "updated": "2026-11",
+      "size": 6814,
+      "files": {
+        "csv": {
+          "name": "el-eptanisiaki-kouzina_EL.csv",
+          "size": 2535
+        },
+        "xlsx": {
+          "name": "el-eptanisiaki-kouzina_EL.xlsx",
+          "size": 7953
         }
       }
     },
