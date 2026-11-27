@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-27T02:11:24.619Z",
-  "total_datasets": 541,
-  "total_records": 203954,
+  "generated": "2026-11-27T02:11:32.941Z",
+  "total_datasets": 542,
+  "total_records": 204026,
   "categories": [
     {
       "id": "agriculture",
@@ -34,7 +34,7 @@
     },
     {
       "id": "food",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "geography",
@@ -4529,6 +4529,30 @@
         "xlsx": {
           "name": "el-fast-food_EL.xlsx",
           "size": 103742
+        }
+      }
+    },
+    {
+      "id": "el-makedoniki-kouzina",
+      "name": "Μακεδονική κουζίνα — πιάτα, προϊόντα και γλυκά",
+      "category": "food",
+      "record_count": 72,
+      "columns": [
+        "name",
+        "group",
+        "description"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Μακεδονική_κουζίνα",
+      "updated": "2026-11",
+      "size": 43350,
+      "files": {
+        "csv": {
+          "name": "el-makedoniki-kouzina_EL.csv",
+          "size": 36656
+        },
+        "xlsx": {
+          "name": "el-makedoniki-kouzina_EL.xlsx",
+          "size": 17449
         }
       }
     },
