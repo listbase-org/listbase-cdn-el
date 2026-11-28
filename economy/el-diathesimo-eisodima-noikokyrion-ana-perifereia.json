@@ -1,0 +1,1304 @@
+{
+  "id": "el-diathesimo-eisodima-noikokyrion-ana-perifereia",
+  "name": "Διαθέσιμο εισόδημα νοικοκυριών ανά περιφέρεια της Ελλάδας (2012–2023)",
+  "title": "Διαθέσιμο εισόδημα νοικοκυριών ανά περιφέρεια της Ελλάδας (2012–2023)",
+  "description": "Καθαρό διαθέσιμο εισόδημα των νοικοκυριών ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος (2012–2023): σύνολο σε εκατ. ευρώ και ανά κάτοικο σε ευρώ και σε μονάδες αγοραστικής δύναμης (PPS), στοιχεία Eurostat.",
+  "category": "economy",
+  "source": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_2hhinc/default/table",
+  "source_url": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_2hhinc/default/table",
+  "updated": "2026-11",
+  "record_count": 156,
+  "columns": [
+    {
+      "key": "perifereia",
+      "label": "Perifereia",
+      "type": "string"
+    },
+    {
+      "key": "kodikos_nuts",
+      "label": "Kodikos Nuts",
+      "type": "string"
+    },
+    {
+      "key": "etos",
+      "label": "Etos",
+      "type": "number"
+    },
+    {
+      "key": "synoliko_eisodima_ekat_eur",
+      "label": "Synoliko Eisodima Ekat Eur",
+      "type": "number"
+    },
+    {
+      "key": "eisodima_ana_katoiko_eur",
+      "label": "Eisodima Ana Katoiko Eur",
+      "type": "number"
+    },
+    {
+      "key": "eisodima_ana_katoiko_pps",
+      "label": "Eisodima Ana Katoiko Pps",
+      "type": "number"
+    }
+  ],
+  "rows": [
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 44535.57,
+      "eisodima_ana_katoiko_eur": 11300,
+      "eisodima_ana_katoiko_pps": 11800
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 42246.38,
+      "eisodima_ana_katoiko_eur": 10900,
+      "eisodima_ana_katoiko_pps": 11800
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 43042.35,
+      "eisodima_ana_katoiko_eur": 11200,
+      "eisodima_ana_katoiko_pps": 12600
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 42008.75,
+      "eisodima_ana_katoiko_eur": 11000,
+      "eisodima_ana_katoiko_pps": 12500
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 42540.53,
+      "eisodima_ana_katoiko_eur": 11300,
+      "eisodima_ana_katoiko_pps": 12800
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 43020.93,
+      "eisodima_ana_katoiko_eur": 11400,
+      "eisodima_ana_katoiko_pps": 13100
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 42177.75,
+      "eisodima_ana_katoiko_eur": 11200,
+      "eisodima_ana_katoiko_pps": 13000
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 45186.85,
+      "eisodima_ana_katoiko_eur": 12100,
+      "eisodima_ana_katoiko_pps": 13900
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 44067.08,
+      "eisodima_ana_katoiko_eur": 11800,
+      "eisodima_ana_katoiko_pps": 13300
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 49216.03,
+      "eisodima_ana_katoiko_eur": 13200,
+      "eisodima_ana_katoiko_pps": 15100
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 52112.39,
+      "eisodima_ana_katoiko_eur": 14100,
+      "eisodima_ana_katoiko_pps": 16100
+    },
+    {
+      "perifereia": "Περιφέρεια Αττικής",
+      "kodikos_nuts": "EL30",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 56263.27,
+      "eisodima_ana_katoiko_eur": 15200,
+      "eisodima_ana_katoiko_pps": 17800
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 2103.33,
+      "eisodima_ana_katoiko_eur": 10500,
+      "eisodima_ana_katoiko_pps": 10900
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 1883.15,
+      "eisodima_ana_katoiko_eur": 9500,
+      "eisodima_ana_katoiko_pps": 10200
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 1885.74,
+      "eisodima_ana_katoiko_eur": 9500,
+      "eisodima_ana_katoiko_pps": 10700
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 1892.71,
+      "eisodima_ana_katoiko_eur": 9600,
+      "eisodima_ana_katoiko_pps": 10900
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 1868.42,
+      "eisodima_ana_katoiko_eur": 9300,
+      "eisodima_ana_katoiko_pps": 10600
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 1957.76,
+      "eisodima_ana_katoiko_eur": 9400,
+      "eisodima_ana_katoiko_pps": 10900
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 1928.03,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10300
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 2122.41,
+      "eisodima_ana_katoiko_eur": 9400,
+      "eisodima_ana_katoiko_pps": 10800
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 2020.58,
+      "eisodima_ana_katoiko_eur": 8800,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 2218.68,
+      "eisodima_ana_katoiko_eur": 9700,
+      "eisodima_ana_katoiko_pps": 11100
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 2324.02,
+      "eisodima_ana_katoiko_eur": 10200,
+      "eisodima_ana_katoiko_pps": 11700
+    },
+    {
+      "perifereia": "Περιφέρεια Βορείου Αιγαίου",
+      "kodikos_nuts": "EL41",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 2542.19,
+      "eisodima_ana_katoiko_eur": 11200,
+      "eisodima_ana_katoiko_pps": 13100
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 3499.77,
+      "eisodima_ana_katoiko_eur": 10500,
+      "eisodima_ana_katoiko_pps": 10900
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 3365.5,
+      "eisodima_ana_katoiko_eur": 10100,
+      "eisodima_ana_katoiko_pps": 10900
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 4064.27,
+      "eisodima_ana_katoiko_eur": 12100,
+      "eisodima_ana_katoiko_pps": 13700
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 4248.07,
+      "eisodima_ana_katoiko_eur": 12700,
+      "eisodima_ana_katoiko_pps": 14400
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 3642.45,
+      "eisodima_ana_katoiko_eur": 10800,
+      "eisodima_ana_katoiko_pps": 12300
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 3934.19,
+      "eisodima_ana_katoiko_eur": 11600,
+      "eisodima_ana_katoiko_pps": 13300
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 4067.46,
+      "eisodima_ana_katoiko_eur": 11900,
+      "eisodima_ana_katoiko_pps": 13700
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 4613.08,
+      "eisodima_ana_katoiko_eur": 13300,
+      "eisodima_ana_katoiko_pps": 15400
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 3539.3,
+      "eisodima_ana_katoiko_eur": 10200,
+      "eisodima_ana_katoiko_pps": 11500
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 4349.67,
+      "eisodima_ana_katoiko_eur": 12500,
+      "eisodima_ana_katoiko_pps": 14400
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 4913.01,
+      "eisodima_ana_katoiko_eur": 14300,
+      "eisodima_ana_katoiko_pps": 16300
+    },
+    {
+      "perifereia": "Περιφέρεια Νοτίου Αιγαίου",
+      "kodikos_nuts": "EL42",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 5518.85,
+      "eisodima_ana_katoiko_eur": 16100,
+      "eisodima_ana_katoiko_pps": 18700
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 5280.56,
+      "eisodima_ana_katoiko_eur": 8400,
+      "eisodima_ana_katoiko_pps": 8700
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 5085.46,
+      "eisodima_ana_katoiko_eur": 8100,
+      "eisodima_ana_katoiko_pps": 8700
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 5723.31,
+      "eisodima_ana_katoiko_eur": 9100,
+      "eisodima_ana_katoiko_pps": 10200
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 5696.65,
+      "eisodima_ana_katoiko_eur": 9000,
+      "eisodima_ana_katoiko_pps": 10200
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 5593.94,
+      "eisodima_ana_katoiko_eur": 8800,
+      "eisodima_ana_katoiko_pps": 10100
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 5869.45,
+      "eisodima_ana_katoiko_eur": 9300,
+      "eisodima_ana_katoiko_pps": 10700
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 5865.2,
+      "eisodima_ana_katoiko_eur": 9200,
+      "eisodima_ana_katoiko_pps": 10700
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 6474.87,
+      "eisodima_ana_katoiko_eur": 10200,
+      "eisodima_ana_katoiko_pps": 11700
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 5927.64,
+      "eisodima_ana_katoiko_eur": 9300,
+      "eisodima_ana_katoiko_pps": 10500
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 6701.82,
+      "eisodima_ana_katoiko_eur": 10600,
+      "eisodima_ana_katoiko_pps": 12100
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 7292.96,
+      "eisodima_ana_katoiko_eur": 11600,
+      "eisodima_ana_katoiko_pps": 13200
+    },
+    {
+      "perifereia": "Περιφέρεια Κρήτης",
+      "kodikos_nuts": "EL43",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 8039.73,
+      "eisodima_ana_katoiko_eur": 12800,
+      "eisodima_ana_katoiko_pps": 14900
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 5469.75,
+      "eisodima_ana_katoiko_eur": 9000,
+      "eisodima_ana_katoiko_pps": 9300
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 4984.21,
+      "eisodima_ana_katoiko_eur": 8200,
+      "eisodima_ana_katoiko_pps": 8900
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 5119.52,
+      "eisodima_ana_katoiko_eur": 8400,
+      "eisodima_ana_katoiko_pps": 9500
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 5136.82,
+      "eisodima_ana_katoiko_eur": 8500,
+      "eisodima_ana_katoiko_pps": 9600
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 5089.18,
+      "eisodima_ana_katoiko_eur": 8400,
+      "eisodima_ana_katoiko_pps": 9600
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 5250.89,
+      "eisodima_ana_katoiko_eur": 8700,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 5195.46,
+      "eisodima_ana_katoiko_eur": 8700,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 5612.99,
+      "eisodima_ana_katoiko_eur": 9400,
+      "eisodima_ana_katoiko_pps": 10800
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 5288.35,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 5806.07,
+      "eisodima_ana_katoiko_eur": 9800,
+      "eisodima_ana_katoiko_pps": 11200
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 5984.12,
+      "eisodima_ana_katoiko_eur": 10200,
+      "eisodima_ana_katoiko_pps": 11600
+    },
+    {
+      "perifereia": "Περιφέρεια Ανατολικής Μακεδονίας και Θράκης",
+      "kodikos_nuts": "EL51",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 6500.94,
+      "eisodima_ana_katoiko_eur": 11100,
+      "eisodima_ana_katoiko_pps": 12900
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 18790.1,
+      "eisodima_ana_katoiko_eur": 9800,
+      "eisodima_ana_katoiko_pps": 10200
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 17338.18,
+      "eisodima_ana_katoiko_eur": 9100,
+      "eisodima_ana_katoiko_pps": 9800
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 17470.19,
+      "eisodima_ana_katoiko_eur": 9200,
+      "eisodima_ana_katoiko_pps": 10400
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 17366.34,
+      "eisodima_ana_katoiko_eur": 9200,
+      "eisodima_ana_katoiko_pps": 10400
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 17472.49,
+      "eisodima_ana_katoiko_eur": 9300,
+      "eisodima_ana_katoiko_pps": 10600
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 17828.04,
+      "eisodima_ana_katoiko_eur": 9500,
+      "eisodima_ana_katoiko_pps": 10900
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 17650.26,
+      "eisodima_ana_katoiko_eur": 9400,
+      "eisodima_ana_katoiko_pps": 10800
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 18967.88,
+      "eisodima_ana_katoiko_eur": 10100,
+      "eisodima_ana_katoiko_pps": 11700
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 18223.97,
+      "eisodima_ana_katoiko_eur": 9800,
+      "eisodima_ana_katoiko_pps": 11100
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 20112.04,
+      "eisodima_ana_katoiko_eur": 10900,
+      "eisodima_ana_katoiko_pps": 12400
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 21170.95,
+      "eisodima_ana_katoiko_eur": 11500,
+      "eisodima_ana_katoiko_pps": 13200
+    },
+    {
+      "perifereia": "Περιφέρεια Κεντρικής Μακεδονίας",
+      "kodikos_nuts": "EL52",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 22791.31,
+      "eisodima_ana_katoiko_eur": 12400,
+      "eisodima_ana_katoiko_pps": 14500
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 2932.75,
+      "eisodima_ana_katoiko_eur": 10400,
+      "eisodima_ana_katoiko_pps": 10800
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 2742.62,
+      "eisodima_ana_katoiko_eur": 9800,
+      "eisodima_ana_katoiko_pps": 10600
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 2786.88,
+      "eisodima_ana_katoiko_eur": 10000,
+      "eisodima_ana_katoiko_pps": 11300
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 2757.98,
+      "eisodima_ana_katoiko_eur": 10000,
+      "eisodima_ana_katoiko_pps": 11400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 2623.64,
+      "eisodima_ana_katoiko_eur": 9600,
+      "eisodima_ana_katoiko_pps": 11000
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 2685.85,
+      "eisodima_ana_katoiko_eur": 9900,
+      "eisodima_ana_katoiko_pps": 11400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 2648.87,
+      "eisodima_ana_katoiko_eur": 9900,
+      "eisodima_ana_katoiko_pps": 11400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 2854.82,
+      "eisodima_ana_katoiko_eur": 10700,
+      "eisodima_ana_katoiko_pps": 12400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 2773.06,
+      "eisodima_ana_katoiko_eur": 10500,
+      "eisodima_ana_katoiko_pps": 11900
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 3000.84,
+      "eisodima_ana_katoiko_eur": 11500,
+      "eisodima_ana_katoiko_pps": 13200
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 3128.21,
+      "eisodima_ana_katoiko_eur": 12000,
+      "eisodima_ana_katoiko_pps": 13800
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Μακεδονίας",
+      "kodikos_nuts": "EL53",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 3412.87,
+      "eisodima_ana_katoiko_eur": 13200,
+      "eisodima_ana_katoiko_pps": 15400
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 3459.14,
+      "eisodima_ana_katoiko_eur": 10000,
+      "eisodima_ana_katoiko_pps": 10400
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 3138.11,
+      "eisodima_ana_katoiko_eur": 9200,
+      "eisodima_ana_katoiko_pps": 9900
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 3082.41,
+      "eisodima_ana_katoiko_eur": 9100,
+      "eisodima_ana_katoiko_pps": 10200
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 3047.59,
+      "eisodima_ana_katoiko_eur": 9000,
+      "eisodima_ana_katoiko_pps": 10200
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 3079.89,
+      "eisodima_ana_katoiko_eur": 9200,
+      "eisodima_ana_katoiko_pps": 10500
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 3146.96,
+      "eisodima_ana_katoiko_eur": 9400,
+      "eisodima_ana_katoiko_pps": 10800
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 3139.55,
+      "eisodima_ana_katoiko_eur": 9400,
+      "eisodima_ana_katoiko_pps": 10800
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 3379.19,
+      "eisodima_ana_katoiko_eur": 10100,
+      "eisodima_ana_katoiko_pps": 11700
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 3228.47,
+      "eisodima_ana_katoiko_eur": 9700,
+      "eisodima_ana_katoiko_pps": 11000
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 3562.08,
+      "eisodima_ana_katoiko_eur": 10800,
+      "eisodima_ana_katoiko_pps": 12400
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 3729.02,
+      "eisodima_ana_katoiko_eur": 11400,
+      "eisodima_ana_katoiko_pps": 13000
+    },
+    {
+      "perifereia": "Περιφέρεια Ηπείρου",
+      "kodikos_nuts": "EL54",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 4052.73,
+      "eisodima_ana_katoiko_eur": 12400,
+      "eisodima_ana_katoiko_pps": 14400
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 7237.11,
+      "eisodima_ana_katoiko_eur": 9700,
+      "eisodima_ana_katoiko_pps": 10100
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 6596.34,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 9700
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 6629.94,
+      "eisodima_ana_katoiko_eur": 9000,
+      "eisodima_ana_katoiko_pps": 10200
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 6538.42,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10100
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 6300.89,
+      "eisodima_ana_katoiko_eur": 8700,
+      "eisodima_ana_katoiko_pps": 9900
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 6523.65,
+      "eisodima_ana_katoiko_eur": 9000,
+      "eisodima_ana_katoiko_pps": 10400
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 6462.21,
+      "eisodima_ana_katoiko_eur": 9000,
+      "eisodima_ana_katoiko_pps": 10300
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 6881.27,
+      "eisodima_ana_katoiko_eur": 9600,
+      "eisodima_ana_katoiko_pps": 11000
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 6624.08,
+      "eisodima_ana_katoiko_eur": 9300,
+      "eisodima_ana_katoiko_pps": 10500
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 7253.81,
+      "eisodima_ana_katoiko_eur": 10300,
+      "eisodima_ana_katoiko_pps": 11800
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 7506.08,
+      "eisodima_ana_katoiko_eur": 10700,
+      "eisodima_ana_katoiko_pps": 12200
+    },
+    {
+      "perifereia": "Περιφέρεια Θεσσαλίας",
+      "kodikos_nuts": "EL61",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 8173.3,
+      "eisodima_ana_katoiko_eur": 11700,
+      "eisodima_ana_katoiko_pps": 13600
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 2209.15,
+      "eisodima_ana_katoiko_eur": 10600,
+      "eisodima_ana_katoiko_pps": 11000
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 2045.91,
+      "eisodima_ana_katoiko_eur": 9800,
+      "eisodima_ana_katoiko_pps": 10600
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 2278.31,
+      "eisodima_ana_katoiko_eur": 11000,
+      "eisodima_ana_katoiko_pps": 12400
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 2272.14,
+      "eisodima_ana_katoiko_eur": 11000,
+      "eisodima_ana_katoiko_pps": 12500
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 2290.94,
+      "eisodima_ana_katoiko_eur": 11100,
+      "eisodima_ana_katoiko_pps": 12700
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 2395.67,
+      "eisodima_ana_katoiko_eur": 11700,
+      "eisodima_ana_katoiko_pps": 13400
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 2479.44,
+      "eisodima_ana_katoiko_eur": 12100,
+      "eisodima_ana_katoiko_pps": 14000
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 2745.92,
+      "eisodima_ana_katoiko_eur": 13500,
+      "eisodima_ana_katoiko_pps": 15500
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 2306.81,
+      "eisodima_ana_katoiko_eur": 11400,
+      "eisodima_ana_katoiko_pps": 12900
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 2723.3,
+      "eisodima_ana_katoiko_eur": 13500,
+      "eisodima_ana_katoiko_pps": 15500
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 3007.3,
+      "eisodima_ana_katoiko_eur": 15000,
+      "eisodima_ana_katoiko_pps": 17200
+    },
+    {
+      "perifereia": "Περιφέρεια Ιονίων Νήσων",
+      "kodikos_nuts": "EL62",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 3328.89,
+      "eisodima_ana_katoiko_eur": 16700,
+      "eisodima_ana_katoiko_pps": 19400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 5979.17,
+      "eisodima_ana_katoiko_eur": 8700,
+      "eisodima_ana_katoiko_pps": 9100
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 5507.19,
+      "eisodima_ana_katoiko_eur": 8100,
+      "eisodima_ana_katoiko_pps": 8800
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 5580.83,
+      "eisodima_ana_katoiko_eur": 8300,
+      "eisodima_ana_katoiko_pps": 9300
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 5504.72,
+      "eisodima_ana_katoiko_eur": 8200,
+      "eisodima_ana_katoiko_pps": 9300
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 5481.68,
+      "eisodima_ana_katoiko_eur": 8200,
+      "eisodima_ana_katoiko_pps": 9400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 5646.52,
+      "eisodima_ana_katoiko_eur": 8500,
+      "eisodima_ana_katoiko_pps": 9800
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 5553.88,
+      "eisodima_ana_katoiko_eur": 8400,
+      "eisodima_ana_katoiko_pps": 9700
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 5925.45,
+      "eisodima_ana_katoiko_eur": 9100,
+      "eisodima_ana_katoiko_pps": 10400
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 5798.04,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10100
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 6209.96,
+      "eisodima_ana_katoiko_eur": 9600,
+      "eisodima_ana_katoiko_pps": 11000
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 6546.27,
+      "eisodima_ana_katoiko_eur": 10200,
+      "eisodima_ana_katoiko_pps": 11700
+    },
+    {
+      "perifereia": "Περιφέρεια Δυτικής Ελλάδας",
+      "kodikos_nuts": "EL63",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 7124.31,
+      "eisodima_ana_katoiko_eur": 11200,
+      "eisodima_ana_katoiko_pps": 13000
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 5329.34,
+      "eisodima_ana_katoiko_eur": 9500,
+      "eisodima_ana_katoiko_pps": 9900
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 4870.89,
+      "eisodima_ana_katoiko_eur": 8700,
+      "eisodima_ana_katoiko_pps": 9400
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 4946.53,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 4814.5,
+      "eisodima_ana_katoiko_eur": 8600,
+      "eisodima_ana_katoiko_pps": 9800
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 4751.94,
+      "eisodima_ana_katoiko_eur": 8500,
+      "eisodima_ana_katoiko_pps": 9800
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 4847.79,
+      "eisodima_ana_katoiko_eur": 8700,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 4769.44,
+      "eisodima_ana_katoiko_eur": 8600,
+      "eisodima_ana_katoiko_pps": 9900
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 5123.97,
+      "eisodima_ana_katoiko_eur": 9200,
+      "eisodima_ana_katoiko_pps": 10600
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 4962.9,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10100
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 5388.71,
+      "eisodima_ana_katoiko_eur": 9800,
+      "eisodima_ana_katoiko_pps": 11200
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 5703.91,
+      "eisodima_ana_katoiko_eur": 10400,
+      "eisodima_ana_katoiko_pps": 11900
+    },
+    {
+      "perifereia": "Περιφέρεια Στερεάς Ελλάδας",
+      "kodikos_nuts": "EL64",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 6247.62,
+      "eisodima_ana_katoiko_eur": 11400,
+      "eisodima_ana_katoiko_pps": 13300
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2012,
+      "synoliko_eisodima_ekat_eur": 5632.35,
+      "eisodima_ana_katoiko_eur": 9600,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2013,
+      "synoliko_eisodima_ekat_eur": 5162.67,
+      "eisodima_ana_katoiko_eur": 8800,
+      "eisodima_ana_katoiko_pps": 9500
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2014,
+      "synoliko_eisodima_ekat_eur": 5218.48,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10100
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2015,
+      "synoliko_eisodima_ekat_eur": 5154.16,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10000
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2016,
+      "synoliko_eisodima_ekat_eur": 5135.88,
+      "eisodima_ana_katoiko_eur": 8900,
+      "eisodima_ana_katoiko_pps": 10100
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2017,
+      "synoliko_eisodima_ekat_eur": 5282.04,
+      "eisodima_ana_katoiko_eur": 9100,
+      "eisodima_ana_katoiko_pps": 10500
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2018,
+      "synoliko_eisodima_ekat_eur": 5201.48,
+      "eisodima_ana_katoiko_eur": 9000,
+      "eisodima_ana_katoiko_pps": 10400
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2019,
+      "synoliko_eisodima_ekat_eur": 5638.64,
+      "eisodima_ana_katoiko_eur": 9800,
+      "eisodima_ana_katoiko_pps": 11300
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2020,
+      "synoliko_eisodima_ekat_eur": 5405.95,
+      "eisodima_ana_katoiko_eur": 9500,
+      "eisodima_ana_katoiko_pps": 10700
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2021,
+      "synoliko_eisodima_ekat_eur": 5913.37,
+      "eisodima_ana_katoiko_eur": 10400,
+      "eisodima_ana_katoiko_pps": 11900
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2022,
+      "synoliko_eisodima_ekat_eur": 6204.08,
+      "eisodima_ana_katoiko_eur": 11000,
+      "eisodima_ana_katoiko_pps": 12600
+    },
+    {
+      "perifereia": "Περιφέρεια Πελοποννήσου",
+      "kodikos_nuts": "EL65",
+      "etos": 2023,
+      "synoliko_eisodima_ekat_eur": 6790.08,
+      "eisodima_ana_katoiko_eur": 12100,
+      "eisodima_ana_katoiko_pps": 14100
+    }
+  ],
+  "meta": {
+    "title": "Διαθέσιμο εισόδημα νοικοκυριών ανά περιφέρεια της Ελλάδας (2012–2023) - Free Download",
+    "description": "Καθαρό διαθέσιμο εισόδημα των νοικοκυριών ανά περιφέρεια (NUTS 2) της Ελλάδας και έτος (2012–2023): σύνολο σε εκατ. ευρώ και ανά κάτοικο σε ευρώ και σε μονάδες αγοραστικής δύναμης (PPS), στοιχεία Eurostat. Contains 156 records. Download in Excel, CSV, PDF formats.",
+    "seo_title": "Διαθέσιμο εισόδημα νοικοκυριών ανά περιφέρεια της Ελλάδας (2012–2023) | ListBase",
+    "seo_description": "Download Διαθέσιμο εισόδημα νοικοκυριών ανά περιφέρεια της Ελλάδας (2012–2023) — 156 records. Available in Excel, CSV, PDF formats.",
+    "key_takeaways": [
+      "Contains 156 records / 6 fields",
+      "Available for free download in Excel, CSV, and PDF formats",
+      "Data sourced from: https://ec.europa.eu/eurostat/databrowser/view/nama_10r_2hhinc/default/table"
+    ]
+  }
+}

@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-28T02:17:30.594Z",
-  "total_datasets": 543,
-  "total_records": 204327,
+  "generated": "2026-11-28T02:17:39.562Z",
+  "total_datasets": 544,
+  "total_records": 204483,
   "categories": [
     {
       "id": "agriculture",
@@ -14,7 +14,7 @@
     },
     {
       "id": "economy",
-      "dataset_count": 8
+      "dataset_count": 9
     },
     {
       "id": "education",
@@ -1649,6 +1649,33 @@
         "xlsx": {
           "name": "el-apascholisi-anergia-ana-perifereia_EL.xlsx",
           "size": 7425
+        }
+      }
+    },
+    {
+      "id": "el-diathesimo-eisodima-noikokyrion-ana-perifereia",
+      "name": "Διαθέσιμο εισόδημα νοικοκυριών ανά περιφέρεια της Ελλάδας (2012–2023)",
+      "category": "economy",
+      "record_count": 156,
+      "columns": [
+        "perifereia",
+        "kodikos_nuts",
+        "etos",
+        "synoliko_eisodima_ekat_eur",
+        "eisodima_ana_katoiko_eur",
+        "eisodima_ana_katoiko_pps"
+      ],
+      "source": "https://ec.europa.eu/eurostat/databrowser/view/nama_10r_2hhinc/default/table",
+      "updated": "2026-11",
+      "size": 43499,
+      "files": {
+        "csv": {
+          "name": "el-diathesimo-eisodima-noikokyrion-ana-perifereia_EL.csv",
+          "size": 14258
+        },
+        "xlsx": {
+          "name": "el-diathesimo-eisodima-noikokyrion-ana-perifereia_EL.xlsx",
+          "size": 11767
         }
       }
     },
