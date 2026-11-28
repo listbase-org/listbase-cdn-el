@@ -1,8 +1,8 @@
 {
   "lang": "el",
-  "generated": "2026-11-27T02:11:32.941Z",
-  "total_datasets": 542,
-  "total_records": 204026,
+  "generated": "2026-11-28T02:17:30.594Z",
+  "total_datasets": 543,
+  "total_records": 204327,
   "categories": [
     {
       "id": "agriculture",
@@ -50,7 +50,7 @@
     },
     {
       "id": "language",
-      "dataset_count": 7
+      "dataset_count": 8
     },
     {
       "id": "law",
@@ -5854,6 +5854,32 @@
         "xlsx": {
           "name": "el-elot-743-metagrafi_EL.xlsx",
           "size": 7831
+        }
+      }
+    },
+    {
+      "id": "el-ethnika-onomata",
+      "name": "Εθνικά ονόματα (εθνώνυμα) στα ελληνικά",
+      "category": "language",
+      "record_count": 301,
+      "columns": [
+        "name",
+        "group",
+        "noun_masculine",
+        "noun_feminine",
+        "adjective"
+      ],
+      "source": "https://el.wikipedia.org/wiki/Κατάλογος_εθνικών_ονομάτων",
+      "updated": "2026-11",
+      "size": 81937,
+      "files": {
+        "csv": {
+          "name": "el-ethnika-onomata_EL.csv",
+          "size": 45904
+        },
+        "xlsx": {
+          "name": "el-ethnika-onomata_EL.xlsx",
+          "size": 21440
         }
       }
     },
